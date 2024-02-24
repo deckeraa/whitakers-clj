@@ -20,6 +20,11 @@ agricolar.um         ADJ    3 2 GEN P X POS
 agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon
 farmer-; relating to farmers;")
 
+(deftest dictionary-entry-from-pieces-test
+  (testing "adjective"
+    (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
+           "agricolaris, agricolaris, agricolare"))))
+
 (deftest parse-single-word-output-test
   (testing "amo"
     (let [parsed-obj (parse-single-word-output amo-paragraph)]
