@@ -33,3 +33,4 @@ farmer-; relating to farmers;")
       (is (= (:dictionary-entry parsed-obj) "agricola, agricolae"))
       (is (= (:definition parsed-obj) "farmer, cultivator, gardener, agriculturist; plowman, countryman, peasant;"))
       )))
+
