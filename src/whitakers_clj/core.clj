@@ -53,3 +53,18 @@
         part-of-speech (part-of-speech (get-in pieces [0 1]))]
     ((parse-by-part-of-speech part-of-speech) pieces)))
 
+(defn is-parsing-options-line? [line]
+  (boolean (re-find #"     " line)))
+
+(defn split-paragraphs
+  ([paragraphs]
+   (split-paragraphs paragraphs []))
+  ([paragraphs already-split-paragraphs]
+   (if (empty? paragraphs)
+     already-split-paragraphs
+     (let [lines (clojure.string/split-lines paragraphs)
+           first-paragraph-options (take-while is-parsing-options-line? lines)
+           num-option-lines (count first-paragraph-options)
+           first-paragraph (clojure.string/join "\n" (take (+ 2 num-option-lines) lines))
+           remainder (clojure.string/join "\n" (drop (+ 2 num-option-lines) lines))]
+       (split-paragraphs remainder (concat already-split-paragraphs [first-paragraph]))))))
