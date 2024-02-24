@@ -10,6 +10,11 @@ love, like; fall in love with; be fond of; have a tendency to;")
 (def agricolarum-paragraph
 "agricol.arum         N      1 1 GEN P M                 
 agricola, agricolae  N (1st) M   [XAXBO]  
+farmer, cultivator, gardener, agriculturist; plowman, countryman, peasant;")
+
+(def agricolarum-paragraphs
+"agricol.arum         N      1 1 GEN P M                 
+agricola, agricolae  N (1st) M   [XAXBO]  
 farmer, cultivator, gardener, agriculturist; plowman, countryman, peasant;
 agricolar.um         ADJ    3 2 GEN P X POS             
 agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon
@@ -18,20 +23,20 @@ farmer-; relating to farmers;")
 (deftest parse-single-word-output-test
   (testing "amo"
     (let [parsed-obj (parse-single-word-output amo-paragraph)]
-      (is (= (:sectioned-word parsed-obj) "am.o"))
-      (is (= (:part-of-speech parsed-obj) :verb))
-      (is (= (:conjugation parsed-obj) 1))))
+      (is (= (get-in parsed-obj [:sectioned-word]) "am.o"))
+      (is (= (get-in parsed-obj [:part-of-speech]) :verb))
+      (is (= (get-in parsed-obj [:conjugation]) 1))))
   (testing "agricolarum"
     (let [parsed-obj (parse-single-word-output agricolarum-paragraph)]
-      (is (= (:stem parsed-obj) "agricol"))
-      (is (= (:ending parsed-obj) "arum"))
-      (is (= (:part-of-speech parsed-obj) :noun))
-      (is (= (:declension parsed-obj) 1))
-      (is (= (:case parsed-obj) :genitive))
-      (is (= (:number parsed-obj) :plural))
-      (is (= (:gender parsed-obj) :masculine))
-      (is (= (:dictionary-entry parsed-obj) "agricola, agricolae"))
-      (is (= (:definition parsed-obj) "farmer, cultivator, gardener, agriculturist; plowman, countryman, peasant;"))
+      (is (= (get-in parsed-obj [:stem]) "agricol"))
+      (is (= (get-in parsed-obj [:ending]) "arum"))
+      (is (= (get-in parsed-obj [:part-of-speech]) :noun))
+      (is (= (get-in parsed-obj [:declension]) 1))
+      (is (= (get-in parsed-obj [:case]) :genitive))
+      (is (= (get-in parsed-obj [:number]) :plural))
+      (is (= (get-in parsed-obj [:gender]) :masculine))
+      (is (= (get-in parsed-obj [:dictionary-entry]) "agricola, agricolae"))
+      (is (= (get-in parsed-obj [:definition]) "farmer, cultivator, gardener, agriculturist; plowman, countryman, peasant;"))
       (is (= (get-in parsed-obj [:dictionary-code :freq-text]) "In top 10 percent")))))
 
 (def vis-paragraphs

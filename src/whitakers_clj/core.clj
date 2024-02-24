@@ -22,6 +22,19 @@
    "F" :feminine
    "N" :neuter})
 
+(defn parse-noun-option-line [pieces]
+  (let [sectioned-word (get pieces 0)
+        [stem ending] (clojure.string/split sectioned-word #"\.")]
+    {:sectioned-word sectioned-word
+     :stem stem
+     :ending ending
+     :part-of-speech (part-of-speech (get pieces 1))
+     :declension (parse-long (get pieces 2))
+     ;; :variant (parse-long (get pieces 3)) ;; not sure this means anything grammatical
+     :case (grammatical-case (get pieces 4))
+     :number (grammatical-number (get pieces 5))
+     :gender (gender (get pieces 6))}))
+
 (defn add-verb-pieces [pieces]
   {:sectioned-word (get-in pieces [0 0])
    :part-of-speech (part-of-speech (get-in pieces [0 1]))
@@ -29,7 +42,9 @@
 
 (defn add-noun-pieces [pieces]
   (let [sectioned-word (get-in pieces [0 0])
-        [stem ending] (clojure.string/split sectioned-word #"\.")]
+        [stem ending] (clojure.string/split sectioned-word #"\.")
+        dictionary-entry-line (last (drop-last pieces))
+        definition-line (last pieces)]
     {:sectioned-word sectioned-word
      :stem stem
      :ending ending
@@ -39,8 +54,8 @@
      :case (grammatical-case (get-in pieces [0 4]))
      :number (grammatical-number (get-in pieces [0 5]))
      :gender (gender (get-in pieces [0 6]))
-     :dictionary-entry (str (get-in pieces [1 0]) " " (get-in pieces [1 1]))
-     :definition (clojure.string/join " " (get pieces 2))
+     :dictionary-entry (str (get dictionary-entry-line 0) " " (get dictionary-entry-line 1))
+     :definition (clojure.string/join " " definition-line)
      :dictionary-code (parse-dictionary-code (get-in pieces [1 5]))}))
 
 (def parse-by-part-of-speech
