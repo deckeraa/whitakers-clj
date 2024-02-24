@@ -45,15 +45,8 @@
         [stem ending] (clojure.string/split sectioned-word #"\.")
         dictionary-entry-line (last (drop-last pieces))
         definition-line (last pieces)]
-    {:sectioned-word sectioned-word
-     :stem stem
-     :ending ending
-     :part-of-speech (part-of-speech (get-in pieces [0 1]))
-     :declension (parse-long (get-in pieces [0 2]))
-     ;; :variant (parse-long (get-in pieces [0 3])) ;; not sure this means anything grammatical
-     :case (grammatical-case (get-in pieces [0 4]))
-     :number (grammatical-number (get-in pieces [0 5]))
-     :gender (gender (get-in pieces [0 6]))
+    {:options (mapv parse-noun-option-line (drop-last 2 pieces))
+     :part-of-speech :noun
      :dictionary-entry (str (get dictionary-entry-line 0) " " (get dictionary-entry-line 1))
      :definition (clojure.string/join " " definition-line)
      :dictionary-code (parse-dictionary-code (get-in pieces [1 5]))}))
