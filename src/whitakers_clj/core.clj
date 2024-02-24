@@ -1,4 +1,5 @@
-(ns whitakers-clj.core)
+(ns whitakers-clj.core
+  (:require [whitakers-clj.dictionary-codes :refer [parse-dictionary-code]]))
 
 (def part-of-speech
   {"N" :noun
@@ -39,7 +40,8 @@
      :number (grammatical-number (get-in pieces [0 5]))
      :gender (gender (get-in pieces [0 6]))
      :dictionary-entry (str (get-in pieces [1 0]) " " (get-in pieces [1 1]))
-     :definition (clojure.string/join " " (get pieces 2))}))
+     :definition (clojure.string/join " " (get pieces 2))
+     :dictionary-code (parse-dictionary-code (get-in pieces [1 5]))}))
 
 (def parse-by-part-of-speech
   {:verb add-verb-pieces

@@ -32,5 +32,5 @@ farmer-; relating to farmers;")
       (is (= (:gender parsed-obj) :masculine))
       (is (= (:dictionary-entry parsed-obj) "agricola, agricolae"))
       (is (= (:definition parsed-obj) "farmer, cultivator, gardener, agriculturist; plowman, countryman, peasant;"))
-      )))
+      (is (= (get-in parsed-obj [:dictionary-code :freq-text]) "In top 10 percent")))))
 

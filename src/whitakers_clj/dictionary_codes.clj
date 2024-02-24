@@ -124,14 +124,16 @@
   "The Dictionary Codes always contain five letters and are bracketed.
    The letters signify things for AGE, AREA, GEO, FREQ, SOURCE, respectively
    E.g. [XAXBO]"
-  [dict-string inflection?]
-  {:age (if inflection?
-          (inflection-age (str (get dict-string 1)))
-          (dictionary-age (str (get dict-string 1))))
-   :area (area (str (get dict-string 2)))
-   :geo (geo (str (get dict-string 3)))
-   :freq-code (keyword (str (get dict-string 4)))
-   :freq-text (if inflection?
-                (freq-for-inflections-helptext (str (get dict-string 4)))
-                (freq-for-dictionary-entries-helptext (str (get dict-string 4))))
-   :source (source (str (get dict-string 5)))})
+  ([dict-string]
+   (parse-dictionary-code dict-string false))
+  ([dict-string inflection?]
+   {:age (if inflection?
+           (inflection-age (str (get dict-string 1)))
+           (dictionary-age (str (get dict-string 1))))
+    :area (area (str (get dict-string 2)))
+    :geo (geo (str (get dict-string 3)))
+    :freq-code (keyword (str (get dict-string 4)))
+    :freq-text (if inflection?
+                 (freq-for-inflections-helptext (str (get dict-string 4)))
+                 (freq-for-dictionary-entries-helptext (str (get dict-string 4))))
+    :source (source (str (get dict-string 5)))}))
