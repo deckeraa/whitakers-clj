@@ -1,6 +1,7 @@
 (ns whitakers-clj.core
   (:require [whitakers-clj.dictionary-codes :refer [parse-dictionary-code]]
             [clojure.java.shell :refer [sh]])
+  (:use clojure.pprint)
   (:gen-class))
 
 (def part-of-speech
@@ -209,6 +210,27 @@
 (defn parse-paragraphs [paragraphs]
   (mapv parse-single-word-output (split-paragraphs paragraphs)))
 
+(defn split-sections [sections]
+  (clojure.string/split sections #"(\n\n|\*\n)"))
+
+(defn parse-sections
+  ([sections]
+   (parse-sections sections {:condense-entries? true}))
+  ([sections {:keys [condense-entries?]}]
+   (let [parsed (mapv parse-paragraphs (split-sections sections))]
+     (if condense-entries?
+       (mapv first parsed)
+       parsed))))
+
+;; (defn pruned-parse [parsed]
+;;   (map ))
+
+(defn word-frequency [parsed]
+  (as-> parsed $
+                                        ;(map first $)
+    (map :dictionary-entry $)
+    ))
+
 ;; Whitaker's Words must be run as ./bin/words from the project folder,
 ;; otherwise it says "There is no INFLECTS.SEC file."
 (def PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER "../whitakers-words")
@@ -216,7 +238,10 @@
 (defn -main [& args]
   (let [args-to-passthrough (clojure.string/join " " args)
         result (sh "./bin/words" args-to-passthrough
-                   :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER)]
+                   :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER)
+        parsed (parse-sections (:out result) {:condense-entries? false})]
     (println "Output from shell command:")
     (println (:out result))
-    (println (parse-paragraphs (:out result)))))
+    (pprint parsed)
+    (println "\n")
+    (println (word-frequency parsed))))
