@@ -28,6 +28,26 @@
    "COMP" :comparitive
    "SUPER" :superlative})
 
+(def tense
+  {"PRES" :present
+   "IMPF" :imperfect
+   "FUT"  :future
+   "PERF" :perfect
+   "PLUP" :pluperfect
+   "FUTP" :future-perfect})
+
+(def voice
+  {"ACTIVE" :active
+   "PASSIVE" :passive})
+
+(def mood
+  {"IND" :indicative
+   "SUB" :subjunctive
+   "IMP" :imperative
+   "INF" :infinitive
+   "PPL" :participle
+   })
+
 (defn dictionary-entry-from-pieces [pieces]
   (->> (take-while #(not (part-of-speech %)) pieces)
        (clojure.string/join " " )
@@ -93,8 +113,24 @@
      :definition (clojure.string/join " " definition-line)
      :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))}))
 
+(defn parse-verb-option-line [pieces]
+  (let [sectioned-word (get pieces 0)
+        [stem ending] (clojure.string/split sectioned-word #"\.")]
+    {:sectioned-word sectioned-word
+     :stem stem
+     :ending ending
+     :part-of-speech :verb
+     :conjugation (parse-long (get pieces 2))
+     ;; :variant (parse-long (get pieces 3)) ;; not sure this means anything grammatical
+     :tense (tense (get pieces 4))
+     :voice (voice (get pieces 5))
+     :mood (mood (get pieces 6))
+     :person (parse-long (get pieces 7))
+     :number (grammatical-number (get pieces 8))}))
+
 (defn add-verb-pieces [pieces]
-  {:sectioned-word (get-in pieces [0 0])
+  {:options (mapv parse-verb-option-line (drop-last 2 pieces))
+   :sectioned-word (get-in pieces [0 0])
    :part-of-speech (part-of-speech (get-in pieces [0 1]))
    :conjugation (parse-long (get-in pieces [0 2]))})
 
