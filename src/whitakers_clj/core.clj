@@ -1,5 +1,7 @@
 (ns whitakers-clj.core
-  (:require [whitakers-clj.dictionary-codes :refer [parse-dictionary-code]]))
+  (:require [whitakers-clj.dictionary-codes :refer [parse-dictionary-code]]
+            [clojure.java.shell :refer [sh]])
+  (:gen-class))
 
 (def part-of-speech
   {"ADJ" :adjective
@@ -190,3 +192,15 @@
 
 (defn parse-paragraphs [paragraphs]
   (mapv parse-single-word-output (split-paragraphs paragraphs)))
+
+;; Whitaker's Words must be run as ./bin/words from the project folder,
+;; otherwise it says "There is no INFLECTS.SEC file."
+(def PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER "../whitakers-words")
+
+(defn -main [& args]
+  (let [args-to-passthrough (clojure.string/join " " args)
+        result (sh "./bin/words" args-to-passthrough
+                   :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER)]
+    (println "Output from shell command:")
+    (println (:out result))
+    (println (parse-paragraphs (:out result)))))
