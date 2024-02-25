@@ -86,12 +86,18 @@ good, honest, brave, noble, kind, pleasant, right, useful; valid; healthy;
   (testing "adjective"
     (is (= (dictionary-code-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
            "[XAXES]")))
-  (testing "adjective"
+  (testing "noun"
     (is (= (dictionary-code-from-pieces (clojure.string/split "agricola, agricolae  N (1st) M   [XAXBO]  " #" "))
            "[XAXBO]")))
+  (testing "pronoun"
+    (is (= (dictionary-code-from-pieces (clojure.string/split "is, ea, id  PRON   [XXXAX]  " #" "))
+           "[XXXAX]")))
   (testing "verb"
     (is (= (dictionary-code-from-pieces (clojure.string/split "amo, amare, amavi, amatus  V (1st)   [XXXAO]  " #" "))
-           "[XXXAO]"))))
+           "[XXXAO]")))
+  (testing "no dictionary entry (e.g. 'ego')"
+    (is (= (dictionary-code-from-pieces (clojure.string/split " [XXXAX]  " #" "))
+           "[XXXAX]"))))
 
 (deftest parse-single-word-output-test
   (testing "amo"
@@ -120,7 +126,19 @@ good, honest, brave, noble, kind, pleasant, right, useful; valid; healthy;
       (is (= (get-in parsed-obj [:part-of-speech]) :noun))
       (is (= (get-in parsed-obj [:dictionary-entry]) "agricola, agricolae"))
       (is (= (get-in parsed-obj [:definition]) "farmer, cultivator, gardener, agriculturist; plowman, countryman, peasant;"))
-      (is (= (get-in parsed-obj [:dictionary-code :freq-text]) "In top 10 percent")))))
+      (is (= (get-in parsed-obj [:dictionary-code :freq-text]) "In top 10 percent"))))
+  (testing "ego"
+    (let [parsed-obj (parse-single-word-output ego-paragraph)]
+      (is (= (get-in parsed-obj [:options 0 :word]) "ego"))
+      (is (= (get-in parsed-obj [:options 0 :part-of-speech]) :pronoun))
+      (is (= (get-in parsed-obj [:options 0 :declension]) 5))
+      (is (= (get-in parsed-obj [:options 0 :case]) :nominative))
+      (is (= (get-in parsed-obj [:options 0 :number]) :singular))
+      (is (= (get-in parsed-obj [:options 0 :gender]) :common))
+      (is (= (get-in parsed-obj [:part-of-speech]) :pronoun))
+      (is (= (get-in parsed-obj [:dictionary-entry]) nil))
+      (is (= (get-in parsed-obj [:definition]) "I, me (PERS); myself (REFLEX);"))
+      (is (= (get-in parsed-obj [:dictionary-code :freq-code]) :A)))))
 
 (deftest parse-paragraphs-test
   (testing "agricolarum"

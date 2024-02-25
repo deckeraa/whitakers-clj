@@ -2,9 +2,10 @@
   (:require [whitakers-clj.dictionary-codes :refer [parse-dictionary-code]]))
 
 (def part-of-speech
-  {"N" :noun
-   "V" :verb
-   "ADJ" :adjective})
+  {"ADJ" :adjective
+   "N" :noun
+   "PRON" :pronoun
+   "V" :verb})
 
 (def grammatical-case
   {"NOM" :nominative
@@ -21,7 +22,8 @@
 (def gender
   {"M" :masculine
    "F" :feminine
-   "N" :neuter})
+   "N" :neuter
+   "C" :common})
 
 (def adjective-type
   {"POS" :positive
@@ -49,21 +51,26 @@
    })
 
 (defn dictionary-entry-from-pieces [pieces]
-  (->> (take-while #(not (part-of-speech %)) pieces)
-       (clojure.string/join " " )
-       clojure.string/trim))
+  (let [pieces (remove empty? pieces)]
+    (if (= 1 (count pieces))
+      nil ;; no dictionary entry, see "ego" for an example.
+      (->> (take-while #(not (part-of-speech %)) pieces)
+           (clojure.string/join " " )
+           clojure.string/trim))))
 
 (defn dictionary-code-from-pieces [pieces]
-  (let [pieces (drop-while #(not (part-of-speech %)) pieces)
-        pos (part-of-speech (first pieces))
-        pieces (case pos
-                 :noun (nthrest pieces 3)
-                 :verb (nthrest pieces 2)
-                 (rest pieces))]
-    (->> pieces
-         (drop-while empty?)
-         first
-         clojure.string/trim)))
+  (let [pieces (remove empty? pieces)]
+    (if (= 1 (count pieces))
+      (clojure.string/trim (first pieces)) ;; no dictionary entry, see "ego" for an example.
+      (let [pieces (drop-while #(not (part-of-speech %)) pieces)
+            pos (part-of-speech (first pieces))
+            pieces (case pos
+                     :noun (nthrest pieces 3)
+                     :verb (nthrest pieces 2)
+                     (rest pieces))]
+        (->> pieces
+             first
+             clojure.string/trim)))))
 
 (defn parse-adjective-option-line [pieces]
   (let [sectioned-word (get pieces 0)
@@ -113,6 +120,25 @@
      :definition (clojure.string/join " " definition-line)
      :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))}))
 
+(defn parse-pronoun-option-line [pieces]
+  {:word (get pieces 0)
+   :part-of-speech (part-of-speech (get pieces 1))
+   :declension (parse-long (get pieces 2))
+   :case (grammatical-case (get pieces 4))
+   :number (grammatical-number (get pieces 5))
+   :gender (gender (get pieces 6))})
+
+(defn add-pronoun-pieces [pieces]
+  (let [sectioned-word (get-in pieces [0 0])
+        [stem ending] (clojure.string/split sectioned-word #"\.")
+        dictionary-entry-line (last (drop-last pieces))
+        definition-line (last pieces)]
+    {:options (mapv parse-pronoun-option-line (drop-last 2 pieces))
+     :part-of-speech :pronoun
+     :dictionary-entry (dictionary-entry-from-pieces dictionary-entry-line)
+     :definition (clojure.string/join " " definition-line)
+     :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))}))
+
 (defn parse-verb-option-line [pieces]
   (let [sectioned-word (get pieces 0)
         [stem ending] (clojure.string/split sectioned-word #"\.")]
@@ -137,6 +163,7 @@
 (def parse-by-part-of-speech
   {:adjective add-adjective-pieces
    :noun add-noun-pieces
+   :pronoun add-pronoun-pieces
    :verb add-verb-pieces})
 
 (defn parse-single-word-output [paragraph]
