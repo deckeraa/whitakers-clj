@@ -127,7 +127,13 @@ good, honest, brave, noble, kind, pleasant, right, useful; valid; healthy;
     (let [parsed-obj (parse-paragraphs agricolarum-paragraphs)]
       (is (= (count parsed-obj) 2))
       (is (= (get-in parsed-obj [0 :dictionary-entry "agricola, agricolae"])))
-      (is (= (get-in parsed-obj [1 :dictionary-entry "agricolaris, agricolaris, agricolare"]))))))
+      (is (= (get-in parsed-obj [1 :dictionary-entry "agricolaris, agricolaris, agricolare"])))))
+  (testing "vis"
+    (let [parsed-obj (parse-paragraphs vis-paragraphs)]
+      (is (= (count parsed-obj) 3))
+      (is (= (get-in parsed-obj [0 :dictionary-entry "vis"])))
+      (is (= (get-in parsed-obj [1 :dictionary-entry "vis, vis"])))
+      (is (= (get-in parsed-obj [1 :dictionary-entry "vis, viris"]))))))
 
 (deftest is-parsing-options-line?-test
   (is (= (is-parsing-options-line? "bon.um               ADJ    1 1 NOM S N POS             ") true))
