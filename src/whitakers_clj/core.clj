@@ -187,7 +187,11 @@
            first-paragraph-options (take-while is-parsing-options-line? lines)
            num-option-lines (count first-paragraph-options)
            first-paragraph (clojure.string/join "\n" (take (+ 2 num-option-lines) lines))
-           remainder (clojure.string/join "\n" (drop (+ 2 num-option-lines) lines))]
+           remainder (->> lines
+                          (drop (+ 2 num-option-lines))
+                          (remove #(= "*" %)) ;; "*" is sometimes used to indicate that Words ommitted very rare results for a word. We ignore that.
+                          (clojure.string/join "\n"))
+           ]
        (split-paragraphs remainder (concat already-split-paragraphs [first-paragraph]))))))
 
 (defn parse-paragraphs [paragraphs]

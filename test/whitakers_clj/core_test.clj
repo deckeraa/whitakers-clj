@@ -170,4 +170,22 @@ corn.u               N      4 2 ABL S N
 corn.u               N      4 2 ACC S N                 
 cornu, cornus  N (4th) N   [XXXAO]  
 horn; hoof; beak/tusk/claw; bow; horn/trumpet; end, wing of army; mountain top;"
+          ]))
+  (is (= (split-paragraphs bonum-paragraphs)
+         ["bon.um               N      2 1 ACC S M                 
+bonus, boni  N (2nd) M   [XXXCO]  
+good/moral/honest/brave man; man of honor, gentleman; better/rich people (pl.);"
+          
+          "bon.um               N      2 2 NOM S N                 
+bon.um               N      2 2 VOC S N                 
+bon.um               N      2 2 ACC S N                 
+bonum, boni  N (2nd) N   [XXXAO]  
+good, good thing, profit, advantage; goods (pl.), possessions, wealth, estate;"
+          
+          "bon.um               ADJ    1 1 NOM S N POS             
+bon.um               ADJ    1 1 VOC S N POS             
+bon.um               ADJ    1 1 ACC S M POS             
+bon.um               ADJ    1 1 ACC S N POS             
+bonus, bona -um, melior -or -us, optimus -a -um  ADJ   [XXXAO]  
+good, honest, brave, noble, kind, pleasant, right, useful; valid; healthy;"
           ])))
