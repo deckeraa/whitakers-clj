@@ -238,7 +238,7 @@
   (as-> parsed $
                                         ;(map first $)
     (map :dictionary-entry $)
-    ))
+    (frequencies $)))
 
 ;; Whitaker's Words must be run as ./bin/words from the project folder,
 ;; otherwise it says "There is no INFLECTS.SEC file."
@@ -248,9 +248,9 @@
   (let [args-to-passthrough (clojure.string/join " " args)
         result (sh "./bin/words" args-to-passthrough
                    :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER)
-        parsed (parse-sections (:out result) {:condense-entries? false})]
+        parsed (parse-sections (:out result) {:condense-entries? true})]
     (println "Output from shell command:")
     (println (:out result))
     (pprint parsed)
     (println "\n")
-    (println (word-frequency parsed))))
+    (pprint (word-frequency parsed))))
