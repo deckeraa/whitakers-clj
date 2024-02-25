@@ -25,6 +25,17 @@ farmer-; relating to farmers;")
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
            "agricolaris, agricolaris, agricolare"))))
 
+(deftest dictionary-code-from-pieces-test
+  (testing "adjective"
+    (is (= (dictionary-code-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
+           "[XAXES]")))
+  (testing "adjective"
+    (is (= (dictionary-code-from-pieces (clojure.string/split "agricola, agricolae  N (1st) M   [XAXBO]  " #" "))
+           "[XAXBO]")))
+  (testing "verb"
+    (is (= (dictionary-code-from-pieces (clojure.string/split "amo, amare, amavi, amatus  V (1st)   [XXXAO]  " #" "))
+           "[XXXAO]"))))
+
 (deftest parse-single-word-output-test
   (testing "amo"
     (let [parsed-obj (parse-single-word-output amo-paragraph)]

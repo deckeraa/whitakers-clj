@@ -33,6 +33,18 @@
        (clojure.string/join " " )
        clojure.string/trim))
 
+(defn dictionary-code-from-pieces [pieces]
+  (let [pieces (drop-while #(not (part-of-speech %)) pieces)
+        pos (part-of-speech (first pieces))
+        pieces (case pos
+                 :noun (nthrest pieces 3)
+                 :verb (nthrest pieces 2)
+                 (rest pieces))]
+    (->> pieces
+         (drop-while empty?)
+         first
+         clojure.string/trim)))
+
 (defn add-verb-pieces [pieces]
   {:sectioned-word (get-in pieces [0 0])
    :part-of-speech (part-of-speech (get-in pieces [0 1]))
@@ -60,7 +72,7 @@
      :part-of-speech :noun
      :dictionary-entry (dictionary-entry-from-pieces dictionary-entry-line)
      :definition (clojure.string/join " " definition-line)
-     :dictionary-code (parse-dictionary-code (get-in pieces [1 5]))}))
+     :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))}))
 
 (defn parse-adjective-option-line [pieces]
   (let [sectioned-word (get pieces 0)
@@ -85,7 +97,7 @@
      :part-of-speech :adjective
      :dictionary-entry (dictionary-entry-from-pieces dictionary-entry-line)
      :definition (clojure.string/join " " definition-line)
-     :dictionary-code (parse-dictionary-code (get-in pieces [1 5]))}))
+     :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))}))
 
 (def parse-by-part-of-speech
   {:verb add-verb-pieces
