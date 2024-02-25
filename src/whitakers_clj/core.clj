@@ -231,14 +231,17 @@
        (mapv first parsed) ;; TODO do by word frequency
        parsed))))
 
-;; (defn pruned-parse [parsed]
-;;   (map ))
-
 (defn word-frequency [parsed]
   (as-> parsed $
-                                        ;(map first $)
     (map :dictionary-entry $)
     (frequencies $)))
+
+(defn printed-vocabulary [parsed]
+  (as-> parsed $
+    (map #(str (:dictionary-entry %)
+               ": "
+               (:definition %))
+         $)))
 
 ;; Whitaker's Words must be run as ./bin/words from the project folder,
 ;; otherwise it says "There is no INFLECTS.SEC file."
@@ -252,5 +255,7 @@
     (println "Output from shell command:")
     (println (:out result))
     (pprint parsed)
+    (println "\n")
+    (pprint (printed-vocabulary parsed))
     (println "\n")
     (pprint (word-frequency parsed))))
