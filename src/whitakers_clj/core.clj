@@ -172,10 +172,17 @@
   (let [lines (clojure.string/split-lines paragraph)
         pieces (mapv #(clojure.string/split % #" +") lines)
         part-of-speech (part-of-speech (get-in pieces [0 1]))]
-    ((parse-by-part-of-speech part-of-speech) pieces)))
+    (try
+      ((parse-by-part-of-speech part-of-speech) pieces)
+      (catch Exception ex
+        (println "Hit exception parsing: " part-of-speech paragraph)
+        (println ex)))))
 
 (defn is-parsing-options-line? [line]
   (boolean (re-find #"     " line)))
+
+(defn is-parsing-dictionary-entry-line? [line]
+  (boolean (re-find #"\[\w{5}\]" line)))
 
 (defn split-paragraphs
   ([paragraphs]
@@ -183,16 +190,21 @@
   ([paragraphs already-split-paragraphs]
    (if (empty? paragraphs)
      already-split-paragraphs
-     (let [lines (clojure.string/split-lines paragraphs)
+     (let [lines (remove #(= "*" %) (clojure.string/split-lines paragraphs))
            first-paragraph-options (take-while is-parsing-options-line? lines)
-           num-option-lines (count first-paragraph-options)
-           first-paragraph (clojure.string/join "\n" (take (+ 2 num-option-lines) lines))
-           remainder (->> lines
-                          (drop (+ 2 num-option-lines))
-                          (remove #(= "*" %)) ;; "*" is sometimes used to indicate that Words ommitted very rare results for a word. We ignore that.
-                          (clojure.string/join "\n"))
-           ]
-       (split-paragraphs remainder (concat already-split-paragraphs [first-paragraph]))))))
+           lines (nthrest lines (count first-paragraph-options))
+           dictionary-entry-lines (take-while is-parsing-dictionary-entry-line? lines)
+           lines (nthrest lines (count dictionary-entry-lines))
+           dictionary-entry-line (first dictionary-entry-lines) ;; TODO decide what to do with multiple dictionary entry lines on one entry. Right now we just pick the first. Example: edere
+           definition-lines (take-while #(and (not (is-parsing-options-line? %))
+                                              (not (is-parsing-dictionary-entry-line? %))) lines)
+           lines (nthrest lines (count definition-lines))
+           definition-line (clojure.string/join " " definition-lines)
+           first-paragraph (clojure.string/join "\n" (concat first-paragraph-options
+                                                             [dictionary-entry-line]
+                                                             [definition-line]))]
+       (split-paragraphs (clojure.string/join "\n" lines)
+                         (concat already-split-paragraphs [first-paragraph]))))))
 
 (defn parse-paragraphs [paragraphs]
   (mapv parse-single-word-output (split-paragraphs paragraphs)))

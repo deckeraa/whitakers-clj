@@ -77,6 +77,25 @@ bonus, bona -um, melior -or -us, optimus -a -um  ADJ   [XXXAO]
 good, honest, brave, noble, kind, pleasant, right, useful; valid; healthy;
 *")
 
+(def edere-paragraphs
+"ed.ere               V      3 1 PRES ACTIVE  INF 0 X    
+ed.ere               V      3 1 PRES PASSIVE IMP 2 S    
+ed.ere               V      3 1 FUT  PASSIVE IND 2 S    
+ed.ere               V      3 1 PERF ACTIVE  IND 3 P    
+edo, edere, edi, esus  V (3rd) TRANS   [XXXCO]  
+edo, edere, edi, essus  V (3rd) TRANS   [XXXCO]  
+eat/consume/devour; eat away (fire/water/disease); destroy; spend money on food
+ed.ere               V      1 1 PRES PASSIVE SUB 2 S    
+edo, edare, edidi, editus  V (1st) TRANS   [XXXAO]  
+eject/emit; put/give forth (buds); beget; bear (fruit); display/evince/exhibit;
+utter solemnly; pronounce/decree (oracle); deliver (message); issue (command);
+publish; disclose, tell, relate, make known; declare, make formal statement;
+cause; see birth of; be birthplace/breeding ground of; debouch (river PASS);
+bring forth,  produce/yield (crops), give birth to (often PASS PERF VPAR);
+notify of suit; nominate for jury; appoint/set (a time); bring witnesses;
+present (documents for inspection; put on (play); hold (banquet); uplift;
+*")
+
 (deftest dictionary-entry-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
@@ -157,6 +176,10 @@ good, honest, brave, noble, kind, pleasant, right, useful; valid; healthy;
   (is (= (is-parsing-options-line? "bon.um               ADJ    1 1 NOM S N POS             ") true))
   (is (= (is-parsing-options-line? "bonum, boni  N (2nd) N   [XXXAO]  ") false)))
 
+(deftest is-parsing-dictionary-entry-line?-test
+  (is (= (is-parsing-dictionary-entry-line? "edo, edere, edi, esus  V (3rd) TRANS   [XXXCO]  ") true))
+  (is (= (is-parsing-dictionary-entry-line? "publish; disclose, tell, relate, make known; declare, make formal statement;") false)))
+
 (deftest split-paragraphs-test
   (is (= (split-paragraphs cornu-paragraphs)
          ["corn.u               N      4 1 ABL S F                 
@@ -188,4 +211,17 @@ bon.um               ADJ    1 1 ACC S M POS
 bon.um               ADJ    1 1 ACC S N POS             
 bonus, bona -um, melior -or -us, optimus -a -um  ADJ   [XXXAO]  
 good, honest, brave, noble, kind, pleasant, right, useful; valid; healthy;"
-          ])))
+          ]))
+  (is (= (split-paragraphs edere-paragraphs)
+         ["ed.ere               V      3 1 PRES ACTIVE  INF 0 X    
+ed.ere               V      3 1 PRES PASSIVE IMP 2 S    
+ed.ere               V      3 1 FUT  PASSIVE IND 2 S    
+ed.ere               V      3 1 PERF ACTIVE  IND 3 P    
+edo, edere, edi, esus  V (3rd) TRANS   [XXXCO]  
+eat/consume/devour; eat away (fire/water/disease); destroy; spend money on food"
+          
+          "ed.ere               V      1 1 PRES PASSIVE SUB 2 S    
+edo, edare, edidi, editus  V (1st) TRANS   [XXXAO]  
+eject/emit; put/give forth (buds); beget; bear (fruit); display/evince/exhibit; utter solemnly; pronounce/decree (oracle); deliver (message); issue (command); publish; disclose, tell, relate, make known; declare, make formal statement; cause; see birth of; be birthplace/breeding ground of; debouch (river PASS); bring forth,  produce/yield (crops), give birth to (often PASS PERF VPAR); notify of suit; nominate for jury; appoint/set (a time); bring witnesses; present (documents for inspection; put on (play); hold (banquet); uplift;"
+          ]))
+  )
