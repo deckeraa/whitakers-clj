@@ -45,10 +45,29 @@
          first
          clojure.string/trim)))
 
-(defn add-verb-pieces [pieces]
-  {:sectioned-word (get-in pieces [0 0])
-   :part-of-speech (part-of-speech (get-in pieces [0 1]))
-   :conjugation (parse-long (get-in pieces [0 2]))})
+(defn parse-adjective-option-line [pieces]
+  (let [sectioned-word (get pieces 0)
+        [stem ending] (clojure.string/split sectioned-word #"\.")]
+    {:sectioned-word sectioned-word
+     :stem stem
+     :ending ending
+     :part-of-speech :adjective
+     :declension (parse-long (get pieces 2))
+     :case (grammatical-case (get pieces 4))
+     :number (grammatical-number (get pieces 5))
+     :gender (gender (get pieces 6))
+     :type (adjective-type (get pieces 7))}))
+
+(defn add-adjective-pieces [pieces]
+  (let [sectioned-word (get-in pieces [0 0])
+        [stem ending] (clojure.string/split sectioned-word #"\.")
+        dictionary-entry-line (last (drop-last pieces))
+        definition-line (last pieces)]
+    {:options (mapv parse-adjective-option-line (drop-last 2 pieces))
+     :part-of-speech :adjective
+     :dictionary-entry (dictionary-entry-from-pieces dictionary-entry-line)
+     :definition (clojure.string/join " " definition-line)
+     :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))}))
 
 (defn parse-noun-option-line [pieces]
   (let [sectioned-word (get pieces 0)
@@ -74,34 +93,15 @@
      :definition (clojure.string/join " " definition-line)
      :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))}))
 
-(defn parse-adjective-option-line [pieces]
-  (let [sectioned-word (get pieces 0)
-        [stem ending] (clojure.string/split sectioned-word #"\.")]
-    {:sectioned-word sectioned-word
-     :stem stem
-     :ending ending
-     :part-of-speech :adjective
-     :declension (parse-long (get pieces 2))
-     ;; :variant (parse-long (get pieces 3)) ;; not sure this means anything grammatical
-     :case (grammatical-case (get pieces 4))
-     :number (grammatical-number (get pieces 5))
-     :gender (gender (get pieces 6))
-     :type (adjective-type (get pieces 7))}))
-
-(defn add-adjective-pieces [pieces]
-  (let [sectioned-word (get-in pieces [0 0])
-        [stem ending] (clojure.string/split sectioned-word #"\.")
-        dictionary-entry-line (last (drop-last pieces))
-        definition-line (last pieces)]
-    {:options (mapv parse-noun-option-line (drop-last 2 pieces))
-     :part-of-speech :adjective
-     :dictionary-entry (dictionary-entry-from-pieces dictionary-entry-line)
-     :definition (clojure.string/join " " definition-line)
-     :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))}))
+(defn add-verb-pieces [pieces]
+  {:sectioned-word (get-in pieces [0 0])
+   :part-of-speech (part-of-speech (get-in pieces [0 1]))
+   :conjugation (parse-long (get-in pieces [0 2]))})
 
 (def parse-by-part-of-speech
-  {:verb add-verb-pieces
-   :noun add-noun-pieces})
+  {:adjective add-adjective-pieces
+   :noun add-noun-pieces
+   :verb add-verb-pieces})
 
 (defn parse-single-word-output [paragraph]
   (let [lines (clojure.string/split-lines paragraph)
@@ -124,3 +124,6 @@
            first-paragraph (clojure.string/join "\n" (take (+ 2 num-option-lines) lines))
            remainder (clojure.string/join "\n" (drop (+ 2 num-option-lines) lines))]
        (split-paragraphs remainder (concat already-split-paragraphs [first-paragraph]))))))
+
+(defn parse-paragraphs [paragraphs]
+  (mapv parse-single-word-output (split-paragraphs paragraphs)))

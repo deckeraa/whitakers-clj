@@ -56,6 +56,13 @@ farmer-; relating to farmers;")
       (is (= (get-in parsed-obj [:definition]) "farmer, cultivator, gardener, agriculturist; plowman, countryman, peasant;"))
       (is (= (get-in parsed-obj [:dictionary-code :freq-text]) "In top 10 percent")))))
 
+(deftest parse-paragraphs-test
+  (testing "agricolarum"
+    (let [parsed-obj (parse-paragraphs agricolarum-paragraphs)]
+      (is (= (count parsed-obj) 2))
+      (is (= (get-in parsed-obj [0 :dictionary-entry "agricola, agricolae"])))
+      (is (= (get-in parsed-obj [1 :dictionary-entry "agricolaris, agricolaris, agricolare"]))))))
+
 (def vis-paragraphs
 "vis                  V      6 2 PRES ACTIVE  IND 2 S    
 vis  X   [XXXAX]  
