@@ -114,6 +114,10 @@ present (documents for inspection; put on (play); hold (banquet); uplift;
   (testing "verb"
     (is (= (dictionary-code-from-pieces (clojure.string/split "amo, amare, amavi, amatus  V (1st)   [XXXAO]  " #" "))
            "[XXXAO]")))
+  (testing "verb with an X?"
+    "vis  X   [XXXAX]  "
+    (is (= (dictionary-code-from-pieces (clojure.string/split "amo, amare, amavi, amatus  V (1st)   [XXXAO]  " #" "))
+           "[XXXAO]")))
   (testing "no dictionary entry (e.g. 'ego')"
     (is (= (dictionary-code-from-pieces (clojure.string/split " [XXXAX]  " #" "))
            "[XXXAX]"))))
@@ -132,7 +136,11 @@ present (documents for inspection; put on (play); hold (banquet); uplift;
       (is (= (get-in parsed-obj [:options 0 :person]) 1))
       (is (= (get-in parsed-obj [:sectioned-word]) "am.o"))
       (is (= (get-in parsed-obj [:part-of-speech]) :verb))
-      (is (= (get-in parsed-obj [:conjugation]) 1))))
+      (is (= (get-in parsed-obj [:conjugation]) 1))
+      (is (= (get-in parsed-obj [:dictionary-entry]) "amo, amare, amavi, amatus"))
+      (is (= (get-in parsed-obj [:definition]) "love, like; fall in love with; be fond of; have a tendency to;"))
+      (is (= (get-in parsed-obj [:dictionary-code :freq-code]) :A))
+      ))
   (testing "agricolarum"
     (let [parsed-obj (parse-single-word-output agricolarum-paragraph)]
       (is (= (get-in parsed-obj [:options 0 :stem]) "agricol"))

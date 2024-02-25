@@ -61,19 +61,22 @@
            (clojure.string/join " " )
            clojure.string/trim))))
 
+;; (defn dictionary-code-from-pieces [pieces]
+;;   (let [pieces (remove empty? pieces)]
+;;     (if (= 1 (count pieces))
+;;       (clojure.string/trim (first pieces)) ;; no dictionary entry, see "ego" for an example.
+;;       (let [pieces (drop-while #(not (part-of-speech %)) pieces)
+;;             pos (part-of-speech (first pieces))
+;;             pieces (case pos
+;;                      :noun (nthrest pieces 3)
+;;                      :verb (nthrest pieces 2)
+;;                      (rest pieces))]
+;;         (->> pieces
+;;              first
+;;              clojure.string/trim)))))
+
 (defn dictionary-code-from-pieces [pieces]
-  (let [pieces (remove empty? pieces)]
-    (if (= 1 (count pieces))
-      (clojure.string/trim (first pieces)) ;; no dictionary entry, see "ego" for an example.
-      (let [pieces (drop-while #(not (part-of-speech %)) pieces)
-            pos (part-of-speech (first pieces))
-            pieces (case pos
-                     :noun (nthrest pieces 3)
-                     :verb (nthrest pieces 2)
-                     (rest pieces))]
-        (->> pieces
-             first
-             clojure.string/trim)))))
+  (re-find #"\[\w{5}\]" (clojure.string/join " " pieces)))
 
 (defn parse-adjective-option-line [pieces]
   (let [sectioned-word (get pieces 0)
@@ -158,10 +161,16 @@
      :number (grammatical-number (get pieces 8))}))
 
 (defn add-verb-pieces [pieces]
-  {:options (mapv parse-verb-option-line (drop-last 2 pieces))
-   :sectioned-word (get-in pieces [0 0])
-   :part-of-speech (part-of-speech (get-in pieces [0 1]))
-   :conjugation (parse-long (get-in pieces [0 2]))})
+  (let [dictionary-entry-line (last (drop-last pieces))
+        definition-line (last pieces)]
+    {:options (mapv parse-verb-option-line (drop-last 2 pieces))
+     :sectioned-word (get-in pieces [0 0])
+     :part-of-speech (part-of-speech (get-in pieces [0 1]))
+     :conjugation (parse-long (get-in pieces [0 2]))
+     :dictionary-entry (dictionary-entry-from-pieces dictionary-entry-line)
+     :definition (clojure.string/join " " definition-line)
+     :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))
+     }))
 
 (def parse-by-part-of-speech
   {:adjective add-adjective-pieces
@@ -219,7 +228,7 @@
   ([sections {:keys [condense-entries?]}]
    (let [parsed (mapv parse-paragraphs (split-sections sections))]
      (if condense-entries?
-       (mapv first parsed)
+       (mapv first parsed) ;; TODO do by word frequency
        parsed))))
 
 ;; (defn pruned-parse [parsed]
