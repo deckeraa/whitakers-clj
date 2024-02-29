@@ -175,7 +175,7 @@
      :number (grammatical-number (get pieces 8))}))
 
 (defn add-unknown-pieces [pieces]
-  (let [word (get pieces 0)]
+  (let [word (get-in pieces [0 0])]
     {:word word
      :part-of-speech :unknown
      }))
@@ -258,14 +258,14 @@
 
 (defn word-frequency [parsed]
   (as-> parsed $
-    (map :dictionary-entry $)
+    (map #(or (:dictionary-entry %) (:word %)) $)
     (frequencies $)))
 
 (defn printed-vocabulary [parsed]
   (as-> parsed $
-    (map #(str (:dictionary-entry %)
+    (map #(str (or (:dictionary-entry %) (:word %))
                ": "
-               (:definition %))
+               (or (:definition %) "UNKNOWN"))
          $)))
 
 (defn remove-macrons [s]
