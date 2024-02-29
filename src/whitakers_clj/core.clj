@@ -243,12 +243,25 @@
                (:definition %))
          $)))
 
+(defn remove-macrons [s]
+  (-> s
+      (clojure.string/replace #"ā" "a")
+      (clojure.string/replace #"Ā" "A")
+      (clojure.string/replace #"ē" "e")
+      (clojure.string/replace #"Ē" "E")
+      (clojure.string/replace #"ī" "i")
+      (clojure.string/replace #"Ī" "I")
+      (clojure.string/replace #"ō" "o")
+      (clojure.string/replace #"Ō" "O")
+      (clojure.string/replace #"ū" "u")
+      (clojure.string/replace #"Ū" "U")))
+
 ;; Whitaker's Words must be run as ./bin/words from the project folder,
 ;; otherwise it says "There is no INFLECTS.SEC file."
 (def PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER "../whitakers-words")
 
 (defn -main [& args]
-  (let [args-to-passthrough (clojure.string/join " " args)
+  (let [args-to-passthrough (remove-macrons (clojure.string/join " " args))
         result (sh "./bin/words" args-to-passthrough
                    :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER)
         parsed (parse-sections (:out result) {:condense-entries? true})]

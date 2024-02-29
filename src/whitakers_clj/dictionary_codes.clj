@@ -97,7 +97,6 @@
    "F" "Very rare: singular examples"
    "I" "Inscription: only citation is inscription"})
 
-
 ;; See whitakers-words/src/words_engine/words_engine-list_package.adb
 (def inflection-age
   {"X" "Always  "
