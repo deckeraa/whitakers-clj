@@ -9,6 +9,8 @@
    "ADV" :adverb
    "N" :noun
    "PRON" :pronoun
+   "UNKNOWN" :unknown
+   "========" :unknown
    "V" :verb})
 
 (def grammatical-case
@@ -172,6 +174,12 @@
      :person (parse-long (get pieces 7))
      :number (grammatical-number (get pieces 8))}))
 
+(defn add-unknown-pieces [pieces]
+  (let [word (get pieces 0)]
+    {:word word
+     :part-of-speech :unknown
+     }))
+
 (defn add-verb-pieces [pieces]
   (let [dictionary-entry-line (last (drop-last pieces))
         definition-line (last pieces)]
@@ -189,6 +197,7 @@
    :adverb add-adverb-pieces
    :noun add-noun-pieces
    :pronoun add-pronoun-pieces
+   :unknown add-unknown-pieces
    :verb add-verb-pieces})
 
 (defn parse-single-word-output [paragraph]

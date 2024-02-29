@@ -106,6 +106,9 @@ formerly; once, once upon a time; in the future;")
 fortiter, fortius, fortissime  ADV   [XXXDX]    lesser
 strongly; bravely; boldly;")
 
+(def unknown-paragraphs
+  "Phoebus                        ========   UNKNOWN    ")
+
 (deftest dictionary-entry-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
@@ -212,7 +215,12 @@ formerly; once, once upon a time; in the future;"
       (is (= (count parsed-obj) 3))
       (is (= (get-in parsed-obj [0 :dictionary-entry "vis"])))
       (is (= (get-in parsed-obj [1 :dictionary-entry "vis, vis"])))
-      (is (= (get-in parsed-obj [1 :dictionary-entry "vis, viris"]))))))
+      (is (= (get-in parsed-obj [1 :dictionary-entry "vis, viris"])))))
+  (testing "unknown"
+    (let [parsed-obj (parse-paragraphs unknown-paragraphs)]
+      (is (= (count parsed-obj) 1))
+      (is (= (get-in parsed-obj [0 :word "Phoebus"])))
+      (is (= (get-in parsed-obj [0 :part-of-speech :unknown]))))))
 
 (deftest is-parsing-options-line?-test
   (is (= (is-parsing-options-line? "bon.um               ADJ    1 1 NOM S N POS             ") true))
