@@ -4,6 +4,16 @@
   (:use clojure.pprint)
   (:gen-class))
 
+(def parts-of-speech-not-yet-implemented
+  {"PACK" :propack?
+   "NUM"  :numeral
+   "VPAR" :verbal-participle?
+   "SUPINE" :supine
+   "PREP" :preposition
+   "INTERJ" :interjection
+   "TACKON" :tackon
+   })
+
 (def part-of-speech
   {"ADJ" :adjective
    "ADV" :adverb
