@@ -7,6 +7,7 @@
 (def part-of-speech
   {"ADJ" :adjective
    "ADV" :adverb
+   "CONJ" :conjunction
    "N" :noun
    "PRON" :pronoun
    "UNKNOWN" :unknown
@@ -116,6 +117,16 @@
      :definition (clojure.string/join " " definition-line)
      :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))}))
 
+(defn add-conjunction-pieces [pieces]
+  (let [word (get-in pieces [0 0])
+        dictionary-entry-line (last (drop-last pieces))
+        definition-line (last pieces)]
+    {:word word
+     :part-of-speech :conjunction
+     :dictionary-entry (dictionary-entry-from-pieces dictionary-entry-line)
+     :definition (clojure.string/join " " definition-line)
+     :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))}))
+
 (defn parse-noun-option-line [pieces]
   (let [sectioned-word (get pieces 0)
         [stem ending] (clojure.string/split sectioned-word #"\.")]
@@ -195,6 +206,7 @@
 (def parse-by-part-of-speech
   {:adjective add-adjective-pieces
    :adverb add-adverb-pieces
+   :conjunction add-conjunction-pieces
    :noun add-noun-pieces
    :pronoun add-pronoun-pieces
    :unknown add-unknown-pieces
@@ -274,6 +286,9 @@
                      (clojure.string/lower-case word2)))
           $)))
 
+(defn unknown-words [parsed]
+  (filter #(= (:part-of-speech %) :unknown) parsed))
+
 (defn remove-macrons [s]
   (-> s
       (clojure.string/replace #"ā" "a")
@@ -301,5 +316,7 @@
     (pprint parsed)
     (println "\n")
     (pprint (printed-vocabulary parsed))
+    (println "\n")
+    (pprint (unknown-words parsed))
     (println "\n")
     (pprint (word-frequency parsed))))

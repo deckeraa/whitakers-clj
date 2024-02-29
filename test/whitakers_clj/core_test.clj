@@ -109,6 +109,11 @@ strongly; bravely; boldly;")
 (def unknown-paragraphs
   "Phoebus                        ========   UNKNOWN    ")
 
+(def sed-paragraph
+  "sed                  CONJ                               
+sed  CONJ   [XXXAX]  
+but, but also; yet; however, but in fact/truth; not to mention; yes but;")
+
 (deftest dictionary-entry-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
@@ -117,8 +122,10 @@ strongly; bravely; boldly;")
     (is (= (dictionary-entry-from-pieces (clojure.string/split "olim  ADV   [XXXAX]  " #" "))
            "olim"))
     (is (= (dictionary-entry-from-pieces (clojure.string/split "fortiter, fortius, fortissime  ADV   [XXXDX]    lesser" #" "))
-           "fortiter, fortius, fortissime"))
-    ))
+           "fortiter, fortius, fortissime")))
+  (testing "conjunction"
+    (is (= (dictionary-entry-from-pieces (clojure.string/split "sed  CONJ   [XXXAX]  " #" "))
+           "sed"))))
 
 (deftest dictionary-code-from-pieces-test
   (testing "adjective"
@@ -130,6 +137,9 @@ strongly; bravely; boldly;")
     (is (= (dictionary-code-from-pieces (clojure.string/split "fortiter, fortius, fortissime  ADV   [XXXDX]    lesser" #" "))
            "[XXXDX]"))
     )
+  (testing "conjunction"
+    (is (= (dictionary-code-from-pieces (clojure.string/split "sed  CONJ   [XXXAX]  " #" "))
+           "[XXXAX]")))
   (testing "noun"
     (is (= (dictionary-code-from-pieces (clojure.string/split "agricola, agricolae  N (1st) M   [XAXBO]  " #" "))
            "[XAXBO]")))
@@ -192,9 +202,6 @@ strongly; bravely; boldly;")
       (is (= (get-in parsed-obj [:definition]) "I, me (PERS); myself (REFLEX);"))
       (is (= (get-in parsed-obj [:dictionary-code :freq-code]) :A))))
   (testing "olim"
-    "olim                 ADV    POS                         
-olim  ADV   [XXXAX]  
-formerly; once, once upon a time; in the future;"
     (let [parsed-obj (parse-single-word-output olim-paragraph)]
       (is (= (get-in parsed-obj [:word]) "olim"))
       (is (= (get-in parsed-obj [:part-of-speech]) :adverb))
@@ -202,7 +209,16 @@ formerly; once, once upon a time; in the future;"
       (is (= (get-in parsed-obj [:degree]) :positive))
       (is (= (get-in parsed-obj [:definition]) "formerly; once, once upon a time; in the future;"))
       (is (= (get-in parsed-obj [:dictionary-code :freq-code]) :A)))
-    ))
+    )
+  (testing "sed"
+    (let [parsed-obj (parse-single-word-output sed-paragraph)]
+      (is (= (get-in parsed-obj [:word]) "sed"))
+      (is (= (get-in parsed-obj [:part-of-speech]) :conjunction))
+      (is (= (get-in parsed-obj [:dictionary-entry]) "sed"))
+      (is (= (get-in parsed-obj [:definition]) "but, but also; yet; however, but in fact/truth; not to mention; yes but;"))
+      (is (= (get-in parsed-obj [:dictionary-code :freq-code]) :A)))
+    )
+  )
 
 (deftest parse-paragraphs-test
   (testing "agricolarum"
