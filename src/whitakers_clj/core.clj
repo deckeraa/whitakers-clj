@@ -259,14 +259,20 @@
 (defn word-frequency [parsed]
   (as-> parsed $
     (map #(or (:dictionary-entry %) (:word %)) $)
-    (frequencies $)))
+    (frequencies $)
+    (sort (fn [[k1 v1][k2 v2]] (> v1 v2)) $)))
 
 (defn printed-vocabulary [parsed]
   (as-> parsed $
     (map #(str (or (:dictionary-entry %) (:word %))
                ": "
                (or (:definition %) "UNKNOWN"))
-         $)))
+         $)
+    (distinct $)
+    (sort (fn [word1 word2]
+            (compare (clojure.string/lower-case word1)
+                     (clojure.string/lower-case word2)))
+          $)))
 
 (defn remove-macrons [s]
   (-> s
