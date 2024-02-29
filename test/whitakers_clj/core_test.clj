@@ -96,15 +96,37 @@ notify of suit; nominate for jury; appoint/set (a time); bring witnesses;
 present (documents for inspection; put on (play); hold (banquet); uplift;
 *")
 
+(def olim-paragraph
+"olim                 ADV    POS                         
+olim  ADV   [XXXAX]  
+formerly; once, once upon a time; in the future;")
+
+(def fortiter-paragraph
+"fortiter             ADV    POS                         
+fortiter, fortius, fortissime  ADV   [XXXDX]    lesser
+strongly; bravely; boldly;")
+
 (deftest dictionary-entry-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
-           "agricolaris, agricolaris, agricolare"))))
+           "agricolaris, agricolaris, agricolare")))
+  (testing "adverb"
+    (is (= (dictionary-entry-from-pieces (clojure.string/split "olim  ADV   [XXXAX]  " #" "))
+           "olim"))
+    (is (= (dictionary-entry-from-pieces (clojure.string/split "fortiter, fortius, fortissime  ADV   [XXXDX]    lesser" #" "))
+           "fortiter, fortius, fortissime"))
+    ))
 
 (deftest dictionary-code-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-code-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
            "[XAXES]")))
+  (testing "adverb"
+    (is (= (dictionary-code-from-pieces (clojure.string/split "olim  ADV   [XXXAX]  " #" "))
+           "[XXXAX]"))
+    (is (= (dictionary-code-from-pieces (clojure.string/split "fortiter, fortius, fortissime  ADV   [XXXDX]    lesser" #" "))
+           "[XXXDX]"))
+    )
   (testing "noun"
     (is (= (dictionary-code-from-pieces (clojure.string/split "agricola, agricolae  N (1st) M   [XAXBO]  " #" "))
            "[XAXBO]")))
@@ -165,7 +187,19 @@ present (documents for inspection; put on (play); hold (banquet); uplift;
       (is (= (get-in parsed-obj [:part-of-speech]) :pronoun))
       (is (= (get-in parsed-obj [:dictionary-entry]) nil))
       (is (= (get-in parsed-obj [:definition]) "I, me (PERS); myself (REFLEX);"))
-      (is (= (get-in parsed-obj [:dictionary-code :freq-code]) :A)))))
+      (is (= (get-in parsed-obj [:dictionary-code :freq-code]) :A))))
+  (testing "olim"
+    "olim                 ADV    POS                         
+olim  ADV   [XXXAX]  
+formerly; once, once upon a time; in the future;"
+    (let [parsed-obj (parse-single-word-output olim-paragraph)]
+      (is (= (get-in parsed-obj [:word]) "olim"))
+      (is (= (get-in parsed-obj [:part-of-speech]) :adverb))
+      (is (= (get-in parsed-obj [:dictionary-entry]) "olim"))
+      (is (= (get-in parsed-obj [:degree]) :positive))
+      (is (= (get-in parsed-obj [:definition]) "formerly; once, once upon a time; in the future;"))
+      (is (= (get-in parsed-obj [:dictionary-code :freq-code]) :A)))
+    ))
 
 (deftest parse-paragraphs-test
   (testing "agricolarum"

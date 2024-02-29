@@ -6,6 +6,7 @@
 
 (def part-of-speech
   {"ADJ" :adjective
+   "ADV" :adverb
    "N" :noun
    "PRON" :pronoun
    "V" :verb})
@@ -28,7 +29,7 @@
    "N" :neuter
    "C" :common})
 
-(def adjective-type
+(def degree
   {"POS" :positive
    "COMP" :comparitive
    "SUPER" :superlative})
@@ -89,7 +90,7 @@
      :case (grammatical-case (get pieces 4))
      :number (grammatical-number (get pieces 5))
      :gender (gender (get pieces 6))
-     :type (adjective-type (get pieces 7))}))
+     :degree (degree (get pieces 7))}))
 
 (defn add-adjective-pieces [pieces]
   (let [sectioned-word (get-in pieces [0 0])
@@ -98,6 +99,17 @@
         definition-line (last pieces)]
     {:options (mapv parse-adjective-option-line (drop-last 2 pieces))
      :part-of-speech :adjective
+     :dictionary-entry (dictionary-entry-from-pieces dictionary-entry-line)
+     :definition (clojure.string/join " " definition-line)
+     :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))}))
+
+(defn add-adverb-pieces [pieces]
+  (let [word (get-in pieces [0 0])
+        dictionary-entry-line (last (drop-last pieces))
+        definition-line (last pieces)]
+    {:word word
+     :part-of-speech :adverb
+     :degree (degree (get-in pieces [0 2]))
      :dictionary-entry (dictionary-entry-from-pieces dictionary-entry-line)
      :definition (clojure.string/join " " definition-line)
      :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))}))
@@ -174,13 +186,17 @@
 
 (def parse-by-part-of-speech
   {:adjective add-adjective-pieces
+   :adverb add-adverb-pieces
    :noun add-noun-pieces
    :pronoun add-pronoun-pieces
    :verb add-verb-pieces})
 
 (defn parse-single-word-output [paragraph]
   (let [lines (clojure.string/split-lines paragraph)
-        pieces (mapv #(clojure.string/split % #" +") lines)
+        pieces (->> lines
+                    (map #(clojure.string/split % #" +"))
+                    (remove empty?)
+                    vec)
         part-of-speech (part-of-speech (get-in pieces [0 1]))]
     (try
       ((parse-by-part-of-speech part-of-speech) pieces)
