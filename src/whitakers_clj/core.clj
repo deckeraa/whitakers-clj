@@ -1,6 +1,7 @@
 (ns whitakers-clj.core
   (:require [whitakers-clj.dictionary-codes :refer [parse-dictionary-code]]
-            [clojure.java.shell :refer [sh]])
+            [clojure.java.shell :refer [sh]]
+            [clojure.java.io :as io])
   (:use clojure.pprint)
   (:gen-class))
 
@@ -317,7 +318,11 @@
 (def PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER "../whitakers-words")
 
 (defn -main [& args]
-  (let [args-to-passthrough (remove-macrons (clojure.string/join " " args))
+  (let [latin-text (if (and (= 1 (count args))
+                            (.exists (io/file (first args))))
+                     (slurp (first args))
+                     (clojure.string/join " " args))
+        args-to-passthrough (remove-macrons latin-text)
         result (sh "./bin/words" args-to-passthrough
                    :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER)
         parsed (parse-sections (:out result) {:condense-entries? true})]
@@ -329,4 +334,5 @@
     (println "\n")
     (pprint (unknown-words parsed))
     (println "\n")
-    (pprint (word-frequency parsed))))
+    (pprint (word-frequency parsed))
+    (System/exit 0)))
