@@ -355,6 +355,13 @@
       (clojure.string/replace #"\)" "")
       ))
 
+(defn avg-sentence-length [text]
+  (/ (count (clojure.string/split text #" "))
+     (let [num-periods (count (filter #(= % \.) text))]
+       (if (> num-periods 0)
+         num-periods
+         1))))
+
 ;; Whitaker's Words must be run as ./bin/words from the project folder,
 ;; otherwise it says "There is no INFLECTS.SEC file."
 (def PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER "../whitakers-words")
@@ -365,21 +372,26 @@
                      (slurp (first args))
                      (clojure.string/join " " args))
         args-to-passthrough (-> latin-text remove-macrons remove-troublesome-puncuation)
+        number-of-words (count (clojure.string/split args-to-passthrough #" "))
         uuid (random-uuid)
         temp-file-name (str uuid ".txt")
         full-file-name (str PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER "/" temp-file-name)
         _ (spit full-file-name args-to-passthrough)
-        _ (println args-to-passthrough)
+        ;; _ (println args-to-passthrough)
         result (sh "./bin/words" temp-file-name
                    :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER)
-        parsed (parse-sections (:out result) {:condense-entries? true})]
-    (println "Output from shell command:")
-    (println (:out result))
-    (pprint parsed)
+        parsed (parse-sections (:out result) {:condense-entries? true})
+        freqs (word-frequency parsed)]
+    ;; (println "Output from shell command:")
+    ;; (println (:out result))
+    ;; (pprint parsed)
     (println "\n")
     (pprint (printed-vocabulary parsed))
     (println "\n")
     (pprint (unknown-words parsed))
     (println "\n")
-    (pprint (word-frequency parsed))
+    ;; (pprint freqs)
+    (println "\n")
+    (println (count freqs) "unique words," number-of-words "words total.")
+    (println "Average sentence length:" (float (avg-sentence-length latin-text)) "words.")
     (System/exit 0)))
