@@ -122,10 +122,19 @@ in                   PREP   ACC
 in  PREP  ACC   [XXXAX]  
 into; about, in the mist of; according to, after (manner); for; to, among;")
 
+(def mare-adjective-paragraph
+"mare                 ADJ    3 1 NOM S N POS             
+mare  X   [XXXFO]    veryrare
+male; masculine, of the male sex; manly, virile, brave, noble; G:masculine;")
+
 (deftest dictionary-entry-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
-           "agricolaris, agricolaris, agricolare")))
+           "agricolaris, agricolaris, agricolare"))
+    ;; TODO -- for some reason Whitaker's Words sends an "X" as the part of speech in this line?
+    ;; (is (= (dictionary-entry-from-pieces (clojure.string/split "mare  X   [XXXFO]    veryrare" #" "))
+    ;;        "mare"))
+    )
   (testing "adverb"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "olim  ADV   [XXXAX]  " #" "))
            "olim"))
@@ -141,7 +150,9 @@ into; about, in the mist of; according to, after (manner); for; to, among;")
 (deftest dictionary-code-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-code-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
-           "[XAXES]")))
+           "[XAXES]"))
+    (is (= (dictionary-code-from-pieces (clojure.string/split "mare  X   [XXXFO]    veryrare" #" "))
+           "[XXXFO]")))
   (testing "adverb"
     (is (= (dictionary-code-from-pieces (clojure.string/split "olim  ADV   [XXXAX]  " #" "))
            "[XXXAX]"))
