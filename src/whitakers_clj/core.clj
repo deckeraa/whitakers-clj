@@ -365,8 +365,12 @@
                      (slurp (first args))
                      (clojure.string/join " " args))
         args-to-passthrough (-> latin-text remove-macrons remove-troublesome-puncuation)
+        uuid (random-uuid)
+        temp-file-name (str uuid ".txt")
+        full-file-name (str PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER "/" temp-file-name)
+        _ (spit full-file-name args-to-passthrough)
         _ (println args-to-passthrough)
-        result (sh "./bin/words" args-to-passthrough
+        result (sh "./bin/words" temp-file-name
                    :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER)
         parsed (parse-sections (:out result) {:condense-entries? true})]
     (println "Output from shell command:")
