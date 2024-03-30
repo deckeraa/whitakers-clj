@@ -127,6 +127,10 @@ into; about, in the mist of; according to, after (manner); for; to, among;")
 mare  X   [XXXFO]    veryrare
 male; masculine, of the male sex; manly, virile, brave, noble; G:masculine;")
 
+(def ic-paragraph
+"ic                   SUFFIX                             
+-ic; of, pertaining/belonging to; connected with; derived/coming from (place);")
+
 (deftest dictionary-entry-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
@@ -241,9 +245,12 @@ male; masculine, of the male sex; manly, virile, brave, noble; G:masculine;")
       (is (= (get-in parsed-obj [:part-of-speech]) :conjunction))
       (is (= (get-in parsed-obj [:dictionary-entry]) "sed"))
       (is (= (get-in parsed-obj [:definition]) "but, but also; yet; however, but in fact/truth; not to mention; yes but;"))
-      (is (= (get-in parsed-obj [:dictionary-code :freq-code]) :A)))
-    )
-  )
+      (is (= (get-in parsed-obj [:dictionary-code :freq-code]) :A))))
+  (testing "ic"
+    (let [parsed-obj (parse-single-word-output ic-paragraph)]
+      (is (= (get-in parsed-obj [:word]) "ic"))
+      (is (= (get-in parsed-obj [:part-of-speech]) :suffix))
+      (is (= (get-in parsed-obj [:definition]) "-ic; of, pertaining/belonging to; connected with; derived/coming from (place);")))))
 
 (deftest parse-paragraphs-test
   (testing "agricolarum"
@@ -376,4 +383,9 @@ eject/emit; put/give forth (buds); beget; bear (fruit); display/evince/exhibit; 
 
 (deftest get-most-frequent-test
   (is (= (:definition (get-most-frequent mare-parsed-snipped))
-         "sea; sea water;")))
+         "sea; sea water;"))
+  (is (= (:definition (get-most-frequent
+                       [{:definition "no freq-code"}
+                        {:definition "freq-code"
+                         :dictionary-code {:freq-code :C}}]))
+         "freq-code")))

@@ -21,6 +21,7 @@
    "N" :noun
    "PREP" :preposition
    "PRON" :pronoun
+   "SUFFIX" :suffix
    "UNKNOWN" :unknown
    "========" :unknown
    "V" :verb})
@@ -192,6 +193,20 @@
      :definition (clojure.string/join " " definition-line)
      :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))}))
 
+(defn add-suffix-pieces [pieces]
+  (let [word (get-in pieces [0 0])
+        definition-line (last pieces)]
+    {:part-of-speech :suffix
+     :word word
+     :dictionary-entry word
+     :definition (clojure.string/join " " definition-line)}))
+
+(defn add-unknown-pieces [pieces]
+  (let [word (get-in pieces [0 0])]
+    {:word word
+     :part-of-speech :unknown
+     }))
+
 (defn parse-verb-option-line [pieces]
   (let [sectioned-word (get pieces 0)
         [stem ending] (clojure.string/split sectioned-word #"\.")]
@@ -206,12 +221,6 @@
      :mood (mood (get pieces 6))
      :person (parse-long (get pieces 7))
      :number (grammatical-number (get pieces 8))}))
-
-(defn add-unknown-pieces [pieces]
-  (let [word (get-in pieces [0 0])]
-    {:word word
-     :part-of-speech :unknown
-     }))
 
 (defn add-verb-pieces [pieces]
   (let [dictionary-entry-line (last (drop-last pieces))
@@ -232,6 +241,7 @@
    :noun add-noun-pieces
    :preposition add-participle-pieces
    :pronoun add-pronoun-pieces
+   :suffix add-suffix-pieces
    :unknown add-unknown-pieces
    :verb add-verb-pieces})
 
@@ -284,8 +294,8 @@
 
 (defn get-most-frequent [entries]
   (first (sort (fn [a b]
-                      (compare (str (get-in a [:dictionary-code :freq-code]))
-                               (str (get-in b [:dictionary-code :freq-code]))))
+                 (compare (str (or (get-in a [:dictionary-code :freq-code]) :Z))
+                          (str (or (get-in b [:dictionary-code :freq-code]) :Z))))
                entries)))
 
 (defn parse-sections
