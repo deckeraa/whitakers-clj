@@ -61,7 +61,29 @@ farmer-; relating to farmers;
 ```
 
 ## Usage
+Before using, `PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER` in `core.clj` will need set.
+I recommend checking out Whitaker's Words into a directory parallel with this repository.
 
+Also, Whitaker's words will need modified. In `src/support_utils/support_utils-developer_parameters.adb`, set Pause_In_Screen_Output to False.
+```
+      Do_I_For_J                  => False,
+      Do_U_For_V                  => False,
+ 
+-     Pause_In_Screen_Output      => True,
++     Pause_In_Screen_Output      => False,
+      No_Screen_Activity          => False,
+ 
+      Update_Local_Dictionary     => False,
+```
+
+Then run this program like:
+```
+lein run -- Volo edere lardum
+``
+or like
+```
+lein run -- myInputFile.txt
+```
 
 
 ## License

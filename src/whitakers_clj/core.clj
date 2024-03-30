@@ -313,6 +313,17 @@
       (clojure.string/replace #"ū" "u")
       (clojure.string/replace #"Ū" "U")))
 
+(defn remove-troublesome-puncuation [s]
+  (-> s
+      (clojure.string/replace #"\"" "")
+      (clojure.string/replace #"'" "")
+      (clojure.string/replace #"“" "") ;; tricky unicode double quotes (Google docs uses these)
+      (clojure.string/replace #"”" "") ;; tricky unicode double quotes (Google docs uses these)
+      (clojure.string/replace #"\n" " ")
+      (clojure.string/replace #"\(" "")
+      (clojure.string/replace #"\)" "")
+      ))
+
 ;; Whitaker's Words must be run as ./bin/words from the project folder,
 ;; otherwise it says "There is no INFLECTS.SEC file."
 (def PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER "../whitakers-words")
@@ -322,7 +333,8 @@
                             (.exists (io/file (first args))))
                      (slurp (first args))
                      (clojure.string/join " " args))
-        args-to-passthrough (remove-macrons latin-text)
+        args-to-passthrough (-> latin-text remove-macrons remove-troublesome-puncuation)
+        _ (println args-to-passthrough)
         result (sh "./bin/words" args-to-passthrough
                    :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER)
         parsed (parse-sections (:out result) {:condense-entries? true})]
