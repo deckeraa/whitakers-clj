@@ -114,6 +114,14 @@ strongly; bravely; boldly;")
 sed  CONJ   [XXXAX]  
 but, but also; yet; however, but in fact/truth; not to mention; yes but;")
 
+(def in-paragraphs
+"in                   PREP   ABL                         
+in  PREP  ABL   [XXXAX]  
+in, on, at (space); in accordance with/regard to/the case of; within (time);
+in                   PREP   ACC                         
+in  PREP  ACC   [XXXAX]  
+into; about, in the mist of; according to, after (manner); for; to, among;")
+
 (deftest dictionary-entry-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
@@ -125,7 +133,10 @@ but, but also; yet; however, but in fact/truth; not to mention; yes but;")
            "fortiter, fortius, fortissime")))
   (testing "conjunction"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "sed  CONJ   [XXXAX]  " #" "))
-           "sed"))))
+           "sed")))
+  (testing "preposition"
+    (is (= (dictionary-entry-from-pieces (clojure.string/split "in  PREP  ACC   [XXXAX]  " #" "))
+           "in"))))
 
 (deftest dictionary-code-from-pieces-test
   (testing "adjective"
@@ -143,6 +154,9 @@ but, but also; yet; however, but in fact/truth; not to mention; yes but;")
   (testing "noun"
     (is (= (dictionary-code-from-pieces (clojure.string/split "agricola, agricolae  N (1st) M   [XAXBO]  " #" "))
            "[XAXBO]")))
+  (testing "preposition"
+    (is (= (dictionary-code-from-pieces (clojure.string/split "in  PREP  ACC   [XXXAX]  " #" "))
+           "[XXXAX]")))
   (testing "pronoun"
     (is (= (dictionary-code-from-pieces (clojure.string/split "is, ea, id  PRON   [XXXAX]  " #" "))
            "[XXXAX]")))
@@ -236,7 +250,16 @@ but, but also; yet; however, but in fact/truth; not to mention; yes but;")
     (let [parsed-obj (parse-paragraphs unknown-paragraphs)]
       (is (= (count parsed-obj) 1))
       (is (= (get-in parsed-obj [0 :word "Phoebus"])))
-      (is (= (get-in parsed-obj [0 :part-of-speech :unknown]))))))
+      (is (= (get-in parsed-obj [0 :part-of-speech :unknown])))))
+  (testing "in"
+    (let [parsed-obj (parse-paragraphs in-paragraphs)]
+      (is (= (count parsed-obj) 2))
+      (is (= (get-in parsed-obj [0 :word "in"])))
+      (is (= (get-in parsed-obj [0 :part-of-speech :preposition])))
+      (is (= (get-in parsed-obj [0 :case :ablative])))
+      (is (= (get-in parsed-obj [0 :word "in"])))
+      (is (= (get-in parsed-obj [0 :part-of-speech :preposition])))
+      (is (= (get-in parsed-obj [0 :case :accusative]))))))
 
 (deftest is-parsing-options-line?-test
   (is (= (is-parsing-options-line? "bon.um               ADJ    1 1 NOM S N POS             ") true))
