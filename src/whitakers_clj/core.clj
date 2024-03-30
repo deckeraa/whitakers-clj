@@ -282,13 +282,22 @@
 (defn split-sections [sections]
   (clojure.string/split sections #"(\n\n|\*\n)"))
 
+(defn get-most-frequent [entries]
+  (first (sort (fn [a b]
+                      (compare (str (get-in a [:dictionary-code :freq-code]))
+                               (str (get-in b [:dictionary-code :freq-code]))))
+               entries)))
+
 (defn parse-sections
   ([sections]
-   (parse-sections sections {:condense-entries? true}))
-  ([sections {:keys [condense-entries?]}]
+   (parse-sections sections {:condense-entries? true
+                             :condensation-method :most-frequent}))
+  ([sections {:keys [condense-entries? condensation-method]}]
    (let [parsed (mapv parse-paragraphs (split-sections sections))]
      (if condense-entries?
-       (mapv first parsed) ;; TODO do by word frequency
+       (case
+           :first (mapv first parsed)
+           :most-frequent (mapv get-most-frequent parsed)) ;; TODO do by word frequency
        parsed))))
 
 (defn word-frequency [parsed]

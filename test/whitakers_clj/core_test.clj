@@ -314,3 +314,55 @@ edo, edare, edidi, editus  V (1st) TRANS   [XXXAO]
 eject/emit; put/give forth (buds); beget; bear (fruit); display/evince/exhibit; utter solemnly; pronounce/decree (oracle); deliver (message); issue (command); publish; disclose, tell, relate, make known; declare, make formal statement; cause; see birth of; be birthplace/breeding ground of; debouch (river PASS); bring forth,  produce/yield (crops), give birth to (often PASS PERF VPAR); notify of suit; nominate for jury; appoint/set (a time); bring witnesses; present (documents for inspection; put on (play); hold (banquet); uplift;"
           ]))
   )
+
+(def mare-parsed-snipped
+  [{:options :snipped
+   :part-of-speech :adjective,
+   :dictionary-entry "mare X [XXXFO] veryrare",
+   :definition
+   "male; masculine, of the male sex; manly, virile, brave, noble; G:masculine;",
+   :dictionary-code
+   {:age nil,
+    :area nil,
+    :geo nil,
+    :freq-code :F,
+    :freq-text "Very rare, having only single citation in OLD or L+S",
+    :source "Oxford Latin Dictionary, 1982 (OLD)"}}
+  {:options :snipped
+   :part-of-speech :noun,
+   :dictionary-entry "mare, maris",
+   :definition "sea; sea water;",
+   :dictionary-code
+   {:age nil,
+    :area nil,
+    :geo nil,
+    :freq-code :A,
+    :freq-text "Very frequent, in all Elementry Latin books",
+    :source nil}}
+  {:options :snipped
+   :part-of-speech :noun,
+   :dictionary-entry "mas, maris",
+   :definition "male (human/animal/plant); man;",
+   :dictionary-code
+   {:age nil,
+    :area nil,
+    :geo nil,
+    :freq-code :C,
+    :freq-text "In top 10,000 words",
+    :source "Oxford Latin Dictionary, 1982 (OLD)"}}
+  {:options :snipped
+   :part-of-speech :adjective,
+   :dictionary-entry "mas, (gen.), maris",
+   :definition
+   "male; masculine, of the male sex; manly, virile, brave, noble; G:masculine;\r",
+   :dictionary-code
+   {:age nil,
+    :area nil,
+    :geo nil,
+    :freq-code :C,
+    :freq-text "In top 10,000 words",
+    :source "Oxford Latin Dictionary, 1982 (OLD)"}}])
+
+(deftest get-most-frequent-test
+  (is (= (:definition (get-most-frequent mare-parsed-snipped))
+         "sea; sea water;")))
