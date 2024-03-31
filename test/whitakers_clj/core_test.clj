@@ -145,6 +145,11 @@ take hold, seize; grasp; take bribe; arrest/capture; put on; occupy; captivate;"
 "beatus, beata -um, beatior -or -us, beatissimus -a -um  ADJ   [XXXAO]  
 happy, fortunate, bringing happiness; rich, wealthy, copious, sumptuous;")
 
+(def ah-paragraph
+"ah                   INTERJ                             
+ah  INTERJ   [XXXCO]  
+exclamation expressing surprise/irony;")
+
 (deftest dictionary-entry-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
@@ -290,7 +295,13 @@ happy, fortunate, bringing happiness; rich, wealthy, copious, sumptuous;")
   (testing "beatus"
     (let [parsed-obj (parse-single-word-output beatus-paragraph)]
       (is (= (get-in parsed-obj [:dictionary-entry]) "beatus, beata -um, beatior -or -us, beatissimus -a -um"))
-      (is (= (get-in parsed-obj [:definition]) "happy, fortunate, bringing happiness; rich, wealthy, copious, sumptuous;")))))
+      (is (= (get-in parsed-obj [:definition]) "happy, fortunate, bringing happiness; rich, wealthy, copious, sumptuous;"))))
+  (testing "ah"
+    (let [parsed-obj (parse-single-word-output ah-paragraph)]
+      (is (= (get-in parsed-obj [:dictionary-entry]) "ah"))
+      (is (= (get-in parsed-obj [:definition]) "exclamation expressing surprise/irony;"))
+      (is (= (get-in parsed-obj [:dictionary-code :freq-code]) :C))
+      (is (= (get-in parsed-obj [:part-of-speech]) :interjection)))))
 
 (deftest parse-paragraphs-test
   (testing "agricolarum"

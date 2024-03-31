@@ -10,7 +10,6 @@
    "NUM"  :numeral
    "VPAR" :verbal-participle?
    "SUPINE" :supine
-   "INTERJ" :interjection
    "TACKON" :tackon
    })
 
@@ -18,6 +17,7 @@
   {"ADJ" :adjective
    "ADV" :adverb
    "CONJ" :conjunction
+   "INTERJ" :interjection
    "N" :noun
    "VPAR" :participle
    "PREP" :preposition
@@ -136,6 +136,16 @@
         definition-line (last pieces)]
     {:word word
      :part-of-speech :conjunction
+     :dictionary-entry (dictionary-entry-from-pieces dictionary-entry-line)
+     :definition (clojure.string/join " " definition-line)
+     :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))}))
+
+(defn add-interjection-pieces [pieces]
+  (let [word (get-in pieces [0 0])
+        dictionary-entry-line (last (drop-last pieces))
+        definition-line (last pieces)]
+    {:word word
+     :part-of-speech :interjection
      :dictionary-entry (dictionary-entry-from-pieces dictionary-entry-line)
      :definition (clojure.string/join " " definition-line)
      :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))}))
@@ -265,6 +275,7 @@
   {:adjective add-adjective-pieces
    :adverb add-adverb-pieces
    :conjunction add-conjunction-pieces
+   :interjection add-interjection-pieces
    :noun add-noun-pieces
    :participle add-participle-pieces
    :preposition add-preposition-pieces
