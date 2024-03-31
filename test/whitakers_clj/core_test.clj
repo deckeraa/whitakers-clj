@@ -150,6 +150,10 @@ happy, fortunate, bringing happiness; rich, wealthy, copious, sumptuous;")
 ah  INTERJ   [XXXCO]  
 exclamation expressing surprise/irony;")
 
+(def ne-paragraph
+"ne                   TACKON                             
+-ne = is it not that (enclitic); or ...(introduces a question or alternative);")
+
 (deftest dictionary-entry-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
@@ -301,7 +305,12 @@ exclamation expressing surprise/irony;")
       (is (= (get-in parsed-obj [:dictionary-entry]) "ah"))
       (is (= (get-in parsed-obj [:definition]) "exclamation expressing surprise/irony;"))
       (is (= (get-in parsed-obj [:dictionary-code :freq-code]) :C))
-      (is (= (get-in parsed-obj [:part-of-speech]) :interjection)))))
+      (is (= (get-in parsed-obj [:part-of-speech]) :interjection))))
+  (testing "ne"
+    (let [parsed-obj (parse-single-word-output ne-paragraph)]
+      (is (= (get-in parsed-obj [:dictionary-entry]) "ne"))
+      (is (= (get-in parsed-obj [:definition]) "-ne = is it not that (enclitic); or ...(introduces a question or alternative);"))
+      (is (= (get-in parsed-obj [:part-of-speech]) :tackon)))))
 
 (deftest parse-paragraphs-test
   (testing "agricolarum"

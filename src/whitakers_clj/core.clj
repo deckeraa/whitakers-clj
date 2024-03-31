@@ -8,9 +8,7 @@
 (def parts-of-speech-not-yet-implemented
   {"PACK" :propack?
    "NUM"  :numeral
-   "VPAR" :verbal-participle?
    "SUPINE" :supine
-   "TACKON" :tackon
    })
 
 (def part-of-speech
@@ -23,6 +21,7 @@
    "PREP" :preposition
    "PRON" :pronoun
    "SUFFIX" :suffix
+   "TACKON" :tackon
    "UNKNOWN" :unknown
    "========" :unknown
    "V" :verb})
@@ -238,6 +237,15 @@
      :dictionary-entry word
      :definition (clojure.string/join " " definition-line)}))
 
+(defn add-tackon-pieces [pieces]
+  (let [word (get-in pieces [0 0])
+        dictionary-entry-line (last (drop-last pieces))
+        definition-line (last pieces)]
+    {:word word
+     :part-of-speech :tackon
+     :dictionary-entry (dictionary-entry-from-pieces dictionary-entry-line)
+     :definition (clojure.string/join " " definition-line)}))
+
 (defn add-unknown-pieces [pieces]
   (let [word (get-in pieces [0 0])]
     {:word word
@@ -281,6 +289,7 @@
    :preposition add-preposition-pieces
    :pronoun add-pronoun-pieces
    :suffix add-suffix-pieces
+   :tackon add-tackon-pieces
    :unknown add-unknown-pieces
    :verb add-verb-pieces})
 
