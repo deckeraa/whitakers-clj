@@ -9,6 +9,7 @@
   {"PACK" :propack?
    "NUM"  :numeral
    "SUPINE" :supine
+   ;; TODO also need to handle deponent verbs better
    })
 
 (def part-of-speech
