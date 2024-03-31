@@ -141,6 +141,10 @@ strike dumb (w/powerful emotion)/stun/daze/paralyze; befuddle/stupefy (w/drink)"
 capio, capere, cepi, captus  V (3rd) TRANS   [XXXAO]  
 take hold, seize; grasp; take bribe; arrest/capture; put on; occupy; captivate;")
 
+(def beatus-paragraph
+"beatus, beata -um, beatior -or -us, beatissimus -a -um  ADJ   [XXXAO]  
+happy, fortunate, bringing happiness; rich, wealthy, copious, sumptuous;")
+
 (deftest dictionary-entry-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
@@ -282,7 +286,11 @@ take hold, seize; grasp; take bribe; arrest/capture; put on; occupy; captivate;"
       (is (= (get-in parsed-obj [:conjugation]) 3))
       (is (= (get-in parsed-obj [:dictionary-entry]) "capio, capere, cepi, captus"))
       (is (= (get-in parsed-obj [:definition]) "take hold, seize; grasp; take bribe; arrest/capture; put on; occupy; captivate;"))
-      (is (= (get-in parsed-obj [:dictionary-code :freq-code]) :A)))))
+      (is (= (get-in parsed-obj [:dictionary-code :freq-code]) :A))))
+  (testing "beatus"
+    (let [parsed-obj (parse-single-word-output beatus-paragraph)]
+      (is (= (get-in parsed-obj [:dictionary-entry]) "beatus, beata -um, beatior -or -us, beatissimus -a -um"))
+      (is (= (get-in parsed-obj [:definition]) "happy, fortunate, bringing happiness; rich, wealthy, copious, sumptuous;")))))
 
 (deftest parse-paragraphs-test
   (testing "agricolarum"

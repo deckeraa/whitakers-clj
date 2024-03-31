@@ -273,13 +273,23 @@
    :unknown add-unknown-pieces
    :verb add-verb-pieces})
 
+(defn part-of-speech-from-pieces [pieces]
+  (or (part-of-speech (get-in pieces [0 1])) ;; most entries have an option line with this
+      (let [first-line (get pieces 0)
+            penultimate (->> first-line
+                               drop-last
+                               (remove empty?)
+                               last)]
+        (part-of-speech penultimate)) ;; some, like beatus, don't, so grab the penultimate piece
+      ))
+
 (defn parse-single-word-output [paragraph]
   (let [lines (clojure.string/split-lines paragraph)
         pieces (->> lines
                     (map #(clojure.string/split % #" +"))
                     (remove empty?)
                     vec)
-        part-of-speech (part-of-speech (get-in pieces [0 1]))]
+        part-of-speech (part-of-speech-from-pieces pieces)]
     (try
       ((parse-by-part-of-speech part-of-speech) pieces)
       (catch Exception ex
