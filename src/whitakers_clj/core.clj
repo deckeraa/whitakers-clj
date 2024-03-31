@@ -7,7 +7,6 @@
 
 (def parts-of-speech-not-yet-implemented
   {"PACK" :propack?
-   "NUM"  :numeral
    "SUPINE" :supine
    ;; TODO also need to handle deponent verbs better
    })
@@ -18,6 +17,7 @@
    "CONJ" :conjunction
    "INTERJ" :interjection
    "N" :noun
+   "NUM"  :numeral
    "VPAR" :participle
    "PREP" :preposition
    "PRON" :pronoun
@@ -69,6 +69,10 @@
    "INF" :infinitive
    "PPL" :participle
    })
+
+(def numeral-type
+  {"CARD" :cardinal
+   "ORD" :ordinal})
 
 (defn dictionary-entry-from-pieces [pieces]
   (let [pieces (remove empty? pieces)]
@@ -173,6 +177,32 @@
      :dictionary-entry (dictionary-entry-from-pieces dictionary-entry-line)
      :definition (clojure.string/join " " definition-line)
      :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))}))
+
+(defn parse-numeral-option-line [pieces]
+  (let [sectioned-word (get pieces 0)
+        [stem ending] (clojure.string/split sectioned-word #"\.")]
+    {:sectioned-word sectioned-word
+     :stem stem
+     :ending ending
+     :part-of-speech :numeral
+     :declension (parse-long (get pieces 2))
+     :case (grammatical-case (get pieces 4))
+     :number (grammatical-number (get pieces 5))
+     :gender (gender (get pieces 6))
+     :numeral-type (numeral-type (get pieces 7))
+}))
+
+(defn add-numeral-pieces [pieces]
+  (let [dictionary-entry-line (last (drop-last pieces))
+        definition-line (last pieces)]
+    {:options (mapv parse-numeral-option-line (drop-last 2 pieces))
+     :sectioned-word (get-in pieces [0 0])
+     :part-of-speech :numeral
+     :declension (parse-long (get-in pieces [0 2]))
+     :dictionary-entry (dictionary-entry-from-pieces dictionary-entry-line)
+     :definition (clojure.string/join " " definition-line)
+     :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))
+     }))
 
 (defn parse-participle-option-line [pieces]
   (let [sectioned-word (get pieces 0)
@@ -286,6 +316,7 @@
    :conjunction add-conjunction-pieces
    :interjection add-interjection-pieces
    :noun add-noun-pieces
+   :numeral add-numeral-pieces
    :participle add-participle-pieces
    :preposition add-preposition-pieces
    :pronoun add-pronoun-pieces

@@ -154,6 +154,21 @@ exclamation expressing surprise/irony;")
 "ne                   TACKON                             
 -ne = is it not that (enclitic); or ...(introduces a question or alternative);")
 
+(def tres-paragraph
+"tr.es                NUM    1 3 NOM P C CARD            
+tr.es                NUM    1 3 VOC P C CARD            
+tr.es                NUM    1 3 ACC P C CARD            
+tres -es -ia, tertius -a -um, terni -ae -a, ter  NUM   [XXXAX]  
+ 3 - (CARD answers 'how many');                                                 ")
+
+(def tertiae-paragraph
+"terti.ae             NUM    1 3 GEN S F ORD             
+terti.ae             NUM    1 3 DAT S F ORD             
+terti.ae             NUM    1 3 NOM P F ORD             
+terti.ae             NUM    1 3 VOC P F ORD             
+tres -es -ia, tertius -a -um, terni -ae -a, ter  NUM   [XXXAX]  
+ 3th - (ORD, 'in series'); (a/the) 3th (part) (fract w/pars?);                  ")
+
 (deftest dictionary-entry-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
@@ -310,7 +325,33 @@ exclamation expressing surprise/irony;")
     (let [parsed-obj (parse-single-word-output ne-paragraph)]
       (is (= (get-in parsed-obj [:dictionary-entry]) "ne"))
       (is (= (get-in parsed-obj [:definition]) "-ne = is it not that (enclitic); or ...(introduces a question or alternative);"))
-      (is (= (get-in parsed-obj [:part-of-speech]) :tackon)))))
+      (is (= (get-in parsed-obj [:part-of-speech]) :tackon))))
+  (testing "tres"
+    (let [parsed-obj (parse-single-word-output tres-paragraph)]
+      (is (= (get-in parsed-obj [:options 0 :stem]) "tr"))
+      (is (= (get-in parsed-obj [:options 0 :ending]) "es"))
+      (is (= (get-in parsed-obj [:options 0 :part-of-speech]) :numeral))
+      (is (= (get-in parsed-obj [:options 0 :declension]) 1))
+      (is (= (get-in parsed-obj [:options 0 :case]) :nominative))
+      (is (= (get-in parsed-obj [:options 0 :number]) :plural))
+      (is (= (get-in parsed-obj [:options 0 :gender]) :common))
+      (is (= (get-in parsed-obj [:options 0 :numeral-type]) :cardinal))
+      (is (= (get-in parsed-obj [:dictionary-entry]) "tres -es -ia, tertius -a -um, terni -ae -a, ter"))
+      (is (= (get-in parsed-obj [:definition]) " 3 - (CARD answers 'how many');"))
+      (is (= (get-in parsed-obj [:part-of-speech]) :numeral))))
+  (testing "tertiae"
+    (let [parsed-obj (parse-single-word-output tertiae-paragraph)]
+      (is (= (get-in parsed-obj [:options 0 :stem]) "terti"))
+      (is (= (get-in parsed-obj [:options 0 :ending]) "ae"))
+      (is (= (get-in parsed-obj [:options 0 :part-of-speech]) :numeral))
+      (is (= (get-in parsed-obj [:options 0 :declension]) 1))
+      (is (= (get-in parsed-obj [:options 0 :case]) :genitive))
+      (is (= (get-in parsed-obj [:options 0 :number]) :singular))
+      (is (= (get-in parsed-obj [:options 0 :gender]) :feminine))
+      (is (= (get-in parsed-obj [:options 0 :numeral-type]) :ordinal))
+      (is (= (get-in parsed-obj [:dictionary-entry]) "tres -es -ia, tertius -a -um, terni -ae -a, ter"))
+      (is (= (get-in parsed-obj [:definition]) " 3th - (ORD, 'in series'); (a/the) 3th (part) (fract w/pars?);"))
+      (is (= (get-in parsed-obj [:part-of-speech]) :numeral)))))
 
 (deftest parse-paragraphs-test
   (testing "agricolarum"
