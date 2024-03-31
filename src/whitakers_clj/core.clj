@@ -19,6 +19,7 @@
    "ADV" :adverb
    "CONJ" :conjunction
    "N" :noun
+   "VPAR" :participle
    "PREP" :preposition
    "PRON" :pronoun
    "SUFFIX" :suffix
@@ -163,7 +164,33 @@
      :definition (clojure.string/join " " definition-line)
      :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))}))
 
-(defn  add-participle-pieces [pieces]
+(defn parse-participle-option-line [pieces]
+  (let [sectioned-word (get pieces 0)
+        [stem ending] (clojure.string/split sectioned-word #"\.")]
+    {:sectioned-word sectioned-word
+     :stem stem
+     :ending ending
+     :part-of-speech :participle
+     :conjugation (parse-long (get pieces 2))
+     :case (grammatical-case (get pieces 4))
+     :number (grammatical-number (get pieces 5))
+     :gender (gender (get pieces 6))
+     :tense (tense (get pieces 7))
+     :voice (voice (get pieces 8))}))
+
+(defn add-participle-pieces [pieces]
+  (let [dictionary-entry-line (last (drop-last pieces))
+        definition-line (last pieces)]
+    {:options (mapv parse-participle-option-line (drop-last 2 pieces))
+     :sectioned-word (get-in pieces [0 0])
+     :part-of-speech :participle
+     :conjugation (parse-long (get-in pieces [0 2]))
+     :dictionary-entry (dictionary-entry-from-pieces dictionary-entry-line)
+     :definition (clojure.string/join " " definition-line)
+     :dictionary-code (parse-dictionary-code (dictionary-code-from-pieces dictionary-entry-line))
+     }))
+
+(defn  add-preposition-pieces [pieces]
   (let [word (get-in pieces [0 0])
         dictionary-entry-line (last (drop-last pieces))
         definition-line (last pieces)]
@@ -239,7 +266,8 @@
    :adverb add-adverb-pieces
    :conjunction add-conjunction-pieces
    :noun add-noun-pieces
-   :preposition add-participle-pieces
+   :participle add-participle-pieces
+   :preposition add-preposition-pieces
    :pronoun add-pronoun-pieces
    :suffix add-suffix-pieces
    :unknown add-unknown-pieces

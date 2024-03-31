@@ -131,6 +131,16 @@ male; masculine, of the male sex; manly, virile, brave, noble; G:masculine;")
 "ic                   SUFFIX                             
 -ic; of, pertaining/belonging to; connected with; derived/coming from (place);")
 
+(def obstupefactus-paragraph
+"obstupefact.us       VPAR   3 1 NOM S M PERF PASSIVE PPL
+obstupefacio, obstupefacere, obstupefeci, obstupefactus  V (3rd) TRANS   [XXXCO]  
+strike dumb (w/powerful emotion)/stun/daze/paralyze; befuddle/stupefy (w/drink)")
+
+(def captus-paragraph
+"capt.us              VPAR   3 1 NOM S M PERF PASSIVE PPL
+capio, capere, cepi, captus  V (3rd) TRANS   [XXXAO]  
+take hold, seize; grasp; take bribe; arrest/capture; put on; occupy; captivate;")
+
 (deftest dictionary-entry-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
@@ -147,6 +157,9 @@ male; masculine, of the male sex; manly, virile, brave, noble; G:masculine;")
   (testing "conjunction"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "sed  CONJ   [XXXAX]  " #" "))
            "sed")))
+  (testing "participle"
+    (is (= (dictionary-entry-from-pieces (clojure.string/split "capio, capere, cepi, captus  V (3rd) TRANS   [XXXAO]  " #" "))
+           "capio, capere, cepi, captus")))
   (testing "preposition"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "in  PREP  ACC   [XXXAX]  " #" "))
            "in"))))
@@ -169,6 +182,9 @@ male; masculine, of the male sex; manly, virile, brave, noble; G:masculine;")
   (testing "noun"
     (is (= (dictionary-code-from-pieces (clojure.string/split "agricola, agricolae  N (1st) M   [XAXBO]  " #" "))
            "[XAXBO]")))
+  (testing "participle"
+    (is (= (dictionary-code-from-pieces (clojure.string/split "capio, capere, cepi, captus  V (3rd) TRANS   [XXXAO]  " #" "))
+           "[XXXAO]")))
   (testing "preposition"
     (is (= (dictionary-code-from-pieces (clojure.string/split "in  PREP  ACC   [XXXAX]  " #" "))
            "[XXXAX]")))
@@ -250,7 +266,23 @@ male; masculine, of the male sex; manly, virile, brave, noble; G:masculine;")
     (let [parsed-obj (parse-single-word-output ic-paragraph)]
       (is (= (get-in parsed-obj [:word]) "ic"))
       (is (= (get-in parsed-obj [:part-of-speech]) :suffix))
-      (is (= (get-in parsed-obj [:definition]) "-ic; of, pertaining/belonging to; connected with; derived/coming from (place);")))))
+      (is (= (get-in parsed-obj [:definition]) "-ic; of, pertaining/belonging to; connected with; derived/coming from (place);"))))
+  (testing "captus"
+    (let [parsed-obj (parse-single-word-output captus-paragraph)]
+      (is (= (get-in parsed-obj [:options 0 :stem]) "capt"))
+      (is (= (get-in parsed-obj [:options 0 :ending]) "us"))
+      (is (= (get-in parsed-obj [:options 0 :part-of-speech]) :participle))
+      (is (= (get-in parsed-obj [:options 0 :conjugation]) 3))
+      (is (= (get-in parsed-obj [:options 0 :tense]) :perfect))
+      (is (= (get-in parsed-obj [:options 0 :voice]) :passive))
+      (is (= (get-in parsed-obj [:options 0 :number]) :singular))
+      (is (= (get-in parsed-obj [:options 0 :gender]) :masculine))
+      (is (= (get-in parsed-obj [:sectioned-word]) "capt.us"))
+      (is (= (get-in parsed-obj [:part-of-speech]) :participle))
+      (is (= (get-in parsed-obj [:conjugation]) 3))
+      (is (= (get-in parsed-obj [:dictionary-entry]) "capio, capere, cepi, captus"))
+      (is (= (get-in parsed-obj [:definition]) "take hold, seize; grasp; take bribe; arrest/capture; put on; occupy; captivate;"))
+      (is (= (get-in parsed-obj [:dictionary-code :freq-code]) :A)))))
 
 (deftest parse-paragraphs-test
   (testing "agricolarum"
