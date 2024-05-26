@@ -169,6 +169,11 @@ terti.ae             NUM    1 3 VOC P F ORD
 tres -es -ia, tertius -a -um, terni -ae -a, ter  NUM   [XXXAX]  
  3th - (ORD, 'in series'); (a/the) 3th (part) (fract w/pars?);                  ")
 
+(def quatourdecim-paragraph
+  "quatuordecim         NUM    2 0 X   X X CARD            
+quatuordecim, -, -, quaterdecie (n)s  NUM   [XXXDS]    lesser
+ 14 - (CARD answers 'how many');                                                ")
+
 (deftest dictionary-entry-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
@@ -351,7 +356,10 @@ tres -es -ia, tertius -a -um, terni -ae -a, ter  NUM   [XXXAX]
       (is (= (get-in parsed-obj [:options 0 :numeral-type]) :ordinal))
       (is (= (get-in parsed-obj [:dictionary-entry]) "tres -es -ia, tertius -a -um, terni -ae -a, ter"))
       (is (= (get-in parsed-obj [:definition]) " 3th - (ORD, 'in series'); (a/the) 3th (part) (fract w/pars?);"))
-      (is (= (get-in parsed-obj [:part-of-speech]) :numeral)))))
+      (is (= (get-in parsed-obj [:part-of-speech]) :numeral))))
+  (testing "quatourdecim"
+    (let [parsed-obj (parse-single-word-output quatourdecim-paragraph)]
+      (is (= (get-in parsed-obj [:dictionary-entry]) "quatuordecim, -, -, quaterdecie (n)s")))))
 
 (deftest parse-paragraphs-test
   (testing "agricolarum"

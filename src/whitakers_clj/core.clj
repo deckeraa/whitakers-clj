@@ -418,6 +418,22 @@
                      (clojure.string/lower-case word2)))
           $)))
 
+(defn conjugated-definition [parsed-word]
+  ;; (println (str "conjugated-definition" parsed-word))
+  (let [selected-opt (first (:options parsed-word))
+        sectioned-word (:sectioned-word selected-opt)
+        un-sectioned-word (if sectioned-word
+                            (clojure.string/replace sectioned-word #"\." "")
+                            (:dictionary-entry parsed-word))]
+    (case (:part-of-speech selected-opt)
+      :unknown (str "UNKNOWN: " parsed-word)
+      :verb (str un-sectioned-word ": " (name (:tense selected-opt)) " from " (:dictionary-entry parsed-word))
+      (str un-sectioned-word ": from " (:dictionary-entry parsed-word) parsed-word))))
+
+(defn double-complete-vocabulary [parsed]
+  (let [lines (map conjugated-definition parsed)]
+    (clojure.string/join "\n" (sort lines))))
+
 (defn unknown-words [parsed]
   (filter #(= (:part-of-speech %) :unknown) parsed))
 
@@ -470,18 +486,20 @@
         ;; _ (println args-to-passthrough)
         result (sh "./bin/words" temp-file-name
                    :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER)
+        _ (println (:out result))
         parsed (parse-sections (:out result) {:condense-entries? true})
         freqs (word-frequency parsed)]
     ;; (println "Output from shell command:")
-    ;; (println (:out result))
-    ;; (pprint parsed)
+        ;; (pprint parsed)
     (println "\n")
-    (pprint (printed-vocabulary parsed))
+    ;; (pprint (printed-vocabulary parsed))
+    (print (double-complete-vocabulary parsed))
     (println "\n")
     (pprint (unknown-words parsed))
     (println "\n")
     ;; (pprint freqs)
     (println "\n")
-    (println (count freqs) "unique words," number-of-words "words total.")
+    (println (count freqs) "unique words," number-of-words "words total. Unique"
+             (str (float (* 100 (/ (count freqs) (if (> number-of-words 0) number-of-words 1)))) "%"))
     (println "Average sentence length:" (float (avg-sentence-length latin-text)) "words.")
     (System/exit 0)))
