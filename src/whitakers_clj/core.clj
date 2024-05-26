@@ -361,6 +361,7 @@
    (if (empty? paragraphs)
      already-split-paragraphs
      (let [lines (remove #(= "*" %) (clojure.string/split-lines paragraphs))
+           lines (map clojure.string/trim lines)
            first-paragraph-options (take-while is-parsing-options-line? lines)
            lines (nthrest lines (count first-paragraph-options))
            dictionary-entry-lines (take-while is-parsing-dictionary-entry-line? lines)
@@ -490,9 +491,10 @@
         parsed (parse-sections (:out result) {:condense-entries? true})
         freqs (word-frequency parsed)]
     ;; (println "Output from shell command:")
-        ;; (pprint parsed)
+    ;; (pprint parsed)
     (println "\n")
     ;; (pprint (printed-vocabulary parsed))
+    (println "Doubly-completed vocab")
     (print (double-complete-vocabulary parsed))
     (println "\n")
     (pprint (unknown-words parsed))

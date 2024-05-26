@@ -386,7 +386,10 @@ quatuordecim, -, -, quaterdecie (n)s  NUM   [XXXDS]    lesser
       (is (= (get-in parsed-obj [0 :case :ablative])))
       (is (= (get-in parsed-obj [0 :word "in"])))
       (is (= (get-in parsed-obj [0 :part-of-speech :preposition])))
-      (is (= (get-in parsed-obj [0 :case :accusative]))))))
+      (is (= (get-in parsed-obj [0 :case :accusative])))))
+  (testing "quatourdecim"
+    (let [parsed-obj (parse-paragraphs quatourdecim-paragraph)]
+      (is (= (get-in parsed-obj [0 :dictionary-entry]) "quatuordecim, -, -, quaterdecie (n)s")))))
 
 (deftest is-parsing-options-line?-test
   (is (= (is-parsing-options-line? "bon.um               ADJ    1 1 NOM S N POS             ") true))
@@ -398,46 +401,43 @@ quatuordecim, -, -, quaterdecie (n)s  NUM   [XXXDS]    lesser
 
 (deftest split-paragraphs-test
   (is (= (split-paragraphs cornu-paragraphs)
-         ["corn.u               N      4 1 ABL S F                 
-cornus, cornus  N (4th) F   [XXXCO]  
+         ["corn.u               N      4 1 ABL S F
+cornus, cornus  N (4th) F   [XXXCO]
 cornel-cherry-tree (Cornus mas); cornel wood; javelin (of cornel wood);"
-          
-          "corn.u               N      4 2 NOM S N                 
-corn.u               N      4 2 VOC S N                 
-corn.u               N      4 2 DAT S N                 
-corn.u               N      4 2 ABL S N                 
-corn.u               N      4 2 ACC S N                 
-cornu, cornus  N (4th) N   [XXXAO]  
+          "corn.u               N      4 2 NOM S N
+corn.u               N      4 2 VOC S N
+corn.u               N      4 2 DAT S N
+corn.u               N      4 2 ABL S N
+corn.u               N      4 2 ACC S N
+cornu, cornus  N (4th) N   [XXXAO]
 horn; hoof; beak/tusk/claw; bow; horn/trumpet; end, wing of army; mountain top;"
           ]))
   (is (= (split-paragraphs bonum-paragraphs)
-         ["bon.um               N      2 1 ACC S M                 
-bonus, boni  N (2nd) M   [XXXCO]  
+         ["bon.um               N      2 1 ACC S M
+bonus, boni  N (2nd) M   [XXXCO]
 good/moral/honest/brave man; man of honor, gentleman; better/rich people (pl.);"
-          
-          "bon.um               N      2 2 NOM S N                 
-bon.um               N      2 2 VOC S N                 
-bon.um               N      2 2 ACC S N                 
-bonum, boni  N (2nd) N   [XXXAO]  
+          "bon.um               N      2 2 NOM S N
+bon.um               N      2 2 VOC S N
+bon.um               N      2 2 ACC S N
+bonum, boni  N (2nd) N   [XXXAO]
 good, good thing, profit, advantage; goods (pl.), possessions, wealth, estate;"
-          
-          "bon.um               ADJ    1 1 NOM S N POS             
-bon.um               ADJ    1 1 VOC S N POS             
-bon.um               ADJ    1 1 ACC S M POS             
-bon.um               ADJ    1 1 ACC S N POS             
-bonus, bona -um, melior -or -us, optimus -a -um  ADJ   [XXXAO]  
+          "bon.um               ADJ    1 1 NOM S N POS
+bon.um               ADJ    1 1 VOC S N POS
+bon.um               ADJ    1 1 ACC S M POS
+bon.um               ADJ    1 1 ACC S N POS
+bonus, bona -um, melior -or -us, optimus -a -um  ADJ   [XXXAO]
 good, honest, brave, noble, kind, pleasant, right, useful; valid; healthy;"
           ]))
   (is (= (split-paragraphs edere-paragraphs)
-         ["ed.ere               V      3 1 PRES ACTIVE  INF 0 X    
-ed.ere               V      3 1 PRES PASSIVE IMP 2 S    
-ed.ere               V      3 1 FUT  PASSIVE IND 2 S    
-ed.ere               V      3 1 PERF ACTIVE  IND 3 P    
-edo, edere, edi, esus  V (3rd) TRANS   [XXXCO]  
+         ["ed.ere               V      3 1 PRES ACTIVE  INF 0 X
+ed.ere               V      3 1 PRES PASSIVE IMP 2 S
+ed.ere               V      3 1 FUT  PASSIVE IND 2 S
+ed.ere               V      3 1 PERF ACTIVE  IND 3 P
+edo, edere, edi, esus  V (3rd) TRANS   [XXXCO]
 eat/consume/devour; eat away (fire/water/disease); destroy; spend money on food"
           
-          "ed.ere               V      1 1 PRES PASSIVE SUB 2 S    
-edo, edare, edidi, editus  V (1st) TRANS   [XXXAO]  
+          "ed.ere               V      1 1 PRES PASSIVE SUB 2 S
+edo, edare, edidi, editus  V (1st) TRANS   [XXXAO]
 eject/emit; put/give forth (buds); beget; bear (fruit); display/evince/exhibit; utter solemnly; pronounce/decree (oracle); deliver (message); issue (command); publish; disclose, tell, relate, make known; declare, make formal statement; cause; see birth of; be birthplace/breeding ground of; debouch (river PASS); bring forth,  produce/yield (crops), give birth to (often PASS PERF VPAR); notify of suit; nominate for jury; appoint/set (a time); bring witnesses; present (documents for inspection; put on (play); hold (banquet); uplift;"
           ]))
   )
