@@ -174,6 +174,24 @@ tres -es -ia, tertius -a -um, terni -ae -a, ter  NUM   [XXXAX]
 quatuordecim, -, -, quaterdecie (n)s  NUM   [XXXDS]    lesser
  14 - (CARD answers 'how many');                                                ")
 
+(def ire-paragraphs
+  "i.re                 V      6 1 PRES ACTIVE  INF 0 X    
+i.re                 V      6 1 PRES PASSIVE IND 2 S    
+eo, ire, ivi(ii), itus  V   [XXXAX]  
+go, walk; march, advance; pass; flow; pass (time); ride; sail;
+ir.e                 N      3 3 LOC S M                 
+ir.e                 N      3 3 DAT S M                   Early   
+ir.e                 N      3 3 ABL S M                 
+iris, iris  N (3rd) M   [XAXFO]    veryrare
+hedgehog;
+ir.e                 N      3 3 LOC S F                 
+ir.e                 N      3 3 DAT S F                   Early   
+ir.e                 N      3 3 ABL S F                 
+Iris, Iris  N (3rd) F   [XYXCO]  
+Iris (messenger of the gods, goddess of the rainbow); rainbow;
+iris, iris  N (3rd) F   [XAXCO]  
+iris (plant)i; preparation of iris root; iridescent stone;")
+
 (deftest dictionary-entry-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
@@ -389,7 +407,10 @@ quatuordecim, -, -, quaterdecie (n)s  NUM   [XXXDS]    lesser
       (is (= (get-in parsed-obj [0 :case :accusative])))))
   (testing "quatourdecim"
     (let [parsed-obj (parse-paragraphs quatourdecim-paragraph)]
-      (is (= (get-in parsed-obj [0 :dictionary-entry]) "quatuordecim, -, -, quaterdecie (n)s")))))
+      (is (= (get-in parsed-obj [0 :dictionary-entry]) "quatuordecim, -, -, quaterdecie (n)s"))))
+  (testing "ire"
+    (let [parsed-obj (parse-paragraphs ire-paragraphs)]
+      (is (= (get-in parsed-obj [0 :dictionary-entry]) "eo, ire, ivi(ii), itus")))))
 
 (deftest is-parsing-options-line?-test
   (is (= (is-parsing-options-line? "bon.um               ADJ    1 1 NOM S N POS             ") true))

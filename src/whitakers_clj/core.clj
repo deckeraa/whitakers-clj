@@ -333,6 +333,8 @@
                                (remove empty?)
                                last)]
         (part-of-speech penultimate)) ;; some, like beatus, don't, so grab the penultimate piece
+      (let [first-line (get pieces 0)]
+        (part-of-speech (get first-line (- (count first-line) 4)))) ;; some like ire (see the iris entry) have it third from the end
       ))
 
 (defn parse-single-word-output [paragraph]
