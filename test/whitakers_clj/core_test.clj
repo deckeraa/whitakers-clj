@@ -192,6 +192,13 @@ Iris (messenger of the gods, goddess of the rainbow); rainbow;
 iris, iris  N (3rd) F   [XAXCO]  
 iris (plant)i; preparation of iris root; iridescent stone;")
 
+(def ierunt-paragraphs
+  "Syncope  ier=>iver   
+Syncopated perfect often drops the 'v' and contracts vowel
+iv.erunt             V      6 1 PERF ACTIVE  IND 3 P    
+eo, ire, ivi(ii), itus  V   [XXXAX]  
+go, walk; march, advance; pass; flow; pass (time); ride; sail;")
+
 (deftest dictionary-entry-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
@@ -410,6 +417,9 @@ iris (plant)i; preparation of iris root; iridescent stone;")
       (is (= (get-in parsed-obj [0 :dictionary-entry]) "quatuordecim, -, -, quaterdecie (n)s"))))
   (testing "ire"
     (let [parsed-obj (parse-paragraphs ire-paragraphs)]
+      (is (= (get-in parsed-obj [0 :dictionary-entry]) "eo, ire, ivi(ii), itus"))))
+  (testing "ierunt"
+    (let [parsed-obj (parse-paragraphs ierunt-paragraphs)]
       (is (= (get-in parsed-obj [0 :dictionary-entry]) "eo, ire, ivi(ii), itus")))))
 
 (deftest is-parsing-options-line?-test
