@@ -17,14 +17,22 @@
 (def dictionary-override
   {"Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic."})
 
-(def dictionary
+(def dictionary-map
   {"Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic."
    "dīxērunt" "they said"
    "dīxit" "he said"
    "frātrēs" "brothers"
+   "ego" "I"
+   "tu" "you"
    })
+
+(defn dictionary [v]
+  (when v
+    (or (dictionary-map v)
+        (dictionary-map (clojure.string/lower-case v))
+        (dictionary-map (clojure.string/upper-case v)))))
 
 (def macronized-words
   (into {} (map (fn [v]
                   {(remove-macrons v) v})
-                (concat (keys dictionary) (keys dictionary-override)))))
+                (concat (keys dictionary-map) (keys dictionary-override)))))

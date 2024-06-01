@@ -434,6 +434,11 @@
      "3" "3rd"} person)
    " person"))
 
+(defn append-character-if-needed [s c]
+  (if (= c (last s))
+    s
+    (str s c)))
+
 (defn conjugated-definition [parsed-word]
   ;; (println (str "conjugated-definition" parsed-word))
   (let [selected-opt (first (:options parsed-word))
@@ -443,7 +448,8 @@
                             (or (:dictionary-entry parsed-word) (:word parsed-word)))
         word (or (macronized-words un-sectioned-word)
                  un-sectioned-word)
-        definition (or (dictionary word) (:definition parsed-word))]
+        definition (or (dictionary word) (:definition parsed-word))
+        definition (append-character-if-needed definition \;)]
     (if (dictionary-override word)
       (str word ": " (dictionary-override word))
       (case (or (:part-of-speech selected-opt) (:part-of-speech parsed-word))
