@@ -15,14 +15,28 @@
       (clojure.string/replace #"Ū" "U")))
 
 (def dictionary-override
-  {"Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic."})
+  {"Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic."
+   "illam" "to that; singular feminine accusative from ille, illa, illud"
+   "īre" "to go; present infinitive from eō, īre, iī, itus (irregular)"
+   "ita" "yes"
+   "mēcum" "with me (mē + cum)"
+   "quattuordecim" "14"
+   "sānctōrum" "of the saints; plural masculine gentive from sānctus, sānctī"
+   "tēcum" "with you (tē + cum)"
+   "tunc" "then"
+   "vel" "or"})
 
 (def dictionary-map
   {"Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic."
    "dīxērunt" "they said"
    "dīxit" "he said"
-   "frātrēs" "brothers"
    "ego" "I"
+   "frātrēs" "brothers"
+   "ībimus" "we will go"
+   "īre" "to go"
+   "ita" "yes; in this manner"
+   "nāvigāre" "to sail"
+   "nāvigāvērunt" "they sailed"
    "tu" "you"
    })
 

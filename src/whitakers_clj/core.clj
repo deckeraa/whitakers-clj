@@ -440,7 +440,6 @@
     (str s c)))
 
 (defn conjugated-definition [parsed-word]
-  ;; (println (str "conjugated-definition" parsed-word))
   (let [selected-opt (first (:options parsed-word))
         sectioned-word (:sectioned-word selected-opt)
         un-sectioned-word (if sectioned-word
@@ -455,9 +454,10 @@
       (case (or (:part-of-speech selected-opt) (:part-of-speech parsed-word))
         :unknown (str "UNKNOWN: " parsed-word)
         :preposition (str word ": " definition "(preposition)")
-        :pronoun (str word ": " definition "(pronoun)")
+        :pronoun (str word ": " definition "(pronoun)" parsed-word word)
         :verb (str word ": " definition " "
-                   (pretty-person (:person selected-opt)) " "
+                   (when-let [v (:person selected-opt)]
+                     (pretty-person v)) " "
                    (when-let [v (:number selected-opt)]
                      (str (name v) " "))
                    (name (:tense selected-opt)) " "
