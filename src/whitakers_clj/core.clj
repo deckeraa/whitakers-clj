@@ -1,5 +1,6 @@
 (ns whitakers-clj.core
   (:require [whitakers-clj.dictionary-codes :refer [parse-dictionary-code]]
+            [whitakers-clj.dictionary-override :refer [dictionary-override dictionary macronized-words]]
             [clojure.java.shell :refer [sh]]
             [clojure.java.io :as io])
   (:use clojure.pprint)
@@ -423,20 +424,51 @@
                      (clojure.string/lower-case word2)))
           $)))
 
+(defn pretty-person [person]
+  (str
+   ({1 "1st"
+     "1" "1st"
+     2 "2nd"
+     "2" "2nd"
+     3 "3rd"
+     "3" "3rd"} person)
+   " person"))
+
 (defn conjugated-definition [parsed-word]
   ;; (println (str "conjugated-definition" parsed-word))
   (let [selected-opt (first (:options parsed-word))
         sectioned-word (:sectioned-word selected-opt)
         un-sectioned-word (if sectioned-word
                             (clojure.string/replace sectioned-word #"\." "")
-                            (:dictionary-entry parsed-word))]
-    (case (:part-of-speech selected-opt)
-      :unknown (str "UNKNOWN: " parsed-word)
-      :verb (str un-sectioned-word ": " (name (:tense selected-opt)) " from " (:dictionary-entry parsed-word))
-      (str un-sectioned-word ": from " (:dictionary-entry parsed-word) parsed-word))))
+                            (or (:dictionary-entry parsed-word) (:word parsed-word)))
+        word (or (macronized-words un-sectioned-word)
+                 un-sectioned-word)
+        definition (or (dictionary word) (:definition parsed-word))]
+    (if (dictionary-override word)
+      (str word ": " (dictionary-override word))
+      (case (or (:part-of-speech selected-opt) (:part-of-speech parsed-word))
+        :unknown (str "UNKNOWN: " parsed-word)
+        :preposition (str word ": " definition "(preposition)")
+        :pronoun (str word ": " definition "(pronoun)")
+        :verb (str word ": " definition " "
+                   (pretty-person (:person selected-opt)) " "
+                   (when-let [v (:number selected-opt)]
+                     (str (name v) " "))
+                   (name (:tense selected-opt)) " "
+                   (when (= (:voice selected-opt) :passive)
+                     (str (name (:voice selected-opt)) " "))
+                   (when (= (:mood selected-opt) :subjunctive)
+                     (str (name (:mood selected-opt)) " "))
+                   " from " (:dictionary-entry parsed-word))
+        :noun (str word ": " definition " "
+                   (name (:number selected-opt)) " "
+                   (name (:gender selected-opt)) " "
+                   (name (:case selected-opt)) " "
+                   "from " (:dictionary-entry parsed-word))
+        (str word ": from " (:dictionary-entry parsed-word) parsed-word)))))
 
 (defn double-complete-vocabulary [parsed]
-  (let [lines (map conjugated-definition parsed)]
+  (let [lines (distinct (map conjugated-definition parsed))]
     (clojure.string/join "\n" (sort lines))))
 
 (defn unknown-words [parsed]
