@@ -29,7 +29,10 @@
    "vel" "or"})
 
 (def dictionary-map
-  {"Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic."
+  {"abbās" "abbot"
+   "abbās, abbātis" "abbot"
+   "ambulābant" "they were walking"
+   "Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic."
    "dīxērunt" "they said"
    "dīxit" "he said"
    "ego" "I"

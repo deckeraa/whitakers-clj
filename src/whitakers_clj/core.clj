@@ -254,8 +254,12 @@
   (let [sectioned-word (get-in pieces [0 0])
         [stem ending] (clojure.string/split sectioned-word #"\.")
         dictionary-entry-line (last (drop-last pieces))
-        definition-line (last pieces)]
-    {:options (mapv parse-pronoun-option-line (drop-last 2 pieces))
+        definition-line (last pieces)
+        options (mapv parse-pronoun-option-line (drop-last 2 pieces))
+        word (:word (first options))
+        word (or ({"m.e" "me" "s.e" "se" "qu.o" "quo"} word) word)]
+    {:options options
+     :word word
      :part-of-speech :pronoun
      :dictionary-entry (dictionary-entry-from-pieces dictionary-entry-line)
      :definition (clojure.string/join " " definition-line)
@@ -446,17 +450,19 @@
         sectioned-word (:sectioned-word selected-opt)
         un-sectioned-word (if sectioned-word
                             (clojure.string/replace sectioned-word #"\." "")
-                            (or (:dictionary-entry parsed-word) (:word parsed-word)))
+                            (or (:word parsed-word) (:dictionary-entry parsed-word)))
         word (or (macronized-words un-sectioned-word)
                  un-sectioned-word)
         definition (or (dictionary word) (:definition parsed-word))
-        definition (append-character-if-needed definition \;)]
+        definition (append-character-if-needed definition \;)
+        dict-entry (or (macronized-words (:dictionary-entry parsed-word))
+                             (:dictionary-entry parsed-word))]
     (if (dictionary-override word)
       (str word ": " (dictionary-override word))
       (case (or (:part-of-speech selected-opt) (:part-of-speech parsed-word))
         :unknown (str "UNKNOWN: " parsed-word)
         :preposition (str word ": " definition "(preposition)")
-        :pronoun (str word ": " definition "(pronoun)" parsed-word word)
+        :pronoun (str word ": " definition "(pronoun)")
         :verb (str word ": " definition " "
                    (when-let [v (:person selected-opt)]
                      (pretty-person v)) " "
@@ -467,13 +473,18 @@
                      (str (name (:voice selected-opt)) " "))
                    (when (= (:mood selected-opt) :subjunctive)
                      (str (name (:mood selected-opt)) " "))
-                   " from " (:dictionary-entry parsed-word))
+                   " from " dict-entry)
         :noun (str word ": " definition " "
                    (name (:number selected-opt)) " "
                    (name (:gender selected-opt)) " "
                    (name (:case selected-opt)) " "
-                   "from " (:dictionary-entry parsed-word))
-        (str word ": from " (:dictionary-entry parsed-word) parsed-word)))))
+                   "from " dict-entry)
+        :adjective (str word ": " definition " "
+                        (name (:number selected-opt)) " "
+                        (name (:gender selected-opt)) " "
+                        (name (:case selected-opt)) " "
+                        "from " dict-entry)
+        (str word ": from " dict-entry parsed-word)))))
 
 (defn double-complete-vocabulary [parsed]
   (let [lines (distinct (map conjugated-definition parsed))]
