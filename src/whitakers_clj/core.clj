@@ -468,30 +468,44 @@
                      (pretty-person v)) " "
                    (when-let [v (:number selected-opt)]
                      (str (name v) " "))
-                   (name (:tense selected-opt)) " "
+                   (when-let [v  (:tense selected-opt)]
+                     (str (name v) " "))
                    (when (= (:voice selected-opt) :passive)
                      (str (name (:voice selected-opt)) " "))
                    (when (= (:mood selected-opt) :subjunctive)
                      (str (name (:mood selected-opt)) " "))
-                   " from " dict-entry)
+                   "from " dict-entry)
         :noun (str word ": " definition " "
-                   (name (:number selected-opt)) " "
-                   (name (:gender selected-opt)) " "
-                   (name (:case selected-opt)) " "
+                   (when-let [v (:number selected-opt)]
+                     (str (name v) " "))
+                   (when-let [v (:gender selected-opt)]
+                     (str (name v) " "))
+                   (when-let [v (:case selected-opt)]
+                     (str (name v) " "))
                    "from " dict-entry)
         :adjective (str word ": " definition " "
-                        (name (:number selected-opt)) " "
-                        (name (:gender selected-opt)) " "
-                        (name (:case selected-opt)) " "
+                        (when-let [v (:number selected-opt)]
+                          (str (name v) " "))
+                        (when-let [v (:gender selected-opt)]
+                          (str (name v) " "))
+                        (when-let [v (:case selected-opt)]
+                          (str (name v) " "))
                         "from " dict-entry)
+        :participle (str word ": " definition " "
+                         (when-let [v (:number selected-opt)]
+                           (str (name v) " "))
+                         (when-let [v (:gender selected-opt)]
+                           (str (name v) " "))
+                         (when-let [v (:case selected-opt)]
+                           (str (name v) " "))
+                         (when-let [v  (:tense selected-opt)]
+                           (str (name v) " "))
+                         (when (= (:voice selected-opt) :passive)
+                           (str (name (:voice selected-opt)) " "))
+                         (when (= (:mood selected-opt) :subjunctive)
+                           (str (name (:mood selected-opt)) " "))
+                         "participle from " dict-entry)
         (str word ": from " dict-entry parsed-word)))))
-
-(defn double-complete-vocabulary [parsed]
-  (let [lines (distinct (map conjugated-definition parsed))]
-    (clojure.string/join "\n" (sort lines))))
-
-(defn unknown-words [parsed]
-  (filter #(= (:part-of-speech %) :unknown) parsed))
 
 (defn remove-macrons [s]
   (-> s
@@ -505,6 +519,16 @@
       (clojure.string/replace #"Ō" "O")
       (clojure.string/replace #"ū" "u")
       (clojure.string/replace #"Ū" "U")))
+
+(defn double-complete-vocabulary [parsed]
+  (let [lines (distinct (map conjugated-definition parsed))]
+    (clojure.string/join "\n" (sort (fn [a b]
+                                      (compare (remove-macrons a)
+                                               (remove-macrons b)))
+                                    lines))))
+
+(defn unknown-words [parsed]
+  (filter #(= (:part-of-speech %) :unknown) parsed))
 
 (defn remove-troublesome-puncuation [s]
   (-> s
