@@ -161,7 +161,7 @@
     {:sectioned-word sectioned-word
      :stem stem
      :ending ending
-     :part-of-speech (part-of-speech (get pieces 1))
+     :part-of-speech :noun
      :declension (parse-long (get pieces 2))
      ;; :variant (parse-long (get pieces 3)) ;; not sure this means anything grammatical
      :case (grammatical-case (get pieces 4))
@@ -244,7 +244,7 @@
 
 (defn parse-pronoun-option-line [pieces]
   {:word (get pieces 0)
-   :part-of-speech (part-of-speech (get pieces 1))
+   :part-of-speech :pronoun
    :declension (parse-long (get pieces 2))
    :case (grammatical-case (get pieces 4))
    :number (grammatical-number (get pieces 5))
@@ -304,7 +304,7 @@
         definition-line (last pieces)]
     {:options (mapv parse-verb-option-line (drop-last 2 pieces))
      :sectioned-word (get-in pieces [0 0])
-     :part-of-speech (part-of-speech (get-in pieces [0 1]))
+     :part-of-speech :verb
      :conjugation (parse-long (get-in pieces [0 2]))
      :dictionary-entry (dictionary-entry-from-pieces dictionary-entry-line)
      :definition (clojure.string/join " " definition-line)
@@ -334,8 +334,10 @@
                                (remove empty?)
                                last)]
         (part-of-speech penultimate)) ;; some, like beatus, don't, so grab the penultimate piece
-      (let [first-line (get pieces 0)]
-        (part-of-speech (get first-line (- (count first-line) 4)))) ;; some like ire (see the iris entry) have it third from the end
+      (first (remove nil? (map part-of-speech (get pieces 0))))
+      ;; (let [first-line (get pieces 0)]
+      ;;   (part-of-speech (get first-line (- (count first-line) 4))))
+      ;; some like ire (see the iris entry) have it third from the end
       ))
 
 (defn parse-single-word-output [paragraph]

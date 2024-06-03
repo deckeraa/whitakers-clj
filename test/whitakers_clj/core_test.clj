@@ -199,6 +199,13 @@ iv.erunt             V      6 1 PERF ACTIVE  IND 3 P
 eo, ire, ivi(ii), itus  V   [XXXAX]  
 go, walk; march, advance; pass; flow; pass (time); ride; sail;")
 
+(def revertare-paragraphs
+  "revert.are           V      3 1 PRES PASSIVE SUB 2 S    
+reverto, revertere, reverti, -  V (3rd)   [XXXAX]  
+turn back, go back, return; recur (usually DEP);
+revertor, reverti, reversus sum  V (3rd) DEP   [XXXDX]    lesser
+turn back, go back, return; recur;")
+
 (deftest dictionary-entry-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
@@ -420,7 +427,10 @@ go, walk; march, advance; pass; flow; pass (time); ride; sail;")
       (is (= (get-in parsed-obj [0 :dictionary-entry]) "eo, ire, ivi(ii), itus"))))
   (testing "ierunt"
     (let [parsed-obj (parse-paragraphs ierunt-paragraphs)]
-      (is (= (get-in parsed-obj [0 :dictionary-entry]) "eo, ire, ivi(ii), itus")))))
+      (is (= (get-in parsed-obj [0 :dictionary-entry]) "eo, ire, ivi(ii), itus"))))
+  (testing "revertare"
+    (let [parsed-obj (parse-paragraphs revertare-paragraphs)]
+      (is (= (get-in parsed-obj [1 :dictionary-entry]) "revertor, reverti, reversus sum")))))
 
 (deftest is-parsing-options-line?-test
   (is (= (is-parsing-options-line? "bon.um               ADJ    1 1 NOM S N POS             ") true))

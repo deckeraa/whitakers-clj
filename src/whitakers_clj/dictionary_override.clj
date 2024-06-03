@@ -19,9 +19,11 @@
    "illam" "to that; singular feminine accusative from ille, illa, illud"
    "īre" "to go; present infinitive from eō, īre, iī, itus (irregular)"
    "ita" "yes"
+   "mē" "to me, accusative from ego."
    "mēcum" "with me (mē + cum)"
    "quattuordecim" "14"
    "sānctōrum" "of the saints; plural masculine gentive from sānctus, sānctī"
+   "tē" "to you, accusative from tu."
    "tēcum" "with you (tē + cum)"
    "tunc" "then"
    "vel" "or"})
