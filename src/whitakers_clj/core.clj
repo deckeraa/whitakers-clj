@@ -257,7 +257,11 @@
         definition-line (last pieces)
         options (mapv parse-pronoun-option-line (drop-last 2 pieces))
         word (:word (first options))
-        word (or ({"m.e" "me" "s.e" "se" "qu.o" "quo"} word) word)]
+        word (or ({"m.e" "me" "s.e" "se" "qu.o" "quo"
+                   "e.ius" "eius" "ill.am" "illam"
+                   "ill.is" "illīs" "ill.ius" "illīus" "ill.ud" "illud"
+                   "ill.um" "illum" "ist.o" "istō"
+                   "n.obis" "nōbīs"} word) word)]
     {:options options
      :word word
      :part-of-speech :pronoun
