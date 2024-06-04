@@ -555,7 +555,7 @@
          1))))
 
 (defn words-not-found-in-dictionary [parsed]
-  (remove #(dictionary %) (map parsed-word->word parsed)))
+  (sort (distinct (remove #(dictionary %) (map parsed-word->word parsed)))))
 
 ;; Whitaker's Words must be run as ./bin/words from the project folder,
 ;; otherwise it says "There is no INFLECTS.SEC file."

@@ -152,6 +152,8 @@
    "nox, noctis" "night"
    "ōrāvērunt" "they prayed"
    "ōrō, ōrāre, ōrāvī, ōrātus" "to pray"
+   "paradīsus, paradīsī" "paradise"
+   "paradīsus" "paradise"
    "reprōmissiō, reprōmissiōnis" "promise"
    "reprōmissiōnis" "promise"
    "revertērunt" "they returned"
@@ -177,9 +179,13 @@
 
 (defn dictionary [v]
   (when v
-    (or (dictionary-map v)
-        (dictionary-map (clojure.string/lower-case v))
-        (dictionary-map (clojure.string/upper-case v)))))
+    (or
+     (dictionary-override v)
+     (dictionary-override (clojure.string/lower-case v))
+     (dictionary-override (clojure.string/upper-case v))
+     (dictionary-map v)
+     (dictionary-map (clojure.string/lower-case v))
+     (dictionary-map (clojure.string/upper-case v)))))
 
 (def macronized-words
   (into {} (map (fn [v]
