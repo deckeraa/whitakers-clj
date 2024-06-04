@@ -445,18 +445,24 @@
     s
     (str s c)))
 
-(defn conjugated-definition [parsed-word]
+(defn parsed-word->word [parsed-word]
+  ;; TODO this should really be handled already by parsed-word...
   (let [selected-opt (first (:options parsed-word))
         sectioned-word (:sectioned-word selected-opt)
         un-sectioned-word (if sectioned-word
                             (clojure.string/replace sectioned-word #"\." "")
                             (or (:word parsed-word) (:dictionary-entry parsed-word)))
         word (or (macronized-words un-sectioned-word)
-                 un-sectioned-word)
+                 un-sectioned-word)]
+    word))
+
+(defn conjugated-definition [parsed-word]
+  (let [selected-opt (first (:options parsed-word))
+        word (parsed-word->word parsed-word)
         definition (or (dictionary word) (:definition parsed-word))
         definition (append-character-if-needed definition \;)
         dict-entry (or (macronized-words (:dictionary-entry parsed-word))
-                             (:dictionary-entry parsed-word))]
+                       (:dictionary-entry parsed-word))]
     (if (dictionary-override word)
       (str word ": " (dictionary-override word))
       (case (or (:part-of-speech selected-opt) (:part-of-speech parsed-word))
@@ -548,6 +554,9 @@
          num-periods
          1))))
 
+(defn words-not-found-in-dictionary [parsed]
+  (remove #(dictionary %) (map parsed-word->word parsed)))
+
 ;; Whitaker's Words must be run as ./bin/words from the project folder,
 ;; otherwise it says "There is no INFLECTS.SEC file."
 (def PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER "../whitakers-words")
@@ -575,9 +584,10 @@
     ;; (pprint (printed-vocabulary parsed))
     (println "Doubly-completed vocab")
     (print (double-complete-vocabulary parsed))
+    ;; (println "\n")
+    ;; (pprint (unknown-words parsed))
     (println "\n")
-    (pprint (unknown-words parsed))
-    (println "\n")
+    (println (words-not-found-in-dictionary parsed))
     ;; (pprint freqs)
     (println "\n")
     (println (count freqs) "unique words," number-of-words "words total. Unique"
