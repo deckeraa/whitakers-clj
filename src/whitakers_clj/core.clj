@@ -461,7 +461,7 @@
                             (or (:word parsed-word) (:dictionary-entry parsed-word)))
         word (or (macronized-words un-sectioned-word)
                  un-sectioned-word)
-        word (or ({"ess.e" "esse"} word) word)]
+        word (or ({"ess.e" "esse" "sc.is" "scīs"} word) word)]
     word))
 
 (defn conjugated-definition [parsed-word]
@@ -498,6 +498,14 @@
                      (str (name v) " "))
                    "from " dict-entry)
         :adjective (str word ": " definition " "
+                        (when-let [v (:number selected-opt)]
+                          (str (name v) " "))
+                        (when-let [v (:gender selected-opt)]
+                          (str (name v) " "))
+                        (when-let [v (:case selected-opt)]
+                          (str (name v) " "))
+                        "from " dict-entry)
+        :numeral (str word ": " definition " "
                         (when-let [v (:number selected-opt)]
                           (str (name v) " "))
                         (when-let [v (:gender selected-opt)]
