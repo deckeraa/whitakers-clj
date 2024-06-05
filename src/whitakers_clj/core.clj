@@ -260,7 +260,7 @@
         word (or ({"m.e" "me" "s.e" "se" "qu.o" "quo"
                    "e.ius" "eius" "ill.am" "illam"
                    "ill.is" "illīs" "ill.ius" "illīus" "ill.ud" "illud"
-                   "ill.um" "illum" "ist.o" "istō"
+                   "ill.um" "illum" "ist.o" "istō" "s.ibi" "sibi"
                    "n.obis" "nōbīs"} word) word)]
     {:options options
      :word word
