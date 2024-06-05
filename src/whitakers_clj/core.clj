@@ -261,7 +261,8 @@
                    "e.ius" "eius" "ill.am" "illam"
                    "ill.is" "illīs" "ill.ius" "illīus" "ill.ud" "illud"
                    "ill.um" "illum" "ist.o" "istō" "s.ibi" "sibi"
-                   "n.obis" "nōbīs"} word) word)]
+                   "n.obis" "nōbīs" "h.aec" "haec" "h.ic" "hic" "ill.arum" "illarum"
+                   "m.ei" "meī" "m.ihi" "mihī" "ist.ae" "istae"} word) word)]
     {:options options
      :word word
      :part-of-speech :pronoun
@@ -457,7 +458,8 @@
                             (clojure.string/replace sectioned-word #"\." "")
                             (or (:word parsed-word) (:dictionary-entry parsed-word)))
         word (or (macronized-words un-sectioned-word)
-                 un-sectioned-word)]
+                 un-sectioned-word)
+        word (or ({"ess.e" "esse"} word) word)]
     word))
 
 (defn conjugated-definition [parsed-word]
@@ -528,7 +530,8 @@
       (clojure.string/replace #"ō" "o")
       (clojure.string/replace #"Ō" "O")
       (clojure.string/replace #"ū" "u")
-      (clojure.string/replace #"Ū" "U")))
+      (clojure.string/replace #"Ū" "U")
+      (clojure.string/replace #"ȳ" "y")))
 
 (defn double-complete-vocabulary [parsed]
   (let [lines (distinct (map conjugated-definition parsed))]
