@@ -265,6 +265,7 @@
                    "m.ei" "meī" "m.ihi" "mihī" "ist.ae" "istae" "qu.a" "qua" "qu.ae" "quae"
                    "qu.id" "quid" "qu.od" "quod" "ill.a" "illa" "ist.um" "istum" "n.os" "nos"
                    "qu.i" "qui" "nostr.um" "nostrum" "t.e" "te" "t.ibi" "tibi"
+                   "e.um" "eum" "h.is" "hīs" "qu.am" "quam"
                    } word) word)]
     {:options options
      :word word
@@ -464,7 +465,8 @@
                             (or (:word parsed-word) (:dictionary-entry parsed-word)))
         word (or (macronized-words un-sectioned-word)
                  un-sectioned-word)
-        word (or ({"ess.e" "esse" "sc.is" "scīs"} word) word)]
+        word (or ({"ess.e" "esse" "sc.is" "scīs" "laud.ate" "laudāte"
+                   "fin.itis" "fīnītīs"} word) word)]
     word))
 
 (defn conjugated-definition [parsed-word]
