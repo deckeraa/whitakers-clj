@@ -264,7 +264,7 @@
                    "n.obis" "nōbīs" "h.aec" "haec" "h.ic" "hic" "ill.arum" "illarum"
                    "m.ei" "meī" "m.ihi" "mihī" "ist.ae" "istae" "qu.a" "qua" "qu.ae" "quae"
                    "qu.id" "quid" "qu.od" "quod" "ill.a" "illa" "ist.um" "istum" "n.os" "nos"
-                   "qu.i" "qui"
+                   "qu.i" "qui" "nostr.um" "nostrum" "t.e" "te" "t.ibi" "tibi"
                    } word) word)]
     {:options options
      :word word
