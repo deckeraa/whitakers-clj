@@ -266,6 +266,7 @@
                    "qu.id" "quid" "qu.od" "quod" "ill.a" "illa" "ist.um" "istum" "n.os" "nos"
                    "qu.i" "qui" "nostr.um" "nostrum" "t.e" "te" "t.ibi" "tibi"
                    "e.um" "eum" "h.is" "hīs" "qu.am" "quam" "nostr.i" "nostrī"
+                   "ill.os" "illōs"
                    } word) word)]
     {:options options
      :word word
@@ -466,7 +467,7 @@
         word (or (macronized-words un-sectioned-word)
                  un-sectioned-word)
         word (or ({"ess.e" "esse" "sc.is" "scīs" "laud.ate" "laudāte"
-                   "fin.itis" "fīnītīs"} word) word)]
+                   "fin.itis" "fīnītīs" "consumm.atis" "cōnsummātīs"} word) word)]
     word))
 
 (defn conjugated-definition [parsed-word]
