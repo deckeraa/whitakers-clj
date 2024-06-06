@@ -549,8 +549,8 @@
 (defn double-complete-vocabulary [parsed]
   (let [lines (distinct (map conjugated-definition parsed))]
     (clojure.string/join "\n" (sort (fn [a b]
-                                      (compare (remove-macrons a)
-                                               (remove-macrons b)))
+                                      (compare (clojure.string/lower-case (remove-macrons a))
+                                               (clojure.string/lower-case (remove-macrons b))))
                                     lines))))
 
 (defn unknown-words [parsed]
