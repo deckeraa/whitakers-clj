@@ -266,7 +266,8 @@
                    "qu.id" "quid" "qu.od" "quod" "ill.a" "illa" "ist.um" "istum" "n.os" "nos"
                    "qu.i" "qui" "nostr.um" "nostrum" "t.e" "te" "t.ibi" "tibi"
                    "e.um" "eum" "h.is" "hīs" "qu.am" "quam" "nostr.i" "nostrī"
-                   "ill.os" "illōs"
+                   "ill.os" "illōs" "h.oc" "hōc" "ill.orum" "illōrum" "qu.os" "quōs"
+                   "v.obis" "vōbīs"
                    } word) word)]
     {:options options
      :word word
