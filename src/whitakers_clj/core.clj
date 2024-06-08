@@ -269,7 +269,7 @@
                    "ill.os" "illōs" "h.oc" "hōc" "ill.orum" "illōrum" "qu.os" "quōs"
                    "v.obis" "vōbīs" "aliqu.id" "aliquid" "ill.o" "illō" "ist.ud" "istud"
                    "e.orum" "eōrum" "h.ac" "hac" "h.as" "has" "qu.as" "quas" "cu.jus" "cuius"
-                   "e.is" "eīs" "ist.i" "istī" "qu.is" "quis" "s.ui" "suī"
+                   "e.is" "eīs" "ist.i" "istī" "qu.is" "quis" "s.ui" "suī" "occurr.it" "occurrit"
                    } word) word)]
     {:options options
      :word word
