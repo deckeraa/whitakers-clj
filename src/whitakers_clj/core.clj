@@ -477,6 +477,7 @@
                    "custod.ite" "custōdīte" "occurr.it" "occurrit"
                    "gravit.atis" "gravitātis" "pleb.em" "plēbem"
                    "sanctific.ate" "sanctificāte" "dux.erunt" "dūxērunt" "lav.atis" "lavātis"
+                   "dux.imus" "dūximus"
                    } word) word)]
     word))
 
