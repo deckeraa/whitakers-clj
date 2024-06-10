@@ -271,6 +271,7 @@
                    "e.orum" "eōrum" "h.ac" "hac" "h.as" "has" "qu.as" "quas" "cu.jus" "cuius"
                    "e.is" "eīs" "ist.i" "istī" "qu.is" "quis" "s.ui" "suī" "qu.ibus" "quibus"
                    "aliqu.am" "aliquam" "qu.em" "quem" "cu.i" "cui"
+                   "v.os" "vōs"
                    } word) word)]
     {:options options
      :word word
@@ -477,7 +478,7 @@
                    "custod.ite" "custōdīte" "occurr.it" "occurrit"
                    "gravit.atis" "gravitātis" "pleb.em" "plēbem"
                    "sanctific.ate" "sanctificāte" "dux.erunt" "dūxērunt" "lav.atis" "lavātis"
-                   "dux.imus" "dūximus"
+                   "dux.imus" "dūximus" "gravit.ate" "gravitāte"
                    } word) word)]
     word))
 
