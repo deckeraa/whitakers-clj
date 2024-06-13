@@ -270,7 +270,8 @@
                    "v.obis" "vōbīs" "aliqu.id" "aliquid" "ill.o" "illō" "ist.ud" "istud"
                    "e.orum" "eōrum" "h.ac" "hac" "h.as" "has" "qu.as" "quas" "cu.jus" "cuius"
                    "e.is" "eīs" "ist.i" "istī" "qu.is" "quis" "s.ui" "suī" "qu.ibus" "quibus"
-                   "aliqu.am" "aliquam" "qu.em" "quem" "cu.i" "cui"
+                   "aliqu.am" "aliquam" "qu.em" "quem" "cu.i" "cui" "alicu.i" "alicui"
+                   "aliqu.od" "aliquod"
                    "v.os" "vōs"
                    } word) word)]
     {:options options
