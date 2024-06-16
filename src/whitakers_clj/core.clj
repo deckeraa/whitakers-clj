@@ -272,7 +272,7 @@
                    "e.is" "eīs" "ist.i" "istī" "qu.is" "quis" "s.ui" "suī" "qu.ibus" "quibus"
                    "aliqu.am" "aliquam" "qu.em" "quem" "cu.i" "cui" "alicu.i" "alicui"
                    "aliqu.od" "aliquod" "i.d" "id" "h.anc" "hanc" "h.unc" "hunc"
-                   "v.os" "vōs"
+                   "v.os" "vōs" "e.i" "eī" "ips.um" "ipsum"
                    } word) word)]
     {:options options
      :word word
