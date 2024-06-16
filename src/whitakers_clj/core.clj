@@ -479,7 +479,7 @@
                    "custod.ite" "custōdīte" "occurr.it" "occurrit"
                    "gravit.atis" "gravitātis" "pleb.em" "plēbem"
                    "sanctific.ate" "sanctificāte" "dux.erunt" "dūxērunt" "lav.atis" "lavātis"
-                   "dux.imus" "dūximus" "gravit.ate" "gravitāte"
+                   "dux.imus" "dūximus" "gravit.ate" "gravitāte" "infer.os" "inferōs" "christo" "Chrīstō"
                    } word) word)]
     word))
 
