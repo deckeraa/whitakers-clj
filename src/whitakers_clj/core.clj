@@ -505,7 +505,7 @@
                      (str (name v) " "))
                    (when (= (:voice selected-opt) :passive)
                      (str (name (:voice selected-opt)) " "))
-                   (when (= (:mood selected-opt) :subjunctive)
+                   (when (#{:subjunctive :imperative} (:mood selected-opt))
                      (str (name (:mood selected-opt)) " "))
                    "from " dict-entry)
         :noun (str word ": " definition " "
@@ -624,6 +624,7 @@
     ;; (pprint (unknown-words parsed))
     (println "\n")
     (println (words-not-found-in-dictionary parsed))
+    (println (count (words-not-found-in-dictionary parsed)))
     ;; (pprint freqs)
     (println "\n")
     (println (count freqs) "unique words," number-of-words "words total. Unique"
