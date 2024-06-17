@@ -480,6 +480,7 @@
                    "gravit.atis" "gravitātis" "pleb.em" "plēbem"
                    "sanctific.ate" "sanctificāte" "dux.erunt" "dūxērunt" "lav.atis" "lavātis"
                    "dux.imus" "dūximus" "gravit.ate" "gravitāte" "infer.os" "inferōs" "christo" "Chrīstō" "epiphaniae" "Epiphanīae"
+                   "ass.ate" "assāte"
                    } word) word)]
     word))
 
