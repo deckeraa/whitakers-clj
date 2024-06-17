@@ -273,6 +273,7 @@
                    "aliqu.am" "aliquam" "qu.em" "quem" "cu.i" "cui" "alicu.i" "alicui"
                    "aliqu.od" "aliquod" "i.d" "id" "h.anc" "hanc" "h.unc" "hunc"
                    "v.os" "vōs" "e.i" "eī" "ips.um" "ipsum" "ips.e" "ipse"
+                   "e.os" "eōs" "ist.am" "istam" "ist.is" "istīs"
                    } word) word)]
     {:options options
      :word word
@@ -480,7 +481,7 @@
                    "gravit.atis" "gravitātis" "pleb.em" "plēbem"
                    "sanctific.ate" "sanctificāte" "dux.erunt" "dūxērunt" "lav.atis" "lavātis"
                    "dux.imus" "dūximus" "gravit.ate" "gravitāte" "infer.os" "inferōs" "christo" "Chrīstō" "epiphaniae" "Epiphanīae"
-                   "ass.ate" "assāte"
+                   "ass.ate" "assāte" "praepar.ate" "praeparāte" "lax.ate" "laxāte"
                    } word) word)]
     word))
 
