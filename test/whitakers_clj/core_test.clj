@@ -206,6 +206,12 @@ turn back, go back, return; recur (usually DEP);
 revertor, reverti, reversus sum  V (3rd) DEP   [XXXDX]    lesser
 turn back, go back, return; recur;")
 
+(def appropinquantibus-paragraphs
+  "appropinqu.antibus   VPAR   1 1 DAT P X PRES ACTIVE  PPL
+appropinqu.antibus   VPAR   1 1 ABL P X PRES ACTIVE  PPL
+appropinquo, appropinquare, appropinquavi, appropinquatus  V (1st) INTRANS   [XXXBO]  
+approach (w/DAT or ad+ACC); come near to, draw near/nigh (space/time); be close")
+
 (deftest dictionary-entry-from-pieces-test
   (testing "adjective"
     (is (= (dictionary-entry-from-pieces (clojure.string/split "agricolaris, agricolaris, agricolare  ADJ   [XAXES]    uncommon" #" "))
@@ -430,7 +436,11 @@ turn back, go back, return; recur;")
       (is (= (get-in parsed-obj [0 :dictionary-entry]) "eo, ire, ivi(ii), itus"))))
   (testing "revertare"
     (let [parsed-obj (parse-paragraphs revertare-paragraphs)]
-      (is (= (get-in parsed-obj [1 :dictionary-entry]) "revertor, reverti, reversus sum")))))
+      (is (= (get-in parsed-obj [1 :dictionary-entry]) "revertor, reverti, reversus sum"))))
+  ;; (testing "appropinquantibus" ;; TODO
+  ;;   (let [parsed-obj (parse-paragraphs appropinquantibus-paragraphs)]
+  ;;     (is (= (get-in parsed-obj [1 :dictionary-entry]) "revertor, reverti, reversus sum"))))
+  )
 
 (deftest is-parsing-options-line?-test
   (is (= (is-parsing-options-line? "bon.um               ADJ    1 1 NOM S N POS             ") true))
