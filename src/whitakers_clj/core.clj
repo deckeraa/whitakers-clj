@@ -394,6 +394,7 @@
            lines (remove #(re-matches #"An internal.*" %) lines)
            lines (remove #(re-matches #"Two words.*" %) lines)
            lines (remove #(re-matches #"May be.*" %) lines)
+           lines (remove #(re-matches #"An initial.*" %) lines)
            lines (map clojure.string/trim lines)
            first-paragraph-options (take-while is-parsing-options-line? lines)
            lines (nthrest lines (count first-paragraph-options))
