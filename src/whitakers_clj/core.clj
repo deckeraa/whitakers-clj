@@ -482,7 +482,8 @@
                    "sanctific.ate" "sanctificāte" "dux.erunt" "dūxērunt" "lav.atis" "lavātis"
                    "dux.imus" "dūximus" "gravit.ate" "gravitāte" "infer.os" "inferōs" "christo" "Chrīstō" "epiphaniae" "Epiphanīae"
                    "ass.ate" "assāte" "praepar.ate" "praeparāte" "lax.ate" "laxāte" "dux.it" "dūxit"
-                   "israel" "Israel"
+                   "israel" "Israel" "asport.ate" "asportāte" "immol.atis" "immolātīs"
+                   "navig.ate" "nāvigātē"
                    } word) word)]
     word))
 
