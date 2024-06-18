@@ -274,6 +274,7 @@
                    "aliqu.od" "aliquod" "i.d" "id" "h.anc" "hanc" "h.unc" "hunc"
                    "v.os" "vōs" "e.i" "eī" "ips.um" "ipsum" "ips.e" "ipse" "ips.a" "ipsa"
                    "e.os" "eōs" "ist.am" "istam" "ist.is" "istīs" "ill.e" "ille" "ill.i" "illī"
+                   "ips.ius" "ipsīus"
                    } word) word)]
     {:options options
      :word word
@@ -483,7 +484,8 @@
                    "dux.imus" "dūximus" "gravit.ate" "gravitāte" "infer.os" "inferōs" "christo" "Chrīstō" "epiphaniae" "Epiphanīae"
                    "ass.ate" "assāte" "praepar.ate" "praeparāte" "lax.ate" "laxāte" "dux.it" "dūxit"
                    "israel" "Israel" "asport.ate" "asportāte" "immol.atis" "immolātīs"
-                   "navig.ate" "nāvigātē"
+                   "navig.ate" "nāvigātē" "consider.ate" "cōnsīderāte" "or.ate" "ōrāte"
+                   "vigil.ate" "vigilāte"
                    } word) word)]
     word))
 
