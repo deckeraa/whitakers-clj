@@ -272,8 +272,8 @@
                    "e.is" "eīs" "ist.i" "istī" "qu.is" "quis" "s.ui" "suī" "qu.ibus" "quibus"
                    "aliqu.am" "aliquam" "qu.em" "quem" "cu.i" "cui" "alicu.i" "alicui"
                    "aliqu.od" "aliquod" "i.d" "id" "h.anc" "hanc" "h.unc" "hunc"
-                   "v.os" "vōs" "e.i" "eī" "ips.um" "ipsum" "ips.e" "ipse"
-                   "e.os" "eōs" "ist.am" "istam" "ist.is" "istīs"
+                   "v.os" "vōs" "e.i" "eī" "ips.um" "ipsum" "ips.e" "ipse" "ips.a" "ipsa"
+                   "e.os" "eōs" "ist.am" "istam" "ist.is" "istīs" "ill.e" "ille" "ill.i" "illī"
                    } word) word)]
     {:options options
      :word word
@@ -481,7 +481,8 @@
                    "gravit.atis" "gravitātis" "pleb.em" "plēbem"
                    "sanctific.ate" "sanctificāte" "dux.erunt" "dūxērunt" "lav.atis" "lavātis"
                    "dux.imus" "dūximus" "gravit.ate" "gravitāte" "infer.os" "inferōs" "christo" "Chrīstō" "epiphaniae" "Epiphanīae"
-                   "ass.ate" "assāte" "praepar.ate" "praeparāte" "lax.ate" "laxāte"
+                   "ass.ate" "assāte" "praepar.ate" "praeparāte" "lax.ate" "laxāte" "dux.it" "dūxit"
+                   "israel" "Israel"
                    } word) word)]
     word))
 
