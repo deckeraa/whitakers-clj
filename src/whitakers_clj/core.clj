@@ -488,7 +488,7 @@
                    "israel" "Israel" "asport.ate" "asportāte" "immol.atis" "immolātīs"
                    "navig.ate" "nāvigātē" "consider.ate" "cōnsīderāte" "or.ate" "ōrāte"
                    "vigil.ate" "vigilāte" "david" "David" "expect.ate" "expectāte"
-                   "lev.ate" "levāte"
+                   "lev.ate" "levāte" "observ.ate" "observāte" "oner.atis" "onerātis"
                    } word) word)]
     word))
 
