@@ -486,7 +486,7 @@
                    "ass.ate" "assāte" "praepar.ate" "praeparāte" "lax.ate" "laxāte" "dux.it" "dūxit"
                    "israel" "Israel" "asport.ate" "asportāte" "immol.atis" "immolātīs"
                    "navig.ate" "nāvigātē" "consider.ate" "cōnsīderāte" "or.ate" "ōrāte"
-                   "vigil.ate" "vigilāte"
+                   "vigil.ate" "vigilāte" "david" "David"
                    } word) word)]
     word))
 
