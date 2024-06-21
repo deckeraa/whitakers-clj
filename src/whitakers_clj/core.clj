@@ -402,6 +402,7 @@
            lines (remove #(re-matches #"- out, away from; beyond; completely;.*" %) lines)
            lines (remove #(re-matches #"di                   PREFIX.*" %) lines)
            lines (remove #(re-matches #"- apart/asunder, in.*" %) lines)
+           lines (remove #(re-matches #"PACKON.*" %) lines)
            lines (map clojure.string/trim lines)
            first-paragraph-options (take-while is-parsing-options-line? lines)
            lines (nthrest lines (count first-paragraph-options))
