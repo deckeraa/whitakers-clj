@@ -496,6 +496,7 @@
                    "vigil.ate" "vigilāte" "david" "David" "expect.ate" "expectāte"
                    "lev.ate" "levāte" "observ.ate" "observāte" "oner.atis" "onerātis"
                    "cant.ate" "cantāte" "redd.ite" "reddite" "sin.um" "sinum"
+                   "perfin.itis" "perfīnītis"
                    } word) word)]
     word))
 
