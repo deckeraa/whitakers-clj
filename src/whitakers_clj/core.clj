@@ -276,6 +276,7 @@
                    "e.os" "eōs" "ist.am" "istam" "ist.is" "istīs" "ill.e" "ille" "ill.i" "illī"
                    "ips.ius" "ipsīus" "ist.a" "ista" "ist.ius" "istīus" "ips.am" "ipsam"
                    "vestr.um" "vestrum" "ist.e" "iste" "ill.as" "illās" "ist.as" "istās"
+                   "ips.is" "ipsīs"
                    } word) word)]
     {:options options
      :word word
