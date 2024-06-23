@@ -407,6 +407,7 @@
            lines (remove #(re-matches #"make of.*" %) lines)
            lines (remove #(re-matches #"e                    SUFFIX.*" %) lines)
            lines (remove #(re-matches #"con                  PREFIX.*" %) lines)
+           lines (remove #(re-matches #"e                    PREFIX.*" %) lines)
            lines (map clojure.string/trim lines)
            first-paragraph-options (take-while is-parsing-options-line? lines)
            lines (nthrest lines (count first-paragraph-options))
