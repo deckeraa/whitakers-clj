@@ -507,13 +507,38 @@
                    } word) word)]
     word))
 
+(def abbreviations
+  {:nominative "nom."
+   :genitive "gen."
+   :dative "dat."
+   :accusative "acc."
+   :ablative "abl."
+   :vocative "voc."
+   :singular "sing."
+   :plural "pl."
+   :masculine "masc."
+   :feminine "fem."
+   :neuter "neut."
+   })
+
+(defn name*
+  ([k]
+   (name* k false))
+  ([k abbreviate?]
+   (if k
+     (if abbreviate?
+       (str (or (abbreviations k) (name k)) " ")
+       (str (name k) " "))
+     " ")))
+
 (defn conjugated-definition [parsed-word]
   (let [selected-opt (first (:options parsed-word))
         word (parsed-word->word parsed-word)
         definition (or (dictionary word) (:definition parsed-word))
         definition (append-character-if-needed definition \;)
         dict-entry (or (macronized-words (:dictionary-entry parsed-word))
-                       (:dictionary-entry parsed-word))]
+                       (:dictionary-entry parsed-word))
+        abbreviate? false]
     (if (dictionary-override word)
       (str word ": " (dictionary-override word))
       (case (or (:part-of-speech selected-opt) (:part-of-speech parsed-word))
@@ -523,39 +548,30 @@
         :verb (str word ": " definition " "
                    (when-let [v (:person selected-opt)]
                      (pretty-person v)) " "
-                   (when-let [v (:number selected-opt)]
-                     (str (name v) " "))
-                   (when-let [v  (:tense selected-opt)]
-                     (str (name v) " "))
-                   (when (= (:voice selected-opt) :passive)
-                     (str (name (:voice selected-opt)) " "))
+                   (name* (:number selected-opt) abbreviate?)
+                   (name* (:tense selected-opt) abbreviate?)
+                   (name* (:voice selected-opt) abbreviate?)
                    (when (#{:subjunctive :imperative} (:mood selected-opt))
                      (str (name (:mood selected-opt)) " "))
                    "from " dict-entry)
         :noun (str word ": " definition " "
-                   (when-let [v (:number selected-opt)]
-                     (str (name v) " "))
-                   (when-let [v (:gender selected-opt)]
-                     (str (name v) " "))
-                   (when-let [v (:case selected-opt)]
-                     (str (name v) " "))
+                   (name* (:number selected-opt) abbreviate?)
+                   (name* (:gender selected-opt) abbreviate?)
+                   (name* (:case selected-opt) abbreviate?)
                    "from " dict-entry)
         :adjective (str word ": " definition " "
-                        (when-let [v (:number selected-opt)]
-                          (str (name v) " "))
-                        (when-let [v (:gender selected-opt)]
-                          (str (name v) " "))
-                        (when-let [v (:case selected-opt)]
-                          (str (name v) " "))
+                        (name* (:number selected-opt) abbreviate?)
+                        (name* (:gender selected-opt) abbreviate?)
+                        (name* (:case selected-opt) abbreviate?)
                         "from " dict-entry)
         :numeral (str word ": " definition " "
-                        (when-let [v (:number selected-opt)]
-                          (str (name v) " "))
-                        (when-let [v (:gender selected-opt)]
-                          (str (name v) " "))
-                        (when-let [v (:case selected-opt)]
-                          (str (name v) " "))
-                        "from " dict-entry)
+                      (when-let [v (:number selected-opt)]
+                        (str (name v) " "))
+                      (when-let [v (:gender selected-opt)]
+                        (str (name v) " "))
+                      (when-let [v (:case selected-opt)]
+                        (str (name v) " "))
+                      "from " dict-entry)
         :participle (str word ": " definition " "
                          (when-let [v (:number selected-opt)]
                            (str (name v) " "))
