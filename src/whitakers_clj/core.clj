@@ -506,6 +506,7 @@
                    "cant.ate" "cantāte" "redd.ite" "reddite" "sin.um" "sinum"
                    "perfin.itis" "perfīnītis" "aud.itis" "audītis" "tonitr.uum" "tonitruum"
                    "mans.i" "mānsī" "impl.ete" "implēte" "sc.itis" "scītis" "sci.ebat" "sciēbat"
+                   "bov.es" "bovēs" "convoc.atis" "convocātis"
                    } word) word)]
     word))
 
