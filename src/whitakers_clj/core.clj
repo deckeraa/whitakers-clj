@@ -504,7 +504,7 @@
                    "lev.ate" "levāte" "observ.ate" "observāte" "oner.atis" "onerātis"
                    "cant.ate" "cantāte" "redd.ite" "reddite" "sin.um" "sinum"
                    "perfin.itis" "perfīnītis" "aud.itis" "audītis" "tonitr.uum" "tonitruum"
-                   "mans.i" "mānsī" "impl.ete" "implēte"
+                   "mans.i" "mānsī" "impl.ete" "implēte" "sc.itis" "scītis"
                    } word) word)]
     word))
 
