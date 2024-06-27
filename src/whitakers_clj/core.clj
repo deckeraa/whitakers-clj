@@ -412,6 +412,7 @@
            lines (remove #(re-matches #"e                    PREFIX.*" %) lines)
            lines (remove #(re-matches #"re                   PREFIX.*" %) lines)
            lines (remove #(re-matches #"A doubled consonant.*" %) lines)
+           lines (remove #(re-matches #"- back, - again.*" %) lines)
            lines (map clojure.string/trim lines)
            first-paragraph-options (take-while is-parsing-options-line? lines)
            lines (nthrest lines (count first-paragraph-options))
