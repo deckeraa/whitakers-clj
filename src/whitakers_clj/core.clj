@@ -277,7 +277,7 @@
                    "ips.ius" "ipsīus" "ist.a" "ista" "ist.ius" "istīus" "ips.am" "ipsam"
                    "vestr.um" "vestrum" "ist.e" "iste" "ill.as" "illās" "ist.as" "istās"
                    "ips.is" "ipsīs" "e.as" "eās" "ips.o" "ipsō" "vestr.i" "vestrī"
-                   "hu.ius" "huius" "aliqu.is" "aliquis"
+                   "hu.ius" "huius" "aliqu.is" "aliquis" "h.i" "hī"
                    } word) word)]
     {:options options
      :word word
@@ -510,7 +510,8 @@
                    "perfin.itis" "perfīnītis" "aud.itis" "audītis" "tonitr.uum" "tonitruum"
                    "mans.i" "mānsī" "impl.ete" "implēte" "sc.itis" "scītis" "sci.ebat" "sciēbat"
                    "bov.es" "bovēs" "convoc.atis" "convocātis" "fren.um" "frēnum" "heredit.ate" "hērēditāte"
-                   "circumd.atis" "circumdatis" "ostend.et" "ostendet"
+                   "circumd.atis" "circumdatis" "ostend.et" "ostendet" "commend.atis" "commendātīs"
+                   "salut.atis" "salūtātis"
                    } word) word)]
     word))
 
