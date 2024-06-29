@@ -413,6 +413,7 @@
            lines (remove #(re-matches #"re                   PREFIX.*" %) lines)
            lines (remove #(re-matches #"A doubled consonant.*" %) lines)
            lines (remove #(re-matches #"- back, - again.*" %) lines)
+           lines (remove #(re-matches #"It is very likely.*" %) lines)
            lines (map clojure.string/trim lines)
            first-paragraph-options (take-while is-parsing-options-line? lines)
            lines (nthrest lines (count first-paragraph-options))
