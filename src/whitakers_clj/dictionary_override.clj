@@ -3744,14 +3744,17 @@
    "revēlātor" "revealer"
    "reverentia" "reverence, timidity, shyness"
    "reverentia, reverentiae" "reverence, timidity, shyness"
+   
    "revertentēs" "returning"
    "revertāmur" "he (might) return"
    "revertērunt" "they returned"
    "revertī" "he returned"
+   "revertiminī" "you return"
    "revertar" "I will return"
    "reversī" "returned"
    "revertere" "to return"
    "revertō, revertere, revertī, reversum" "to return"
+   
    "rēgī" "king"
    "rēx, rēgis" "king"
    "rīpa" "bank, shore"
@@ -3811,13 +3814,22 @@
    "sagus, sagī" "sage"
    "sāl, salis" "salt"
    "sale" "salt"
+
+   "saltus" "narrow pass, mountain defile, leap, jump"
+   "saltūs" "narrow pass, mountain defile, leap, jump"
+   "saltus, saltūs" "narrow pass, mountain defile, leap, jump"
+   
    "salūs" "health, soundness"
    "salūs, salūtis" "health, soundness"
+   
    "salūtāris" "salutary, redeeming"
    "salūtārium" "salutary, redeeming"
    "salūtāris, 	salūtāre" "salutary, redeeming"
-   "salūtātis" "you salute"
+
+   "salūtātis" "you salute, you greet"
+   "salūtāvit" "he saluted, he greeted"
    "salūtō, salūtāre, salūtāvī, salūtātus" "to salute, to greet"
+   
    "salvatoris" "savior"
    "salvātor, salvātōris" "savior"
    "sanguinem" "blood"
@@ -3833,8 +3845,14 @@
    "satanās, satanae" "Satan, adversary"
    "satelles, satellitis" "attendant, guard, assistant"
    "satellitibus" "attendants, guards, assistants"
+   
    "satiō, satiāre, satiāvī, satiātus" "to satisfy"
    "satiatae" "those that have been satisfied"
+
+   "satietās" "sufficiency, abundance"
+   "satietāte" "sufficiency, abundance"
+   "satietās, satietātis" "sufficiency, abundance"
+   
    "saxōsa" "rocky"
    "saxōsam" "rocky"
    "saxōsus, saxōsa, saxōsum" "rocky"
@@ -3959,13 +3977,19 @@
    "sōl, sōlis" "sun"
    "sōlemnem" "solemn"
    "sōlemnis, sōlemne, sōlemnior -or -us, sōlemnissimus -a -um" "solemn"
+   
    "sollemnitātum" "of solemnities"
    "sollemnitās, sollemnitātis" "solemnity"
+   
    "solet" "he is accustomed to"
    "solent" "they are accustomed to"
    "solēbat" "he was accustomed to"
    "soleō, solēre, solitus sum" "to become accustomed to"
    "solitō" "being accustomed"
+
+   "sōlitārius" "solitary"
+   "sōlitārius, sōlitāria, sōlitārium" "solitary"
+   
    "sōlstitium" "solstice, heat of summer"
    "sōlstitium, sōlstitiī" "solstice, heat of summer"
    "sōlus" "alone"
@@ -3982,11 +4006,18 @@
    "sopor, sopōris" "deep sleep, lethargy"
    "sorbēbat" "he was drinking, he was absorbing"
    "sorbeō, sorbēre, sorbuī, sorbitus" "to drink, to absorb"
+
+   "spargō, spargere, sparsī, sparsus" "to scatter, to sprinkle"
+   "sparsa" "having been scattered"
+   
    "spatiōsa" "spacious"
    "spatiōsam" "spacious"
    "spatiōsus, spatiōsa, spatiōsum" "spacious"
+
+   "spatiō" "space"
    "spatium" "space"
    "spatium, spatiī" "space"
+   
    "spēlunca" "cave"
    "spēluncae" "cave"
    "spēluncās" "cave"
@@ -3996,15 +4027,21 @@
    "spīritus" "spirit, breath"
    "spīritus, spīritūs" "spirit, breath"
    "spīrituum" "of spirits"
+   
    "spīritāle" "spiritual"
    "spīritālem" "spiritual"
+   "spīritālī" "spiritual"
    "spīritālibus" "spiritual"
    "spīritālis" "spiritual"
    "spīritālis, spīritālis, spīritāle" "spiritual"
+   
    "spissitūdō, spissitūdinis" "density, consistency, thickness"
    "spissitūdine" "density, consistency, thickness"
+   
    "splendor" "splendor, brightness"
+   "splendōre" "splendor, brightness"
    "splendor, splendōris" "splendor, brightness"
+   
    "spontāneus, spontānea, spontāneum" "spontaneous"
    "sportam" "basket"
    "sporta, sportae" "basket"
