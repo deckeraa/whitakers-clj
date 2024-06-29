@@ -3144,8 +3144,13 @@
    "paulus, paula, paulum" "little"
    "pauxillum" "a little"
    "pauxillum, pauxillī" "a little"
+
+   "pauperum" "poor"
+   "pauper, pauperis (gen.), pauperior -or -us, pauperrimus -a -um" "poor"
+   
    "pausētis" "you (might) pause"
    "pausō, pausāre, pausāvī, pausātus" "to pause"
+   
    "pavor" "fear, trembling"
    "pavor, pavōris" "fear, trembling"
    "peccātōrī" "sinner"
@@ -3171,8 +3176,12 @@
    "peragendum" "completing"
    "perēgērunt" "they completed"
    "peragō, peragere, perēgī, perāctus" "to carry through, to complete"
+
+   "perambulantibus" "walking through"
    "perambulantēs" "walking through"
+   "perambulāre" "to walk through"
    "perambulō, perambulāre, perambulāvī, perambulātus" "to walk through"
+   
    "percutiēbat" "he was hitting"
    "percutiēbant" "they were hitting"
    "percussa" "having been hit"
@@ -3187,6 +3196,8 @@
    "peregrīnārī" "to make a pilgrimage"
    "peregrīnor, peregrīnārī, peregrīnātus sum" "to make a pilgrimage"
    "peregrīnābitur" "he will make a pilgrimage, he will sojourn"
+
+   "perficiendum" "completing"
    "perfēcissent" "they (might) have had finished"
    "perficiō, perficere, perfēcī, perfectus" "to finish, to accomplish"
    "perfīniēbat" "he was completing"
@@ -3194,8 +3205,12 @@
    "perfīnīvisset" "he (might) have had completed"
    "perfīnīvissent" "they (might) have had completed"
    "perfīniō, perfīnīre, perfīnīvī, perfīnītus" "to complete"
+   
    "pergite" "go, continue"
+   "perrēxī" "I proceeded"
+   "perrēxit" "he proceeded"
    "pergō, pergere, perrēxī, perrēctus" "to go on, to proceed"
+   
    "perīclitātiō" "trial, test"
    "perīclitātiōnēs" "trials, tests"
    "perīclitātiōnis" "trial, test"
@@ -3210,14 +3225,18 @@
    "pereō, perīre, perivī(iī), peritus" "to perish"
    "perlustrābant" "they were wandering through"
    "perlustrō, perlustrāre, perlustrāvī, perlustrātus" "to wander through"
+   
    "permanet" "he remains"
    "permanentēs" "remaining"
+   "permanēre" "to remain"
    "permaneō, permanēre, permansī, permansus" "to last, to remain"
    "permansissent" "having had remained"
    "permansūrus" "will be remaining"
+   
    "pernoctāns" "spending the night"
    "pernoctantibus" "spending the night"
    "pernoctō, pernoctāre, pernoctāvī, pernoctātus" "spending the night"
+   
    "persecūtiō" "pursuit"
    "persecūtiō, persecūtiōnis" "pursuit"
    "persequēbātur" "he was following"
@@ -3269,8 +3288,13 @@
    "piscium" "of fishes"
    "pius" "upright, pious"
    "pius, pia -um, -, piissimus -a -um" "upright, pious"
+
+   "placuit" "he pleased"
+   "placeō, placēre, placuī, placitus" "to please"
+   
    "placidō" "placid, gentle, quiet"
    "placidus, placida, placidum" "placid, gentle, quiet"
+   
    "plāgam" "coast"
    "plāga, plāgae" "coast"
    "plānctus" "beating, wailing, lamentation"
@@ -3286,11 +3310,16 @@
    "plēnum" "full"
    "plēnus" "full"
    "plēnus, plēna -um, plēnior -or -us, plēnissimus -a -um" "full"
+
+   "plōrābant" "they were crying"
+   "plōrō, plōrāre, plōrāvī, plōrātus" "to cry"
+   
    "plumbī" "lead"
    "plumbum, plumbī" "lead"
    "pluvium, pluviī" "basin"
    "pluviā" "rainy"
    "pluvius, pluvia, pluvium" "rainy"
+   
    "poena, poenae" "penalty, punishment"
    "poenās" "penalty, punishment"
    "poenitentia"  "penance"
