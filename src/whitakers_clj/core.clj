@@ -512,7 +512,7 @@
                    "mans.i" "mānsī" "impl.ete" "implēte" "sc.itis" "scītis" "sci.ebat" "sciēbat"
                    "bov.es" "bovēs" "convoc.atis" "convocātis" "fren.um" "frēnum" "heredit.ate" "hērēditāte"
                    "circumd.atis" "circumdatis" "ostend.et" "ostendet" "commend.atis" "commendātīs"
-                   "salut.atis" "salūtātis"
+                   "salut.atis" "salūtātis" "expl.etis" "explētis"
                    } word) word)]
     word))
 

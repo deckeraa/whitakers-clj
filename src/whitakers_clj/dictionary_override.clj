@@ -126,9 +126,12 @@
    "et" "and"
    "etiam" "still"
    "etenim" "as a matter of fact"
+   "eugē" "Hey-o! (An untranslatable interjection)"
    "eum" "to him; singular masculine accusative from is, ea, id"
    "exceptō" "except"
    "expectāte" "Await! plural imperative from expectō, expectāre, expectāvī, expectātus"
+   "explētis" "You fill; 2nd person plural present from expleō, explēre, explēvī, explētus"
+   "ferē" "nearly, almost, about"
    "fīant" "they might do; 3rd person plural subjunctive present from faciō, facere, fēcī, factus"
    "fīnītā" "end; singular feminine ablative of fīnītus, fīnīta, fīnītum"
    "fīnītīs" "end; plural dative or ablative of fīnītus, fīnīta, fīnītum"
@@ -341,6 +344,7 @@
    "quae" "who; plural female nom. or neuter nom. or acc. of quis"
    "quam" "how? how much?"
    "quanta" "how much?"
+   "quārē" "by what mean?"
    "quās" "who; plural female accusative of quis"
    "quattuor" "4"
    "quem" "what, singular masculine accusative of qui"
@@ -349,6 +353,7 @@
    "quicquid" "whatever"
    "quid" "who; singular neuter nom. or acc. of quis"
    "quīnquāgintā" "fifty"
+   "quīntō" "for the fifth time"
    "quis" "who"
    "quisquis" "whatever"
    "quod" "what; singular neuter nom. or acc. of qui"
@@ -383,6 +388,7 @@
    "rīvulum" "rivulet, small brook"
    "rīvulus, rīvulī" "rivulet, small brook"
    "rubicunditātis" "redness. This word did not appear in any dictionaries I consulted, but the meaning is clear from the context. It appears to be a variant of rubicundus -a -um, meaning red, ruddy, or rubicund."
+   "saepe" "often"
    "sanctificāte" "Sanctify! Plural imperative of sanctificō, sanctificāre, sanctificāvī, sanctificātus"
    "sāncta" "holy, saint"
    "sānctus" "holy, saint"
@@ -450,6 +456,7 @@
    "sufficere" "to be sufficient"
    "sufficiō, sufficere, suffēcī, suffectum" "to be sufficient"
    "sufficienter" "sufficiently"
+   "suās" "their; plural accusative feminine of suus"
    "suī" "of him; singular or plural genitive of se"
    "suō" "their; singular dative or ablative of suus"
    "suōrum" "their; plural genitive of suus"
@@ -489,6 +496,7 @@
    "ūnanimiter" "unanimously, harmoniously"
    "unde" "from where?"
    "ūndecim" "11"
+   "undique" "from all sides"
    "ūnīcuique" "each one; ablative from ūnusquisque"
    "ūniūs" "of one (genitive of ūnus)"
    "ūnus" "one"
@@ -508,6 +516,7 @@
    "vestra" "your"
    "vestrae" "your"
    "vestram" "your; singular feminine accusative from vester"
+   "vestrās" "your; plural feminine accusative from vester"
    "vestrō" "your; singular masc. or neuter dative or ablative from vester"
    "vestrī" "your; singular masc. or neut. gen. or plural masc. nom. from vester"
    "vestrīs" "your; plural dative or ablative from vester"
@@ -744,6 +753,10 @@
    "antīquus, antīqua -um, antīquior -or -us, antīquissimus -a -um" "antique"
    "aperiō, aperīre, aperuī, apertus" "to open"
    "aperiēs" "you will open"
+
+   "apum" "of bees"
+   "apis, apis" "bee"
+   
    "apostolī" "apostle"
    "apostolus" "apostle"
    "apostolōs" "apostle"
@@ -1918,6 +1931,10 @@
    "fragmentum" "fragment"
    "fragmentī" "fragment"
    "fragmentīs" "fragments"
+
+   "fragrāntiam" "fragrance"
+   "fragrāntoia, fragrānciae" "fragrance"
+   
    "frāter" "brother"
    "frāter, frātris" "brother"
    "frātre" "brother"
@@ -2250,9 +2267,12 @@
    "incrēdibilis, incrēdibilis, incrēdibile" "incredible"
    "incurvō, incurvāre, incurvāvī, incurvātus" "to make crooked, to bend"
    "incurvātae" "being curved"
+   
    "indicā" "show! indicate!"
    "indicāre" "to indicate, to point out, to show"
    "indicō, indicāre, indicāvī, indicātus" "to indicate, to point out, to show"
+
+   "indigēs" "you lack?"
    "indigeō, indigēre, indiguē, -" "to lack"
    "indigēmus" "we lack"
    
@@ -2761,6 +2781,7 @@
    "multitūdō" "multitude, great number"
    "multitūdine" "multitude, great number"
    "multitūdō, multitūdinis" "multitude, great number"
+   
    "multa" "many"
    "multum" "many"
    "multās" "many"
@@ -2768,7 +2789,9 @@
    "multīs" "many"
    "multō" "many"
    "multōs" "many"
+   "plūrēs" "more"
    "multus, multa -um, -, plūrimus -a -um" "many"
+   
    "mundī" "world"
    "mundus, mundī" "world"
    "mūnera" "gifts"
@@ -3113,11 +3136,16 @@
    "passiō" "suffering, passion"
    "passiōnem" "suffering, passion"
    "passiō, passiōnis" "suffering, passion"
+
+   "pāstōre" "shepherd, pastor"
+   "pāstor, pāstōris" "shepherd, pastor"
+   
    "pāstū" "pasture, fodder, food"
    "pāstus" "pasture, fodder, food"
    "pāstūs" "pasture, fodder, food"
    "pāstus, pāstūs" "pasture, fodder, food"
    "pāstum" "pasture, fodder, food"
+   
    "pateō, patēre, patuī, -" "to stand open, to extend, to lie open"
    "pater" "father"
    "pater, patris" "father"
@@ -3232,6 +3260,7 @@
    "permaneō, permanēre, permansī, permansus" "to last, to remain"
    "permansissent" "having had remained"
    "permansūrus" "will be remaining"
+   "permansērunt" "they remained"
    
    "pernoctāns" "spending the night"
    "pernoctantibus" "spending the night"
@@ -3512,6 +3541,7 @@
    "prosperus, prospera -um, prosperior -or -us, prosperrimus -a -um" "favorable, prosperous"
    
    "prostrāvit" "he prostrated"
+   "prostrāvēre" "they prostrated"
    "prosternēbant" "they were prostrating"
    "prostrāvērunt" "they prostrated"
    "prosternō, prosternere, prostrāvī, prostrātus" "to prostrate"
@@ -4348,6 +4378,7 @@
    "ūllus, ūlla, ūllum (gen -ius)" "any"
    
    "ultimam" "farthest, last"
+   "ulterius" "farther, last"
    "-, -, ulterior -or -us, ultimus -a -um" "farthest, last"
    
    "ululantem" "howling"
@@ -4469,19 +4500,27 @@
    "vespertīnus, vespertīna, vespertīnum" "evening"
    "vester" "your"
    "vester, vestra, vestrum" "your"
+   
    "vestīmenta" "clothes"
+   "vestīmentī" "clothing"
    "vestīmentīs" "clothes"
+   "vestīmentōrum" "clothes"
    "vestīmentum, vestīmentī" "clothing, clothes"
+   
    "vestibus" "clothing"
    "vestis, vestis" "clothing"
    "vestītur" "it is worn"
    "vestiō, vestīre, vestīvī, vestītus" "to clothe"
+   
    "vexentur" "they (might) be vexing"
    "vexātōrum" "having been vexed"
    "vexō, vexāre, vexāvī, vexātus" "to vex, to trouble"
+   
    "via" "road"
    "viam" "road"
+   "viīs" "roads"
    "via, viae" "road"
+   
    "vice" "time, turn"
    "vicis, vicis" "time, turn"
    "vicibus" "times"
@@ -4493,6 +4532,7 @@
    "victus" "victuals, nourishment, necessaries of life"
    "victūs" "victuals, nourishment, necessaries of life"
    "victus, victūs" "victuals, nourishment, necessaries of life"
+   
    "vidē" "look!"
    "vidēbātur" "he were appearing"
    "vidēbantur" "they were appearing"
@@ -4518,6 +4558,10 @@
    "vidērentur" "he (may) have appeared"
    "vīdisset" "he (might) have had seen"
    "vīdissent" "they (might) have had seen"
+   "vidērēmur" "we (might) have appeared"
+   "vīdimus" "we saw"
+   "vīdistī" "you saw"
+   
    "vigiliam" "vigil, watch"
    "vigiliārum" "vigil, watch"
    "vigiliās" "vigil, watch"
@@ -4536,16 +4580,24 @@
    "virō" "man"
    "virōrum" "of the men"
    "virum" "man"
-   "virtūs" "virtue, manliness"
-   "virtūtē" "virtue, manliness"
-   "virtūtēs" "virtue, manliness"
-   "virtūtem" "virtue, manliness"
-   "virtūs, virtūtis" "virtue, manliness"
+   
+   "virtūs" "virtue, manliness, power"
+   "virtūtē" "virtue, manliness, power"
+   "virtūtēs" "virtue, manliness, power"
+   "virtūtem" "virtue, manliness, power"
+   "virtūtibus" "virtues, manliness, power"
+   "virtutum" "of virtues, manliness, power"
+   "virtūs, virtūtis" "virtue, manliness, power"
+   
    "vīrēs" "strength"
    "vīs, vīs" "strength, power"
    "vīsitābō" "I will visit"
    "vīsiōnem" "vision"
    "vīsiō, vīsiōnis" "vision"
+
+   "vīsitāvissem" "I (might) have had visited"
+   "vīsitō, vīsitāre, vīsitāvī, vīsitātus" "to visit"
+   
    "vīta" "life"
    "vītam" "life"
    "vītae" "life"
@@ -4560,10 +4612,14 @@
    "vīvere" "to live"
    "vīvō" "I live"
    "vīvō, vīvere, vīxī, vīctus" "to live"
+
+   "vocārētur" "he (might) have been called"
    "vocātur" "to be called"
    "vōcibus" "voices"
    "vocāvit" "he called"
+   "vocer" "I am being called"
    "vocō, vocāre, vocāvī, vocātus" "to call, to summon"
+   
    "vōciferantēs" "crying, yelling"
    "vōciferō, vōciferāre, vōciferāvī, vōciferātus" "crying, yelling"
    "volātū" "flying, flight"
