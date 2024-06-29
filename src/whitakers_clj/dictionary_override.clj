@@ -3573,9 +3573,11 @@
    "quaesīvistī" "you sought"
    "quaerāmus" "let us seek"
    "quaerō, quaerere, quaesīvī, quaesītus" "to seek, to ask for"
+   
    "quanta" "amount"
    "quantō" "amount"
    "quantus, quanta, quantum" "amount"
+   
    "quarta" "fourth"
    "quartō" "fourth"
    "quatriduanum" "four days"
@@ -3588,14 +3590,20 @@
    "quiētem" "rest, respose, quiet"
    "quīndecim" "fifteen"
    "quīndecim, quīndecimus -a -um, quīndeci -ae -a, quīndecie (n)s" "fifteen"
+   
    "rādīcibus" "roots"
    "rādīx, rādīcis" "root"
    "rādīcēs" "roots"
    "rāmī" "branches"
    "rāmum" "branch"
    "rāmus, rāmī" "branch"
+   
    "rapidissimō" "very quick"
    "rapidus, rapida -um, rapidior -or -us, rapidissimus -a -um" "quick"
+
+   "raptus" "snatching away, robbery"
+   "raptus, raptūs" "snatching away, robbery"
+   
    "rāra" "thin, far apart, rare"
    "rārō" "thin, far apart, rare"
    "rārus" "thin, far apart, rare"
@@ -3614,6 +3622,7 @@
    "rēctitūdō, rēctitūdinis" "straightness, rectitude"
    "rēctō" "straight, proper, correct"
    "rēctus, rēcta -um, rēctior -or -us, rēctissimus -a -um" "straight, proper, correct"
+   
    "reddēbant" "they were rending, they were returning"
    "redīret" "he (might) have been returning"
    "reddāmus" "let us return"
@@ -3621,15 +3630,24 @@
    "reddite" "return!"
    "reddō, reddere, reddidī, redditus" "to return, to render"
    "reddētur" "to be returned"
+   
    "redēmptor" "redeemer"
    "redēmptōris" "redeemer"
    "redēmptōrem" "redeemer"
    "redēmptor, redēmptōris" "redeemer"
+
+   "redīre" "to return, to go back"
+   "redīrem" "I (might) have returned"
+   "redeō, redīre, redivī(iī), reditus" "to return, to go back"
+   
    "redūcō, redūcere, redūxī, reductus" "to lead back, to bring back"
    "redūcet" "he will lead back, he will bring back"
-   "refectiō, refectiōnis" "refreshing, restoring, repairing"
+   
+   "refectiō" "refreshing, restoring, repairing"
    "refectiōne" "refreshing, restoring, repairing"
    "refectiōnem" "refreshing, restoring, repairing"
+   "refectiō, refectiōnis" "refreshing, restoring, repairing"
+   
    "reficiēminī" "you will refresh, you will restore"
    "reficere" "to rebuild, to repair, to restore"
    "reficiō, reficere, refēcī, refectus" "to rebuild, to repair, to restore"
@@ -3639,8 +3657,11 @@
    "reficiendō" "refreshing, rebuilding"
    "reficient" "they will refresh, they will rebuild"
    "reficiunt" "they refresh, they rebuild"
+   "refice" "restore!"
    "reficite" "restore!"
    "reficiantur" "they (might) be refreshed"
+   "refēcit" "he refreshed, he rebuilt"
+   
    "referēns" "bringing back, reporting"
    "referō, referre, rettulī, relātus" "to bring back, to report"
    "refocilātiō" "refreshment"
@@ -3673,8 +3694,13 @@
    "remaneō, remanēre, remānsī, remānsus" "to remain"
    "remanēbit" "he will remain"
    "remānsit" "he remained"
+
+   "replētī" "having been filled/re-filled"
+   "repleō, replēre, replēvī, replētus" "to fill again"
+   
    "reputābitur" "it will be thought over"
    "reputō, reputāre, reputāvī, reputātus" "to think over, to reflect"
+   
    "requiēm" "rest, repose"
    "requiēs" "rest, repose"
    "requiēs, requiēī" "rest, repose"
