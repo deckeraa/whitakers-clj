@@ -2872,13 +2872,16 @@
    "nōlō, nōlle, nōluī, -" "to not want"
    "nōnāgēnārius" "ninety years old"
    "nōnāgīnta, nōnāgēsīmus -a -um, nōnāgeni -ae -a, nonagie (n)s" "ninety years old"
+   "novissimō"  "very new, very inexperienced"
    "novissimum" "very new, very inexperienced"
    "novīs" "new, inexperienced"
    "novum" "new, inexperienced"
    "novus, nova -um, novior -or -us, novissimus -a -um" "new, inexperienced"
    "nōvistī" "you learned"
+   "nōvimus" "we learned"
    "nōscō, nōscere, nōvī, nōtus" "to learn"
    "noctibus" "nights"
+   
    "nox" "night"
    "nox, noctis" "night"
    "nūbēs" "cloud"
@@ -2896,14 +2899,24 @@
    "nūllum" "no, none, not any"
    "nūllus" "no, none, not any"
    "nūllus, nūlla, nūllum (gen -ius)" "no, none, not any"
+
+   "nūntiātum" "having been announced"
+   "nūntiāre" "to announce"
+   "nūntiō, nūntiāre, nūntiāvī, nūntiātus" "to announce"
+   
    "nūntium" "messenger"
    "nūntius" "messenger"
    "nūntius, nūntiī" "messenger"
+   
    "nūtrīmentō" "nourishment"
    "nūtrīmentum, nūtrīmentī" "nourishment"
    "nūtrītus" "having been nourished"
    "nūtriō, nūtrīre, nūtrīvī, nūtrītus" "to nourish"
    "nūtrit" "it nourishes"
+
+   "nucēs" "nuts"
+   "nux, nucis" "nut"
+   
    "obdormīvissent" "they (might) have had fallen asleep"
    "obdormiō, obdormīre, obdormīvī, obdormītus" "to fall asleep"
    "obēdiāmus" "let us obey"
@@ -2924,6 +2937,11 @@
    "ōceanō" "ocean"
    "ōceanus, ōceanī" "ocean"
    "ōceanum" "ocean"
+
+   "occāsum" "setting, end"
+   "occāsus" "setting, end"
+   "occāsus, occāsūs" "setting, end"
+   
    "occidentālis, occidentālis, occidentāle" "western"
    "occidentālem" "western"
    "occidentālis" "western"
@@ -2934,6 +2952,10 @@
    "occurrērunt" "they ran"
    "occurrit" "he ran"
    "occurrō, occurrere, occurrī, occursus" "to run"
+
+   "occursum" "meeting"
+   "occursus, occursūs" "meeting"
+   
    "octō" "8"
    "octōgintā" "80"
    "octōginta, octōgēsimus -a -um, octōgēnī -ae -a, octōgiē (n)s" "80"
@@ -2944,6 +2966,7 @@
    "oculōrum" "eyes"
    "odōrem" "odor, scent"
    "odor" "odor, scent"
+   "odōre" "odor, scent"
    "odor, odōris" "odor, scent"
    "offerebant" "they were offering"
    "offerō, offerre, obtulī, oblātus" "to offer"
@@ -2977,8 +3000,15 @@
    "oppidum" "town"
    "oppidum, oppidī" "town"
    "optimīs" "very good"
+
+   "operibus" "works, deeds"
    "opus" "work, deed"
    "opus, operis" "work, deed"
+
+   "oppressus" "having been oppressed"
+   "opprimere" "to press down, to oppress"
+
+   "ōrātiōne"  "oration, speech, discourse"
    "ōrātiōnem" "oration, speech, discourse"
    "ōrātiōnēs" "speeches, discourses"
    "ōrātiō, ōrātiōnis" "oration, speech, discourse"
@@ -3000,10 +3030,12 @@
    "orientem" "daybreak, dawn, East"
    "oriēns, orientis" "daybreak, dawn, East"
    "orientālem" "eastern"
+   "orientālī" "eastern"
    "orientālis, orientālis, orientāle" "eastern"
    "ōrāre" "to pray"
    "ōrō, ōrāre, ōrāvī, ōrātus" "to pray"
    "ortum" "rising, beginning"
+   "ortus" "rising, beginning"
    "ortus, ortūs" "rising, beginning"
    "ōs, ōris" "mouth"
    "ōscula" "kisses"
@@ -3040,9 +3072,12 @@
    "pannus" "cloth, rag"
    "pannum" "cloth, rag"
    "pannus, pannī" "cloth, rag"
+
+   "paradīsī" "paradise"
    "paradīsō" "paradise"
    "paradīsus, paradīsī" "paradise"
    "paradīsus" "paradise"
+   
    "parātūrās" "preparations"
    "parātūra, parātūrae" "preparation"
    "parātur" "it is prepared"
