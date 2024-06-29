@@ -3994,6 +3994,10 @@
    "sōlstitium, sōlstitiī" "solstice, heat of summer"
    "sōlus" "alone"
    "sōlus, sōla, sōlum (gen -ius)" "alone"
+
+   "somnō" "sleep"
+   "somnus, somnī" "sleep"
+   
    "sonābant" "they were making sounds"
    "sonitus" "sound"
    "sonitūs" "sound"
@@ -4189,18 +4193,25 @@
    "tempore" "time, period"
    "temporum" "of times, of periods"
    "tempus, temporis" "time, period"
+   
    "tendite" "hold!"
    "tenuit" "he held, he had"
    "tenuērunt" "they held"
    "teneant" "they (might) hold"
    "tenēbat" "he was holding"
    "tenēbant" "they were holding"
+   "tenēbantur" "they were held"
    "tenēns" "holding"
    "tenentēs" "holding"
    "tenēre" "to hold"
    "teneō, tenēre, tenuī, tentus" "to hold, to keep"
+   
    "tenebrōsus" "dark"
    "tenebrōsus, tenebrōsa, tenebrōsum" "dark"
+
+   "tenebrārum" "of darkness"
+   "tenebrae, tenebrārum" "darkness"
+   
    "tentōrium" "tent"
    "tentōriō" "tent"
    "tentōriī" "tent"
@@ -4210,13 +4221,16 @@
    "terrae" "land"
    "terra, terrae" "land"
    "terrārum" "of lands"
+   
    "tetendit" "he stretched, he extended"
    "tetendērunt" "they stretched, they extended"
    "tendēbant" "they were stretching"
    "tendere" "to stretch, to extend"
    "tendō, tendere, tetendī, tentus" "to stretch, to extend"
+   
    "tenuēs" "thin"
    "tenuis, tenue, tenuior -or -us, tenuissimus -a -um" "thin"
+   
    "thronum" "throne"
    "thronus, thronī" "throne"
    "timēbant" "they were fearing"
@@ -4239,6 +4253,7 @@
    "tōtum" "whole, total"
    "tōtus" "whole, total"
    "tōtus, tōta, tōtum (gen -ius)" "whole, total"
+   
    "tractāre" "to haul, to drag, to handle, to discuss"
    "tractō, tractāre, tractāvī, tractātum" "to haul, to drag, to handle, to discuss"
    "trādita" "having been handed over"
@@ -4292,8 +4307,13 @@
    "trīnitās" "Trinity"
    "trīnitātī" "Trinity"
    "trīnitās, trīnitātis" "Trinity"
+   
    "trīstēs" "sad"
    "trīstis, trīstis, trīste" "sad"
+
+   "trīstitiam" "sadness"
+   "trīstitia, trīstitiae" "sadness"
+   
    "trium" "three"
    "trophaeō" "sign, trophy"
    "trophaeum" "sign, trophy"
@@ -4326,8 +4346,10 @@
    "ūllus" "any"
    "ūllō" "any"
    "ūllus, ūlla, ūllum (gen -ius)" "any"
+   
    "ultimam" "farthest, last"
    "-, -, ulterior -or -us, ultimus -a -um" "farthest, last"
+   
    "ululantem" "howling"
    "ululātum" "howling"
    "ululātus" "howling"
@@ -4392,6 +4414,7 @@
    "venerābilem" "venerable"
    "venerābilis" "venerable"
    "venerābilis, venerābilis, venerābile" "venerable"
+   
    "vēnerat" "he had come"
    "vēnērunt" "they came"
    "veniēbat" "he was coming"
@@ -4400,12 +4423,15 @@
    "venīmus" "we come, we came"
    "venīre" "to come"
    "vēnissēs" "you (might) have had come"
+   "vēnisset" "he (might) have had come"
    "ventūrum" "will be coming"
    "vēnistī" "you came"
    "vēnistis" "you came"
    "veniō, venīre, vēnī, ventus" "to come"
    "vēnī" "I came"
    "vēnit" "he came"
+
+   
    "ventre" "belly, abdomen"
    "venter, ventris" "belly, abdomen"
    "ventum" "wind"
@@ -4418,6 +4444,7 @@
    "verber, verberis" "lash, whip, rod"
    "verbī" "word"
    "verbīs" "words"
+   "verbum" "word"
    "verbum, verbī" "word"
    "vēritās, vēritātis" "truth"
    "vēritātī" "truth"
