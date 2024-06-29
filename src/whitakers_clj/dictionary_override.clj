@@ -3358,6 +3358,7 @@
    "portum" "harbor, port"
    "portus" "harbor, port"
    "portus, portūs" "harbor, port"
+   
    "posset" "he (might) have had been able"
    "possent" "they (might) have had been able"
    "possim" "I (might) be able"
@@ -3365,6 +3366,9 @@
    "possint" "they (may) be able"
    "possum, posse, potuī, -" "to be able (irregular)"
    "possumus" "we are able to"
+   "potuimus" "we were able"
+   "potuissēmus" "we might have had been able to"
+   
    "posteriōrem" "following, next"
    "posteriora" "after"
    "posterus, postera -um, posterior -or -us, postrēmus -a -um" "following, next"
@@ -3444,8 +3448,13 @@
    "prandium, prandiī" "breakfast, meal"
    "premit" "he presses, he overwhelms"
    "premō, premere, pressī, pressus" "to press, to overwhelm"
+   
    "pretiō" "price"
    "pretium, pretiī" "price"
+
+   "pretiōsī" "precious"
+   "pretiōsus, pretiōsa -um, pretiōsior -or -us, pretiōsissimus -a -um" "precious"
+   
    "prīma" "first"
    "prīmō" "first"
    "prīmus, prīma, prīmum" "first"
@@ -3458,8 +3467,11 @@
    "prior, prior, prius" "prior, ahead, previous"
    "prīstinī" "previous"
    "prīstinus, prīstina, prīstinum" "previous"
+
+   "probāvimus" "we approved, we commended"
    "probāre" "to approve, to commend, to demonstrate"
    "probō, probāre, probāvī, probātus" "to approve, to commend, to demonstrate"
+   
    "prōcūrātor" "procurator"
    "prōcūrātore" "procurator"
    "prōcūrātōris" "procurator"
@@ -3492,14 +3504,18 @@
    "prōra, prōrae" "prow"
    "prōrae" "prow"
    "prōram" "prow"
+   
    "prosper" "favorable"
    "prosper, prospera, prosperum" "favorable"
    "prosperō" "favorable, prosperous"
    "prosperum" "favorable, prosperous"
    "prosperus, prospera -um, prosperior -or -us, prosperrimus -a -um" "favorable, prosperous"
+   
    "prostrāvit" "he prostrated"
    "prosternēbant" "they were prostrating"
+   "prostrāvērunt" "they prostrated"
    "prosternō, prosternere, prostrāvī, prostrātus" "to prostrate"
+   
    "prōvolō, prōvolāre, prōvolāvī, prōvolātus" "to fly forward"
    "prōvolūtīs" "fallen, rolled"
    "prōvolvō, prōvolvere, prōvolvī, prōvolūtus" "to roll forward, to bowl over"
@@ -3521,16 +3537,28 @@
    "puerōrum" "of boys"
    "pugna" "fight"
    "pugna, pugnae" "fight"
+
+   "pulsum" "pulse, stroke"
+   "pulsus, pulsūs" "pulse, stroke"
+   
    "pulsō, pulsāre, pulsāvī, pulsātus" "to hit"
    "pulsāvit" "he hit"
+   
    "pūnicīs" "Carthaginian"
    "Pūnicus, Pūnica, Pūnicum" "Carthaginian"
+
+   "puppim" "stern, poop (of a ship)"
+   "puppis, puppis" "stern, poop (of a ship)"
+   
    "pūrificātiōne" "purification"
    "pūrificātiō, pūrificātiōnis" "purification"
    "purpūreus, purpūrea, purpūreum" "purple"
    "purpūreīs" "purple"
+   
    "putābant" "they were thinking"
+   "putāre" "to think"
    "putō, putāre, putāvī, putātus" "to think"
+   
    "quadrāgesima" "Lent, Christian fast of 40 days"
    "quadrāgesimae" "Lent, Christian fast of 40 days"
    "quadrāgesima, quadrāgesimae" "Lent, Christian fast of 40 days"
