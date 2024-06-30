@@ -150,6 +150,7 @@
    "hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
    "idcircō" "for that reason"
    "ideō" "for that reason"
+   "iēiūnābant" "they were fasting"
    "iēiūnāre" "to fast"
    "iēiūnium" "fast, fasting"
    "interim" "during"
@@ -248,6 +249,7 @@
    "malī" "evil, bad"
    "malīs" "evil, bad"
    "malō" "evil, bad"
+   "malum" "evil, bad"
    "mandātum" "mandate; singular masculine nominative or accusative from mandātum, mandātī"
    "manē" "morning"
    "mānsī" "I remained; singular 1st person perfect from maneō, manēre, mānsī, mānsus"
@@ -702,6 +704,7 @@
    "ambulāns" "walking"
    "ambulāre" "to walk"
    "ambulō, ambulāre, ambulāvī, ambulātus" "to walk"
+   "amīcī" "friendo"
    "amīcum" "friend"
    "amīcus" "friend"
    "amīcus, amīcī" "friend"
@@ -777,6 +780,7 @@
    "appōnō, appōnere, apposuī, appositus" "to place, to set before"
    "apprehendit" "he seizes, he seized"
    "apprehendō, apprehendere, apprehendī, apprehēnsus" "to seize, to grasp"
+   
    "appropinquāre" "to approach"
    "appropinquō, appropinquāre, appropinquāvī, appropinquātus" "to approach"
    "appropinquābant" "they had approached"
@@ -784,6 +788,8 @@
    "appropinquāvissem" "I (might) have had approached"
    "appropinquāvisset" "he (might) have had approached"
    "appropinquāvissent" "they (might) have had approached"
+   "appropinquāvit" "he approached"
+   
    "aptissimum" "very ready, very apt"
    "aptus, apta -um, aptior -or -us, aptissimus -a -um" "ready, apt"
    "aqua, aquae" "water"
@@ -807,8 +813,12 @@
    "ardentem" "burning"
    "ardentēs" "burning"
    "ārdēre" "to burn"
+
+   "argentea" "silver"
+   "argenteō" "silver"
    "argenteum" "silver"
    "argenteus, argenteī" "silver"
+   
    "ārsa" "being burned"
    "ārdeō" "I burn"
    "ārdeō, ārdēre, ārsī, ārsus" "to burn"
@@ -866,8 +876,11 @@
    "abstulisset" "he (might) have carried away"
    "auferō, auferre, abstulī, ablātus" "to carry away, to remove"
    "auris, auris" "ear"
+
+   "aula" "court"
    "aulam" "court"
    "aula, aulae" "court"
+   
    "aurēs" "ears"
    "aurōra" "dawn, sunrise"
    "aurōra, aurōrae" "dawn, sunrise"
@@ -998,10 +1011,13 @@
    "candor" "whiteness, brightness"
    "candōris" "whiteness, brightness"
    "candor, candōris" "whiteness, brightness"
+
+   "cane" "dog"
    "canem" "dog"
    "canēs" "dogs"
    "canis" "dog"
    "canis, canis" "dog"
+   
    "canentium" "singing"
    "canō, canere, cecinī, cantus" "to sing"
    "cantābat" "he was singing"
@@ -1180,12 +1196,16 @@
    "colōris" "color"
    "color, colōris" "color"
    "colōre" "color"
+   
    "columna" "column"
    "columnae" "column"
    "columnam" "column"
+   "columnās" "column"
    "columna, columnae" "column"
+   
    "columnātam" "supported by pillers"
    "columnātus, columnāta, columnātum" "supported by pillers"
+   
    "comedendum" "eating"
    "comedere" "to eat up"
    "comedō, comedere, comēdī, comēsum" "to eat up"
@@ -1229,10 +1249,13 @@
    "cōnfīnis, cōnfīnis, cōnfīne" "bordering"
    "cōnfitēminī" "you confess"
    "cōnfiteor, cōnfitērī, cōnfessum sum" "to confess"
+   
    "cōnfortābat" "he was comforting, he was strengthening"
    "cōnfortāminī" "you are being comforted/strengthened"
    "cōnfortāre" "to comfort, to strengthen"
+   "cōnfortāvit" "he comforted, he strengthened"
    "cōnfortō, cōnfortāre, cōnfortāvī, cōnfortātus" "to comfort, to strengthen"
+   
    "cōnfugit" "he flees"
    "cōnfūgit" "he fled"
    "cōnfugiō, cōnfugere, cōnfūgī, cōnfugitūrus" "to flee"
@@ -1311,8 +1334,14 @@
    "cornu, cornūs" "horn"
    "cortice" "bark of a tree"
    "cortex, corticis" "bark of a tree"
+
+   "costa" "rib"
+   "costās" "ribs"
+   "costa, costae" "rib"
+   
    "costātam" "ribbed"
    "costātus, costāta, costātum" "ribbed"
+   
    "crāstinae" "tomorrow" 
    "crāstinum" "tomorrow"
    "crāstinus, crāstina, crāstinum" "tomorrow"
@@ -1351,8 +1380,11 @@
    "cūdō, cūdere, cūdī, cūsus" "to pound"
    "culpa" "fault"
    "culpa, culpae" "fault"
+
+   "cucurrērunt" "they ran"
    "currere" "to run"
    "currō, currere, cucurrī, cursus" "to run"
+   
    "curricula" "race, course of action, course of heavenly body"
    "curriculum, curriculī" "race, course of action, course of heavenly body"
    "cursūs" "course"
@@ -1366,9 +1398,13 @@
    "custōdīte" "guard!"
    "dabat" "he was giving"
    "dabit" "he will give"
+
+   "daemōn" "demon"
+   "daemōnem" "demon"
    "daemōnēs" "demons"
    "daemōnum" "of demons"
    "daemōn, daemōnis" "demon"
+   
    "dalmaticīs" "deacon's vestmests"
    "dalmatica"  "deacon's vestmests"
    "dalmaticae" "deacon's vestmests"
@@ -1378,9 +1414,12 @@
    "data" "things given"
    "datō" "gift"
    "datum, datī" "gift"
+
+   "dēbēmus" "we should, we aught"
    "dēbeō" "I should"
    "dēbēs" "you should"
    "dēbeō, dēbēre, dēbuī, dēbitus" "to owe, to ought"
+   
    "dēbitum" "debt, due, duty"
    "dēbitum, dēbitī" "debt, due, duty"
    "dēbuissent" "they (might) have had owed"
@@ -1786,12 +1825,15 @@
    "fatīgō, fatīgāre, fatīgāvī, fatīgātum" "to grow weary, to fatigue"
    "favilla" "ember"
    "favilla, favillae" "ember"
+
+   "facient" "they will do, they will make"
    "fēcērunt" "they did, they made"
    "fēcī" "I did, I made"
    "fēcimus" "we made"
    "fēcit" "he did"
    "fēcissent" "they (might) have had done"
    "fēcistis" "you made"
+   
    "fenestra" "window"
    "fenestram" "window"
    "fenestra, fenestrae" "window"
@@ -2181,11 +2223,14 @@
    "iactus, iactūs" "throwing, casting, hurling"
    "ianthinīs" "violet-colored"
    "janthinus, janthina, janthinum" "violet-colored"
+   
    "ībant" "they were going"
    "ībat" "he was going"
    "ībunt" "they will be going"
    "ībimus" "we will go"
+   "ībit" "he will go"
    "ībō" "I will go"
+   
    "īgnis, īgnis" "fire"
    "īgnis" "fire"
    "īgne" "fire"
@@ -2394,11 +2439,15 @@
    "iōcundus" "pleasant, jocund"
    "iōcunditāte" "pleasant, jocund"
    "iōcundus, jōcunda -um, jōcundior -or -us, jōcundissimus -a -um" "pleasant, jocund"
+   
    "itūrus" "will be going"
    "īvit" "he went"
+
+   "iērunt" "they went"
    "eāmus" "let us go"
    "eunt" "they go"
    "īre" "to go"
+   
    "irruet" "it will rush in"
    "irruit" "it rushes, it rushed"
    "irruō, irruere, irruī, irrutus" "to rush into, to force way to"
@@ -2519,8 +2568,11 @@
    "ligātūra, ligātūrae" "ligature, binding"
    "lignīs" "wood"
    "lignum, lignī" "wood"
+   
+   "liniērunt" "they lined"
    "linīvērunt" "they lined"
    "liniō, linīre, linīvī, linītus" "to line, to smear"
+   
    "linteāmina" "linen clothes"
    "linteāmen, linteāminis" "linen cloth"
    "liquefacta" "being melted"
@@ -3037,8 +3089,11 @@
    "ōrātiō, ōrātiōnis" "oration, speech, discourse"
    "ōrātiōnibus" "oration, speech, discourse"
    "ōrāvērunt" "they prayed"
+   
    "ōrātōriō" "oratory, building for prayer"
+   "ōrātōrium" "oratory, building for prayer"
    "ōrātōrium, ōrātōriī" "oratory, building for prayer"
+   
    "ōrdinem" "order"
    "ōrdinibus" "order"
    "ōrdinis" "order"
@@ -3098,8 +3153,9 @@
 
    "paradīsī" "paradise"
    "paradīsō" "paradise"
-   "paradīsus, paradīsī" "paradise"
+   "paradīsum" "paradise"
    "paradīsus" "paradise"
+   "paradīsus, paradīsī" "paradise"
    
    "parātūrās" "preparations"
    "parātūra, parātūrae" "preparation"
@@ -4625,6 +4681,7 @@
    "volātū" "flying, flight"
    "volātus" "flying, flight"
    "volātus, volātūs" "flying, flight"
+   
    "volēbant" "they were wanting"
    "volō" "I want"
    "voluisset" "he (might) have had wanted"
@@ -4632,6 +4689,8 @@
    "volābat" "he was flying"
    "volō, volāre, volāvī, volātus" "to fly"
    "voluit" "he wanted"
+   "volumus" "we want"
+   
    "vōcem" "voice"
    "vōx" "voice"
    "vōx, vōcis" "voice"
