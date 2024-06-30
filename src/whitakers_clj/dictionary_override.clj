@@ -260,6 +260,7 @@
    "minimē" "barely, no, not"
    "minus" "less"
    "mixtim" "mixedly, in a mixed manner (adverb)"
+   "mox" "soon"
    "nam" "yes, truly"
    "namque" "for and in fact, on the other hand"
    "nātūra, nātūrae" "nature, quality"
@@ -1032,9 +1033,13 @@
    "cantum" "song"
    "cantus" "song"
    "cantus, cantūs" "song"
+
+   "capiēmus" "we will take"
    "capiendōs" "seizing"
    "capere" "to seize, to take hold"
+   "cēpit" "he took"
    "capiō, capere, cēpī, captus" "to seize, to take hold"
+   
    "capillīs" "hair"
    "capillus" "hair"
    "capillus, capillī" "hair"
@@ -1736,8 +1741,11 @@
    "est" "he is"
    "ēsuriē" "hunger"
    "ēsuriēs, ēsuriēī" "hunger"
+   
    "eucharistia" "Eucharist/Lord's Supper/Communion"
+   "eucharistiam" "Eucharist/Lord's Supper/Communion"
    "eucharistia, eucharistiae" "Eucharist/Lord's Supper/Communion"
+   
    "ēvigilāns" "awakening"
    "ēvigilat" "he wakes up, he rouses"
    "ēvigilō, ēvigilāre, ēvigilāvī, ēvigilātus" "to awaken"
@@ -1750,11 +1758,15 @@
    "excipiō, excipere, excēpī, exceptus" "to take out, to receive, to ward off"
    "excitātur" "he is being raised up"
    "excitō, excitāre, excitāvī, excitātus" "to wake up, to stir up, to raise, to excite"
+
+   "exī" "come out!"
    "exīvistīs" "you came out"
    "exīre" "to come out"
+   "exīvit" "he came out"
    "exeō, exīre, exivī(iī), exitus" "to come out, to go out"
    "exivērunt" "they came out, they went out"
    "exīssent" "they (might) have came out"
+   
    "exilīvit" "he went out"
    "exiliō, exilīre, exilīvī, -" "to go out"
    "exitus" "departure"
@@ -2152,7 +2164,8 @@
    "habet" "he has"
    "habētis" "you have"
    "habuērunt" "they had"
-   
+
+   "habitābam" "I was living"
    "habitantium" "inhabiting"
    "habitāre" "to inhabit"
    "habitābitis" "you will have"
@@ -2160,6 +2173,7 @@
    "habitant" "they inhabit"
    "habitāvī" "I inhabited"
    "habitō, habitāre, habitāvī, habitātus" "to inhabit"
+   
    "habitātiō" "dwelling"
    "habitātiōne" "dwelling"
    "habitātiō, habitātiōnis" "dwelling"
@@ -2857,6 +2871,9 @@
    "morsus" "bite, sting"
    "morsus, morsūs" "bite, sting"
 
+   "mortuus" "dead"
+   "mortuus, mortua, mortuum" "dead"
+
    "movēbat" "he was moving"
    "movērētur" "they (might) have been moving"
    "movēre" "to move"
@@ -3144,6 +3161,7 @@
    "orientālis, orientālis, orientāle" "eastern"
 
    "ōrābat" "he was praying"
+   "ōrābant" "they were praying"
    "ōrāre" "to pray"
    "ōrō, ōrāre, ōrāvī, ōrātus" "to pray"
    
