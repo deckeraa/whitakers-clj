@@ -1418,6 +1418,7 @@
    "dēbēmus" "we should, we aught"
    "dēbeō" "I should"
    "dēbēs" "you should"
+   "dēbētis" "you should"
    "dēbeō, dēbēre, dēbuī, dēbitus" "to owe, to ought"
    
    "dēbitum" "debt, due, duty"
@@ -1638,9 +1639,12 @@
    "dōnō, dōnāre, dōnāvī, dōnātus" "to give"
    "dōnīs" "gifts"
    "dōnum, dōnī" "gift"
+
+   "dormiēbant" "we were sleeping"
    "dormiam" "I will sleep"
    "dormiās" "you (might) sleep"
    "dormiō, dormīre, dormīvī, dormītus" "to sleep"
+   
    "dorsum" "back"
    "dorsō" "back"
    "dorsum, dorsī" "back"
@@ -1676,6 +1680,10 @@
    "ecclēsiae" "church"
    "ecclēsiam" "church"
    "ecclēsia, ecclēsiae" "church"
+
+   "ēdērunt" "they ate"
+   "edō, edere, ēdī, ēsus" "to eat"
+   
    "effluēbant" "they were flowing out"
    "effluō, effluere, efflūxī, -" "to flow out"
    "effundō, effundere, effūdī, effūsus" "to pour out"
@@ -1762,6 +1770,7 @@
    "expectantēs" "expecting"
    "exposuimus" "we explained"
    "expōnō, expōnere, exposuī, expositus" "to explain"
+   
    "extendentis" "extending"
    "extendere" "to extend"
    "extendēbat" "he was extending"
@@ -1769,8 +1778,10 @@
    "extendit" "he extends, he extended"
    "extēnsīs" "have been extended"
    "extēnsa" "have been extended"
+   "extendērunt" "they stretched out"
    "extendō, extendere, extendī, extentus" "to extend"
    "extendō, extendere, extendī, extensus" "to extend"
+   
    "extinguebantur" "they were being extinguished"
    "extinguō, extinguere, extīnxī, extīnctus" "to quench, to extinguish"
    "extollātis" "you (might) have extolled"
@@ -1925,8 +1936,11 @@
    "flōre" "flower"
    "flōribus" "flowers"
    "flōs, flōris" "flower"
+
+   "fluēbant" "they were flowing"
    "fluentēs" "flowing"
    "fluō, fluere, flūxī, flūxus" "to flow"
+   
    "flūctuum" "of waves, of billows, of turbulence"
    "flūctibus" "waves, billows, turbulence"
    "flūctus, flūctūs" "wave, billow, turbulence"
@@ -1986,10 +2000,14 @@
    "frātrīs" "brothers"
    "frātribus" "brothers"
    "frātrum" "of brothers"
+
+   "frēna" "bridle"
    "frēnī" "bridle"
    "frēnīs" "bridle"
+   "frēnō" "bridle"
    "frēnum" "bridle"
    "frēnum, frēnī" "bridle"
+   
    "frequentātur" "it is crowded, it is frequented"
    "frequentō, frequentāre, frequentāvī, frequentātus" "to crowd, to frequent"
    "frequenter" "frequently"
@@ -2115,6 +2133,7 @@
    "gustus, gustūs" "taste"
    "gȳrum" "circle, ring, circuit, course"
    "gȳrus, gȳrī" "circle, ring, circuit, course"
+   
    "habeam" "I (might) have"
    "habeant" "let them have"
    "habēbat" "he had"
@@ -2131,6 +2150,8 @@
    "habēs" "you have"
    "habet" "he has"
    "habētis" "you have"
+   "habuērunt" "they had"
+   
    "habitantium" "inhabiting"
    "habitāre" "to inhabit"
    "habitābitis" "you will have"
@@ -2407,6 +2428,7 @@
    "interrogāre" "to ask"
    "interrogō, interrogāre, interrogāvī, interrogātus" "to ask"
    "interveniente" "come between, intervene"
+   
    "intrābis" "you will enter"
    "intrāmus" "we enter"
    "intrāvī" "I entered"
@@ -2415,7 +2437,9 @@
    "intrandī" "entering"
    "intrāre" "to enter"
    "intrantibus" "entering"
+   "intrāvērunt" "they entered"
    "intrō, intrāre, intrāvī, intrātus" "to enter"
+   
    "introitus" "entrance"
    "introitum" "entrance"
    "introitus, introitūs" "entrance"
