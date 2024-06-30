@@ -2054,6 +2054,7 @@
    "furca, furcae" "fork"
    "fūrtī" "theft, stolen article"
    "fūrtō" "theft, stolen article"
+   "fūrtum" "theft, stolen article"
    "fūrtum, fūrtī" "theft, stolen article"
    "futūra" "future"
    "futūrō" "future"
@@ -2603,9 +2604,11 @@
    "liquefaciō, liquefacere, liquefēcī, liquefactus" "to melt, to liquify"
    "limite" "limit"
    "līmes, līmitis" "limit"
+   
    "lītus" "beach, shore"
    "lītore" "beach, shore"
    "lītus, lītoris" "beach, shore"
+   
    "loca" "places"
    "locī" "place"
    "locīs" "places"
@@ -2693,10 +2696,12 @@
    "manūs" "hand"
    "manuum" "of hands"
    "manus, manūs" "hand"
+   
    "mare" "sea"
    "maris" "sea"
    "mare, maris" "sea"
    "marī" "sea"
+   
    "margarīta" "pearl"
    "margarīta, margarītae" "pearl"
    "marmor" "marble"
@@ -2851,9 +2856,12 @@
    "morsum, morsī" "little piece"
    "morsus" "bite, sting"
    "morsus, morsūs" "bite, sting"
+
+   "movēbat" "he was moving"
    "movērētur" "they (might) have been moving"
    "movēre" "to move"
    "moveō, movēre, mōvī, mōtus" "to move"
+   
    "multitūdō" "multitude, great number"
    "multitūdine" "multitude, great number"
    "multitūdō, multitūdinis" "multitude, great number"
@@ -3134,8 +3142,11 @@
    "orientālem" "eastern"
    "orientālī" "eastern"
    "orientālis, orientālis, orientāle" "eastern"
+
+   "ōrābat" "he was praying"
    "ōrāre" "to pray"
    "ōrō, ōrāre, ōrāvī, ōrātus" "to pray"
+   
    "ortum" "rising, beginning"
    "ortus" "rising, beginning"
    "ortus, ortūs" "rising, beginning"
@@ -3370,6 +3381,7 @@
    "pedibus" "feet"
    "pēs, pedis" "foot"
    "pessimīs" "worst"
+   "pessimum" "worst"
    "pessimus" "worst"
    "pessimō" "worst"
    "pessimus, pessima, pessimum" "worst"
@@ -3805,6 +3817,9 @@
    "remanēbit" "he will remain"
    "remānsit" "he remained"
 
+   "rēmigāre" "to row"
+   "rēmigō, rēmigāre, rēmigāvī, rēmigātus" "to row"
+
    "replētī" "having been filled/re-filled"
    "repleō, replēre, replēvī, replētus" "to fill again"
    
@@ -3872,10 +3887,13 @@
    "rīpae" "bank, shore"
    "rīpās" "banks, shores"
    "rīpa, rīpae" "bank, shore"
+   
    "rīvulus" "small brook, rivulet"
    "rīvulī" "small brook, rivulet"
+   "rīvulīs" "small brooks, rivulets"
    "rīvulōs" "small brooks, rivulets"
    "rīvulus, rīvulī" "small brook, rivulet"
+   
    "rapīnam" "robbery, pillage"
    "rapīna, rapīnae" "robbery, pillage"
    "rōborāminī" "you are strengthened"
@@ -3980,6 +3998,7 @@
    "sēcrētīs" "secrets"
    "sēcrētum, sēcrētī" "secret"
    "secunda" "second"
+   
    "sedēbat" "he was sitting"
    "sedēbant" "they were sitting"
    "sedendō" "sitting"
@@ -3988,8 +4007,11 @@
    "sedentēs" "sitting"
    "sedentis" "sitting"
    "sedeō" "I sit"
+   "sēdērunt" "they sat"
    "sedeō, sedēre, sēdī, sessus" "to sit"
+   
    "sēdēs" "seat"
+   "sēdibus" "seats"
    "sēdēs, sēdis" "seat"
    "sedilibus" "seats, benches, stools"
    "sedīle, sedilis" "seat, bench, stool"
@@ -4073,9 +4095,14 @@
    "sint" "they (might) be"
    "sīs" "you (might) be"
    "sit" "he (might) be"
+   
    "sitis, sitis" "thirst"
    "sitis" "thirst"
    "sitī" "thirst"
+
+   "sitiēbant" "they were thirsting"
+   "sitiō, sitīre, sitīvī, sitītus" "to thirst"
+   
    "sociō" "associate, companion"
    "sociīs" "associates, companions"
    "sociōs" "associates, companions"
@@ -4190,9 +4217,12 @@
    "strepitantibus" "making a harsh noise"
    "strepitus" "din, noise, clashing, sound"
    "strepitus, strepitūs" "din, noise, clashing, sound"
+   
    "stultitiam" "folly"
    "stultitia, stultitiae" "folly"
+   
    "stultum" "foolish, stupid"
+   "stultus" "foolish, stupid"
    "stultus, stulta, stultum" "foolish, stupid"
    "suādentem" "persuading"
    "suādeō, suādēre, suāsī, suāsus" "to persuade"
@@ -4296,8 +4326,14 @@
    "templum" "temple"
    "templī"  "temple"
    "templum, templī" "temple"
+
+   "temptābat" "he was tempting"
+   "temptāre" "to tempt"
+   "temptō, temptāre, temptāvī, temptātus" "to tempt"
+   
    "temptātiōnem" "temptation"
    "temptātiō, temptātiōnis" "temptation"
+   
    "tempora" "times, periods"
    "tempus" "time, period"
    "tempore" "time, period"
