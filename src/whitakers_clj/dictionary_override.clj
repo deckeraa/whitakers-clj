@@ -72,6 +72,7 @@
    "cibō" "food; singular masculine ablative from cibum cibum, cibī"
    "circā" "around, about, concerning"
    "circiter" "near, close, about"
+   "circum" "about, around, near"
    "citō" "quickly"
    "coepērunt" "they started; from coepī, coepisse, coepī, coeptum"
    "commendātīs" "you commend; 2nd person plural present from commendāre"
@@ -1718,6 +1719,7 @@
    "ecclēsia, ecclēsiae" "church"
 
    "ēdērunt" "they ate"
+   "edimus" "we eat"
    "edō, edere, ēdī, ēsus" "to eat"
    
    "effluēbant" "they were flowing out"
@@ -3874,8 +3876,11 @@
    "referō, referre, rettulī, relātus" "to bring back, to report"
    "refocilātiō" "refreshment"
    "refocillātiō, refocillātiōnis" "refreshment"
+
+   "refectōriō"  "dining room, refectory"
    "refectōrium" "dining room, refectory"
    "refectōrium, refectōriī" "dining room, refectory"
+   
    "refrīgerium" "cooling, consolation"
    "refrīgerium, refrīgeriī" "cooling, consolation"
    "refulsit" "it shone"
@@ -3890,6 +3895,10 @@
    "regiō, regiōnis" "region"
    "regressus" "return"
    "regressus, regressūs" "return"
+
+   "rēgulam" "rule, principle"
+   "rēgula, rēgulae" "rule, principle"
+   
    "relictīs" "leaving behind"
    "relinquō, relinquere, relīquī, relictum" "to lealving behind"
    "reliquōs" "remaining"
@@ -3901,9 +3910,11 @@
    "rem" "thing"
 
    "remanent" "they remain"
+   "remanēre" "to remain"
    "remaneō, remanēre, remānsī, remānsus" "to remain"
    "remanēbit" "he will remain"
    "remānsit" "he remained"
+   "remānsērunt" "they remained"
 
    "rēmigāre" "to row"
    "rēmigō, rēmigāre, rēmigāvī, rēmigātus" "to row"
@@ -3933,10 +3944,15 @@
    "resonō, resonāre, resonāvī, resonātus" "to resound"
    "respīrantem" "breathing"
    "respīrō, respīrāre, respīrāvī, respīrātus" "to breathe"
+
+   "respondēbat" "he was responding"
    "respondērunt" "they responded"
    "respondit" "he responded"
+   "respondeō, respondēre, respondī, respōnsus" "to respond"
+   
    "respōnsum" "response"
    "respōnsum, respōnsī" "response"
+   
    "restitit" "he resisted"
    "restitērunt" "they resisted"
    "resistō, resistere, restitī, -" "to resist"
@@ -4083,7 +4099,9 @@
    
    "sciō" "I know"
    "sciēbat" "he was knowing"
+   "scīvit" "he knew"
    "sciō, scīre, scīvī, scītus" "to know"
+   
    "scolam" "school, corporation, leisure"
    "scola, scolae" "school, corporation, leisure"
    "scōria" "slag"
@@ -4170,9 +4188,12 @@
    "signō" "sign"
    "signum" "sign"
    "signum, signī" "sign"
+
+   "silentiī" "silence"
    "silentium" "silence"
    "silentium, silentiī" "silence"
    "silentiō" "silence"
+   
    "silice" "flint"
    "silicis" "flint"
    "silex, silicis" "flint"
