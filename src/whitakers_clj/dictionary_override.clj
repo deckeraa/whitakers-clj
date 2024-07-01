@@ -68,6 +68,7 @@
    "Caiphā" "Ablative of Caiphas, a high priest involved with the crucifixion of Christ."
    "candida" "bright, white, clean; singular feminine nominative from candidus, candida, candidum"
    "cantāte" "Sing! Plural imperative from cantāre"
+   "celebrāte" "Celebrate!"
    "Chrīstō" "Christ"
    "cibō" "food; singular masculine ablative from cibum cibum, cibī"
    "circā" "around, about, concerning"
@@ -290,6 +291,7 @@
    "nōna" "ninth"
    "nōnam" "the 9th"
    "nōnne" "not, expecting an affirmative answer"
+   "nonnullī" "some; masculine plural nominative of nonnullus, -a, -um"
    "nōs" "us; plural nominative or accusative of ego"
    "nostrae" "our; singular feminine genitive or dative of noster"
    "nostrī" "our; sing. masc. gen. or pl. masc. nom. or sing. neut. gen. of noster"
@@ -1093,6 +1095,7 @@
    "causa" "cause, reason"
    "cavēte" "Beware!"
    "caveō, cavēre, cāvī, cautus" "to beware"
+   
    "celebrābis" "you will celebrate"
    "celebrāvistī" "you celebrated"
    "celebrābitis" "you will celebrate"
@@ -1102,9 +1105,11 @@
    "celebrābant" "they were celebrating"
    "celebrētis" "you (might) have been celebrating"
    "celebrāre" "to celebrate"
+   "celebrāvērunt" "they celebrated"
    "celebrāvisset" "he (might) have had celebrated"
    "celebrāvissent" "they (might) have had celebrated"
    "celebrō, celebrāre, celebrāvī, celebrātus" "to celebrate"
+   
    "cellam" "small room, cell"
    "cellās" "small rooms, cells"
    "cella, cellae" "small room, cell"
@@ -1680,6 +1685,7 @@
    "dormiēbant" "we were sleeping"
    "dormiam" "I will sleep"
    "dormiās" "you (might) sleep"
+   "dormīvērunt" "they slept"
    "dormiō, dormīre, dormīvī, dormītus" "to sleep"
    
    "dorsum" "back"
@@ -1720,6 +1726,7 @@
 
    "ēdērunt" "they ate"
    "edimus" "we eat"
+   "ēditē" "eat!"
    "edō, edere, ēdī, ēsus" "to eat"
    
    "effluēbant" "they were flowing out"
@@ -1912,6 +1919,7 @@
    "ferveō, fervēre, ferbuī, -" "to boil"
    "fervōris" "boiling heat"
    "fervor, fervōris" "boiling heat"
+   
    "fēstī" "festive"
    "festīnābant" "they were hastening"
    "festīnāre" "to hasten, to hurry"
@@ -1922,11 +1930,16 @@
    "fēstīvitātem" "festivity"
    "fēstīvitās, fēstīvitātis" "festivity"
    "fēstīvitātibus" "festivity"
+   
    "fēstīs" "festive"
    "fēsta" "festivals"
+   "fēstam" "festival"
    "fēstum" "festival"
    "fēstum, fēstī" "festival"
+
+   "fēstōs" "festive"
    "fēstus, fēsta, fēstum" "festive"
+   
    "fētor" "stench, foulness"
    "fētor, fētōris" "stench, foulness"
    "fīat" "may it be"
@@ -2070,9 +2083,12 @@
    "frūctus, frūctūs" "fruit"
    "fuerat" "he had been"
    "fuērunt" "they were"
+
+   "fugere" "to flee"
    "fugiāmus" "we might have fled"
    "fugiendō" "fleeing"
    "fugiō, fugere, fūgī, fugitus" "to flee, to avoid"
+   
    "fuī" "I was"
    "fuimus" "we were"
    "fuissem" "I (might) have had been"
@@ -2273,11 +2289,14 @@
    "humiliō, humiliāre, humiliāvī, humiliātus" "to humble, to abase, to humililate"
    "humilitās, humilitātis" "humility, insignificance, commonplaceness"
    "humilitāte" "humility, insignificance, commonplaceness"
-   "hymnō" "hymn"
-   "hymnum" "hymn"
+   
    "hymnīs" "hymns"
+   "hymnō" "hymn"
+   "hymnōs" "hymns"
    "hymnus" "hymn"
+   "hymnum" "hymn"
    "hymnus, hymnī" "hymn"
+   
    "iacendō" "laying"
    "iacentem" "laying"
    "iacentēs" "laying"
@@ -2337,9 +2356,13 @@
    "imminent" "they threaten, they are imminent"
    "imminente" "imminently"
    "immineō, imminēre, -, -" "to threaten, to be imminent"
+
+   
    "immolābat" "he was burning"
    "immolābant" "they were burning"
+   "immolāvērunt" "they burned"
    "immolō, immolāre, immolāvī, immolātus" "to burn"
+   
    "immolātiōne" "sacrifice"
    "immolātiō, immolātiōnis" "sacrifice"
    "impedīmentō" "impediment, hindrance, heavy baggage"
@@ -2614,9 +2637,11 @@
    "laudābunt" "they will praise"
    "laudāmus" "we praise"
    "laudāte" "praise!"
+   "laudāvērunt" "they praised"
    "laudēs" "praises"
    "laudibus" "praises"
    "laudō, laudāre, laudāvī, laudātus" "to praise"
+   
    "lavantur" "are being washed"
    "lavātis" "you wash"
    "lavandōs" "washing"
@@ -3296,9 +3321,12 @@
    "pāscō, pāscere, pāvī, pāstus" "to feed, to graze"
    "patina" "a broad, shallow dish"
    "patina, patinae" "a broad, shallow dish"
+   
    "pascha" "Passover, Easter"
+   "pascham" "Passover, Easter"
    "pascha, paschae" "Passover, Easter"
    "paschae" "Passover, Easter"
+   
    "paschālī" "Paschal"
    "paschālia" "Paschal"
    "paschālis, paschālis, paschāle" "Paschal"
@@ -3938,6 +3966,7 @@
    "residentibus" "sitting down"
    "residēbant" "they were sitting down"
    "resideō, residēre, resēdī, resessus" "to sit down, to settle"
+   "resēdērunt" "they sat down"
    "resēdisset" "he (might) have had sat down"
    "resēdissent" "they (might) have had sat down"
    "resonābant" "they were resounding"
@@ -3984,7 +4013,9 @@
    "revertiminī" "you return"
    "revertar" "I will return"
    "reversī" "returned"
+   "revertam" "I will return"
    "revertere" "to return"
+   "revertētis" "you will return"
    "revertō, revertere, revertī, reversum" "to return"
    
    "rēgī" "king"
@@ -4266,8 +4297,13 @@
    "sono, sonare, sonavi, sonatus" "to make a sound"
    "sonus" "sound"
    "sonus, sonī" "sound"
+   
    "sopor" "deep sleep, lethargy"
    "sopor, sopōris" "deep sleep, lethargy"
+
+   "sopōrīs" "sleep-bringing"
+   "sopōrus, sopōra, sopōrum" "sleep-bringing"
+   
    "sorbēbat" "he was drinking, he was absorbing"
    "sorbeō, sorbēre, sorbuī, sorbitus" "to drink, to absorb"
 
@@ -4294,6 +4330,7 @@
    
    "spīritāle" "spiritual"
    "spīritālem" "spiritual"
+   "spīritālēs" "spiritual"
    "spīritālī" "spiritual"
    "spīritālibus" "spiritual"
    "spīritālis" "spiritual"
@@ -4700,7 +4737,6 @@
    "veniō, venīre, vēnī, ventus" "to come"
    "vēnī" "I came"
    "vēnit" "he came"
-
    
    "ventre" "belly, abdomen"
    "venter, ventris" "belly, abdomen"
@@ -4763,7 +4799,9 @@
    "vice" "time, turn"
    "vicis, vicis" "time, turn"
    "vicibus" "times"
+   
    "victima" "sacrificial victim"
+   "victimās" "sacrificial victims"
    "victimīs" "sacrificial victim"
    "victima, victimae" "sacrificial victim"
    "victōriam" "victory"

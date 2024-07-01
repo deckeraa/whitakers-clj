@@ -513,7 +513,7 @@
                    "bov.es" "bovēs" "convoc.atis" "convocātis" "fren.um" "frēnum" "heredit.ate" "hērēditāte"
                    "circumd.atis" "circumdatis" "ostend.et" "ostendet" "commend.atis" "commendātīs"
                    "salut.atis" "salūtātis" "expl.etis" "explētis" "iverunt" "iērunt" "sal.i" "salī"
-                   "sciv.it" "scīvit"
+                   "sciv.it" "scīvit" "celebr.ate" "celebrāte"
                    } word) word)]
     word))
 
