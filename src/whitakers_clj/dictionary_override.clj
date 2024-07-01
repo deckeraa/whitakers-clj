@@ -62,6 +62,7 @@
    "bene" "good; adverb of bonus -a -um"
    "bovēs" "cows; plural masc. or fem. nom. or acc. from bōs, bovis"
    "Brendānī" "(genitive case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
+   "Brendānō" "(ablative or dative case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānum" "(accusative case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Caiphā" "Ablative of Caiphas, a high priest involved with the crucifixion of Christ."
@@ -654,9 +655,12 @@
    "ālae" "wings"
    "ālārum" "of wings"
    "ālās" "wings"
+
+   "albārum" "white"
    "albus, alba -um, albior -or -us, albissimus -a -um" "white"
    "albī" "white"
    "albīs" "white"
+   
    "alia" "other"
    "aliās" "others"
    "aliōs" "others"
@@ -821,8 +825,10 @@
    "argenteus, argenteī" "silver"
    
    "ārsa" "being burned"
+   "ārdente" "burning"
    "ārdeō" "I burn"
    "ārdeō, ārdēre, ārsī, ārsus" "to burn"
+   
    "arēna" "sand"
    "arēnam" "sand"
    "arēna, arēnae" "sand"
@@ -982,11 +988,14 @@
    "cecidit" "he fell"
    "cecidērunt" "they fell"
    "cadō, cadere, cecidī, cāsus" "to fall"
+   
    "caelum" "heaven, sky"
    "caelī" "heaven, sky"
    "caelīs" "heavens, skies"
+   "caelō" "heaven, sky"
    "caelus" "heaven, sky"
    "caelus, caelī" "heaven, sky"
+   
    "calidus" "hot, warm"
    "calidus, calida -um, calidior -or -us, calidissimus -a -um" "hot, warm"
    "calicem" "cup, chalice"
@@ -1005,10 +1014,13 @@
    "candēla" "candle"
    "candēlās" "candles"
    "candēla, candēlae" "candle"
+   
    "candidī" "bright, white, clean"
    "candidus, candida -um, candidior -or -us, candidissimus -a -um" "bright, white, clean"
+   "candidissimae" "most bright/white, very bright/white"
    "candidissimīs" "most bright/white, very bright/white"
    "candidissimus" "most bright/white, very bright/white"
+   
    "candor" "whiteness, brightness"
    "candōris" "whiteness, brightness"
    "candor, candōris" "whiteness, brightness"
@@ -1036,7 +1048,10 @@
 
    "capiēmus" "we will take"
    "capiendōs" "seizing"
+   "capit" "he takes"
+   "capite" "take!"
    "capere" "to seize, to take hold"
+   "cēpērunt" "they took"
    "cēpit" "he took"
    "capiō, capere, cēpī, captus" "to seize, to take hold"
    
@@ -1109,10 +1124,13 @@
    "cessō, cessāre, cessāvī, cessātus" "to cease"
    "cessātiōne" "rest, relaxation, respite"
    "cessātiō, cessātiōnis" "rest, relaxation, respite"
+   
    "cētera" "the other"
    "cēterī" "the other"
    "cēterīs" "the others"
+   "cēterum" "the other"
    "cēterus, cētera, cēterum" "the other"
+   
    "cētus" "large sea animal, whale, shark, dolphin"
    "cētī" "large sea animal, whale, shark, dolphin"
    "cētus, cētī" "large sea animal, whale, shark, dolphin"
@@ -1318,6 +1336,10 @@
    "cophinus" "basket"
    "cophinum" "basket"
    "cophinus, cophinī" "basket"
+
+   "coquināre" "to cook"
+   "coquinō, coquināre, coquināvī, coquinātus" "to cook"
+   
    "cor" "heart"
    "cor, cordis" "heart"
    "corde" "heart"
@@ -1359,8 +1381,11 @@
    "creātūra, creātūrae" "creature"
    "crēber, crēbra -um, crēbrior -or -us, crēberrimus -a -um" "frequent, repeated, thick"
    "crēbrīs" "frequent, repeated, thick"
+
+   "creāvērunt" "they created"
    "creō, creāre, creāvī, creātum" "to create"
    "creātī" "of the thing created"
+   
    "crēdidī" "I believed, I entrusted"
    "crēdō" "I believe"
    "crēdendum" "believing"
@@ -1514,6 +1539,8 @@
    "diabolī" "devil, demon"
    "diabolus" "devil, demon"
    "diabolus, diabolī" "devil, demon"
+
+   "dīc" "say!"
    "dīcam" "I will say"
    "dīcās" "you might say"
    "dicēbat" "he was saying"
@@ -1528,6 +1555,7 @@
    "dictō" "having been said"
    "dīcunt" "they say"
    "dīcō, dīcere, dīxī, dictus" "to say"
+   
    "diēs" "day"
    "diē" "day"
    "diēī" "day"
@@ -1614,10 +1642,13 @@
    "dēferō, dēferre, dētulī, dēlātus" "to bring down, to transfer"
    "dīmidium" "half"
    "dīmidium, dīmidiī" "half"
+
+   "dabō" "I will give"
    "dedī" "I gave"
    "dare" "to give"
    "datūrus" "will be given"
    "dō, dare, dedī, datum" "to give (irregular)"
+   
    "domestica" "domestic"
    "domesticus, domestica, domesticum" "domestic"
    "domine" "lord, master"
@@ -2520,6 +2551,11 @@
    "iuvenis" "young man"
    "iuvenis, iuvenis" "young man"
    "īvisset" "he (might) have gone"
+
+   "iūvit" "he helped"
+   "iuvāre" "to help"
+   "iuvō, iuvāre, iūvī, iūtus" "to help"
+   
    "labia" "lip"
    "labia, labiae" "lip"
    "labōre" "labor"
@@ -2556,18 +2592,24 @@
    "laetitiae" "joy, gladness, fruitfulness"
    "lassitūdine" "faintness, weariness, exhaustion"
    "lassitūdō, lassitūdinis" "faintness, weariness, exhaustion"
+   
    "lātitūdinis" "breadth, width, latitude"
    "lātitūdō" "breadth, width, latitude"
    "lātitūdō, lātitūdinis" "breadth, width, latitude"
+
+   "lāta" "wide"
    "lātum" "wide"
+   "lātus" "wide"
+   "lātus, lāta, lātum" "wide"
+
    "latera" "side"
    "latere" "side"
    "latus" "side"
    "latus, lateris" "side"
-   "lātus" "wide"
-   "lātus, lāta, lātum" "wide"
+   
    "laudā" "praise!"
-   "laudabunt" "they will praise"
+   "laudābant" "they were praising"
+   "laudābunt" "they will praise"
    "laudāmus" "we praise"
    "laudāte" "praise!"
    "laudēs" "praises"
@@ -2688,18 +2730,22 @@
    "malleus, malleī" "hammer"
    "mandūcāvī" "I chewed, I ate"
    "mandūcō, mandūcāre, mandūcāvī, mandūcātus" "to chew, to eat"
+   
    "manendī" "remaining"
    "manendum" "remaining"
    "manēbitis" "you will remain"
    "mānsērunt" "they have remained"
+   "mānsit" "he remained"
    "maneō, manēre, mānsī, mānsus" "to remain"
    "manet" "he remains"
    "manifestāvit" "he revealed"
    "manifestō, manifestāre, manifestāvī, manifestātus" "to reveal"
+   
    "mānāre" "to flow, to spring"
    "mānō, mānāre, mānāvī, mānātus" "to flow, to pour, to spring"
    "mānantis" "flowing, pouring"
-   "mānsit" "he remained"
+   "mānāvit" "it flowed"
+   
    "mānsiō, mānsiōnis" "room"
    "mānsiōnibus" "rooms"
    "mansuētūdine" "tameness"
@@ -2852,11 +2898,16 @@
    "monastēriō" "monastery"
    "monastērium" "monastery"
    "monastērium, monastēriī" "monastery"
+   
    "mōns, montis" "mountain"
    "mōns" "mountain"
    "monte" "mountain"
    "montem" "mountain"
    "montīs" "mountains"
+
+   "mōnstrum" "monster"
+   "mōnstrum, mōnstrī" "monster"
+   
    "moriēmur" "he will die"
    "morior, morī, mortuus sum" "to die"
    "mors, mortis" "death"
@@ -2875,6 +2926,7 @@
    "mortuus, mortua, mortuum" "dead"
 
    "movēbat" "he was moving"
+   "movent" "they move"
    "movērētur" "they (might) have been moving"
    "movēre" "to move"
    "moveō, movēre, mōvī, mōtus" "to move"
@@ -2884,7 +2936,9 @@
    "multitūdō, multitūdinis" "multitude, great number"
    
    "multa" "many"
+   "multae" "many"
    "multum" "many"
+   "multārum" "many"
    "multās" "many"
    "multī"  "many"
    "multīs" "many"
@@ -2894,6 +2948,7 @@
    "multus, multa -um, -, plūrimus -a -um" "many"
    
    "mundī" "world"
+   "mundum" "world"
    "mundus, mundī" "world"
    "mūnera" "gifts"
    "mūnus, mūneris" "gift"
@@ -2909,10 +2964,13 @@
    "nārrāvit" "he told"
    "nārrāre" "to narrate, to tell about"
    "nārrō, nārrāre, nārrāvī, nārrātus" "to narrate, to tell about"
+   
    "nātū" "birth"
    "nascor, nasci, natus sum" "to be born"
+   
    "natābant" "they were swimming"
    "natantium" "swimming"
+   "natāvit" "he swam"
    "natō, natāre, natāvī, natātus" "to swim"
    "nātālem" "birthday"
    "nātālis" "birthday"
@@ -2922,6 +2980,8 @@
    "nātīvitāte"  "birth, nativity"
    "nātīvitātem" "birth, nativity"
    "nātīvitātis" "birth, nativity"
+
+   "nāve" "boat"
    "nāvem" "boat"
    "nāvicula" "small boat"
    "nāviculae" "small boat"
@@ -3163,6 +3223,7 @@
    "ōrābat" "he was praying"
    "ōrābant" "they were praying"
    "ōrāre" "to pray"
+   "ōrāvit" "he prayed"
    "ōrō, ōrāre, ōrāvī, ōrātus" "to pray"
    
    "ortum" "rising, beginning"
@@ -3290,11 +3351,15 @@
    
    "pavor" "fear, trembling"
    "pavor, pavōris" "fear, trembling"
+   
    "peccātōrī" "sinner"
    "peccātor, peccātōris" "sinner"
+   
    "peccandō" "sinning"
    "peccāvī" "I sinned"
+   "peccāvērunt" "they sinned"
    "peccō, peccāre, peccāvī, peccātus" "to sin"
+   
    "pede" "foot"
    "pedēs" "feet"
    "pellēs" "pelts, hides"
@@ -3555,14 +3620,17 @@
    "praedīxī" "I said before"
    "praedīcō, praedīcere, praedīxī, praedictus" "to say before"
    "praedīxerat" "he had said"
+   
    "praeparantur" "being prepared"
    "praeparāvīt" "he prepared"
    "praeparandās" "preparing"
    "praeparāte" "prepare!"
    "praeparāre" "to prepare"
+   "praeparāvērunt" "they prepared"
    "praeparāvisset" "he (might) have had prepared"
    "praeparāvissent" "they (might) have had prepared"
    "praeparō, praeparāre, praeparāvī, praeparātus" "to prepare"
+   
    "praepositō" "advantageous thing"
    "praepositum, praeposit" "advantageous thing"
    "praesentāvimus" "we presented"
@@ -3831,6 +3899,8 @@
    "rē" "thing"
    "reī" "thing"
    "rem" "thing"
+
+   "remanent" "they remain"
    "remaneō, remanēre, remānsī, remānsus" "to remain"
    "remanēbit" "he will remain"
    "remānsit" "he remained"
@@ -3878,6 +3948,8 @@
    "resurrēctiō, resurrēctiōnis" "resurrection"
    "retinēbant" "they were holding back, they were retaining"
    "retineō, retinēre, retinuī, retentus" "they were holding back, they were retaining"
+
+   "revēlā" "reveal!"
    "revēlāvīt" "he revealed"
    "revēlō, revēlāre, revēlāvī, revēlātus" "to show, to reveal"
    "revēlāre" "to reveal"
@@ -3891,7 +3963,8 @@
    "revertentēs" "returning"
    "revertāmur" "he (might) return"
    "revertērunt" "they returned"
-   "revertī" "he returned"
+   "revertī" "I returned"
+   "revertit" "he returned"
    "revertiminī" "you return"
    "revertar" "I will return"
    "reversī" "returned"
@@ -3986,9 +4059,11 @@
    "sapor, sapōris" "taste"
    "sapōrem" "taste"
    "sapōris" "taste"
+   
    "satanās" "Satan, adversary"
    "satanae" "Satan, adversary"
    "satanās, satanae" "Satan, adversary"
+   
    "satelles, satellitis" "attendant, guard, assistant"
    "satellitibus" "attendants, guards, assistants"
    
@@ -4002,6 +4077,10 @@
    "saxōsa" "rocky"
    "saxōsam" "rocky"
    "saxōsus, saxōsa, saxōsum" "rocky"
+
+   "saxa" "rocks"
+   "saxum, saxī" "rock"
+   
    "sciō" "I know"
    "sciēbat" "he was knowing"
    "sciō, scīre, scīvī, scītus" "to know"
@@ -4026,7 +4105,9 @@
    "sedentis" "sitting"
    "sedeō" "I sit"
    "sēdērunt" "they sat"
+   "sēdāvit" "he sat"
    "sedeō, sedēre, sēdī, sessus" "to sit"
+   "sēdō, sēdāre, sēdāvī, sēdātus" "to sit"
    
    "sēdēs" "seat"
    "sēdibus" "seats"
@@ -4095,9 +4176,12 @@
    "silice" "flint"
    "silicis" "flint"
    "silex, silicis" "flint"
+   
    "silva" "forest"
    "silvam" "forest"
+   "silvīs" "forests"
    "silva, silvae" "forest"
+   
    "singulam" "one each"
    "singula" "one each"
    "singulā" "one each"
@@ -4774,8 +4858,11 @@
    "vōx, vōcis" "voice"
    "vōce" "voice"
    "vōcēs" "voices"
+   
    "volāns" "flying"
    "volāre" "to fly"
+   "volāvit" "he flew"
+   
    "voluistis" "you wanted"
    "voluntās" "will"
    "voluntāte" "will"
