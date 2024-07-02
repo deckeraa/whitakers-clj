@@ -513,6 +513,7 @@
    "vae" "woe"
    "valdē" "very"
    "vel" "or"
+   "vēlōciter" "quickly"
    "veniō, venīre, vēnī, ventus" "to come"
    "vēnērant" "they had came"
    "vēnissent" "they (might) have had come"
@@ -984,8 +985,11 @@
    "cācabum" "cooking pot"
    "cācabōs" "cooking pots"
    "cācabus, cācabī" "cooking pot"
+   
    "cadāver" "corpse"
+   "cadāvere" "corpse"
    "cadāver, cadāveris" "corpse"
+   
    "caecitāte" "blindness"
    "caecitās, caecitātis" "blindness"
    "cecidit" "he fell"
@@ -1532,16 +1536,20 @@
    "deum" "god"
    "deus" "god"
    "deus, deī" "god, diety"
+   
    "dēvorat" "he devours"
    "dēvoret" "he (may) devour"
    "dēvorandōs" "devouring"
    "dēvorābitis" "you will devour"
+   "dēvorābunt" "they will devour"
    "dēvorandum" "devouring"
    "dēvorāre" "to devour"
    "dēvorātum" "having been devoured"
    "dēvorō, dēvorāre, dēvorāvī, dēvorātus" "to devour"
+   
    "dēvorātōrem" "devourer, glutton"
    "dēvorātor, dēvorātōris" "devourer, glutton"
+   
    "diabolī" "devil, demon"
    "diabolus" "devil, demon"
    "diabolus, diabolī" "devil, demon"
@@ -1724,6 +1732,7 @@
    "ecclēsiam" "church"
    "ecclēsia, ecclēsiae" "church"
 
+   "edere" "to eat"
    "ēdērunt" "they ate"
    "edimus" "we eat"
    "ēditē" "eat!"
@@ -1737,7 +1746,7 @@
    "ego" "I"
    "ēgrediēbātur" "he was going out"
    "ēgrediēbantur" "they went out"
-   "ēgrediētur" "you will go out"
+   "ēgrediētur" "it will go out"
    "ēgrediminī" "you are going out"
    "egredior, egredi, egressus sum" "to go out, to egress"
    "eius" "his, hers, its"
@@ -1753,9 +1762,12 @@
    "ēlēctīs" "having been chosen"
    "ēlēgit" "he chose"
    "ēligō, ēligere, ēlēgī, ēlēctus" "to choose"
+   
    "ēmīsisset" "he (might) have had sent out"
+   "ēmīsit" "he sent"
    "ēmittentēs" "sending out"
    "ēmittō, ēmittere, ēmīsī, ēmissus" "to send out"
+   
    "eō" "I go"
    "eōdem" "the same"
    "Epiphanīae" "Epiphany, a Christian holiday that occurs closely after Christmas."
@@ -1949,10 +1961,13 @@
    "fideī" "faith"
    "fidē" "faith"
    "fidēs, fideī" "faith"
+   
    "fīgite" "fasten! fix!"
    "fīxam" "having been fixed, having been fastened"
+   "fīxērunt" "they set up, they fixed"
    "fīxit" "he fastened"
    "fīgō, fīgere, fīxī, fīxus" "to fasten, to fix"
+   
    "fīlī" "son"
    "fīliolī"  "young sons"
    "fīliolō"  "young son"
@@ -2541,6 +2556,7 @@
    "iērunt" "they went"
    "eāmus" "let us go"
    "eunt" "they go"
+   "īte" "go!"
    "īre" "to go"
    
    "irruet" "it will rush in"
@@ -2949,6 +2965,7 @@
    "morsus" "bite, sting"
    "morsus, morsūs" "bite, sting"
 
+   "mortuae" "dead"
    "mortuus" "dead"
    "mortuus, mortua, mortuum" "dead"
 
@@ -2994,7 +3011,8 @@
    
    "nātū" "birth"
    "nascor, nasci, natus sum" "to be born"
-   
+
+   "natābat" "he was swimming"
    "natābant" "they were swimming"
    "natantium" "swimming"
    "natāvit" "he swam"
@@ -3017,6 +3035,7 @@
    "nāvī" "boat"
    "nāvigā" "sail (imperative)"
    "nāvigābant" "they were sailing"
+   "nāvigābimus" "we will sail"
    "nāvigābitis" "you will sail"
    "nāvigandō" "sailing"
    "nāvigantibus" "navigating"
@@ -3200,12 +3219,15 @@
    "omnibus" "all"
    "omnipotēns" "all-powerful"
    "omnipotēns, (gen.), omnipotentis" "all-powerful"
+   
    "onerantibus" "loading"
    "onerāre" "to load, to burden"
    "onerāta" "having been burdened"
    "onerātis" "you load, you burden"
+   "onerāvērunt" "they loaded"
    "onerāvit" "he loaded"
    "onerō, onerāre, onerāvī, onerātus" "to load, to burden"
+   
    "oportet" "it is right/proper/necessary"
    "oportet, oportere, oportuit, -" "it is right/proper/necessary"
    "oppidum" "town"
@@ -3776,6 +3798,10 @@
    "pugna" "fight"
    "pugna, pugnae" "fight"
 
+   "pugnāvit" "he fought"
+   "pugnāre" "to fight"
+   "pugnō, pugnāre, pugnāvī, pugnātus" "to fight"
+
    "pulsum" "pulse, stroke"
    "pulsus, pulsūs" "pulse, stroke"
    
@@ -3939,10 +3965,12 @@
 
    "remanent" "they remain"
    "remanēre" "to remain"
-   "remaneō, remanēre, remānsī, remānsus" "to remain"
+   "remanēbimus" "we will remain"
    "remanēbit" "he will remain"
    "remānsit" "he remained"
+   "remanēbunt" "they will remain"
    "remānsērunt" "they remained"
+   "remaneō, remanēre, remānsī, remānsus" "to remain"
 
    "rēmigāre" "to row"
    "rēmigō, rēmigāre, rēmigāvī, rēmigātus" "to row"
@@ -4415,9 +4443,12 @@
    "successor, successōris" "successor"
    "sūcus, sūcī" "juice"
    "sūcō" "juice"
+
+   "sufficient" "they will suffice"
    "sufficiat" "it (might) suffice"
    "sufficiō, sufficere, suffēcī, suffectus" "to suffice"
    "sufficit" "it suffices"
+   
    "sufflantium" "inflating"
    "sufflō, sufflāre, sufflāvī, sufflātus" "inflating"
    "sulcābat" "it was furrowing, it was plowing"
@@ -4726,6 +4757,7 @@
    "vēnērunt" "they came"
    "veniēbat" "he was coming"
    "veniēbant" "they were coming"
+   "venient" "they will come"
    "veniet" "he will come"
    "venīmus" "we come, we came"
    "venīre" "to come"
