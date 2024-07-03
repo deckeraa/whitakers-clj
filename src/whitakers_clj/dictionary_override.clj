@@ -148,6 +148,10 @@
    "grifa" "griffin, a lion-eagle hybrid; from grifa, grifae"
    "grifae" "griffin, a lion-eagle hybrid; from grifa, grifae"
    "grifa, grifae" "griffin, a lion-eagle hybrid"
+   "grȳphī" "griffin (genitive case), a lion-eagle hybrid; from grȳphus, grȳphī"
+   "grȳphum" "griffin (accusative case), a lion-eagle hybrid; from grȳphus, grȳphī"
+   "grȳphus" "griffin, a lion-eagle hybrid; from grȳphus, grȳphī"
+   "Grȳphus" "griffin, a lion-eagle hybrid; from grȳphus, grȳphī"
    "herī" "yesterday"
    "Hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
    "hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
@@ -155,8 +159,10 @@
    "ideō" "for that reason"
    "iēiūnābant" "they were fasting"
    "iēiūnāre" "to fast"
+   "iēiūnāvit" "he fasted"
    "iēiūnium" "fast, fasting"
    "interim" "during"
+   "Iascōnium" "Jascōnius, a sea beast"
    "iocantem" "jesting, participle from iocor, iocārī, iocātus (dep.)"
    "Ionam" "Jonah, the prophet to Nineveh who spent three days in the belly of a sea monster; from Ionas, Ionae."
    "gravitātis" "gravity, weight, importance; singular feminine genitive from gravitās, gravitātis"
@@ -686,12 +692,15 @@
    "altāre" "alter"
    "altāre, altāris" "alter"
    "altāria" "alters"
+   
    "alter" "the other"
+   "altera" "the other"
    "alterī" "the other"
    "alterō" "the other"
-   "altera" "the other"
+   "alterōrum" "of others"
    "alterum" "the other"
    "alter, altera, alterum" "the other"
+   
    "altitūdine" "height, depth"
    "altitūdinis" "height, depth"
    "altitūdō, altitūdinis" "height, depth"
@@ -708,11 +717,14 @@
    "alveus, alveī" "cavity, trough"
    "amantissimī" "most loving"
    "amāns, amantis (gen.), amantior -or -us, amantissimus -a -um" "loving"
+
+   "ambulābat" "he was walking"
    "ambulābant" "they were walking"
    "ambulantibus" "walking"
    "ambulāns" "walking"
    "ambulāre" "to walk"
    "ambulō, ambulāre, ambulāvī, ambulātus" "to walk"
+   
    "amīcī" "friendo"
    "amīcum" "friend"
    "amīcus" "friend"
@@ -915,8 +927,13 @@
    "balneum, balneī" "bath"
    "barba" "beard"
    "barba, barbae" "beard"
+   
    "barbarus" "barbarous"
    "barbarus, barbara -um, barbarior -or -us, barbarissimus -a -um" "barbarous"
+
+   "barbarī" "barbarian"
+   "barbarus, barbarī" "barbarian"
+   
    "basēs" "bases"
    "basis, basis" "base"
    "beātus" "happy, blessed"
@@ -1106,6 +1123,7 @@
    "celebrāvit" "he celebrated"
    "celebrāvī" "I celebrated"
    "celebrāvistis" "you celebrated"
+   "celebrābat" "you were celebrating"
    "celebrābant" "they were celebrating"
    "celebrētis" "you (might) have been celebrating"
    "celebrāre" "to celebrate"
@@ -1294,9 +1312,12 @@
    "cōnfugiō, cōnfugere, cōnfūgī, cōnfugitūrus" "to flee"
    "congregātiōne" "congregation"
    "congregātiō, congregātiōnis" "congregation"
+   
    "cōnōpēī" "canopy"
    "cōnōpēō" "canopy"
+   "cōnōpēum" "canopy"
    "cōnōpēum, cōnōpēī" "canopy"
+   
    "cōnsēnsū" "consensus"
    "cōnsēnsus, cōnsēnsūs" "consensus"
    "cōnsentiō, cōnsentīre, cōnsēnsī, cōnsēnsus" "to be in agreement"
@@ -1540,11 +1561,13 @@
    "dēvorat" "he devours"
    "dēvoret" "he (may) devour"
    "dēvorandōs" "devouring"
+   "dēvorābit" "he will devour"
    "dēvorābitis" "you will devour"
    "dēvorābunt" "they will devour"
    "dēvorandum" "devouring"
    "dēvorāre" "to devour"
    "dēvorātum" "having been devoured"
+   "dēvorāvērunt" "they devoured"
    "dēvorō, dēvorāre, dēvorāvī, dēvorātus" "to devour"
    
    "dēvorātōrem" "devourer, glutton"
@@ -2100,8 +2123,10 @@
    "fuērunt" "they were"
 
    "fugere" "to flee"
+   "fūgērunt" "they fled"
    "fugiāmus" "we might have fled"
    "fugiendō" "fleeing"
+   "fugite" "flee"
    "fugiō, fugere, fūgī, fugitus" "to flee, to avoid"
    
    "fuī" "I was"
@@ -2148,15 +2173,18 @@
    "genibus" "knee"
    "gentēs" "peoples, clans, nations"
    "gēns, gentis" "people, clan, nation"
+   
    "genu" "knee"
    "genū" "knee"
    "genu, genūs" "knee"
    "genua" "knees"
+   
    "genera" "births, families, types, offspring"
    "genere" "birth, family, type, offspring"
    "genus" "birth, family, type, offspring"
    "generis" "birth, family, type, offspring"
    "generibus" "births, families, types, offspring"
+   "generum" "of births, families, types, offspring"
    "genus, generis" "birth, family, type, offspring"
    "gigans" "giant"
    "gigantis" "giant"
@@ -2497,6 +2525,11 @@
    "interdīctīs" "having been forbidden"
    "interdīcō, interdīcere, interdīxī, interdīctus" "to forbid, to interdict"
    "interēmit" "he extinguish, he did away with"
+
+   "interfēcit" "he killed"
+   "interficere" "to kill"
+   "interficiō, interficere, interfēcī, interfectus" "to kill"
+   
    "interimō, interimere, interēmī, interēmptus" "to extinguish, to do away with"
    "intermissiō" "intermission, interruption"
    "intermissiōnis" "intermission, interruption"
@@ -2524,6 +2557,7 @@
    "intrāre" "to enter"
    "intrantibus" "entering"
    "intrāvērunt" "they entered"
+   "intrāvit" "he entered"
    "intrō, intrāre, intrāvī, intrātus" "to enter"
    
    "introitus" "entrance"
@@ -2776,6 +2810,8 @@
    
    "manendī" "remaining"
    "manendum" "remaining"
+   "manēbat" "he was remaining"
+   "manēbit" "he will remain"
    "manēbitis" "you will remain"
    "mānsērunt" "they have remained"
    "mānsit" "he remained"
@@ -3425,10 +3461,12 @@
    "penetrō, penetrāre, penetrāvī, penetrātus" "to enter, to penetrate"
    "pentēcostē, pentēcostēs" "Pentecost"
    "pentēcostēn" "Pentecost"
+   
    "perāctō" "being carried through"
    "peragere" "to carry through, to complete"
    "peragendum" "completing"
    "perēgērunt" "they completed"
+   "perēgit" "he completed"
    "peragō, peragere, perēgī, perāctus" "to carry through, to complete"
 
    "perambulantibus" "walking through"
@@ -3602,11 +3640,13 @@
    "portiō, portiōnis" "share, part, portion"
    "portam" "gate"
    "porta, portae" "door, entrance"
+   
    "portans" "carrying"
    "portantēs" "carrying, bringing"
    "portāre" "to carry"
    "portat" "he carries"
    "portābant" "they were carrying"
+   "portāvērunt" "they carried"
    "portāvit" "he carried"
    "portō" "I carry"
    "portō, portāre, portāvī, portātum" "to carry, to bring"
@@ -3804,9 +3844,10 @@
 
    "pulsum" "pulse, stroke"
    "pulsus, pulsūs" "pulse, stroke"
-   
-   "pulsō, pulsāre, pulsāvī, pulsātus" "to hit"
+
+   "pulsāvērunt" "they hit"
    "pulsāvit" "he hit"
+   "pulsō, pulsāre, pulsāvī, pulsātus" "to hit"
    
    "pūnicīs" "Carthaginian"
    "Pūnicus, Pūnica, Pūnicum" "Carthaginian"
@@ -3870,6 +3911,7 @@
    
    "rāra" "thin, far apart, rare"
    "rārō" "thin, far apart, rare"
+   "rārum" "thin, far apart, rare"
    "rārus" "thin, far apart, rare"
    "rārus, rāra -um, rārior -or -us, rārissimus -a -um" "thin, far apart, rare"
    "recēdās" "you (might) recede, withdraw"
@@ -4383,8 +4425,11 @@
    "stadiī" "stadium (around 660 feet)"
    "stadium, stadi(ī)" "stadium (around 660 feet)"
    "standō" "standing"
+
+   "sterilī" "sterile"
    "sterilis" "sterile"
    "sterilis, sterilis, sterile" "sterile"
+   
    "stetit" "he stood"
    "stetērunt" "they stood"
    "stīpendia" "stipend, supplies"
@@ -4570,14 +4615,18 @@
    
    "thronum" "throne"
    "thronus, thronī" "throne"
+   
    "timēbant" "they were fearing"
    "timētis" "you fear"
+   "timuērunt" "they feared"
    "timuistis" "you feared"
    "timēre" "to fear"
    "timeō, timēre, timuī, -" "to fear"
+   
    "timōre" "fear"
    "timōrem" "fear"
    "timor, timōris" "fear"
+   
    "tintinnābulum" "bell"
    "tintinnābulum, tintinnābulī" "bell"
    "tollat" "they (might) lift up"
@@ -4934,15 +4983,17 @@
    "volātū" "flying, flight"
    "volātus" "flying, flight"
    "volātus, volātūs" "flying, flight"
+
+   "volābat" "he was flying"
+   "volō, volāre, volāvī, volātus" "to fly"
    
    "volēbant" "they were wanting"
    "volō" "I want"
    "voluisset" "he (might) have had wanted"
-   "volō, velle, voluī, -" "to want"
-   "volābat" "he was flying"
-   "volō, volāre, volāvī, volātus" "to fly"
+   "voluērunt" "they wanted"
    "voluit" "he wanted"
    "volumus" "we want"
+   "volō, velle, voluī, -" "to want"
    
    "vōcem" "voice"
    "vōx" "voice"
