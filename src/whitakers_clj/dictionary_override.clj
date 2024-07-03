@@ -874,11 +874,14 @@
    "ascendērunt" "they had ascended"
    "ascensum" "ascent"
    "ascensus, ascensūs" "ascent"
+
+   "aspēxērunt" "they looked at"
    "aspēxissent" "they (might) have had looked at"
    "aspiciēbat" "he was looking at"
    "aspiciēbant" "they were looking at"
    "aspicere" "to look at, to contemplate"
    "aspiciō, aspicere, aspēxī, aspectus" "to look at, to contemplate"
+   
    "asportābant" "they were carrying away"
    "asportō, asportāre, asportāvī, asportātus" "to carry away"
    "assūmptiōne" "assumption, taking, receiving"
@@ -1196,9 +1199,12 @@
    "circumfulgeō, circumfulgēre, circumfulsī, circumfulsus" "it shone all around"
    "citius" "swifter"
    "citus, cita -um, citior -or -us, citissimus -a -um" "swift"
+   
    "clāmābant" "they were shouting out"
    "clāmāre" "to shout"
+   "clāmāvit" "he shouted"
    "clāmō, clāmāre, clāmāvī, clāmātus" "to shout"
+   
    "clāritās" "clarity, brightness"
    "clāritātis" "clarity, brightness"
    "clāritāte" "clarity, brightness"
@@ -2466,10 +2472,13 @@
    "ineffābilis, ineffābilis, ineffābile" "ineffable"
    "īnfantem" "infant"
    "īnfāns, īnfantis" "infant"
+   
    "īnfēlīx" "unhappy"
+   "īnfēlīcem" "unhappy"
    "īnfēlīcissimam" "very unhappy"
    "īnfēlīcissimus" "very unhappy"
    "īnfēlīx, īnfēlīcis (gen.), īnfēlīcior -or -us, īnfēlīcissimus -a -um" "unhappy"
+   
    "īnfernō" "Hell"
    "īnfernōrum" "Hell"
    "īnfernum" "Hell"
@@ -3660,6 +3669,7 @@
    "possim" "I (might) be able"
    "possit" "he (may) be able"
    "possint" "they (may) be able"
+   "possum" "I am able"
    "possum, posse, potuī, -" "to be able (irregular)"
    "possumus" "we are able to"
    "potuimus" "we were able"
