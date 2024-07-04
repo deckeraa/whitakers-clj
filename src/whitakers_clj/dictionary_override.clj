@@ -723,6 +723,7 @@
    "ambulantibus" "walking"
    "ambulāns" "walking"
    "ambulāre" "to walk"
+   "ambulāvit" "he walked"
    "ambulō, ambulāre, ambulāvī, ambulātus" "to walk"
    
    "amīcī" "friendo"
@@ -759,11 +760,14 @@
    "animae" "soul, mind, life"
    "animantia" "living, giving life"
    "animō, animāre, animāvī, animātus" "to give live, to animate, to revive"
+   
    "annus, annī" "year"
    "annī" "year"
+   "annīs" "years"
    "annō" "year"
    "annōs" "years"
    "annum" "year"
+   
    "annonam" "yearly income"
    "annōnā" "yearly income"
    "annōna, annōnae" "yearly income"
@@ -806,6 +810,7 @@
    "appropinquō, appropinquāre, appropinquāvī, appropinquātus" "to approach"
    "appropinquābant" "they had approached"
    "appropinquant" "they approach"
+   "appropinquāvērunt" "they had approached"
    "appropinquāvissem" "I (might) have had approached"
    "appropinquāvisset" "he (might) have had approached"
    "appropinquāvissent" "they (might) have had approached"
@@ -954,12 +959,15 @@
    "benedictiōnem" "blessing"
    "benedictiō, benedictiōnis" "benediction, blessing"
    "benedictiōne" "benediction, blessing"
+
+   "benedīcet" "you will bless"
    "benedīcite" "bless!"
    "benedīcitis" "you bless"
    "benedictō" "having been blessed"
    "benedīxit" "he blessed"
    "benedīcō, benedīcere, benedīxī, benedictus" "to bless"
    "benedīxisset" "he (might) have had blessed"
+   
    "benedictus" "blessed"
    "benedictus, benedictī" "blessed"
    "beneficia" "beneficence, kindness"
@@ -1081,14 +1089,18 @@
    "cēpērunt" "they took"
    "cēpit" "he took"
    "capiō, capere, cēpī, captus" "to seize, to take hold"
-   
+
+   "capillī" "hair"
    "capillīs" "hair"
    "capillus" "hair"
    "capillus, capillī" "hair"
+   
    "capita" "head"
    "capitī" "head"
    "capitis" "head"
+   "caput" "head"
    "caput, capitis" "head"
+   
    "capitulum" "chapter"
    "capitulum, capitulī" "chapter"
    "capsa" "cylindrical container for books"
@@ -1182,13 +1194,16 @@
    "cibus, cibī" "food"
    "cīmītērium" "cemetery"
    "cīmītērium, cīmītēriī" "cemetery"
+   
    "circuībat" "he was going around"
    "circuībant" "they were going around"
    "circuit" "he goes around"
    "circuīvissent" "they (might) have had gone round"
    "circuīre" "to go round"
    "circuīrent" "they (might) have gone round"
+   "circuīvit" "he went around"
    "circueō, circuīre, circuivi(iī), circuitus" "to go round"
+   
    "circuitū" "circuit, outer shore"
    "circuitum" "circuit, outer shore"
    "circuitus, circuitūs" "circuit, outer shore"
@@ -1469,6 +1484,7 @@
    "daemōn" "demon"
    "daemōnem" "demon"
    "daemōnēs" "demons"
+   "daemōnibus" "demons"
    "daemōnum" "of demons"
    "daemōn, daemōnis" "demon"
    
@@ -1518,8 +1534,11 @@
    "dēfēnsor, dēfēnsōris" "defender, protector"
    "dēfīnīvit" "he defined, he limited"
    "dēfīniō, dēfīnīre, dēfīnīvī, dēfīnītus" "to define, to limit"
+   
    "dēfōrmem" "deformed"
+   "dēfōrmis" "deformed"
    "dēfōrmō, dēfōrmāre, dēfōrmāvī, dēfōrmātus" "deformed"
+   
    "dēfūnctō" "dead"
    "dēfūnctus, dēfūncti" "dead"
    "dēglutīre" "to swallow"
@@ -1795,12 +1814,15 @@
    "ēmīsisset" "he (might) have had sent out"
    "ēmīsit" "he sent"
    "ēmittentēs" "sending out"
+   "ēmittit" "he sends"
    "ēmittō, ēmittere, ēmīsī, ēmissus" "to send out"
    
    "eō" "I go"
    "eōdem" "the same"
    "Epiphanīae" "Epiphany, a Christian holiday that occurs closely after Christmas."
    "Epiphanīa, Epiphanīae" "Epiphany, a Christian holiday that occurs closely after Christmas."
+
+   "eram" "I was"
    "erant" "they were"
    "erat" "he was"
    "erimus" "we will be"
@@ -1808,6 +1830,7 @@
    "erit" "he will be"
    "eritis" "you will be"
    "erō" "I will be"
+   
    "ērēxit" "he raised, he built"
    "ērigō, ērigere, ērēxī, ērēctus" "to raise, to build"
    "errantēs" "wandering, erroring"
@@ -1859,6 +1882,7 @@
    "expectābant" "you were awaiting, you were expecting"
    "expectāre" "to await, to expect"
    "expectāvimus" "we awaited, we expected"
+   "expectō" "I await, I expect"
    "expectō, expectāre, expectāvī, expectātus" "to await, to expect"
    "expectantēs" "expecting"
    "exposuimus" "we explained"
@@ -1878,6 +1902,7 @@
    "extinguebantur" "they were being extinguished"
    "extinguō, extinguere, extīnxī, extīnctus" "to quench, to extinguish"
    "extollātis" "you (might) have extolled"
+   "extollite" "extol!"
    "extollō, extollere, -, -" "to extol"
    "exultābant" "they were exulting, they were rejoicing"
    "exultō, exultāre, exultāvī, exultātus" "to exult, to rejoice"
@@ -1895,8 +1920,10 @@
    "faciēs" "shape, figure, appearance, look"
    "faciem" "shape, figure, appearance, look"
    "faciēs, faciēī" "shape, figure, appearance, look"
+   
    "faciat" "he (might) do/make"
    "faciātis" "you (might) be making"
+   "faciēbam" "I was doing"
    "faciet" "it will make"
    "faciendum" "making, doing"
    "facere" "to make, to do"
@@ -1909,6 +1936,7 @@
    "facta" "having been made"
    "factō" "made"
    "factus" "made"
+   
    "familia" "family"
    "familia, familiās" "family"
    "familiae" "family"
@@ -2200,9 +2228,12 @@
    "glōria" "glory, fame, honor"
    "glōriae" "glory, fame, honor"
    "glōria, glōriae" "glory, fame, honor"
+
+   "glorificābant" "they were glorifying"
    "glorificāns" "glorifying"
    "glorificantēs" "glorifying"
    "glorificō, glorificāre, glorificāvī, glorificātus" "to glorify"
+   
    "gradior, gradi, gressus sum" "to walk, to step"
    "gradiēbantur" "they were walking"
    "gradus" "step"
@@ -2417,9 +2448,15 @@
    "impedīmentō" "impediment, hindrance, heavy baggage"
    "impedīmentum" "impediment, hindrance, heavy baggage"
    "impedīmentum, impedīmentī" "impediment, hindrance, heavy baggage"
+
+   "impulit" "he impelled, he urged on"
+   "impellere" "to impel"
+   "impellō, impellere, impulī, impulsus" "to impel"
+   
    "impetū" "attack, assault, fury"
    "impetus" "attack, assault, fury"
    "impetus, impetūs" "attack, assault, fury"
+   
    "impleō, implēre, implēvī, implētus" "to fill up"
    "implēre" "to fill up"
    "impiōrum" "impious"
@@ -2463,8 +2500,11 @@
    "indigēmus" "we lack"
    
    "induit" "he dresses, he dressed"
+   
    "indulgentiae" "leniency, pardon"
+   "indulgentiam" "leniency, pardon"
    "indulgentia, indulgentiae" "leniency, pardon"
+   
    "indumenti" "garment, robe"
    "indūmentum, indūmentī" "garment, robe"
    "induō, induere, induī, indūtus" "to dress, to put on"
@@ -2819,6 +2859,7 @@
    
    "manendī" "remaining"
    "manendum" "remaining"
+   "manēbam" "I was remaining"
    "manēbat" "he was remaining"
    "manēbit" "he will remain"
    "manēbitis" "you will remain"
@@ -3010,6 +3051,10 @@
    "morsus" "bite, sting"
    "morsus, morsūs" "bite, sting"
 
+   "mordēbunt" "they will bite"
+   "mordēre" "to bite"
+   "mordeō, mordēre, momordī, morsus" "to bite"
+
    "mortuae" "dead"
    "mortuus" "dead"
    "mortuus, mortua, mortuum" "dead"
@@ -3078,6 +3123,7 @@
    "nāviculam" "small boat"
    "nāvicula, nāviculae" "small boat"
    "nāvī" "boat"
+   
    "nāvigā" "sail (imperative)"
    "nāvigābant" "they were sailing"
    "nāvigābimus" "we will sail"
@@ -3085,12 +3131,14 @@
    "nāvigandō" "sailing"
    "nāvigantibus" "navigating"
    "nāvigāre" "to sail"
+   "nāvigāvī" "I sailed"
    "nāvigō, nāvigāre, nāvigāvī, nāvigātus" "to sail, to navigate"
    "nāvigēmus" "let us sail"
    "nāvigāvit" "he sailed"
    "nāvigāvērunt" "they sailed"
    "nāvigāvisset" "he (might) have navigated"
    "nāvigāvissent" "they (might) have navigated"
+   
    "nāvigiī" "vessel, ship, sailing, navigation"
    "nāvigium" "vessel, ship, sailing, navigation"
    "nāvigium, nāvigi(ī)" "vessel, ship, sailing, navigation"
@@ -3142,11 +3190,16 @@
    "noctium" "of nights"
    "nocuit" "he harmed"
    "noceō, nocēre, nocuī, nocitus" "to harm, to injure"
+
+   "nōlēmus" "we won't want"
    "nōlō" "I don't want"
    "nōluit" "he didn't want"
    "nōlō, nōlle, nōluī, -" "to not want"
+
+   "nōnāgēnāriīs" "ninety years"
    "nōnāgēnārius" "ninety years old"
    "nōnāgīnta, nōnāgēsīmus -a -um, nōnāgeni -ae -a, nonagie (n)s" "ninety years old"
+   
    "novissimō"  "very new, very inexperienced"
    "novissimum" "very new, very inexperienced"
    "novīs" "new, inexperienced"
@@ -3381,6 +3434,11 @@
    "partem" "part"
    "partēs" "parts"
    "partibus" "parts"
+
+   "parvam" "small"
+   "parvum" "small"
+   "parvus, parva, parvum" "small"
+   
    "parvulum" "small child"
    "parvulum, parvulī" "small child"
    "pāscāris" "you (might) feed/graze"
@@ -3636,10 +3694,14 @@
    "pōmum, pōmī" "fruit, grapes"
    "pōmiferīs" "fruit-bearing"
    "pōmifer, pōmifera, pōmiferum" "fruit-bearing"
+
+   
    "posuisset" "he (might) have put"
    "posuērunt" "they had put"
    "positam" "having been put"
+   "posuit" "he put"
    "pōnō, pōnere, posuī, positus" "to put, to place"
+   
    "populus" "people, populace"
    "populī" "people, populace"
    "populus, populī" "people, populace"
@@ -3654,6 +3716,7 @@
    "portantēs" "carrying, bringing"
    "portāre" "to carry"
    "portat" "he carries"
+   "portābat" "he was carrying"
    "portābant" "they were carrying"
    "portāvērunt" "they carried"
    "portāvit" "he carried"
@@ -3677,6 +3740,7 @@
    
    "posteriōrem" "following, next"
    "posteriora" "after"
+   "posteriōribus" "after"
    "posterus, postera -um, posterior -or -us, postrēmus -a -um" "following, next"
    "potestās" "power"
    "potestātem" "power"
@@ -3770,6 +3834,7 @@
    "primitia, primitiae" "first fruits"
    "prīmitiīs" "first fruits"
    "prīnceps"  "first man, prince"
+   "prīncipem" "first man, prince"
    "prīncipī"  "first man, prince"
    "prīncipis" "first man, prince"
    "prior" "prior, ahead, previous"
@@ -4976,8 +5041,10 @@
    "vitium, vitiī" "vice, crime"
    "vitreum" "glass"
    "vitreum, vitreī" "glass"
+   "vīvēbam" "I was living"
    "vīvēbat" "he was living"
    "vīvere" "to live"
+   "vīvit" "he lives"
    "vīvō" "I live"
    "vīvō, vīvere, vīxī, vīctus" "to live"
 
