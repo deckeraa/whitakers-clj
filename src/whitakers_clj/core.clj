@@ -518,6 +518,7 @@
                    "circumd.atis" "circumdatis" "ostend.et" "ostendet" "commend.atis" "commendātīs"
                    "salut.atis" "salūtātis" "expl.etis" "explētis" "iverunt" "iērunt" "sal.i" "salī"
                    "sciv.it" "scīvit" "celebr.ate" "celebrāte" "i.te" "īte" "fug.ite" "fugite"
+                   "port.ate" "portāte"
                    } word) word)]
     word))
 

@@ -83,6 +83,7 @@
    "cōnstitūtī" "cōnstitūtī + sunt = are arranged"
    "cōnsummāta" "finished, consummated; singular feminine nom. or abl. or plural neuter nom. or acc. from cōnsummātus, cōnsummāta, cōnsummātum"
    "cōnsummātō" "finished, consummated; singular masculine or neuter dative or ablative from cōnsummātus, cōnsummāta, cōnsummātum"
+   "continenter" "continually"
    "contrā" "against, away from, facing"
    "convocātis" "you call together; 2nd person plural present from convocō, convocāre, convocāvī, convocātus"
    "cōram" "in the presence of"
@@ -143,6 +144,7 @@
    "forīs" "outside (adverb)"
    "frēnum" "bridal; ornamental necklace"
    "fūrtim" "secret, stealthily"
+   "Garumna" "The Garonne, a river running in modern-day France and Spain"
    "Goliae" "of Goliath, the Philistine giant that David slew; from Golias, Goliae."
    "Grifa" "griffin, a lion-eagle hybrid; from grifa, grifae"
    "grifa" "griffin, a lion-eagle hybrid; from grifa, grifae"
@@ -559,6 +561,11 @@
    "abbātis" "abbot"
    "abbās, abbātis" "abbot"
    "abbātem" "abbot"
+
+   "abesse" "to be absent"
+   "absunt" "they are absent"
+   "absum, abesse, āfuī, abfutūrus" "to be absent"
+   
    "abscondō, abscondere, abscondī, absconditus" "to hide, to conceal"
    "absconditōrum" "of things hidden"
    "absentia" "absence"
@@ -753,11 +760,14 @@
    "angustia, angustiae" "small space, narrow passage, being boxed in"
    "angustum, angustī" "small space, narrow passage, being boxed in"
    "angustus" "small space, narrow passage, being boxed in"
+   
    "anima" "soul, mind, life"
    "animam" "soul, mind, life"
    "animās" "souls, minds, lives"
+   "animōs" "souls, minds, lives"
    "anima, animae" "soul, mind, life"
    "animae" "soul, mind, life"
+   
    "animantia" "living, giving life"
    "animō, animāre, animāvī, animātus" "to give live, to animate, to revive"
    
@@ -779,6 +789,7 @@
    "anterior, anterior, anterius" "earlier, previous, former"
    "antīquī" "of the ancient"
    "antīquus, antīqua -um, antīquior -or -us, antīquissimus -a -um" "antique"
+
    "aperiō, aperīre, aperuī, apertus" "to open"
    "aperiēs" "you will open"
 
@@ -795,9 +806,12 @@
    "appāreō, appārēre, appāruī, appāritus" "to appear" ;; no past perfect participle?
    "appāruērunt" "they appeared"
    "appāruit" "he appeared"
+
    "appellābat" "he was calling, he was naming"
+   "appellantur" "they are called"
    "appellāvit" "he called, he named"
    "appellō, appellāre, appellāvī, appellātus" "to call, to name"
+   
    "appendentibus" "hanging"
    "appendō, appendere, appendī, appēnsus" "to hang"
    "appōnere" "to place, to set before"
@@ -823,8 +837,19 @@
    "aquae" "water"
    "aquam" "water"
    "aquās" "water"
+   
    "aquilōnem" "north wind"
    "aquilō, aquilōnis" "north wind"
+
+   "aquītānī" "Aquitanian"
+   "aquītānīs" "Aquitanian"
+   "Aquītānus, Aquītāna, Aquītānum" "Aquitanian"
+
+   "Aquītānia"  "Aquitaniae, a province in western France"
+   "aquītānia"  "Aquitaniae, a province in western France"
+   "Aquītāniae" "Aquitaniae, a province in western France"
+   "Aquītānia, Aquītāniae" "Aquitaniae, a province in western France"
+   
    "arbor" "tree"
    "arboris" "tree"
    "arbor, arboris" "tree"
@@ -892,8 +917,11 @@
    "assūmptiōne" "assumption, taking, receiving"
    "assūmptiō, assūmptiōnis" "assumption, taking, receiving"
    "ablātīs" "things having been carried away"
+
    "attingēbat" "they were touching"
+   "attingit" "it touches, it borders"
    "attingō, attingere, attigī, attāctus" "to touch, to border on, to reach"
+   
    "audītis" "you hear"
    "audīvērunt" "they heard"
    "audiēbant" "they were hearing"
@@ -946,6 +974,16 @@
    "basis, basis" "base"
    "beātus" "happy, blessed"
    "beātus, beāta -um, beātior -or -us, beātissimus -a -um" "happy, blessed"
+
+   "Belga" "a specific Gallic people-group"
+   "belga" "a specific Gallic people-group"
+   "Belgārum" "of a specific Gallic people-group"
+   "belgārum" "of a specific Gallic people-group"
+   "belga, belgae" "a specific Gallic people-group"
+   "belgae" "a specific Gallic people-group"
+   "belgīs" "a specific Gallic people-group"
+   "Belga, Belgae" "a specific Gallic people-group"
+   
    "bellātōrēs" "fighters"
    "bellātor, bellātōris" "fighters"
    "bellum" "battle, war"
@@ -1156,6 +1194,10 @@
    "cellula, cellulae" "small room, cell"
    "cellulās" "small room, cell"
    "cellulīs" "small rooms, cells"
+
+   "celtae" "Celts"
+   "Celtus, Celta, Celtum" "Celtic"
+   
    "cēnā" "dinner"
    "cēnam" "dinner"
    "cēna, cēnae" "dinner"
@@ -1281,6 +1323,10 @@
    "comedendum" "eating"
    "comedere" "to eat up"
    "comedō, comedere, comēdī, comēsum" "to eat up"
+
+   "commeant" "they communicate, they come and go"
+   "commeō, commeāre, commeāvī, commeātus" "to communicate, to come and go"
+   
    "commīlitōnibus" "comrade"
    "commīlitō, commīlitōnis" "comrade"
    "commorāmur" "we dwell"
@@ -1362,8 +1408,15 @@
    "cōnstituistī" "you placed, arranged, decreed, decided"
    "cōnsummātīs" "being accomplished, being ended"
    "cōnsummō, cōnsummāre, cōnsummāvī, cōnsummātus" "to accomplish, to end, to consume"
+
+   "contendunt" "they contend, they hasten"
    "contendere" "to hasten, to contend"
    "contendō, contendere, contendī, contentus" "to hasten, to contend"
+
+   "continētur" "it is sustainied, it is contained"
+   "continēre" "to sustain, to contain"
+   "contineō, continēre, continuī, contentus" "to sustain, to contain"
+   
    "contigit" "to come to, to touch"
    "contingat" "he (might) touch, he (might) come to"
    "contingō, contingere, contigī, contāctus" "to come to, to touch"
@@ -1420,6 +1473,9 @@
    
    "costātam" "ribbed"
    "costātus, costāta, costātum" "ribbed"
+
+   "cōtīdiānīs" "every day"
+   "cōtīdiānus, cōtīdiāna, cōtīdiānum" "every day"
    
    "crāstinae" "tomorrow" 
    "crāstinum" "tomorrow"
@@ -2194,8 +2250,10 @@
    "futūra" "future"
    "futūrō" "future"
    "futūrus, futūra, futūrum" "future"
+   
    "gallōrum" "of chickens, of roosters"
    "gallus, gallī" "chicken, rooster"
+
    "gaudium" "joy, delight"
    "gaudiō" "joy, delight"
    "gaudium, gaudiī" "joy, delight"
@@ -2861,6 +2919,7 @@
    "manendum" "remaining"
    "manēbam" "I was remaining"
    "manēbat" "he was remaining"
+   "manēbant" "they were remaining"
    "manēbit" "he will remain"
    "manēbitis" "you will remain"
    "mānsērunt" "they have remained"
@@ -3125,6 +3184,7 @@
    "nāvī" "boat"
    
    "nāvigā" "sail (imperative)"
+   "nāvigābam" "I was sailing"
    "nāvigābant" "they were sailing"
    "nāvigābimus" "we will sail"
    "nāvigābitis" "you will sail"
@@ -3145,9 +3205,12 @@
    "nāvim" "boat"
    "nāvis" "boat"
    "nāvis, nāvis" "boat"
+
+   "nebula"  "fog, cloud"
    "nebulae" "fog, cloud"
-   "nebula, nebulae" "fog, cloud"
    "nebulam" "fog, cloud"
+   "nebula, nebulae" "fog, cloud"
+   
    "necesse" "necessary"
    "necesse, undeclined" "necessary"
    "necessitās" "necessity"
@@ -3718,10 +3781,12 @@
    "portat" "he carries"
    "portābat" "he was carrying"
    "portābant" "they were carrying"
+   "portāte" "carry!"
    "portāvērunt" "they carried"
    "portāvit" "he carried"
    "portō" "I carry"
    "portō, portāre, portāvī, portātum" "to carry, to bring"
+   
    "portū" "harbor, port"
    "portum" "harbor, port"
    "portus" "harbor, port"
@@ -4161,6 +4226,7 @@
    "revertam" "I will return"
    "revertere" "to return"
    "revertētis" "you will return"
+   "revertite" "return!"
    "revertō, revertere, revertī, reversum" "to return"
    
    "rēgī" "king"
