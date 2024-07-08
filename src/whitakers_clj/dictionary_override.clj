@@ -2780,11 +2780,14 @@
    "itinere" "journey, trip"
    "iūdex, iūdicis" "judge"
    "iūdicem" "judge"
+   
    "iūnctum" "connected, joined"
    "iūnctam" "connected, joined"
    "iūnctās" "connected, joined"
    "iungat" "he (might) join"
+   "iungī" "to be joined"
    "iungō, iungere, iūnxī, iūnctus" "to join"
+   
    "Iēsūs" "Jesus"
    "iēsūs" "Jesus"
    "Jēsūs, Jēsū" "Jesus"
@@ -2842,6 +2845,12 @@
    "laetitiam" "joy, gladness, fruitfulness"
    "laetitia, laetitiae" "joy, gladness, fruitfulness"
    "laetitiae" "joy, gladness, fruitfulness"
+
+   "lascīvus, lascīva, lascīvum" "playful, lustful, lascivious"
+
+   "lascīviās" "playfulness, wantonness, lasciviousness"
+   "lascīvia, lascīviae" "playfulness, wantonness, lasciviousness"
+   
    "lassitūdine" "faintness, weariness, exhaustion"
    "lassitūdō, lassitūdinis" "faintness, weariness, exhaustion"
    
@@ -2880,9 +2889,12 @@
    "lectula, lectulae" "bed, coach"
    "lectulīs" "bed, coach"
    "lectulus, lectulī" "bed, coach"
+
+   "legēbantur" "they were being read"
    "lēgistī" "you read"
    "lēgī" "I read"
    "legō, legere, lēgī, lēctus" "to read"
+   
    "leprōsō" "leper"
    "leprōsus, leprōsī" "leper"
    "levāte" "raise up!"
@@ -2914,6 +2926,9 @@
    "liquefaciō, liquefacere, liquefēcī, liquefactus" "to melt, to liquify"
    "limite" "limit"
    "līmes, līmitis" "limit"
+
+   "litterīs" "literature"
+   "littera, litterae" "letters, writings, literature"
    
    "lītus" "beach, shore"
    "lītore" "beach, shore"
@@ -3146,6 +3161,10 @@
    "modulātiōne" "melody, modulation"
    "modum" "mode, manner, way, measure, size"
    "modus, modī" "mode, manner, way, measure, size"
+
+   "molliōris" "softer"
+   "mollis, mollis, molle" "soft"
+   
    "monachī" "monk"
    "monachīs" "monks"
    "monachus" "monk"
@@ -3229,13 +3248,15 @@
    "nārrō, nārrāre, nārrāvī, nārrātus" "to narrate, to tell about"
    
    "nātū" "birth"
-   "nascor, nasci, natus sum" "to be born"
+   "nātus" "having been born"
+   "nāscor, nāscī, nātus sum" "to be born"
 
    "natābat" "he was swimming"
    "natābant" "they were swimming"
    "natantium" "swimming"
    "natāvit" "he swam"
    "natō, natāre, natāvī, natātus" "to swim"
+   
    "nātālem" "birthday"
    "nātālis" "birthday"
    "nātālis, nātālis" "birthday"
@@ -3287,6 +3308,10 @@
    "necessitātis" "necessity"
    "necessitātem" "necessity"
    "necessitās, necessitātis" "necessity"
+
+   "negligentiam" "neglect, carelessness, coldness, disrespect"
+   "negligentia, negligentiae" "neglect, carelessness, coldness, disrespect"
+   
    "negōtiātor" "merchant, trader"
    "negōtiātor, negōtiātōris" "merchant, trader"
    "nēmō" "no one"
@@ -3306,6 +3331,10 @@
    "niveus, nivea, niveum" "snowy white"
    "nix" "snow"
    "nix, nivis" "snow"
+
+   "nōbilibus" "noble, famous, high-born"
+   "nōbilis, nōbilis, nōbile" "noble, famous, high-born"
+   
    "nōmine" "name"
    "nōminibus" "names"
    "nōmen" "name"
