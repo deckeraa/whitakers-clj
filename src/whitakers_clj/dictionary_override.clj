@@ -324,10 +324,13 @@
    "operātus" "operātus + est = was performed"
    "ōrā" "pray! singular imperative from ōrō, ōrāre, ōrāvī, ōrātus"
    "ōrāte" "pray! plural imperative from ōrō, ōrāre, ōrāvī, ōrātus"
+   "oriundus" "oriundus + est = was descended from"
    "paene" "almost"
    "parce" "Pardon! Forgive! Singular imperative from parcō, parcere, pepercī, parsum"
    "pārentēs" "parents"
+   "pārentibus" "parents (ablative or dative case)"
    "parumper" "briefly"
+   "passus" "passus + est = to have suffered"
    "Patriciī" "of Saint Patrick"
    "per" "through"
    "perfīnītis" "You finished; 2nd person plural present from perfīnīre"
@@ -3518,13 +3521,16 @@
    "ōrdō, ōrdinis" "order"
    "ōrdine" "order"
    "ōre" "mouth"
+   
    "organum" "organ, instrument"
    "organī" "organ, instrument"
    "organum, organī" "organ, instrument"
+   
    "oriēns" "daybreak, dawn, East"
    "orientis" "daybreak, dawn, East"
    "orientem" "daybreak, dawn, East"
    "oriēns, orientis" "daybreak, dawn, East"
+   
    "orientālem" "eastern"
    "orientālī" "eastern"
    "orientālis, orientālis, orientāle" "eastern"
@@ -3534,7 +3540,7 @@
    "ōrāre" "to pray"
    "ōrāvit" "he prayed"
    "ōrō, ōrāre, ōrāvī, ōrātus" "to pray"
-   
+
    "ortum" "rising, beginning"
    "ortus" "rising, beginning"
    "ortus, ortūs" "rising, beginning"
@@ -3589,6 +3595,7 @@
    "parātī" "having been prepared"
    "parō, parāre, parāvī, parātus" "to prepare"
    "parāvērunt" "they prepared"
+
    "parietēs" "walls"
    "pariēs, parietis" "wall"
    "pars, partis" "part"
@@ -3931,8 +3938,11 @@
    "praecipiō, praecipere, praecēpī, praeceptus" "to order"
    "praecēpit" "he ordered"
    "praeceperat" "he had ordered"
+
+   "praeceptōrum" "of orders, directions, precepts"
    "praeceptum" "order, direction, precept"
    "praeceptum, praeceptī" "order, direction, precept"
+   
    "praeclārus, praeclāra, praeclārum" "very bright, remarkable"
    "praeclārum" "very bright, remarkable"
    "praedestinatiōne" "predestination"
@@ -4233,6 +4243,9 @@
 
    "rēgulam" "rule, principle"
    "rēgula, rēgulae" "rule, principle"
+
+   "religiōsīs" "religious"
+   "religiōsus, religiōsa, religiōsum" "religious"
    
    "relictīs" "leaving behind"
    "relinquō, relinquere, relīquī, relictum" "to lealving behind"
@@ -4268,6 +4281,10 @@
    "requiēscam" "I will rest"
    "requiēscite" "rest!"
    "requiēscō, requiēscere, requiēvī, requiētum" "to rest, to quiet down"
+
+   "requīsīvit" "he asked for, he required, he missed"
+   "requīrō, requīrere, requīsīvī, requīsītus" "to require, to ask for, to miss"
+   
    "rēs, reī" "thing"
    "resēdit" "he sat, he settled"
    "residēre" "to sit down, to settle"
@@ -4447,12 +4464,20 @@
    "scola, scolae" "school, corporation, leisure"
    "scōria" "slag"
    "scōria, scōriae" "slag"
+
+   "scrīptum" "text, writing, book, letter"
+   "scrīptum, scrīptī" "text, writing, book, letter"
+   
    "scurrīlitās" "buffoonery"
    "scurrīlitās, scurrīlitātis" "buffoonery"
    "scurrīlitātem" "buffoonery"
    "sēcrēta" "secrets"
    "sēcrētīs" "secrets"
    "sēcrētum, sēcrētī" "secret"
+
+   "sectābātur" "he was running after, he was hunting out"
+   "sector, sectārī, sectātus sum" "to run after, to hunt out"
+   
    "secunda" "second"
    
    "sedēbat" "he was sitting"
@@ -4513,17 +4538,24 @@
    "sequēbātur" "he was following"
    "sequiminī" "you follow"
    "sequor, sequī, sēcūtus sum" "to follow"
+   
    "serēnus" "serene"
    "serēnum" "serene"
    "serēnus, serēna, serēnum" "serene"
+   
    "sermōne" "conversation, speech"
    "sermō, sermōnis" "conversation, speech"
    "sermōnibus" "conversation, speech"
+
+   "servābat" "he was watchinig over, he was guarding, he was preserving"
+   "servō, servāre, servāvī, servātus" "to watch over, to guard, to preserve, to save"
+   
    "servīs" "slaves, servants"
    "servōrum" "of slaves, of servants"
    "servōs" "slaves, servants"
    "servus" "slave, servant"
    "servus, servī" "slave, servant"
+   
    "siccōs" "dry, thirsty"
    "siccus, sicca, siccum" "dry, thirsty"
    "signō" "sign"
@@ -4786,17 +4818,23 @@
    "tabula" "tablet"
    "tabulā" "tablet"
    "tabula, tabulae" "tablet"
+   
+   "taediō" "weariness, tedium"
    "taedium" "weariness, tedium"
    "taedium, taediī" "weariness, tedium"
+   
    "tālem" "such"
    "tālēs" "such"
    "tālia" "such"
    "tālis, tālis, tāle" "such"
+   
    "tanta" "so much, so great, this many"
    "tantum" "so much, so great, this many"
    "tantus, tanta, tantum" "so much, so great, this many"
+   
    "tangere" "to touch, to strike"
    "tangō, tangere, tetigī, tāctus" "to touch, to strike"
+   
    "tempestās" "weather, storm"
    "tempestās, tempestātis" "weather, storm"
    "templum" "temple"
@@ -4972,7 +5010,10 @@
    "ūllus" "any"
    "ūllō" "any"
    "ūllus, ūlla, ūllum (gen -ius)" "any"
-   
+
+   "ūtilitātem" "usefulness, utility, profit, advantage"
+   "ūtilitās, ūtilitātis" "usefulness, utility, profit, advantage"
+      
    "ultimam" "farthest, last"
    "ulterius" "farther, last"
    "-, -, ulterior -or -us, ultimus -a -um" "farthest, last"
@@ -5025,6 +5066,10 @@
    "vagantur" "they wander"
    "vāde" "go!"
    "vādō, vādere, vāsī, -" "to go, to walk"
+
+   "variīs" "various, diverse"
+   "varius, varia, varium" "various, diverse"
+   
    "vās, vāsis" "vessel"
    "vāsa" "vessel"
    "vāscula" "small vessel"
