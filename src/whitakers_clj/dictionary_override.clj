@@ -2627,7 +2627,13 @@
    "induō, induere, induī, indūtus" "to dress, to put on"
    "ineffābilis" "ineffable"
    "ineffābilis, ineffābilis, ineffābile" "ineffable"
+
+   "ineptīs" "inept, senseless"
+   "ineptus, inepta, ineptum" "inept, senseless"
+   
    "īnfantem" "infant"
+   "īnfantum" "infant"
+   "īnfantium" "of infants"
    "īnfāns, īnfantis" "infant"
    
    "īnfēlīx" "unhappy"
@@ -2675,11 +2681,16 @@
    "īnsertō, īnsertāre, īnsertāvī, īnsertātus" "to insert, to introduce"
    "īnsinuābat" "he was insinuating, he was pushing in"
    "īnsinuō, īnsinuāre, īnsinuāvī, īnsinuātus" "to push in, to insinuate"
+
+   "īnstitūtiōne" "instruction, education, arrangement"
+   "īnstitūtiō, īnstitūtiōnis" "instruction, education, arrangement"
+   
    "īnsula" "island"
    "īnsula, īnsulae" "island"
    "īnsulae" "island"
    "īnsulam" "island"
    "īnsulīs" "islands"
+   
    "integer" "whole, intact, untouched"
    "integer, integra -um, integrior -or -us, integerrimus -a -um" "whole, intact, untouched"
    "integrōs" "whole, intact, untouched"
