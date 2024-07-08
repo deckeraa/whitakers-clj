@@ -340,6 +340,7 @@
    "parumper" "briefly"
    "passus" "passus + est = to have suffered"
    "Patriciī" "of Saint Patrick"
+   "paululum" "a little"
    "per" "through"
    "perfīnītis" "You finished; 2nd person plural present from perfīnīre"
    "perfīnīta" "perfīnīta + est: it has been finished"
@@ -2135,6 +2136,10 @@
    "fenestra" "window"
    "fenestram" "window"
    "fenestra, fenestrae" "window"
+
+   "fēnō" "hay"
+   "fēnum, fēnī" "hay"
+   
    "tulērunt" "they brought"
    "tulissent" "they (might) have had brought"
    "ferō, ferre, tulī, lātus" "to bring, to bear"
@@ -2190,6 +2195,9 @@
    "fīxērunt" "they set up, they fixed"
    "fīxit" "he fastened"
    "fīgō, fīgere, fīxī, fīxus" "to fasten, to fix"
+
+   "figūra" "shape, form, figure"
+   "figūra, figūrae" "shape, form, figure"
    
    "fīlī" "son"
    "fīliolī"  "young sons"
@@ -2292,6 +2300,9 @@
 
    "fragrāntiam" "fragrance"
    "fragrāntoia, fragrānciae" "fragrance"
+
+   "frēgit" "he broke, he shattered, he crushed"
+   "frangō, frangere, frēgī, frāctus" "to break, to shatter, to crush"
    
    "frāter" "brother"
    "frāter, frātris" "brother"
@@ -2516,9 +2527,12 @@
    "hispidum" "rough, shaggy"
    "hispidus" "rough, shaggy"
    "hispidus, hispida, hispidum" "rough, shaggy"
+   
    "hominem" "person"
    "hominis" "of a person"
+   "homō" "person"
    "homō, hominis" "person"
+   
    "honor, honōris" "honor"
    "honorem" "honor"
    "hōram" "hour, time"
@@ -2826,6 +2840,7 @@
    "eāmus" "let us go"
    "eunt" "they go"
    "īte" "go!"
+   "īret" "he (might) have gone"
    "īre" "to go"
    
    "irruet" "it will rush in"
@@ -3140,6 +3155,10 @@
    "meum" "my"
    "meus" "my"
    "mihī" "to me"
+
+   "mercenāriī" "hired servant, working man"
+   "mercenārius, mercenāriī" "hired servant, working man"
+   
    "merīdiem" "mid-day"
    "merīdiēs, merīdiēī" "mid-day"
    "merīdiānam" "noon, southern"
@@ -3213,10 +3232,16 @@
    "mittuntur" "they are being sent"
    "minuitur" "to be diminished"
    "minuō, minuere, minuī, minūtus" "to be diminished"
+
+   "modium" "peck (8 dry quarts)"
+   "modius, modiī" "peck (8 dry quarts)"
+   
    "modō" "mode, manner, way, measure, size"
+   
    "modulātiō, modulātiōnis" "melody, modulation"
    "modulātiō" "melody, modulation"
    "modulātiōne" "melody, modulation"
+   
    "modum" "mode, manner, way, measure, size"
    "modus, modī" "mode, manner, way, measure, size"
 
@@ -3383,6 +3408,7 @@
    "nepōs, nepōtis" "grandson"
 
    "nescīmus" "we do not know"
+   "nescīvit" "he didn't know"
    "nesciō, nescīre, nescīvī, nescītus" "to not know"
    
    "niveō" "snowy white"
@@ -3392,6 +3418,10 @@
 
    "nōbilibus" "noble, famous, high-born"
    "nōbilis, nōbilis, nōbile" "noble, famous, high-born"
+
+   "nocēret" "he (might) have harmed"
+   "nocuit" "he harmed"
+   "noceō, nocēre, nocuī, nocitus" "to harm"
    
    "nōmine" "name"
    "nōminibus" "names"
@@ -3408,8 +3438,6 @@
    "noctem" "night"
    "noctīs" "nights"
    "noctium" "of nights"
-   "nocuit" "he harmed"
-   "noceō, nocēre, nocuī, nocitus" "to harm, to injure"
 
    "nōlēmus" "we won't want"
    "nōlō" "I don't want"
@@ -3764,6 +3792,9 @@
    "perambulantēs" "walking through"
    "perambulāre" "to walk through"
    "perambulō, perambulāre, perambulāvī, perambulātus" "to walk through"
+
+   "perceptō" "having been perceived, having been learned, having been secured"
+   "percipiō, percipere, percēpī, perceptus" "to perceive, to learn, to secure"
    
    "percutiēbat" "he was hitting"
    "percutiēbant" "they were hitting"
@@ -3816,7 +3847,10 @@
    "permansissent" "having had remained"
    "permansūrus" "will be remaining"
    "permansērunt" "they remained"
-   
+
+   "permitte" "permit! allow!"
+   "permittō, permittere, permīsī, permissus" "to permit, to allow"
+
    "pernoctāns" "spending the night"
    "pernoctantibus" "spending the night"
    "pernoctō, pernoctāre, pernoctāvī, pernoctātus" "spending the night"
