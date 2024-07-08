@@ -608,6 +608,9 @@
    "ācrius" "harsher"
    "ācer, ācris -e, ācrior -or -us, ācerrimus -a -um" "harsh"
 
+   "acervī" "heap, pile, stack"
+   "acervus, acervī" "heap, pile, stack"
+
    "affuit" "he was present"
    "assum, adesse, affuī, affuturus" "to be present"
    "addidit" "he added"
@@ -619,11 +622,16 @@
    "adiūrō, adiūrāre, adiūrāvī, adiūrātus" "to adjure, to swear, to charge"
    "adiūtor" "helper, assistant"
    "adiūtor, adiūtōris" "helper, assistant"
+   
    "adiūtōrium" "help, support"
    "adiūtōrium, adiūtōriī" "help, support"
+
+   "adiūtus" "having been helped"
    "adiuvāre" "to help"
    "adiuvante" "helping"
+   "adiūvit" "he helped"
    "adiuvō, adiuvāre, adiūvī, adiūtus" "to help"
+   
    "admīrāminī" "admire!"
    "admīrāmur" "we admire"
    "admīror, admīrārī, admīrātus sum" "to admire"
@@ -814,8 +822,11 @@
    "antecēdēbat" "he was preceeding"
    "antecēdēbant" "they were preceeding"
    "antecēdō, antecēdere, antecessī, antecessum" "to precede"
+   
    "anteriōrēs" "earlier, previous, former"
+   "anteriōribus" "earlier, previous, former"
    "anterior, anterior, anterius" "earlier, previous, former"
+   
    "antīquī" "of the ancient"
    "antīquus, antīqua -um, antīquior -or -us, antīquissimus -a -um" "antique"
 
@@ -1154,6 +1165,7 @@
    "cantābant" "they were singing"
    "cantāmus" "we sing"
    "cantāre" "to sing"
+   "cantārī" "to be sung"
    "cantāte" "sing!"
    "cantāvērunt" "they sang"
    "cantāvisset" "he (might) have had sung"
@@ -1207,10 +1219,14 @@
    "carnibus" "meat, flesh"
    "carnis" "meat, flesh"
    "carō, carnis" "meat, flesh"
+   
    "caudam" "tail"
    "cauda, caudae" "tail"
-   "causa, causae" "cause, reason"
+
    "causa" "cause, reason"
+   "causam" "cause, reason"
+   "causa, causae" "cause, reason"
+      
    "cavēte" "Beware!"
    "caveō, cavēre, cāvī, cautus" "to beware"
    
@@ -1948,6 +1964,13 @@
    "Epiphanīae" "Epiphany, a Christian holiday that occurs closely after Christmas."
    "Epiphanīa, Epiphanīae" "Epiphany, a Christian holiday that occurs closely after Christmas."
 
+   "equitāvit" "he rode on horseback"
+   "equitāre" "to ride on horseback"
+   "equitō, equitāre, equitāvī, equitātus" "to ride on horseback"
+
+   "equum" "horse"
+   "equus, equī" "horse"
+
    "eram" "I was"
    "erant" "they were"
    "erat" "he was"
@@ -1956,9 +1979,11 @@
    "erit" "he will be"
    "eritis" "you will be"
    "erō" "I will be"
-   
+
+   "ērēctīs" "to be raised, to be built"
    "ērēxit" "he raised, he built"
    "ērigō, ērigere, ērēxī, ērēctus" "to raise, to build"
+   
    "errantēs" "wandering, erroring"
    "errō, errāre, errāvī, errātus" "to wander, to go astray"
 
@@ -2041,6 +2066,13 @@
    "exultatiō, exultatiōnis" "exultation"
    "exūrō, exūrere, exussī, exustus" "to burn"
    "exūritur" "it is burned"
+
+   "faba" "bean"
+   "fabae" "bean"
+   "fabārum" "of beans"
+   "fabās" "beans"
+   "faba, fabae" "bean"
+   
    "fabrōrum" "of smiths"
    "faber, fabrī" "craftsman, smith"
    
