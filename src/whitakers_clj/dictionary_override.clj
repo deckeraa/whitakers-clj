@@ -1550,6 +1550,9 @@
    "culpa" "fault"
    "culpa, culpae" "fault"
 
+   "cūra" "care, concern, supervision"
+   "cūra, cūrae" "care, concern, supervision"
+
    "cucurrērunt" "they ran"
    "currere" "to run"
    "currō, currere, cucurrī, cursus" "to run"
@@ -1565,9 +1568,7 @@
    "custōdiunt" "they guard"
    "custōdiō, custōdīre, custōdīvī, custōdītus" "to guard, to watch over"
    "custōdīte" "guard!"
-   "dabat" "he was giving"
-   "dabit" "he will give"
-
+   
    "daemōn" "demon"
    "daemōnem" "demon"
    "daemōnēs" "demons"
@@ -1655,6 +1656,11 @@
    "deōrum" "of gods"
    "dēscendentēs" "descending"
    "dēscendō, dēscendere, dēscendī, dēscēnsus" "to descend"
+
+   "dēsīderiō" "longing, desire, wish"
+   "dēsīderium" "longing, desire, wish"
+   "dēsīderium, dēsīderiī" "longing, desire, wish"
+   
    "dēsīgnāvisset" "he (might) have had designated"
    "dēsīgnō, dēsīgnāre, dēsīgnāvī, dēsīgnātus" "to designate"
    "dēspēximus" "we disdained"
@@ -1792,10 +1798,13 @@
    "dīmidium" "half"
    "dīmidium, dīmidiī" "half"
 
+   "dabantur" "they were being given"
    "dabō" "I will give"
    "dedī" "I gave"
    "dare" "to give"
    "datūrus" "will be given"
+   "dabat" "he was giving"
+   "dabit" "he will give"
    "dō, dare, dedī, datum" "to give (irregular)"
    
    "domestica" "domestic"
@@ -1816,10 +1825,14 @@
    "dominorum" "of the lords, of the masters"
    "dominus" "lord, master"
    "dominus, dominī" "lord, master"
+
+   "domī" "at home"
    "domō" "house"
+   "domum" "house"
    "domus" "house"
    "domūs" "house"
    "domus, domūs" "house"
+   
    "dōnāvit" "he gave"
    "dōnō, dōnāre, dōnāvī, dōnātus" "to give"
    "dōnīs" "gifts"
@@ -1922,8 +1935,13 @@
    "ērigō, ērigere, ērēxī, ērēctus" "to raise, to build"
    "errantēs" "wandering, erroring"
    "errō, errāre, errāvī, errātus" "to wander, to go astray"
+
+   "ērudīrī" "to be educated, to be taught, to be instructed"
+   "ērudiō, ērudīre, ērudīvī, ērudītus" "to educate, to teach, to instruct"
+   
    "ēscīs" "food, victuals, bait"
    "ēsca" "food, victuals, bait"
+   "ēscae" "food, victuals, bait"
    "ēscam" "food, victuals, bait"
    "ēscās" "food, victuals, bait"
    "ēsca, ēscae" "food, victuals, bait"
@@ -1999,9 +2017,12 @@
    "exūritur" "it is burned"
    "fabrōrum" "of smiths"
    "faber, fabrī" "craftsman, smith"
+   
    "fābula" "story"
    "fābulam" "story"
+   "fābulīs" "stories, play, talk"
    "fābula, fābulae" "story"
+   
    "faciē" "shape, figure, appearance, look"
    "faciēbant" "they were doing, they were making"
    "faciēs" "shape, figure, appearance, look"
@@ -2138,11 +2159,17 @@
    "fīō, fierī, factus sum" "to happen, to occur"
    "firmāmentī" "strengthening, support"
    "firmāmentum, firmāmentī" "strengthening, support"
-   "flābat" "he was blowing, he was breathing"
+
    "flagellāvit" "he whipped"
    "flagellō, flagellāre, flagellāvī, flagellātus" "to whip"
+
+   "flagrāns" "burning"
+   "flagrō, flagrāre, flagrāvī, flagrātus" "to blaze, to burn"
+   
    "flammās" "flames"
    "flamma, flammae" "flame"
+   
+   "flābat" "he was blowing, he was breathing"
    "flāre" "to breathe, to blow"
    "flō, flāre, flāvī, flātus" "to breathe, to blow"
    "flectēbat" "they were bending"
@@ -2386,6 +2413,7 @@
    "habitābam" "I was living"
    "habitantium" "inhabiting"
    "habitāre" "to inhabit"
+   "habitābat" "he was living"
    "habitābitis" "you will have"
    "habitandum" "living"
    "habitant" "they inhabit"
