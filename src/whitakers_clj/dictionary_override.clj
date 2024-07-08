@@ -23,11 +23,13 @@
    "absit" "forbid it! May it be absent!"
    "ac" "and"
    "ācriter" "sharply"
+   "āctīs" "acts, ablative from ācta, a plural-only second declension noun"
    "ad" "to, towards, at, according to"
    "adhūc" "until now"
    "aditum" "approach, access; singular masculine accusative from aditus, aditūs"
    "admīrātī" "admīrātī + sunt = were admired"
    "admīrātus" "admīrātus + est = was admired"
+   "admodum" "very"
    "aegypto" "Egypt, dative or ablative case"
    "aequāliter" "equally"
    "aethiopum" "Ethiopian, black"
@@ -605,6 +607,7 @@
    "accipite" "accept! receive!"
    "ācrius" "harsher"
    "ācer, ācris -e, ācrior -or -us, ācerrimus -a -um" "harsh"
+
    "affuit" "he was present"
    "assum, adesse, affuī, affuturus" "to be present"
    "addidit" "he added"
@@ -649,6 +652,7 @@
    "aestuō, aestuāre, aestuāvī, aestuātus" "to boil, to be agitated"
 
    "aetās" "lifetime, age"
+   "aetāte" "lifetime, age"
    "aetās, aetātis" "lifetime, age"
    
    "aeternam" "eternal"
@@ -659,6 +663,9 @@
    
    "Aethiopum" "Ethiopian, black man"
    "Aethiops, Aethiopis" "Ethiopian"
+
+   "aggregātō" "group together!"
+   "aggregō, aggregāre, aggregāvī, aggregātus" "to group, to flock together"
    
    "agitābātur" "to be stirred up"
    "agite" "act! conduct (yourself)!"
@@ -792,12 +799,13 @@
    "animantia" "living, giving life"
    "animō, animāre, animāvī, animātus" "to give live, to animate, to revive"
    
-   "annus, annī" "year"
    "annī" "year"
    "annīs" "years"
    "annō" "year"
+   "annōrum" "of years"
    "annōs" "years"
    "annum" "year"
+   "annus, annī" "year"
    
    "annonam" "yearly income"
    "annōnā" "yearly income"
@@ -819,8 +827,10 @@
    
    "apostolī" "apostle"
    "apostolus" "apostle"
+   "apostolōrum" "of apostles"
    "apostolōs" "apostle"
    "apostolus, apostolī" "apostle"
+   
    "appāruisset" "he (might) have had appeared"
    "appārēbat" "he was appearing"
    "appāret" "he appears"
@@ -908,6 +918,10 @@
    "armum, armī" "weapon"
    "arripuit" "he took hold of, he snatched"
    "arripiō, arripere, arripuī, arreptus" "to take hold of, to snatch, to arrest"
+
+   "arūrae" "square fields of 100 cubits"
+   "arūra, arūrae" "a square field of 100 cubits"
+   
    "ascendentibus" "ascending"
    "ascendēns" "ascending"
    "ascendente" "ascending"
