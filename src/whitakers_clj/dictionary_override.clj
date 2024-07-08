@@ -498,6 +498,7 @@
    "super" "above, on top of"
    "supellē̆ctilī" "furnishings"
    "suprā" "over, above, beyond, before"
+   "sūrsum" "on top, upward"
    "Syon" "Zion"
    "Synai" "Sinai"
    "tālī" "such"
@@ -2142,6 +2143,7 @@
    
    "tulērunt" "they brought"
    "tulissent" "they (might) have had brought"
+   "tulit" "he brought"
    "ferō, ferre, tulī, lātus" "to bring, to bear"
    "ferēbātur" "it was brought"
    "ferēbāntur" "they were brought"
@@ -3863,8 +3865,11 @@
    "persevērō, persevērāre, persevērāvī, persevērātus" "to persevere"
    "persevērāssent" "they (might) have had persevered"
    "persevērāvissent" "they (might) have had persevered"
+   
    "perterritī" "being greatly frightened"
+   "perterritus" "having been greatly frightened"
    "perterreō, perterrēre, perterruī, perterritus" "to greatly frighten"
+   
    "pertinet" "it pertains"
    "pertinent" "they pertain"
    "pertinebant" "they were pertaining"
@@ -3969,8 +3974,10 @@
    "portiō, portiōnis" "share, part, portion"
    "portam" "gate"
    "porta, portae" "door, entrance"
-   
+
+   "portandum" "carrying"
    "portans" "carrying"
+   "portantem" "carrying"
    "portantēs" "carrying, bringing"
    "portāre" "to carry"
    "portat" "he carries"
@@ -3997,7 +4004,8 @@
    "possumus" "we are able to"
    "potuimus" "we were able"
    "potuissēmus" "we might have had been able to"
-   
+
+   "posteriōrēs" "following, next"
    "posteriōrem" "following, next"
    "posteriora" "after"
    "posteriōribus" "after"
@@ -4121,6 +4129,10 @@
    "proficīscor" "I set out"
    "proficīsciminī" "you set out"
    "proficīscēminī" "you will set out"
+
+   "prohibuit" "he prevented, he restrained"
+   "prohibeō, prohibēre, prohibuī, prohibitus" "to prevent, to restrain"
+   
    "profundō" "deep, bottomless, boundless"
    "profundīs" "deep, bottomless, boundless"
    "profundum" "deep, bottomless, boundless"
@@ -4135,6 +4147,10 @@
    "prōposuit" "he displayed, he proposed"
    "prōposuī" "I displayed, I proposed"
    "prōpōnō, prōpōnere, prōposuī, prōpositus" "he displayed, he proposed"
+
+   "proprium" "property, characteristic"
+   "proprium, propriī" "property, characteristic"
+   
    "propriīs" "own, personal, individual"
    "proprius, propria, proprium" "own, personal, individual"
    "prōra" "prow"
@@ -4355,6 +4371,9 @@
    "remānsērunt" "they remained"
    "remaneō, remanēre, remānsī, remānsus" "to remain"
 
+   "remedium" "remedy, cure"
+   "remedium, remediī" "remedy, cure"
+
    "rēmigāre" "to row"
    "rēmigō, rēmigāre, rēmigāvī, rēmigātus" "to row"
 
@@ -4458,9 +4477,14 @@
    "rogō, rogāre, rogāvī, rogātus" "to ask"
    "rogus" "funeral pyre, grave"
    "rogus, rogī" "funeral pyre, grave"
+
+   "rotantis" "rotating"
+   "rotō, rotāre, rotāvī, rotātus" "to rotate"
+   
    "rotunda" "round"
    "rotundum" "round"
    "rotundus, rotunda -um, rotundior -or -us, rotundissimus -a -um" "round"
+   
    "rubricātīs" "red, reddened"
    "rubricātus, rubricāta, rubricātum" "red, reddened"
    "rubus" "thorn bush"
@@ -4474,6 +4498,10 @@
    "sabbatī" "Sabbath"
    "sabbatō" "Sabbath"
    "sabbatum, sabbatī" "Sabbath"
+
+   "saccus" "sack, bag, wallet"
+   "saccus, saccī" "sack, bag, wallet"
+   
    "sacerdōs" "priest"
    "sacerdōtēs" "priests"
    "sacerdōtibus" "priests"
@@ -4755,6 +4783,9 @@
    "spēlunca, spēluncae" "cave"
    "spēs" "hope"
    "spēs, speī" "hope"
+
+   "spīritū"  "spirit, breath"
+   "spīritum" "spirit, breath"
    "spīritus" "spirit, breath"
    "spīritus, spīritūs" "spirit, breath"
    "spīrituum" "of spirits"
@@ -4795,16 +4826,20 @@
    "stetērunt" "they stood"
    "stīpendia" "stipend, supplies"
    "stīpendium, stīpendiī" "stipend, supplies"
+   
    "stābat" "he was standing"
+   "stantem" "standing"
    "stāre" "to stand, to remain"
+   "stetisset" "he (might) have had stood"
+   "stetissent" "they (might) have had stood"
+   "stō, stāre, stetī, status" "to stand, to remain"
+
    "statūra" "stature"
    "statūrae" "stature"
    "statūra, statūrae" "stature"
    "statū" "state, status"
    "status, statūs" "state, status"
-   "stetisset" "he (might) have had stood"
-   "stetissent" "they (might) have had stood"
-   "stō, stāre, stetī, status" "to stand, to remain"
+   
    "strāta" "paved road"
    "strātam" "paved road"
    "strāta, strātae" "paved road"
@@ -4884,11 +4919,13 @@
    "superveniō, supervenīre, supervēnī, superventus" "to overcome"
    "supellē̆ctilī" "furnishings"
    "supellē̆x, supellē̆ctilis" "furnishings"
+   
    "surgite" "raise! lift! get up!"
    "surrēxit" "he raised up"
    "surgēbat" "he was lifting up"
    "surgentem" "raising"
    "surgō, surgere, surrēxī, surrēctus" "to rise, to lift"
+   
    "suscepta" "having been undertaken"
    "suscipiō, suscipere, suscēpī, susceptus" "to undertake"
    "suscitāre" "to encourage, to awaken, to stir up"
@@ -4982,6 +5019,9 @@
    
    "thronum" "throne"
    "thronus, thronī" "throne"
+
+   "tībiam" "leg"
+   "tībia, tībiae" "leg"
    
    "timēbant" "they were fearing"
    "timētis" "you fear"
@@ -5001,6 +5041,10 @@
    "tormenta" "torments"
    "tormentōrum" "of torments"
    "tormentum, tormentī" "torment, cannon"
+
+   "torrentem" "torrent"
+   "torrēns, torrentis" "torrent"
+   
    "tōta" "whole, total"
    "tōtam" "whole, total"
    "tōtum" "whole, total"
@@ -5338,14 +5382,19 @@
    "vitiī" "vice, crime"
    "vitiīs" "vices, crimes"
    "vitium, vitiī" "vice, crime"
+   
    "vitreum" "glass"
    "vitreum, vitreī" "glass"
+   
    "vīvēbam" "I was living"
    "vīvēbat" "he was living"
    "vīvere" "to live"
    "vīvit" "he lives"
    "vīvō" "I live"
    "vīvō, vīvere, vīxī, vīctus" "to live"
+
+   "vīvus" "alive"
+   "vīvus, vīva, vīvum" "alive"
 
    "vocārētur" "he (might) have been called"
    "vocātur" "to be called"
