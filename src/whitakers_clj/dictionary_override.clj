@@ -28,6 +28,7 @@
    "aditum" "approach, access; singular masculine accusative from aditus, aditūs"
    "admīrātī" "admīrātī + sunt = were admired"
    "admīrātus" "admīrātus + est = was admired"
+   "aegypto" "Egypt, dative or ablative case"
    "aequāliter" "equally"
    "aethiopum" "Ethiopian, black"
    "Ailbēī" "The name of a group of monks living on an island."
@@ -508,6 +509,7 @@
    "ubicumque" "everywhere"
    "ultrā" "beyond, further"
    "umquam" "ever"
+   "unquam" "ever"
    "ūnanimiter" "unanimously, harmoniously"
    "unde" "from where?"
    "ūndecim" "11"
@@ -633,12 +635,19 @@
    "aestuāns" "boiling"
    "aestuāre" "to boil, to be agitated"
    "aestuō, aestuāre, aestuāvī, aestuātus" "to boil, to be agitated"
+
+   "aetās" "lifetime, age"
+   "aetās, aetātis" "lifetime, age"
+   
    "aeternam" "eternal"
    "aeternus, aeterna -um, aeternior -or -us, aeternissimus -a -um" "eternal"
+   
    "aethera" "sky, heaven, aether"
    "aethēr, aetheris" "sky, heaven, aether"
+   
    "Aethiopum" "Ethiopian, black man"
    "Aethiops, Aethiopis" "Ethiopian"
+   
    "agitābātur" "to be stirred up"
    "agite" "act! conduct (yourself)!"
    "agitō, agitāre, agitāvī, agitātus" "to act, to put in motion"
@@ -943,6 +952,11 @@
    "aurēs" "ears"
    "aurōra" "dawn, sunrise"
    "aurōra, aurōrae" "dawn, sunrise"
+
+   "auscultāns" "listening, overhearing, obeying"
+   "auscultāre" "to listen, to overhear, to obey"
+   "auscultō, auscultāre, auscultāvī, auscultātus" "to listen, to overhear, to obey"
+   
    "austrum" "south wind"
    "auster, austrī" "south wind"
    "austrālem" "southern"
@@ -1030,6 +1044,10 @@
    "bīna" "two each"
    "bīnīs" "two each"
    "bīnōs" "two each"
+
+   "blandīmenta" "flatteries, blandishments"
+   "blandīmentum, blandīmentī" "flattery, blandishment"
+   
    "bona" "good"
    "boni" "good"
    "bonum" "good"
@@ -1229,11 +1247,14 @@
    "Chrīstus, Chrīstī" "Christ"
    "chrīstiānōrum" "of Christians"
    "chrīstiānus, chrīstiānī" "Christian"
+   
    "cibī" "food"
+   "cibīs" "food"
    "cibōs" "food"
    "cibum" "food"
    "cibus" "food"
    "cibus, cibī" "food"
+   
    "cīmītērium" "cemetery"
    "cīmītērium, cīmītēriī" "cemetery"
    
@@ -1289,14 +1310,19 @@
    "cōgitāre" "to think"
    "cōgitāvit" "he thought"
    "cōgitō, cōgitāre, cōgitāvī, cōgitātus" "to think"
+   
    "cōgitātiōnēs" "thoughts"
    "cōgitātiō, cōgitātiōnis" "thinking"
+   
    "cōgnitor" "advocate, attorney, witness"
    "cōgnitor, cōgnitōris" "advocate, attorney, witness"
+   
    "cōgnōscō" "I recognize, I know"
    "cōgnōscis" "you recognize"
    "cōgnōscitis" "you recognize, you know"
+   "cōgnōsceret" "he (might) have recognized, he (might) have learned"
    "cōgnōscō, cōgnōscere, cōgnōvī, cōgnitum" "to recognize, to learn, to inquire, to know"
+   
    "collēctiō" "collection"
    "collēctiō, collēctiōnis" "collection"
    "collēctiōne" "collection"
@@ -1424,6 +1450,11 @@
    "continuus, continua, continuum" "continuous"
    "contrīstātus" "being saddened"
    "contrīstō, contrīstāre, contrīstāvī, contrīstātus" "to sadden"
+
+   "conveniēns" "meeting, coming together"
+   "convenīre" "to meet, to come together"
+   "conveniō, convenīre, convēnī, conventus" "to meet, to come together"
+   
    "conversātiōne" "intimacy, acquaintance, way of life, monastic life"
    "conversātiō" "intimacy, acquaintance, way of life, monastic life"
    "conversātiōnis" "intimacy, acquaintance, way of life, monastic life"
