@@ -73,6 +73,7 @@
    "candida" "bright, white, clean; singular feminine nominative from candidus, candida, candidum"
    "cantāte" "Sing! Plural imperative from cantāre"
    "celebrāte" "Celebrate!"
+   "cepsitāvit" "he stumbled; singular perfect from cespitō, cespitāre, cespitāvi, cespitas"
    "Chrīstō" "Christ"
    "cibō" "food; singular masculine ablative from cibum cibum, cibī"
    "circā" "around, about, concerning"
@@ -394,6 +395,7 @@
    "quadrāgintā" "40"
    "quaerere" "to seek"
    "quaerō, quaerere, quaesīvī, quaesītus" "to seek"
+   "quāliter" "what kind?"
    "quandō" "when, because"
    "quantōcius" "the sooner the better (adverb)"
    "quantum" "how much?"
@@ -417,6 +419,7 @@
    "rīvulum" "rivulet, small brook"
    "rīvulus, rīvulī" "rivulet, small brook"
    "rubicunditātis" "redness. This word did not appear in any dictionaries I consulted, but the meaning is clear from the context. It appears to be a variant of rubicundus -a -um, meaning red, ruddy, or rubicund."
+   "Ryeuall" "Rievaulx, a village about 9 miles from Byland Abbey."
    "saepe" "often"
    "sanctificāte" "Sanctify! Plural imperative of sanctificō, sanctificāre, sanctificāvī, sanctificātus"
    "sāncta" "holy, saint"
@@ -1266,6 +1269,7 @@
    "centum" "hundred"
    "certāmine" "contest, struggle"
    "certāmen, certāminis" "contest, struggle"
+
    "cessābit" "it will cease"
    "cessāvit" "it ceased"
    "cessō, cessāre, cessāvī, cessātus" "to cease"
@@ -1449,6 +1453,9 @@
    "cōnfugiō, cōnfugere, cōnfūgī, cōnfugitūrus" "to flee"
    "congregātiōne" "congregation"
    "congregātiō, congregātiōnis" "congregation"
+
+   "coniūrāvit" "he conjured"
+   "coniūrō, coniūrāre, coniūrāvī, coniūrātus" "to conjure"
    
    "cōnōpēī" "canopy"
    "cōnōpēō" "canopy"
@@ -1971,6 +1978,7 @@
    "equitō, equitāre, equitāvī, equitātus" "to ride on horseback"
 
    "equum" "horse"
+   "equus" "horse"
    "equus, equī" "horse"
 
    "eram" "I was"
@@ -2722,6 +2730,10 @@
    "īnfernī" "Hell"
    "īnfernus" "Hell"
    "īnfernus, īnfernī" "Hell"
+
+   "īnferās" "you (might) carry"
+   "īnferō, īnferre, intulī, illātus" "to carry"
+   
    "īnfīnīta" "endless, infinite"
    "īnfīnītus, īnfīnīta, īnfīnītum" "endless, infinite"
    "īnfirmitātem" "infirmity, weakness"
