@@ -552,8 +552,11 @@
    "veniō, venīre, vēnī, ventus" "to come"
    "vēnērant" "they had came"
    "vēnissent" "they (might) have had come"
-   "vergō, vergere, -, -" "to lay, to incline, to slope"
+
+   "vergit" "it lies"
    "vergentem" "laying"
+   "vergō, vergere, -, -" "to lay, to incline, to slope"
+      
    "vērō" "truly, even so, still"
    "vespertīnāle" "Vespers. This word isn't in any of my dictionaries but the meaning is clear."
    "vestra" "your"
@@ -4376,7 +4379,7 @@
    "putābant" "they were thinking"
    "putāre" "to think"
    "putō, putāre, putāvī, putātus" "to think"
-   
+
    "quadrāgesima" "Lent, Christian fast of 40 days"
    "quadrāgesimae" "Lent, Christian fast of 40 days"
    "quadrāgesima, quadrāgesimae" "Lent, Christian fast of 40 days"
@@ -4905,8 +4908,11 @@
    "socius, soci(ī)" "associate, companion"
    "sodālibus" "companions"
    "sodālis, sodālis" "companions"
+
+   "sōlem" "sun"
    "sōlis" "sun"
    "sōl, sōlis" "sun"
+   
    "sōlemnem" "solemn"
    "sōlemnis, sōlemne, sōlemnior -or -us, sōlemnissimus -a -um" "solemn"
    
@@ -4958,6 +4964,10 @@
    "spatiō" "space"
    "spatium" "space"
    "spatium, spatiī" "space"
+
+   "spectat" "he observes, he considers"
+   "spectant" "they observe, they consider"
+   "spectō, spectāre, spectāvī, spectātus" "to observe, to consider"
    
    "spēlunca" "cave"
    "spēluncae" "cave"
