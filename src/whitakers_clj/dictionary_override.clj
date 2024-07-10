@@ -154,6 +154,7 @@
    "frēnum" "bridal; ornamental necklace"
    "fūrtim" "secret, stealthily"
    "Garumna" "The Garonne, a river running in modern-day France and Spain"
+   "Germānīs" "Germans"
    "Goliae" "of Goliath, the Philistine giant that David slew; from Golias, Goliae."
    "Grifa" "griffin, a lion-eagle hybrid; from grifa, grifae"
    "grifa" "griffin, a lion-eagle hybrid; from grifa, grifae"
@@ -2254,6 +2255,7 @@
    "fīniō, fīnīre, fīnīvī, fīnītus" "to limit, to finish"
 
    "fīnem" "boundary, end, limit"
+   "fīnibus" "boundaries, ends, limits"
    "fīnis" "boundary, end, limit"
    "fīnium" "boundary, end, limit"
    "fīnis, fīnis" "boundary, end, limit"
@@ -2422,6 +2424,14 @@
    "futūra" "future"
    "futūrō" "future"
    "futūrus, futūra, futūrum" "future"
+
+   "gallī" "Gaul"
+   "gallōs" "Gauls"
+   "Gallus, Galli" "Gaul"
+
+   "gallia" "Gaul"
+   "galliae" "Gaul"
+   "Gallia, Galliae" "Gaul"
    
    "gallōrum" "of chickens, of roosters"
    "gallus, gallī" "chicken, rooster"
@@ -2552,6 +2562,10 @@
    "habitus, habitūs" "habit, character"
    "hauriendam" "drawing, drinking, exhausting"
    "hauriō, haurīre, hausī, haustus" "to draw up, to drink, to exhaust"
+
+   "Helvētiī" "Helvetii, members of a Gallic tribe"
+   "Helvētiīs" "Helvetii, members of a Gallic tribe"
+   
    "herba" "grass, herb"
    "herbā" "grass, herb"
    "herbae" "grass, herb"
@@ -2574,6 +2588,10 @@
    "hilaritās" "good humor"
    "hilaritātis" "good humor"
    "hilaritāte" "good humor"
+
+   "Hispāniam" "Hispania"
+   "Hispānia, Hispāniae" "Hispania"
+   
    "hispidum" "rough, shaggy"
    "hispidus" "rough, shaggy"
    "hispidus, hispida, hispidum" "rough, shaggy"
@@ -3664,6 +3682,7 @@
    "omnēs" "all, every"
    "omnī" "all, every"
    "omnia" "all, every"
+   "omnis" "all, every"
    "omnis, omnis, omne" "all, every"
    "omnium" "of all"
    "omnibus" "all"
@@ -3728,9 +3747,14 @@
    "ōrāvit" "he prayed"
    "ōrō, ōrāre, ōrāvī, ōrātus" "to pray"
 
+   "oriuntur" "they originate, they arise"
+   "orīrī" "to originate, to arise"
+   "orior, orīrī, ortus sum" "to originate, to arise"
+
    "ortum" "rising, beginning"
    "ortus" "rising, beginning"
    "ortus, ortūs" "rising, beginning"
+   
    "ōs, ōris" "mouth"
    "ōscula" "kisses"
    "ōsculō" "kiss"
@@ -3785,11 +3809,13 @@
 
    "parietēs" "walls"
    "pariēs, parietis" "wall"
-   "pars, partis" "part"
+   
+   "pars" "part"
    "parte" "part"
    "partem" "part"
    "partēs" "parts"
    "partibus" "parts"
+   "pars, partis" "part"
 
    "parvam" "small"
    "parvum" "small"
@@ -4132,6 +4158,11 @@
    "pōtus" "drink, drinking"
    "pōtūs" "drink, drinking"
    "pōtus, pōtūs" "drink, drinking"
+
+   "praecēdunt" "they proceed, they excel"
+   "praecēdere" "to proceed, to excel"
+   "praecēdō, praecēdere, praecessī, praecessus" "to proceed, to excel"
+   
    "praecipiam" "I will order"
    "praecipiō" "I order"
    "praecipiō, praecipere, praecēpī, praeceptus" "to order"
@@ -4223,6 +4254,11 @@
    "prōcūrātore" "procurator"
    "prōcūrātōris" "procurator"
    "prōcūrātor, prōcūrātōris" "procurator"
+
+   "proeliīs" "battles, conflicts"
+   "proelium" "battle, conflict"
+   "proelium, proeliī" "battle, conflict"
+   
    "proficīscere" "set out!"
    "profectus" "profectus sum = I set out"
    "proficiscendi" "setting out"
@@ -4232,6 +4268,7 @@
    "proficīsciminī" "you set out"
    "proficīscēminī" "you will set out"
 
+   "prohibent" "they prevent, they restrain"
    "prohibuit" "he prevented, he restrained"
    "prohibeō, prohibēre, prohibuī, prohibitus" "to prevent, to restrain"
    
@@ -4271,10 +4308,18 @@
    "prosternēbant" "they were prostrating"
    "prostrāvērunt" "they prostrated"
    "prosternō, prosternere, prostrāvī, prostrātus" "to prostrate"
+
+   "prōvincia"  "province, command"
+   "prōvinciae" "province, command"
+   "prōvincia, prōvinciae" "province, command"
    
    "prōvolō, prōvolāre, prōvolāvī, prōvolātus" "to fly forward"
    "prōvolūtīs" "fallen, rolled"
    "prōvolvō, prōvolvere, prōvolvī, prōvolūtus" "to roll forward, to bowl over"
+
+   "proximī" "next, nearest"
+   "proximus, proxima, proximum" "next, nearest"
+   
    "psallēbant" "they were singing a Psalm"
    "psallendī" "singing a Psalm"
    "psallite" "singing a Psalm"
@@ -4557,6 +4602,17 @@
    
    "rēgī" "king"
    "rēx, rēgis" "king"
+
+   "Rhēnī"  "The Rhine"
+   "Rhēnum" "The Rhine"
+   "Rhēnus" "The Rhine"
+   "Rhēnus, Rhēnī" "The Rhine"
+
+   "Rhodanī"  "The Rhone"
+   "Rhodanō"  "The Rhone"
+   "Rhodanus" "The Rhone"
+   "Rhodanus, Rhodanī" "The Rhone"
+   
    "rīpa" "bank, shore"
    "rīpam" "bank, shore"
    "rīpae" "bank, shore"
@@ -4739,11 +4795,15 @@
    "sentiō, sentīre, sēnsī, sēnsus" "to sense, to feel"
    "sepelīvissem" "I (might) have had buried"
    "sepeliō, sepelīre, sepelīvī, sepultus" "to bury"
+   
    "septentriōnem" "north"
+   "septentriōnēs" "north"
    "septentriō, septentriōnis" "north"
+   
    "septentriōnālem" "northern"
    "septentriōnālī" "northern"
    "septentriōnālis, septentriōnālis, septentriōnāle" "northern"
+   
    "sepulchrum" "grave"
    "sepulchrum, sepulchrī" "grave"
    "sepultūra" "burial"
