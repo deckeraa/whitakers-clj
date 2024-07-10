@@ -154,6 +154,7 @@
    "frēnum" "bridal; ornamental necklace"
    "fūrtim" "secret, stealthily"
    "Garumna" "The Garonne, a river running in modern-day France and Spain"
+   "germānīs" "Germans"
    "Germānīs" "Germans"
    "Goliae" "of Goliath, the Philistine giant that David slew; from Golias, Goliae."
    "Grifa" "griffin, a lion-eagle hybrid; from grifa, grifae"
@@ -2564,7 +2565,9 @@
    "hauriō, haurīre, hausī, haustus" "to draw up, to drink, to exhaust"
 
    "Helvētiī" "Helvetii, members of a Gallic tribe"
+   "helvētiī" "Helvetii, members of a Gallic tribe"
    "Helvētiīs" "Helvetii, members of a Gallic tribe"
+   "helvētiīs" "Helvetii, members of a Gallic tribe"
    
    "herba" "grass, herb"
    "herbā" "grass, herb"
@@ -2590,7 +2593,9 @@
    "hilaritāte" "good humor"
 
    "Hispāniam" "Hispania"
+   "hispāniam" "Hispania"
    "Hispānia, Hispāniae" "Hispania"
+   "hispānia, hispāniae" "Hispania"
    
    "hispidum" "rough, shaggy"
    "hispidus" "rough, shaggy"
@@ -4604,14 +4609,22 @@
    "rēx, rēgis" "king"
 
    "Rhēnī"  "The Rhine"
+   "rhēnī"  "The Rhine"
    "Rhēnum" "The Rhine"
+   "rhēnum" "The Rhine"
    "Rhēnus" "The Rhine"
+   "rhēnus" "The Rhine"
    "Rhēnus, Rhēnī" "The Rhine"
+   "rhēnus, rhēnī" "The Rhine"
 
    "Rhodanī"  "The Rhone"
+   "rhodanī"  "The Rhone"
    "Rhodanō"  "The Rhone"
+   "rhodanō"  "The Rhone"
    "Rhodanus" "The Rhone"
+   "rhodanus" "The Rhone"
    "Rhodanus, Rhodanī" "The Rhone"
+   "rhodanus, Rhodanī" "The Rhone"
    
    "rīpa" "bank, shore"
    "rīpam" "bank, shore"
