@@ -1601,6 +1601,10 @@
    "culpa" "fault"
    "culpa, culpae" "fault"
 
+   "cultū"  "cult, civilization"
+   "cultus" "cult, civilization"
+   "cultus, cultūs" "cult, civilization"
+
    "cūra" "care, concern, supervision"
    "cūra, cūrae" "care, concern, supervision"
 
@@ -1761,6 +1765,9 @@
    "dictō" "having been said"
    "dīcunt" "they say"
    "dīcō, dīcere, dīxī, dictus" "to say"
+
+   "dictum" "words, saying"
+   "dictum, dictī" "words, saying"
    
    "diēs" "day"
    "diē" "day"
@@ -1769,6 +1776,11 @@
    "diem" "day"
    "diērum" "days"
    "diēs, diēī" "day"
+
+   "differunt" "they delay, they differ"
+   "differre" "to delay, to differ"
+   "differō, differre, distulī, dīlātus" "to delay, to differ"
+   
    "difficillimum" "very difficult"
    "difficilius" "difficult"
    "difficilis, difficile, difficilior -or -us, difficillimus -a -um" "difficult"
@@ -1822,19 +1834,24 @@
    "dīversōs" "diverse"
    "dīversus" "diverse"
    "dīversus, dīversa, dīversum" "diverse"
+   
    "dīvīna" "divine"
    "dīvīnum" "divine"
    "dīvīnō" "divine"
    "dīvīnus, dīvīna -um, dīvīnior -or -us, dīvīnissimus -a -um" "divine"
+   
    "dīvidit" "he divides"
+   "dīvīsa" "having been divided"
    "dīvīsit" "he divided"
    "dīvidō, dīvidere, dīvīsī, dīvīsus" "to divide"
+   
    "dīxerat" "he had said"
    "dīxērunt" "they said"
    "dīxī" "I said"
    "dīxistī" "you said"
    "dīxisset" "he (might) have had said"
    "dīxit" "he said"
+   
    "dedit" "he gave"
    "dispendia" "pay, nourishment"
    "dispendiīs" "pay, nourishment"
@@ -1936,6 +1953,9 @@
    "edimus" "we eat"
    "ēditē" "eat!"
    "edō, edere, ēdī, ēsus" "to eat"
+
+   "effēminandōs" "feminizing, emasculating"
+   "effēminō, effēmināre, effēmināvī, effēminātus" "to make effeminate, to emasculate"
    
    "effluēbant" "they were flowing out"
    "effluō, effluere, efflūxī, -" "to flow out"
@@ -2067,9 +2087,14 @@
    
    "extinguebantur" "they were being extinguished"
    "extinguō, extinguere, extīnxī, extīnctus" "to quench, to extinguish"
+   
    "extollātis" "you (might) have extolled"
    "extollite" "extol!"
    "extollō, extollere, -, -" "to extol"
+
+   "extrēmīs" "limits, outsides, ends"
+   "extrēmum, extrēmī" "limit, outside, end"
+   
    "exultābant" "they were exulting, they were rejoicing"
    "exultō, exultāre, exultāvī, exultātus" "to exult, to rejoice"
    "exultatiōne" "exultation"
@@ -2219,8 +2244,7 @@
    "fīlium" "son"
    "fīlius" "son"
    "fīlius, fīlī" "son"
-   "fīnis" "boundary, end, limit"
-   "fīnem" "boundary, end, limit"
+
    "ficta" "having been molded, having been created"
    "fingō, fingere, fīnxī, fictus" "to mold, to form, to create"
    "fīniēbat" "they were limiting, they were finishing"
@@ -2228,8 +2252,11 @@
    "fīnītur" "it is finished, it is limited"
    "fīnīvit" "he finished, he limited"
    "fīniō, fīnīre, fīnīvī, fīnītus" "to limit, to finish"
-   "fīnis, fīnis" "boundary, end, limit"
+
+   "fīnem" "boundary, end, limit"
+   "fīnis" "boundary, end, limit"
    "fīnium" "boundary, end, limit"
+   "fīnis, fīnis" "boundary, end, limit"
    ;;   "fīnītus, fīnīta, fīnītum"
    "fīēbant" "they were done"
    "fīō, fierī, factus sum" "to happen, to occur"
@@ -2264,11 +2291,15 @@
    "flūctuum" "of waves, of billows, of turbulence"
    "flūctibus" "waves, billows, turbulence"
    "flūctus, flūctūs" "wave, billow, turbulence"
+   
    "flūmen" "river"
+   "flūmine" "river"
    "flūminis" "river"
    "flūmen, flūminis" "river"
+   
    "fluvium" "river"
    "fluvius, fluviī" "river"
+   
    "focum" "hearth, fireplace, altar"
    "focus, focī" "hearth, fireplace, altar"
    "folia" "leaves"
@@ -2292,9 +2323,13 @@
    "formidō, formidāre, formidāvī, formidātus" "to dread"
    "fōrmula" "shape, formula"
    "fōrmula, fōrmulae" "shape, formula"
+   
    "fortis" "strong"
    "fortis, forte, fortior -or -us, fortissimus -a -um" "strong"
+
+   "fortissimī" "very strong"
    "fortissimus" "very strong"
+   
    "fortitūdō" "strength, fortitude"
    "fortitūdinis" "strength, fortitude"
    "fortitūdinem" "strength, fortitude"
@@ -2415,6 +2450,11 @@
    "generibus" "births, families, types, offspring"
    "generum" "of births, families, types, offspring"
    "genus, generis" "birth, family, type, offspring"
+
+   "gerunt" "they bear, they carry, they govern"
+   "gerere" "to bear, to carry, to govern"
+   "gerō, gerere, gessī, gestus" "to bear, to carry, to govern"
+   
    "gigans" "giant"
    "gigantis" "giant"
    "gigans, gigantis" "giant"
@@ -2559,11 +2599,17 @@
    "hospitium, hospitiī" "hospitality"
    "hostis" "enemy"
    "hostis, hostis" "enemy"
+
+   "hūmānitās"  "humanity, civilization"
+   "hūmānitāte" "humanity, civilization"
+   "hūmānitās, hūmānitātis" "humanity, civilization"
+   
    "hūmāna" "human, cultured, refined"
    "hūmānae" "human, cultured, refined"
    "hūmānam" "human, cultured, refined"
    "hūmānum" "human, cultured, refined"
    "hūmānus, hūmāna -um, hūmānior -or -us, hūmānissimus -a -um" "human, cultured, refined"
+   
    "humiliāre" "to humble, to abase, to humililate"
    "humiliō, humiliāre, humiliāvī, humiliātus" "to humble, to abase, to humililate"
    "humilitās, humilitātis" "humility, insignificance, commonplaceness"
@@ -2658,8 +2704,14 @@
    
    "impleō, implēre, implēvī, implētus" "to fill up"
    "implēre" "to fill up"
+   
    "impiōrum" "impious"
    "impius, impia, impium" "impious"
+
+   "important" "they convey, they import"
+   "importāre" "to convey, to import"
+   "importō, importāre, importāvī, importātus" "to convey, to import"
+   
    "inaequālitās" "inequality"
    "inaequālitās, inaequālitātis" "inequality"
    "incendentēs" "setting on fire"
