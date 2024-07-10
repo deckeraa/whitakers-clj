@@ -278,6 +278,7 @@
                    "vestr.um" "vestrum" "ist.e" "iste" "ill.as" "illās" "ist.as" "istās"
                    "ips.is" "ipsīs" "e.as" "eās" "ips.o" "ipsō" "vestr.i" "vestrī"
                    "hu.ius" "huius" "aliqu.is" "aliquis" "h.i" "hī" "e.a" "ea"
+                   "h.orum" "hōrum" "ips.i" "ipsī" "ips.orum" "ipsōrum" "qu.arum" "quārum"
                    } word) word)]
     {:options options
      :word word
@@ -519,7 +520,7 @@
                    "salut.atis" "salūtātis" "expl.etis" "explētis" "iverunt" "iērunt" "sal.i" "salī"
                    "sciv.it" "scīvit" "celebr.ate" "celebrāte" "i.te" "īte" "fug.ite" "fugite"
                    "port.ate" "portāte" "antoni.us" "Antōnius" "delic.atis" "dēlicātīs"
-                   "infer.as" "īnferās"
+                   "infer.as" "īnferās" "inferi.orem" "īnferiōrem"
                    } word) word)]
     word))
 
