@@ -2732,8 +2732,14 @@
    "incīdō, incīdere, incīdī, incīsus" "to cut into"
    "incōgnitōrum" "unknown, untested"
    "incōgnitus, incōgnita, incōgnitum" "unknown, untested"
+   
    "incolumēs" "unharmed"
    "incolumis, incolumis, incolume" "unharmed"
+
+   "incolunt" "they inhabit"
+   "incolere" "to inhabit"
+   "incolō, incolere, incoluī, incultus" "to inhabit"
+   
    "incorporālis, incorporālis, incorporāle" "incorporeal"
    "incorporāle" "incorporeal"
    "incrēdibilī" "incredible"
@@ -2820,6 +2826,10 @@
    "īnsinuābat" "he was insinuating, he was pushing in"
    "īnsinuō, īnsinuāre, īnsinuāvī, īnsinuātus" "to push in, to insinuate"
 
+   "īnstitūtum" "custom, principle, institution"
+   "īnstitūtīs" "customs, principles, institutions"
+   "īnstitūtum, īnstitūtī" "custom, principle, institution"
+   
    "īnstitūtiōne" "instruction, education, arrangement"
    "īnstitūtiō, īnstitūtiōnis" "instruction, education, arrangement"
    
@@ -3041,6 +3051,11 @@
    "levāvērunt" "they raised up"
    "levis, levis, leve" "light"
    "levissimam" "very light"
+
+   "lēgibus" "laws"
+   "lēx" "law"
+   "lēx, lēgis" "law"
+   
    "līberā" "liberate!"
    "līberābit" "he will liberate"
    "līberāvistī" "you liberated"
@@ -3050,10 +3065,16 @@
    "licentia" "license, liberty"
    "licentia, licentiae" "license, liberty"
    "licentiam" "license"
+   
    "ligātūram" "ligature, binding"
    "ligātūra, ligātūrae" "ligature, binding"
+   
    "lignīs" "wood"
    "lignum, lignī" "wood"
+
+   "lingua" "tongue, language"
+   "linguā" "tongue, language"
+   "lingua, linguae" "tongue, language"
    
    "liniērunt" "they lined"
    "linīvērunt" "they lined"
@@ -3083,10 +3104,13 @@
    "locūtiōnibus" "speeches, discourse"
    "locūtiō, locūtiōnis" "speaking, speech, discourse"
    "longē" "long"
+   
    "longitūdine" "length, longitude"
    "longitūdinis" "length, longitude"
    "longitūdō, longitūdinis" "length, longitude"
+   
    "longum" "long, far"
+   "longissime" "very long"
    "longus, longa -um, longior -or -us, longissimus -a -um" "long, far"
    "loquerentur" "they (might) have had said"
    "loquor, loqui, locutus sum" "to speak, to say"
@@ -3182,8 +3206,13 @@
    "māssam" "mass, bulk"
    "māssās" "mass, bulk"
    "māssa, māssae" "mass, bulk"
+   
    "māter" "mother"
    "māter, mātris" "mother"
+
+   "mātrōna" "matron, married woman"
+   "mātrōna, mātrōnae" "matron, married woman"
+   
    "mātūra" "mature, early"
    "mātūrus, mātūra, mātūrum" "mature, early"
    "mātūtīnum, mātūtīnī" "morning"
@@ -3221,6 +3250,10 @@
    "meum" "my"
    "meus" "my"
    "mihī" "to me"
+
+   "mercātor" "merchant"
+   "mercātōrēs" "merchants"
+   "mercātor, mercātōris" "merchant"
 
    "mercenāriī" "hired servant, working man"
    "mercenārius, mercenāriī" "hired servant, working man"
@@ -3329,6 +3362,7 @@
    "mōns" "mountain"
    "monte" "mountain"
    "montem" "mountain"
+   "montēs" "mountains"
    "montīs" "mountains"
 
    "mōnstrum" "monster"
@@ -3572,6 +3606,10 @@
    "observāre" "to observe, to watch"
    "observāte" "watch!"
    "observō, observāre, observāvī, observātus" "to observe, to watch"
+
+   "obtinēre" "to obtain"
+   "obtineō, obtinēre, obtinuī, obtentus" "to obtain"
+   
    "obumbrāvit" "it overshadowed, it darkened"
    "obumbrāvisset" "he (might) have had overshadowed"
    "obumbrō, obumbrāre, obumbrāvī, obumbrātus" "to overshadow, to darken"
