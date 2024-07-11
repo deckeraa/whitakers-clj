@@ -1589,7 +1589,8 @@
    "contendere" "to hasten, to contend"
    "contendō, contendere, contendī, contentus" "to hasten, to contend"
 
-   "continētur" "it is sustainied, it is contained"
+   "continētur" "it is sustained, it is contained"
+   "continentur" "they are sustained, they are contained"
    "continēre" "to sustain, to contain"
    "contineō, continēre, continuī, contentus" "to sustain, to contain"
    
@@ -1619,9 +1620,14 @@
    "cooperuit" "he covered"
    "cooperiō, cooperīre, cooperuī, coopertus" "to cover"
    "cooperuērunt" "they covered"
+   
    "cophinus" "basket"
    "cophinum" "basket"
    "cophinus, cophinī" "basket"
+
+   "cōpia" "force"
+   "cōpiīs" "forces"
+   "cōpia, cōpiae" "forces"
 
    "coquināre" "to cook"
    "coquinō, coquināre, coquināvī, coquinātus" "to cook"
@@ -1630,8 +1636,10 @@
    "cor, cordis" "heart"
    "corde" "heart"
    "cordis" "heart"
+   
    "coriīs" "skins, hides"
    "corius, coriī" "skin, hide"
+   
    "corporibus" "bodies"
    "corpus" "body, flesh"
    "corpum" "body, flesh"
@@ -1639,8 +1647,10 @@
    "corpore" "body, flesh"
    "corporis" "body, flesh"
    "corpus, corporis" "body, flesh"
+   
    "corporālī" "physical, corporeal"
    "corporālis, corporālis, corporāle" "physical, corporeal"
+   
    "cornu" "horn"
    "cornua" "horn"
    "cornibus" "horns"
@@ -1704,6 +1714,12 @@
    "cultus" "cult, civilization"
    "cultus, cultūs" "cult, civilization"
 
+   "cupidī" "eager, passionate"
+   "cupidus, cupida, cupidum" "easger, passionate"
+
+   "cupiditāte" "desire, passion, greed"
+   "cupiditās, cupiditātis" "desire, passion, greed"
+
    "cūra" "care, concern, supervision"
    "cūra, cūrae" "care, concern, supervision"
 
@@ -1735,6 +1751,7 @@
    "dalmaticae" "deacon's vestmests"
    "dalmatica, dalmaticae" "deacon's vestmests"
    "dans" "giving"
+   "dant" "they give"
    "dat" "he gives"
    "data" "things given"
    "datō" "gift"
