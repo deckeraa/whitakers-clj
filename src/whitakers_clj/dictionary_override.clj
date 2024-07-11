@@ -829,11 +829,14 @@
    "angelus, angelī" "angel"
    "angulōs" "corners, angles"
    "angulus, angulī" "corner, angle"
+   
    "angelicō" "angelic"
    "angelicus, angelica, angelicum" "angelic"
+   
    "angustiam" "small space, narrow passage, being boxed in"
    "angustia" "small space, narrow passage, being boxed in"
    "angustia, angustiae" "small space, narrow passage, being boxed in"
+   "angustōs" "small space, narrow passage, being boxed in"
    "angustum, angustī" "small space, narrow passage, being boxed in"
    "angustus" "small space, narrow passage, being boxed in"
    
@@ -891,6 +894,7 @@
 
    "appellābat" "he was calling, he was naming"
    "appellantur" "they are called"
+   "appellātus" "having been called"
    "appellāvit" "he called, he named"
    "appellō, appellāre, appellāvī, appellātus" "to call, to name"
    
@@ -1007,6 +1011,9 @@
    "attingēbat" "they were touching"
    "attingit" "it touches, it borders"
    "attingō, attingere, attigī, attāctus" "to touch, to border on, to reach"
+
+   "auctōritāte" "authority"
+   "auctōritās, auctōritātis" "authority"
    
    "audītis" "you hear"
    "audīvērunt" "they heard"
@@ -1077,9 +1084,15 @@
    
    "bellātōrēs" "fighters"
    "bellātor, bellātōris" "fighters"
+   
    "bellum" "battle, war"
    "bellī" "battle, war"
    "bellum, bellī" "battle, war"
+
+   "bellandī" "war-fighting"
+   "bellāre" "to wage war"
+   "bellō, bellāre, bellāvī, bellātus" "to wage war"
+   
    "bēlua" "beast, monster"
    "bēluae" "beast, monster"
    "bēluam" "beast, monster"
@@ -1118,6 +1131,10 @@
    "bīduānās" "two days"
    "bīduānum" "two days"
    "bīduānus, bīduāna, bīduānum" "two days"
+
+   "biennium" "two years"
+   "biennium, biennī" "two years"
+   
    "bīna" "two each"
    "bīnīs" "two each"
    "bīnōs" "two each"
@@ -1360,6 +1377,13 @@
    "circumfulgeō, circumfulgēre, circumfulsī, circumfulsus" "it shone all around"
    "citius" "swifter"
    "citus, cita -um, citior -or -us, citissimus -a -um" "swift"
+
+   "cīvitās" "citizens, city-state"
+   "cīvitāte" "citizens, city-state"
+   "cīvitātī" "citizens, city-state"
+   "cīvitātibus" "citizens, city-states"
+   "cīvitātis" "citizens, city-state"
+   "cīvitās, cīvitātis" "citizens, city-state"
    
    "clāmābant" "they were shouting out"
    "clāmāre" "to shout"
@@ -1383,6 +1407,10 @@
    "coagulātae" "having been coagulated"
    "coagulātum" "having been coagulated"
    "coagulō, coagulāre, coagulāvī, coagulātus" "to coagulate, to curdle"
+
+   "coemere" "to buy"
+   "coemō, coemere, coēmī, coēmptus" "to buy"
+   
    "coepērunt" "they started"
    "coepimus" "we started"
    "coepisset" "he (might) have started"
@@ -1390,6 +1418,7 @@
    "coepissent" "they (might) have had started"
    "coepī, coepisse, coepī, coeptus" "to start"
    "coepit" "he started"
+   
    "cōgitāre" "to think"
    "cōgitāvit" "he thought"
    "cōgitō, cōgitāre, cōgitāvī, cōgitātus" "to think"
@@ -1444,23 +1473,37 @@
    "commoro, commorare, commoravi, commoratus" "to dwell on"
    "commūniōnem" "communion"
    "commūniō, commūniōnis" "communion"
+   
    "comparāvī" "I compared"
+   "comparāre" "I compare"
    "comparō, comparāre, comparāvī, comparātus" "to compare"
+   
    "complentur" "it is completed, it is filled up"
    "compleō, complēre, complēvī, complētus" "to complete, to fill up"
    "complētōrium" "compline, service of prayers at close of day"
    "complētōrium, complētōriī" "compline, service of prayers at close of day"
    "computātur" "it is calculated, it is reckoned"
    "computō, computāre, computāvī, computātum" "to calculate, to reckon"
+
+   "cōnāta" "attempts, efforts"
+   "cōnātum, cōnātī" "attempt, effort"
+   
    "cōnārētur" "they (might) have tried"
    "cōnor, cōnārī, cōnātus sum" "to try, to attempt"
+   
    "concedit" "he concedes, he allows"
    "concessit" "he conceded, he allowed"
    "concēdō, concēdere, concessī, concessus" "to concede, to allow"
+   
    "concēpit" "she conceived"
    "concipiō, concipere, concēpī, conceptus" "to conceive"
    "conclūsit" "he concluded"
    "conclūdō, conclūdere, conclūsī, conclūsus" "to conclude"
+
+   "conciliātūrum" "to win, to procure, to unite"
+   "conciliāre" "to win, to procure, to unite"
+   "conciliō, conciliāre, conciliāvī, conciliātus" "to win, to procure, to unite"
+   
    "condemnō, condemnāre, condemnāvī, condemnātus" "to condemn"
    "condemnābitur" "he will be condemned"
    "condēnsīs" "dense, thick, packed together"
@@ -1470,10 +1513,22 @@
    "condita" "building, founding"
    "conditum" "building, founding"
    "condō, condere, condidī, conditus" "to build, to found"
+   
    "cōnferentēs" "conferencing, talking, meeting"
    "cōnferō, cōnferre, contulī, collātus" "to conference, to talk, to meet"
+
+   "cōnficiendās" "completing"
+   "cōnficere" "to complete"
+   "cōnficiō, cōnficere, cōnfēcī, cōnfectus" "to complete"
+   
    "confinibus" "bordering"
    "cōnfīnis, cōnfīnis, cōnfīne" "bordering"
+
+   "cōnfirmat" "he strengthens, he encourages"
+   "cōnfirmant" "they strengthen, they encourage"
+   "cōnfirmāre" "to strengthen, to encourage"
+   "cōnfirmō, cōnfirmāre, cōnfirmāvī, cōnfirmātus" "to strengthen, to encourage"
+   
    "cōnfitēminī" "you confess"
    "cōnfiteor, cōnfitērī, cōnfessum sum" "to confess"
    
@@ -1488,6 +1543,9 @@
    "cōnfugiō, cōnfugere, cōnfūgī, cōnfugitūrus" "to flee"
    "congregātiōne" "congregation"
    "congregātiō, congregātiōnis" "congregation"
+
+   "coniūrātiōnem" "conspiracy"
+   "coniūrātiō, coniūrātiōnis" "conspiracy"
 
    "coniūrāvit" "he conjured"
    "coniūrō, coniūrāre, coniūrāvī, coniūrātus" "to conjure"
@@ -1515,9 +1573,15 @@
    "cōnsōlātiō, cōnsōlātiōnis" "consolation"
    "cōnsortiō" "fellowship"
    "cōnsortiō, cōnsortiōnis" "fellowship"
+
+   "cōnstituērunt" "they planned"
    "cōnstituite" "Plan! Arrange! Decide!"
-   "cōnstituō, cōnstituere, cōnstituī, cōnstitūtus" "to place, arrange, decree, decide"
    "cōnstituistī" "you placed, arranged, decreed, decided"
+   "cōnstituō, cōnstituere, cōnstituī, cōnstitūtus" "to place, arrange, decree, decide"
+
+   "cōnsulibus" "consuls"
+   "cōnsul, cōnsulis" "consul"
+   
    "cōnsummātīs" "being accomplished, being ended"
    "cōnsummō, cōnsummāre, cōnsummāvī, cōnsummātus" "to accomplish, to end, to consume"
 
