@@ -2386,6 +2386,7 @@
    "fīlia, fīliae" "daughter"
    
    "fīliī" "sons"
+   "fīliō" "son"
    "fīlium" "son"
    "fīlius" "son"
    "fīlius, fīlī" "son"
@@ -2399,15 +2400,23 @@
    "fīniō, fīnīre, fīnīvī, fīnītus" "to limit, to finish"
 
    "fīnem" "boundary, end, limit"
+   "fīnēs" "boundaries, ends, limits"
    "fīnibus" "boundaries, ends, limits"
    "fīnis" "boundary, end, limit"
    "fīnium" "boundary, end, limit"
    "fīnis, fīnis" "boundary, end, limit"
+
+   "fīnitimīs" "neighboring"
+   "fīnitimus, fīnitima, fīnitimum" "neighboring"
+   
    ;;   "fīnītus, fīnīta, fīnītum"
    "fīēbant" "they were done"
    "fīō, fierī, factus sum" "to happen, to occur"
    "firmāmentī" "strengthening, support"
    "firmāmentum, firmāmentī" "strengthening, support"
+
+   "fīrmissimōs" "very firm"
+   "fīrmus, fīrma -um, fīrmior -or -us, fīrmissimus -a -um" "firm"
 
    "flagellāvit" "he whipped"
    "flagellō, flagellāre, flagellāvī, flagellātus" "to whip"
@@ -2520,13 +2529,19 @@
    "frīgus, frīgoris" "cold"
    "frīgus" "cold"
    "frīgoris" "cold"
+   
    "frontem" "forehead, front"
    "frōns, frontis" "forehead, front"
+   
    "frūctū" "fruit"
    "frūctus" "fruit"
    "frūctum" "fruit"
    "frūctibus" "fruits"
    "frūctus, frūctūs" "fruit"
+
+   "frūmentī" "corn, grain"
+   "frūmentum, frūmentī" "corn, grain"
+   
    "fuerat" "he had been"
    "fuērunt" "they were"
 
@@ -2675,13 +2690,16 @@
    "habēbitis" "you will have"
    "habeō" "I have"
    "habitum" "having been held"
-   "habeō, habēre, habuī, habitus" "to have"
    "habēmus" "we have"
    "habēns" "having"
    "habēs" "you have"
    "habet" "he has"
    "habētis" "you have"
    "habuērunt" "they had"
+   "habuerit" "you will have had"
+   "habēre" "to have"
+   "habeō, habēre, habuī, habitus" "to have"
+
 
    "habitābam" "I was living"
    "habitantium" "inhabiting"
@@ -2743,9 +2761,11 @@
    "hispidum" "rough, shaggy"
    "hispidus" "rough, shaggy"
    "hispidus, hispida, hispidum" "rough, shaggy"
-   
+
    "hominem" "person"
+   "hominēs" "persons"
    "hominis" "of a person"
+   "hominum" "of persons, of men"
    "homō" "person"
    "homō, hominis" "person"
    
@@ -2860,6 +2880,10 @@
    "impedīmentum" "impediment, hindrance, heavy baggage"
    "impedīmentum, impedīmentī" "impediment, hindrance, heavy baggage"
 
+   "imperiō"  "command, dominion, empire"
+   "imperium" "command, dominion, empire"
+   "imperium, imperi(ī)" "command, dominion, empire"
+
    "impulit" "he impelled, he urged on"
    "impellere" "to impel"
    "impellō, impellere, impulī, impulsus" "to impel"
@@ -2921,6 +2945,10 @@
    "indigēs" "you lack?"
    "indigeō, indigēre, indiguē, -" "to lack"
    "indigēmus" "we lack"
+
+   "inductus" "having been inducted"
+   "indūcere" "to induct"
+   "indūcō, indūcere, indūxī, inductus" "to induct"
    
    "induit" "he dresses, he dressed"
    
@@ -2959,6 +2987,7 @@
    "īnfernus, īnfernī" "Hell"
 
    "īnferās" "you (might) carry"
+   "īnferre" "to carry"
    "īnferō, īnferre, intulī, illātus" "to carry"
    
    "īnfīnīta" "endless, infinite"
@@ -3098,6 +3127,9 @@
    "itinere" "journey, trip"
    "iūdex, iūdicis" "judge"
    "iūdicem" "judge"
+
+   "iūmentōrum" "of baggage animals"
+   "iūmentum, iūmentī" "baggage animal"
    
    "iūnctum" "connected, joined"
    "iūnctam" "connected, joined"
@@ -3109,15 +3141,27 @@
    "Iēsūs" "Jesus"
    "iēsūs" "Jesus"
    "Jēsūs, Jēsū" "Jesus"
+   
    "iūstus" "just"
    "jūstus, jūsta -um, jūstior -or -us, jūstissimus -a -um" "just"
+   
    "iūdiciī" "judgement"
    "iūdicium" "judgement"
    "iūdicium, iūdiciī" "judgement"
+   
    "iuncturās" "joinings, junctions"
    "iunctura, iuncturae" "joinings, junctions"
+
+   "iūrandum" "oath"
+   "iūrandum, iūrandī" "oath"
+
+   "iūra" "laws, rights, justice"
+   "iūs" "law, right, justice"
+   "iūs, iūris" "law, right, justice"
+   
    "iussum" "command, order"
    "iussum, iussī" "command, order"
+   
    "iuvenum" "of the young men"
    "iuvene" "young man"
    "iuvenēs" "young men"
@@ -3136,12 +3180,15 @@
    "labor, labōris" "labor, work"
    "laboravissent" "they (might) have labored"
    "labōrō, labōrāre, labōrāvī, labōrātus" "to labor"
+   
    "lac" "milk"
    "lac, lactis" "milk"
+   
    "lacrima, lacrimae" "tear"
    "lacrimās" "tears"
    "lacrimāre" "to cry"
    "lacrimō, lacrimāre, lacrimāvī, lacrimātus" "to cry"
+   
    "laeseris" "you will strike"
    "laedō, laedere, laesī, laesus" "to strike, to wound"
    "laetī" "happy"
@@ -3171,7 +3218,8 @@
    
    "lassitūdine" "faintness, weariness, exhaustion"
    "lassitūdō, lassitūdinis" "faintness, weariness, exhaustion"
-   
+
+   "lātitūdinem" "breadth, width, latitude"
    "lātitūdinis" "breadth, width, latitude"
    "lātitūdō" "breadth, width, latitude"
    "lātitūdō, lātitūdinis" "breadth, width, latitude"
