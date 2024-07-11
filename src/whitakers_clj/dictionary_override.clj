@@ -1809,6 +1809,11 @@
    "dēliciōsam" "delicious"
    "dēliciīs" "delicious"
    "dēliciōsus, dēliciōsa, dēliciōsum" "delicious"
+
+   "dēligitur" "it is chosen"
+   "dēligere" "to choose, to select"
+   "dēligō, dēligere, dēlēgī, dēlēctus" "to choose, to select"
+   
    "deī" "god, diety"
    "dēmorātus" "dwelling, detaining"
    "dēmorābantur" "they were dwelling, they were delaying"
@@ -1930,6 +1935,10 @@
    "dīrigēbat" "he was aligning/directing"
    "dīrigite" "arrange! direct!"
    "dīrigō, dīrigere, dīrēxī, dīrēctus" "to arrange in line, to align, to direct"
+
+   "dītissimus" "rich"
+   "dīs, dītis (gen.), dītior -or -us, dītissimus -a -um" "rich"
+   
    "discēdere" "to depart"
    "discēdō, discēdere, discessī, discessus" "to depart"
    "discipulus" "student"
@@ -1990,6 +1999,10 @@
    "dabat" "he was giving"
    "dabit" "he will give"
    "dō, dare, dedī, datum" "to give (irregular)"
+
+   "dolor" "pain, sorrow"
+   "dolōre" "pain, sorrow"
+   "dolor, dolōris" "pain, sorrow"
    
    "domestica" "domestic"
    "domesticus, domestica, domesticum" "domestic"
@@ -2165,10 +2178,16 @@
    "excitātur" "he is being raised up"
    "excitō, excitāre, excitāvī, excitātus" "to wake up, to stir up, to raise, to excite"
 
+   "exercitū" "army"
+   "exercitus" "army"
+   "exercitūs" "army"
+   "exercitus, exercitūs" "army"
+
    "exī" "come out!"
    "exīvistīs" "you came out"
    "exīre" "to come out"
    "exīvit" "he came out"
+   "exīrent" "they (might) go out"
    "exeō, exīre, exivī(iī), exitus" "to come out, to go out"
    "exivērunt" "they came out, they went out"
    "exīssent" "they (might) have came out"
@@ -2253,6 +2272,10 @@
    "facta" "having been made"
    "factō" "made"
    "factus" "made"
+   "fīēbat" "it was being made"
+
+   "facile" "easy"
+   "facilis, facile, facilior -or -us, facillimus -a -um" "easy"
    
    "familia" "family"
    "familia, familiās" "family"
@@ -2336,6 +2359,8 @@
    "fīat" "may it be"
    "fībulās" "brace, brooch, clasp"
    "fībula, fībulae" "brace, brooch, clasp"
+
+   "fidem" "faith"
    "fidēs" "faith"
    "fideī" "faith"
    "fidē" "faith"
@@ -2356,6 +2381,10 @@
    "fīliolum" "young son"
    "fīliolus" "young son"
    "fīliolus, fīliolī" "young son"
+
+   "fīliam" "daughter"
+   "fīlia, fīliae" "daughter"
+   
    "fīliī" "sons"
    "fīlium" "son"
    "fīlius" "son"
