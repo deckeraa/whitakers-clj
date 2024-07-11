@@ -605,10 +605,12 @@
    "abstinentia, abstinentiae" "abstinence, self-restraint"
    "abyssī" "abyss"
    "abyssus, abyssī" "abyss"
+   
    "accēpērunt" "they accepted, they received"
    "acceptā" "having been accepted"
    "acceptīs" "having been accepted"
    "acceptō" "having been accepted"
+   "acceptus" "having been accepted"
    "accipere" "to take, to grasp, to receive, to accept"
    "accipiamus" "let us accept"
    "accipiēbant" "they were receiving, they were accepting"
@@ -619,6 +621,7 @@
    "accipiō, accipere, accēpī, acceptus" "to take, to grasp, to receive, to accept"
    "accipe"   "accept! receive!"
    "accipite" "accept! receive!"
+   
    "ācrius" "harsher"
    "ācer, ācris -e, ācrior -or -us, ācerrimus -a -um" "harsh"
 
@@ -627,11 +630,22 @@
 
    "affuit" "he was present"
    "assum, adesse, affuī, affuturus" "to be present"
+   
    "addidit" "he added"
    "addit" "he adds"
    "addō, addere, addidī, additus" "to add"
+
+   "adductī" "having been lead, having been persuaded"
+   "addūcere" "to lead, to persuade"
+   "addūcō, addūcere, addūxī, adductus" "to lead, to persuade"
+
+   "adficiēbantur" "they were being equipped, they were being affected"
+   "adficere" "to equip, to affect"
+   "adficiō, adficere, adfēcī, adfectus" "to equip, to affect"
+   
    "aditus" "approach, entrance"
    "aditus, aditūs" "approach, entrance"
+   
    "adiūrō" "I adjure, I swear, I charge"
    "adiūrō, adiūrāre, adiūrāvī, adiūrātus" "to adjure, to swear, to charge"
    "adiūtor" "helper, assistant"
@@ -695,12 +709,18 @@
    "āgnita" "having been recognized, having been acknowledged"
    "āgnōscō, āgnōscere, āgnōvī, āgnitus" "to recognize, to realize, to acknowledge"
    "āgnōvit" "he recognized, he realized"
+
+   "ager" "field"
+   "agrum" "field"
+   "ager, agrī" "field"
+   
    "agnam" "lamb"
    "agna, agnae" "lamb"
    "agnus" "lamb"
    "agnum" "lamb"
    "agnō" "lamb"
    "agnus, agnī" "lamb"
+   
    "ēgimus" "we conducted, we acted"
    "agitis" "you act, you conduct"
    "ēgissent" "you might have had conducted"
@@ -769,6 +789,7 @@
    "altior" "higher"
    "altus" "high"
    "altissimam" "highest"
+   "altissimō" "highest"
    "altus, alta -um, altior -or -us, altissimus -a -um" "high"
    "alveum" "cavity, trough"
    "alveus, alveī" "cavity, trough"
@@ -787,6 +808,11 @@
    "amīcum" "friend"
    "amīcus" "friend"
    "amīcus, amīcī" "friend"
+
+   "amīcitia" "friendship"
+   "amīcitiam" "friendship"
+   "amīcitia, amīcitiae" "friendship"
+   
    "ammonēbat" "he was admonishing, he was advising"
    "ammonēre" "to admonish, to advise"
    "ammoneō, ammonēre, ammonuī, ammonitus" "to admonish, to advise"
