@@ -94,6 +94,7 @@
    "convocātis" "you call together; 2nd person plural present from convocō, convocāre, convocāvī, convocātus"
    "cōram" "in the presence of"
    "corporāliter" "bodily, physically, corporeally"
+   "cottīdiē" "daily"
    "crās" "tomorrow"
    "cui" "who; singular dative from quis"
    "cuius" "whose; singular genitive from quis"
@@ -153,9 +154,13 @@
    "forīs" "outside (adverb)"
    "frēnum" "bridal; ornamental necklace"
    "fūrtim" "secret, stealthily"
-   "Garumna" "The Garonne, a river running in modern-day France and Spain"
+   "Garumna"  "The Garonne, a river running in modern-day France and Spain"
+   "Garumnam" "The Garonne, a river running in modern-day France and Spain"
+   "germānī" "Germans"
    "germānīs" "Germans"
    "Germānīs" "Germans"
+   "germānōs" "Germans"
+   "Germānōs" "Germans"
    "Goliae" "of Goliath, the Philistine giant that David slew; from Golias, Goliae."
    "Grifa" "griffin, a lion-eagle hybrid; from grifa, grifae"
    "grifa" "griffin, a lion-eagle hybrid; from grifa, grifae"
@@ -279,6 +284,7 @@
    "mandātum" "mandate; singular masculine nominative or accusative from mandātum, mandātī"
    "manē" "morning"
    "mānsī" "I remained; singular 1st person perfect from maneō, manēre, mānsī, mānsus"
+   "maximē" "greatly"
    "mē" "to me, accusative from ego"
    "mēcum" "with me (mē + cum)"
    "meō" "my; singular masculine or neuter dative or ablative from meus"
@@ -396,6 +402,7 @@
    "quō" "what; singular ablative of quis"
    "quōmodo" "how, by which means"
    "quoniam" "after"
+   "quōrum" "of whom; plural masc or neut. genitive of quis"
    "quōs" "who; plural masculine accusative of quis"
    "quoūsque" "how far? until when?"
    "quadrāgintā" "40"
@@ -1075,6 +1082,7 @@
 
    "Belga" "a specific Gallic people-group"
    "belga" "a specific Gallic people-group"
+   "belgās" "members of a specific Gallic people-group"
    "Belgārum" "of a specific Gallic people-group"
    "belgārum" "of a specific Gallic people-group"
    "belga, belgae" "a specific Gallic people-group"
@@ -1966,6 +1974,7 @@
    "dīvīnus, dīvīna -um, dīvīnior -or -us, dīvīnissimus -a -um" "divine"
    
    "dīvidit" "he divides"
+   "dīvidunt" "they divide"
    "dīvīsa" "having been divided"
    "dīvīsit" "he divided"
    "dīvidō, dīvidere, dīvīsī, dīvīsus" "to divide"
@@ -2448,6 +2457,7 @@
    "flūctus, flūctūs" "wave, billow, turbulence"
    
    "flūmen" "river"
+   "flūmina" "rivers"
    "flūmine" "river"
    "flūminis" "river"
    "flūmen, flūminis" "river"
@@ -2478,7 +2488,8 @@
    "formidō, formidāre, formidāvī, formidātus" "to dread"
    "fōrmula" "shape, formula"
    "fōrmula, fōrmulae" "shape, formula"
-   
+
+   "fortiōrēs" "stronger"
    "fortis" "strong"
    "fortis, forte, fortior -or -us, fortissimus -a -um" "strong"
 
@@ -2620,6 +2631,7 @@
    "generum" "of births, families, types, offspring"
    "genus, generis" "birth, family, type, offspring"
 
+   "gerit" "he bears, he carries, he governs"
    "gerunt" "they bear, they carry, they govern"
    "gerere" "to bear, to carry, to govern"
    "gerō, gerere, gessī, gestus" "to bear, to carry, to govern"
@@ -2692,6 +2704,7 @@
    "habitum" "having been held"
    "habēmus" "we have"
    "habēns" "having"
+   "habent" "they have"
    "habēs" "you have"
    "habet" "he has"
    "habētis" "you have"
@@ -3024,6 +3037,7 @@
    "īnsinuābat" "he was insinuating, he was pushing in"
    "īnsinuō, īnsinuāre, īnsinuāvī, īnsinuātus" "to push in, to insinuate"
 
+   "īnstitūta"  "customs, principles, institutions"
    "īnstitūtum" "custom, principle, institution"
    "īnstitūtīs" "customs, principles, institutions"
    "īnstitūtum, īnstitūtī" "custom, principle, institution"
@@ -3269,6 +3283,7 @@
    "levis, levis, leve" "light"
    "levissimam" "very light"
 
+   "lēgēs" "laws"
    "lēgibus" "laws"
    "lēx" "law"
    "lēx, lēgis" "law"
@@ -3291,6 +3306,7 @@
 
    "lingua" "tongue, language"
    "linguā" "tongue, language"
+   "linguās" "tongues, languages"
    "lingua, linguae" "tongue, language"
    
    "liniērunt" "they lined"
@@ -3322,7 +3338,8 @@
    "locūtiō, locūtiōnis" "speaking, speech, discourse"
    "longē" "long"
    
-   "longitūdine" "length, longitude"
+   "longitūdine"  "length, longitude"
+   "longitūdinem" "length, longitude"
    "longitūdinis" "length, longitude"
    "longitūdō, longitūdinis" "length, longitude"
    
@@ -3346,8 +3363,10 @@
    "lūx" "light"
    "lūcis" "light"
    "lūx, lūcis" "light"
+   
    "magistrum" "teacher"
    "magister, magistrī" "teacher"
+   
    "māgna" "large"
    "māgnae" "large"
    "māgnam" "large"
@@ -3365,6 +3384,8 @@
    "magnitudinem" "magnitude, greatness"
    "magnitūdinis" "magnitude, greatness"
    "magnitūdō, magnitūdinis" "magnitude, greatness"
+   "maximās" "biggest"
+   "maximum" "biggest"
    "māgnus, māgna -um, major -or -us, maximus -a -um" "large"
    "māiestās, māiestātis" "majesty"
    "māiestātem" "majesty"
@@ -3427,6 +3448,9 @@
    "māter" "mother"
    "māter, mātris" "mother"
 
+   "mātrimōnium" "marriage"
+   "mātrimōnium, mātrimōniī" "marriage"
+
    "mātrōna" "matron, married woman"
    "mātrōna, mātrōnae" "matron, married woman"
    
@@ -3435,6 +3459,7 @@
    "mātūtīnum, mātūtīnī" "morning"
    "mātūtīnās" "mornings"
    "mātūtīnīs" "mornings"
+
    "mea" "my"
    "meae" "my"
    "meam" "my"
@@ -3739,7 +3764,8 @@
    "nocēret" "he (might) have harmed"
    "nocuit" "he harmed"
    "noceō, nocēre, nocuī, nocitus" "to harm"
-   
+
+   "nōmina" "names"
    "nōmine" "name"
    "nōminibus" "names"
    "nōmen" "name"
@@ -4699,14 +4725,18 @@
    "religiōsus, religiōsa, religiōsum" "religious"
    
    "relictīs" "leaving behind"
-   "relinquō, relinquere, relīquī, relictum" "to lealving behind"
+   "relinquō, relinquere, relīquī, relictum" "to leave behind"
+
+   "reliquī" "remaining"
    "reliquōs" "remaining"
    "reliquus, reliqua, reliquum" "remaining"
    "reprōmissiō, reprōmissiōnis" "promise"
    "reprōmissiōnis" "promise"
+   
    "rē" "thing"
    "reī" "thing"
    "rem" "thing"
+   "rēs" "things"
 
    "remanent" "they remain"
    "remanēre" "to remain"
@@ -4815,6 +4845,8 @@
    "rhodanī"  "The Rhone"
    "Rhodanō"  "The Rhone"
    "rhodanō"  "The Rhone"
+   "Rhodanum" "The Rhone"
+   "rhodanum" "The Rhone"
    "Rhodanus" "The Rhone"
    "rhodanus" "The Rhone"
    "Rhodanus, Rhodanī" "The Rhone"
@@ -5024,6 +5056,12 @@
    "sequēbātur" "he was following"
    "sequiminī" "you follow"
    "sequor, sequī, sēcūtus sum" "to follow"
+
+   "Sēquana" "The Seine River"
+   "sēquana" "The Seine River"
+   "Sēquana, Sēquanae" "The Seine River"
+
+   "sēquanīs" "A Gallic tribe"
    
    "serēnus" "serene"
    "serēnum" "serene"
@@ -5766,6 +5804,7 @@
    "vīvēbat" "he was living"
    "vīvere" "to live"
    "vīvit" "he lives"
+   "vīvunt" "they live"
    "vīvō" "I live"
    "vīvō, vīvere, vīxī, vīctus" "to live"
 

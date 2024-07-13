@@ -279,6 +279,7 @@
                    "ips.is" "ipsīs" "e.as" "eās" "ips.o" "ipsō" "vestr.i" "vestrī"
                    "hu.ius" "huius" "aliqu.is" "aliquis" "h.i" "hī" "e.a" "ea"
                    "h.orum" "hōrum" "ips.i" "ipsī" "ips.orum" "ipsōrum" "qu.arum" "quārum"
+                   "qu.orum" "quōrum"
                    } word) word)]
     {:options options
      :word word
