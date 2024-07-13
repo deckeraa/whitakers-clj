@@ -1388,6 +1388,7 @@
 
    "cīvitās" "citizens, city-state"
    "cīvitāte" "citizens, city-state"
+   "cīvitātēs" "citizens, city-states"
    "cīvitātī" "citizens, city-state"
    "cīvitātibus" "citizens, city-states"
    "cīvitātis" "citizens, city-state"
@@ -2284,6 +2285,7 @@
    "fīēbat" "it was being made"
 
    "facile" "easy"
+   "facilius" "easier"
    "facilis, facile, facilior -or -us, facillimus -a -um" "easy"
    
    "familia" "family"
@@ -3241,6 +3243,7 @@
    "lāta" "wide"
    "lātum" "wide"
    "lātus" "wide"
+   "lātissimō" "very wide"
    "lātus, lāta, lātum" "wide"
 
    "latera" "side"
@@ -3270,6 +3273,9 @@
    "lectulīs" "bed, coach"
    "lectulus, lectulī" "bed, coach"
 
+   "lēgātiōnem" "legate, embassy"
+   "lēgātiō, lēgātiōnis" "legate, embassy"
+
    "legēbantur" "they were being read"
    "lēgistī" "you read"
    "lēgī" "I read"
@@ -3283,6 +3289,7 @@
    "levis, levis, leve" "light"
    "levissimam" "very light"
 
+   "lēge" "law"
    "lēgēs" "laws"
    "lēgibus" "laws"
    "lēx" "law"
@@ -3691,6 +3698,9 @@
    "nātīvitātem" "birth, nativity"
    "nātīvitātis" "birth, nativity"
 
+   "nātūra" "nature"
+   "nātūra, nātūrae" "nature"
+
    "nāve" "boat"
    "nāvem" "boat"
    "nāvicula" "small boat"
@@ -3759,6 +3769,7 @@
    "nix, nivis" "snow"
 
    "nōbilibus" "noble, famous, high-born"
+   "nōbilissimus" "very noble, famous, high-born"
    "nōbilis, nōbilis, nōbile" "noble, famous, high-born"
 
    "nocēret" "he (might) have harmed"
@@ -3819,6 +3830,9 @@
    "nūllus" "no, none, not any"
    "nūllus, nūlla, nūllum (gen -ius)" "no, none, not any"
 
+   "numerum" "number, division, troop"
+   "numerus, numerī" "number, division, troop"
+
    "nūntiātum" "having been announced"
    "nūntiāre" "to announce"
    "nūntiō, nūntiāre, nūntiāvī, nūntiātus" "to announce"
@@ -3850,6 +3864,9 @@
    "observāte" "watch!"
    "observō, observāre, observāvī, observātus" "to observe, to watch"
 
+   "obtentūrus" "will be obtaining"
+   "obtinēbat" "he was obtaining"
+   "obtinuerat" "he had obtained"
    "obtinēre" "to obtain"
    "obtineō, obtinēre, obtinuī, obtentus" "to obtain"
    
@@ -3869,9 +3886,15 @@
    "occidentālem" "western"
    "occidentālis" "western"
    "occidentālibus" "western"
+   
    "occīdī" "I killed"
    "occīdō" "I kill"
    "occīdō, occīdere, occīdī, occīsus" "to kill"
+
+   "occupāret" "he (might) have seized"
+   "occupātō" "attack!"
+   "occupō, occupāre, occupāvī, occupātum" "to seize, to overtake, to attack"
+   
    "occurrērunt" "they ran"
    "occurrit" "he ran"
    "occurrō, occurrere, occurrī, occursus" "to run"
