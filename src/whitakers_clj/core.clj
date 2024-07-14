@@ -549,6 +549,21 @@
        (str (name k) " "))
      " ")))
 
+(defn format-verb [word definition dict-entry selected-opt abbreviate?]
+  (if (nil? (or (:person selected-opt)
+                (:number selected-opt)
+                (:mood selected-opt)))
+    (str word ": " definition " infinitive")
+    (str word ": " definition " "
+         (when-let [v (:person selected-opt)]
+           (pretty-person v)) " "
+         (name* (:number selected-opt) abbreviate?)
+         (name* (:tense selected-opt) abbreviate?)
+         (name* (:voice selected-opt) abbreviate?)
+         (when (#{:subjunctive :imperative} (:mood selected-opt))
+           (str (name (:mood selected-opt)) " "))
+         "from " dict-entry)))
+
 (defn conjugated-definition [parsed-word]
   (let [selected-opt (first (:options parsed-word))
         word (parsed-word->word parsed-word)
@@ -563,15 +578,7 @@
         :unknown (str "UNKNOWN: " parsed-word)
         :preposition (str word ": " definition "(preposition)")
         :pronoun (str word ": " definition "(pronoun)")
-        :verb (str word ": " definition " "
-                   (when-let [v (:person selected-opt)]
-                     (pretty-person v)) " "
-                   (name* (:number selected-opt) abbreviate?)
-                   (name* (:tense selected-opt) abbreviate?)
-                   (name* (:voice selected-opt) abbreviate?)
-                   (when (#{:subjunctive :imperative} (:mood selected-opt))
-                     (str (name (:mood selected-opt)) " "))
-                   "from " dict-entry)
+        :verb (format-verb word definition dict-entry selected-opt abbreviate?)
         :noun (str word ": " definition " "
                    (name* (:number selected-opt) abbreviate?)
                    (name* (:gender selected-opt) abbreviate?)

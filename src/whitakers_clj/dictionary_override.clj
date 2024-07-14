@@ -251,6 +251,7 @@
    "ipsōrum" "thereselves; plural masc. or neut. genitive from ipse, ipsa, ipsum"
    "īre" "to go; present infinitive from eō, īre, iī, itus (irregular)"
    "irriguissimōs" "very well-watered; superlative from irriguus -a -um."
+   "is" "he; singular masculine nominative from is, ea, id"
    "iste" "that; singular masculine nom. from iste, ista, istud"
    "ista" "that; singular feminine nom. or abl, or plural neuter nom. or acc. from iste, ista, istud"
    "istam" "that; singular feminine accusative from iste, ista, istud"
@@ -271,6 +272,7 @@
    "iudas" "Judas Iscariot"
    "iuxtā" "near, nearly"
    "judas" "Judas Iscariot"
+   "Lemanno" "Lake Geneva"
    "Leviathan" "Leviathan, a sea monster mentioned in Job 40:25."
    "leviathan" "Leviathan, a sea monster mentioned in Job 40:25."
    "licet" "allow"
@@ -288,6 +290,7 @@
    "mē" "to me, accusative from ego"
    "mēcum" "with me (mē + cum)"
    "meō" "my; singular masculine or neuter dative or ablative from meus"
+   "messala" "Marcus Messala, consul of Rome in 61 B.C."
    "mīlle" "one thousand"
    "minimē" "barely, no, not"
    "minus" "less"
@@ -344,6 +347,7 @@
    "operātus" "operātus + est = was performed"
    "ōrā" "pray! singular imperative from ōrō, ōrāre, ōrāvī, ōrātus"
    "ōrāte" "pray! plural imperative from ōrō, ōrāre, ōrāvī, ōrātus"
+   "orgetorīx" "Orgetorix, a Helvetic aristocrat."
    "oriundus" "oriundus + est = was descended from"
    "paene" "almost"
    "parce" "Pardon! Forgive! Singular imperative from parcō, parcere, pepercī, parsum"
@@ -2740,10 +2744,14 @@
    "hauriendam" "drawing, drinking, exhausting"
    "hauriō, haurīre, hausī, haustus" "to draw up, to drink, to exhaust"
 
-   "Helvētiī" "Helvetii, members of a Gallic tribe"
-   "helvētiī" "Helvetii, members of a Gallic tribe"
-   "Helvētiīs" "Helvetii, members of a Gallic tribe"
-   "helvētiīs" "Helvetii, members of a Gallic tribe"
+   "Helvētiī" "Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.)"
+   "helvētiī" "Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.)"
+   "Helvētiīs" "Helvetii, members of a Gallic tribe (plural dat. or abl.)"
+   "helvētiīs" "Helvetii, members of a Gallic tribe (plural dat. or abl.)"
+   "Helvētiōs" "Helvetii, members of a Gallic tribe (plural accusative)"
+   "helvētiōs" "Helvetii, members of a Gallic tribe (plural accusative)"
+   "Helvētium" "Helvetii, members of a Gallic tribe (plural genitive)"
+   "helvētium" "Helvetii, members of a Gallic tribe (plural genitive)"
    
    "herba" "grass, herb"
    "herbā" "grass, herb"
@@ -3204,6 +3212,10 @@
    "lacrimās" "tears"
    "lacrimāre" "to cry"
    "lacrimō, lacrimāre, lacrimāvī, lacrimātus" "to cry"
+
+   "lacus" "lake"
+   "lacū" "lake"
+   "lacus, lacūs" "lake"
    
    "laeseris" "you will strike"
    "laedō, laedere, laesī, laesus" "to strike, to wound"
@@ -4189,6 +4201,10 @@
    "peregrīnor, peregrīnārī, peregrīnātus sum" "to make a pilgrimage"
    "peregrīnābitur" "he will make a pilgrimage, he will sojourn"
 
+   "perfacilis" "very easy"
+   "perfacile"  "very easy"
+   "perfacilis, perfacile" "very easy"
+
    "perficiendum" "completing"
    "perfēcissent" "they (might) have had finished"
    "perficiō, perficere, perfēcī, perfectus" "to finish, to accomplish"
@@ -4241,6 +4257,10 @@
    "persevērō, persevērāre, persevērāvī, persevērātus" "to persevere"
    "persevērāssent" "they (might) have had persevered"
    "persevērāvissent" "they (might) have had persevered"
+
+   "persuāsit" "he persuaded"
+   "persuādēre" "to persuade"
+   "persuādeō, persuādēre, persuāsī, persuāsus" "to persuade"
    
    "perterritī" "being greatly frightened"
    "perterritus" "having been greatly frightened"
@@ -4397,6 +4417,10 @@
    "poteritis" "you will be able to"
    "potest" "he can"
    "potestis" "you can"
+
+   "potīrī" "to obtain"
+   "potior, potiri, potitus sum" "to obtain"
+   
    "potuī" "I was able"
    "potuit" "he was able"
    "potuērunt" "they were able"
@@ -4559,6 +4583,7 @@
 
    "prōvincia"  "province, command"
    "prōvinciae" "province, command"
+   "prōvinciam" "province, command"
    "prōvincia, prōvinciae" "province, command"
    
    "prōvolō, prōvolāre, prōvolāvī, prōvolātus" "to fly forward"
@@ -4732,12 +4757,17 @@
    "refulgeō, refulgēre, refulsī, -" "to shine"
    "refugium" "refuge"
    "refugium, refugiī" "refuge"
+   
    "regiō" "region"
    "regiōne" "region"
    "regiōnibus" "regions"
    "regiōnis" "regions"
    "regiōnēs" "regions"
    "regiō, regiōnis" "region"
+
+   "rēgnī" "of the kingdom"
+   "rēgnum, rēgnī" "kingdom"
+   
    "regressus" "return"
    "regressus, regressūs" "return"
 
@@ -4857,6 +4887,8 @@
 
    "Rhēnī"  "The Rhine"
    "rhēnī"  "The Rhine"
+   "Rhēnō"  "The Rhine"
+   "rhēnō"  "The Rhine"
    "Rhēnum" "The Rhine"
    "rhēnum" "The Rhine"
    "Rhēnus" "The Rhine"
@@ -5084,7 +5116,8 @@
    "sēquana" "The Seine River"
    "Sēquana, Sēquanae" "The Seine River"
 
-   "sēquanīs" "A Gallic tribe"
+   "sēquanīs" "Members of a Gallic tribe"
+   "sēquanōs" "Members of a Gallic tribe"
    
    "serēnus" "serene"
    "serēnum" "serene"
@@ -5484,6 +5517,7 @@
    
    "tōta" "whole, total"
    "tōtam" "whole, total"
+   "tōtius" "of the whole"
    "tōtum" "whole, total"
    "tōtus" "whole, total"
    "tōtus, tōta, tōtum (gen -ius)" "whole, total"
