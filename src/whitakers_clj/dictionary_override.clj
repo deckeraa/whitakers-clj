@@ -272,6 +272,7 @@
    "iudas" "Judas Iscariot"
    "iuxtā" "near, nearly"
    "judas" "Judas Iscariot"
+   "lātē" "widely; adverb from lātus, -a, -um"
    "Lemanno" "Lake Geneva"
    "Leviathan" "Leviathan, a sea monster mentioned in Job 40:25."
    "leviathan" "Leviathan, a sea monster mentioned in Job 40:25."
@@ -347,6 +348,8 @@
    "operātus" "operātus + est = was performed"
    "ōrā" "pray! singular imperative from ōrō, ōrāre, ōrāvī, ōrātus"
    "ōrāte" "pray! plural imperative from ōrō, ōrāre, ōrāvī, ōrātus"
+   "orgetorīgis" "Orgetorix, a Helvetic aristocrat (genitive case)."
+   "Orgetorīgis" "Orgetorix, a Helvetic aristocrat (genitive case)."
    "orgetorīx" "Orgetorix, a Helvetic aristocrat."
    "oriundus" "oriundus + est = was descended from"
    "paene" "almost"
@@ -1280,6 +1283,7 @@
    "cāritātem" "charity"
    "carmen" "song, poem, prayer"
    "carmen, carminis" "song, poem, prayer"
+   
    "carō" "meat, flesh"
    "carne" "meat, flesh"
    "carnem" "meat, flesh"
@@ -1288,6 +1292,9 @@
    "carnibus" "meat, flesh"
    "carnis" "meat, flesh"
    "carō, carnis" "meat, flesh"
+
+   "carrōrum" "of four-wheeled wagons"
+   "carrus, carrī" "four-wheeled wagon"
    
    "caudam" "tail"
    "cauda, caudae" "tail"
@@ -3531,14 +3538,20 @@
    "metallum, metallī" "metal"
    "migrāvī" "I departed"
    "migrō, migrāre, migrāvī, migrātus" "to depart"
+   
    "mīliāria" "milestones"
    "mīliāriī" "milestone"
    "mīliārium, mīliāriī" "milestone"
+   
    "mīles" "soldier"
    "mīlitēs" "soldiers"
    "mīles, mīlitis" "soldier"
    "milium" "millet"
    "milium, miliī" "millet"
+
+   "mīllia" "miles"
+   "mīlle, mīlle" "mile"
+   
    "minābat" "he was pushing"
    "minō, mināre, mināvī, minātus" "to push, to impel"
    "minimae" "very small"
@@ -3783,6 +3796,10 @@
    "nōbilibus" "noble, famous, high-born"
    "nōbilissimus" "very noble, famous, high-born"
    "nōbilis, nōbilis, nōbile" "noble, famous, high-born"
+
+   "nōbilitās" "celebrity, fame, renown"
+   "nōbilitātis" "celebrity, fame, renown"
+   "nōbilitās, nōbilitātis" "celebrity, fame, renown"
 
    "nocēret" "he (might) have harmed"
    "nocuit" "he harmed"
@@ -4042,11 +4059,13 @@
    "ovibus" "sheep"
    "ovium" "of sheep"
    "ovis, ovis" "sheep"
+   
    "pānibus" "bread"
    "pānis" "bread"
    "pāne, pānis" "bread"
    "pānem" "bread"
    "pānēs" "bread"
+   
    "pannus" "cloth, rag"
    "pannum" "cloth, rag"
    "pannus, pannī" "cloth, rag"
@@ -4104,6 +4123,9 @@
    "passiōnem" "suffering, passion"
    "passiō, passiōnis" "suffering, passion"
 
+   "passuum" "of steps, of paces"
+   "passus, passūs" "step, pace"
+
    "pāstōre" "shepherd, pastor"
    "pāstor, pāstōris" "shepherd, pastor"
    
@@ -4112,8 +4134,10 @@
    "pāstūs" "pasture, fodder, food"
    "pāstus, pāstūs" "pasture, fodder, food"
    "pāstum" "pasture, fodder, food"
-   
+
+   "patēbant" "they stood open, they lied open"
    "pateō, patēre, patuī, -" "to stand open, to extend, to lie open"
+   
    "pater" "father"
    "pater, patris" "father"
    "patre" "father"
@@ -4131,9 +4155,12 @@
    "patrōcinium, patrōciniī" "protection"
    "patulae" "wide, spread out, open"
    "patulus, patula, patulum" "wide, spread out, open"
+   
    "pāce" "peace"
+   "pācem" "peace"
    "pāx" "peace"
    "pāx, pācis" "peace"
+   
    "paulum" "little"
    "paulus" "little"
    "paulus, paula, paulum" "little"
@@ -4245,6 +4272,10 @@
    "permitte" "permit! allow!"
    "permittō, permittere, permīsī, permissus" "to permit, to allow"
 
+   "permōtī" "to have been stirred up"
+   "permovēre" "to stir up, to agitate"
+   "permoveō, permovēre, permōvī, permōtus" "to stir up, to agitate"
+
    "pernoctāns" "spending the night"
    "pernoctantibus" "spending the night"
    "pernoctō, pernoctāre, pernoctāvī, pernoctātus" "spending the night"
@@ -4269,7 +4300,9 @@
    "pertinet" "it pertains"
    "pertinent" "they pertain"
    "pertinebant" "they were pertaining"
+   "pertinērent" "they (might) have pertained to"
    "pertineō, pertinēre, pertinuī, pertentus" "to pertain to"
+   
    "pertrānsīssent" "he (might) have gone through"
    "pertrānsīvissent" "he (might) have gone through"
    "pertrānseō, pertrānsīre, pertrānsīvī(iī), pertrānsitus" "to pass through"
@@ -4539,6 +4572,7 @@
    "proficīscor" "I set out"
    "proficīsciminī" "you set out"
    "proficīscēminī" "you will set out"
+   "proficīscendum" "setting out"
 
    "prohibent" "they prevent, they restrain"
    "prohibuit" "he prevented, he restrained"
@@ -4592,6 +4626,10 @@
 
    "proximī" "next, nearest"
    "proximus, proxima, proximum" "next, nearest"
+
+   "proximīs" "neighbor"
+   "proximus" "neighbor"
+   "proximus, proximī" "neighbor"
    
    "psallēbant" "they were singing a Psalm"
    "psallendī" "singing a Psalm"
@@ -4787,6 +4825,7 @@
    "reprōmissiōnis" "promise"
    
    "rē" "thing"
+   "rēbus" "things"
    "reī" "thing"
    "rem" "thing"
    "rēs" "things"
@@ -5065,10 +5104,15 @@
    "sēdēs" "seat"
    "sēdibus" "seats"
    "sēdēs, sēdis" "seat"
+   
    "sedilibus" "seats, benches, stools"
    "sedīle, sedilis" "seat, bench, stool"
    "sedilia" "seats, benches, stools"
    "sēdit" "he sat"
+
+   "sēmentēs" "sowing, planting"
+   "sēmentis, sēmentis" "sowing, planting"
+   
    "sēmita" "footpath"
    "sēmitam" "footpath"
    "sēmitās" "footpath"
@@ -5379,6 +5423,7 @@
    "sūmō, sūmere, sūmpsī, sūmptus" "to take up"
    "sumus" "we are"
    "sunt" "they are"
+   
    "superat" "he overcomes"
    "superāvisset" "he (might) have overcome"
    "superō, superāre, superāvī, superātus" "to overcome"
@@ -5389,6 +5434,10 @@
    "superveniō, supervenīre, supervēnī, superventus" "to overcome"
    "supellē̆ctilī" "furnishings"
    "supellē̆x, supellē̆ctilis" "furnishings"
+
+   "suppeteret" "it (might) have sufficed"
+   "suppetere" "to be at hand, to suffice"
+   "suppetō, suppetere, suppetīvī, suppetītus" "to be at hand, to suffice"
    
    "surgite" "raise! lift! get up!"
    "surrēxit" "he raised up"
@@ -5665,9 +5714,12 @@
    "ūva, ūvae" "grape"
    "vacuam" "empty, vacant"
    "vacuus, vacua, vacuum" "empty, vacant"
+   
    "vagor, vagārā, vagātus sum" "to wander, to roam"
    "vagāmur" "we wander"
    "vagantur" "they wander"
+   "vagārentur" "they (might) have wandered"
+   
    "vāde" "go!"
    "vādō, vādere, vāsī, -" "to go, to walk"
 
