@@ -522,7 +522,7 @@
                    "sciv.it" "scīvit" "celebr.ate" "celebrāte" "i.te" "īte" "fug.ite" "fugite"
                    "port.ate" "portāte" "antoni.us" "Antōnius" "delic.atis" "dēlicātīs"
                    "infer.as" "īnferās" "inferi.orem" "īnferiōrem" "nobilit.atis" "nōbilitātis"
-                   "carr.orum" "carrōrum"
+                   "carr.orum" "carrōrum" "s.ese" "sēsē"
                    } word) word)]
     word))
 

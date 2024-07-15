@@ -72,6 +72,7 @@
    "Caiphā" "Ablative of Caiphas, a high priest involved with the crucifixion of Christ."
    "candida" "bright, white, clean; singular feminine nominative from candidus, candida, candidum"
    "cantāte" "Sing! Plural imperative from cantāre"
+   "Catamantaloedis" "Catamantaledes (one of the Sequani)"
    "celebrāte" "Celebrate!"
    "cepsitāvit" "he stumbled; singular perfect from cespitō, cespitāre, cespitāvi, cespitas"
    "Chrīstō" "Christ"
@@ -145,6 +146,7 @@
    "exceptō" "except"
    "expectāte" "Await! plural imperative from expectō, expectāre, expectāvī, expectātus"
    "explētis" "You fill; 2nd person plural present from expleō, explēre, explēvī, explētus"
+   "factū" "to be done, supine of facere"
    "ferē" "nearly, almost, about"
    "fīant" "they might do; 3rd person plural subjunctive present from faciō, facere, fēcī, factus"
    "fīnītā" "end; singular feminine ablative of fīnītus, fīnīta, fīnītum"
@@ -401,6 +403,7 @@
    "quibus" "what; plural dative or ablative of qui"
    "quicquid" "whatever"
    "quid" "who; singular neuter nom. or acc. of quis"
+   "quīn" "even, in fact"
    "quīnquāgintā" "fifty"
    "quīntō" "for the fifth time"
    "quis" "who"
@@ -438,6 +441,7 @@
    "reversus" "reversus + est = he returned"
    "rīvulum" "rivulet, small brook"
    "rīvulus, rīvulī" "rivulet, small brook"
+   "rōmānī" "Romans"
    "rubicunditātis" "redness. This word did not appear in any dictionaries I consulted, but the meaning is clear from the context. It appears to be a variant of rubicundus -a -um, meaning red, ruddy, or rubicund."
    "Ryeuall" "Rievaulx, a village about 9 miles from Byland Abbey."
    "saepe" "often"
@@ -477,6 +481,7 @@
    "semper" "always"
    "septem" "seven"
    "septimō" "seventh"
+   "sēsē" "himself"
    "seu" "or, what if"
    "sex" "six"
    "sexta" "sixth"
@@ -3684,6 +3689,7 @@
    "multō" "many"
    "multōs" "many"
    "plūrēs" "more"
+   "plūrimum" "very many"
    "multus, multa -um, -, plūrimus -a -um" "many"
    
    "mundī" "world"
@@ -4234,7 +4240,9 @@
 
    "perficiendum" "completing"
    "perfēcissent" "they (might) have had finished"
+   "perficere" "to finish, to accomplish"
    "perficiō, perficere, perfēcī, perfectus" "to finish, to accomplish"
+   
    "perfīniēbat" "he was completing"
    "perfīnītum" "having been completed"
    "perfīnīvisset" "he (might) have had completed"
@@ -4289,6 +4297,7 @@
    "persevērāssent" "they (might) have had persevered"
    "persevērāvissent" "they (might) have had persevered"
 
+   "persuādet" "he persuades"
    "persuāsit" "he persuaded"
    "persuādēre" "to persuade"
    "persuādeō, persuādēre, persuāsī, persuāsus" "to persuade"
@@ -4386,17 +4395,18 @@
    "pōmum, pōmī" "fruit, grapes"
    "pōmiferīs" "fruit-bearing"
    "pōmifer, pōmifera, pōmiferum" "fruit-bearing"
-
    
    "posuisset" "he (might) have put"
    "posuērunt" "they had put"
    "positam" "having been put"
    "posuit" "he put"
    "pōnō, pōnere, posuī, positus" "to put, to place"
-   
+
+   "populōs" "peoples, populaces"
    "populus" "people, populace"
    "populī" "people, populace"
    "populus, populī" "people, populace"
+   
    "positae" "having been put"
    "posuistī" "you placed"
    "portiō" "share, part, portion"
@@ -4422,7 +4432,8 @@
    "portum" "harbor, port"
    "portus" "harbor, port"
    "portus, portūs" "harbor, port"
-   
+
+   "posse" "to be able"
    "posset" "he (might) have had been able"
    "possent" "they (might) have had been able"
    "possim" "I (might) be able"
@@ -4450,6 +4461,9 @@
    "poteritis" "you will be able to"
    "potest" "he can"
    "potestis" "you can"
+
+   "potentissimōs" "very mighty"
+   "potēns, potentis (gen.), potentior -or -us, potentissimus -a -um" "powerful, mighty"
 
    "potīrī" "to obtain"
    "potior, potiri, potitus sum" "to obtain"
@@ -4542,15 +4556,22 @@
    "prīmus, prīma, prīmum" "first"
    "primitia, primitiae" "first fruits"
    "prīmitiīs" "first fruits"
+
+   "prīncipātum" "sovereignty, empire"
+   "prīncipātus, prīncipātūs" "sovereignty, empire"
+   
    "prīnceps"  "first man, prince"
    "prīncipem" "first man, prince"
    "prīncipī"  "first man, prince"
    "prīncipis" "first man, prince"
+   "prīnceps, prīncipis" "first man, prince"
+   
    "prior" "prior, ahead, previous"
    "prior, prior, prius" "prior, ahead, previous"
    "prīstinī" "previous"
    "prīstinus, prīstina, prīstinum" "previous"
 
+   "probat" "he approves, he commends"
    "probāvimus" "we approved, we commended"
    "probāre" "to approve, to commend, to demonstrate"
    "probō, probāre, probāvī, probātus" "to approve, to commend, to demonstrate"
@@ -4563,6 +4584,9 @@
    "proeliīs" "battles, conflicts"
    "proelium" "battle, conflict"
    "proelium, proeliī" "battle, conflict"
+
+   "profectiōnem" "departure, source"
+   "profectiō, profectiōnis" "departure, source"
    
    "proficīscere" "set out!"
    "profectus" "profectus sum = I set out"
@@ -4803,7 +4827,10 @@
    "regiōnēs" "regions"
    "regiō, regiōnis" "region"
 
+   "rēgna" "kingdoms"
    "rēgnī" "of the kingdom"
+   "rēgnō" "kingdom"
+   "rēgnum" "kingdom"
    "rēgnum, rēgnī" "kingdom"
    
    "regressus" "return"
@@ -4969,6 +4996,10 @@
    "rogus" "funeral pyre, grave"
    "rogus, rogī" "funeral pyre, grave"
 
+   "Rōmānī" "Romans"
+   "Rōmānus" "Roman"
+   "Rōmānus, Rōmānī" "Roman"
+
    "rotantis" "rotating"
    "rotō, rotāre, rotāvī, rotātus" "to rotate"
    
@@ -5117,9 +5148,14 @@
    "sēmitam" "footpath"
    "sēmitās" "footpath"
    "sēmita, sēmitae" "footpath"
+
+   "senātū" "senate"
+   "senātus, senātūs" "senate"
+   
    "senectūs" "old age"
    "senectūte" "old age"
    "senectūs, senectūtis" "old age"
+   
    "senī" "old man"
    "senem" "old man"
    "senex" "old person, elder"
@@ -5127,6 +5163,7 @@
    "seniōrum" "older"
    "seniōrem" "older"
    "senex, senis (gen.), senior -or -us, -" "old"
+   
    "sententia" "opinion, judgement, thought"
    "sententia, sententiae" "opinion, judgement, thought"
    "sentīre" "to sense, to feel"
@@ -5161,6 +5198,7 @@
    "Sēquana, Sēquanae" "The Seine River"
 
    "sēquanīs" "Members of a Gallic tribe"
+   "sēquanō" "Members of a Gallic tribe"
    "sēquanōs" "Members of a Gallic tribe"
    
    "serēnus" "serene"
@@ -5295,6 +5333,11 @@
    "spēluncae" "cave"
    "spēluncās" "cave"
    "spēlunca, spēluncae" "cave"
+
+   "spērant" "they hope, they look forward"
+   "spērāre" "to hope, to look forward"
+   "spērō, spērāre, spērāvī, spērātus" "to hope, to look forward"
+   
    "spēs" "hope"
    "spēs, speī" "hope"
 
@@ -5446,7 +5489,9 @@
    "surgō, surgere, surrēxī, surrēctus" "to rise, to lift"
    
    "suscepta" "having been undertaken"
+   "suscipit" "he undertakes"
    "suscipiō, suscipere, suscēpī, susceptus" "to undertake"
+   
    "suscitāre" "to encourage, to awaken, to stir up"
    "suscitāvīt" "he stirred up, he awakened"
    "suscitō, suscitāre, suscitāvī, suscitātus" "to encourage, to awaken, to stir up"
