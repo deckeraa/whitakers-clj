@@ -572,7 +572,7 @@
         definition (append-character-if-needed definition \;)
         dict-entry (or (macronized-words (:dictionary-entry parsed-word))
                        (:dictionary-entry parsed-word))
-        abbreviate? false]
+        abbreviate? true]
     (if (dictionary-override word)
       (str word ": " (dictionary-override word))
       (case (or (:part-of-speech selected-opt) (:part-of-speech parsed-word))
