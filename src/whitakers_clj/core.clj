@@ -522,7 +522,7 @@
                    "sciv.it" "scīvit" "celebr.ate" "celebrāte" "i.te" "īte" "fug.ite" "fugite"
                    "port.ate" "portāte" "antoni.us" "Antōnius" "delic.atis" "dēlicātīs"
                    "infer.as" "īnferās" "inferi.orem" "īnferiōrem" "nobilit.atis" "nōbilitātis"
-                   "carr.orum" "carrōrum" "s.ese" "sēsē"
+                   "carr.orum" "carrōrum" "s.ese" "sēsē" "lac.us" "lacus"
                    } word) word)]
     word))
 
@@ -572,7 +572,7 @@
         definition (append-character-if-needed definition \;)
         dict-entry (or (macronized-words (:dictionary-entry parsed-word))
                        (:dictionary-entry parsed-word))
-        abbreviate? true]
+        abbreviate? false]
     (if (dictionary-override word)
       (str word ": " (dictionary-override word))
       (case (or (:part-of-speech selected-opt) (:part-of-speech parsed-word))

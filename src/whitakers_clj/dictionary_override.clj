@@ -115,6 +115,7 @@
    "diūtius" "for a longer time"
    "dōnec" "while, as long as, until"
    "dum" "while, as long as, until"
+   "dumnorix" "Dumnorix, an Aeduan, the brother of Divitiacus"
    "dumtaxat" "only"
    "duo" "two"
    "duodecim" "two"
@@ -173,6 +174,8 @@
    "grȳphum" "griffin (accusative case), a lion-eagle hybrid; from grȳphus, grȳphī"
    "grȳphus" "griffin, a lion-eagle hybrid; from grȳphus, grȳphī"
    "Grȳphus" "griffin, a lion-eagle hybrid; from grȳphus, grȳphī"
+   "Haeduō" "a region in Gallia"
+   "haeduō" "a region in Gallia"
    "herī" "yesterday"
    "Hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
    "hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
@@ -279,6 +282,8 @@
    "lātē" "widely; adverb from lātus, -a, -um"
    "Latobrigīs" "Latobrigi, neighbors to the Helvetii"
    "Lemanno" "Lake Geneva"
+   "Lemannus" "Lake Geneva"
+   "lemannus" "Lake Geneva"
    "Leviathan" "Leviathan, a sea monster mentioned in Job 40:25."
    "leviathan" "Leviathan, a sea monster mentioned in Job 40:25."
    "licet" "allow"
@@ -1450,9 +1455,6 @@
    "coagulātum" "having been coagulated"
    "coagulō, coagulāre, coagulāvī, coagulātus" "to coagulate, to curdle"
 
-   "coemere" "to buy"
-   "coemō, coemere, coēmī, coēmptus" "to buy"
-   
    "coepērunt" "they started"
    "coepimus" "we started"
    "coepisset" "he (might) have started"
@@ -1503,6 +1505,10 @@
    "comedendum" "eating"
    "comedere" "to eat up"
    "comedō, comedere, comēdī, comēsum" "to eat up"
+
+   "coēmērunt" "they bought"
+   "coemere" "to buy"
+   "coemō, coemere, coēmī, coēmptus" "to buy"
 
    "commeant" "they communicate, they come and go"
    "commeō, commeāre, commeāvī, commeātus" "to communicate, to come and go"
@@ -1946,7 +1952,9 @@
    
    "difficillimum" "very difficult"
    "difficilius" "difficult"
+   "difficilis" "difficult"
    "difficilis, difficile, difficilior -or -us, difficillimus -a -um" "difficult"
+   
    "digitus" "finger, toe, digit"
    "digitī"  "finger, toe, digit"
    "digitus, digitī" "finger, toe, digit"
@@ -2524,6 +2532,7 @@
    "fōrmula" "shape, formula"
    "fōrmula, fōrmulae" "shape, formula"
 
+   "fortēs" "strong"
    "fortiōrēs" "stronger"
    "fortis" "strong"
    "fortis, forte, fortior -or -us, fortissimus -a -um" "strong"
@@ -2586,6 +2595,7 @@
    "frūctus, frūctūs" "fruit"
 
    "frūmentī" "corn, grain"
+   "frūmentum" "corn, grain"
    "frūmentum, frūmentī" "corn, grain"
    
    "fuerat" "he had been"
@@ -3188,6 +3198,7 @@
    "iūnctam" "connected, joined"
    "iūnctās" "connected, joined"
    "iungat" "he (might) join"
+   "iungeret" "he (might) have joined"
    "iungī" "to be joined"
    "iungō, iungere, iūnxī, iūnctus" "to join"
    
@@ -3698,6 +3709,7 @@
    
    "multa" "many"
    "multae" "many"
+   "multam" "many"
    "multum" "many"
    "multārum" "many"
    "multās" "many"
@@ -4235,6 +4247,10 @@
 
    "perceptō" "having been perceived, having been learned, having been secured"
    "percipiō, percipere, percēpī, perceptus" "to perceive, to learn, to secure"
+
+   "pecūnia"  "money"
+   "pecūniam" "money"
+   "pecūnia, pecūniae" "money"
    
    "percutiēbat" "he was hitting"
    "percutiēbant" "they were hitting"
@@ -4459,8 +4475,14 @@
    "possum" "I am able"
    "possum, posse, potuī, -" "to be able (irregular)"
    "possumus" "we are able to"
+   "potuērunt" "they were able to"
    "potuimus" "we were able"
    "potuissēmus" "we might have had been able to"
+   "potuī" "I was able"
+   "potuit" "he was able"
+   "potuisset" "he (might) have had been able"
+   "potuissent" "they (might) have had been able"
+   "potuistī" "you were able"
 
    "posteriōrēs" "following, next"
    "posteriōrem" "following, next"
@@ -4485,12 +4507,6 @@
    "potīrī" "to obtain"
    "potior, potiri, potitus sum" "to obtain"
    
-   "potuī" "I was able"
-   "potuit" "he was able"
-   "potuērunt" "they were able"
-   "potuisset" "he (might) have had been able"
-   "potuissent" "they (might) have had been able"
-   "potuistī" "you were able"
    "pōtus" "drink, drinking"
    "pōtūs" "drink, drinking"
    "pōtus, pōtūs" "drink, drinking"
@@ -4849,6 +4865,10 @@
    "rēgnō" "kingdom"
    "rēgnum" "kingdom"
    "rēgnum, rēgnī" "kingdom"
+
+   "rēgnābat" "he was reigning"
+   "rēgnāre" "to reign"
+   "rēgnō, rēgnāre, rēgnāvī, rēgnātus" "to reign"
    
    "regressus" "return"
    "regressus, regressūs" "return"
@@ -4966,6 +4986,7 @@
    "revertō, revertere, revertī, reversum" "to return"
    
    "rēgī" "king"
+   "rēx" "king"
    "rēx, rēgis" "king"
 
    "Rhēnī"  "The Rhine"
@@ -5015,6 +5036,7 @@
 
    "Rōmānī" "Romans"
    "Rōmānus" "Roman"
+   "rōmānus" "Roman"
    "Rōmānus, Rōmānī" "Roman"
 
    "rotantis" "rotating"
@@ -5160,6 +5182,10 @@
 
    "sēmentēs" "sowing, planting"
    "sēmentis, sēmentis" "sowing, planting"
+
+   "sēmināvērunt" "they planted, they sowed"
+   "sēmināre" "to plant, to sow"
+   "sēminō, sēmināre, sēmināvī, sēminātus" "to plant, to sow"
    
    "sēmita" "footpath"
    "sēmitam" "footpath"
@@ -5167,6 +5193,7 @@
    "sēmita, sēmitae" "footpath"
 
    "senātū" "senate"
+   "senātus" "senate"
    "senātus, senātūs" "senate"
    
    "senectūs" "old age"
@@ -5672,6 +5699,7 @@
    "tonitruum" "thunder"
    "tonitruum, tonitruī" "thunder"
    "trēs" "three"
+   "tertiō" "third"
    "trēs -es -ia, tertius -a -um, terni -ae -a, ter" "third"
    "tribus" "three"
    "tribuam" "I will assign"
@@ -5973,6 +6001,7 @@
    
    "vīvēbam" "I was living"
    "vīvēbat" "he was living"
+   "vīvēbant" "they were living"
    "vīvere" "to live"
    "vīvit" "he lives"
    "vīvunt" "they live"
