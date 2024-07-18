@@ -3338,6 +3338,9 @@
    "lassitūdine" "faintness, weariness, exhaustion"
    "lassitūdō, lassitūdinis" "faintness, weariness, exhaustion"
 
+   "latet" "he lies hidden, he lurks"
+   "lateō, latēre, latuī, -" "to lie hidden, to lurk"
+
    "lātitūdinem" "breadth, width, latitude"
    "lātitūdinis" "breadth, width, latitude"
    "lātitūdō" "breadth, width, latitude"
@@ -3370,6 +3373,10 @@
    "lavāre" "to wash"
    "lavō, lavāre, lāvī, lautus" "to wash"
    "laxāte" "loosen! relax!"
+
+   "lēctor" "reader"
+   "lēctor, lēctōris" "reader"
+   
    "lectus, lectī" "bed, coach"
    "lectula" "bed, coach"
    "lectula, lectulae" "bed, coach"
@@ -3380,6 +3387,7 @@
    "lēgātiō, lēgātiōnis" "legate, embassy"
 
    "legēbantur" "they were being read"
+   "legendum" "reading"
    "lēgistī" "you read"
    "lēgī" "I read"
    "legō, legere, lēgī, lēctus" "to read"
@@ -3494,6 +3502,7 @@
    "magnitudinem" "magnitude, greatness"
    "magnitūdinis" "magnitude, greatness"
    "magnitūdō, magnitūdinis" "magnitude, greatness"
+   "maxima" "biggest"
    "maximās" "biggest"
    "maximum" "biggest"
    "māgnus, māgna -um, major -or -us, maximus -a -um" "large"
@@ -3557,6 +3566,9 @@
    
    "māter" "mother"
    "māter, mātris" "mother"
+
+   "māteriēs" "material, substance"
+   "māteriēs, māteriēī" "material, substance"
 
    "mātrimōnium" "marriage"
    "mātrimōnium, mātrimōniī" "marriage"
@@ -3685,8 +3697,11 @@
    "mīssisset" "he (might) have had thrown"
    "missus" "throwing"
    "missus, missūs" "throwing"
-   "mittō, mittere, mīsī, missus" "to send"
+   
+   "mittō" "I send"
    "mittuntur" "they are being sent"
+   "mittō, mittere, mīsī, missus" "to send"
+   
    "minuitur" "to be diminished"
    "minuō, minuere, minuī, minūtus" "to be diminished"
 
@@ -3782,6 +3797,11 @@
    "mūrus, mūrī" "city wall"
    "mustō" "must (new wine)"
    "mustum, mustī" "must (new wine)"
+
+   "mystēria" "mysteries"
+   "mystērium" "mystery"
+   "mystērium, mystēriī" "mystery"
+   
    "nārēs" "noses, nostrils"
    "nāris, nāris" "nose, nostril"
    "nāribus" "nostrils"
@@ -3873,7 +3893,7 @@
    "nescīmus" "we do not know"
    "nescīvit" "he didn't know"
    "nesciō, nescīre, nescīvī, nescītus" "to not know"
-   
+
    "niveō" "snowy white"
    "niveus, nivea, niveum" "snowy white"
    "nix" "snow"
@@ -3916,17 +3936,24 @@
    "nōnāgēnāriīs" "ninety years"
    "nōnāgēnārius" "ninety years old"
    "nōnāgīnta, nōnāgēsīmus -a -um, nōnāgeni -ae -a, nonagie (n)s" "ninety years old"
+
+   "notanda" "writing, observing"
+   "notō, notāre, notāvī, notātus" "to write, to observe"
    
    "novissimō"  "very new, very inexperienced"
    "novissimum" "very new, very inexperienced"
    "novīs" "new, inexperienced"
    "novum" "new, inexperienced"
    "novus, nova -um, novior -or -us, novissimus -a -um" "new, inexperienced"
+
+   "novitātis" "novelty"
+   "novitās, novitātis" "novelty"
+   
    "nōvistī" "you learned"
    "nōvimus" "we learned"
    "nōscō, nōscere, nōvī, nōtus" "to learn"
-   "noctibus" "nights"
    
+   "noctibus" "nights"
    "nox" "night"
    "nox, noctis" "night"
    "nūbēs" "cloud"
@@ -3938,6 +3965,10 @@
    "nūda" "naked"
    "nūdus" "naked"
    "nūdus, nūda, nūdum" "naked"
+
+   "nūgīs" "jokes, trifles"
+   "nūga, nūgae" "joke, trifle"
+   
    "nūlla" "no, none, not any"
    "nūllam" "no, none, not any"
    "nūllī" "no, none, not any"
