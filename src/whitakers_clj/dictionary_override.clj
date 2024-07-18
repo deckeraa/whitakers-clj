@@ -5636,23 +5636,32 @@
    "summitāte" "summit, top"
    "summō" "highest, greatest"
    "summus, summa, summum" "highest, greatest"
+   
    "sūme" "take up!"
    "sūmite" "take up!"
    "sūmere" "to take up"
    "sūmpsit" "he took up"
    "sūmpsērunt" "they took up"
+   "sūmptō" "having been taken up"
    "sūmō, sūmere, sūmpsī, sūmptus" "to take up"
+   
    "sumus" "we are"
    "sunt" "they are"
    
    "superat" "he overcomes"
    "superāvisset" "he (might) have overcome"
    "superō, superāre, superāvī, superātus" "to overcome"
+
+   "superficiēs" "top, surface"
+   "superficiēs, superficiēī" "top, surface"
+   
    "supersum, superesse, superfuī, superfutūrus" "to be left over, to remain, to survive"
    "supersunt" "they are left over, they remain"
+   
    "supervēnerit" "you will have overcome"
    "supervēnerant" "they had overcame"
    "superveniō, supervenīre, supervēnī, superventus" "to overcome"
+   
    "supellē̆ctilī" "furnishings"
    "supellē̆x, supellē̆ctilis" "furnishings"
 
@@ -5667,6 +5676,7 @@
    "surgō, surgere, surrēxī, surrēctus" "to rise, to lift"
    
    "suscepta" "having been undertaken"
+   "suscipe" "undertake!"
    "suscipit" "he undertakes"
    "suscipiō, suscipere, suscēpī, susceptus" "to undertake"
    
@@ -5737,6 +5747,7 @@
    "tenebrōsus" "dark"
    "tenebrōsus, tenebrōsa, tenebrōsum" "dark"
 
+   "tenebrae" "darkness"
    "tenebrārum" "of darkness"
    "tenebrae, tenebrārum" "darkness"
    
@@ -5947,6 +5958,7 @@
    "vāde" "go!"
    "vādō, vādere, vāsī, -" "to go, to walk"
 
+   "variō"  "various, diverse"
    "variīs" "various, diverse"
    "varius, varia, varium" "various, diverse"
    
@@ -5994,10 +6006,13 @@
    "vērāx, vērācis (gen.), vērācior -or -us, vērācissimus -a -um" "true"
    "verberibus" "lashes, whips, rods"
    "verber, verberis" "lash, whip, rod"
+   
+   "verba" "word"
    "verbī" "word"
    "verbīs" "words"
    "verbum" "word"
    "verbum, verbī" "word"
+   
    "vēritās, vēritātis" "truth"
    "vēritātī" "truth"
    "versibus" "verses, poetic lines"
@@ -6007,6 +6022,11 @@
    "versum" "verse, poetic line"
    "versus" "verse, poetic line"
    "versus, versūs" "verse, poetic line"
+
+   "vertitur" "he is turned"
+   "vertere" "to turn, to change"
+   "vertō, vertere, vertī, versus" "to turn, to change"
+   
    "verticem" "head, top, peak"
    "vertex, verticis" "head, top, peak"
    "vērum" "true"
@@ -6032,6 +6052,12 @@
    "vestis, vestis" "clothing"
    "vestītur" "it is worn"
    "vestiō, vestīre, vestīvī, vestītus" "to clothe"
+
+   "vetet" "he (might) reject"
+   "vetō, vetāre, vetuī, vetitus" "to forbid, to reject"
+
+   "veteris" "old"
+   "vetus, vetus, vetus" "old"
    
    "vexentur" "they (might) be vexing"
    "vexātōrum" "having been vexed"
@@ -6057,6 +6083,7 @@
    "victus, victūs" "victuals, nourishment, necessaries of life"
    
    "vidē" "look!"
+   "videātur" "he (might) appear"
    "vidēbātur" "he were appearing"
    "vidēbantur" "they were appearing"
    "videntibus" "looking"
@@ -6093,6 +6120,10 @@
    "vigilābant" "they were watching, they were alert"
    "vigilō" "I am awake, I watch"
    "vigilō, vigilāre, vigilāvī, vigilātum" "to be awake, to watch for"
+
+   "vīlī" "cheap, worthless"
+   "vīlis, vīlis, vīle" "cheap, worthless"
+   
    "violet" "he (might) violate"
    "violō, violāre, violāvī, violātus" "to violate"
    "virentibus" "green"
