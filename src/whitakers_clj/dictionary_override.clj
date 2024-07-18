@@ -694,6 +694,7 @@
    
    "admīrāminī" "admire!"
    "admīrāmur" "we admire"
+   "admīror" "to admire"
    "admīror, admīrārī, admīrātus sum" "to admire"
 
    "adscīscunt" "they admit, approve, associate"
@@ -752,6 +753,7 @@
    "āgnōvit" "he recognized, he realized"
 
    "ager" "field"
+   "agrīs" "fields"
    "agrum" "field"
    "ager, agrī" "field"
    
@@ -976,6 +978,10 @@
    "aquītānia"  "Aquitaniae, a province in western France"
    "Aquītāniae" "Aquitaniae, a province in western France"
    "Aquītānia, Aquītāniae" "Aquitaniae, a province in western France"
+
+   "arāta" "having been plowed, having been cultivated"
+   "arāre" "to plow, to cultivate"
+   "arō, arāre, arāvī, arātus" "to plow, to cultivate"
    
    "arbor" "tree"
    "arboris" "tree"
@@ -1198,6 +1204,10 @@
    "brachium, brachiī" "arm"
    "Brendānō" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
+
+   "brevitās" "shortness, narrowness"
+   "brevitās, brevitātis" "shortness, narrowness"
+   
    "būtȳrum" "butter"
    "būtȳrō" "butter"
    "būtȳrum, būtȳrī" "butter"
@@ -1320,13 +1330,17 @@
    "carnis" "meat, flesh"
    "carō, carnis" "meat, flesh"
 
+   "carpere" "to pluck, to pick"
+   "carpō, carpere, carpsī, carptus" "to pluck, to pick"
+
    "carrōrum" "of four-wheeled wagons"
    "carrus, carrī" "four-wheeled wagon"
    
    "caudam" "tail"
    "cauda, caudae" "tail"
 
-   "causa" "cause, reason"
+   "causa"  "cause, reason"
+   "causae" "cause, reason"
    "causam" "cause, reason"
    "causa, causae" "cause, reason"
       
@@ -1365,6 +1379,10 @@
    "cēnam" "dinner"
    "cēna, cēnae" "dinner"
    "centum" "hundred"
+
+   "cernitur" "it is discerned"
+   "cernō, cernere, crēvī, crētus" "to sift, to see, to discern, to decide"
+   
    "certāmine" "contest, struggle"
    "certāmen, certāminis" "contest, struggle"
 
@@ -1447,6 +1465,11 @@
    "clārus, clāra -um, clārior -or -us, clārissimus -a -um" "clear, bright, famous"
    "classe" "ship, fleet"
    "classis, classis" "ship, fleet"
+
+   "claudit" "he closes"
+   "claudere" "to close"
+   "claudō, claudere, clausī, clausus" "to close"
+   
    "clēmentia, clēmentiae" "mercy, clemency"
    "clēmentiae" "mercies"
    "clībanō" "earthenware, iron vessels"
@@ -1808,6 +1831,7 @@
    "dēbēmus" "we should, we aught"
    "dēbeō" "I should"
    "dēbēs" "you should"
+   "dēbet" "he should"
    "dēbētis" "you should"
    "dēbeō, dēbēre, dēbuī, dēbitus" "to owe, to ought"
    
@@ -2000,6 +2024,10 @@
    "discumbō, discumbere, discubuī, discubitus" "to recline at table, to lie down"
    "discurrō, discurrere, discurrī, discursus" "to run around"
    "discurrentēs" "running around"
+
+   "diserta" "skilled in speaking"
+   "disertus, diserta, disertum" "skilled in speaking"
+   
    "dīversae" "diverse"
    "dīversa" "diverse"
    "dīversārum" "diverse"
@@ -2050,6 +2078,9 @@
    "dabat" "he was giving"
    "dabit" "he will give"
    "dō, dare, dedī, datum" "to give (irregular)"
+
+   "doctrīnae" "doctrine, teaching, instruction"
+   "doctrīna, doctrīnae" "doctrine, teaching, instruction"
 
    "dolor" "pain, sorrow"
    "dolōre" "pain, sorrow"
@@ -2228,6 +2259,9 @@
    "excipiō, excipere, excēpī, exceptus" "to take out, to receive, to ward off"
    "excitātur" "he is being raised up"
    "excitō, excitāre, excitāvī, excitātus" "to wake up, to stir up, to raise, to excite"
+
+   "exemplum" "sample, model, copy"
+   "exemplum, exemplī" "sample, model, copy"
 
    "exercitū" "army"
    "exercitus" "army"
@@ -2758,7 +2792,6 @@
    "habēre" "to have"
    "habeō, habēre, habuī, habitus" "to have"
 
-
    "habitābam" "I was living"
    "habitantium" "inhabiting"
    "habitāre" "to inhabit"
@@ -2823,6 +2856,9 @@
    "hispidum" "rough, shaggy"
    "hispidus" "rough, shaggy"
    "hispidus, hispida, hispidum" "rough, shaggy"
+
+   "historiae" "history, story"
+   "historia, historiae" "history, story"
 
    "hominem" "person"
    "hominēs" "persons"
@@ -3024,6 +3060,7 @@
    "ineffābilis" "ineffable"
    "ineffābilis, ineffābilis, ineffābile" "ineffable"
 
+   "inepta"  "inept, senseless"
    "ineptīs" "inept, senseless"
    "ineptus, inepta, ineptum" "inept, senseless"
    
@@ -3083,8 +3120,12 @@
    "innumerābilis, innumerābilis, innumerābile" "countless"
    "īnsertā" "insert! introduce!"
    "īnsertō, īnsertāre, īnsertāvī, īnsertātus" "to insert, to introduce"
+   
    "īnsinuābat" "he was insinuating, he was pushing in"
    "īnsinuō, īnsinuāre, īnsinuāvī, īnsinuātus" "to push in, to insinuate"
+
+   "īnsita" "planted"
+   "īnsitus, īnsita, īnsitum" "planted"
 
    "īnstitūta"  "customs, principles, institutions"
    "īnstitūtum" "custom, principle, institution"
@@ -3262,22 +3303,32 @@
    "laetī" "happy"
    "laetus" "happy"
    "laetus, laeta -um, laetior -or -us, laetissimus -a -um" "happy"
-   "lampadēs" "lamps"
-   "lampas, lampadis" "lamp"
-   "lampadibus" "lamps"
-   "languor" "faintness, languor, feebleness"
-   "languor, languōris" "faintness, languor, feebleness"
-   "lapidēs" "stones"
-   "lapidis" "stone"
-   "lapis, lapidis" "stone"
-   "lāpsum" "fall, slipping"
-   "lāpsus" "fall, slipping"
-   "lāpsus, lāpsūs" "fall, slipping"
-   "largissimās" "very large"
+
    "laetitia" "joy, gladness, fruitfulness"
    "laetitiam" "joy, gladness, fruitfulness"
    "laetitia, laetitiae" "joy, gladness, fruitfulness"
    "laetitiae" "joy, gladness, fruitfulness"
+   
+   "lampadēs" "lamps"
+   "lampas, lampadis" "lamp"
+   "lampadibus" "lamps"
+   
+   "languor" "faintness, languor, feebleness"
+   "languor, languōris" "faintness, languor, feebleness"
+   
+   "lapidēs" "stones"
+   "lapidis" "stone"
+   "lapis, lapidis" "stone"
+
+   "lāpsā" "slip! fall!"
+   "lāpsō, lāpsāre, lāpsāvī, lāpsātus" "to slip, to fall"
+   
+   "lāpsum" "fall, slipping"
+   "lāpsus" "fall, slipping"
+   "lāpsus, lāpsūs" "fall, slipping"
+   
+   "largissimās" "very large"
+
 
    "lascīvus, lascīva, lascīvum" "playful, lustful, lascivious"
 
