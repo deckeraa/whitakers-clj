@@ -4071,6 +4071,8 @@
    "officium, officiī" "duty, service, favor"
    "ōlla" "pot, jar"
    "ōlla, ōllae" "pot, jar"
+   
+   "omne"  "all, every"
    "omnem" "all, every"
    "omnen" "all, every"
    "omnēs" "all, every"
@@ -4272,6 +4274,9 @@
    "patrōcinium, patrōciniī" "protection"
    "patulae" "wide, spread out, open"
    "patulus, patula, patulum" "wide, spread out, open"
+
+   "pauca" "few, little"
+   "paucus, pauca, paucum" "few, little"
    
    "pāce" "peace"
    "pācem" "peace"
@@ -4579,6 +4584,7 @@
    "postulō, postulāre, postulāvī, postulātus" "to ask for"
    "poterat" "he was able to"
    "poterant" "they were able to"
+   "poterit" "he will be able to"
    "poteritis" "you will be able to"
    "potest" "he can"
    "potestis" "you can"
@@ -4663,6 +4669,7 @@
    "pretiō" "price"
    "pretium, pretiī" "price"
 
+   "pretiōsa" "precious"
    "pretiōsī" "precious"
    "pretiōsus, pretiōsa -um, pretiōsior -or -us, pretiōsissimus -a -um" "precious"
    
@@ -4728,6 +4735,10 @@
    "prophētia"  "prophet"
    "prophētiae" "prophet"
    "prophētia, prophētiae" "prophet"
+
+   "propīnat" "he hands over, he drinks to"
+   "propīnāre" "to hand over, to drink to"
+   
    "prōposuit" "he displayed, he proposed"
    "prōposuī" "I displayed, I proposed"
    "prōpōnō, prōpōnere, prōposuī, prōpositus" "he displayed, he proposed"
@@ -5039,6 +5050,8 @@
    "resurrēctiōnis" "resurrection"
    "resurrēctiōnem" "resurrection"
    "resurrēctiō, resurrēctiōnis" "resurrection"
+
+   "retinenda" "retaining"
    "retinēbant" "they were holding back, they were retaining"
    "retineō, retinēre, retinuī, retentus" "they were holding back, they were retaining"
 
@@ -5066,6 +5079,9 @@
    "revertētis" "you will return"
    "revertite" "return!"
    "revertō, revertere, revertī, reversum" "to return"
+
+   "revolvō" "I turn over, I repeat"
+   "revolvō, revolvere, revolvī, revolūtus" "to turn over, to repeat"
    
    "rēgī" "king"
    "rēx" "king"
@@ -5130,13 +5146,20 @@
    
    "rubricātīs" "red, reddened"
    "rubricātus, rubricāta, rubricātum" "red, reddened"
+   
    "rubus" "thorn bush"
    "rubum" "thorn bush"
    "rubus, rubī" "thorn bush"
+
+   "rudis" "small stick, rod"
+   "rudis, rudis" "small stick, rod"
+   
    "ruīna" "collapse, ruin, destruction"
    "ruīna, ruīnae" "collapse, ruin, destruction"
+   
    "rūsticam" "rural"
    "rūsticus, rūstica, rūsticum" "rural"
+   
    "sabbatum" "Sabbath"
    "sabbatī" "Sabbath"
    "sabbatō" "Sabbath"
@@ -5189,6 +5212,14 @@
    "sanguis, sanguinis" "blood"
    "sānōs" "healthy, sound"
    "sānus, sāna, sānum" "healthy, sound"
+
+   "sapidō" "tasty"
+   "sapidus, sapida, sapidum" "tasty"
+
+   "sapiēns" "wise"
+   "sapiente" "wise"
+   "sapiēns, sapientis (gen.), sapientior -or -us, sapientissimus -a -um" "wise"
+   
    "sapor" "taste"
    "sapor, sapōris" "taste"
    "sapōrem" "taste"
@@ -5225,8 +5256,12 @@
    "scōria" "slag"
    "scōria, scōriae" "slag"
 
+   "scrīpta" "texts, books"
    "scrīptum" "text, writing, book, letter"
    "scrīptum, scrīptī" "text, writing, book, letter"
+
+   "scrīptūra" "writing, book, composition"
+   "scrīptūra, scrīptūrae" "writing, book, composition"
    
    "scurrīlitās" "buffoonery"
    "scurrīlitās, scurrīlitātis" "buffoonery"
@@ -5289,6 +5324,10 @@
    "seniōrum" "older"
    "seniōrem" "older"
    "senex, senis (gen.), senior -or -us, -" "old"
+
+   "sēnsibus" "perception, sense"
+   "sēnsus"   "perception, sense"
+   "sēnsus, sēnsūs" "perception, sense"
    
    "sententia" "opinion, judgement, thought"
    "sententia, sententiae" "opinion, judgement, thought"
@@ -5326,11 +5365,12 @@
    "sēquanīs" "Members of a Gallic tribe"
    "sēquanō" "Members of a Gallic tribe"
    "sēquanōs" "Members of a Gallic tribe"
-   
+
+   "serēna"  "serene"
    "serēnus" "serene"
    "serēnum" "serene"
    "serēnus, serēna, serēnum" "serene"
-   
+
    "sermōne" "conversation, speech"
    "sermō, sermōnis" "conversation, speech"
    "sermōnibus" "conversation, speech"
@@ -5423,6 +5463,7 @@
    "somnus, somnī" "sleep"
    
    "sonābant" "they were making sounds"
+   "sonant" "they make a sound"
    "sonitus" "sound"
    "sonitūs" "sound"
    "sonitum" "sound"
@@ -5529,13 +5570,24 @@
    "strepitantibus" "making a harsh noise"
    "strepitus" "din, noise, clashing, sound"
    "strepitus, strepitūs" "din, noise, clashing, sound"
+
+   "studiīs" "studies, fondness, desire"
+   "studium, studiī" "study, fondness, desire"
+
+   "studiōsus" "eager, studious"
+   "studiōsus, studiōsa -um, studiōsior -or -us, studiōsissimus -a -um" "eager, studious"
    
    "stultitiam" "folly"
    "stultitia, stultitiae" "folly"
-   
+
+   "stultō" "foolish, stupid"
    "stultum" "foolish, stupid"
    "stultus" "foolish, stupid"
    "stultus, stulta, stultum" "foolish, stupid"
+
+   "stylō" "stylus, stake"
+   "stylus, stylī" "stylus, stake"
+   
    "suādentem" "persuading"
    "suādeō, suādēre, suāsī, suāsus" "to persuade"
    "suāvissimum" "very sweet"
