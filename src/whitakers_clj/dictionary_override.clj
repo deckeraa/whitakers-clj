@@ -155,8 +155,10 @@
    "fīnītīs" "end; plural dative or ablative of fīnītus, fīnīta, fīnītum"
    "fīnītō" "end; singular dative or ablative of fīnītus, fīnīta, fīnītum"
    "forās" "outside (adverb)"
+   "foret" "he (might) have been; subjunctive imperfect from esse"
    "forīs" "outside (adverb)"
    "frēnum" "bridal; ornamental necklace"
+   "fuerint" "they will have been; 3rd person plural future perfect from esse"
    "fūrtim" "secret, stealthily"
    "Garumna"  "The Garonne, a river running in modern-day France and Spain"
    "Garumnam" "The Garonne, a river running in modern-day France and Spain"
@@ -350,6 +352,7 @@
    "numquam" "never"
    "numquid" "is it possible?"
    "nunc" "now"
+   "nūper" "recently"
    "obviam" "in the path"
    "octāvīs" "octaves, 8th"
    "octāvās" "octaves, 8th"
@@ -366,6 +369,7 @@
    "oriundus" "oriundus + est = was descended from"
    "paene" "almost"
    "parce" "Pardon! Forgive! Singular imperative from parcō, parcere, pepercī, parsum"
+   "parem" "equal, sing. masc. or fem. acc. from pār"
    "pārentēs" "parents"
    "pārentibus" "parents (ablative or dative case)"
    "parumper" "briefly"
@@ -411,7 +415,6 @@
    "quem" "what, singular masculine accusative of qui"
    "quī" "who; plural masculine nominative of quis"
    "quibus" "what; plural dative or ablative of qui"
-   "quicquid" "whatever"
    "quid" "who; singular neuter nom. or acc. of quis"
    "quīn" "even, in fact"
    "quīnquāgintā" "fifty"
@@ -430,6 +433,7 @@
    "quaerō, quaerere, quaesīvī, quaesītus" "to seek"
    "quāliter" "what kind?"
    "quandō" "when, because"
+   "quandōque" "whenever"
    "quantōcius" "the sooner the better (adverb)"
    "quantum" "how much?"
    "quantus" "how much?"
@@ -437,8 +441,10 @@
    "quasi" "as if, like, as much as"
    "quattuordecim" "14"
    "quia" "because"
+   "quicquid" "whatever"
    "quippe" "surely, indeed, the thing is"
    "quōdam" "a certain one; ablative from quīdam"
+   "quondam" "sometimes"
    "Rauracīs" "Rauraci, neighbors to the Helvetii"
    "recordare" "remember! Singular imperative of recordārī"
    "recordātus" "rememberance, recollection"
@@ -456,6 +462,7 @@
    "rubicunditātis" "redness. This word did not appear in any dictionaries I consulted, but the meaning is clear from the context. It appears to be a variant of rubicundus -a -um, meaning red, ruddy, or rubicund."
    "Ryeuall" "Rievaulx, a village about 9 miles from Byland Abbey."
    "saepe" "often"
+   "saepius" "more often"
    "sanctificāte" "Sanctify! Plural imperative of sanctificō, sanctificāre, sanctificāvī, sanctificātus"
    "sāncta" "holy, saint"
    "sānctus" "holy, saint"
@@ -1021,6 +1028,9 @@
    "arripuit" "he took hold of, he snatched"
    "arripiō, arripere, arripuī, arreptus" "to take hold of, to snatch, to arrest"
 
+   "artis" "of art"
+   "ars, artis" "art, skill"
+   
    "arūrae" "square fields of 100 cubits"
    "arūra, arūrae" "a square field of 100 cubits"
    
@@ -1041,6 +1051,13 @@
    "ascendērunt" "they had ascended"
    "ascensum" "ascent"
    "ascensus, ascensūs" "ascent"
+
+   "asellus" "small ass"
+   "asellus, asellī" "small ass"
+
+   "asinō" "ass"
+   "asinus" "ass"
+   "asinus, asinī" "ass"
 
    "aspēxērunt" "they looked at"
    "aspēxissent" "they (might) have had looked at"
@@ -1074,13 +1091,15 @@
    "audiō, audīre, audīvī, audītum" "to hear"
    "abstulisset" "he (might) have carried away"
    "auferō, auferre, abstulī, ablātus" "to carry away, to remove"
-   "auris, auris" "ear"
 
    "aula" "court"
    "aulam" "court"
    "aula, aulae" "court"
    
    "aurēs" "ears"
+   "auribus" "ears"
+   "auris, auris" "ear"
+   
    "aurōra" "dawn, sunrise"
    "aurōra, aurōrae" "dawn, sunrise"
 
@@ -1206,6 +1225,7 @@
    "Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
 
    "brevitās" "shortness, narrowness"
+   "brevitāte" "shortness, narrowness"
    "brevitās, brevitātis" "shortness, narrowness"
    
    "būtȳrum" "butter"
@@ -1335,7 +1355,8 @@
 
    "carrōrum" "of four-wheeled wagons"
    "carrus, carrī" "four-wheeled wagon"
-   
+
+   "cauda" "tail"
    "caudam" "tail"
    "cauda, caudae" "tail"
 
@@ -1586,6 +1607,7 @@
    "condō, condere, condidī, conditus" "to build, to found"
    
    "cōnferentēs" "conferencing, talking, meeting"
+   "cōnferre" "to conference, to talk, to meet"
    "cōnferō, cōnferre, contulī, collātus" "to conference, to talk, to meet"
 
    "cōnficiendās" "completing"
@@ -1652,6 +1674,9 @@
 
    "cōnsulibus" "consuls"
    "cōnsul, cōnsulis" "consul"
+
+   "cōnsuluit" "he consulted"
+   "cōnsulō, cōnsulere, cōnsuluī, cōnsultus" "to consult"
    
    "cōnsummātīs" "being accomplished, being ended"
    "cōnsummō, cōnsummāre, cōnsummāvī, cōnsummātus" "to accomplish, to end, to consume"
@@ -2111,8 +2136,9 @@
    "domus" "house"
    "domūs" "house"
    "domus, domūs" "house"
-   
+
    "dōnāvit" "he gave"
+   "dōnātus" "having been given"
    "dōnō, dōnāre, dōnāvī, dōnātus" "to give"
    "dōnīs" "gifts"
    "dōnum, dōnī" "gift"
@@ -2497,6 +2523,7 @@
    
    ;;   "fīnītus, fīnīta, fīnītum"
    "fīēbant" "they were done"
+   "fierī" "to happen, to occur"
    "fīō, fierī, factus sum" "to happen, to occur"
    "firmāmentī" "strengthening, support"
    "firmāmentum, firmāmentī" "strengthening, support"
@@ -2955,12 +2982,16 @@
    "illicitus, illicita, illicitum" "unallowed"
    "illūcēsceret" "it (might) have begun to dawn"
    "illūcēscō, illūcēscere, illūxī, -" "to begin to dawn"
+   
    "immaculātam" "unblemished, immaculate"
    "immaculātum" "unblemished, immaculate"
    "immaculātus, immaculāta, immaculātum" "unblemished, immaculate"
+   
    "immēnsae" "immense, boundless"
-   "immēnsa" "immense, boundless"
+   "immēnsa"  "immense, boundless"
+   "immēnsīs" "immense, boundless"
    "immēnsus, immēnsa, immēnsum" "immense, boundless"
+   
    "imminet" "it threatens, it is imminent"
    "imminent" "they threaten, they are imminent"
    "imminente" "imminently"
@@ -3093,6 +3124,10 @@
    "īnfīnītus, īnfīnīta, īnfīnītum" "endless, infinite"
    "īnfirmitātem" "infirmity, weakness"
    "īnfirmitās, īnfirmitātis" "infirmity, weakness"
+
+   "ingemuit" "he sighed"
+   "ingemō, ingemere, ingemuī, ingemitus" "to sigh"
+   
    "ingēns" "huge, enormous"
    "ingentem" "huge, enormous"
    "ingentēs" "huge, enormous"
@@ -3134,6 +3169,9 @@
    
    "īnstitūtiōne" "instruction, education, arrangement"
    "īnstitūtiō, īnstitūtiōnis" "instruction, education, arrangement"
+
+   "īnstitit" "he pursued, he threatened"
+   "īnstō, īnstāre, īnstitī, -" "to pursue, to threaten"
    
    "īnsula" "island"
    "īnsula, īnsulae" "island"
@@ -3460,8 +3498,10 @@
    "longitūdinem" "length, longitude"
    "longitūdinis" "length, longitude"
    "longitūdō, longitūdinis" "length, longitude"
-   
+
+   "longa" "long, far"
    "longum" "long, far"
+   "longiorem" "longer, farther"
    "longissime" "very long"
    "longus, longa -um, longior -or -us, longissimus -a -um" "long, far"
    "loquerentur" "they (might) have had said"
@@ -3588,8 +3628,13 @@
    "meārum" "our"
    "meī" "my"
    "meīs" "our"
+
+   "medicōs" "doctors"
+   "medicus, medicī" "doctor"
+   
    "medietās" "center, midpoint"
    "medietās, medietātis" "center, midpoint"
+   
    "mediō" "middle"
    "medium" "middle"
    "medium, mediī" "middle"
@@ -3890,6 +3935,9 @@
    "nepōtis" "grandson"
    "nepōs, nepōtis" "grandson"
 
+   "nequībat" "he was unable"
+   "nequeō, nequīre, nequivī(iī), nequitus" "to be unable"
+
    "nescīmus" "we do not know"
    "nescīvit" "he didn't know"
    "nesciō, nescīre, nescīvī, nescītus" "to not know"
@@ -4188,6 +4236,9 @@
    "pannus" "cloth, rag"
    "pannum" "cloth, rag"
    "pannus, pannī" "cloth, rag"
+
+   "paradigmate" "example, pattern"
+   "paradigma, paradigmatis" "example, pattern"
 
    "paradīsī" "paradise"
    "paradīsō" "paradise"
@@ -4821,7 +4872,8 @@
    "pūrificātiō, pūrificātiōnis" "purification"
    "purpūreus, purpūrea, purpūreum" "purple"
    "purpūreīs" "purple"
-   
+
+   "putābat" "he was thinking"
    "putābant" "they were thinking"
    "putāre" "to think"
    "putō, putāre, putāvī, putātus" "to think"
