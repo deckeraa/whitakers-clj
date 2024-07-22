@@ -353,6 +353,7 @@
    "numquid" "is it possible?"
    "nunc" "now"
    "nūper" "recently"
+   "ob" "for, because of, towards"
    "obviam" "in the path"
    "octāvīs" "octaves, 8th"
    "octāvās" "octaves, 8th"
@@ -530,6 +531,8 @@
    "subitō" "suddenly"
    "subsecutī" "subsecutī + est = was following; from subsequor, subsequī, subsecūtum (dep.)"
    "subtus" "under, below"
+   "subeunda" "undergoing; gerundive from subīre."
+   "subeundā" "undergoing; gerundive from subīre."
    "sufficere" "to be sufficient"
    "sufficiō, sufficere, suffēcī, suffectum" "to be sufficient"
    "sufficienter" "sufficiently"
@@ -4990,6 +4993,7 @@
    "quadrāgesimae" "Lent, Christian fast of 40 days"
    "quadrāgesima, quadrāgesimae" "Lent, Christian fast of 40 days"
    "quadringentīs" "400"
+   "quadringentōs" "400"
    "quadringentī -ae -a, quadringentesimus -a -um, quadringeni -ae -a, quadringentie (n)s" "400"
    "quadrātō" "square"
    "quadrāta" "squares"
@@ -5041,9 +5045,12 @@
    "recēdēbant" "they were receding, they were withdrawing"
    "recēdō, recēdere, recessī, recessus" "to recede, to withdraw"
    "recēpistī" "you received"
+   "receptōs" "having been received"
    "recipiō, recipere, recēpī, receptus" "to receive"
+   
    "receptiō" "reception"
    "receptiō, receptiōnis" "reception"
+   
    "reciprocābant" "they were going back and forth"
    "reciprocō, reciprocāre, reciprocāvī, reciprocātus" "to go back and forth"
    "rēctitūdinis" "straightness, rectitude"
@@ -5067,6 +5074,10 @@
    "redīre" "to return, to go back"
    "redīrem" "I (might) have returned"
    "redeō, redīre, redivī(iī), reditus" "to return, to go back"
+
+   "reditiōnis" "return"
+   "reditiō" "return"
+   "reditiō, reditiōnis" "return"
    
    "redūcō, redūcere, redūxī, reductus" "to lead back, to bring back"
    "redūcet" "he will lead back, he will bring back"
@@ -5135,6 +5146,7 @@
    "relictīs" "leaving behind"
    "relinquō, relinquere, relīquī, relictum" "to leave behind"
 
+   "reliqua" "remaining"
    "reliquī" "remaining"
    "reliquōs" "remaining"
    "reliquus, reliqua, reliquum" "remaining"
@@ -5516,6 +5528,7 @@
    "sequenti" "following"
    "sequēbātur" "he was following"
    "sequiminī" "you follow"
+   "sequī" "to follow"
    "sequor, sequī, sēcūtus sum" "to follow"
 
    "Sēquana" "The Seine River"
@@ -5758,6 +5771,7 @@
    "subcinericius, subcinericia, subcinericium" "baked under ashes"
    "subiectam" "things subjected"
    "subiciō, subicere, subiēcī, subiectus" "to subject, to throw under"
+
    "subiugat" "he subjugates"
    "subjugō, subjugāre, subjugāvī, subjugātus" "to subjugate"
    "subiūnxit" "he subdued, he joined"
@@ -5843,6 +5857,10 @@
    "suscitāre" "to encourage, to awaken, to stir up"
    "suscitāvīt" "he stirred up, he awakened"
    "suscitō, suscitāre, suscitāvī, suscitātus" "to encourage, to awaken, to stir up"
+
+   "suspiciō" "suspicion"
+   "suspiciō, suspiciōnis" "suspicion"
+   
    "sustinēbit" "he will sustain"
    "sustinēmus" "we sustain"
    "sustinēre" "to sustain"
@@ -5950,6 +5968,7 @@
    "tintinnābulum" "bell"
    "tintinnābulum, tintinnābulī" "bell"
    "tollat" "they (might) lift up"
+   "sublāta" "having been lifted up"
    "tollō, tollere, sustulī, sublātus" "to raise up"
    "tormenta" "torments"
    "tormentōrum" "of torments"
@@ -5988,7 +6007,8 @@
    "trānsīvisset" "he (might) have had crossed"
    "transivit" "he crossed"
    "trānsīre" "to go over, to cross"
-   "trānsivērunt" "they had gone over, they had crossed"
+   "trānsivarant" "they had gone over, they had crossed over"
+   "trānsivērunt" "they went over, they crossed over"
    "trānseuntium" "crossing"
    "trānseō, trānsīre, trānsivi(iī), trānsitus" "to go over, to cross"
    "trānsmeāre" "to go across, to pass over"
@@ -6097,6 +6117,8 @@
    "uter, utris" "bag/bottle made of skin/hide"
    "uter, utra, utrum" "either"
    "ūtitur" "he uses"
+   "ūsī" "having used"
+   "ūtī" "to use"
    "ūtor, ūtī, ūsus sum" "to use"
    "ūtāminī" "you (might) be using"
    "ūtēnsilia" "utensils"
@@ -6229,6 +6251,9 @@
    "via, viae" "road"
    
    "vice" "time, turn"
+   "vicis" "time, turn"
+   "vīcīs" "time, turn"
+   "vīcōs" "time, turn"
    "vicis, vicis" "time, turn"
    "vicibus" "times"
    
@@ -6283,6 +6308,10 @@
 
    "vīlī" "cheap, worthless"
    "vīlis, vīlis, vīle" "cheap, worthless"
+
+   "vinculīs" "chains"
+   "vinculum" "chain"
+   "vinculum, vinculī" "chain"
    
    "violet" "he (might) violate"
    "violō, violāre, violāvī, violātus" "to violate"
