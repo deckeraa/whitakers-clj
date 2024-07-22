@@ -1432,6 +1432,9 @@
    "Chrīstus, Chrīstī" "Christ"
    "chrīstiānōrum" "of Christians"
    "chrīstiānus, chrīstiānī" "Christian"
+
+   "cibāria" "food, fodder"
+   "cibāria, cibāriōrum" "food, fodder"
    
    "cibī" "food"
    "cibīs" "food"
@@ -1493,8 +1496,13 @@
    
    "clēmentia, clēmentiae" "mercy, clemency"
    "clēmentiae" "mercies"
+   
    "clībanō" "earthenware, iron vessels"
    "clībanus, clībanī" "earthenware, iron vessels"
+
+   "clientēs" "clients"
+   "cliēns, clientis" "client"
+   
    "coagulātae" "having been coagulated"
    "coagulātum" "having been coagulated"
    "coagulō, coagulāre, coagulāvī, coagulātus" "to coagulate, to curdle"
@@ -1506,6 +1514,11 @@
    "coepissent" "they (might) have had started"
    "coepī, coepisse, coepī, coeptus" "to start"
    "coepit" "he started"
+
+   "cōgerent" "they (might) have collected, forced"
+   "coēgērunt" "they collected, they forced"
+   "cōgere" "to collect, to force"
+   "cōgō, cōgere, coēgī, coāctus" "to collect, to force"
    
    "cōgitāre" "to think"
    "cōgitāvit" "he thought"
@@ -1545,6 +1558,10 @@
    
    "columnātam" "supported by pillers"
    "columnātus, columnāta, columnātum" "supported by pillers"
+
+   "combūrunt" "they burn up"
+   "combūrere" "to burn up"
+   "combūrō, combūrere, combussī, combustus" "to burn up"
    
    "comedendum" "eating"
    "comedere" "to eat up"
@@ -1581,6 +1598,7 @@
    "cōnātum, cōnātī" "attempt, effort"
    
    "cōnārētur" "they (might) have tried"
+   "cōnantur" "they attempt"
    "cōnor, cōnārī, cōnātus sum" "to try, to attempt"
    
    "concedit" "he concedes, he allows"
@@ -1605,6 +1623,10 @@
    "condita" "building, founding"
    "conditum" "building, founding"
    "condō, condere, condidī, conditus" "to build, to found"
+
+   "condūxit" "he assembled"
+   "condūcere" "to assemble"
+   "condūcō, condūcere, condūxī, conductus" "to assemble"
    
    "cōnferentēs" "conferencing, talking, meeting"
    "cōnferre" "to conference, to talk, to meet"
@@ -1647,6 +1669,10 @@
    "cōnōpēō" "canopy"
    "cōnōpēum" "canopy"
    "cōnōpēum, cōnōpēī" "canopy"
+
+   "cōnscīverit" "he will decide"
+   "cōnscīscere" "to decide"
+   "cōnscīscō, cōnscīscere, cōnscīvī, cōnscītus" "to decide"
    
    "cōnsēnsū" "consensus"
    "cōnsēnsus, cōnsēnsūs" "consensus"
@@ -1658,8 +1684,11 @@
    "cōnsīderāvissēmus" "we (might) have had considered"
    "cōnsīderō, cōnsīderāre, cōnsīderāvī, cōnsīderātus" "to consider, to examine"
    "consideravisset" "he (might) have had considered"
+
+   "cōnsiliō"  "plan, advice, council"
    "cōnsilium" "plan, advice, council"
    "cōnsilium, cōnsiliī" "plan, advice, council"
+   
    "cōnsōlātiō" "consolation"
    "cōnsōlātiōnem" "consolation"
    "cōnsōlātiōnis" "consolation"
@@ -1667,10 +1696,14 @@
    "cōnsortiō" "fellowship"
    "cōnsortiō, cōnsortiōnis" "fellowship"
 
+   "cōnstituerant" "they had planned"
    "cōnstituērunt" "they planned"
    "cōnstituite" "Plan! Arrange! Decide!"
    "cōnstituistī" "you placed, arranged, decreed, decided"
    "cōnstituō, cōnstituere, cōnstituī, cōnstitūtus" "to place, arrange, decree, decide"
+
+   "cōnstitūta" "arrangements, agreements"
+   "cōnstitūtum, cōnstitūtī" "arrangement, agreement"
 
    "cōnsulibus" "consuls"
    "cōnsul, cōnsulis" "consul"
@@ -1785,6 +1818,11 @@
    "crēdō" "I believe"
    "crēdendum" "believing"
    "crēdō, crēdere, crēdidī, crēditum" "to believe"
+
+   "cremārētur" "he (might) have been burning"
+   "cremāre" "to burn"
+   "cremō, cremāre, cremāvī, cremātus" "to burn"
+   
    "cruciātibus" "tortures"
    "cruciātus, cruciātūs" "tortures"
    "cruciāre" "to torment, to crucify"
@@ -1846,6 +1884,10 @@
    "dalmatica"  "deacon's vestmests"
    "dalmaticae" "deacon's vestmests"
    "dalmatica, dalmaticae" "deacon's vestmests"
+
+   "damnātum" "condemned"
+   "damnātus, damnāta, damnātum" "condemned"
+   
    "dans" "giving"
    "dant" "they give"
    "dat" "he gives"
@@ -1976,6 +2018,7 @@
    "dīcēns" "saying"
    "dīcentēs" "saying"
    "dīcere" "to say"
+   "dīceret" "he (might) have been saying"
    "dīcis" "you say"
    "dīcit" "he says"
    "dīcitur" "it is said"
@@ -1983,6 +2026,10 @@
    "dictō" "having been said"
    "dīcunt" "they say"
    "dīcō, dīcere, dīxī, dictus" "to say"
+
+   "dictiōnis" "saying, talk"
+   "dictiō" "saying, talk"
+   "dictiō, dictiōnis" "saying, talk"
 
    "dictum" "words, saying"
    "dictum, dictī" "words, saying"
@@ -2193,6 +2240,9 @@
 
    "effēminandōs" "feminizing, emasculating"
    "effēminō, effēmināre, effēmināvī, effēminātus" "to make effeminate, to emasculate"
+
+   "efferre" "to carry out, to bury"
+   "efferō, efferre, extulī, ēlātus" "to carry out, to bury"
    
    "effluēbant" "they were flowing out"
    "effluō, effluere, efflūxī, -" "to flow out"
@@ -2250,6 +2300,10 @@
    "ērēctīs" "to be raised, to be built"
    "ērēxit" "he raised, he built"
    "ērigō, ērigere, ērēxī, ērēctus" "to raise, to build"
+
+   "ēripuit" "he rescued, he snatched away"
+   "ēripere" "to rescue, to snatch away"
+   "ēripiō, ēripere, ēripuī, ēreptus" "to rescue, to snatch away"
    
    "errantēs" "wandering, erroring"
    "errō, errāre, errāvī, errātus" "to wander, to go astray"
@@ -2294,6 +2348,7 @@
    "exercitūs" "army"
    "exercitus, exercitūs" "army"
 
+   "exeant" "they (might) come/go out"
    "exī" "come out!"
    "exīvistīs" "you came out"
    "exīre" "to come out"
