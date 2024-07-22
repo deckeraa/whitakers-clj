@@ -3730,6 +3730,7 @@
    "mēnsēs" "months"
    "mēnsis" "month"
    "mēnsis, mēnsis" "month"
+   "mēnsum" "of months"
    "mēnsūra" "measure"
    "mēnsūram" "measure"
    "mēnsūra, mēnsūrae" "measure"
@@ -3871,9 +3872,12 @@
    "morte" "death"
    "mortem" "death"
    "mortis" "death"
+   
+   "mōre" "manner, custom"
+   "mōribus" "customs, morals"
    "mōs" "manner, custom"
    "mōs, mōris" "manner, custom"
-   "mōre" "manner, custom"
+   
    "morsum" "little piece"
    "morsum, morsī" "little piece"
    "morsus" "bite, sting"
@@ -3886,7 +3890,7 @@
    "mortuae" "dead"
    "mortuus" "dead"
    "mortuus, mortua, mortuum" "dead"
-
+   
    "movēbat" "he was moving"
    "movent" "they move"
    "movērētur" "they (might) have been moving"
@@ -3895,6 +3899,7 @@
    
    "multitūdō" "multitude, great number"
    "multitūdine" "multitude, great number"
+   "multitūdinem" "multitude, great number"
    "multitūdō, multitūdinis" "multitude, great number"
    
    "multa" "many"
@@ -4122,6 +4127,10 @@
 
    "nucēs" "nuts"
    "nux, nucis" "nut"
+
+   "obaerātōs" "debtors"
+   "obaerātus" "debtor"
+   "obaerātus, obaerātī" "debtor"
    
    "obdormīvissent" "they (might) have had fallen asleep"
    "obdormiō, obdormīre, obdormīvī, obdormītus" "to fall asleep"
@@ -4222,8 +4231,12 @@
    
    "oportet" "it is right/proper/necessary"
    "oportet, oportere, oportuit, -" "it is right/proper/necessary"
+
+   "oppida" "towns"
+   "oppidīs" "towns"
    "oppidum" "town"
    "oppidum, oppidī" "town"
+   
    "optimīs" "very good"
 
    "operibus" "works, deeds"
@@ -4232,6 +4245,10 @@
 
    "oppressus" "having been oppressed"
    "opprimere" "to press down, to oppress"
+
+   "oppūgnābant" "they were attacking"
+   "oppūgnāre" "to attack"
+   "oppūgnō, oppūgnāre, oppūgnāvī, oppūgnātus" "to attack"
 
    "ōrātiōne"  "oration, speech, discourse"
    "ōrātiōnem" "oration, speech, discourse"
