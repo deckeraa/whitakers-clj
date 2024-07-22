@@ -2374,6 +2374,9 @@
    "expectantēs" "expecting"
    "exposuimus" "we explained"
    "expōnō, expōnere, exposuī, expositus" "to explain"
+
+   "exsequī" "to follow"
+   "exsequor, exsequī, exsecūtus" "to follow"
    
    "extendentis" "extending"
    "extendere" "to extend"
@@ -2400,8 +2403,11 @@
    "exultō, exultāre, exultāvī, exultātus" "to exult, to rejoice"
    "exultatiōne" "exultation"
    "exultatiō, exultatiōnis" "exultation"
-   "exūrō, exūrere, exussī, exustus" "to burn"
    "exūritur" "it is burned"
+
+   "exustīs" "having been burnt"
+   "exūrere" "to burn"
+   "exūrō, exūrere, exussī, exustus" "to burn"
 
    "faba" "bean"
    "fabae" "bean"
@@ -3090,6 +3096,7 @@
    "inaequālitās, inaequālitātis" "inequality"
    "incendentēs" "setting on fire"
    "incendēbātur" "it was being set on fire"
+   "incendere" "to set on fire"
    "incendō, incendere, incendī, incēnsus" "to set on fire"
    "incendit" "it burns, it burnt"
    "incenduntur" "set on fire"
@@ -3104,12 +3111,18 @@
    "incipiō, incipere, incēpī, inceptus" "to start"
    "incīsa" "having been cut"
    "incīdō, incīdere, incīdī, incīsus" "to cut into"
+
+   "incitāta" "having been incited"
+   "incitāre" "to incite"
+   "incitō, incitāre, incitāvī, incitātus" "to incite"
+   
    "incōgnitōrum" "unknown, untested"
    "incōgnitus, incōgnita, incōgnitum" "unknown, untested"
    
    "incolumēs" "unharmed"
    "incolumis, incolumis, incolume" "unharmed"
 
+   "incoluerant" "they had inhabited"
    "incolunt" "they inhabit"
    "incolere" "to inhabit"
    "incolō, incolere, incoluī, incultus" "to inhabit"
@@ -3125,6 +3138,9 @@
    "indicā" "show! indicate!"
    "indicāre" "to indicate, to point out, to show"
    "indicō, indicāre, indicāvī, indicātus" "to indicate, to point out, to show"
+
+   "indicium" "information, discovery, notice"
+   "indicium, indiciī" "information, discovery, notice"
 
    "indigēs" "you lack?"
    "indigeō, indigēre, indiguē, -" "to lack"
@@ -3322,6 +3338,11 @@
    "itineris" "journey, trip"
    "iter, itineris" "journey, trip"
    "itinere" "journey, trip"
+
+   "iubent" "they command"
+   "iubēre" "to command"
+   "iubeō, iubēre, iussī, iussus" "to command"
+   
    "iūdex, iūdicis" "judge"
    "iūdicem" "judge"
 
@@ -3561,7 +3582,7 @@
    "longus, longa -um, longior -or -us, longissimus -a -um" "long, far"
    "loquerentur" "they (might) have had said"
    "loquor, loqui, locutus sum" "to speak, to say"
-   "lūcidus, lūcida, lūcidum" "bright, clear"
+
    "lūcidissimus" "very bright, very clear"
    "lūcidissimum" "very bright, very clear"
    "lūmen" "light"
@@ -3579,6 +3600,9 @@
    
    "magistrum" "teacher"
    "magister, magistrī" "teacher"
+
+   "magistrātus" "magistrate, official"
+   "magistrātus, magistrātūs" "magistrate, official"
    
    "māgna" "large"
    "māgnae" "large"
