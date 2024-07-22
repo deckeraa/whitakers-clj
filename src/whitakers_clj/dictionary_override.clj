@@ -4344,11 +4344,16 @@
    
    "parātūrās" "preparations"
    "parātūra, parātūrae" "preparation"
+
+   "parātiōrēs" "more prepared"
+   "parātus, parāta -um, parātior -or -us, parātissimus -a -um" "prepared"
+   
    "parātur" "it is prepared"
    "parāvī" "I prepared"
    "parāvissent" "they (might) have had prepared"
    "parāta" "having been prepared"
    "parātī" "having been prepared"
+   "parātōs" "having been prepared"
    "parō, parāre, parāvī, parātus" "to prepare"
    "parāvērunt" "they prepared"
 
@@ -4527,7 +4532,9 @@
    "perīclitātiō, perīclitātiōnis" "trial, test"
    "perīclitātur" "he risks, he proves"
    "perīclitor, perīclitārī, perīclitātus sum" "to risk, to prove"
+   
    "perīculum" "danger"
+   "perīcula" "dangers"
    "perīculī" "danger"
    "perīculīs" "dangers"
    "perīculum, perīculī" "danger"
@@ -4566,6 +4573,7 @@
 
    "persuādet" "he persuades"
    "persuāsit" "he persuaded"
+   "persuādent" "they persuade"
    "persuādēre" "to persuade"
    "persuādeō, persuādēre, persuāsī, persuāsus" "to persuade"
    
@@ -4648,9 +4656,11 @@
    "pluvium, pluviī" "basin"
    "pluviā" "rainy"
    "pluvius, pluvia, pluvium" "rainy"
-   
-   "poena, poenae" "penalty, punishment"
+
+   "poenam" "penalty, punishment"
    "poenās" "penalty, punishment"
+   "poena, poenae" "penalty, punishment"
+   
    "poenitentia"  "penance"
    "poenitentiae" "penance"
    "poenitentiam" "penance"
@@ -4690,6 +4700,7 @@
    "portābat" "he was carrying"
    "portābant" "they were carrying"
    "portāte" "carry!"
+   "portātūrī" "will be carrying"
    "portāvērunt" "they carried"
    "portāvit" "he carried"
    "portō" "I carry"
@@ -4866,6 +4877,7 @@
    "proficīsciminī" "you set out"
    "proficīscēminī" "you will set out"
    "proficīscendum" "setting out"
+   "proficīscantur" "they (might) set out"
 
    "prohibent" "they prevent, they restrain"
    "prohibuit" "he prevented, he restrained"
