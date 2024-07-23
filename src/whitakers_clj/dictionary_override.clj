@@ -2940,6 +2940,7 @@
    "habuērunt" "they had"
    "habuerit" "you will have had"
    "habēre" "to have"
+   "habērent" "they (might) have been having"
    "habeō, habēre, habuī, habitus" "to have"
 
    "habitābam" "I was living"
@@ -3128,9 +3129,19 @@
    
    "immolātiōne" "sacrifice"
    "immolātiō, immolātiōnis" "sacrifice"
+
+   "impendēbat" "they were expending"
+   "impendere" "to expend"
+   "impendō, impendere, impendī, impēnsus" "to expend"
+   
    "impedīmentō" "impediment, hindrance, heavy baggage"
    "impedīmentum" "impediment, hindrance, heavy baggage"
    "impedīmentum, impedīmentī" "impediment, hindrance, heavy baggage"
+
+   "imperat" "he commands"
+   "imperāre" "to command"
+   "imperāverat" "he had commanded"
+   "imperō, imperāre, imperāvī, imperātus" "to command"
 
    "imperiō"  "command, dominion, empire"
    "imperium" "command, dominion, empire"
@@ -3272,15 +3283,26 @@
    "ingerō, ingerere, ingessī, ingestus" "to carry in, to throw in"
    "ingressus" "entrance"
    "ingressus, ingressūs" "entrance"
+
+   "inimīcō" "enemy"
+   "inimīcus" "enemy"
+   "inimīcus, inimīcī" "enemy"
+   
    "inīquitās, inīquitātis" "iniquity"
    "inīquitās" "iniquity"
    "inīquitātem" "iniquity"
+   
    "initiō" "beginning, entrance"
    "initium" "beginning, entrance"
    "initiī" "beginning, entrance"
    "initium, initiī" "beginning, entrance"
+
+   "iniūria" "wrong, offense, injury"
+   "iniūria, iniūriae" "wrong, offense, injury"
+   
    "iniūste" "unjust"
    "injūstus, injūsta, injūstum" "unjust"
+   
    "inlaesus" "unharmed"
    "inlaesus, inlaesa, inlaesum" "unharmed"
    "inlūminā" "illuminate!"
@@ -3398,14 +3420,19 @@
    "irruet" "it will rush in"
    "irruit" "it rushes, it rushed"
    "irruō, irruere, irruī, irrutus" "to rush into, to force way to"
+   
    "ita" "yes; in this manner"
+   
    "iter" "journey, trip"
+   "itinera" "journies, marches"
+   "itineribus" "journies, marches"
    "itineris" "journey, trip"
    "iter, itineris" "journey, trip"
    "itinere" "journey, trip"
 
    "iubent" "they command"
    "iubēre" "to command"
+   "iubet" "he commands"
    "iubeō, iubēre, iussī, iussus" "to command"
    
    "iūdex, iūdicis" "judge"
@@ -3432,6 +3459,9 @@
    "iūdiciī" "judgement"
    "iūdicium" "judgement"
    "iūdicium, iūdiciī" "judgement"
+
+   "iugum" "yoke"
+   "iugum, iugī" "yoke"
    
    "iuncturās" "joinings, junctions"
    "iunctura, iuncturae" "joinings, junctions"
