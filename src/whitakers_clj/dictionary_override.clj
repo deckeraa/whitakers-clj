@@ -105,6 +105,7 @@
    "cūr" "why"
    "David" "David, the king of Israel that slew Goliath."
    "de" "of, from, away from, down from"
+   "decem" "ten"
    "deinde" "after"
    "dēlicātīs" "delicate, plural dative or ablative dēlicātus, -a, -um"
    "dēliciārum" "of delights, from dēliciae"
@@ -187,6 +188,7 @@
    "iēiūnāre" "to fast"
    "iēiūnāvit" "he fasted"
    "iēiūnium" "fast, fasting"
+   "iīs" "them; plural dative or ablative from is, ea, id"
    "interim" "during"
    "Iascōnium" "Jascōnius, a sea beast"
    "iocantem" "jesting, participle from iocor, iocārī, iocātus (dep.)"
@@ -305,6 +307,7 @@
    "meō" "my; singular masculine or neuter dative or ablative from meus"
    "messala" "Marcus Messala, consul of Rome in 61 B.C."
    "mīlle" "one thousand"
+   "mīlia" "one thousand"
    "minimē" "barely, no, not"
    "minus" "less"
    "mixtim" "mixedly, in a mixed manner (adverb)"
@@ -1518,6 +1521,7 @@
    "coepī, coepisse, coepī, coeptus" "to start"
    "coepit" "he started"
 
+   "coēgit" "he collected, he forced"
    "cōgerent" "they (might) have collected, forced"
    "coēgērunt" "they collected, they forced"
    "cōgere" "to collect, to force"
@@ -3097,12 +3101,15 @@
    
    "inaequālitās" "inequality"
    "inaequālitās, inaequālitātis" "inequality"
+   
    "incendentēs" "setting on fire"
    "incendēbātur" "it was being set on fire"
    "incendere" "to set on fire"
    "incendō, incendere, incendī, incēnsus" "to set on fire"
    "incendit" "it burns, it burnt"
+   "incendunt" "they set on fire"
    "incenduntur" "set on fire"
+   
    "inchoāre" "to begin, to set going, to establish"
    "inchoāvimus" "we had started"
    "inchoāvisset" "he (might) have had started"
@@ -4029,6 +4036,9 @@
    "nescīvit" "he didn't know"
    "nesciō, nescīre, nescīvī, nescītus" "to not know"
 
+   "nihilō" "nothing"
+   "nihilum, nihilī" "nothing"
+
    "niveō" "snowy white"
    "niveus, nivea, niveum" "snowy white"
    "nix" "snow"
@@ -4111,6 +4121,7 @@
    "nūllus" "no, none, not any"
    "nūllus, nūlla, nūllum (gen -ius)" "no, none, not any"
 
+   "numerō"  "number, division, troop"
    "numerum" "number, division, troop"
    "numerus, numerī" "number, division, troop"
 
@@ -6007,7 +6018,7 @@
    "trānsīvisset" "he (might) have had crossed"
    "transivit" "he crossed"
    "trānsīre" "to go over, to cross"
-   "trānsivarant" "they had gone over, they had crossed over"
+   "trānsiverant" "they had gone over, they had crossed over"
    "trānsivērunt" "they went over, they crossed over"
    "trānseuntium" "crossing"
    "trānseō, trānsīre, trānsivi(iī), trānsitus" "to go over, to cross"
