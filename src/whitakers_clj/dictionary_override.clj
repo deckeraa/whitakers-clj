@@ -3593,7 +3593,11 @@
    "lectulus, lectulī" "bed, coach"
 
    "lēgātiōnem" "legate, embassy"
+   "lēgātiōnis" "legate, embassy"
    "lēgātiō, lēgātiōnis" "legate, embassy"
+
+   "legiō" "legion"
+   "legiō, legiōnis" "legion"
 
    "legēbantur" "they were being read"
    "legendum" "reading"
@@ -3624,6 +3628,8 @@
    "licentia" "license, liberty"
    "licentia, licentiae" "license, liberty"
    "licentiam" "license"
+
+   "liceat" "it (might) be permitted"
    
    "ligātūram" "ligature, binding"
    "ligātūra, ligātūrae" "ligature, binding"
@@ -3729,6 +3735,10 @@
    "maledictiō, maledictiōnis" "curse"
    "maledictum" "insult"
    "maledictum, maledictī" "insult"
+
+   "maleficiō" "crime, misdeed"
+   "maleficium, maleficiī" "crime, misdeed"
+   
    "malleōrum" "of hammers"
    "malleus, malleī" "hammer"
    "mandūcāvī" "I chewed, I ate"
@@ -3789,9 +3799,13 @@
 
    "mātrōna" "matron, married woman"
    "mātrōna, mātrōnae" "matron, married woman"
+
+   "mātūrat" "he hastens, he ripens"
+   "mātūrō, mātūrāre, mātūrāvī, mātūrātus" "to hasten, to ripen"
    
    "mātūra" "mature, early"
    "mātūrus, mātūra, mātūrum" "mature, early"
+   
    "mātūtīnum, mātūtīnī" "morning"
    "mātūtīnās" "mornings"
    "mātūtīnīs" "mornings"
@@ -3814,10 +3828,15 @@
    "medium, mediī" "middle"
    "mellis" "honey"
    "mel, mellis" "honey"
+   
    "membra" "limb, member"
    "membrum, membrī" "limb, member"
    "membrum" "limb, member"
    "membrīs" "limbs, members"
+
+   "memoria" "memory, historical account"
+   "memoria, memoriae" "memory, historical account"
+   
    "mēnsa" "table"
    "mēnsam" "table"
    "mēnsa, mēnsae" "table"
@@ -3861,7 +3880,9 @@
    
    "mīles" "soldier"
    "mīlitēs" "soldiers"
+   "mīlitum" "of soldiers"
    "mīles, mīlitis" "soldier"
+   
    "milium" "millet"
    "milium, miliī" "millet"
 
@@ -3906,19 +3927,24 @@
    "misericordiam" "pity, compassion, mercy"
    "mīsērunt" "they sent"
    "mīsit" "he sent"
+   
    "missa" "Mass"
    "missa, missae" "Mass"
    "missās" "Masses"
    "missam" "Mass"
    "missārum" "of Masses"
+   
    "mīsissent" "they (might) have had sent"
    "mittite" "send! put!"
    "mīsī" "I threw, I cast"
    "mīssisset" "he (might) have had thrown"
-   "missus" "throwing"
-   "missus, missūs" "throwing"
+   
+   "missus" "throwing, dispatch"
+   "missum" "throwing, dispatch"
+   "missus, missūs" "throwing, dispatch"
    
    "mittō" "I send"
+   "mittunt" "they send"
    "mittuntur" "they are being sent"
    "mittō, mittere, mīsī, missus" "to send"
    
@@ -4130,6 +4156,7 @@
    "nix, nivis" "snow"
 
    "nōbilibus" "noble, famous, high-born"
+   "nōbilissimōs" "very noble, famous, high-born"
    "nōbilissimus" "very noble, famous, high-born"
    "nōbilis, nōbilis, nōbile" "noble, famous, high-born"
 
