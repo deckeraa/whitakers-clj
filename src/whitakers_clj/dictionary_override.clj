@@ -1975,6 +1975,11 @@
    "dēglutīre" "to swallow"
    "dēglutīvit" "I swallowed"
    "dēglutiō, dēglutīre, dēglutīvī, dēglutītus" "to swallow"
+
+   "dēlīberandum" "deliberating"
+   "dēlīberāre" "to deliberate"
+   "dēlīberō, dēlīberāre, dēlīberāvī, dēlīberātus" "to deliberate"
+   
    "dēliciārum" "of delights"
    "dēliciae, dēliciārum" "delights"
    "dēliciōsa" "delicious"
@@ -2051,6 +2056,7 @@
    "dīcēns" "saying"
    "dīcentēs" "saying"
    "dīcere" "to say"
+   "dīcerent" "they (might) have been saying"
    "dīceret" "he (might) have been saying"
    "dīcis" "you say"
    "dīcit" "he says"
@@ -2082,6 +2088,7 @@
    "difficillimum" "very difficult"
    "difficilius" "difficult"
    "difficilis" "difficult"
+   "difficile" "difficult"
    "difficilis, difficile, difficilior -or -us, difficillimus -a -um" "difficult"
    
    "digitus" "finger, toe, digit"
@@ -2235,14 +2242,17 @@
    "dubium" "doubt"
    "dubiō" "doubt"
    "dubium, dubiī" "doubt"
+   
    "ductīs" "to have been lead"
    "dūcere" "to lead"
    "ducta" "having been lead"
    "dūcēbant" "they were leading"
    "dūcēbātur" "he was being lead"
    "dūcant" "they (might) lead"
+   "dūcerentur" "they (might) have been leading"
    "dūcet" "you will lead"
    "dūcō, dūcere, dūxī, ductus" "to lead"
+   
    "ductor" "leader"
    "ductor, ductōris" "leader"
    "duōrum" "two"
@@ -2377,6 +2387,7 @@
    "exemplum, exemplī" "sample, model, copy"
 
    "exercitū" "army"
+   "exercitum" "army"
    "exercitus" "army"
    "exercitūs" "army"
    "exercitus, exercitūs" "army"
@@ -2393,6 +2404,12 @@
    
    "exilīvit" "he went out"
    "exiliō, exilīre, exilīvī, -" "to go out"
+
+   "exīstimābat" "he was estimating, valuing"
+   "exīstimābant" "they were estimating, valuing"
+   "exīstimāre" "to estimate, to value"
+   "exīstimō, exīstimāre, exīstimāvī, exīstimātus" "to estimate, to value"
+   
    "exitus" "departure"
    "exitus, exitūs" "departure"
    "expavēscere" "to become frightened"
@@ -2405,6 +2422,10 @@
    "expectō" "I await, I expect"
    "expectō, expectāre, expectāvī, expectātus" "to await, to expect"
    "expectantēs" "expecting"
+
+   "expedītius" "freer, more unburdened"
+   "expedītus, expedīta -um, expedītior -or -us, expedītissimus -a -um" "free, unburdened"
+   
    "exposuimus" "we explained"
    "expōnō, expōnere, exposuī, expositus" "to explain"
 
@@ -2430,6 +2451,7 @@
    "extollō, extollere, -, -" "to extol"
 
    "extrēmīs" "limits, outsides, ends"
+   "extrēmum" "limit, outside, end"
    "extrēmum, extrēmī" "limit, outside, end"
    
    "exultābant" "they were exulting, they were rejoicing"
@@ -2475,13 +2497,18 @@
    "facit" "he makes"
    "facite" "make! do!"
    "facta" "having been made"
+   "factī" "having been made, done"
    "factō" "made"
    "factus" "made"
    "fīēbat" "it was being made"
+   "faciundī" "to be made"
 
    "facile" "easy"
    "facilius" "easier"
    "facilis, facile, facilior -or -us, facillimus -a -um" "easy"
+
+   "facultāte" "means, ability"
+   "facultās, facultātis" "means, ability"
    
    "familia" "family"
    "familia, familiās" "family"
@@ -2642,12 +2669,14 @@
    "flectō, flectere, flēxī, flexum" "to bend"
    "fleō, flēre, flēvī, flētus" "to cry"
    "flētū" "weeping"
+   
    "flōre" "flower"
    "flōribus" "flowers"
    "flōs, flōris" "flower"
 
    "fluēbant" "they were flowing"
    "fluentēs" "flowing"
+   "fluit" "it flows"
    "fluō, fluere, flūxī, flūxus" "to flow"
    
    "flūctuum" "of waves, of billows, of turbulence"
