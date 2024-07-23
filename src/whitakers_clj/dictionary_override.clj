@@ -4229,6 +4229,7 @@
    "nūlla" "no, none, not any"
    "nūllam" "no, none, not any"
    "nūllī" "no, none, not any"
+   "nūllīs" "no, none, not any"
    "nūllum" "no, none, not any"
    "nūllus" "no, none, not any"
    "nūllus, nūlla, nūllum (gen -ius)" "no, none, not any"
@@ -4274,6 +4275,7 @@
 
    "obtentūrus" "will be obtaining"
    "obtinēbat" "he was obtaining"
+   "obtinēbant" "they were obtaining"
    "obtinuerat" "he had obtained"
    "obtinēre" "to obtain"
    "obtineō, obtinēre, obtinuī, obtentus" "to obtain"
@@ -4297,6 +4299,7 @@
    
    "occīdī" "I killed"
    "occīdō" "I kill"
+   "occīsum" "having been killed"
    "occīdō, occīdere, occīdī, occīsus" "to kill"
 
    "occupāret" "he (might) have seized"
@@ -4360,6 +4363,7 @@
 
    "oppida" "towns"
    "oppidīs" "towns"
+   "oppidō" "town"
    "oppidum" "town"
    "oppidum, oppidī" "town"
    
@@ -4448,6 +4452,9 @@
    "ovibus" "sheep"
    "ovium" "of sheep"
    "ovis, ovis" "sheep"
+
+   "pācātī" "having been pacified, subdued"
+   "pācō, pācāre, pācāvī, pācātus" "to pacify, subdue"
    
    "pānibus" "bread"
    "pānis" "bread"
@@ -4696,10 +4703,10 @@
    "persevērō, persevērāre, persevērāvī, persevērātus" "to persevere"
    "persevērāssent" "they (might) have had persevered"
    "persevērāvissent" "they (might) have had persevered"
-
    "persuādet" "he persuades"
    "persuāsit" "he persuaded"
    "persuādent" "they persuade"
+   "persuāsūrōs" "to be convinced"
    "persuādēre" "to persuade"
    "persuādeō, persuādēre, persuāsī, persuāsus" "to persuade"
    
@@ -4798,6 +4805,10 @@
    "pōmum, pōmī" "fruit, grapes"
    "pōmiferīs" "fruit-bearing"
    "pōmifer, pōmifera, pōmiferum" "fruit-bearing"
+
+   "pōns" "bridge"
+   "pontem" "bridge"
+   "pōns, pontis" "bridge"
    
    "posuisset" "he (might) have put"
    "posuērunt" "they had put"
@@ -4806,6 +4817,7 @@
    "pōnō, pōnere, posuī, positus" "to put, to place"
 
    "populōs" "peoples, populaces"
+   "populum" "people, populace"
    "populus" "people, populace"
    "populī" "people, populace"
    "populus, populī" "people, populace"
@@ -5007,6 +5019,7 @@
 
    "prohibent" "they prevent, they restrain"
    "prohibuit" "he prevented, he restrained"
+   "prohibēre" "to prevent, to restrain"
    "prohibeō, prohibēre, prohibuī, prohibitus" "to prevent, to restrain"
    
    "profundō" "deep, bottomless, boundless"
@@ -5059,7 +5072,8 @@
    "prōvolūtīs" "fallen, rolled"
    "prōvolvō, prōvolvere, prōvolvī, prōvolūtus" "to roll forward, to bowl over"
 
-   "proximī" "next, nearest"
+   "proximī"  "next, nearest"
+   "proximum" "next, nearest"
    "proximus, proxima, proximum" "next, nearest"
 
    "proximīs" "neighbor"
@@ -5314,6 +5328,10 @@
    "requīrō, requīrere, requīsīvī, requīsītus" "to require, to ask for, to miss"
    
    "rēs, reī" "thing"
+
+   "rescindī" "to be rescinded, cut out"
+   "rescindō, rescindere, rescidī, rescissus" "to rescind, cut out"
+   
    "resēdit" "he sat, he settled"
    "residēre" "to sit down, to settle"
    "resīdēbat" "he was sitting down"
@@ -5323,8 +5341,10 @@
    "resēdērunt" "they sat down"
    "resēdisset" "he (might) have had sat down"
    "resēdissent" "they (might) have had sat down"
+   
    "resonābant" "they were resounding"
    "resonō, resonāre, resonāvī, resonātus" "to resound"
+   
    "respīrantem" "breathing"
    "respīrō, respīrāre, respīrāvī, respīrātus" "to breathe"
 
@@ -5373,6 +5393,7 @@
    "revertere" "to return"
    "revertētis" "you will return"
    "revertite" "return!"
+   "reverterentur" "they (might) been returning"
    "revertō, revertere, revertī, reversum" "to return"
 
    "revolvō" "I turn over, I repeat"
@@ -5422,12 +5443,16 @@
    "roborīnō" "made of oak"
    "rōbur, rōboris" "oak"
    "rōborō, rōborāre, rōborāvī, rōborātus" "to strengthen"
+   
    "rogābant" "they were asking"
+   "rogāre" "to ask"
    "rogō, rogāre, rogāvī, rogātus" "to ask"
+   
    "rogus" "funeral pyre, grave"
    "rogus, rogī" "funeral pyre, grave"
 
    "Rōmānī" "Romans"
+   "rōmānum" "Roman"
    "Rōmānus" "Roman"
    "rōmānus" "Roman"
    "Rōmānus, Rōmānī" "Roman"
