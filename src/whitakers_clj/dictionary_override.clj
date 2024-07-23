@@ -1267,6 +1267,12 @@
    "caelō" "heaven, sky"
    "caelus" "heaven, sky"
    "caelus, caelī" "heaven, sky"
+
+   "Caesar" "Caesar"
+   "caesar" "Caesar"
+   "Caesarī" "to Caesar"
+   "caesarī" "to Caesar"
+   "Caesar, Caesaris" "Caesar"
    
    "calidus" "hot, warm"
    "calidus, calida -um, calidior -or -us, calidissimus -a -um" "hot, warm"
@@ -1368,6 +1374,7 @@
    "carpere" "to pluck, to pick"
    "carpō, carpere, carpsī, carptus" "to pluck, to pick"
 
+   "carrī" "four-wheeled wagon"
    "carrōrum" "of four-wheeled wagons"
    "carrus, carrī" "four-wheeled wagon"
 
@@ -1421,6 +1428,9 @@
    
    "certāmine" "contest, struggle"
    "certāmen, certāminis" "contest, struggle"
+
+   "certiōrēs" "more certain"
+   "certus, certa -um, certior -or -us, certissimus -a -um" "certain"
 
    "cessābit" "it will cease"
    "cessāvit" "it ceased"
@@ -1533,6 +1543,7 @@
    "coēgit" "he collected, he forced"
    "cōgerent" "they (might) have collected, forced"
    "coēgērunt" "they collected, they forced"
+   "coāctūrōs" "to be assembled, to be forced"
    "cōgere" "to collect, to force"
    "cōgō, cōgere, coēgī, coāctus" "to collect, to force"
    
@@ -1615,10 +1626,12 @@
    
    "cōnārētur" "they (might) have tried"
    "cōnantur" "they attempt"
+   "cōnārī" "to try, to attempt"
    "cōnor, cōnārī, cōnātus sum" "to try, to attempt"
    
    "concedit" "he concedes, he allows"
    "concessit" "he conceded, he allowed"
+   "concēdendum" "allowing"
    "concēdō, concēdere, concessī, concessus" "to concede, to allow"
    
    "concēpit" "she conceived"
@@ -1721,6 +1734,7 @@
    "cōnstitūta" "arrangements, agreements"
    "cōnstitūtum, cōnstitūtī" "arrangement, agreement"
 
+   "cōnsulem" "consul"
    "cōnsulibus" "consuls"
    "cōnsul, cōnsulis" "consul"
 
@@ -1732,6 +1746,7 @@
 
    "contendunt" "they contend, they hasten"
    "contendere" "to hasten, to contend"
+   "contendit" "he hastened, he contended"
    "contendō, contendere, contendī, contentus" "to hasten, to contend"
 
    "continētur" "it is sustained, it is contained"
@@ -1747,8 +1762,10 @@
    "contrīstātus" "being saddened"
    "contrīstō, contrīstāre, contrīstāvī, contrīstātus" "to sadden"
 
+   "conveniant" "they (might) meet together"
    "conveniēns" "meeting, coming together"
    "convenīre" "to meet, to come together"
+   "convenīrent" "they (might) have met together"
    "conveniō, convenīre, convēnī, conventus" "to meet, to come together"
    
    "conversātiōne" "intimacy, acquaintance, way of life, monastic life"
