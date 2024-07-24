@@ -155,6 +155,7 @@
    "expectāte" "Await! plural imperative from expectō, expectāre, expectāvī, expectātus"
    "explētis" "You fill; 2nd person plural present from expleō, explēre, explēvī, explētus"
    "factū" "to be done, supine of facere"
+   "fēlīciter" "happily"
    "ferē" "nearly, almost, about"
    "fīant" "they might do; 3rd person plural subjunctive present from faciō, facere, fēcī, factus"
    "fīnītā" "end; singular feminine ablative of fīnītus, fīnīta, fīnītum"
@@ -2017,6 +2018,10 @@
    "dēcrēscō, dēcrēscere, dēcrēvī, dēcrētus" "to decrease, to diminish"
    "dēcrētum" "decree, decision"
    "dēcrētum, dēcrētī" "decree, decision"
+
+   "dēdecus" "disgrace, shame"
+   "dēdecus, dēdecoris" "disgrace, shame"
+   
    "dedērunt" "they gave"
    "dēerit" "it will lack"
    "dēfendēbat" "he was defending"
@@ -2071,8 +2076,11 @@
    "dēprecātiōnum" "of deprecations"
    "dēprecāvisset" "they (might) have had prayed"
    "dēprecābātur" "they were praying"
+   
    "deō" "god"
    "deōrum" "of gods"
+   "deōs" "gods"
+
    "dēscendentēs" "descending"
    "dēscendō, dēscendere, dēscendī, dēscēnsus" "to descend"
 
@@ -2082,6 +2090,13 @@
    
    "dēsīgnāvisset" "he (might) have had designated"
    "dēsīgnō, dēsīgnāre, dēsīgnāvī, dēsīgnātus" "to designate"
+
+   "desiliendum" "jumping down"
+   "desilīre" "to jump down"
+   "desilīte" "jump down!"
+   "desiluērunt" "they jumped down"
+   "desiliō, desilīre, desiluī, desultus" "to jump down"
+   
    "dēspēximus" "we disdained"
    "dēspiciō, dēspicere, dēspēxī, dēspectus" "to disdain"
    "dēstinātum" "target, purpose, destination"
@@ -2156,6 +2171,9 @@
    "difficilis" "difficult"
    "difficile" "difficult"
    "difficilis, difficile, difficilior -or -us, difficillimus -a -um" "difficult"
+
+   "difficultās" "difficulty"
+   "difficultās, difficultātis" "difficulty"
    
    "digitus" "finger, toe, digit"
    "digitī"  "finger, toe, digit"
@@ -2358,12 +2376,16 @@
    "effundō, effundere, effūdī, effūsus" "to pour out"
    "effūdisset" "he (might) have had poured out"
    "effūdissent" "they (might) have had poured out"
+   
    "ego" "I"
+   
    "ēgrediēbātur" "he was going out"
    "ēgrediēbantur" "they went out"
    "ēgrediētur" "it will go out"
    "ēgrediminī" "you are going out"
-   "egredior, egredi, egressus sum" "to go out, to egress"
+   "ēgredī" "to go out, to egress"
+   "ēgredior, ēgredī, ēgressus sum" "to go out, to egress"
+   
    "eius" "his, hers, its"
    "elemosina" "alms"
    "elemosina, elemosinae" "alms"
@@ -2389,10 +2411,15 @@
    "Epiphanīae" "Epiphany, a Christian holiday that occurs closely after Christmas."
    "Epiphanīa, Epiphanīae" "Epiphany, a Christian holiday that occurs closely after Christmas."
 
+   "equitātū"  "cavalry"
+   "equitātus" "cavalry"
+   "equitātus, equitātūs" "cavalry"
+   
    "equitāvit" "he rode on horseback"
    "equitāre" "to ride on horseback"
    "equitō, equitāre, equitāvī, equitātus" "to ride on horseback"
 
+   "equōs" "horses"
    "equum" "horse"
    "equus" "horse"
    "equus, equī" "horse"
@@ -2426,20 +2453,30 @@
    "ēscam" "food, victuals, bait"
    "ēscās" "food, victuals, bait"
    "ēsca, ēscae" "food, victuals, bait"
+   
    "es" "you are"
    "esset" "he (might) have been"
    "est" "he is"
+
+   "essedāriīs" "gladiators (fighting from chariots)"
+   "essedārius, essedāriī" "gladiator (fighting from a chariot)"
+   
    "ēsuriē" "hunger"
    "ēsuriēs, ēsuriēī" "hunger"
    
    "eucharistia" "Eucharist/Lord's Supper/Communion"
    "eucharistiam" "Eucharist/Lord's Supper/Communion"
    "eucharistia, eucharistiae" "Eucharist/Lord's Supper/Communion"
+
+   "ēvenīret" "it (might) have been happening"
+   "ēvenīre" "to happen"
+   "ēveniō, ēvenīre, ēvēnī, ēventus" "to happen"
    
    "ēvigilāns" "awakening"
    "ēvigilat" "he wakes up, he rouses"
    "ēvigilō, ēvigilāre, ēvigilāvī, ēvigilātus" "to awaken"
    "ēvigilantibus" "waking, being watchful"
+   
    "exaudī" "hear!"
    "exaudiō, exaudīre, exaudīvī, exaudītus" "to hear clearly"
    "exāmen" "crowd, exam"
@@ -2615,6 +2652,7 @@
    "tulērunt" "they brought"
    "tulissent" "they (might) have had brought"
    "tulit" "he brought"
+   "ferre" "to bring, to bear"
    "ferō, ferre, tulī, lātus" "to bring, to bear"
    "ferēbātur" "it was brought"
    "ferēbāntur" "they were brought"
@@ -2866,26 +2904,35 @@
    "fuistī" "you were"
    "fuit" "he was"
    "fuistis" "you were"
+   
    "fūmōsus" "smoky"
    "fūmōsus, fūmōsa, fūmōsum" "smoky"
    "fūmus" "smoke"
    "fūmō" "smoke"
    "fūmus, fūmī" "smoke"
-   "funda" "sling"
-   "funda, fundae" "sling"
+   
    "fundāmentum" "foundation"
    "fundāmentum, fundāmentī" "foundation"
+
+   "funda" "sling"
+   "fundīs" "slings"
+   "funda, fundae" "sling"
+   
    "fūnēs" "ropes"
    "fūnibus" "ropes"
    "fūnis, fūnis" "rope"
+   
    "fūniculōs" "slender ropes, cords"
    "fūniculus, fūniculī" "slender rope, cord"
+   
    "furcae" "fork"
    "furca, furcae" "fork"
+   
    "fūrtī" "theft, stolen article"
    "fūrtō" "theft, stolen article"
    "fūrtum" "theft, stolen article"
    "fūrtum, fūrtī" "theft, stolen article"
+   
    "futūra" "future"
    "futūrō" "future"
    "futūrus, futūra, futūrum" "future"
@@ -2933,6 +2980,7 @@
    "generum" "of births, families, types, offspring"
    "genus, generis" "birth, family, type, offspring"
 
+   "gerēbat" "he was carrying, he was governing"
    "gerit" "he bears, he carries, he governs"
    "gerunt" "they bear, they carry, they govern"
    "gerere" "to bear, to carry, to govern"
@@ -2971,8 +3019,11 @@
    "grātia" "grace"
    "grātia, grātiae" "grace"
    "grātiās" "graces"
+
+   "gravī" "heavy, grave"
    "gravis, grave, gravior -or -us, gravissimus -a -um" "heavy, grave"
    "gravius" "graver, heavier"
+   
    "grege" "flock"
    "gregem" "flock"
    "gregēs" "flocks"
@@ -3107,7 +3158,11 @@
    "hospitum" "of the guests"
    "hospitium" "hospitality"
    "hospitium, hospitiī" "hospitality"
+
+   "hostēs" "enemies"
+   "hostibus" "enemies"
    "hostis" "enemy"
+   "hostium" "of enemies"
    "hostis, hostis" "enemy"
 
    "hūmānitās"  "humanity, civilization"
