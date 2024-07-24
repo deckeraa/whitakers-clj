@@ -3302,15 +3302,20 @@
    "īgnōrāmus" "we ignore, we do not know"
    "īgnōrō, īgnōrāre, īgnōrāvī, īgnōrātus" "to ignore"
    "īgnōsce" "forgive!"
+   "īgnōscere" "to forgive"
+   "īgnōscerētur" "he (might) have been forgiven"
    "īgnōscō, īgnōscere, īgnōvī, īgnōtus" "to pardon, to forgive"
+   
    "īgnōrantia" "ignorance"
    "īgnōrantiae" "ignorance"
    "īgnōrantia, īgnōrantiae" "ignorance"
    "īgnōrantiam" "ignorance"
+   
    "ignōtae" "unknown"
    "ignōtīs" "unknown"
    "ignōtus" "unknown"
    "ignōtus, ignōta, ignōtum" "unknown"
+   
    "illaesum" "unharmed"
    "illaesus" "unharmed"
    "illaesus, illaesa, illaesum" "unharmed"
@@ -3341,6 +3346,9 @@
    "immolātiōne" "sacrifice"
    "immolātiō, immolātiōnis" "sacrifice"
 
+   "impedītōs" "burdened"
+   "impedītus, impedīta, impedītum" "burdened"
+
    "impendēbat" "they were expending"
    "impendere" "to expend"
    "impendō, impendere, impendī, impēnsus" "to expend"
@@ -3355,6 +3363,8 @@
    "imperat" "he commands"
    "imperāre" "to command"
    "imperāverat" "he had commanded"
+   "imperāvisset" "he (might) have had commanded"
+   "imperāvit" "he commanded"
    "imperō, imperāre, imperāvī, imperātus" "to command"
 
    "imperītī" "unfamiliar, unskilled"
@@ -3369,6 +3379,7 @@
    "impellō, impellere, impulī, impulsus" "to impel"
    
    "impetū" "attack, assault, fury"
+   "impetum" "attack, assault, fury"
    "impetus" "attack, assault, fury"
    "impetus, impetūs" "attack, assault, fury"
    
@@ -3381,6 +3392,11 @@
    "important" "they convey, they import"
    "importāre" "to convey, to import"
    "importō, importāre, importāvī, importātus" "to convey, to import"
+
+   "imprūdentia"  "ignorance"
+   "imprūdentiae" "ignorance"
+   "imprūdentiam" "ignorance"
+   "imprūdentia, imprūdentiae" "ignorance"
    
    "inaequālitās" "inequality"
    "inaequālitās, inaequālitātis" "inequality"
