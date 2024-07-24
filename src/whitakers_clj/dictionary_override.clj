@@ -62,6 +62,7 @@
    "at" "and"
    "atque" "and"
    "attamen" "nevertheless"
+   "audācter" "audaciously"
    "aut" "or"
    "autem" "but, however, moreover"
    "avēs" "birds; plural feminine nominative or accusative from avis, avis"
@@ -641,6 +642,7 @@
    "vōtum" "vow"
    "vult" "he wants; singular 3rd person present from volō, velle, voluī (irr.)"
    "vultis" "you want; plural 2nd person present from volō, velle, voluī (irr.)"
+   "X" "ten"
    })
 
 (def dictionary-map
@@ -722,6 +724,13 @@
    "admīrāmur" "we admire"
    "admīror" "to admire"
    "admīror, admīrārī, admīrātus sum" "to admire"
+
+   "admitteretur" "he (might) have been admitted"
+   "admittere" "to admit, let in"
+   "admittō, admittere, admīsī, admissus" "to admit, let in"
+
+   "adpropinquāvērunt" "they had had approached"
+   "adpropinquō, adpropinquāre, adpropinquāvī, adpropinquātus" "to approached"
 
    "adscīscunt" "they admit, approve, associate"
    "adscīscere" "to admit, to approve, to associate"
@@ -848,9 +857,12 @@
    "alter, altera, alterum" "the other"
    
    "altitūdine" "height, depth"
+   "altitūdinem" "height, depth"
    "altitūdinis" "height, depth"
    "altitūdō, altitūdinis" "height, depth"
+   
    "alta" "height"
+   "altō" "height"
    "altum" "height"
    "altī" "height"
    "altius" "higher"
@@ -921,6 +933,10 @@
    
    "animantia" "living, giving life"
    "animō, animāre, animāvī, animātus" "to give live, to animate, to revive"
+
+   "animadvertit" "he observes, he observed"
+   "animadvertere" "to observe"
+   "animadvertō, animadvertere, animadvertī, animadversus" "to observe"
    
    "annī" "year"
    "annīs" "years"
@@ -945,6 +961,7 @@
    "antīquī" "of the ancient"
    "antīquus, antīqua -um, antīquior -or -us, antīquissimus -a -um" "antique"
 
+   "apertum" "having been opened"
    "aperiō, aperīre, aperuī, apertus" "to open"
    "aperiēs" "you will open"
 
@@ -995,6 +1012,9 @@
    "aquae" "water"
    "aquam" "water"
    "aquās" "water"
+
+   "aquilam" "eagle, eagle standard"
+   "aquila, aquilae" "eagle, eagle standard"
    
    "aquilōnem" "north wind"
    "aquilō, aquilōnis" "north wind"
@@ -1040,13 +1060,21 @@
    "arēna" "sand"
    "arēnam" "sand"
    "arēna, arēnae" "sand"
+   
    "argentī" "silver"
    "argentō" "silver"
    "argentum, argentī" "silver"
+
+   "āridō" "dry"
+   "āridus, ārida -um, āridior -or -us, āridissimus -a -um" "dry"
+   
    "armāvit" "he armed, he rigged"
    "armō, armāre, armāvī, armātus" "to arm, to rig"
+   
    "armīs" "weapons"
+   "armōrum" "of weapons"
    "armum, armī" "weapon"
+   
    "arripuit" "he took hold of, he snatched"
    "arripiō, arripere, arripuī, arreptus" "to take hold of, to snatch, to arrest"
 
@@ -1100,7 +1128,10 @@
 
    "auctōritāte" "authority"
    "auctōritās, auctōritātis" "authority"
-   
+
+   "auctibus" "growth, increase"
+   "auctus, auctūs" "growth, increase"
+
    "audītis" "you hear"
    "audīvērunt" "they heard"
    "audiēbant" "they were hearing"
@@ -1149,7 +1180,8 @@
    "balneum, balneī" "bath"
    "barba" "beard"
    "barba, barbae" "beard"
-   
+
+   "barbarīs" "barbarous"
    "barbarus" "barbarous"
    "barbarus, barbara -um, barbarior -or -us, barbarissimus -a -um" "barbarous"
 
@@ -1393,6 +1425,7 @@
    "causa"  "cause, reason"
    "causae" "cause, reason"
    "causam" "cause, reason"
+   "causās" "causes, reasons"
    "causa, causae" "cause, reason"
       
    "cavēte" "Beware!"
@@ -1437,6 +1470,7 @@
    "certāmine" "contest, struggle"
    "certāmen, certāminis" "contest, struggle"
 
+   "certe" "certain"
    "certiōrēs" "more certain"
    "certus, certa -um, certior -or -us, certissimus -a -um" "certain"
 
@@ -1564,12 +1598,17 @@
    
    "cōgnitor" "advocate, attorney, witness"
    "cōgnitor, cōgnitōris" "advocate, attorney, witness"
-   
+
+   "cōgnitō" "having been recognized"
    "cōgnōscō" "I recognize, I know"
    "cōgnōscis" "you recognize"
    "cōgnōscitis" "you recognize, you know"
    "cōgnōsceret" "he (might) have recognized, he (might) have learned"
    "cōgnōscō, cōgnōscere, cōgnōvī, cōgnitum" "to recognize, to learn, to inquire, to know"
+
+   "coicerent" "they (might) be throwing together, guessing"
+   "coicere" "to throw, to guess"
+   "coiciō, coicere, coiēcī, coiectus" "to throw, to guess"
    
    "collēctiō" "collection"
    "collēctiō, collēctiōnis" "collection"
@@ -1726,6 +1765,10 @@
    "cōnsiliō"  "plan, advice, council"
    "cōnsilium" "plan, advice, council"
    "cōnsilium, cōnsiliī" "plan, advice, council"
+
+   "cōnsistendum" "taking a position, standing together"
+   "cōnstitērunt" "they took a position, they stood together"
+   "cōnsistō, cōnsistere, cōnstitī, cōnstitus" "to take a position, to stand together"
    
    "cōnsōlātiō" "consolation"
    "cōnsōlātiōnem" "consolation"
@@ -1734,14 +1777,24 @@
    "cōnsortiō" "fellowship"
    "cōnsortiō, cōnsortiōnis" "fellowship"
 
+   "cōnspēxissent" "they (might) have had observed"
+   "cōnspicere" "to observe"
+   "cōnspiciō, cōnspicere, cōnspēxī, cōnspectus" "to observe"
+
    "cōnstituerant" "they had planned"
    "cōnstituērunt" "they planned"
+   "cōnstituī" "I planned"
    "cōnstituite" "Plan! Arrange! Decide!"
    "cōnstituistī" "you placed, arranged, decreed, decided"
    "cōnstituō, cōnstituere, cōnstituī, cōnstitūtus" "to place, arrange, decree, decide"
 
    "cōnstitūta" "arrangements, agreements"
    "cōnstitūtum, cōnstitūtī" "arrangement, agreement"
+
+   "consuēverant" "they had familiarized"
+   "consuēvērunt" "they familiarized"
+   "consuēscere" "to familiarize"
+   "consuēscō, consuēscere, consuēvī, consuētus" "to familiarize"
 
    "cōnsulem" "consul"
    "cōnsulibus" "consuls"
@@ -1889,6 +1942,10 @@
    "cultū"  "cult, civilization"
    "cultus" "cult, civilization"
    "cultus, cultūs" "cult, civilization"
+
+   "cunctantibus" "hesitating, delaying"
+   "cunctāre" "to hesitate, to delay"
+   "cunctō, cunctāre, cunctāvī, cunctātus" "to hesitate, to delay"
 
    "cupidī" "eager, passionate"
    "cupidus, cupida, cupidum" "easger, passionate"
