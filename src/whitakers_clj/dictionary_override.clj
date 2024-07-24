@@ -154,6 +154,7 @@
    "exceptō" "except"
    "expectāte" "Await! plural imperative from expectō, expectāre, expectāvī, expectātus"
    "expedītīs" "lightly-armed soldiers; dative or ablative case"
+   "expedītior" "freer, more unburdened"
    "expedītius" "freer, more unburdened"
    "explētis" "You fill; 2nd person plural present from expleō, explēre, explēvī, explētus"
    "factū" "to be done, supine of facere"
@@ -3232,6 +3233,7 @@
    "īgnōrantia, īgnōrantiae" "ignorance"
    "īgnōrantiam" "ignorance"
    "ignōtae" "unknown"
+   "ignōtīs" "unknown"
    "ignōtus" "unknown"
    "ignōtus, ignōta, ignōtum" "unknown"
    "illaesum" "unharmed"
@@ -3272,6 +3274,9 @@
    "impedīmentum" "impediment, hindrance, heavy baggage"
    "impedīmentum, impedīmentī" "impediment, hindrance, heavy baggage"
 
+   "imperātōrī" "commander"
+   "imperātor, imperātōris" "commander"
+   
    "imperat" "he commands"
    "imperāre" "to command"
    "imperāverat" "he had commanded"
@@ -3324,6 +3329,8 @@
 
    "incitāta" "having been incited"
    "incitāre" "to incite"
+   "incitārent" "they (might) have been inciting"
+   "incitārī" "to be incited"
    "incitō, incitāre, incitāvī, incitātus" "to incite"
    
    "incōgnitōrum" "unknown, untested"
@@ -3445,6 +3452,10 @@
    "inmānis, inmāne, inmānior -or -us, inmānissimus -a -um" "immense, savage, monstrous"
    "innumerābilis" "countless"
    "innumerābilis, innumerābilis, innumerābile" "countless"
+
+   "inquit" "he says, he said"
+   "inquiam, -, -" "to say"
+   
    "īnsertā" "insert! introduce!"
    "īnsertō, īnsertāre, īnsertāvī, īnsertātus" "to insert, to introduce"
    
