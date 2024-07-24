@@ -5965,6 +5965,7 @@
    "sūmpsit" "he took up"
    "sūmpsērunt" "they took up"
    "sūmptō" "having been taken up"
+   "sūmptūrum" "to be undertaken"
    "sūmō, sūmere, sūmpsī, sūmptus" "to take up"
    
    "sumus" "we are"
@@ -6038,6 +6039,10 @@
    
    "tangere" "to touch, to strike"
    "tangō, tangere, tetigī, tāctus" "to touch, to strike"
+
+   "temperātūrōs" "to be tempered, moderated"
+   "temperāre" "to temper, to moderate"
+   "temperō, temperāre, temperāvī, temperātus" "to temper, to moderate"
    
    "tempestās" "weather, storm"
    "tempestās, tempestātis" "weather, storm"
@@ -6127,6 +6132,7 @@
    
    "tōta" "whole, total"
    "tōtam" "whole, total"
+   "tōtī" "whole, total"
    "tōtius" "of the whole"
    "tōtum" "whole, total"
    "tōtus" "whole, total"
@@ -6151,6 +6157,7 @@
    "trānsactō" "having been accomplished"
    "trānsactīs" "having been accomplished"
    "trānsigō, trānsigere, trānsēgī, trānsactum" "to stab, to pierce, to accomplish"
+   "trānsītur" "being crossed"
    "trānsībat" "he was going over, he was crossing"
    "trānsīvisset" "he (might) have had crossed"
    "transivit" "he crossed"
@@ -6159,6 +6166,7 @@
    "trānsivērunt" "they went over, they crossed over"
    "trānseuntium" "crossing"
    "trānseō, trānsīre, trānsivi(iī), trānsitus" "to go over, to cross"
+   
    "trānsmeāre" "to go across, to pass over"
    "trānsmeō, trānsmeāre, trānsmeāvī, trānsmeātus" "to go across, to pass over"
    "trānsmittam" "I will send"
@@ -6231,6 +6239,7 @@
    "ūtilitās, ūtilitātis" "usefulness, utility, profit, advantage"
       
    "ultimam" "farthest, last"
+   "ulteriōre" "farther, last"
    "ulterius" "farther, last"
    "-, -, ulterior -or -us, ultimus -a -um" "farthest, last"
    
@@ -6254,12 +6263,21 @@
    "undae" "waves"
    "undās" "waves"
    "unda, undae" "waves"
+   
    "ungulās" "claws, hooves"
    "ungula, ungulae" "claw, hoof"
+   
    "ūnum" "one"
    "ūnus -a -um, prīmus -a -um, singulī -ae -a, semel" "one"
+
+   "urbe" "city"
+   "urbs" "city"
+   "urbis" "city"
+   "urbs, urbis" "city"
+   
    "ūrceolus, ūrceolī" "small pitcher"
    "ūrceolī" "small pitcher"
+   
    "utra" "either"
    "utrēs" "bag/bottle made of skin/hide"
    "uter, utris" "bag/bottle made of skin/hide"
@@ -6286,6 +6304,7 @@
    "vagārentur" "they (might) have wandered"
    
    "vāde" "go!"
+   "vādō" "I go"
    "vādō, vādere, vāsī, -" "to go, to walk"
 
    "variō"  "various, diverse"
@@ -6528,7 +6547,8 @@
 
    "volābat" "he was flying"
    "volō, volāre, volāvī, volātus" "to fly"
-   
+
+   "vellent" "they (might) have been wanting"
    "volēbant" "they were wanting"
    "volō" "I want"
    "voluisset" "he (might) have had wanted"
