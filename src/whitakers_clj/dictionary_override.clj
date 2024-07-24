@@ -3282,6 +3282,9 @@
    "imperāverat" "he had commanded"
    "imperō, imperāre, imperāvī, imperātus" "to command"
 
+   "imperītī" "unfamiliar, unskilled"
+   "imperītus, imperīta, imperītum" "unfamiliar, unskilled"
+
    "imperiō"  "command, dominion, empire"
    "imperium" "command, dominion, empire"
    "imperium, imperi(ī)" "command, dominion, empire"
@@ -3475,6 +3478,9 @@
 
    "īnstitit" "he pursued, he threatened"
    "īnstō, īnstāre, īnstitī, -" "to pursue, to threaten"
+
+   "īnsuēfactōs" "accustomed, well-trained"
+   "īnsuēfactus, īnsuēfacta, īnsuēfactum" "accustomed, well-trained"
    
    "īnsula" "island"
    "īnsula, īnsulae" "island"
@@ -3531,6 +3537,11 @@
    "introitus" "entrance"
    "introitum" "entrance"
    "introitus, introitūs" "entrance"
+
+   "inūsitātior" "more unusual"
+   "inūsitātō" "unusual"
+   "inūsitātus, inūsitāta -um, inūsitātior -or -us, inūsitātissimus -a -um" "unusual"
+   
    "invēnērunt" "they found"
    "invēnī" "I found"
    "invenietis" "finding"
@@ -3747,6 +3758,8 @@
    "lēgātus, lēgātī" "legate, ambassador"
 
    "legiō" "legion"
+   "legiōnī" "legion"
+   "legiōnis" "legion"
    "legiō, legiōnis" "legion"
 
    "legēbantur" "they were being read"
@@ -3827,6 +3840,7 @@
    "longitūdō, longitūdinis" "length, longitude"
 
    "longa" "long, far"
+   "longās" "long, far"
    "longum" "long, far"
    "longiorem" "longer, farther"
    "longissime" "very long"
@@ -4031,6 +4045,7 @@
    
    "mīles" "soldier"
    "mīlitēs" "soldiers"
+   "mīlitibus" "soldiers"
    "mīlitum" "of soldiers"
    "mīles, mīlitis" "soldier"
    
@@ -4162,6 +4177,11 @@
    "mortuae" "dead"
    "mortuus" "dead"
    "mortuus, mortua, mortuum" "dead"
+
+   "mōtū"  "movement, tumult"
+   "mōtus" "movement, tumult"
+   "mōtūs" "movement, tumult"
+   "mōtus, mōtūs" "movement, tumult"
    
    "movēbat" "he was moving"
    "movent" "they move"
@@ -4235,11 +4255,17 @@
 
    "nāve" "boat"
    "nāvem" "boat"
+   "nāvēs" "boats"
+   "nāvibus" "boats"
    "nāvicula" "small boat"
    "nāviculae" "small boat"
    "nāviculam" "small boat"
    "nāvicula, nāviculae" "small boat"
    "nāvī" "boat"
+   "nāvium" "of boats"
+   "nāvim" "boat"
+   "nāvis" "boat"
+   "nāvis, nāvis" "boat"
    
    "nāvigā" "sail (imperative)"
    "nāvigābam" "I was sailing"
@@ -4260,9 +4286,6 @@
    "nāvigiī" "vessel, ship, sailing, navigation"
    "nāvigium" "vessel, ship, sailing, navigation"
    "nāvigium, nāvigi(ī)" "vessel, ship, sailing, navigation"
-   "nāvim" "boat"
-   "nāvis" "boat"
-   "nāvis, nāvis" "boat"
 
    "nebula"  "fog, cloud"
    "nebulae" "fog, cloud"
