@@ -1830,6 +1830,8 @@
    "cōnsortiō" "fellowship"
    "cōnsortiō, cōnsortiōnis" "fellowship"
 
+   "cōnspēxerant" "they had observed"
+   "cōnspēxerat" "he had observed"
    "cōnspēxissent" "they (might) have had observed"
    "cōnspicere" "to observe"
    "cōnspiciō, cōnspicere, cōnspēxī, cōnspectus" "to observe"
@@ -1989,7 +1991,9 @@
    "cubitus, cubitī" "cubit"
    "cūdēs" "you will pound"
    "cūdō, cūdere, cūdī, cūsus" "to pound"
+   
    "culpa" "fault"
+   "culpam" "fault"
    "culpa, culpae" "fault"
 
    "cultū"  "cult, civilization"
@@ -2043,6 +2047,7 @@
    "dans" "giving"
    "dant" "they give"
    "dat" "he gives"
+   "datūrōs" "to be given"
    "data" "things given"
    "datō" "gift"
    "datum, datī" "gift"
@@ -2082,6 +2087,7 @@
    "dēfendistī" "you defended"
    "dēfendō" "I defend"
    "dēfendō, dēfendere, dēfendī, dēfēnsus" "to defend"
+   "dēfuit" "he lacked"
    "dēsum, dēesse, dēfuī, dēfutūrus" "to lack"
    "dēficiō, dēficere, dēfēcī, dēfectus" "to run short, to lack"
    "dēfēnsor" "defender, protector"
@@ -2114,11 +2120,15 @@
    "dēligere" "to choose, to select"
    "dēligō, dēligere, dēlēgī, dēlēctus" "to choose, to select"
    
-   "deī" "god, diety"
+   "dēmōnstrāveram" "I had demonstrated"
+   "dēmōnstrāre" "to demonstrate"
+   "dēmōnstrō, dēmōnstrāre, dēmōnstrāvī, dēmōnstrātus" "to demonstrate"
+   
    "dēmorātus" "dwelling, detaining"
    "dēmorābantur" "they were dwelling, they were delaying"
    "dēmorārī" "to detain, to delay, to dwell"
    "dēmoror, dēmorārī, dēmorātus sum" "to detain, to delay, to dwell"
+   
    "dēnsissimīs" "very dense"
    "dēnsus, dēnsa -um, dēnsior -or -us, dēnsissimus -a -um" "dense"
    "dēprecantēs" "praying"
@@ -2128,7 +2138,8 @@
    "dēprecātiōnum" "of deprecations"
    "dēprecāvisset" "they (might) have had prayed"
    "dēprecābātur" "they were praying"
-   
+
+   "deī" "god, diety"
    "deō" "god"
    "deōrum" "of gods"
    "deōs" "gods"
@@ -2314,7 +2325,9 @@
    "distribuō, distribuere, distribuī, distribūtus" "to distribute"
    "dedissent" "they (might) have had given"
    "dēlātīs" "having been transferred, having been brought down"
+   "dēferret" "he (might) have been bringing"
    "dēferō, dēferre, dētulī, dēlātus" "to bring down, to transfer"
+   
    "dīmidium" "half"
    "dīmidium, dīmidiī" "half"
 
@@ -2433,9 +2446,11 @@
    
    "ēgrediēbātur" "he was going out"
    "ēgrediēbantur" "they went out"
+   "ēgredientēs" "going out"
    "ēgrediētur" "it will go out"
    "ēgrediminī" "you are going out"
    "ēgredī" "to go out, to egress"
+   "ēgressum" "having gone out"
    "ēgredior, ēgredī, ēgressus sum" "to go out, to egress"
    
    "eius" "his, hers, its"
@@ -2471,10 +2486,14 @@
    "equitāre" "to ride on horseback"
    "equitō, equitāre, equitāvī, equitātus" "to ride on horseback"
 
+   "equīs" "horses"
    "equōs" "horses"
    "equum" "horse"
    "equus" "horse"
    "equus, equī" "horse"
+
+   "equitēs" "horsemen"
+   "eques, equitis" "horseman"
 
    "eram" "I was"
    "erant" "they were"
