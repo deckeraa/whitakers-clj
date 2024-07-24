@@ -523,6 +523,7 @@
                    "port.ate" "portāte" "antoni.us" "Antōnius" "delic.atis" "dēlicātīs"
                    "infer.as" "īnferās" "inferi.orem" "īnferiōrem" "nobilit.atis" "nōbilitātis"
                    "carr.orum" "carrōrum" "s.ese" "sēsē" "lac.us" "lacus"
+                   "compar.atis" "comparātis" "leg.atis" "lēgātīs"
                    } word) word)]
     word))
 

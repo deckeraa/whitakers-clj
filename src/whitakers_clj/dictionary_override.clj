@@ -76,6 +76,7 @@
    "Caiphā" "Ablative of Caiphas, a high priest involved with the crucifixion of Christ."
    "candida" "bright, white, clean; singular feminine nominative from candidus, candida, candidum"
    "cantāte" "Sing! Plural imperative from cantāre"
+   "cassium" "Lucius Cassius Longinus (c. 151 - 107 BC), a consul who was killed at the Battle of Burdigala"
    "Catamantaloedis" "Catamantaledes (one of the Sequani)"
    "celebrāte" "Celebrate!"
    "cepsitāvit" "he stumbled; singular perfect from cespitō, cespitāre, cespitāvi, cespitas"
@@ -164,6 +165,7 @@
    "frēnum" "bridal; ornamental necklace"
    "fuerint" "they will have been; 3rd person plural future perfect from esse"
    "fūrtim" "secret, stealthily"
+   "gabīniō" "Aulus Gabinius, consul in 58 BC"
    "Garumna"  "The Garonne, a river running in modern-day France and Spain"
    "Garumnam" "The Garonne, a river running in modern-day France and Spain"
    "germānī" "Germans"
@@ -389,6 +391,7 @@
    "perfīnīta" "perfīnīta + est: it has been finished"
    "Pīlātō" "Ablative of Pontius Pilate, the Roman official involved with the crucifixion of Christ."
    "pīlātō" "Ablative of Pontius Pilate, the Roman official involved with the crucifixion of Christ."
+   "pīsōne" "Lucius Piso, consul in 58 BC"
    "plēbem" "common people; singular masculine accusative from plēbs, plēbis"
    "plēbī" "to the common people; singular masculine accusative from plēbs, plēbis"
    "plūs" "more, from mūltus"
@@ -1612,6 +1615,7 @@
    
    "comparāvī" "I compared"
    "comparāre" "I compare"
+   "comparātis" "you compare"
    "comparō, comparāre, comparāvī, comparātus" "to compare"
    
    "complentur" "it is completed, it is filled up"
@@ -2830,6 +2834,7 @@
 
    "gallia" "Gaul"
    "galliae" "Gaul"
+   "galliam" "Gaul"
    "Gallia, Galliae" "Gaul"
    
    "gallōrum" "of chickens, of roosters"
@@ -2841,14 +2846,19 @@
    "gemmārum" "of gems"
    "gemmīs" "gems"
    "gemma, gemmae" "gem, jewel"
+   
    "genetricis" "mother, ancestress"
    "genetrīx, genetricis" "mother, ancestress"
-   "genibus" "knee"
+
+   "genēva" "Geneva, a city in Gaul"
+   "genēva, genēvae" "Geneva, a city in Gaul"
+   
    "gentēs" "peoples, clans, nations"
    "gēns, gentis" "people, clan, nation"
    
    "genu" "knee"
    "genū" "knee"
+   "genibus" "knee"
    "genu, genūs" "knee"
    "genua" "knees"
    
@@ -6240,6 +6250,7 @@
       
    "ultimam" "farthest, last"
    "ulteriōre" "farther, last"
+   "ulteriōrem" "farther, last"
    "ulterius" "farther, last"
    "-, -, ulterior -or -us, ultimus -a -um" "farthest, last"
    
