@@ -406,6 +406,7 @@
    "pīsōne" "Lucius Piso, consul in 58 BC"
    "plēbem" "common people; singular masculine accusative from plēbs, plēbis"
    "plēbī" "to the common people; singular masculine accusative from plēbs, plēbis"
+   "plērum" "most of the time"
    "plūs" "more, from mūltus"
    "porrō" "farther, further, also"
    "post" "behind, after, since"
@@ -4370,6 +4371,10 @@
 
    "notanda" "writing, observing"
    "notō, notāre, notāvī, notātus" "to write, to observe"
+
+   "nōtissimīs" "very well known"
+   "nōtus" "known"
+   "nōtus, nōta -um, nōtior -or -us, nōtissimus -a -um" "known"
    
    "novissimō"  "very new, very inexperienced"
    "novissimum" "very new, very inexperienced"
@@ -4446,6 +4451,9 @@
    "observāre" "to observe, to watch"
    "observāte" "watch!"
    "observō, observāre, observāvī, observātus" "to observe, to watch"
+
+   "obtestātus" "having been implored"
+   "obtestor, obtestārī, obtestātus sum" "to implore"
 
    "obtentūrus" "will be obtaining"
    "obtinēbat" "he was obtaining"
@@ -4531,6 +4539,12 @@
    "onerāvērunt" "they loaded"
    "onerāvit" "he loaded"
    "onerō, onerāre, onerāvī, onerātus" "to load, to burden"
+
+   "onerāriīs" "burdened"
+   "onerārius, onerāria, onerārium" "burdened"
+
+   "onere" "burden"
+   "onus, oneris" "burden"
    
    "oportet" "it is right/proper/necessary"
    "oportet, oportere, oportuit, -" "it is right/proper/necessary"
@@ -4540,13 +4554,14 @@
    "oppidō" "town"
    "oppidum" "town"
    "oppidum, oppidī" "town"
-   
+
    "optimīs" "very good"
 
    "operibus" "works, deeds"
    "opus" "work, deed"
    "opus, operis" "work, deed"
 
+   "oppressīs" "having been oppressed"
    "oppressus" "having been oppressed"
    "opprimere" "to press down, to oppress"
 
@@ -4766,7 +4781,12 @@
    "peccō, peccāre, peccāvī, peccātus" "to sin"
    
    "pede" "foot"
+   "pedem" "foot"
    "pedēs" "feet"
+
+   "pedestribus" "on foot"
+   "pedester, pedestris, pedestre" "on foot"
+   
    "pellēs" "pelts, hides"
    "pellium" "of pelts, of hides"
    "pellis, pellis" "pelt, hide"
@@ -5103,6 +5123,9 @@
    "praedīxī" "I said before"
    "praedīcō, praedīcere, praedīxī, praedictus" "to say before"
    "praedīxerat" "he had said"
+
+   "praemissō" "having been sent ahead"
+   "praemittō, praemittere, praemīsī, praemissus" "to send ahead"
    
    "praeparantur" "being prepared"
    "praeparāvīt" "he prepared"
@@ -5120,11 +5143,16 @@
    "praesentō, praesentāre, praesentāvī, praesentātus" "to present"
    "praesēns" "present"
    "praesēns, (gen.), praesentis" "present"
+   
    "praesentia, praesentiae" "present time"
    "praesentiam" "present time"
+
+   "praestiterō" "I will have surpassed"
    "praestō, praestāre, praestitī, praestātum" "to excel, to surpass"
+   
    "praestōlor" "I stand ready"
    "praestōlor, praestōlārī, praestōlātus sum" "to stand ready"
+   
    "praeest" "he preside, he takes command"
    "praesum, praeesse, praefuī, praefutūrus" "to preside, to take the lead"
    "praesūmō" "to presume, to anticipate"
@@ -5147,6 +5175,7 @@
    "pretiōsus, pretiōsa -um, pretiōsior -or -us, pretiōsissimus -a -um" "precious"
    
    "prīma" "first"
+   "prīmī" "first"
    "prīmō" "first"
    "prīmus, prīma, prīmum" "first"
    "primitia, primitiae" "first fruits"
