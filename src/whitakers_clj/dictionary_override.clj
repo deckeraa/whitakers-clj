@@ -5468,9 +5468,11 @@
    "reficite" "restore!"
    "reficiantur" "they (might) be refreshed"
    "refēcit" "he refreshed, he rebuilt"
-   
+
+   "rettulērunt" "they brought back, reported"
    "referēns" "bringing back, reporting"
    "referō, referre, rettulī, relātus" "to bring back, to report"
+   
    "refocilātiō" "refreshment"
    "refocillātiō, refocillātiōnis" "refreshment"
 
@@ -5693,6 +5695,9 @@
    "rogus, rogī" "funeral pyre, grave"
 
    "Rōmānī" "Romans"
+   "rōmānī" "Romans"
+   "Rōmānōrum" "Romans"
+   "rōmānōrum" "Romans"
    "rōmānum" "Roman"
    "Rōmānus" "Roman"
    "rōmānus" "Roman"
@@ -5744,8 +5749,11 @@
    "saeculum" "age, generation"
    "saeculō" "age, generation"
    "saeculum, saeculī" "age, generation"
+   
    "sagitta" "arrow"
+   "sagittīs" "arrows"
    "sagitta, sagittae" "arrow"
+   
    "sagus" "sage"
    "sagī" "sage"
    "sagus, sagī" "sage"
@@ -6054,6 +6062,9 @@
    "spatium" "space"
    "spatium, spatiī" "space"
 
+   "speciēs" "appearance, view"
+   "speciēs, speciēī" "appearance, view"
+
    "spectat" "he observes, he considers"
    "spectant" "they observe, they consider"
    "spectō, spectāre, spectāvī, spectātus" "to observe, to consider"
@@ -6134,6 +6145,7 @@
    "strepitus, strepitūs" "din, noise, clashing, sound"
 
    "studiīs" "studies, fondness, desire"
+   "studiō" "studies, fondness, desire"
    "studium, studiī" "study, fondness, desire"
 
    "studiōsus" "eager, studious"
@@ -6165,6 +6177,11 @@
    "subjugō, subjugāre, subjugāvī, subjugātus" "to subjugate"
    "subiūnxit" "he subdued, he joined"
    "subiungō, subiungere, subiūnxī, subiūnctus" "he subdued, he joined"
+
+   "submovērī" "to be driven off"
+   "submovēre" "to drive off"
+   "submoveō, submovēre, submōvī, submōtus" "to drive off"
+   
    "subrīsit" "he smiled"
    "subrīdeō, subrīdēre, subrīsī, subrīsus" "to smile"
    "substantia" "substance"
@@ -6197,6 +6214,8 @@
    "sum, esse, fuī, futūrus" "to be (irregular)"
    "summitās, summitātis" "summit, top"
    "summitāte" "summit, top"
+
+   "summa" "highest, greatest"
    "summō" "highest, greatest"
    "summus, summa, summum" "highest, greatest"
    
@@ -6281,6 +6300,9 @@
    "tangere" "to touch, to strike"
    "tangō, tangere, tetigī, tāctus" "to touch, to strike"
 
+   "tēla" "spears"
+   "tēlum, tēlī" "spear"
+
    "temperātūrōs" "to be tempered, moderated"
    "temperāre" "to temper, to moderate"
    "temperō, temperāre, temperāvī, temperātus" "to temper, to moderate"
@@ -6364,7 +6386,9 @@
    "tollat" "they (might) lift up"
    "sublāta" "having been lifted up"
    "tollō, tollere, sustulī, sublātus" "to raise up"
+   
    "tormenta" "torments"
+   "tormentīs" "torments"
    "tormentōrum" "of torments"
    "tormentum, tormentī" "torment, cannon"
 
@@ -6508,6 +6532,9 @@
    
    "ungulās" "claws, hooves"
    "ungula, ungulae" "claw, hoof"
+
+   "ūniversī" "whole, entire"
+   "ūniversus, ūniversa, ūniversum" "whole, entire"
    
    "ūnum" "one"
    "ūnus -a -um, prīmus -a -um, singulī -ae -a, semel" "one"
@@ -6519,24 +6546,33 @@
    
    "ūrceolus, ūrceolī" "small pitcher"
    "ūrceolī" "small pitcher"
+
+   "ūsuī" "use, employment, skill"
+   "ūsus, ūsūs" "use, employment, skill"
    
    "utra" "either"
    "utrēs" "bag/bottle made of skin/hide"
    "uter, utris" "bag/bottle made of skin/hide"
+   
    "uter, utra, utrum" "either"
+
+   "ūtēbantur" "they were using"
    "ūtitur" "he uses"
    "ūsī" "having used"
    "ūtī" "to use"
    "ūtor, ūtī, ūsus sum" "to use"
    "ūtāminī" "you (might) be using"
+   
    "ūtēnsilia" "utensils"
    "ūtēnsiliā" "utensils"
    "ūtēnsilia, ūtēnsiliae" "utensils"
+   
    "ūvae" "grape"
    "ūvārum" "of grapes"
    "ūvīs" "grapes"
    "ūvās" "grapes"
    "ūva, ūvae" "grape"
+   
    "vacuam" "empty, vacant"
    "vacuus, vacua, vacuum" "empty, vacant"
    
