@@ -61,6 +61,7 @@
    "assāte" "Roast! Bake! Broil! Plural imperative from assō, assāre, assāvī, assātus"
    "at" "and"
    "atque" "and"
+   "Atrebās" "An Atrebatian. The Atrebates were a tribe in Gallia Belgica."
    "attamen" "nevertheless"
    "audācter" "audaciously"
    "aut" "or"
@@ -87,6 +88,7 @@
    "circiter" "near, close, about"
    "circum" "about, around, near"
    "citō" "quickly"
+   "Commius" "Commius, a Roman ambassador"
    "coepērunt" "they started; from coepī, coepisse, coepī, coeptum"
    "commendātīs" "you commend; 2nd person plural present from commendāre"
    "commorantur" "they dwell, 3rd person present of commoror, commorārī, commorātum (dep.)"
@@ -709,6 +711,9 @@
    "adficiēbantur" "they were being equipped, they were being affected"
    "adficere" "to equip, to affect"
    "adficiō, adficere, adfēcī, adfectus" "to equip, to affect"
+
+   "adgregābat" "he was bringing together"
+   "adgregō, adgregāre, adgregāvī, adgregātus" "to bring together"
    
    "aditus" "approach, entrance"
    "aditus, aditūs" "approach, entrance"
@@ -735,6 +740,9 @@
    "admitteretur" "he (might) have been admitted"
    "admittere" "to admit, let in"
    "admittō, admittere, admīsī, admissus" "to admit, let in"
+
+   "adoriēbantur" "they were attacking"
+   "adorio, adorīre, -, adorītus" "to attack"
 
    "adpropinquāvērunt" "they had had approached"
    "adpropinquō, adpropinquāre, adpropinquāvī, adpropinquātus" "to approached"
@@ -796,6 +804,7 @@
 
    "ager" "field"
    "agrīs" "fields"
+   "agrōs" "fields"
    "agrum" "field"
    "ager, agrī" "field"
    
@@ -848,6 +857,7 @@
    "aliōrum" "of others"
    "alium" "other"
    "aliud" "other"
+   "alius" "other"
    "alius, alia, aliud" "other"
    "alligāvissent" "they (might) have had tied"
    "alligō, alligāre, alligāvī, alligātus" "to bind, to tie"
@@ -942,6 +952,7 @@
    "animō, animāre, animāvī, animātus" "to give live, to animate, to revive"
 
    "animadvertit" "he observes, he observed"
+   "animadvertisset" "he (might) have had observed"
    "animadvertere" "to observe"
    "animadvertō, animadvertere, animadvertī, animadversus" "to observe"
    
@@ -968,6 +979,7 @@
    "antīquī" "of the ancient"
    "antīquus, antīqua -um, antīquior -or -us, antīquissimus -a -um" "antique"
 
+   "apertō"  "having been opened"
    "apertum" "having been opened"
    "aperiō, aperīre, aperuī, apertus" "to open"
    "aperiēs" "you will open"
@@ -1049,6 +1061,11 @@
    "arbōrum" "of trees"
    "arbustam" "planted with trees"
    "arbustus, arbusta, arbustum" "planted with trees"
+
+   "arcessītam" "having been summoned, fetched"
+   "arcessere" "to summon, to fetch"
+   "arcessō, arcessere, arcessīvī, arcessītus" "to summon, to fetch"
+   
    "ārdent" "they burn"
    "ardentem" "burning"
    "ardentēs" "burning"
@@ -1289,6 +1306,9 @@
    "brevitās" "shortness, narrowness"
    "brevitāte" "shortness, narrowness"
    "brevitās, brevitātis" "shortness, narrowness"
+
+   "britanniam" "Britain"
+   "Britannia, Britanniae" "Britain"
    
    "būtȳrum" "butter"
    "būtȳrō" "butter"
@@ -1317,8 +1337,12 @@
 
    "Caesar" "Caesar"
    "caesar" "Caesar"
+   "caesare" "Caesar"
+   "caesarem" "Caesar"
    "Caesarī" "to Caesar"
    "caesarī" "to Caesar"
+   "Caesaris" "Caesar"
+   "caesaris" "Caesar"
    "Caesar, Caesaris" "Caesar"
    
    "calidus" "hot, warm"
@@ -1537,6 +1561,10 @@
    "circumdō, circumdare, circumdedī, circumdatus" "to surround, to place around"
    "circumfulsit" "it shone all around"
    "circumfulgeō, circumfulgēre, circumfulsī, circumfulsus" "it shone all around"
+
+   "circumsistēbant" "they were surrounding"
+   "circumsistō, circumsistere, circumstitī, circumstatus" "to surround"
+   
    "citius" "swifter"
    "citus, cita -um, citior -or -us, citissimus -a -um" "swift"
 
@@ -1613,6 +1641,7 @@
    "cōgnōsceret" "he (might) have recognized, he (might) have learned"
    "cōgnōscō, cōgnōscere, cōgnōvī, cōgnitum" "to recognize, to learn, to inquire, to know"
 
+   "coiciēbant" "they were throwing together, guessing"
    "coicerent" "they (might) be throwing together, guessing"
    "coicere" "to throw, to guess"
    "coiciō, coicere, coiēcī, coiectus" "to throw, to guess"
@@ -1654,6 +1683,9 @@
 
    "commeant" "they communicate, they come and go"
    "commeō, commeāre, commeāvī, commeātus" "to communicate, to come and go"
+
+   "commendāre" "to entrust, to commit, to recommend"
+   "commendō, commendāre, commendāvī, commendātus" "to entrust, to commit, to recommend"
    
    "commīlitōnibus" "comrade"
    "commīlitō, commīlitōnis" "comrade"
@@ -1670,9 +1702,16 @@
    "comparō, comparāre, comparāvī, comparātus" "to compare"
    
    "complentur" "it is completed, it is filled up"
+   "complērī" "to be filled up"
    "compleō, complēre, complēvī, complētus" "to complete, to fill up"
+   
    "complētōrium" "compline, service of prayers at close of day"
    "complētōrium, complētōriī" "compline, service of prayers at close of day"
+
+   "comprehenderant" "they had caught"
+   "comprehendere" "to catch"
+   "comprehendō, comprehendere, comprehendī, comprehēnsus" "to catch"
+   
    "computātur" "it is calculated, it is reckoned"
    "computō, computāre, computāvī, computātum" "to calculate, to reckon"
 
@@ -1743,6 +1782,10 @@
    "congregātiōne" "congregation"
    "congregātiō, congregātiōnis" "congregation"
 
+   "coniēcerant" "they had thrown"
+   "conicere" "to throw"
+   "coniciō, conicere, coniēcī, coniectus" "to throw"
+
    "coniūrātiōnem" "conspiracy"
    "coniūrātiō, coniūrātiōnis" "conspiracy"
 
@@ -1757,6 +1800,9 @@
    "cōnscīverit" "he will decide"
    "cōnscīscere" "to decide"
    "cōnscīscō, cōnscīscere, cōnscīvī, cōnscītus" "to decide"
+
+   "cōnsecūtīs" "having been followed"
+   "cōnsequor, cōnsequī, cōnsecūtus sum" "to follow"
    
    "cōnsēnsū" "consensus"
    "cōnsēnsus, cōnsēnsūs" "consensus"
