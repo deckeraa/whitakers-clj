@@ -2673,6 +2673,7 @@
    "facta" "having been made"
    "factī" "having been made, done"
    "factō" "made"
+   "factūrōs" "to be made"
    "factus" "made"
    "fīēbat" "it was being made"
    "faciundī" "to be made"
@@ -2904,6 +2905,10 @@
    "fortitūdinem" "strength, fortitude"
    "fortitūdō, fortitūdinis" "strength, fortitude"
    "fortium" "strengh, fortitude"
+
+   "fortunam" "luck, fate"
+   "fortūna, fortūnae" "luck, fate"
+   
    "fossa" "ditch, moat"
    "fossam" "ditch, moat"
    "fossa, fossae" "ditch, moat"
@@ -2959,6 +2964,10 @@
    
    "fuerat" "he had been"
    "fuērunt" "they were"
+
+   "fuga" "flight, escape"
+   "fugam" "flight, escape"
+   "fuga, fugae" "flight, escape"
 
    "fugere" "to flee"
    "fūgērunt" "they fled"
