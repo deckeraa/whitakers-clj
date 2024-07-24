@@ -5205,6 +5205,9 @@
    "prōcūrātōris" "procurator"
    "prōcūrātor, prōcūrātōris" "procurator"
 
+   "prōdere" "to project, to bring forth, to reveal"
+   "prōdō, prōdere, prōdidī, prōditus" "to project, to bring forth, to reveal"
+
    "proeliīs" "battles, conflicts"
    "proelium" "battle, conflict"
    "proelium, proeliī" "battle, conflict"
@@ -5223,19 +5226,33 @@
    "proficīscendum" "setting out"
    "proficīscantur" "they (might) set out"
 
+   "profundō" "deep, bottomless, boundless"
+   "profundīs" "deep, bottomless, boundless"
+   "profundum" "deep, bottomless, boundless"
+   "profundus, profunda, profundum" "deep, bottomless, boundless"
+
+   "prōgressī" "having advanced"
+   "prōgredior, prōgredī, prōgressus sum" "to advance, to go forward"
+
+   "prohibēbant" "they were preventing, restraining"
    "prohibent" "they prevent, they restrain"
    "prohibuit" "he prevented, he restrained"
    "prohibēre" "to prevent, to restrain"
    "prohibeō, prohibēre, prohibuī, prohibitus" "to prevent, to restrain"
    
-   "profundō" "deep, bottomless, boundless"
-   "profundīs" "deep, bottomless, boundless"
-   "profundum" "deep, bottomless, boundless"
-   "profundus, profunda, profundum" "deep, bottomless, boundless"
+   "prōiēcit" "he threw down"
+   "prōicere" "to throw down"
+   "prōiciō, prōicere, prōiēcī, prōiectus" "to throw down"
+   
    "prōmissum" "promise"
    "prōmissum, prōmissī" "promise"
    "prōnus" "prone, sloped"
    "prōnus, prōna, prōnum" "prone, sloped"
+
+   "prōpellī" "to be driven, to be defeated"
+   "prōpellere" "to drive, to defeat"
+   "prōpellō, prōpellere, prōpulī, prōpulsus" "to drive, to defeat"
+   
    "prophētia"  "prophet"
    "prophētiae" "prophet"
    "prophētia, prophētiae" "prophet"
@@ -5296,17 +5313,25 @@
    "psalmus, psalmī" "psalm"
    "psaltēriī" "the Psalms"
    "psaltērium, psaltēriī" "the Psalms"
+   
    "pūblica" "public"
    "pūblicum, pūblicī" "public"
+
+   "pūblicae" "public"
+   "pūblicus, pūblica, pūblicum" "public"
+   
    "puer" "boy"
    "puerī" "boy"
    "puer, puerī" "boy"
    "puerōrum" "of boys"
+   
    "pugna" "fight"
+   "pugnae" "fight"
    "pugna, pugnae" "fight"
 
    "pugnāvit" "he fought"
    "pugnāre" "to fight"
+   "pugnandum" "fighting"
    "pugnō, pugnāre, pugnāvī, pugnātus" "to fight"
 
    "pulsum" "pulse, stroke"
@@ -5491,8 +5516,10 @@
 
    "reliqua" "remaining"
    "reliquī" "remaining"
+   "reliquīs" "remaining"
    "reliquōs" "remaining"
    "reliquus, reliqua, reliquum" "remaining"
+
    "reprōmissiō, reprōmissiōnis" "promise"
    "reprōmissiōnis" "promise"
    
@@ -5516,6 +5543,14 @@
 
    "rēmigāre" "to row"
    "rēmigō, rēmigāre, rēmigāvī, rēmigātus" "to row"
+
+   "rēmīs" "oars"
+   "rēmōrum" "of oars"
+   "rēmus, rēmī" "oar"
+
+   "removērī" "to be removed"
+   "removēre" "to remove"
+   "removeō, removēre, remōvī, remōtus" "to remove"
 
    "replētī" "having been filled/re-filled"
    "repleō, replēre, replēvī, replētus" "to fill again"
