@@ -6154,6 +6154,8 @@
    "silvam" "forest"
    "silvīs" "forests"
    "silva, silvae" "forest"
+
+   "singulārēs" "horse body-guard"
    
    "singulam" "one each"
    "singula" "one each"
@@ -6249,6 +6251,9 @@
    "spectat" "he observes, he considers"
    "spectant" "they observe, they consider"
    "spectō, spectāre, spectāvī, spectātus" "to observe, to consider"
+
+   "speculātōria" "for spying or scouting"
+   "speculātōrius, speculātōria, speculātōrium" "for spying or scouting"
    
    "spēlunca" "cave"
    "spēluncae" "cave"
@@ -6359,15 +6364,26 @@
    "subiūnxit" "he subdued, he joined"
    "subiungō, subiungere, subiūnxī, subiūnctus" "he subdued, he joined"
 
+   "submittēbat" "he was submitting"
+   "submittō, submittere, submīsī, submissus" "to submit"
+
    "submovērī" "to be driven off"
    "submovēre" "to drive off"
    "submoveō, submovēre, submōvī, submōtus" "to drive off"
    
    "subrīsit" "he smiled"
    "subrīdeō, subrīdēre, subrīsī, subrīsus" "to smile"
+
+   "subsequī" "to follow close after"
+
+   "subsidia" "support, auxilliary forces"
+   "subsidium" "support, auxilliary force"
+   "subsidium, subsidiī" "support, auxilliary force"
+   
    "substantia" "substance"
    "substantiā" "substance"
    "substantia, substantiae" "substance"
+   
    "subtrahit" "he carries off"
    "subtrahō, subtrahere, subtrāxī, subtractus" "to carry off"
    "subvenit" "he brings aid"
@@ -6413,6 +6429,7 @@
    "sunt" "they are"
    
    "superat" "he overcomes"
+   "superātī" "having been overcome"
    "superāvisset" "he (might) have overcome"
    "superō, superāre, superāvī, superātus" "to overcome"
 
@@ -6714,7 +6731,8 @@
    "ungulās" "claws, hooves"
    "ungula, ungulae" "claw, hoof"
 
-   "ūniversī" "whole, entire"
+   "ūniversī"  "whole, entire"
+   "ūniversōs" "whole, entire"
    "ūniversus, ūniversa, ūniversum" "whole, entire"
    
    "ūnum" "one"
@@ -6734,7 +6752,8 @@
    "utra" "either"
    "utrēs" "bag/bottle made of skin/hide"
    "uter, utris" "bag/bottle made of skin/hide"
-   
+
+   "utrīs" "either"
    "uter, utra, utrum" "either"
 
    "ūtēbantur" "they were using"
@@ -6935,6 +6954,7 @@
    "vīlī" "cheap, worthless"
    "vīlis, vīlis, vīle" "cheap, worthless"
 
+   "vincula" "chains"
    "vinculīs" "chains"
    "vinculum" "chain"
    "vinculum, vinculī" "chain"
