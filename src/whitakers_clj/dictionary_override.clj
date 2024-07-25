@@ -604,6 +604,7 @@
    "ubī" "where, when if"
    "ubicumque" "everywhere"
    "ultrā" "beyond, further"
+   "ultrō" "beyond, further"
    "umquam" "ever"
    "unquam" "ever"
    "ūnanimiter" "unanimously, harmoniously"
@@ -6775,6 +6776,9 @@
    
    "vacuam" "empty, vacant"
    "vacuus, vacua, vacuum" "empty, vacant"
+
+   "vadīs" "shallows"
+   "vadum, vadī" "shallows"
    
    "vagor, vagārā, vagātus sum" "to wander, to roam"
    "vagāmur" "we wander"
