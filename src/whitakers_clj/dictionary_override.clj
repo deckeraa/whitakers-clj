@@ -5054,6 +5054,11 @@
    "pertrānsīssent" "he (might) have gone through"
    "pertrānsīvissent" "he (might) have gone through"
    "pertrānseō, pertrānsīre, pertrānsīvī(iī), pertrānsitus" "to pass through"
+
+   "perturbābantur" "they were troubled"
+   "perturbāre" "to trouble"
+   "perturbō, perturbāre, perturbāvī, perturbātus" "to trouble"
+   
    "pervēnisset" "he (might) have had come"
    "perveniō, pervenīre, pervēnī, perventus" "to come to, to arrive"
    "pervenit" "he arrives"
@@ -5065,13 +5070,20 @@
    "pessimus" "worst"
    "pessimō" "worst"
    "pessimus, pessima, pessimum" "worst"
+   
    "petīvīt" "he asked for"
+   "petenda" "asking for"
+   "petīvērunt" "they asked for"
+   "petīvissent" "they (might) have had asked"
    "petō, petere, petīvī, petītus" "to ask for"
+   
    "petra" "stone, rock"
    "petram" "stone, rock"
    "petra, petrae" "stone, rock"
+   
    "petrōsa" "rocky places"
    "petrōsum, petrōsi" "rocky place"
+   
    "pilae" "ball"
    "pila, pilae" "ball"
    "pīlō" "hair"
@@ -5129,8 +5141,13 @@
    "poenitentiae" "penance"
    "poenitentiam" "penance"
    "poenitentia, poenitentiae" "penance"
+
+   "pollicitī" "having been promised"
+   "polliceor, pollicērī, pollicitus" "to promise"
+   
    "polluantur" "they (might) be polluted"
    "polluō, polluere, polluī, pollūtus" "to pollute"
+   
    "pōma" "fruit, grapes"
    "pōmīs" "fruits, grapes"
    "pōmum, pōmī" "fruit, grapes"
@@ -5215,6 +5232,7 @@
    "poteritis" "you will be able to"
    "potest" "he can"
    "potestis" "you can"
+   "potuerant" "they had been able to"
 
    "potentissimōs" "very mighty"
    "potēns, potentis (gen.), potentior -or -us, potentissimus -a -um" "powerful, mighty"
@@ -5259,6 +5277,7 @@
    "praedīxerat" "he had said"
 
    "praemissō" "having been sent ahead"
+   "praemissum" "having been sent ahead"
    "praemittō, praemittere, praemīsī, praemissus" "to send ahead"
    
    "praeparantur" "being prepared"
@@ -5320,12 +5339,15 @@
    
    "prīnceps"  "first man, prince"
    "prīncipem" "first man, prince"
+   "prīncipēs" "first men, chiefs"
    "prīncipī"  "first man, prince"
    "prīncipis" "first man, prince"
    "prīnceps, prīncipis" "first man, prince"
    
    "prior" "prior, ahead, previous"
    "prior, prior, prius" "prior, ahead, previous"
+
+   "prīstinam" "previous"
    "prīstinī" "previous"
    "prīstinus, prīstina, prīstinum" "previous"
 
@@ -5343,6 +5365,7 @@
    "prōdō, prōdere, prōdidī, prōditus" "to project, to bring forth, to reveal"
 
    "proeliīs" "battles, conflicts"
+   "proeliō"  "battle, conflict"
    "proelium" "battle, conflict"
    "proelium, proeliī" "battle, conflict"
 
@@ -5407,6 +5430,8 @@
    "prōra, prōrae" "prow"
    "prōrae" "prow"
    "prōram" "prow"
+
+   "prōsequī" "to escort, to pursue"
    
    "prosper" "favorable"
    "prosper, prospera, prosperum" "favorable"
@@ -5466,6 +5491,7 @@
    "pugnāvit" "he fought"
    "pugnāre" "to fight"
    "pugnandum" "fighting"
+   "pugnātum" "having been fought"
    "pugnō, pugnāre, pugnāvī, pugnātus" "to fight"
 
    "pulsum" "pulse, stroke"
