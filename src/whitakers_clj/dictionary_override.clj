@@ -44,6 +44,7 @@
    "aliquid" "someone"
    "aliquis" "someone"
    "aliquod" "anyone; neuter singular nominative or accusative from aliqui"
+   "aliquōs" "someone"
    "alleluia" "hallelujah"
    "allobrogibus" "Allobrogi, A Gaulish tribe (dative or ablative case)"
    "allobrogum" "Of the Allobrogi, A Gaulish tribe (plural genitive case)"
@@ -109,6 +110,7 @@
    "cuius" "whose; singular genitive from quis"
    "cultum" "cult, civilization; singular masculine accusative from cultus, cultūs"
    "cum" "with"
+   "cumque" "and with"
    "cūr" "why"
    "David" "David, the king of Israel that slew Goliath."
    "de" "of, from, away from, down from"
@@ -166,6 +168,7 @@
    "fīnītā" "end; singular feminine ablative of fīnītus, fīnīta, fīnītum"
    "fīnītīs" "end; plural dative or ablative of fīnītus, fīnīta, fīnītum"
    "fīnītō" "end; singular dative or ablative of fīnītus, fīnīta, fīnītum"
+   "firmiter" "strongly"
    "forās" "outside (adverb)"
    "foret" "he (might) have been; subjunctive imperfect from esse"
    "forīs" "outside (adverb)"
@@ -261,6 +264,7 @@
    "inlūxit" "he began to shine; from inlūcēscō, inlūcēscere, inlūxī, -"
    "innocenter" "innocently"
    "inter" "between, among, during"
+   "intereā" "during"
    "interfecta" "interfect est = was killed"
    "intrā" "within, between, during"
    "intus" "inside"
@@ -309,6 +313,7 @@
    "licet" "allow"
    "locūtus" "locūtus est = he spoke"
    "magis" "rather, more"
+   "magnopere" "much, very, urgently"
    "malam" "evil, bad"
    "malī" "evil, bad"
    "malīs" "evil, bad"
@@ -1753,6 +1758,7 @@
    
    "cōnferentēs" "conferencing, talking, meeting"
    "cōnferre" "to conference, to talk, to meet"
+   "contulērunt" "they brought together"
    "cōnferō, cōnferre, contulī, collātus" "to conference, to talk, to meet"
 
    "cōnficiendās" "completing"
@@ -1865,6 +1871,11 @@
    "contendere" "to hasten, to contend"
    "contendit" "he hastened, he contended"
    "contendō, contendere, contendī, contentus" "to hasten, to contend"
+
+   "continentem" "continent"
+   "continēns"   "continent"
+   "continentis" "continent"
+   "continēns, continentis" "continent"
 
    "continētur" "it is sustained, it is contained"
    "continentur" "they are sustained, they are contained"
@@ -3425,6 +3436,7 @@
    "incitāre" "to incite"
    "incitārent" "they (might) have been inciting"
    "incitārī" "to be incited"
+   "incitātis" "you incite"
    "incitō, incitāre, incitāvī, incitātus" "to incite"
    
    "incōgnitōrum" "unknown, untested"
@@ -3500,6 +3512,7 @@
 
    "īnferās" "you (might) carry"
    "īnferre" "to carry"
+   "intulissent" "they (might) have carried"
    "īnferō, īnferre, intulī, illātus" "to carry"
    
    "īnfīnīta" "endless, infinite"
@@ -3555,6 +3568,9 @@
    
    "īnsinuābat" "he was insinuating, he was pushing in"
    "īnsinuō, īnsinuāre, īnsinuāvī, īnsinuātus" "to push in, to insinuate"
+
+   "īnsistere" "to pursue, to stand upon"
+   "īnsistō, īnsistere, īnstitī, -" "to pursue, to stand upon"
 
    "īnsita" "planted"
    "īnsitus, īnsita, īnsitum" "planted"
@@ -3681,6 +3697,7 @@
    "iubēre" "to command"
    "iubet" "he commands"
    "iussit" "he commanded"
+   "iussērunt" "they commanded"
    "iubeō, iubēre, iussī, iussus" "to command"
    
    "iūdex, iūdicis" "judge"
@@ -3740,6 +3757,8 @@
    "labōre" "labor"
    "labōrem" "labor"
    "labor, labōris" "labor, work"
+
+   "labōrantēs" "laboring"
    "laboravissent" "they (might) have labored"
    "labōrō, labōrāre, labōrāvī, labōrātus" "to labor"
    
@@ -3931,11 +3950,18 @@
    "longitūdō, longitūdinis" "length, longitude"
 
    "longa" "long, far"
+   "longārum" "long, far"
    "longās" "long, far"
    "longum" "long, far"
+   "longius" "longer, farther"
    "longiorem" "longer, farther"
    "longissime" "very long"
    "longus, longa -um, longior -or -us, longissimus -a -um" "long, far"
+
+   "longinquus" "long, prolonged"
+   "longinquiōribus" "long, prolonged"
+   "longinquus, longinqua -um, longinquior -or -us, longinquissimus -a -um" "long, prolonged"
+   
    "loquerentur" "they (might) have had said"
    "loquor, loqui, locutus sum" "to speak, to say"
 

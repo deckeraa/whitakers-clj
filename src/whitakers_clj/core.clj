@@ -279,7 +279,7 @@
                    "ips.is" "ipsīs" "e.as" "eās" "ips.o" "ipsō" "vestr.i" "vestrī"
                    "hu.ius" "huius" "aliqu.is" "aliquis" "h.i" "hī" "e.a" "ea"
                    "h.orum" "hōrum" "ips.i" "ipsī" "ips.orum" "ipsōrum" "qu.arum" "quārum"
-                   "qu.orum" "quōrum" "i.is" "iīs" "h.os" "hōs"
+                   "qu.orum" "quōrum" "i.is" "iīs" "h.os" "hōs" "aliqu.os" "aliquōs"
                    } word) word)]
     {:options options
      :word word
@@ -525,7 +525,7 @@
                    "carr.orum" "carrōrum" "s.ese" "sēsē" "lac.us" "lacus"
                    "compar.atis" "comparātis" "leg.atis" "lēgātīs"
                    "exped.itis" "expedītīs" "imped.itis" "impedītīs"
-                   "iuss.it" "iussit"
+                   "iuss.it" "iussit" "iuss.erunt" "iussērunt" "incit.atis" "incitātis"
                    } word) word)]
     word))
 
