@@ -5542,9 +5542,14 @@
    "quatriduanum" "four days"
    "quatriduum, quatriduī" "four days"
    "quattuor, quartus -a -um, quaterni -ae -a, -" "fourth"
+   
    "quālia" "of such a kind"
    "quālis" "of such a kind"
    "quālis, quālis, quāle" "of such a kind"
+
+   "questus" "complaint"
+   "questus, questūs" "complaint"
+   
    "quiēs, quiētis" "rest, respose, quiet"
    "quiētem" "rest, respose, quiet"
    "quīndecim" "fifteen"
@@ -5572,8 +5577,10 @@
    "recēde" "recede! withdraw!"
    "recēdēbant" "they were receding, they were withdrawing"
    "recēdō, recēdere, recessī, recessus" "to recede, to withdraw"
+   
    "recēpistī" "you received"
    "receptōs" "having been received"
+   "recēpērunt" "they received, they kept back"
    "recipiō, recipere, recēpī, receptus" "to receive"
    
    "receptiō" "reception"
@@ -5703,8 +5710,15 @@
    "remedium" "remedy, cure"
    "remedium, remediī" "remedy, cure"
 
+   "remigrāre" "to move back, to return"
+   "remigrō, remigrāre, remigrāvī, remigrātus" "to move back, to return"
+
    "rēmigāre" "to row"
    "rēmigō, rēmigāre, rēmigāvī, rēmigātus" "to row"
+
+   "remīsērunt" "they sent back"
+   "remittere" "to send back"
+   "remittō, remittere, remīsī, remissus" "to send back"
 
    "rēmīs" "oars"
    "rēmōrum" "of oars"
@@ -5974,6 +5988,9 @@
 
    "saxa" "rocks"
    "saxum, saxī" "rock"
+
+   "scaphās" "light boats, skiffs"
+   "scapha, scaphae" "light boat, skiff"
    
    "sciō" "I know"
    "sciēbat" "he was knowing"
@@ -6106,6 +6123,7 @@
    "sermōnibus" "conversation, speech"
 
    "servābat" "he was watchinig over, he was guarding, he was preserving"
+   "servāre" "to watch over, to guard, to preserve, to save"
    "servō, servāre, servāvī, servātus" "to watch over, to guard, to preserve, to save"
    
    "servīs" "slaves, servants"
@@ -6116,6 +6134,9 @@
    
    "siccōs" "dry, thirsty"
    "siccus, sicca, siccum" "dry, thirsty"
+
+   "signa" "signs"
+   "signīs" "signs"
    "signō" "sign"
    "signum" "sign"
    "signum, signī" "sign"
