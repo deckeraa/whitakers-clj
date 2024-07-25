@@ -4023,6 +4023,11 @@
    
    "malleōrum" "of hammers"
    "malleus, malleī" "hammer"
+
+   "mandāta" "having been entrusted"
+   "mandāre" "to entrust"
+   "mandō, mandāre, mandāvī, mandātus" "to entrust"
+   
    "mandūcāvī" "I chewed, I ate"
    "mandūcō, mandūcāre, mandūcāvī, mandūcātus" "to chew, to eat"
    
@@ -4225,7 +4230,8 @@
    "missus" "throwing, dispatch"
    "missum" "throwing, dispatch"
    "missus, missūs" "throwing, dispatch"
-   
+
+   "missīs" "having been sent"
    "mittō" "I send"
    "mittunt" "they send"
    "mittuntur" "they are being sent"
@@ -4399,7 +4405,8 @@
    "nāvigāvērunt" "they sailed"
    "nāvigāvisset" "he (might) have navigated"
    "nāvigāvissent" "they (might) have navigated"
-   
+
+   "nāvigia" "vessels, ships, sailings, navigation"
    "nāvigiī" "vessel, ship, sailing, navigation"
    "nāvigium" "vessel, ship, sailing, navigation"
    "nāvigium, nāvigi(ī)" "vessel, ship, sailing, navigation"
@@ -4488,6 +4495,7 @@
    "notanda" "writing, observing"
    "notō, notāre, notāvī, notātus" "to write, to observe"
 
+   "nōtīs" "known"
    "nōtissimīs" "very well known"
    "nōtus" "known"
    "nōtus, nōta -um, nōtior -or -us, nōtissimus -a -um" "known"
@@ -4568,6 +4576,9 @@
    "observāte" "watch!"
    "observō, observāre, observāvī, observātus" "to observe, to watch"
 
+   "obsidēs" "hostages"
+   "obses, obsidis" "hostage"
+
    "obtestātus" "having been implored"
    "obtestor, obtestārī, obtestātus sum" "to implore"
 
@@ -4603,7 +4614,8 @@
    "occupāret" "he (might) have seized"
    "occupātō" "attack!"
    "occupō, occupāre, occupāvī, occupātum" "to seize, to overtake, to attack"
-   
+
+   "occurrerat" "he had run"
    "occurrērunt" "they ran"
    "occurrit" "he ran"
    "occurrō, occurrere, occurrī, occursus" "to run"
@@ -4691,12 +4703,16 @@
    "ōrātiō, ōrātiōnis" "oration, speech, discourse"
    "ōrātiōnibus" "oration, speech, discourse"
    "ōrāvērunt" "they prayed"
+
+   "ōrātōris" "speaker"
+   "ōrātor, ōrātōris" "speaker"
    
    "ōrātōriō" "oratory, building for prayer"
    "ōrātōrium" "oratory, building for prayer"
    "ōrātōrium, ōrātōriī" "oratory, building for prayer"
    
    "ōrdinem" "order"
+   "ōrdinēs" "order"
    "ōrdinibus" "order"
    "ōrdinis" "order"
    "ōrdō, ōrdinis" "order"
@@ -4866,6 +4882,8 @@
    "patulus, patula, patulum" "wide, spread out, open"
 
    "pauca" "few, little"
+   "paucīs" "few, little"
+   "paucōs" "few, little"
    "paucus, pauca, paucum" "few, little"
    
    "pāce" "peace"
