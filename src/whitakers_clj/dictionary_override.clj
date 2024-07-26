@@ -686,6 +686,9 @@
    "accēderet" "he (might) have been approaching"
    "accēdere" "to approach"
    "accēdō, accēdere, accessī, accessus" "to approach"
+
+   "accidere" "to fall upon, to happen"
+   "accidō, accidere, accidī, accāsus" "to fall upon, to happen"
    
    "accēpērunt" "they accepted, they received"
    "acceptā" "having been accepted"
@@ -749,6 +752,10 @@
    "adiuvante" "helping"
    "adiūvit" "he helped"
    "adiuvō, adiuvāre, adiūvī, adiūtus" "to help"
+
+   "administrandī" "attending to"
+   "administrāre" "to attend to"
+   "administrō, administrāre, administrāvī, administrātus" "to attend to"
    
    "admīrāminī" "admire!"
    "admīrāmur" "we admire"
@@ -763,6 +770,7 @@
    "adorio, adorīre, -, adorītus" "to attack"
 
    "adpropinquāvērunt" "they had had approached"
+   "adpropinquārent" "they (might) have had approached"
    "adpropinquō, adpropinquāre, adpropinquāvī, adpropinquātus" "to approached"
 
    "adscīscunt" "they admit, approve, associate"
@@ -772,6 +780,9 @@
    "adventū" "arrival, approach"
    "adventus" "arrival, approach"
    "adventus, adventūs" "arrival, approach"
+
+   "adversa" "opposite, hostile"
+   "adversus, adversa, adversum" "opposite, hostile"
    
    "aedificāta" "having been built"
    "aedificō, aedificāre, aedificāvī, aedificātus" "to build"
@@ -866,6 +877,7 @@
    "albīs" "white"
    
    "alia" "other"
+   "aliae" "other"
    "aliās" "others"
    "aliōs" "others"
    "aliī" "others"
@@ -934,6 +946,10 @@
    "amīcitia" "friendship"
    "amīcitiam" "friendship"
    "amīcitia, amīcitiae" "friendship"
+
+   "āmissīs" "having been lost, dismissed"
+   "āmittere" "to lose, to dismiss"
+   "āmittō, āmittere, āmīsī, āmissus" "to lose, to dismiss"
    
    "ammonēbat" "he was admonishing, he was advising"
    "ammonēre" "to admonish, to advise"
@@ -957,6 +973,11 @@
    
    "anachōrita, anachōritae" "hermit, anchorite"
    "anachōritārum" "of anchorites, of hermits"
+
+   "ancorās" "anchors"
+   "ancorīs" "anchors"
+   "ancora, ancorae" "anchor"
+   
    "angelī" "angel"
    "angelīs" "angel"
    "angelus, angelī" "angel"
@@ -969,10 +990,14 @@
    "angustiam" "small space, narrow passage, being boxed in"
    "angustia" "small space, narrow passage, being boxed in"
    "angustia, angustiae" "small space, narrow passage, being boxed in"
+   
    "angustōs" "small space, narrow passage, being boxed in"
    "angustum" "small space, narrow passage, being boxed in"
    "angustum, angustī" "small space, narrow passage, being boxed in"
    "angustus" "small space, narrow passage, being boxed in"
+
+   "angustior" "narrower"
+   "angustus, angusta -um, angustior -or -us, angustissimus -a -um" "narrow"
 
    "anhēlābat" "he was gasping, panting, exhaling"
    "anhēlāre" "to pant, gasp, exhale"
@@ -1135,7 +1160,11 @@
    "argentum, argentī" "silver"
 
    "āridō" "dry"
+   "āridum" "dry"
    "āridus, ārida -um, āridior -or -us, āridissimus -a -um" "dry"
+
+   "armāmentīs" "equipmento"
+   "armāmentum, armāmentī" "equipment"
    
    "armāvit" "he armed, he rigged"
    "armō, armāre, armāvī, armātus" "to arm, to rig"
@@ -1251,12 +1280,19 @@
    "auster, austrī" "south wind"
    "austrālem" "southern"
    "austrālis, austrālis, austrāle" "southern"
+   
    "ausus" "daring"
    "ausūs" "daring"
    "ausus, ausūs" "daring"
    "ausī" "daring, risking"
+   
    "autumnālī" "autumnal"
    "autumnālis, autumnālis, autumnāle" "autumnal"
+
+   "auxiliandī" "helping"
+   "auxiliāre" "to help"
+   "auxiliō, auxiliāre, auxiliāvī, auxiliātus" "to help"
+   
    "avem" "bird"
    "avis" "bird"
    "avis, avis" "bird"
@@ -1379,6 +1415,7 @@
    "brevitāte" "shortness, narrowness"
    "brevitās, brevitātis" "shortness, narrowness"
 
+   "britanniae" "Britain"
    "britanniam" "Britain"
    "Britannia, Britanniae" "Britain"
    
