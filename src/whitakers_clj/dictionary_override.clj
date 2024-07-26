@@ -658,6 +658,7 @@
    "vult" "he wants; singular 3rd person present from volō, velle, voluī (irr.)"
    "vultis" "you want; plural 2nd person present from volō, velle, voluī (irr.)"
    "X" "ten"
+   "XVIII" "eighteen"
    })
 
 (def dictionary-map
@@ -680,6 +681,11 @@
    "abstinentia, abstinentiae" "abstinence, self-restraint"
    "abyssī" "abyss"
    "abyssus, abyssī" "abyss"
+
+   "accēde" "approach!"
+   "accēderet" "he (might) have been approaching"
+   "accēdere" "to approach"
+   "accēdō, accēdere, accessī, accessus" "to approach"
    
    "accēpērunt" "they accepted, they received"
    "acceptā" "having been accepted"
@@ -693,6 +699,7 @@
    "accipimus" "we accept, we take"
    "accipiunt" "they accept"
    "accēpit" "he received, he grasped"
+   "accipiēns" "receiving"
    "accipiō, accipere, accēpī, acceptus" "to take, to grasp, to receive, to accept"
    "accipe"   "accept! receive!"
    "accipite" "accept! receive!"
@@ -711,12 +718,17 @@
    "addō, addere, addidī, additus" "to add"
 
    "adductī" "having been lead, having been persuaded"
+   "addūxit" "he lead, he persuaded"
    "addūcere" "to lead, to persuade"
    "addūcō, addūcere, addūxī, adductus" "to lead, to persuade"
 
    "adficiēbantur" "they were being equipped, they were being affected"
    "adficere" "to equip, to affect"
    "adficiō, adficere, adfēcī, adfectus" "to equip, to affect"
+
+   "adflīctābat" "he was damaging"
+   "adflīctāre" "to damage"
+   "adflīctō, adflīctāre, adflīctāvī, adflīctātum" "to damage"
 
    "adgregābat" "he was bringing together"
    "adgregō, adgregāre, adgregāvī, adgregātus" "to bring together"
@@ -800,6 +812,9 @@
 
    "aggregātō" "group together!"
    "aggregō, aggregāre, aggregāvī, aggregātus" "to group, to flock together"
+
+   "agilī" "quick, nimble, agile"
+   "agilis, agile, agilior -or -us, agilissimus -a -um" "quick, nimble, agile"
    
    "agitābātur" "to be stirred up"
    "agite" "act! conduct (yourself)!"
@@ -822,10 +837,12 @@
    "agnus, agnī" "lamb"
    
    "ēgimus" "we conducted, we acted"
+   "agit" "I act, I conduct"
    "agitis" "you act, you conduct"
    "ēgissent" "you might have had conducted"
    "agere" "to conduct, to act"
    "agō, agere, ēgī, āctus" "to conduct, to act"
+   
    "āit" "he said"
    "āiere" "to speak, to affirm"
    "āiunt" "they said"
@@ -921,12 +938,23 @@
    "ammonēbat" "he was admonishing, he was advising"
    "ammonēre" "to admonish, to advise"
    "ammoneō, ammonēre, ammonuī, ammonitus" "to admonish, to advise"
+
+   "amor" "love"
+   "amōrem" "love"
+   "amor, amōris" "love"
+   
    "amphoram" "two-handled earthenware jug"
    "amphora, amphorae" "two-handled earthenware jug"
+   
    "amplificatur" "being enlarged"
    "amplificō, amplificāre, amplificāvī, amplificātus" "to enlarge, to amplify"
    "amplius" "ampler, larger"
    "amplus, ampla -um, amplior -or -us, amplissimus -a -um" "ampler, larger"
+
+   "amputāvit" "he cut off, he shortened"
+   "amputāre" "to cut off, to shorten"
+   "amputō, amputāre, amputāvī, amputātus" "to cut off, to shorten"
+   
    "anachōrita, anachōritae" "hermit, anchorite"
    "anachōritārum" "of anchorites, of hermits"
    "angelī" "angel"
@@ -945,6 +973,10 @@
    "angustum" "small space, narrow passage, being boxed in"
    "angustum, angustī" "small space, narrow passage, being boxed in"
    "angustus" "small space, narrow passage, being boxed in"
+
+   "anhēlābat" "he was gasping, panting, exhaling"
+   "anhēlāre" "to pant, gasp, exhale"
+   "anhēlō, anhēlāre, anhēlāvī, anhēlātus" "to pant, gasp, exhale"
    
    "anima" "soul, mind, life"
    "animam" "soul, mind, life"
@@ -973,6 +1005,11 @@
    "annonam" "yearly income"
    "annōnā" "yearly income"
    "annōna, annōnae" "yearly income"
+
+   "annulum" "ring"
+   "annulus" "ring"
+   "annulus, annulī" "ring"
+   
    "antecēdentēs" "preceeding"
    "antecēdēbat" "he was preceeding"
    "antecēdēbant" "they were preceeding"
@@ -995,6 +1032,7 @@
    
    "apostolī" "apostle"
    "apostolus" "apostle"
+   "apostolō" "apostle"
    "apostolōrum" "of apostles"
    "apostolōs" "apostle"
    "apostolus, apostolī" "apostle"
@@ -1071,7 +1109,8 @@
    "arcessītam" "having been summoned, fetched"
    "arcessere" "to summon, to fetch"
    "arcessō, arcessere, arcessīvī, arcessītus" "to summon, to fetch"
-   
+
+   "ārdēns" "burning"
    "ārdent" "they burn"
    "ardentem" "burning"
    "ardentēs" "burning"
@@ -1100,6 +1139,10 @@
    
    "armāvit" "he armed, he rigged"
    "armō, armāre, armāvī, armātus" "to arm, to rig"
+
+   "armātī" "armed man, soldier"
+   "armātum" "armed man, soldier"
+   "armātus, armātī" "armed man, soldier"
    
    "armīs" "weapons"
    "armōrum" "of weapons"
@@ -1145,9 +1188,14 @@
    "aspiciēbant" "they were looking at"
    "aspicere" "to look at, to contemplate"
    "aspiciō, aspicere, aspēxī, aspectus" "to look at, to contemplate"
+
+   "assīgnāvit" "he assigned"
+   "assīgnāre" "to assign"
+   "assīgnō, assīgnāre, assīgnāvī, assīgnātus" "to assign"
    
    "asportābant" "they were carrying away"
    "asportō, asportāre, asportāvī, asportātus" "to carry away"
+   
    "assūmptiōne" "assumption, taking, receiving"
    "assūmptiō, assūmptiōnis" "assumption, taking, receiving"
    "ablātīs" "things having been carried away"
@@ -1162,6 +1210,7 @@
    "auctibus" "growth, increase"
    "auctus, auctūs" "growth, increase"
 
+   "audiēns" "hearing"
    "audītis" "you hear"
    "audīvērunt" "they heard"
    "audiēbant" "they were hearing"
@@ -1172,12 +1221,20 @@
    "audīvissent" "they (might) have had heard"
    "audīvit" "he heard"
    "audiō, audīre, audīvī, audītum" "to hear"
+
+   "audītus" "listening, hearing"
+   "audītus, audītūs" "listening, hearing"
+   
    "abstulisset" "he (might) have carried away"
    "auferō, auferre, abstulī, ablātus" "to carry away, to remove"
 
    "aula" "court"
    "aulam" "court"
    "aula, aulae" "court"
+
+   "auream" "golden"
+   "aureum" "golden"
+   "aureus, aurea, aureum" "golden"
    
    "aurēs" "ears"
    "auribus" "ears"
@@ -1205,9 +1262,15 @@
    "avis, avis" "bird"
    "avium" "of birds"
    "avibus" "birds"
+   
    "balneum" "bath"
    "balneī" "bath"
    "balneum, balneī" "bath"
+
+   "baptismō" "baptism"
+   "baptismus" "baptism"
+   "baptismus, baptismī" "baptism"
+   
    "barba" "beard"
    "barba, barbae" "beard"
 
@@ -1295,11 +1358,14 @@
    
    "bona" "good"
    "boni" "good"
+   "bonīs" "good"
    "bonō" "good"
+   "bonōrum" "good"
    "bonum" "good"
    "bonum, boni" "good"
    "bonus" "good"
    "bonus, bona -um, melior -or -us, optimus -a -um" "good"
+   
    "bōtrum" "grape"
    "bōtrus, bōtrī" "grape"
    "bovīnīs" "bovine"
