@@ -436,6 +436,7 @@
    "procul" "far"
    "prōfectī" "prōfectī est = had set out"
    "prope" "near, close"
+   "propius" "almost, nearly"
    "proptereā" "because of, that's why"
    "prōtinus" "forward, onward"
    "pulsātō" "having been hit; perfect passive dative or ablative participle from pulsō, pulsāre, pulsāvī, pulsātus"
@@ -1407,6 +1408,9 @@
    "bonum" "good"
    "bonum, boni" "good"
    "bonus" "good"
+   "optimus" "best"
+   "optima" "best"
+   "optimum" "best"
    "bonus, bona -um, melior -or -us, optimus -a -um" "good"
    
    "bōtrum" "grape"
@@ -2167,6 +2171,7 @@
    "cūra, cūrae" "care, concern, supervision"
 
    "cūrārat" "he had taken care to"
+   "curaverat" "he had taken care to"
    "cūrāre" "to take care to, attend to"
    "cūrō, cūrāre, cūrāvī, cūrātus" "to take care to, attend to"
 
@@ -4220,16 +4225,21 @@
    "maior" "bigger"
    "maiōrēs" "bigger"
    "maiōribus" "bigger"
+   
    "magnitudinem" "magnitude, greatness"
    "magnitūdinis" "magnitude, greatness"
    "magnitūdō, magnitūdinis" "magnitude, greatness"
+   
    "maxima" "biggest"
    "maximās" "biggest"
    "maximīs" "biggest"
+   "maximōs" "biggest"
    "maximum" "biggest"
    "māgnus, māgna -um, major -or -us, maximus -a -um" "large"
+   
    "māiestās, māiestātis" "majesty"
    "māiestātem" "majesty"
+   
    "maledīcitis" "you curse"
    "maledictus" "cursing"
    "maledīcō, maledīcere, maledīxī, maledictus" "to curse"
@@ -4905,6 +4915,7 @@
    "onus, oneris" "burden"
    
    "oportet" "it is right/proper/necessary"
+   "oportere" "it is right/proper/necessary"
    "oportet, oportere, oportuit, -" "it is right/proper/necessary"
 
    "oppida" "towns"
@@ -5820,6 +5831,12 @@
    "rārum" "thin, far apart, rare"
    "rārus" "thin, far apart, rare"
    "rārus, rāra -um, rārior -or -us, rārissimus -a -um" "thin, far apart, rare"
+
+   "rebelliōne" "renewal of war, rebellion"
+   "rebelliō" "renewal of war, rebellion"
+   "rebelliōnis" "renewal of war, rebellion"
+   "rebelliō, rebelliōnis" "renewal of war, rebellion"
+   
    "recēdās" "you (might) recede, withdraw"
    "recēde" "recede! withdraw!"
    "recēdēbant" "they were receding, they were withdrawing"
