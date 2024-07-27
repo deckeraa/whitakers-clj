@@ -349,6 +349,7 @@
    "necnōn" "and not"
    "necessāria" "necessities of life"
    "necessāria, necessāriōrum" "necessities of life"
+   "nēminem" "no one (accusative cas)"
    "neque" "not, not either"
    "nihil" "not at all"
    "nimia" "too much"
@@ -407,6 +408,7 @@
    "passus" "passus + est = to have suffered"
    "paterentur" "they (might) suffer them, allow them; subjunctive imperfect from patī"
    "Patriciī" "of Saint Patrick"
+   "paulātim" "little by little"
    "paululum" "a little"
    "per" "through"
    "perfīnītis" "You finished; 2nd person plural present from perfīnīre"
@@ -443,6 +445,7 @@
    "quam" "how? how much?"
    "quanta" "how much?"
    "quārē" "by what mean?"
+   "quārtum" "for the fourth time"
    "quārum" "what; plural female genitive from qui"
    "quās" "who; plural female accusative of quis"
    "quattuor" "4"
@@ -4285,6 +4288,10 @@
    
    "margarīta" "pearl"
    "margarīta, margarītae" "pearl"
+
+   "maritimōs" "maritime"
+   "maritimus, maritima, maritimum" "maritime"
+   
    "marmor" "marble"
    "marmor, marmoris" "marble"
    "māssa" "mass, bulk"
@@ -4622,6 +4629,7 @@
    "nāvigāvērunt" "they sailed"
    "nāvigāvisset" "he (might) have navigated"
    "nāvigāvissent" "they (might) have navigated"
+   "nāvigandum" "sailing, navigating"
 
    "nāvigia" "vessels, ships, sailings, navigation"
    "nāvigiī" "vessel, ship, sailing, navigation"
@@ -4635,6 +4643,10 @@
    
    "necesse" "necessary"
    "necesse, undeclined" "necessary"
+
+   "necessāriō" "necessary"
+   "necessārius, necessāria, necessārium" "necessary"
+   
    "necessitās" "necessity"
    "necessitātis" "necessity"
    "necessitātem" "necessity"
@@ -4885,6 +4897,7 @@
    "onerāvit" "he loaded"
    "onerō, onerāre, onerāvī, onerātus" "to load, to burden"
 
+   "onerāriās" "burdened"
    "onerāriīs" "burdened"
    "onerārius, onerāria, onerārium" "burdened"
 
@@ -5098,6 +5111,9 @@
    "patulae" "wide, spread out, open"
    "patulus, patula, patulum" "wide, spread out, open"
 
+   "paucitātem" "scarcity"
+   "paucitās, paucitātis" "scarcity"
+
    "pauca" "few, little"
    "paucīs" "few, little"
    "paucōs" "few, little"
@@ -5215,6 +5231,7 @@
    "perīcula" "dangers"
    "perīculī" "danger"
    "perīculīs" "dangers"
+   "perīculō" "danger"
    "perīculum, perīculī" "danger"
    "pereat" "may it perish"
    "pereō, perīre, perivī(iī), peritus" "to perish"
@@ -5272,6 +5289,9 @@
    "pertrānsīssent" "he (might) have gone through"
    "pertrānsīvissent" "he (might) have gone through"
    "pertrānseō, pertrānsīre, pertrānsīvī(iī), pertrānsitus" "to pass through"
+
+   "perturbātiō" "disorder, disturbance"
+   "perturbātiō, perturbātiōnis" "disorder, disturbance"
 
    "perturbābantur" "they were troubled"
    "perturbāre" "to trouble"
@@ -5585,6 +5605,9 @@
    "prōdere" "to project, to bring forth, to reveal"
    "prōdō, prōdere, prōdidī, prōditus" "to project, to bring forth, to reveal"
 
+   "prōdūcere" "to lead forward"
+   "prōdūcō, prōdūcere, prōdūxī, prōductus" "to lead forward"
+
    "proeliīs" "battles, conflicts"
    "proeliō"  "battle, conflict"
    "proelium" "battle, conflict"
@@ -5670,6 +5693,9 @@
    "prōvinciae" "province, command"
    "prōvinciam" "province, command"
    "prōvincia, prōvinciae" "province, command"
+
+   "prōvīsum" "looking into the distance, precaution"
+   "prōvīsus, prōvīsūs" "looking into the distance, precaution"
    
    "prōvolō, prōvolāre, prōvolāvī, prōvolātus" "to fly forward"
    "prōvolūtīs" "fallen, rolled"
