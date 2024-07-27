@@ -173,6 +173,8 @@
    "forās" "outside (adverb)"
    "foret" "he (might) have been; subjunctive imperfect from esse"
    "forīs" "outside (adverb)"
+   "fortasse" "maybe, perhaps"
+   "fortiter" "strongly (adverb from fortis, forte)"
    "frēnum" "bridal; ornamental necklace"
    "fuerint" "they will have been; 3rd person plural future perfect from esse"
    "fūrtim" "secret, stealthily"
@@ -939,7 +941,8 @@
    "ambulāvit" "he walked"
    "ambulō, ambulāre, ambulāvī, ambulātus" "to walk"
    
-   "amīcī" "friendo"
+   "amīcī" "friend"
+   "amīcōs" "friends"
    "amīcum" "friend"
    "amīcus" "friend"
    "amīcus, amīcī" "friend"
@@ -2982,6 +2985,7 @@
    "flagrō, flagrāre, flagrāvī, flagrātus" "to blaze, to burn"
    
    "flammās" "flames"
+   "flammīs" "flames"
    "flamma, flammae" "flame"
    
    "flābat" "he was blowing, he was breathing"
@@ -3551,6 +3555,7 @@
    "incendentēs" "setting on fire"
    "incendēbātur" "it was being set on fire"
    "incendere" "to set on fire"
+   "incendērunt" "they set on fire"
    "incendō, incendere, incendī, incēnsus" "to set on fire"
    "incendit" "it burns, it burnt"
    "incendunt" "they set on fire"
@@ -3815,6 +3820,9 @@
    "īte" "go!"
    "īret" "he (might) have gone"
    "īre" "to go"
+
+   "īrāta" "angry"
+   "īrātus, īrāta, īrātum" "angry"
    
    "irruet" "it will rush in"
    "irruit" "it rushes, it rushed"
@@ -3836,8 +3844,9 @@
    "iussērunt" "they commanded"
    "iubeō, iubēre, iussī, iussus" "to command"
    
-   "iūdex, iūdicis" "judge"
+   "iūdex" "judge"
    "iūdicem" "judge"
+   "iūdex, iūdicis" "judge"
 
    "iūmentōrum" "of baggage animals"
    "iūmentum, iūmentī" "baggage animal"
@@ -5174,6 +5183,7 @@
    "persuāsit" "he persuaded"
    "persuādent" "they persuade"
    "persuāsūrōs" "to be convinced"
+   "persuāsērunt" "they had persuaded"
    "persuādēre" "to persuade"
    "persuādeō, persuādēre, persuāsī, persuāsus" "to persuade"
    
@@ -5486,6 +5496,9 @@
    "prīstinam" "previous"
    "prīstinī" "previous"
    "prīstinus, prīstina, prīstinum" "previous"
+
+   "prīvāta" "private"
+   "prīvātus, prīvāta, prīvātum" "private"
 
    "probat" "he approves, he commends"
    "probāvimus" "we approved, we commended"
