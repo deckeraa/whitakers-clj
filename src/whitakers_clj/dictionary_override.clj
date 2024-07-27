@@ -3144,6 +3144,7 @@
    "frūctus, frūctūs" "fruit"
 
    "frūmentī" "corn, grain"
+   "frūmentō" "corn, grain"
    "frūmentum" "corn, grain"
    "frūmentum, frūmentī" "corn, grain"
    
@@ -3383,8 +3384,15 @@
    "heremita" "hermit"
    "heremitam" "hermit"
    "heremita, heremitae" "hermit"
+
+   "hiemāre" "to winter"
+   "hiemārī" "to be wintery"
+   "hiemō, hiemāre, hiemāvī, hiemātus" "to winter"
+
+   "hiemem" "winter"
    "hiemps" "winter"
    "hiemps, hiemis" "winter"
+   
    "hilaritās, hilaritātis" "good humor"
    "hilaritās" "good humor"
    "hilaritātis" "good humor"
@@ -3459,9 +3467,11 @@
    "iactābat" "he was throwing"
    "iactābant" "they were throwing"
    "iactās" "having been thrown"
+   "iactīs" "having been thrown"
    "iactāvit" "he threw"
    "iactāre" "to throw"
    "iactō, iactāre, iactāvī, iactātus" "to throw"
+
    "iactus" "throwing, casting, hurling"
    "iactus, iactūs" "throwing, casting, hurling"
    "ianthinīs" "violet-colored"
@@ -3537,7 +3547,8 @@
    "impendēbat" "they were expending"
    "impendere" "to expend"
    "impendō, impendere, impendī, impēnsus" "to expend"
-   
+
+   "impedīmentīs" "impediment, hindrance, heavy baggage"
    "impedīmentō" "impediment, hindrance, heavy baggage"
    "impedīmentum" "impediment, hindrance, heavy baggage"
    "impedīmentum, impedīmentī" "impediment, hindrance, heavy baggage"
@@ -3613,7 +3624,8 @@
    "incitārī" "to be incited"
    "incitātis" "you incite"
    "incitō, incitāre, incitāvī, incitātus" "to incite"
-   
+
+   "incōgnitum" "unknown, untested"
    "incōgnitōrum" "unknown, untested"
    "incōgnitus, incōgnita, incōgnitum" "unknown, untested"
    
@@ -3685,10 +3697,11 @@
    "īnfernus" "Hell"
    "īnfernus, īnfernī" "Hell"
 
-   "īnferās" "you (might) carry"
-   "īnferre" "to carry"
-   "intulissent" "they (might) have carried"
-   "īnferō, īnferre, intulī, illātus" "to carry"
+   "īnferās" "you (might) carry, import"
+   "īnferendī" "having been imported"
+   "īnferre" "to carry, import"
+   "intulissent" "they (might) have carried, imported"
+   "īnferō, īnferre, intulī, illātus" "to carry, import"
    
    "īnfīnīta" "endless, infinite"
    "īnfīnītus, īnfīnīta, īnfīnītum" "endless, infinite"
@@ -3773,9 +3786,19 @@
    "integer" "whole, intact, untouched"
    "integer, integra -um, integrior -or -us, integerrimus -a -um" "whole, intact, untouched"
    "integrōs" "whole, intact, untouched"
+
+   "intellegerent" "they (might) have been understanding, realizing"
+   "intellegere" "to understand, to realize"
+   "intellegō, intellegere, intellēxī, intellēctus" "to understand, to realize"
+   
    "intende" "hold out! stretch! exert!"
    "intendere" "to hold out; to stretch, to exert"
    "intendō, intendere, intendī, intentus" "hold out; stretch, strain, exert"
+
+   "interclūsīs" "having been blockaded"
+   "interclūdere" "to blockade"
+   "interclūdō, interclūdere, interclūsī, interclūsus" "to blockade"
+   
    "intercēdere" "to intercede"
    "intercēdō, intercēdere, intercessī, intercessus" "to intercede"
    "interdīctīs" "having been forbidden"
@@ -3823,6 +3846,9 @@
    "inūsitātior" "more unusual"
    "inūsitātō" "unusual"
    "inūsitātus, inūsitāta -um, inūsitātior -or -us, inūsitātissimus -a -um" "unusual"
+
+   "inūtilēs" "useless"
+   "inūtilis, inūtilis, inūtile" "useless"
    
    "invēnērunt" "they found"
    "invēnī" "I found"
@@ -4047,6 +4073,7 @@
    "lēgātus, lēgātī" "legate, ambassador"
 
    "legiō" "legion"
+   "legiōnēs" "legions"
    "legiōnī" "legion"
    "legiōnis" "legion"
    "legiō, legiōnis" "legion"
@@ -4056,9 +4083,13 @@
    "lēgistī" "you read"
    "lēgī" "I read"
    "legō, legere, lēgī, lēctus" "to read"
+
+   "lēnī" "gentle, calm"
+   "lēnis, lēne, lēnior -or -us, lēnissimus -a -um" "gentle, calm"
    
    "leprōsō" "leper"
    "leprōsus, leprōsī" "leper"
+   
    "levāte" "raise up!"
    "levāvit" "he raised up"
    "levāvērunt" "they raised up"
@@ -4146,14 +4177,21 @@
 
    "lūcidissimus" "very bright, very clear"
    "lūcidissimum" "very bright, very clear"
+   
    "lūmen" "light"
    "lūminis" "light"
    "lūmen, lūminis" "light"
+   
    "lūminare, lūminaris" "window, shutter"
    "lūminaria" "windows"
    "lūminaribus" "windows"
+
+   "lūna" "moon, month"
+   "lūna, lūnae" "moon, month"
+   
    "luter" "otter"
    "luter, lutrī" "otter"
+   
    "lūce" "light"
    "lūx" "light"
    "lūcis" "light"
