@@ -89,6 +89,7 @@
    "circiter" "near, close, about"
    "circum" "about, around, near"
    "citō" "quickly"
+   "clam" "secretly, stealthily, without the knowledge of"
    "Commius" "Commius, a Roman ambassador"
    "coepērunt" "they started; from coepī, coepisse, coepī, coeptum"
    "commendātīs" "you commend; 2nd person plural present from commendāre"
@@ -1558,6 +1559,10 @@
    "carrōrum" "of four-wheeled wagons"
    "carrus, carrī" "four-wheeled wagon"
 
+   "castrīs" "forts"
+   "castrōrum" "of forts"
+   "castrum, castrī" "fort"
+   
    "cauda" "tail"
    "caudam" "tail"
    "cauda, caudae" "tail"
@@ -1743,11 +1748,13 @@
    "cōgnitor" "advocate, attorney, witness"
    "cōgnitor, cōgnitōris" "advocate, attorney, witness"
 
+   "cōgnitīs" "having been recognized"
    "cōgnitō" "having been recognized"
    "cōgnōscō" "I recognize, I know"
    "cōgnōscis" "you recognize"
    "cōgnōscitis" "you recognize, you know"
-   "cōgnōsceret" "he (might) have recognized, he (might) have learned"
+   "cōgnōsceret" "he (might) have recognized, learned"
+   "cōgnōscerent" "they (might) have recognized, learned"
    "cōgnōscō, cōgnōscere, cōgnōvī, cōgnitum" "to recognize, to learn, to inquire, to know"
 
    "coiciēbant" "they were throwing together, guessing"
@@ -1793,6 +1800,9 @@
    "commeant" "they communicate, they come and go"
    "commeō, commeāre, commeāvī, commeātus" "to communicate, to come and go"
 
+   "commeātū" "voyage, supplies, provisions"
+   "commeātus, commeātūs" "voyage, supplies, provisions"
+
    "commendāre" "to entrust, to commit, to recommend"
    "commendō, commendāre, commendāvī, commendātus" "to entrust, to commit, to recommend"
    
@@ -1809,13 +1819,18 @@
    "comparāre" "I compare"
    "comparātis" "you compare"
    "comparō, comparāre, comparāvī, comparātus" "to compare"
-   
+
+   "complēbat" "he will fill up"
    "complentur" "it is completed, it is filled up"
+   "complērentur" "they (might) have been being filled"
    "complērī" "to be filled up"
    "compleō, complēre, complēvī, complētus" "to complete, to fill up"
    
    "complētōrium" "compline, service of prayers at close of day"
    "complētōrium, complētōriī" "compline, service of prayers at close of day"
+
+   "complūribus" "many, several persons"
+   "complūs, (gen.), complūris" "many, several persons"
 
    "comprehenderant" "they had caught"
    "comprehendere" "to catch"
@@ -1868,12 +1883,16 @@
    "cōnficiendās" "completing"
    "cōnficere" "to complete"
    "cōnficiō, cōnficere, cōnfēcī, cōnfectus" "to complete"
+
+   "cōnfīdēbant" "they were trusting, believing"
+   "cōnfīdō, cōnfīdere, cōnfīsus sum" "to trust, believe"
    
    "confinibus" "bordering"
    "cōnfīnis, cōnfīnis, cōnfīne" "bordering"
 
    "cōnfirmat" "he strengthens, he encourages"
    "cōnfirmant" "they strengthen, they encourage"
+   "cōnfirmāta" "having been strengthened"
    "cōnfirmāre" "to strengthen, to encourage"
    "cōnfirmō, cōnfirmāre, cōnfirmāvī, cōnfirmātus" "to strengthen, to encourage"
    
@@ -1897,10 +1916,14 @@
    "coniciō, conicere, coniēcī, coniectus" "to throw"
 
    "coniūrātiōnem" "conspiracy"
+   "coniūrātiōne"  "conspiracy"
    "coniūrātiō, coniūrātiōnis" "conspiracy"
 
    "coniūrāvit" "he conjured"
    "coniūrō, coniūrāre, coniūrāvī, coniūrātus" "to conjure"
+
+   "conlocūtī" "having discussed"
+   "conloquor, conloquī, conlocūtus sum" "to discuss, to confer"
    
    "cōnōpēī" "canopy"
    "cōnōpēō" "canopy"
@@ -1946,6 +1969,9 @@
    "cōnspicere" "to observe"
    "cōnspiciō, cōnspicere, cōnspēxī, cōnspectus" "to observe"
 
+   "cōnstābat" "he was remaining, standing still"
+   "cōnstō, cōnstāre, cōnstitī, cōnstātus" "to remain, stand still, exist"
+
    "cōnstituerant" "they had planned"
    "cōnstituērunt" "they planned"
    "cōnstituī" "I planned"
@@ -1958,6 +1984,7 @@
 
    "consuēverant" "they had familiarized"
    "consuēvērunt" "they familiarized"
+   "consuēvit" "he familiarized"
    "consuēscere" "to familiarize"
    "consuēscō, consuēscere, consuēvī, consuētus" "to familiarize"
 
@@ -1994,6 +2021,7 @@
    "contrīstātus" "being saddened"
    "contrīstō, contrīstāre, contrīstāvī, contrīstātus" "to sadden"
 
+   "convēnerant" "they had come together"
    "conveniant" "they (might) meet together"
    "conveniēns" "meeting, coming together"
    "convenīre" "to meet, to come together"
@@ -2006,6 +2034,7 @@
    "conversātiō, conversātiōnis" "intimacy, acquaintance, way of life, monastic life"
    "conversus" "having been turned"
    "convertō, convertere, convertī, conversus" "to turn, to change"
+   
    "cooperīmentum" "covering"
    "cooperīmentum, cooperīmentī" "covering"
    "cooperta" "covered"
@@ -2014,6 +2043,9 @@
    "cooperuit" "he covered"
    "cooperiō, cooperīre, cooperuī, coopertus" "to cover"
    "cooperuērunt" "they covered"
+
+   "coorta" "having arisen, sprung forth"
+   "coorior, coorīrī, coortus" "to arise, spring forth"
    
    "cophinus" "basket"
    "cophinum" "basket"
