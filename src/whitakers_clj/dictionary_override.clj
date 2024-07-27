@@ -2163,6 +2163,10 @@
    "cūra" "care, concern, supervision"
    "cūra, cūrae" "care, concern, supervision"
 
+   "cūrārat" "he had taken care to"
+   "cūrāre" "to take care to, attend to"
+   "cūrō, cūrāre, cūrāvī, cūrātus" "to take care to, attend to"
+
    "cucurrērunt" "they ran"
    "currere" "to run"
    "currō, currere, cucurrī, cursus" "to run"
@@ -2228,17 +2232,25 @@
 
    "dēdecus" "disgrace, shame"
    "dēdecus, dēdecoris" "disgrace, shame"
+
+   "dēdūcere" "to escort, to remove"
+   "dēdūcō, dēdūcere, dēdūxī, dēductus" "to escort, to remove"
    
    "dedērunt" "they gave"
+   
    "dēerit" "it will lack"
+   "dēerant" "they lacked"
+   "dēfuit" "he lacked"
+   "dēesse" "to lack"
+   "dēsum, dēesse, dēfuī, dēfutūrus" "to lack"
+   
    "dēfendēbat" "he was defending"
    "defendet" "he will defend"
    "dēfendere" "to defend"
    "dēfendistī" "you defended"
    "dēfendō" "I defend"
    "dēfendō, dēfendere, dēfendī, dēfēnsus" "to defend"
-   "dēfuit" "he lacked"
-   "dēsum, dēesse, dēfuī, dēfutūrus" "to lack"
+      
    "dēficiō, dēficere, dēfēcī, dēfectus" "to run short, to lack"
    "dēfēnsor" "defender, protector"
    "dēfēnsor, dēfēnsōris" "defender, protector"
@@ -2255,6 +2267,10 @@
    "dēglutīvit" "I swallowed"
    "dēglutiō, dēglutīre, dēglutīvī, dēglutītus" "to swallow"
 
+   "dēicerentur" "they (might) have been throwing down"
+   "dēicere" "to throw down"
+   "dēiciō, dēicere, dēiēcī, dēiectus" "to throw down"
+
    "dēlīberandum" "deliberating"
    "dēlīberāre" "to deliberate"
    "dēlīberō, dēlīberāre, dēlīberāvī, dēlīberātus" "to deliberate"
@@ -2266,10 +2282,15 @@
    "dēliciīs" "delicious"
    "dēliciōsus, dēliciōsa, dēliciōsum" "delicious"
 
+   "dēligātae" "having been tied, fastened"
+   "dēligāre" "to tie, to fasten"
+   "dēligō, dēligāre, dēligāvī, dēligātus" "to tie, to fasten"
+
    "dēligitur" "it is chosen"
    "dēligere" "to choose, to select"
    "dēligō, dēligere, dēlēgī, dēlēctus" "to choose, to select"
-   
+
+   "dēmōnstrātum" "having been demonstrated"
    "dēmōnstrāveram" "I had demonstrated"
    "dēmōnstrāre" "to demonstrate"
    "dēmōnstrō, dēmōnstrāre, dēmōnstrāvī, dēmōnstrātus" "to demonstrate"
@@ -2481,6 +2502,7 @@
    "dīmidium" "half"
    "dīmidium, dīmidiī" "half"
 
+   "dabatur" "he was being given"
    "dabantur" "they were being given"
    "dabō" "I will give"
    "dedī" "I gave"
@@ -2585,6 +2607,9 @@
 
    "efferre" "to carry out, to bury"
    "efferō, efferre, extulī, ēlātus" "to carry out, to bury"
+
+   "efficere" "to achieve, produce"
+   "efficiō, efficere, effēcī, effectus" "to achieve, produce"
    
    "effluēbant" "they were flowing out"
    "effluō, effluere, efflūxī, -" "to flow out"
@@ -2653,6 +2678,7 @@
    "erit" "he will be"
    "eritis" "you will be"
    "erō" "I will be"
+   "essent" "they (might) have been"
 
    "ērēctīs" "to be raised, to be built"
    "ērēxit" "he raised, he built"
@@ -2715,6 +2741,11 @@
    "exercitus" "army"
    "exercitūs" "army"
    "exercitus, exercitūs" "army"
+
+   "exiguitāte" "smallness, scarcity"
+   "exiguitās" "smallness, scarcity"
+   "exiguitātis" "smallness, scarcity"
+   "exiguitās, exiguitātis" "smallness, scarcity"
 
    "exeant" "they (might) come/go out"
    "exī" "come out!"
@@ -2832,6 +2863,7 @@
    "facilius" "easier"
    "facilis, facile, facilior -or -us, facillimus -a -um" "easy"
 
+   "facultās"  "means, ability"
    "facultāte" "means, ability"
    "facultās, facultātis" "means, ability"
    
@@ -3063,6 +3095,7 @@
    "fossa" "ditch, moat"
    "fossam" "ditch, moat"
    "fossa, fossae" "ditch, moat"
+
    "fragmentum, fragmentī" "fragment"
    "fragmentum" "fragment"
    "fragmentī" "fragment"
@@ -3071,6 +3104,7 @@
    "fragrāntiam" "fragrance"
    "fragrāntoia, fragrānciae" "fragrance"
 
+   "frāctīs" "having been broken"
    "frēgit" "he broke, he shattered, he crushed"
    "frangō, frangere, frēgī, frāctus" "to break, to shatter, to crush"
    
