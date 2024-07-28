@@ -137,6 +137,7 @@
    "eā" "there, that way"
    "eadem" "the same, singular feminine nominative or plural neutern nominative or ablative"
    "eam" "her; singular feminine accusative from is, ea, id"
+   "eārum" "their; plural feminine genitive from is, ea, id"
    "eās" "their; plural feminine accusative from is, ea, id"
    "eīs" "to them; plural dative or ablative from is, ea, id"
    "ex" "out of, from"
@@ -498,6 +499,7 @@
    "rīvulus, rīvulī" "rivulet, small brook"
    "rōmānī" "Romans"
    "rubicunditātis" "redness. This word did not appear in any dictionaries I consulted, but the meaning is clear from the context. It appears to be a variant of rubicundus -a -um, meaning red, ruddy, or rubicund."
+   "rūrsus" "backwards, on the flipside"
    "Ryeuall" "Rievaulx, a village about 9 miles from Byland Abbey."
    "saepe" "often"
    "saepius" "more often"
@@ -5628,6 +5630,7 @@
    "profectiō, profectiōnis" "departure, source"
    
    "proficīscere" "set out!"
+   "profectae" "having set out"
    "profectus" "profectus sum = I set out"
    "proficiscendi" "setting out"
    "proficīscī" "to set out"
@@ -5699,6 +5702,9 @@
    "prosternēbant" "they were prostrating"
    "prostrāvērunt" "they prostrated"
    "prosternō, prosternere, prostrāvī, prostrātus" "to prostrate"
+
+   "prōvectae" "having been carried forward"
+   "prōvehō, prōvehere, prōvēxī, prōvectus" "to carry forward, to sail"
 
    "prōvincia"  "province, command"
    "prōvinciae" "province, command"
@@ -6715,6 +6721,7 @@
    
    "superat" "he overcomes"
    "superātī" "having been overcome"
+   "superātis" "you overcome"
    "superāvisset" "he (might) have overcome"
    "superō, superāre, superāvī, superātus" "to overcome"
 
@@ -6730,6 +6737,9 @@
    
    "supellē̆ctilī" "furnishings"
    "supellē̆x, supellē̆ctilis" "furnishings"
+
+   "superiōre" "higher, being above"
+   "superus, supera -um, superior -or -us, suprēmus -a -um" "upper, being above"
 
    "suppeteret" "it (might) have sufficed"
    "suppetere" "to be at hand, to suffice"
@@ -6868,6 +6878,7 @@
    "tintinnābulum, tintinnābulī" "bell"
    "tollat" "they (might) lift up"
    "sublāta" "having been lifted up"
+   "sustulerant" "they had lifted up"
    "tollō, tollere, sustulī, sublātus" "to raise up"
    
    "tormenta" "torments"
@@ -6901,10 +6912,12 @@
    "tranquillitātis" "tranquility"
    "tranquillitās, tranquillitātis" "tranquility"
    "tranquillitāte" "tranquility"
+   
    "trānsāctā" "having been accomplished"
    "trānsactō" "having been accomplished"
    "trānsactīs" "having been accomplished"
    "trānsigō, trānsigere, trānsēgī, trānsactum" "to stab, to pierce, to accomplish"
+   
    "trānsītur" "being crossed"
    "trānsībat" "he was going over, he was crossing"
    "trānsīvisset" "he (might) have had crossed"
@@ -6913,14 +6926,21 @@
    "trānsiverant" "they had gone over, they had crossed over"
    "trānsivērunt" "they went over, they crossed over"
    "trānseuntium" "crossing"
+   "trānsitūrum" "will be crossing over"
    "trānseō, trānsīre, trānsivi(iī), trānsitus" "to go over, to cross"
    
    "trānsmeāre" "to go across, to pass over"
    "trānsmeō, trānsmeāre, trānsmeāvī, trānsmeātus" "to go across, to pass over"
    "trānsmittam" "I will send"
    "trānsmittō, trānsmittere, trānsmīsī, trānsmissus" "to send"
+   
    "trāxit" "he hauled, he discussed"
    "trāns" "across, beyond"
+
+   "trānsportāverat" "he had carried across"
+   "trānsportandum" "to carry across"
+   "trānsportō, trānsportāre, trānsportāvī, trānsportātus" "to carry across"
+   
    "tertia" "third"
    "tertium" "third"
    "tertius" "third"
