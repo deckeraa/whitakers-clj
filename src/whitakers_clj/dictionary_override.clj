@@ -5877,6 +5877,9 @@
    "reditiōnis" "return"
    "reditiō" "return"
    "reditiō, reditiōnis" "return"
+
+   "reditū" "returning, return"
+   "reditus, reditūs" "returning, return"
    
    "redūcō, redūcere, redūxī, reductus" "to lead back, to bring back"
    "redūcet" "he will lead back, he will bring back"
@@ -5899,9 +5902,11 @@
    "reficite" "restore!"
    "reficiantur" "they (might) be refreshed"
    "refēcit" "he refreshed, he rebuilt"
+   "reficiendās" "restoring, refreshing"
 
    "rettulērunt" "they brought back, reported"
    "referēns" "bringing back, reporting"
+   "referrentur" "they (might) be being reported"
    "referō, referre, rettulī, relātus" "to bring back, to report"
    
    "refocilātiō" "refreshment"
@@ -5948,6 +5953,7 @@
    "relinquō, relinquere, relīquī, relictum" "to leave behind"
 
    "reliqua" "remaining"
+   "reliquae" "remaining"
    "reliquī" "remaining"
    "reliquīs" "remaining"
    "reliquōs" "remaining"
@@ -5994,6 +6000,10 @@
 
    "replētī" "having been filled/re-filled"
    "repleō, replēre, replēvī, replētus" "to fill again"
+
+   "reportārī" "to be reported"
+   "reportāre" "to report"
+   "reportō, reportāre, reportāvī, reportātus" "to report"
    
    "reputābitur" "it will be thought over"
    "reputō, reputāre, reputāvī, reputātus" "to think over, to reflect"
@@ -6134,6 +6144,7 @@
 
    "Rōmānī" "Romans"
    "rōmānī" "Romans"
+   "rōmānīs" "Romans"
    "Rōmānōrum" "Romans"
    "rōmānōrum" "Romans"
    "rōmānum" "Roman"
@@ -6473,8 +6484,13 @@
    
    "sōlstitium" "solstice, heat of summer"
    "sōlstitium, sōlstitiī" "solstice, heat of summer"
+   
    "sōlus" "alone"
    "sōlus, sōla, sōlum (gen -ius)" "alone"
+
+   "solvērunt" "they loosened, they paid"
+   "solvere" "to loosen, to pay"
+   "solvō, solvere, solvī, solūtus" "to loosen, to pay"
 
    "somnō" "sleep"
    "somnus, somnī" "sleep"
@@ -6620,6 +6636,11 @@
    "suāvitāte" "sweetness, pleasantness"
    "subcinerīciīs" "baked under ashes"
    "subcinericius, subcinericia, subcinericium" "baked under ashes"
+
+   "subdūxerat" "he had lead off"
+   "subdūcere" "to lead off"
+   "subdūcō, subdūcere, subdūxī, subductus" "to lead off"
+   
    "subiectam" "things subjected"
    "subiciō, subicere, subiēcī, subiectus" "to subject, to throw under"
 
