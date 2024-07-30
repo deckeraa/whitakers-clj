@@ -30,6 +30,7 @@
    "admīrātī" "admīrātī + sunt = were admired"
    "admīrātus" "admīrātus + est = was admired"
    "admodum" "very"
+   "aegrē" "sickly"
    "aegypto" "Egypt, dative or ablative case"
    "aequāliter" "equally"
    "aethiopum" "Ethiopian, black"
@@ -88,11 +89,13 @@
    "circā" "around, about, concerning"
    "circiter" "near, close, about"
    "circum" "about, around, near"
+   "citissimē" "very swiftly"
    "citō" "quickly"
    "clam" "secretly, stealthily, without the knowledge of"
    "Commius" "Commius, a Roman ambassador"
    "coepērunt" "they started; from coepī, coepisse, coepī, coeptum"
    "commendātīs" "you commend; 2nd person plural present from commendāre"
+   "commodē" "suitably"
    "commorantur" "they dwell, 3rd person present of commoror, commorārī, commorātum (dep.)"
    "cōnfestim" "immediately"
    "cōnsīderāte" "consider! plural imperative from cōnsīderō, cōnsīderāre, cōnsīderāvī, cōnsīderātus"
@@ -668,6 +671,8 @@
    "vultis" "you want; plural 2nd person present from volō, velle, voluī (irr.)"
    "X" "ten"
    "XVIII" "eighteen"
+   "VII" "seven"
+   "XII" "twelve"
    })
 
 (def dictionary-map
@@ -738,6 +743,7 @@
    "adficere" "to equip, to affect"
    "adficiō, adficere, adfēcī, adfectus" "to equip, to affect"
 
+   "adflīctae" "having been striken"
    "adflīctābat" "he was damaging"
    "adflīctāre" "to damage"
    "adflīctō, adflīctāre, adflīctāvī, adflīctātum" "to damage"
@@ -776,6 +782,7 @@
    "admittō, admittere, admīsī, admissus" "to admit, let in"
 
    "adoriēbantur" "they were attacking"
+   "adortī" "having been attacked"
    "adorio, adorīre, -, adorītus" "to attack"
 
    "adpropinquāvērunt" "they had had approached"
@@ -798,7 +805,7 @@
 
    "aedificia" "buildings"
    "aedificium, aedificiī" "building, structure"
-   
+
    "aequālī" "equal"
    "aequālis" "equal"
    "aequālis, aequāle, aequālior -or -us, aequālissimus -a -um" "equal"
@@ -1080,6 +1087,7 @@
    "appāruit" "he appeared"
 
    "appellābat" "he was calling, he was naming"
+   "appellābātur" "he was being called"
    "appellantur" "they are called"
    "appellātus" "having been called"
    "appellāvit" "he called, he named"
@@ -1175,7 +1183,8 @@
 
    "armāmentīs" "equipmento"
    "armāmentum, armāmentī" "equipment"
-   
+
+   "armārī" "to be armed, to be rigged"
    "armāvit" "he armed, he rigged"
    "armō, armāre, armāvī, armātus" "to arm, to rig"
 
@@ -1278,6 +1287,10 @@
    "aurēs" "ears"
    "auribus" "ears"
    "auris, auris" "ear"
+
+   "aurīga"  "charioteer"
+   "aurīgae" "charioteer"
+   "aurīga, aurīgae" "charioteer"
    
    "aurōra" "dawn, sunrise"
    "aurōra, aurōrae" "dawn, sunrise"
@@ -1423,6 +1436,9 @@
    "brachium, brachiī" "arm"
    "Brendānō" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
+
+   "brevī" "short"
+   "brevis, breve, brevior -or -us, brevissimus -a -um" "short"
 
    "brevitās" "shortness, narrowness"
    "brevitāte" "shortness, narrowness"
@@ -1571,9 +1587,13 @@
    "carrōrum" "of four-wheeled wagons"
    "carrus, carrī" "four-wheeled wagon"
 
+   "castra" "forts"
    "castrīs" "forts"
    "castrōrum" "of forts"
    "castrum, castrī" "fort"
+
+   "cāsus" "fall, downward movement"
+   "cāsus, cāsūs" "fall, downward movement"
    
    "cauda" "tail"
    "caudam" "tail"
@@ -1682,9 +1702,12 @@
    "circuitū" "circuit, outer shore"
    "circuitum" "circuit, outer shore"
    "circuitus, circuitūs" "circuit, outer shore"
+
+   "circumdederant" "they had surrounded"
    "circumdabātur" "he was being surrounded"
    "circumdatis" "you surround"
    "circumdō, circumdare, circumdedī, circumdatus" "to surround, to place around"
+   
    "circumfulsit" "it shone all around"
    "circumfulgeō, circumfulgēre, circumfulsī, circumfulsus" "it shone all around"
 
@@ -1767,11 +1790,17 @@
    "cōgnōscitis" "you recognize, you know"
    "cōgnōsceret" "he (might) have recognized, learned"
    "cōgnōscerent" "they (might) have recognized, learned"
+   "cōgnōverat" "they had recognized, learned"
    "cōgnōscō, cōgnōscere, cōgnōvī, cōgnitum" "to recognize, to learn, to inquire, to know"
+
+   "cohortēs" "cohorts (groups of 360 men)"
+   "cohors, cohortis" "cohort, court, tenth of a legion (360 men)"
 
    "coiciēbant" "they were throwing together, guessing"
    "coicerent" "they (might) be throwing together, guessing"
+   "coiciunt" "they throw together, they guess"
    "coicere" "to throw, to guess"
+   "coicī" "to be thrown together, to be guessed"
    "coiciō, coicere, coiēcī, coiectus" "to throw, to guess"
    
    "collēctiō" "collection"
@@ -1820,16 +1849,21 @@
    
    "commīlitōnibus" "comrade"
    "commīlitō, commīlitōnis" "comrade"
+
+   "commodus, commoda -um, commodior -or -us, commodissimus -a -um" "suitable, convenient"
+   
    "commorāmur" "we dwell"
    "commorantem" "dwelling"
    "commorātur" "he dwells"
    "commoro, commorare, commoravi, commoratus" "to dwell on"
+   
    "commūniōnem" "communion"
    "commūniō, commūniōnis" "communion"
-   
-   "comparāvī" "I compared"
-   "comparāre" "I compare"
-   "comparātis" "you compare"
+
+   "comparābat" "he compared, prepared"
+   "comparāvī" "I prepared, compared"
+   "comparāre" "I prepare, compare"
+   "comparātis" "you prepare, compare"
    "comparō, comparāre, comparāvī, comparātus" "to compare"
 
    "complēbat" "he will fill up"
@@ -1843,6 +1877,9 @@
 
    "complūribus" "many, several persons"
    "complūs, (gen.), complūris" "many, several persons"
+
+   "comportārī" "to be brought together"
+   "comportō, comportāre, comportāvī, comportātus" "to bring together"
 
    "comprehenderant" "they had caught"
    "comprehendere" "to catch"
@@ -1886,11 +1923,15 @@
    "condūxit" "he assembled"
    "condūcere" "to assemble"
    "condūcō, condūcere, condūxī, conductus" "to assemble"
-   
+
+   "cōnferēbat" "he was talking"
    "cōnferentēs" "conferencing, talking, meeting"
    "cōnferre" "to conference, to talk, to meet"
    "contulērunt" "they brought together"
    "cōnferō, cōnferre, contulī, collātus" "to conference, to talk, to meet"
+
+   "cōnferta" "dense, crowded"
+   "cōnfertus, cōnferta -um, cōnfertior -or -us, cōnfertissimus -a -um" "dense, crowded"
 
    "cōnficiendās" "completing"
    "cōnficere" "to complete"
@@ -1933,6 +1974,9 @@
 
    "coniūrāvit" "he conjured"
    "coniūrō, coniūrāre, coniūrāvī, coniūrātus" "to conjure"
+
+   "conlocant" "they arrange, they station"
+   "conlocō, conlocāre, conlocāvī, conlocātus" "to arrange, to station"
 
    "conlocūtī" "having discussed"
    "conloquor, conloquī, conlocūtus sum" "to discuss, to confer"
