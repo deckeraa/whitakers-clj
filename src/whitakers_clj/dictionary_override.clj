@@ -108,6 +108,7 @@
    "convocātis" "you call together; 2nd person plural present from convocō, convocāre, convocāvī, convocātus"
    "cōram" "in the presence of"
    "corporāliter" "bodily, physically, corporeally"
+   "cotīdiē" "daily"
    "cottīdiē" "daily"
    "crās" "tomorrow"
    "cui" "who; singular dative from quis"
@@ -2004,6 +2005,8 @@
    "cōnsīderō, cōnsīderāre, cōnsīderāvī, cōnsīderātus" "to consider, to examine"
    "consideravisset" "he (might) have had considered"
 
+   "cōnsilia"  "plans, advice, councils"
+   "cōnsiliī"  "of plans, of advice, of councils"
    "cōnsiliō"  "plan, advice, council"
    "cōnsilium" "plan, advice, council"
    "cōnsilium, cōnsiliī" "plan, advice, council"
@@ -2039,10 +2042,15 @@
    "cōnstitūtum, cōnstitūtī" "arrangement, agreement"
 
    "consuēverant" "they had familiarized"
+   "consuēverint" "they will have familiarized"
    "consuēvērunt" "they familiarized"
    "consuēvit" "he familiarized"
    "consuēscere" "to familiarize"
    "consuēscō, consuēscere, consuēvī, consuētus" "to familiarize"
+
+   "cōnsuētūdine" "habit, custom"
+   "cōnsuētūdō"   "habit, custom"
+   "cōnsuētūdō, cōnsuētūdinis" "habit, custom"
 
    "cōnsulem" "consul"
    "cōnsulibus" "consuls"
@@ -2148,6 +2156,7 @@
    "costātus, costāta, costātum" "ribbed"
 
    "cōtīdiānīs" "every day"
+   "cōtīdiānō"  "every day"
    "cōtīdiānus, cōtīdiāna, cōtīdiānum" "every day"
    
    "crāstinae" "tomorrow" 
@@ -2227,6 +2236,10 @@
    
    "curricula" "race, course of action, course of heavenly body"
    "curriculum, curriculī" "race, course of action, course of heavenly body"
+
+   "currus" "chariot"
+   "currus, currūs" "chariot"
+   
    "cursūs" "course"
    "cursū" "course"
    "cursum" "course"
@@ -2269,12 +2282,19 @@
    
    "dēbitum" "debt, due, duty"
    "dēbitum, dēbitī" "debt, due, duty"
+   
    "dēbuissent" "they (might) have had owed"
    "dēbuissēmus" "we (might) have had owed"
+   
    "decānus" "dean, chief"
    "decānus, decānī" "dean, chief"
+
+   "dēclīvī" "slopes"
+   "dēclīvum, dēclīvī" "slope"
+   
    "dēcrēvimus" "we decided"
    "dēcernō, dēcernere, dēcrēvī, dēcrētus" "to decide"
+   
    "decet" "it is fitting"
    "decet, decēre, decuit, -" "it is fitting"
    "dēclārābitur" "he will announce"
@@ -2356,6 +2376,10 @@
    
    "dēnsissimīs" "very dense"
    "dēnsus, dēnsa -um, dēnsior -or -us, dēnsissimus -a -um" "dense"
+
+   "dēpositīs" "deposits, trusts"
+   "dēpositum, dēpositī" "deposit, trust"
+   
    "dēprecantēs" "praying"
    "dēpreco, dēprecāre, dēprecāvī, dēprecātus" "to pray"
    "dēprecor" "I prayed"
@@ -2383,6 +2407,7 @@
    "desilīre" "to jump down"
    "desilīte" "jump down!"
    "desiluērunt" "they jumped down"
+   "desiliunt" "they jump down"
    "desiliō, desilīre, desiluī, desultus" "to jump down"
    
    "dēspēximus" "we disdained"
@@ -2511,6 +2536,9 @@
 
    "diserta" "skilled in speaking"
    "disertus, diserta, disertum" "skilled in speaking"
+
+   "dispersōs" "spread out"
+   "dispersus, dispersa, dispersum" "spread out"
    
    "dīversae" "diverse"
    "dīversa" "diverse"
@@ -2663,6 +2691,8 @@
    "efferō, efferre, extulī, ēlātus" "to carry out, to bury"
 
    "efficere" "to achieve, produce"
+   "effēcit" "he achieved, produced"
+   "efficiunt" "they achieve, produce"
    "efficiō, efficere, effēcī, effectus" "to achieve, produce"
    
    "effluēbant" "they were flowing out"
@@ -2716,12 +2746,14 @@
    "equitō, equitāre, equitāvī, equitātus" "to ride on horseback"
 
    "equīs" "horses"
+   "equōrum" "of horses"
    "equōs" "horses"
    "equum" "horse"
    "equus" "horse"
    "equus, equī" "horse"
 
    "equitēs" "horsemen"
+   "equitum" "of horsemen"
    "eques, equitis" "horseman"
 
    "eram" "I was"
