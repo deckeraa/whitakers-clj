@@ -159,6 +159,7 @@
    "et" "and"
    "etiam" "still"
    "etenim" "as a matter of fact"
+   "etsī" "even so"
    "eugē" "Hey-o! (An untranslatable interjection)"
    "eum" "to him; singular masculine accusative from is, ea, id"
    "exceptō" "except"
@@ -2793,6 +2794,9 @@
 
    "essedāriīs" "gladiators (fighting from chariots)"
    "essedārius, essedāriī" "gladiator (fighting from a chariot)"
+
+   "essedīs" "two-wheeled chariots"
+   "essedum, essedī" "two-wheeled chariot"
    
    "ēsuriē" "hunger"
    "ēsuriēs, ēsuriēī" "hunger"
@@ -2804,6 +2808,9 @@
    "ēvenīret" "it (might) have been happening"
    "ēvenīre" "to happen"
    "ēveniō, ēvenīre, ēvēnī, ēventus" "to happen"
+
+   "ēventū" "event"
+   "ēventus, ēventūs" "event"
    
    "ēvigilāns" "awakening"
    "ēvigilat" "he wakes up, he rouses"
@@ -2812,15 +2819,25 @@
    
    "exaudī" "hear!"
    "exaudiō, exaudīre, exaudīvī, exaudītus" "to hear clearly"
+   
    "exāmen" "crowd, exam"
    "exāmen, exāminis" "crowd, exam"
+
+   "excēdunt" "they pass, exceed"
+   "excēdere" "to pass, to exceed"
+   "excēdō, excēdere, excessī, excessus" "to pass, to exceed"
+   
    "excēpit" "he took out"
    "excipiō, excipere, excēpī, exceptus" "to take out, to receive, to ward off"
+   
    "excitātur" "he is being raised up"
    "excitō, excitāre, excitāvī, excitātus" "to wake up, to stir up, to raise, to excite"
 
    "exemplum" "sample, model, copy"
    "exemplum, exemplī" "sample, model, copy"
+
+   "exercitātiōne" "exercise, training"
+   "exercitātiō, exercitātiōnis" "exercise, training"
 
    "exercitū" "army"
    "exercitum" "army"
@@ -2865,6 +2882,7 @@
    "expectantēs" "expecting"
 
    "expedītius" "freer, more unburdened"
+   "expedītum" "free, unburdened"
    "expedītus, expedīta -um, expedītior -or -us, expedītissimus -a -um" "free, unburdened"
    
    "exposuimus" "we explained"
@@ -2944,6 +2962,7 @@
    "factus" "made"
    "fīēbat" "it was being made"
    "faciundī" "to be made"
+   "fēcisset" "he (might) have had made"
 
    "facile" "easy"
    "facilius" "easier"
@@ -2992,18 +3011,22 @@
    "tulērunt" "they brought"
    "tulissent" "they (might) have had brought"
    "tulit" "he brought"
+   "ferret" "he was bringing"
    "ferre" "to bring, to bear"
    "ferō, ferre, tulī, lātus" "to bring, to bear"
    "ferēbātur" "it was brought"
    "ferēbāntur" "they were brought"
+   
    "ferrāmentīs" "iron tools"
    "ferrāmentum, ferrāmentī" "iron tool"
+   
    "ferrō" "iron"
    "ferrum" "iron"
    "ferrum, ferrī" "iron"
    "ferreae" "made of iron"
    "ferreās" "made of iron"
    "ferreus, ferrea, ferreum" "made of iron"
+   
    "fertilitāte" "fruitfulness, fertility"
    "fertilitās, fertilitātis" "fruitfulness, fertility"
    "fervēre" "to boil"
@@ -3111,6 +3134,7 @@
    "flō, flāre, flāvī, flātus" "to breathe, to blow"
    "flectēbat" "they were bending"
    "flectentēs" "bending"
+   "flectere" "to bend"
    "flectō, flectere, flēxī, flexum" "to bend"
    "fleō, flēre, flēvī, flētus" "to cry"
    "flētū" "weeping"
@@ -3233,6 +3257,9 @@
    "frūmentō" "corn, grain"
    "frūmentum" "corn, grain"
    "frūmentum, frūmentī" "corn, grain"
+
+   "frūmentātum" "having gotten grain"
+   "frūmentor, frūmentārī, frūmentātus" "to get grain"
    
    "fuerat" "he had been"
    "fuērunt" "they were"
