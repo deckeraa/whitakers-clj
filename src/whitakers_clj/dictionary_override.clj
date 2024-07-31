@@ -5281,7 +5281,8 @@
    "pācem" "peace"
    "pāx" "peace"
    "pāx, pācis" "peace"
-   
+
+   "paulō" "little"
    "paulum" "little"
    "paulus" "little"
    "paulus, paula, paulum" "little"
@@ -5309,8 +5310,15 @@
    "pedem" "foot"
    "pedēs" "feet"
 
+   "peditum" "of foot soldiers"
+   "pedes, peditis" "foot soldier"
+
    "pedestribus" "on foot"
    "pedester, pedestris, pedestre" "on foot"
+
+   ;; "pēditī"  "fart"
+   ;; "pēditum" "fart"
+   ;; "pēditum, pēditī" "fart"
    
    "pellēs" "pelts, hides"
    "pellium" "of pelts, of hides"
@@ -5342,6 +5350,9 @@
    "pecūnia"  "money"
    "pecūniam" "money"
    "pecūnia, pecūniae" "money"
+
+   "percurrere" "to run through"
+   "percurrō, percurrere, percurrī, percursus" "to run through"
    
    "percutiēbat" "he was hitting"
    "percutiēbant" "they were hitting"
@@ -5349,14 +5360,20 @@
    "percussō" "having been hit"
    "percutiō, percutere, percussī, percussus" "to strike, to beat"
    "percutientēs" "striking, beating"
+   
    "perdūcat" "you (might) lead through"
    "perdūcō, perdūcere, perdūxī, perductus" "to lead through, to guide"
+   
    "peregrīnātiō" "travel, pilgrimage"
    "peregrīnātiōnis" "travel, pilgrimage"
    "peregrīnātiō, peregrīnātiōnis" "travel, pilgrimage"
    "peregrīnārī" "to make a pilgrimage"
    "peregrīnor, peregrīnārī, peregrīnātus sum" "to make a pilgrimage"
    "peregrīnābitur" "he will make a pilgrimage, he will sojourn"
+
+   "perequitant" "they run through"
+   "perequitāre" "to ride through"
+   "perequitō, perequitāre, perequitāvī, perequitātus" "to ride through"
 
    "perfacilis" "very easy"
    "perfacile"  "very easy"
@@ -5452,6 +5469,8 @@
    "perturbātiō, perturbātiōnis" "disorder, disturbance"
 
    "perturbābantur" "they were troubled"
+   "perturbant" "they were troubling, confusing"
+   "perturbāverant" "they had troubled, confused"
    "perturbāre" "to trouble"
    "perturbō, perturbāre, perturbāvī, perturbātus" "to trouble"
    
@@ -5570,6 +5589,8 @@
    "posuistī" "you placed"
    "portiō" "share, part, portion"
    "portiō, portiōnis" "share, part, portion"
+   
+   "portīs" "gates"
    "portam" "gate"
    "porta, portae" "door, entrance"
 
@@ -5650,6 +5671,11 @@
    "praecēpit" "he ordered"
    "praeceperat" "he had ordered"
 
+   "praeceps"    "steep place"
+   "praecipitī"  "steep place"
+   "praecipitis" "steep place"
+   "praeceps, praecipitis" "steep place"
+
    "praeceptōrum" "of orders, directions, precepts"
    "praeceptum" "order, direction, precept"
    "praeceptum, praeceptī" "order, direction, precept"
@@ -5711,8 +5737,12 @@
    "praeterīre" "to pass by"
    "praeterita" "being passed by"
    "praetereō, praeterīre, praeterivī(iī), praeteritus" "to pass by"
+   
    "prandium" "breakfast, meal"
    "prandium, prandiī" "breakfast, meal"
+
+   "premantur" "they are being overwhelmed"
+   "premī" "to be pressed, to be overwhelmed"
    "premit" "he presses, he overwhelms"
    "premō, premere, pressī, pressus" "to press, to overwhelm"
    
