@@ -5784,6 +5784,10 @@
    "probāvimus" "we approved, we commended"
    "probāre" "to approve, to commend, to demonstrate"
    "probō, probāre, probāvī, probātus" "to approve, to commend, to demonstrate"
+
+   "processisset" "he (might) have had proceeded"
+   "procēdere" "to proceed"
+   "procēdō, procēdere, processī, processus" "to proceed"
    
    "prōcūrātor" "procurator"
    "prōcūrātore" "procurator"
@@ -5795,6 +5799,9 @@
 
    "prōdūcere" "to lead forward"
    "prōdūcō, prōdūcere, prōdūxī, prōductus" "to lead forward"
+
+   "proeliantur" "they fight"
+   "proelior, proeliārī, proeliātus" "to fight"
 
    "proeliīs" "battles, conflicts"
    "proeliō"  "battle, conflict"
@@ -5939,6 +5946,11 @@
    "pulsāvērunt" "they hit"
    "pulsāvit" "he hit"
    "pulsō, pulsāre, pulsāvī, pulsātus" "to hit"
+
+   "pulverem" "dust, arena"
+   "pulveris" "dust, arena"
+   "pulvis"   "dust, arena"
+   "pulvis, pulveris" "dust, arena"
    
    "pūnicīs" "Carthaginian"
    "Pūnicus, Pūnica, Pūnicum" "Carthaginian"
@@ -6022,10 +6034,14 @@
    "recēde" "recede! withdraw!"
    "recēdēbant" "they were receding, they were withdrawing"
    "recēdō, recēdere, recessī, recessus" "to recede, to withdraw"
+
+   "receptum" "engagement, obligation"
+   "receptum, receptī" "engagement, obligation"
    
    "recēpistī" "you received"
    "receptōs" "having been received"
    "recēpērunt" "they received, they kept back"
+   "recipere" "to receive"
    "recipiō, recipere, recēpī, receptus" "to receive"
    
    "receptiō" "reception"
@@ -6033,8 +6049,10 @@
    
    "reciprocābant" "they were going back and forth"
    "reciprocō, reciprocāre, reciprocāvī, reciprocātus" "to go back and forth"
+   
    "rēctitūdinis" "straightness, rectitude"
    "rēctitūdō, rēctitūdinis" "straightness, rectitude"
+   
    "rēctō" "straight, proper, correct"
    "rēctus, rēcta -um, rēctior -or -us, rēctissimus -a -um" "straight, proper, correct"
    
@@ -6135,6 +6153,7 @@
 
    "reliqua" "remaining"
    "reliquae" "remaining"
+   "reliquās" "remaining"
    "reliquī" "remaining"
    "reliquīs" "remaining"
    "reliquōs" "remaining"
@@ -6153,6 +6172,7 @@
    "remanēre" "to remain"
    "remanēbimus" "we will remain"
    "remanēbit" "he will remain"
+   "remanēret" "he (might) have been remaining"
    "remānsit" "he remained"
    "remanēbunt" "they will remain"
    "remānsērunt" "they remained"
@@ -6332,6 +6352,9 @@
    "Rōmānus" "Roman"
    "rōmānus" "Roman"
    "Rōmānus, Rōmānī" "Roman"
+
+   "rotārum" "of wheels"
+   "rota, rotae" "wheel"
 
    "rotantis" "rotating"
    "rotō, rotāre, rotāvī, rotātus" "to rotate"
