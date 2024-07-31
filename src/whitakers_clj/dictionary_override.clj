@@ -193,6 +193,7 @@
    "germānōs" "Germans"
    "Germānōs" "Germans"
    "Goliae" "of Goliath, the Philistine giant that David slew; from Golias, Goliae."
+   "gravissimē" "very gravely"
    "Grifa" "griffin, a lion-eagle hybrid; from grifa, grifae"
    "grifa" "griffin, a lion-eagle hybrid; from grifa, grifae"
    "grifae" "griffin, a lion-eagle hybrid; from grifa, grifae"
@@ -248,6 +249,7 @@
    "iēsūm" "Jesus, accusative singular of Iēsūs"
    "igitur" "therefore"
    "ignōtum" "unknown"
+   "iī" "they, plural masculine nominative of is, ea, id"
    "illīc" "there"
    "illa" "that; singular feminine nominative from ille, illa, illud"
    "illam" "that; singular feminine accusative from ille, illa, illud"
@@ -3362,6 +3364,7 @@
    "gerēbat" "he was carrying, he was governing"
    "gerit" "he bears, he carries, he governs"
    "gerunt" "they bear, they carry, they govern"
+   "geruntur" "they were carried, governed"
    "gerere" "to bear, to carry, to govern"
    "gerō, gerere, gessī, gestus" "to bear, to carry, to govern"
    
@@ -3718,6 +3721,9 @@
    "incendit" "it burns, it burnt"
    "incendunt" "they set on fire"
    "incenduntur" "set on fire"
+
+   "incertīs" "uncertainties"
+   "incertus, incertī" "uncertainty"
    
    "inchoāre" "to begin, to set going, to establish"
    "inchoāvimus" "we had started"
@@ -3736,6 +3742,7 @@
    "incitārent" "they (might) have been inciting"
    "incitārī" "to be incited"
    "incitātis" "you incite"
+   "incitātōs" "having been incited"
    "incitō, incitāre, incitāvī, incitātus" "to incite"
 
    "incōgnitum" "unknown, untested"
@@ -3867,9 +3874,6 @@
    "īnsertā" "insert! introduce!"
    "īnsertō, īnsertāre, īnsertāvī, īnsertātus" "to insert, to introduce"
    
-   "īnsinuābat" "he was insinuating, he was pushing in"
-   "īnsinuō, īnsinuāre, īnsinuāvī, īnsinuātus" "to push in, to insinuate"
-
    "īnsistere" "to pursue, to stand upon"
    "īnsistō, īnsistere, īnstitī, -" "to pursue, to stand upon"
 
@@ -3895,6 +3899,11 @@
    "īnsulae" "island"
    "īnsulam" "island"
    "īnsulīs" "islands"
+
+   "īnsinuābat" "he was insinuating, he was pushing in"
+   "īnsinuāvērunt" "they crept in"
+   "īnsinuāre" "to push in, to creep in"
+   "īnsinuō, īnsinuāre, īnsinuāvī, īnsinuātus" "to push in, to creep in"
    
    "integer" "whole, intact, untouched"
    "integer, integra -um, integrior -or -us, integerrimus -a -um" "whole, intact, untouched"
@@ -3919,6 +3928,7 @@
    "interēmit" "he extinguish, he did away with"
 
    "interfēcit" "he killed"
+   "interfectīs" "having been killedd"
    "interficere" "to kill"
    "interficiō, interficere, interfēcī, interfectus" "to kill"
    
@@ -3927,8 +3937,18 @@
    "intermissiōnis" "intermission, interruption"
    "intermissiō, intermissiōnis" "intermission, interruption"
    "intermissiōne" "intermission, interruption"
+   
    "interfectrīx" "murderess, murderer"
    "interfectrīx, interfectrīcis" "murderess, murderer"
+
+   "intermīserant" "they had interrupted"
+   "intermittere" "to interrupt"
+   "intermittō, intermittere, intermīsī, intermissus" "to interrupt"
+
+   "interposita" "having been interposed"
+   "interpōnere" "to interpose"
+   "interpōnō, interpōnere, interposuī, interpositus" "to interpose"
+   
    "interrogāns" "asking"
    "interrogās" "asking"
    "interrogābat" "he was asking"
@@ -4012,6 +4032,7 @@
 
    "iubent" "they command"
    "iubēre" "to command"
+   "iubēbat" "he was commanding"
    "iubet" "he commands"
    "iussit" "he commanded"
    "iussērunt" "they commanded"
@@ -4043,6 +4064,7 @@
    "iūdicium" "judgement"
    "iūdicium, iūdiciī" "judgement"
 
+   "iugō" "yoke"
    "iugum" "yoke"
    "iugum, iugī" "yoke"
    
@@ -4186,6 +4208,7 @@
    "lēgātus, lēgātī" "legate, ambassador"
 
    "legiō" "legion"
+   "legiōne" "legion"
    "legiōnēs" "legions"
    "legiōnī" "legion"
    "legiōnis" "legion"
@@ -4328,6 +4351,7 @@
    "magnificābant" "they were esteeming greatly"
    "magnificō, magnificāre, magnificāvī, magnificātus" "to esteem greatly"
    "maior" "bigger"
+   "maiōrem" "bigger"
    "maiōrēs" "bigger"
    "maiōribus" "bigger"
    
@@ -4417,6 +4441,9 @@
    "māter" "mother"
    "māter, mātris" "mother"
 
+   "māteria" "matter"
+   "māteria, māteriae" "matter"
+
    "māteriēs" "material, substance"
    "māteriēs, māteriēī" "material, substance"
 
@@ -4495,8 +4522,14 @@
    "meruistī" "you earned"
    "mereō, merēre, meruī, meritus" "to earn, to deserve"
    "meritī" "merited"
+   
    "metallī" "metal"
    "metallum, metallī" "metal"
+
+   "metendō" "reaping, cutting off"
+   "metere" "to reap, to cut off"
+   "metō, metere, messuī, messus" "to reap, to cut off"
+   
    "migrāvī" "I departed"
    "migrō, migrāre, migrāvī, migrātus" "to depart"
    
@@ -4578,6 +4611,11 @@
    
    "minuitur" "to be diminished"
    "minuō, minuere, minuī, minūtus" "to be diminished"
+
+   "mōbilitās" "mobility"
+   "mōbilitātem" "mobility"
+   "mōbilitātis" "mobility"
+   "mōbilitās, mōbilitātis" "mobility"
 
    "modium" "peck (8 dry quarts)"
    "modius, modiī" "peck (8 dry quarts)"
@@ -4745,6 +4783,7 @@
    "nāvigāvisset" "he (might) have navigated"
    "nāvigāvissent" "they (might) have navigated"
    "nāvigandum" "sailing, navigating"
+   "nāvigārī" "to be sailed"
 
    "nāvigia" "vessels, ships, sailings, navigation"
    "nāvigiī" "vessel, ship, sailing, navigation"
@@ -4843,7 +4882,8 @@
    "nōtissimīs" "very well known"
    "nōtus" "known"
    "nōtus, nōta -um, nōtior -or -us, nōtissimus -a -um" "known"
-   
+
+   "novī" "new, inexperienced"
    "novissimō"  "very new, very inexperienced"
    "novissimum" "very new, very inexperienced"
    "novīs" "new, inexperienced"
@@ -4886,6 +4926,7 @@
    "numerus, numerī" "number, division, troop"
 
    "nūntiātum" "having been announced"
+   "nūntiāvērunt" "they announced"
    "nūntiāre" "to announce"
    "nūntiō, nūntiāre, nūntiāvī, nūntiātus" "to announce"
    
@@ -4957,6 +4998,7 @@
 
    "occupāret" "he (might) have seized"
    "occupātō" "attack!"
+   "occupātōs" "having been seized"
    "occupō, occupāre, occupāvī, occupātum" "to seize, to overtake, to attack"
 
    "occurrerat" "he had run"
