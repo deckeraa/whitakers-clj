@@ -47,6 +47,7 @@
    "aliquod" "anyone; neuter singular nominative or accusative from aliqui"
    "aliquōs" "someone"
    "alleluia" "hallelujah"
+   "allobrogēs" "Allobrogi, A Gaulish tribe (nom. or acc. case)"
    "allobrogibus" "Allobrogi, A Gaulish tribe (dative or ablative case)"
    "allobrogum" "Of the Allobrogi, A Gaulish tribe (plural genitive case)"
    "alterīus" "of the other; singular genitive from alius, alia, aliud"
@@ -670,6 +671,7 @@
    "vīsae" "vīsae + sunt = having been seen, having appeared"
    "vix" "barely"
    "vōbīs" "you; plural dative or ablative from tu"
+   "volunt" "they want; singular 3rd person present from volō, velle, voluī (irr.)"
    "vōtum" "vow"
    "vult" "he wants; singular 3rd person present from volō, velle, voluī (irr.)"
    "vultis" "you want; plural 2nd person present from volō, velle, voluī (irr.)"
@@ -773,6 +775,7 @@
    "adiuvō, adiuvāre, adiūvī, adiūtus" "to help"
 
    "administrandī" "attending to"
+   "administrārētur" "he (might) have been being attended to"
    "administrāre" "to attend to"
    "administrō, administrāre, administrāvī, administrātus" "to attend to"
    
@@ -816,9 +819,14 @@
    "aequor" "level surface"
    "aequor, aequōris" "level surface"
    "aequōra" "level surfaces"
+   
    "āēr" "air"
    "āēr, āeris" "air"
    "āeris" "air"
+
+   "aere" "copper"
+   "aes, aeris" "copper"
+   
    "aestīvāle" "summer"
    "aestīvālis, aestīvālis, aestīvāle" "summer"
    "aestus" "heat"
@@ -1017,6 +1025,7 @@
    "angustum, angustī" "small space, narrow passage, being boxed in"
    "angustus" "small space, narrow passage, being boxed in"
 
+   "angusta" "narrow"
    "angustior" "narrower"
    "angustus, angusta -um, angustior -or -us, angustissimus -a -um" "narrow"
 
@@ -1589,6 +1598,7 @@
 
    "carrī" "four-wheeled wagon"
    "carrōrum" "of four-wheeled wagons"
+   "carrus" "four-wheeled wagon"
    "carrus, carrī" "four-wheeled wagon"
 
    "castra" "forts"
@@ -2072,6 +2082,7 @@
 
    "continentem" "continent"
    "continēns"   "continent"
+   "continentī"  "continent"
    "continentis" "continent"
    "continēns, continentis" "continent"
 
@@ -2417,6 +2428,11 @@
    "dēspiciō, dēspicere, dēspēxī, dēspectus" "to disdain"
    "dēstinātum" "target, purpose, destination"
    "dēstinātum, dēstinātī" "target, purpose, destination"
+
+   "dēstrūxit" "he destroyed"
+   "dēstruere" "to destroy"
+   "dēstruō, dēstruere, dēstrūxī, dēstrūctus" "to destroy"
+   
    "dēterrimum" "worst"
    "-, -, dēterior -or -us, dēterrimus -a -um" "worst"
    "dētrīmentum" "harm, detriment"
@@ -2768,6 +2784,7 @@
    "eritis" "you will be"
    "erō" "I will be"
    "essent" "they (might) have been"
+   "fore" "to be"
 
    "ērēctīs" "to be raised, to be built"
    "ērēxit" "he raised, he built"
@@ -3853,6 +3870,9 @@
    "initiī" "beginning, entrance"
    "initium, initiī" "beginning, entrance"
 
+   "initum" "undertaking"
+   "initus, initūs" "undertaking"
+
    "iniūria" "wrong, offense, injury"
    "iniūria, iniūriae" "wrong, offense, injury"
    
@@ -3927,6 +3947,7 @@
    "interdīcō, interdīcere, interdīxī, interdīctus" "to forbid, to interdict"
    "interēmit" "he extinguish, he did away with"
 
+   "interfēcerant" "they had killed"
    "interfēcit" "he killed"
    "interfectīs" "having been killedd"
    "interficere" "to kill"
@@ -4209,6 +4230,7 @@
 
    "legiō" "legion"
    "legiōne" "legion"
+   "legiōnem" "legion"
    "legiōnēs" "legions"
    "legiōnī" "legion"
    "legiōnis" "legion"
@@ -4648,6 +4670,7 @@
    "monte" "mountain"
    "montem" "mountain"
    "montēs" "mountains"
+   "montibus" "mountains"
    "montīs" "mountains"
 
    "mōnstrum" "monster"
@@ -5937,6 +5960,7 @@
    "pugnāvit" "he fought"
    "pugnāre" "to fight"
    "pugnandum" "fighting"
+   "pugnārent" "they (might) have been fighting"
    "pugnātum" "having been fought"
    "pugnō, pugnāre, pugnāvī, pugnātus" "to fight"
 
@@ -6781,9 +6805,20 @@
    "spūma, spūmae" "foam"
    "spūmantem" "foaming"
    "spūmō, spūmāre, spūmāvī, spūmātus" "to foam"
+
+   "stabilitās"   "stability"
+   "stabilitātis" "stability"
+   "stabilitās, stabilitātis" "stability"
+   
    "stadiī" "stadium (around 660 feet)"
    "stadium, stadi(ī)" "stadium (around 660 feet)"
    "standō" "standing"
+
+   "statiō"    "station, guard"
+   "statiōne"  "station, guard"
+   "statiōnem" "station, guard"
+   "statiōnis" "station, guard"
+   "statiō, statiōnis" "station, guard"
 
    "sterilī" "sterile"
    "sterilis" "sterile"
@@ -6810,7 +6845,10 @@
    "strāta" "paved road"
    "strātam" "paved road"
    "strāta, strātae" "paved road"
+   
    "strepitantibus" "making a harsh noise"
+
+   "strepitū"  "din, noise, clashing, sound"
    "strepitus" "din, noise, clashing, sound"
    "strepitus, strepitūs" "din, noise, clashing, sound"
 
@@ -6875,11 +6913,17 @@
    
    "subtrahit" "he carries off"
    "subtrahō, subtrahere, subtrāxī, subtractus" "to carry off"
+   
    "subvenit" "he brings aid"
    "subvēnit" "he brought aid"
    "subveniō, subvenīre, subvēnī, subventus" "to bring aid"
+
+   "succēdere" "to climb, to succeed"
+   "succēdō, succēdere, successī, successus" "to climb, to succeed"
+   
    "succendistis" "you set on fire"
    "succendō, succendere, succendī, succēnsus" "to set on fire"
+   
    "successōribus" "successors"
    "successor" "successor"
    "successor, successōris" "successor"
@@ -6893,9 +6937,11 @@
    
    "sufflantium" "inflating"
    "sufflō, sufflāre, sufflāvī, sufflātus" "inflating"
+   
    "sulcābat" "it was furrowing, it was plowing"
    "sulcantem" "furrowing"
    "sulcō, sulcāre, sulcāvī, sulcātus" "to furrow, to plow"
+   
    "sum" "I am"
    "sum, esse, fuī, futūrus" "to be (irregular)"
    "summitās, summitātis" "summit, top"
@@ -6959,7 +7005,13 @@
    "suscitō, suscitāre, suscitāvī, suscitātus" "to encourage, to awaken, to stir up"
 
    "suspiciō" "suspicion"
+   "suspiciōne" "suspicion"
    "suspiciō, suspiciōnis" "suspicion"
+
+   "suspicābātur" "he was being suspected"
+   "suspicātī" "having been suspected"
+   "suspicātus" "having been suspected"
+   "suspicō, suspicāre, suspicāvī, suspicātus" "to suspect"
    
    "sustinēbit" "he will sustain"
    "sustinēmus" "we sustain"
@@ -6993,6 +7045,11 @@
 
    "tēla" "spears"
    "tēlum, tēlī" "spear"
+
+   "tēmō" "pole, wagon"
+   "tēmōnem" "pole, wagon"
+   "tēmōnis" "pole, wagon"
+   "tēmō, tēmōnis" "pole, wagon"
 
    "temperātūrōs" "to be tempered, moderated"
    "temperāre" "to temper, to moderate"
@@ -7040,11 +7097,16 @@
    "tentōriō" "tent"
    "tentōriī" "tent"
    "tentōrium, tentōriī" "tent"
+   
    "ternōs" "three each"
+   
    "terra" "land"
    "terrae" "land"
    "terra, terrae" "land"
    "terrārum" "of lands"
+
+   "terrōre" "terror"
+   "terror, terrōris" "terror"
    
    "tetendit" "he stretched, he extended"
    "tetendērunt" "they stretched, they extended"
@@ -7250,6 +7312,7 @@
    "ūrceolī" "small pitcher"
 
    "ūsuī" "use, employment, skill"
+   "ūsū"  "use, employment, skill"
    "ūsus, ūsūs" "use, employment, skill"
    
    "utra" "either"
@@ -7259,6 +7322,7 @@
    "utrīs" "either"
    "uter, utra, utrum" "either"
 
+   "ūtēbātur" "he was using"
    "ūtēbantur" "they were using"
    "ūtitur" "he uses"
    "ūsī" "having used"
@@ -7328,13 +7392,20 @@
    "veniō, venīre, vēnī, ventus" "to come"
    "vēnī" "I came"
    "vēnit" "he came"
+   "ventūrōs" "to come"
+
+   "ventitāret" "he was coming regularly"
+   "ventitāre" "to come regularly"
+   "ventitō, ventitāre, ventitāvī, ventitātus" "to come regularly"
    
    "ventre" "belly, abdomen"
    "venter, ventris" "belly, abdomen"
+   
    "ventum" "wind"
    "ventus" "wind"
    "ventō" "wind"
    "ventus, ventī" "wind"
+   
    "vērāx" "true"
    "vērāx, vērācis (gen.), vērācior -or -us, vērācissimus -a -um" "true"
    "verberibus" "lashes, whips, rods"
@@ -7447,6 +7518,7 @@
    "vidērēmur" "we (might) have appeared"
    "vīdimus" "we saw"
    "vīdistī" "you saw"
+   "vidērī" "to appear"
    
    "vigiliam" "vigil, watch"
    "vigiliārum" "vigil, watch"
