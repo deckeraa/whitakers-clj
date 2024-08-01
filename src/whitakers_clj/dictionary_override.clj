@@ -677,6 +677,7 @@
    "vultis" "you want; plural 2nd person present from volō, velle, voluī (irr.)"
    "X" "ten"
    "XVIII" "eighteen"
+   "XXX" "thirty"
    "VII" "seven"
    "XII" "twelve"
    })
@@ -811,6 +812,7 @@
    "aedificō, aedificāre, aedificāvī, aedificātus" "to build"
 
    "aedificia" "buildings"
+   "aedificiīs" "buildings"
    "aedificium, aedificiī" "building, structure"
 
    "aequālī" "equal"
@@ -914,9 +916,14 @@
    "alimōnia, alimōniae" "food, nourishment"
    "aliō" "other"
    "ālīs" "wings"
+   
    "aliēnāvit" "he alienated"
    "aliēnārī" "to be alienated"
    "aliēnō, aliēnāre, aliēnāvī, aliēnātus" "to alienate, to give up"
+
+   "aliēnum" "strange, unfamiliar"
+   "aliēnus, aliēna -um, aliēnior -or -us, alienissimus -a -um" "strange, unfamiliar"
+   
    "aliōrum" "of others"
    "alium" "other"
    "aliud" "other"
@@ -1328,6 +1335,9 @@
    "auxiliandī" "helping"
    "auxiliāre" "to help"
    "auxiliō, auxiliāre, auxiliāvī, auxiliātus" "to help"
+
+   "auxilium" "help, aid"
+   "auxilium, auxiliī" "help, aid"
    
    "avem" "bird"
    "avis" "bird"
@@ -1636,6 +1646,11 @@
    "celebrāvisset" "he (might) have had celebrated"
    "celebrāvissent" "they (might) have had celebrated"
    "celebrō, celebrāre, celebrāvī, celebrātus" "to celebrate"
+
+   "celeritās" "swiftness"
+   "celeritātis" "swiftness"
+   "celeritāte" "swiftness"
+   "celeritās, celeritātis" "swiftness"
    
    "cellam" "small room, cell"
    "cellās" "small rooms, cells"
@@ -1863,6 +1878,12 @@
    
    "commīlitōnibus" "comrade"
    "commīlitō, commīlitōnis" "comrade"
+
+   "commissō" "undertaking, enterprise"
+   "commissum, commissī" "undertaking, enterprise"
+
+   "committendum" "to entrust, connect"
+   "committō, committere, commīsī, commissus" "to entrust, connect"
 
    "commodus, commoda -um, commodior -or -us, commodissimus -a -um" "suitable, convenient"
    
@@ -7008,7 +7029,7 @@
    "suspiciōne" "suspicion"
    "suspiciō, suspiciōnis" "suspicion"
 
-   "suspicābātur" "he was being suspected"
+   "suspicābātur" "he was being suspected" ;; WARNING: this could come from the deponent suspicor
    "suspicātī" "having been suspected"
    "suspicātus" "having been suspected"
    "suspicō, suspicāre, suspicāvī, suspicātus" "to suspect"
