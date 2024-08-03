@@ -84,6 +84,7 @@
    "cassium" "Lucius Cassius Longinus (c. 151 - 107 BC), a consul who was killed at the Battle of Burdigala"
    "Catamantaloedis" "Catamantaledes (one of the Sequani)"
    "celebrāte" "Celebrate!"
+   "celeriter" "quickly"
    "cepsitāvit" "he stumbled; singular perfect from cespitō, cespitāre, cespitāvi, cespitas"
    "Chrīstō" "Christ"
    "cibō" "food; singular masculine ablative from cibum cibum, cibī"
@@ -1799,6 +1800,7 @@
    "coēgit" "he collected, he forced"
    "cōgerent" "they (might) have collected, forced"
    "coēgērunt" "they collected, they forced"
+   "coācta" "having been forced"
    "coāctūrōs" "to be assembled, to be forced"
    "cōgere" "to collect, to force"
    "cōgō, cōgere, coēgī, coāctus" "to collect, to force"
@@ -1911,6 +1913,7 @@
    "complētōrium" "compline, service of prayers at close of day"
    "complētōrium, complētōriī" "compline, service of prayers at close of day"
 
+   "complūrēs" "many, several persons"
    "complūribus" "many, several persons"
    "complūs, (gen.), complūris" "many, several persons"
 
@@ -2069,6 +2072,7 @@
    "cōnstituerant" "they had planned"
    "cōnstituērunt" "they planned"
    "cōnstituī" "I planned"
+   "cōnstituit" "he planned"
    "cōnstituite" "Plan! Arrange! Decide!"
    "cōnstituistī" "you placed, arranged, decreed, decided"
    "cōnstituō, cōnstituere, cōnstituī, cōnstitūtus" "to place, arrange, decree, decide"
@@ -2110,14 +2114,19 @@
 
    "continētur" "it is sustained, it is contained"
    "continentur" "they are sustained, they are contained"
+   "continērent" "they (might) having been sustaining, containing"
+   "continuit" "he sustained, contained"
    "continēre" "to sustain, to contain"
    "contineō, continēre, continuī, contentus" "to sustain, to contain"
    
    "contigit" "to come to, to touch"
    "contingat" "he (might) touch, he (might) come to"
    "contingō, contingere, contigī, contāctus" "to come to, to touch"
+   
    "continuās" "continuous"
+   "continuōs" "continuous"
    "continuus, continua, continuum" "continuous"
+   
    "contrīstātus" "being saddened"
    "contrīstō, contrīstāre, contrīstāvī, contrīstātus" "to sadden"
 
@@ -2402,6 +2411,7 @@
 
    "dēmōnstrātum" "having been demonstrated"
    "dēmōnstrāveram" "I had demonstrated"
+   "dēmōnstrāvērunt" "they had demonstrated"
    "dēmōnstrāre" "to demonstrate"
    "dēmōnstrō, dēmōnstrāre, dēmōnstrāvī, dēmōnstrātus" "to demonstrate"
    
@@ -2563,9 +2573,11 @@
 
    "dītissimus" "rich"
    "dīs, dītis (gen.), dītior -or -us, dītissimus -a -um" "rich"
-   
+
+   "discessērunt" "they departed"
    "discēdere" "to depart"
    "discēdō, discēdere, discessī, discessus" "to depart"
+   
    "discipulus" "student"
    "discipulus, discipulī" "student"
    "discooperta" "having been uncovered"
@@ -2634,6 +2646,7 @@
    "datūrus" "will be given"
    "dabat" "he was giving"
    "dabit" "he will give"
+   "darētur" "he was being given"
    "dō, dare, dedī, datum" "to give (irregular)"
 
    "doctrīnae" "doctrine, teaching, instruction"
@@ -2739,6 +2752,11 @@
    
    "effluēbant" "they were flowing out"
    "effluō, effluere, efflūxī, -" "to flow out"
+
+   "effugerent" "they (might) have been fleeing"
+   "effugere" "to flee, escape"
+   "effugiō, effugere, effūgī, effugitūrus" "to flee, escape"
+   
    "effundō, effundere, effūdī, effūsus" "to pour out"
    "effūdisset" "he (might) have had poured out"
    "effūdissent" "they (might) have had poured out"
@@ -2926,6 +2944,10 @@
    "expedītius" "freer, more unburdened"
    "expedītum" "free, unburdened"
    "expedītus, expedīta -um, expedītior -or -us, expedītissimus -a -um" "free, unburdened"
+
+   "expulissent" "they had expelled"
+   "expellere" "to drive out"
+   "expellō, expellere, expulī, expulsus" "to drive out"
    
    "exposuimus" "we explained"
    "expōnō, expōnere, exposuī, expositus" "to explain"
