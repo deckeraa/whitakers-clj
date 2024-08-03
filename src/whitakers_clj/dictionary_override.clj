@@ -30,7 +30,7 @@
    "admīrātī" "admīrātī + sunt = were admired"
    "admīrātus" "admīrātus + est = was admired"
    "admodum" "very"
-   "aegrē" "sickly"
+   "aegrē" "scarcely"
    "aegypto" "Egypt, dative or ablative case"
    "aequāliter" "equally"
    "aethiopum" "Ethiopian, black"
@@ -1198,6 +1198,7 @@
    "argentum, argentī" "silver"
 
    "āridō" "dry"
+   "āridam" "dry"
    "āridum" "dry"
    "āridus, ārida -um, āridior -or -us, āridissimus -a -um" "dry"
 
@@ -2442,6 +2443,7 @@
    "desilīre" "to jump down"
    "desilīte" "jump down!"
    "desiluērunt" "they jumped down"
+   "desiluit" "he jumped down"
    "desiliunt" "they jump down"
    "desiliō, desilīre, desiluī, desultus" "to jump down"
    
@@ -3623,6 +3625,7 @@
    "iactās" "having been thrown"
    "iactīs" "having been thrown"
    "iactāvit" "he threw"
+   "iēcērunt" "they threw"
    "iactāre" "to throw"
    "iactō, iactāre, iactāvī, iactātus" "to throw"
 
@@ -5121,6 +5124,7 @@
    "opus" "work, deed"
    "opus, operis" "work, deed"
 
+   "oppressī" "having been oppressed"
    "oppressīs" "having been oppressed"
    "oppressus" "having been oppressed"
    "opprimere" "to press down, to oppress"
@@ -5516,6 +5520,7 @@
    "perturbant" "they were troubling, confusing"
    "perturbāverant" "they had troubled, confused"
    "perturbāre" "to trouble"
+   "perturbātī" "having been troubled, confused"
    "perturbō, perturbāre, perturbāvī, perturbātus" "to trouble"
    
    "pervēnisset" "he (might) have had come"
@@ -6393,6 +6398,7 @@
    "rōmānīs" "Romans"
    "Rōmānōrum" "Romans"
    "rōmānōrum" "Romans"
+   "rōmānōs" "Romans"
    "rōmānum" "Roman"
    "Rōmānus" "Roman"
    "rōmānus" "Roman"
@@ -6449,6 +6455,7 @@
    "saeculum, saeculī" "age, generation"
    
    "sagitta" "arrow"
+   "sagittās" "arrows"
    "sagittīs" "arrows"
    "sagitta, sagittae" "arrow"
    
@@ -6828,6 +6835,7 @@
    "spūmō, spūmāre, spūmāvī, spūmātus" "to foam"
 
    "stabilitās"   "stability"
+   "stabilitātem" "stability"
    "stabilitātis" "stability"
    "stabilitās, stabilitātis" "stability"
    
@@ -6851,6 +6859,7 @@
    "stīpendium, stīpendiī" "stipend, supplies"
    
    "stābat" "he was standing"
+   "stābant" "they were standing"
    "stantem" "standing"
    "stāre" "to stand, to remain"
    "stetisset" "he (might) have had stood"
