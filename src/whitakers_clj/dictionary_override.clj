@@ -735,6 +735,9 @@
    "acervī" "heap, pile, stack"
    "acervus, acervī" "heap, pile, stack"
 
+   "aciē" "battle line"
+   "aciēs, aciēī" "battle line"
+
    "affuit" "he was present"
    "assum, adesse, affuī, affuturus" "to be present"
    
@@ -3027,6 +3030,7 @@
    "fīēbat" "it was being made"
    "faciundī" "to be made"
    "fēcisset" "he (might) have had made"
+   "faciendae" "doing, making"
 
    "facile" "easy"
    "facilius" "easier"
@@ -3612,6 +3616,7 @@
 
    "hostēs" "enemies"
    "hostibus" "enemies"
+   "hostem" "enemy"
    "hostis" "enemy"
    "hostium" "of enemies"
    "hostis, hostis" "enemy"
@@ -3784,6 +3789,7 @@
    "incendit" "it burns, it burnt"
    "incendunt" "they set on fire"
    "incenduntur" "set on fire"
+   "incēnsīs" "having been set on fire"
 
    "incertīs" "uncertainties"
    "incertus, incertī" "uncertainty"
@@ -4009,6 +4015,7 @@
    "interfectrīx, interfectrīcis" "murderess, murderer"
 
    "intermīserant" "they had interrupted"
+   "intermissō" "having been interrupted"
    "intermittere" "to interrupt"
    "intermittō, intermittere, intermīsī, intermissus" "to interrupt"
 
@@ -4171,6 +4178,9 @@
    
    "lac" "milk"
    "lac, lactis" "milk"
+
+   "lacessendum" "provoking"
+   "lacessō, lacessere, lacessīvī, lacessītus" "to provoke"
    
    "lacrima, lacrimae" "tear"
    "lacrimās" "tears"
@@ -4270,6 +4280,7 @@
    "lēgātiōnis" "legate, embassy"
    "lēgātiō, lēgātiōnis" "legate, embassy"
 
+   "lēgātī"  "legate, ambassador"
    "lēgātīs" "legate, ambassador"
    "lēgātōs" "legate, ambassador"
    "lēgātus, lēgātī" "legate, ambassador"
@@ -4308,10 +4319,13 @@
    
    "līberā" "liberate!"
    "līberābit" "he will liberate"
+   "līberandī" "liberating"
    "līberāvistī" "you liberated"
    "līberō, līberāre, līberāvī, līberātus" "to liberate"
+   
    "lībra, lībrae" "pound (of weight)"
    "lībram" "pound (of weight)"
+   
    "licentia" "license, liberty"
    "licentia, licentiae" "license, liberty"
    "licentiam" "license"
@@ -4666,6 +4680,7 @@
    "mittite" "send! put!"
    "mīsī" "I threw, I cast"
    "mīssisset" "he (might) have had thrown"
+   "missī" "having been sent"
    
    "missus" "throwing, dispatch"
    "missum" "throwing, dispatch"
@@ -4791,6 +4806,9 @@
    "mystēria" "mysteries"
    "mystērium" "mystery"
    "mystērium, mystēriī" "mystery"
+
+   "nactus" "having been obtained"
+   "nancīscor, nancīscī, nactus sum" "to obtain"
    
    "nārēs" "noses, nostrils"
    "nāris, nāris" "nose, nostril"
@@ -4959,6 +4977,7 @@
    "novum" "new, inexperienced"
    "novus, nova -um, novior -or -us, novissimus -a -um" "new, inexperienced"
 
+   "novitāte" "novelty"
    "novitātis" "novelty"
    "novitās, novitātis" "novelty"
    
@@ -4969,6 +4988,7 @@
    "noctibus" "nights"
    "nox" "night"
    "nox, noctis" "night"
+   
    "nūbēs" "cloud"
    "nūbe" "cloud"
    "nūbis" "cloud"
@@ -4998,7 +5018,8 @@
    "nūntiāvērunt" "they announced"
    "nūntiāre" "to announce"
    "nūntiō, nūntiāre, nūntiāvī, nūntiātus" "to announce"
-   
+
+   "nūntiōs" "messengers"
    "nūntium" "messenger"
    "nūntius" "messenger"
    "nūntius, nūntiī" "messenger"
@@ -5067,6 +5088,7 @@
 
    "occupāret" "he (might) have seized"
    "occupātō" "attack!"
+   "occupātis" "having been seized"
    "occupātōs" "having been seized"
    "occupō, occupāre, occupāvī, occupātum" "to seize, to overtake, to attack"
 
@@ -5133,6 +5155,9 @@
    "oportet" "it is right/proper/necessary"
    "oportere" "it is right/proper/necessary"
    "oportet, oportere, oportuit, -" "it is right/proper/necessary"
+
+   "oportunissimō" "very opportune"
+   "oportūnus, oportūna -um, oportunior -or -us, oportunissimus -a -um" "opportune"
 
    "oppida" "towns"
    "oppidīs" "towns"
@@ -5383,6 +5408,9 @@
    "peditum" "of foot soldiers"
    "pedes, peditis" "foot soldier"
 
+   "peditātus" "infantry"
+   "peditātus, peditātūs" "infantry"
+
    "pedestribus" "on foot"
    "pedester, pedestris, pedestre" "on foot"
 
@@ -5504,6 +5532,9 @@
 
    "perpaucī" "very few"
    "perpaucum, perpaucī" "very few"
+
+   "perpetuum" "perpetual"
+   "perpetuus, perpetua, perpetuum" "perpetual"
    
    "persecūtiō" "pursuit"
    "persecūtiō, persecūtiōnis" "pursuit"
@@ -5543,6 +5574,7 @@
    "perturbāverant" "they had troubled, confused"
    "perturbāre" "to trouble"
    "perturbātī" "having been troubled, confused"
+   "perturbātis" "you trouble, confuse"
    "perturbō, perturbāre, perturbāvī, perturbātus" "to trouble"
    
    "pervēnisset" "he (might) have had come"
@@ -5768,6 +5800,11 @@
    "praedīxī" "I said before"
    "praedīcō, praedīcere, praedīxī, praedictus" "to say before"
    "praedīxerat" "he had said"
+   "praedicāvērunt" "they said"
+
+   "praeda"  "plunder"
+   "praedae" "plunder"
+   "praeda, praedae" "plunder"
 
    "praemissō" "having been sent ahead"
    "praemissum" "having been sent ahead"
@@ -5905,6 +5942,7 @@
    "prohibēbant" "they were preventing, restraining"
    "prohibent" "they prevent, they restrain"
    "prohibuit" "he prevented, he restrained"
+   "prohibērent" "they (might) have been preventing"
    "prohibēre" "to prevent, to restrain"
    "prohibeō, prohibēre, prohibuī, prohibitus" "to prevent, to restrain"
    
@@ -6017,6 +6055,7 @@
 
    "pulsāvērunt" "they hit"
    "pulsāvit" "he hit"
+   "pulsī" "having been hit"
    "pulsō, pulsāre, pulsāvī, pulsātus" "to hit"
 
    "pulverem" "dust, arena"
@@ -6154,6 +6193,7 @@
    
    "redūcō, redūcere, redūxī, reductus" "to lead back, to bring back"
    "redūcet" "he will lead back, he will bring back"
+   "redūxit" "he lead back"
    
    "refectiō" "refreshing, restoring, repairing"
    "refectiōne" "refreshing, restoring, repairing"
@@ -6656,6 +6696,7 @@
    "sequēbātur" "he was following"
    "sequiminī" "you follow"
    "sequī" "to follow"
+   "sēcūtae" "having been followed"
    "sequor, sequī, sēcūtus sum" "to follow"
 
    "Sēquana" "The Seine River"
@@ -7034,6 +7075,7 @@
    "supellē̆ctilī" "furnishings"
    "supellē̆x, supellē̆ctilis" "furnishings"
 
+   "superiōribus" "higher"
    "superiōre" "higher, being above"
    "superus, supera -um, superior -or -us, suprēmus -a -um" "upper, being above"
 
@@ -7089,6 +7131,7 @@
    "tālis, tālis, tāle" "such"
    
    "tanta" "so much, so great, this many"
+   "tantō" "so much, so great, this many"
    "tantum" "so much, so great, this many"
    "tantus, tanta, tantum" "so much, so great, this many"
    
@@ -7106,9 +7149,11 @@
    "temperātūrōs" "to be tempered, moderated"
    "temperāre" "to temper, to moderate"
    "temperō, temperāre, temperāvī, temperātus" "to temper, to moderate"
-   
+
+   "tempestātēs" "storms"
    "tempestās" "weather, storm"
    "tempestās, tempestātis" "weather, storm"
+   
    "templum" "temple"
    "templī"  "temple"
    "templum, templī" "temple"
@@ -7149,6 +7194,10 @@
    "tentōriō" "tent"
    "tentōriī" "tent"
    "tentōrium, tentōriī" "tent"
+
+   "terga" "back"
+   "tergī" "back"
+   "tergum, tergī" "back"
    
    "ternōs" "three each"
    
@@ -7479,6 +7528,7 @@
    "versus" "verse, poetic line"
    "versus, versūs" "verse, poetic line"
 
+   "vertērunt" "they turned"
    "vertitur" "he is turned"
    "vertere" "to turn, to change"
    "vertō, vertere, vertī, versus" "to turn, to change"
@@ -7571,6 +7621,7 @@
    "vīdimus" "we saw"
    "vīdistī" "you saw"
    "vidērī" "to appear"
+   "vidēbat" "he was living"
    
    "vigiliam" "vigil, watch"
    "vigiliārum" "vigil, watch"
@@ -7609,7 +7660,9 @@
    "virtūs, virtūtis" "virtue, manliness, power"
    
    "vīrēs" "strength"
+   "vīribus"  "strength"
    "vīs, vīs" "strength, power"
+   
    "vīsitābō" "I will visit"
    "vīsiōnem" "vision"
    "vīsiō, vīsiōnis" "vision"

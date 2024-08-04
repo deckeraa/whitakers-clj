@@ -528,7 +528,7 @@
                    "compar.atis" "comparātis" "leg.atis" "lēgātīs"
                    "exped.itis" "expedītīs" "imped.itis" "impedītīs"
                    "iuss.it" "iussit" "iuss.erunt" "iussērunt" "incit.atis" "incitātis"
-                   "super.atis" "superātis"
+                   "super.atis" "superātis" "occup.atis" "occupātis" "perturb.atis" "perturbātis"
                    } word) word)]
     word))
 
