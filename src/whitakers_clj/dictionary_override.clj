@@ -46,11 +46,15 @@
    "aliquis" "someone"
    "aliquod" "anyone; neuter singular nominative or accusative from aliqui"
    "aliquōs" "someone"
+   "aliter" "otherwise"
    "alleluia" "hallelujah"
    "allobrogēs" "Allobrogi, A Gaulish tribe (nom. or acc. case)"
    "allobrogibus" "Allobrogi, A Gaulish tribe (dative or ablative case)"
    "allobrogum" "Of the Allobrogi, A Gaulish tribe (plural genitive case)"
    "alterīus" "of the other; singular genitive from alius, alia, aliud"
+   "Ambiorīx" "Ambiorīx"
+   "Ambiorīgis" "Ambiorīx (genitive case)"
+   "ambiorīgis" "Ambiorīx (genitive case)"
    "an" "or? rather?"
    "Annā" "Ablative of Annas, a high priest involved with the crucifixion of Christ."
    "annōn" "Was it not? Can it be that? Expects positive answer."
@@ -170,6 +174,7 @@
    "expedītior" "freer, more unburdened"
    "expedītius" "freer, more unburdened"
    "explētis" "You fill; 2nd person plural present from expleō, explēre, explēvī, explētus"
+   "facillimē" "very easily"
    "factū" "to be done, supine of facere"
    "fēlīciter" "happily"
    "ferē" "nearly, almost, about"
@@ -941,6 +946,7 @@
    
    "alter" "the other"
    "altera" "the other"
+   "alteram" "the other"
    "alterī" "the other"
    "alterō" "the other"
    "alterōrum" "of others"
@@ -1038,6 +1044,7 @@
 
    "angusta" "narrow"
    "angustior" "narrower"
+   "angustius" "narrower"
    "angustus, angusta -um, angustior -or -us, angustissimus -a -um" "narrow"
 
    "anhēlābat" "he was gasping, panting, exhaling"
@@ -1277,6 +1284,9 @@
    "attingit" "it touches, it borders"
    "attingō, attingere, attigī, attāctus" "to touch, to border on, to reach"
 
+   "auctōribus" "authorities"
+   "auctor, auctōris" "authority"
+   
    "auctōritāte" "authority"
    "auctōritās, auctōritātis" "authority"
 
@@ -1380,6 +1390,7 @@
    "belgārum" "of a specific Gallic people-group"
    "belga, belgae" "a specific Gallic people-group"
    "belgae" "a specific Gallic people-group"
+   "belgiō" "a specific Gallic people-group"
    "belgīs" "a specific Gallic people-group"
    "Belga, Belgae" "a specific Gallic people-group"
    
@@ -1388,6 +1399,7 @@
    
    "bellum" "battle, war"
    "bellī" "battle, war"
+   "bellīs" "battles, wars"
    "bellum, bellī" "battle, war"
 
    "bellandī" "war-fighting"
@@ -1413,9 +1425,15 @@
    
    "benedictus" "blessed"
    "benedictus, benedictī" "blessed"
+   
    "beneficia" "beneficence, kindness"
    "beneficium" "beneficence, kindness"
    "beneficium, beneficiī" "beneficence, kindness"
+
+   "benevolentia"  "kindness"
+   "benevolentiae" "kindness"
+   "benevolentia, benevolentiae" "kindness"
+   
    "bēstia" "beast"
    "bēstiam" "beast"
    "bēstiae" "beast"
@@ -1682,6 +1700,7 @@
    "certāmen, certāminis" "contest, struggle"
 
    "certe" "certain"
+   "certior" "more certain"
    "certiōrēs" "more certain"
    "certus, certa -um, certior -or -us, certissimus -a -um" "certain"
 
@@ -1805,6 +1824,7 @@
    "coēgērunt" "they collected, they forced"
    "coācta" "having been forced"
    "coāctūrōs" "to be assembled, to be forced"
+   "coāctus" "having been forced"
    "cōgere" "to collect, to force"
    "cōgō, cōgere, coēgī, coāctus" "to collect, to force"
    
@@ -1826,6 +1846,7 @@
    "cōgnōsceret" "he (might) have recognized, learned"
    "cōgnōscerent" "they (might) have recognized, learned"
    "cōgnōverat" "they had recognized, learned"
+   "cōgnōvisset" "they (might) have had recognized, learned"
    "cōgnōscō, cōgnōscere, cōgnōvī, cōgnitum" "to recognize, to learn, to inquire, to know"
 
    "cohortēs" "cohorts (groups of 360 men)"
@@ -1833,6 +1854,7 @@
 
    "coiciēbant" "they were throwing together, guessing"
    "coicerent" "they (might) be throwing together, guessing"
+   "coiēcerant" "they had thrown"
    "coiciunt" "they throw together, they guess"
    "coicere" "to throw, to guess"
    "coicī" "to be thrown together, to be guessed"
@@ -1847,6 +1869,12 @@
    "colligō, colligere, collēgī, collēctus" "to collect, to assemble"
    "collīsiōnēs" "collision"
    "collīsiō, collīsiōnis" "collision"
+
+   "collocātus" "having been put together"
+   "collocāvit" "he put together"
+   "collocāre" "to put together"
+   "collocō, collocāre, collocāvī, collocātus" "to put together"
+   
    "colōrem" "color"
    "colōris" "color"
    "color, colōris" "color"
@@ -1924,6 +1952,7 @@
    "comportō, comportāre, comportāvī, comportātus" "to bring together"
 
    "comprehenderant" "they had caught"
+   "comprehēnsōs" "having been seized"
    "comprehendere" "to catch"
    "comprehendō, comprehendere, comprehendī, comprehēnsus" "to catch"
    
@@ -1949,6 +1978,7 @@
    "conclūdō, conclūdere, conclūsī, conclūsus" "to conclude"
 
    "conciliātūrum" "to win, to procure, to unite"
+   "conciliō" "I win"
    "conciliāre" "to win, to procure, to unite"
    "conciliō, conciliāre, conciliāvī, conciliātus" "to win, to procure, to unite"
    
@@ -1984,6 +2014,9 @@
    
    "confinibus" "bordering"
    "cōnfīnis, cōnfīnis, cōnfīne" "bordering"
+
+   "cōnfīniō" "border"
+   "cōnfīnium, cōnfīniī" "border"
 
    "cōnfirmat" "he strengthens, he encourages"
    "cōnfirmant" "they strengthen, they encourage"
@@ -2031,6 +2064,10 @@
    "cōnscīverit" "he will decide"
    "cōnscīscere" "to decide"
    "cōnscīscō, cōnscīscere, cōnscīvī, cōnscītus" "to decide"
+
+   "cōnscrīpserat" "he had written down"
+   "cōnscrībere" "to write down"
+   "cōnscrībō, cōnscrībere, cōnscrīpsī, cōnscrīptus" "to write down"
 
    "cōnsecūtīs" "having been followed"
    "cōnsequor, cōnsequī, cōnsecūtus sum" "to follow"
@@ -2119,6 +2156,7 @@
    "continentur" "they are sustained, they are contained"
    "continērent" "they (might) having been sustaining, containing"
    "continuit" "he sustained, contained"
+   "continēbantur" "they were being sustained, contained"
    "continēre" "to sustain, to contain"
    "contineō, continēre, continuī, contentus" "to sustain, to contain"
    
@@ -2206,6 +2244,10 @@
    "cōtīdiānīs" "every day"
    "cōtīdiānō"  "every day"
    "cōtīdiānus, cōtīdiāna, cōtīdiānum" "every day"
+
+   "crassum" "fat"
+   "crassī"  "fat"
+   "crassum, crassī" "fat"
    
    "crāstinae" "tomorrow" 
    "crāstinum" "tomorrow"
@@ -2631,11 +2673,15 @@
    "dispendium, dispendiī" "pay, nourishment, expense, cost"
    "distringit" "he stretches"
    "distringō, distringere, distrīnxī, districtus" "to stretch"
+   
    "distribuit" "he distributed"
+   "distribūtīs" "having be distributed"
+   "distribuere" "to distribute"
    "distribuō, distribuere, distribuī, distribūtus" "to distribute"
    "dedissent" "they (might) have had given"
    "dēlātīs" "having been transferred, having been brought down"
    "dēferret" "he (might) have been bringing"
+   "dēfertur" "it is being transferred"
    "dēferō, dēferre, dētulī, dēlātus" "to bring down, to transfer"
    
    "dīmidium" "half"
@@ -2650,6 +2696,7 @@
    "dabat" "he was giving"
    "dabit" "he will give"
    "darētur" "he was being given"
+   "dederat" "he had given"
    "dō, dare, dedī, datum" "to give (irregular)"
 
    "doctrīnae" "doctrine, teaching, instruction"
@@ -2712,6 +2759,7 @@
    "dūcant" "they (might) lead"
    "dūcerentur" "they (might) have been leading"
    "dūcet" "you will lead"
+   "dūcendam" "leading"
    "dūcō, dūcere, dūxī, ductus" "to lead"
    
    "ductor" "leader"
@@ -2728,6 +2776,7 @@
    "dūxērunt" "they were leading"
    "dūximus" "we lead"
    "dūxit" "he lead"
+   
    "ebdomadam" "week, seven"
    "ebdomadās" "weeks, sevens"
    "ebdomada, ebdomadae" "week, seven"
@@ -2928,6 +2977,7 @@
 
    "exīstimābat" "he was estimating, valuing"
    "exīstimābant" "they were estimating, valuing"
+   "exīstimāvit" "he estimated"
    "exīstimāre" "to estimate, to value"
    "exīstimō, exīstimāre, exīstimāvī, exīstimātus" "to estimate, to value"
    
@@ -3328,6 +3378,9 @@
 
    "frūmentātum" "having gotten grain"
    "frūmentor, frūmentārī, frūmentātus" "to get grain"
+
+   "frūmentāriae" "rich in grain"
+   "frūmentārius, frūmentāria, frūmentārium" "rich in grain"
    
    "fuerat" "he had been"
    "fuērunt" "they were"
@@ -3567,6 +3620,10 @@
    "heremitam" "hermit"
    "heremita, heremitae" "hermit"
 
+   "hīberna" "winter camp"
+   "hībernīs" "winter camp"
+   "hībernum, hībernī" "winter camp"
+
    "hiemāre" "to winter"
    "hiemārī" "to be wintery"
    "hiemō, hiemāre, hiemāvī, hiemātus" "to winter"
@@ -3777,6 +3834,9 @@
    "imprūdentiae" "ignorance"
    "imprūdentiam" "ignorance"
    "imprūdentia, imprūdentiae" "ignorance"
+
+   "impulsū" "shock, impact"
+   "impulsus, impulsūs" "shock, impact"
    
    "inaequālitās" "inequality"
    "inaequālitās, inaequālitātis" "inequality"
@@ -3909,6 +3969,7 @@
    "ingressus" "entrance"
    "ingressus, ingressūs" "entrance"
 
+   "inimīcī" "enemy"
    "inimīcō" "enemy"
    "inimīcus" "enemy"
    "inimīcus, inimīcī" "enemy"
@@ -3939,6 +4000,10 @@
    "inmānis, inmāne, inmānior -or -us, inmānissimus -a -um" "immense, savage, monstrous"
    "innumerābilis" "countless"
    "innumerābilis, innumerābilis, innumerābile" "countless"
+
+   "inopia"  "lack, poverty"
+   "inopiae" "lack, poverty"
+   "inopia, inopiae" "lack, poverty"
 
    "inquit" "he says, he said"
    "inquiam, -, -" "to say"
@@ -4002,6 +4067,7 @@
    "interfēcerant" "they had killed"
    "interfēcit" "he killed"
    "interfectīs" "having been killedd"
+   "interfēcērunt" "they killed"
    "interficere" "to kill"
    "interficiō, interficere, interfēcī, interfectus" "to kill"
    
@@ -4283,6 +4349,7 @@
    "lēgātī"  "legate, ambassador"
    "lēgātīs" "legate, ambassador"
    "lēgātōs" "legate, ambassador"
+   "lēgātus" "legate, ambassador"
    "lēgātus, lēgātī" "legate, ambassador"
 
    "legiō" "legion"
@@ -4321,6 +4388,7 @@
    "līberābit" "he will liberate"
    "līberandī" "liberating"
    "līberāvistī" "you liberated"
+   "līberāvērunt" "they liberated"
    "līberō, līberāre, līberāvī, līberātus" "to liberate"
    
    "lībra, lībrae" "pound (of weight)"
@@ -6043,6 +6111,7 @@
    "pugnae" "fight"
    "pugna, pugnae" "fight"
 
+   "pugnābant" "they were fighting"
    "pugnāvit" "he fought"
    "pugnāre" "to fight"
    "pugnandum" "fighting"
