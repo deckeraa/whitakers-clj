@@ -6098,6 +6098,10 @@
    "prōvectae" "having been carried forward"
    "prōvehō, prōvehere, prōvēxī, prōvectus" "to carry forward, to sail"
 
+   "prōvēnerat" "he had come forth"
+   "prōvenīre" "to come forth"
+   "prōveniō, prōvenīre, prōvēnī, prōventus" "to come forth"
+
    "prōvincia"  "province, command"
    "prōvinciae" "province, command"
    "prōvinciam" "province, command"
@@ -6196,13 +6200,19 @@
    "quaesīvistī" "you sought"
    "quaerāmus" "let us seek"
    "quaerō, quaerere, quaesīvī, quaesītus" "to seek, to ask for"
+
+   "quaestōre"  "quaestor, treasurers"
+   "quaestōrem" "quaestor, treasurers"
+   "quaestor, quaestōris" "quaestor, treasurers"
    
    "quanta" "amount"
    "quantō" "amount"
    "quantus, quanta, quantum" "amount"
    
    "quarta" "fourth"
+   "quartam" "fourth"
    "quartō" "fourth"
+   
    "quatriduanum" "four days"
    "quatriduum, quatriduī" "four days"
    "quattuor, quartus -a -um, quaterni -ae -a, -" "fourth"
@@ -6216,6 +6226,10 @@
    
    "quiēs, quiētis" "rest, respose, quiet"
    "quiētem" "rest, respose, quiet"
+
+   "quiētissimam" "very quiet"
+   "quiētus, quiēta -um, quiētior -or -us, quiētissimus -a -um" "quiet"
+   
    "quīndecim" "fifteen"
    "quīndecim, quīndecimus -a -um, quīndeci -ae -a, quīndecie (n)s" "fifteen"
    
@@ -6350,6 +6364,7 @@
    "rēgnum, rēgnī" "kingdom"
 
    "rēgnābat" "he was reigning"
+   "rēgnantem" "reigning"
    "rēgnāre" "to reign"
    "rēgnō, rēgnāre, rēgnāvī, rēgnātus" "to reign"
    
@@ -6464,10 +6479,13 @@
    
    "restitit" "he resisted"
    "restitērunt" "they resisted"
+   "restituerat" "he had resisted"
    "resistō, resistere, restitī, -" "to resist"
+   
    "restant" "they stay behind, they remain"
    "restat" "it remains"
    "restō, restāre, restitī, -" "to stay behind, to remain"
+   
    "resurrēctiōnis" "resurrection"
    "resurrēctiōnem" "resurrection"
    "resurrēctiō, resurrēctiōnis" "resurrection"
@@ -6827,6 +6845,9 @@
    "servōs" "slaves, servants"
    "servus" "slave, servant"
    "servus, servī" "slave, servant"
+
+   "siccitātēs" "drought, dryness"
+   "siccitās, siccitātis" "drought, dryness"
    
    "siccōs" "dry, thirsty"
    "siccus, sicca, siccum" "dry, thirsty"
@@ -6862,6 +6883,9 @@
    "singulōrum" "one each"
    "singulās" "one each"
    "singulus, singula, singulum" "one each"
+
+   "singulārī" "singular, peerless"
+   
    "sinite" "allow! permit!"
    "sinō, sinere, sīvī, situs" "to allow, to permit"
    "sim" "I (might) be"
@@ -7075,6 +7099,7 @@
    "subcinericius, subcinericia, subcinericium" "baked under ashes"
 
    "subdūxerat" "he had lead off"
+   "subductīs" "having been lead off"
    "subdūcere" "to lead off"
    "subdūcō, subdūcere, subdūxī, subductus" "to lead off"
    
@@ -7363,14 +7388,18 @@
    "tractāre" "to haul, to drag, to handle, to discuss"
    "tractō, tractāre, tractāvī, tractātum" "to haul, to drag, to handle, to discuss"
    "trādita" "having been handed over"
+   "trādiderat" "he had handed over"
    "trādidit" "he handed over"
    "trādidimus" "we handed over"
    "trādō, trādere, trādidī, trāditus" "to hand over"
+   
    "trāditor" "traitor"
    "trāditor, trāditōris" "traitor"
+   
    "trahēbat" "he was drawing, he was dragging"
    "trahere" "to draw, to drag"
    "trahō, trahere, trāxī, tractus" "to draw, to drag"
+   
    "tranquillitās" "tranquility"
    "tranquillitātis" "tranquility"
    "tranquillitās, tranquillitātis" "tranquility"
@@ -7516,6 +7545,7 @@
 
    "ūsuī" "use, employment, skill"
    "ūsū"  "use, employment, skill"
+   "ūsus" "use, employment, skill"
    "ūsus, ūsūs" "use, employment, skill"
    
    "utra" "either"
@@ -7619,9 +7649,13 @@
    "verbīs" "words"
    "verbum" "word"
    "verbum, verbī" "word"
+
+   "veritus" "having been revered, feared"
+   "vereor, verērī, veritus sum" "to revere, to fear"
    
    "vēritās, vēritātis" "truth"
    "vēritātī" "truth"
+   
    "versibus" "verses, poetic lines"
    "versiculō" "verse, poetic line"
    "versiculum" "verse, poetic line"
