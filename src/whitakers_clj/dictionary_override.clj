@@ -415,6 +415,7 @@
    "Orgetoricem" "Orgetorix, a Helvetic aristocrat (accusative case)."
    "oriundus" "oriundus + est = was descended from"
    "paene" "almost"
+   "palam" "openly, publicly"
    "parce" "Pardon! Forgive! Singular imperative from parcō, parcere, pepercī, parsum"
    "parem" "equal, sing. masc. or fem. acc. from pār"
    "pārentēs" "parents"
@@ -4066,8 +4067,9 @@
 
    "interfēcerant" "they had killed"
    "interfēcit" "he killed"
-   "interfectīs" "having been killedd"
+   "interfectīs" "having been killed"
    "interfēcērunt" "they killed"
+   "interfectum" "having been killed"
    "interficere" "to kill"
    "interficiō, interficere, interfēcī, interfectus" "to kill"
    
@@ -4348,6 +4350,7 @@
 
    "lēgātī"  "legate, ambassador"
    "lēgātīs" "legate, ambassador"
+   "lēgātō" "legate, ambassador"
    "lēgātōs" "legate, ambassador"
    "lēgātus" "legate, ambassador"
    "lēgātus, lēgātī" "legate, ambassador"
@@ -4357,7 +4360,9 @@
    "legiōnem" "legion"
    "legiōnēs" "legions"
    "legiōnī" "legion"
+   "legiōnibus" "legions"
    "legiōnis" "legion"
+   "legionum" "of legions"
    "legiō, legiōnis" "legion"
 
    "legēbantur" "they were being read"
@@ -4463,6 +4468,10 @@
 
    "lūcidissimus" "very bright, very clear"
    "lūcidissimum" "very bright, very clear"
+
+   "lūciō"  "fish, pike fish"
+   "lūcium" "fish, pike fish"
+   "lūcius, lūciī" "fish, pike fish"
    
    "lūmen" "light"
    "lūminis" "light"
@@ -4504,6 +4513,7 @@
    "maiōrem" "bigger"
    "maiōrēs" "bigger"
    "maiōribus" "bigger"
+   "maiōrum" "of the biggest"
    
    "magnitudinem" "magnitude, greatness"
    "magnitūdinis" "magnitude, greatness"
@@ -4620,6 +4630,8 @@
    "meī" "my"
    "meīs" "our"
 
+   "medērī" "to heal"
+   
    "medicōs" "doctors"
    "medicus, medicī" "doctor"
    
@@ -4697,6 +4709,7 @@
    "milium, miliī" "millet"
 
    "mīllia" "miles"
+   "mīlibus" "miles"
    "mīlle, mīlle" "mile"
    
    "minābat" "he was pushing"
@@ -4758,6 +4771,7 @@
    "mittō" "I send"
    "mittunt" "they send"
    "mittuntur" "they are being sent"
+   "mittere" "to send"
    "mittō, mittere, mīsī, missus" "to send"
    
    "minuitur" "to be diminished"
@@ -4804,6 +4818,8 @@
 
    "mōnstrum" "monster"
    "mōnstrum, mōnstrī" "monster"
+
+   "morārī" "to stay, delay"
    
    "moriēmur" "he will die"
    "morior, morī, mortuus sum" "to die"
@@ -5129,6 +5145,7 @@
    "obtinēbat" "he was obtaining"
    "obtinēbant" "they were obtaining"
    "obtinuerat" "he had obtained"
+   "obtinuerant" "they had obtained"
    "obtinēre" "to obtain"
    "obtineō, obtinēre, obtinuī, obtentus" "to obtain"
    
@@ -5235,6 +5252,7 @@
 
    "optimīs" "very good"
 
+   "opera" "works, deeds"
    "operibus" "works, deeds"
    "opus" "work, deed"
    "opus, operis" "work, deed"
@@ -5324,6 +5342,9 @@
    "ovibus" "sheep"
    "ovium" "of sheep"
    "ovis, ovis" "sheep"
+
+   "pācātissimam" "very peaceful"
+   "pācātus, pācāta -um, pācātior -or -us, pācātissimus -a -um" "peaceful"
 
    "pācātī" "having been pacified, subdued"
    "pācō, pācāre, pācāvī, pācātus" "to pacify, subdue"
@@ -5626,6 +5647,7 @@
    
    "pertinet" "it pertains"
    "pertinent" "they pertain"
+   "pertinebat" "it was pertaining"
    "pertinebant" "they were pertaining"
    "pertinērent" "they (might) have pertained to"
    "pertineō, pertinēre, pertinuī, pertentus" "to pertain to"
@@ -5649,6 +5671,8 @@
    "perveniō, pervenīre, pervēnī, perventus" "to come to, to arrive"
    "pervenit" "he arrives"
    "pervēnit" "he arrived"
+   "perventum" "having been reached"
+   
    "pedibus" "feet"
    "pēs, pedis" "foot"
    "pessimīs" "worst"
@@ -5699,9 +5723,14 @@
    "plānctus" "beating, wailing, lamentation"
    "plānctūs" "beating, wailing, lamentation"
    "plānctus, plānctūs" "beating, wailing, lamentation"
+
+   "plancum" "eagle"
+   "plancus, plancī" "eagle"
+   
    "plānitia" "plain"
    "plānitiae" "plain"
    "plānitia, plānitiae" "plain"
+   
    "plēnā" "full"
    "plēnae" "full"
    "plēnam" "full"
@@ -5874,6 +5903,9 @@
    "praedae" "plunder"
    "praeda, praedae" "plunder"
 
+   "praefēcit" "he put in command"
+   "praeficiō, praeficere, praefēcī, praefectus" "to command"
+
    "praemissō" "having been sent ahead"
    "praemissum" "having been sent ahead"
    "praemittō, praemittere, praemīsī, praemissus" "to send ahead"
@@ -5905,6 +5937,7 @@
    "praestōlor, praestōlārī, praestōlātus sum" "to stand ready"
    
    "praeest" "he preside, he takes command"
+   "praeesse" "to command"
    "praesum, praeesse, praefuī, praefutūrus" "to preside, to take the lead"
    "praesūmō" "to presume, to anticipate"
    "praesūmere" "to presume, to anticipate"
