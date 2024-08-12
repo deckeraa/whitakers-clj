@@ -75,6 +75,8 @@
    "autem" "but, however, moreover"
    "avēs" "birds; plural feminine nominative or accusative from avis, avis"
    "avium" "of birds; plural feminine genitive from avis, avis"
+   "Basipila" "baseball; singular feminine nominative from basipila, basipilae"
+   "basipila" "baseball; singular feminine nominative from basipila, basipilae"
    "bene" "good; adverb of bonus -a -um"
    "boiōs" "the Boii, who live across the Rhine from the Helvetii"
    "bovēs" "cows; plural masc. or fem. nom. or acc. from bōs, bovis"
@@ -211,6 +213,11 @@
    "Grȳphus" "griffin, a lion-eagle hybrid; from grȳphus, grȳphī"
    "Haeduō" "a region in Gallia"
    "haeduō" "a region in Gallia"
+   "Harolde" "Harold (vocative case)"
+   "Haroldī" "of Harold (genitive case)"
+   "Haroldō" "Harold (ablative case)"
+   "Haroldum" "Harold (accusative case)"
+   "Haroldus" "Harold (nominative case)"
    "herī" "yesterday"
    "Hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
    "hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
@@ -985,6 +992,7 @@
    "ambulō, ambulāre, ambulāvī, ambulātus" "to walk"
    
    "amīcī" "friend"
+   "amīcīs" "friends"
    "amīcōs" "friends"
    "amīcum" "friend"
    "amīcus" "friend"
@@ -1692,6 +1700,11 @@
    "cēnā" "dinner"
    "cēnam" "dinner"
    "cēna, cēnae" "dinner"
+
+   "cēnābat" "he was dining"
+   "cēnandum" "dining"
+   "cēnō, cēnāre, cēnāvī, cēnātus" "to dine"
+   
    "centum" "hundred"
 
    "cernitur" "it is discerned"
@@ -1798,6 +1811,10 @@
    "claudit" "he closes"
    "claudere" "to close"
    "claudō, claudere, clausī, clausus" "to close"
+
+   "clāvandum" "batting"
+   "clāvāre" "to bat"
+   "clāvō, clāvāre, -, clāvātus" "to bat"
    
    "clēmentia, clēmentiae" "mercy, clemency"
    "clēmentiae" "mercies"
@@ -2739,10 +2756,12 @@
    "dōnīs" "gifts"
    "dōnum, dōnī" "gift"
 
+   "dormiēbat" "he was sleeping"
    "dormiēbant" "we were sleeping"
    "dormiam" "I will sleep"
    "dormiās" "you (might) sleep"
    "dormīvērunt" "they slept"
+   "dormīre" "to sleep"
    "dormiō, dormīre, dormīvī, dormītus" "to sleep"
    
    "dorsum" "back"
@@ -2786,6 +2805,7 @@
    "ecclēsiam" "church"
    "ecclēsia, ecclēsiae" "church"
 
+   "edēbat" "he was eating"
    "edere" "to eat"
    "ēdērunt" "they ate"
    "edimus" "we eat"
@@ -2950,6 +2970,7 @@
    "exemplum, exemplī" "sample, model, copy"
 
    "exercitātiōne" "exercise, training"
+   "exercitātiōnem" "exercise, training"
    "exercitātiō, exercitātiōnis" "exercise, training"
 
    "exercitū" "army"
@@ -3008,6 +3029,10 @@
 
    "exsequī" "to follow"
    "exsequor, exsequī, exsecūtus" "to follow"
+
+   "exspectāvit" "he waited"
+   "exspectāre" "to wait"
+   "exspectō, exspectāre, exspectāvī, exspectātus" "to wait"
    
    "extendentis" "extending"
    "extendere" "to extend"
@@ -3659,12 +3684,22 @@
    
    "honor, honōris" "honor"
    "honorem" "honor"
+   
    "hōram" "hour, time"
    "hōra" "hour, time"
    "hōrae" "hour, time"
    "hōra, hōrae" "hour, time"
+
+   "hōrologiō" "clock"
+   "hōrologium" "clock"
+   "hōrologium, hōrologiī" "clock"
+
+   "horrificum" "horrific"
+   "horrificus, horrifica, horrificum" "horrific"
+   
    "hortor, hortārī, hortātus sum" "to exhort"
    "hortābātur" "he was exhorting"
+   
    "hospes, hospitis" "guest"
    "hospitēs" "guests"
    "hospitibus" "guests"
@@ -4155,6 +4190,7 @@
    "īte" "go!"
    "īret" "he (might) have gone"
    "īre" "to go"
+   "eundum" "going"
 
    "īrāta" "angry"
    "īrātus, īrāta, īrātum" "angry"
