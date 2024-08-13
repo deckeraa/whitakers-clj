@@ -6026,6 +6026,7 @@
    "prīma" "first"
    "prīmī" "first"
    "prīmō" "first"
+   "prīmus" "first"
    "prīmus, prīma, prīmum" "first"
    "primitia, primitiae" "first fruits"
    "prīmitiīs" "first fruits"
@@ -6579,6 +6580,7 @@
    "revertētis" "you will return"
    "revertite" "return!"
    "reverterentur" "they (might) been returning"
+   "revertendum" "returning"
    "revertō, revertere, revertī, reversum" "to return"
 
    "revolvō" "I turn over, I repeat"
@@ -6775,6 +6777,11 @@
    "scola, scolae" "school, corporation, leisure"
    "scōria" "slag"
    "scōria, scōriae" "slag"
+
+   "scrībe" "write!"
+   "scrībendum" "writing"
+   "scrībere" "to write"
+   "scrībō, scrībere, scrīpsī, scrīptus" "to write"
 
    "scrīpta" "texts, books"
    "scrīptum" "text, writing, book, letter"
@@ -7305,9 +7312,16 @@
    "sustinuit" "he sustained"
    "suus" "his"
    "suum" "his"
+   
    "tabula" "tablet"
    "tabulā" "tablet"
    "tabula, tabulae" "tablet"
+
+   "tacē" "be silent!"
+   "tacēbat" "he was being silent"
+   "tacendum" "being silent"
+   "tacēre" "to be silent"
+   "taceō, tacēre, tacuī, tacitus" "to be silent"
    
    "taediō" "weariness, tedium"
    "taedium" "weariness, tedium"
@@ -7325,6 +7339,9 @@
    
    "tangere" "to touch, to strike"
    "tangō, tangere, tetigī, tāctus" "to touch, to strike"
+
+   "televisōrium" "television"
+   "televisōrium, televisōriī" "television"
 
    "tēla" "spears"
    "tēlum, tēlī" "spear"
@@ -7518,6 +7535,7 @@
    "trīnitās, trīnitātis" "Trinity"
    
    "trīstēs" "sad"
+   "trīstis" "sad"
    "trīstis, trīstis, trīste" "sad"
 
    "trīstitiam" "sadness"
@@ -7819,6 +7837,7 @@
    "vīdistī" "you saw"
    "vidērī" "to appear"
    "vidēbat" "he was living"
+   "videndum" "seeing, watching"
    
    "vigiliam" "vigil, watch"
    "vigiliārum" "vigil, watch"
@@ -7827,6 +7846,10 @@
    "vigilia, vigiliae" "vigil, watch"
    "vigilābant" "they were watching, they were alert"
    "vigilō" "I am awake, I watch"
+   "vigilā" "wake up!"
+   "vigilāvit" "he woke up"
+   "vigilandum" "waking up"
+   "vigilāre" "to wake up"
    "vigilō, vigilāre, vigilāvī, vigilātum" "to be awake, to watch for"
 
    "vīlī" "cheap, worthless"
@@ -7908,12 +7931,14 @@
    "volō, volāre, volāvī, volātus" "to fly"
 
    "vellent" "they (might) have been wanting"
+   "volēbat" "he was wanting"
    "volēbant" "they were wanting"
    "volō" "I want"
    "voluisset" "he (might) have had wanted"
    "voluērunt" "they wanted"
    "voluit" "he wanted"
    "volumus" "we want"
+   "vīs" "you want"
    "volō, velle, voluī, -" "to want"
    
    "vōcem" "voice"
