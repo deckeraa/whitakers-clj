@@ -4373,8 +4373,10 @@
 
    "lēctor" "reader"
    "lēctor, lēctōris" "reader"
-   
+
+   "lectō" "bed, coach"
    "lectus, lectī" "bed, coach"
+   
    "lectula" "bed, coach"
    "lectula, lectulae" "bed, coach"
    "lectulīs" "bed, coach"
@@ -4490,6 +4492,7 @@
    "longārum" "long, far"
    "longās" "long, far"
    "longum" "long, far"
+   "longus" "long, far"
    "longius" "longer, farther"
    "longiorem" "longer, farther"
    "longissime" "very long"
@@ -4498,9 +4501,11 @@
    "longinquus" "long, prolonged"
    "longinquiōribus" "long, prolonged"
    "longinquus, longinqua -um, longinquior -or -us, longinquissimus -a -um" "long, prolonged"
-   
+
+   "loquēbātur" "he was talking"
+   "loquendum" "talking"
    "loquerentur" "they (might) have had said"
-   "loquor, loqui, locutus sum" "to speak, to say"
+   "loquor, loquī, locūtus sum" "to speak, to say"
 
    "lūcidissimus" "very bright, very clear"
    "lūcidissimum" "very bright, very clear"
@@ -4508,6 +4513,11 @@
    "lūciō"  "fish, pike fish"
    "lūcium" "fish, pike fish"
    "lūcius, lūciī" "fish, pike fish"
+
+   "lūdō"  "school, game"
+   "lūdus" "school, game"
+   "lūdum" "school, game"
+   "lūdus, lūdī" "school, game"
    
    "lūmen" "light"
    "lūminis" "light"
@@ -4527,7 +4537,8 @@
    "lūx" "light"
    "lūcis" "light"
    "lūx, lūcis" "light"
-   
+
+   "magister" "teacher"
    "magistrum" "teacher"
    "magister, magistrī" "teacher"
 
@@ -4540,11 +4551,14 @@
    "māgnī" "large"
    "māgnō" "large"
    "māgnum" "large"
+   
    "magnālia" "mighty works, mighty deeds"
    "magnāle, magnālis" "mighty work, mighty deed"
+   
    "magnificāns" "esteeming greatly"
    "magnificābant" "they were esteeming greatly"
    "magnificō, magnificāre, magnificāvī, magnificātus" "to esteem greatly"
+   
    "maior" "bigger"
    "maiōrem" "bigger"
    "maiōrēs" "bigger"
@@ -4635,6 +4649,7 @@
    "māssa, māssae" "mass, bulk"
    
    "māter" "mother"
+   "mātre" "mother"
    "māter, mātris" "mother"
 
    "māteria" "matter"
@@ -4915,13 +4930,20 @@
    "mundī" "world"
    "mundum" "world"
    "mundus, mundī" "world"
+   
    "mūnera" "gifts"
    "mūnus, mūneris" "gift"
+   
    "mūrum" "city wall"
    "mūrus" "city wall"
    "mūrus, mūrī" "city wall"
+   
    "mustō" "must (new wine)"
    "mustum, mustī" "must (new wine)"
+
+   "mūtāvit" "he changed"
+   "mūtāre" "to change"
+   "mūtō, mūtāre, mūtāvī, mūtātus" "to change"
 
    "mystēria" "mysteries"
    "mystērium" "mystery"
@@ -5320,8 +5342,10 @@
    "ōrdinēs" "order"
    "ōrdinibus" "order"
    "ōrdinis" "order"
+   "ōrdō" "order"
    "ōrdō, ōrdinis" "order"
    "ōrdine" "order"
+   
    "ōre" "mouth"
    
    "organum" "organ, instrument"
@@ -5748,6 +5772,7 @@
    "pius" "upright, pious"
    "pius, pia -um, -, piissimus -a -um" "upright, pious"
 
+   "placēbat" "it was pleasing"
    "placuit" "he pleased"
    "placeō, placēre, placuī, placitus" "to please"
    
