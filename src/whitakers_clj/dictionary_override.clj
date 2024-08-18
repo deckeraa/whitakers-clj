@@ -1702,6 +1702,7 @@
    "cēna, cēnae" "dinner"
 
    "cēnābat" "he was dining"
+   "cēnandī" "of dining"
    "cēnandum" "dining"
    "cēnō, cēnāre, cēnāvī, cēnātus" "to dine"
    
@@ -3091,6 +3092,7 @@
    "faciēbam" "I was doing"
    "faciet" "it will make"
    "faciendum" "making, doing"
+   "faciendī" "of making, doing"
    "facere" "to make, to do"
    "faciāmus" "we (might) do, make"
    "faciunt" "they are making, they are doing"
@@ -4191,6 +4193,7 @@
    "īret" "he (might) have gone"
    "īre" "to go"
    "eundum" "going"
+   "eundī" "of going"
 
    "īrāta" "angry"
    "īrātus, īrāta, īrātum" "angry"
@@ -6580,6 +6583,7 @@
    "revertētis" "you will return"
    "revertite" "return!"
    "reverterentur" "they (might) been returning"
+   "revertendī" "of returning"
    "revertendum" "returning"
    "revertō, revertere, revertī, reversum" "to return"
 
@@ -6779,6 +6783,7 @@
    "scōria, scōriae" "slag"
 
    "scrībe" "write!"
+   "scrībendī" "of writing"
    "scrībendum" "writing"
    "scrībere" "to write"
    "scrībō, scrībere, scrīpsī, scrīptus" "to write"
@@ -7319,6 +7324,7 @@
 
    "tacē" "be silent!"
    "tacēbat" "he was being silent"
+   "tacendī" "of being silent"
    "tacendum" "being silent"
    "tacēre" "to be silent"
    "taceō, tacēre, tacuī, tacitus" "to be silent"
@@ -7838,6 +7844,7 @@
    "vidērī" "to appear"
    "vidēbat" "he was living"
    "videndum" "seeing, watching"
+   "videndī" "of seeing"
    
    "vigiliam" "vigil, watch"
    "vigiliārum" "vigil, watch"
@@ -7848,6 +7855,7 @@
    "vigilō" "I am awake, I watch"
    "vigilā" "wake up!"
    "vigilāvit" "he woke up"
+   "vigilandī" "of waking up"
    "vigilandum" "waking up"
    "vigilāre" "to wake up"
    "vigilō, vigilāre, vigilāvī, vigilātum" "to be awake, to watch for"
