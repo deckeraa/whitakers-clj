@@ -25,6 +25,7 @@
    "ācriter" "sharply"
    "āctīs" "acts, ablative from ācta, a plural-only second declension noun"
    "ad" "to, towards, at, according to"
+   "adeō" "that far"
    "adhūc" "until now"
    "aditum" "approach, access; singular masculine accusative from aditus, aditūs"
    "admīrātī" "admīrātī + sunt = were admired"
@@ -814,6 +815,10 @@
    "adpropinquārent" "they (might) have had approached"
    "adpropinquō, adpropinquāre, adpropinquāvī, adpropinquātus" "to approached"
 
+   "adscendissent" "they (might) have had climbed"
+   "adscendere" "to climb"
+   "adscendō, adscendere, adscendī, adscēnsus" "to climb"
+
    "adscīscunt" "they admit, approve, associate"
    "adscīscere" "to admit, to approve, to associate"
    
@@ -954,6 +959,7 @@
    
    "alter" "the other"
    "altera" "the other"
+   "alterae" "the others"
    "alteram" "the other"
    "alterī" "the other"
    "alterō" "the other"
@@ -1236,6 +1242,8 @@
    "armīs" "weapons"
    "armōrum" "of weapons"
    "armum, armī" "weapon"
+
+   "arma" "weapons"
    
    "arripuit" "he took hold of, he snatched"
    "arripiō, arripere, arripuī, arreptus" "to take hold of, to snatch, to arrest"
@@ -1437,6 +1445,7 @@
    
    "beneficia" "beneficence, kindness"
    "beneficium" "beneficence, kindness"
+   "beneficiīs" "beneficences, kindnesses"
    "beneficium, beneficiī" "beneficence, kindness"
 
    "benevolentia"  "kindness"
@@ -1456,9 +1465,14 @@
    "bibērunt" "they drunk"
    "bibet" "he will drink"
    "bibēbant" "they drank"
+   
    "bīduānās" "two days"
    "bīduānum" "two days"
    "bīduānus, bīduāna, bīduānum" "two days"
+
+   "bīduō"  "period of two days"
+   "bīduum" "period of two days"
+   "bīduum, bīduī" "period of two days"
 
    "biennium" "two years"
    "biennium, biennī" "two years"
@@ -1596,6 +1610,7 @@
    "capere" "to seize, to take hold"
    "cēpērunt" "they took"
    "cēpit" "he took"
+   "cēpissent" "they had taken hold"
    "capiō, capere, cēpī, captus" "to seize, to take hold"
 
    "capillī" "hair"
@@ -1650,6 +1665,11 @@
 
    "cāsus" "fall, downward movement"
    "cāsus, cāsūs" "fall, downward movement"
+
+   "catēna" "chain"
+   "catēnae" "chains"
+   "catēnīs" "chains"
+   "catēna, catēnae" "chain"
    
    "cauda" "tail"
    "caudam" "tail"
@@ -1825,6 +1845,10 @@
 
    "clientēs" "clients"
    "cliēns, clientis" "client"
+
+   "coāctū" "compulsion"
+   "coāctus" "compulsion"
+   "coāctus, coāctūs" "compulsion"
    
    "coagulātae" "having been coagulated"
    "coagulātum" "having been coagulated"
@@ -1843,7 +1867,6 @@
    "coēgērunt" "they collected, they forced"
    "coācta" "having been forced"
    "coāctūrōs" "to be assembled, to be forced"
-   "coāctus" "having been forced"
    "cōgere" "to collect, to force"
    "cōgō, cōgere, coēgī, coāctus" "to collect, to force"
    
@@ -1893,6 +1916,12 @@
    "collocāvit" "he put together"
    "collocāre" "to put together"
    "collocō, collocāre, collocāvī, collocātus" "to put together"
+
+   "colloquendī" "of discussing"
+   "colloquor, colloquī, collocūtus sum" "to discuss"
+
+   "colloquium" "conversation, meeting"
+   "colloquium, colloquiī" "conversation, meeting"
    
    "colōrem" "color"
    "colōris" "color"
@@ -1944,6 +1973,10 @@
    "commorantem" "dwelling"
    "commorātur" "he dwells"
    "commoro, commorare, commoravi, commoratus" "to dwell on"
+
+   "commūne" "common property"
+   "commūnī" "common property"
+   "commūne, commūnis" "common property"
    
    "commūniōnem" "communion"
    "commūniō, commūniōnis" "communion"
@@ -1968,6 +2001,7 @@
    "complūs, (gen.), complūris" "many, several persons"
 
    "comportārī" "to be brought together"
+   "comportāvissent" "they (might) have brought together"
    "comportō, comportāre, comportāvī, comportātus" "to bring together"
 
    "comprehenderant" "they had caught"
@@ -1993,6 +2027,10 @@
    
    "concēpit" "she conceived"
    "concipiō, concipere, concēpī, conceptus" "to conceive"
+
+   "conclāmāvērunt" "they cried out"
+   "conclāmō, conclāmāre, conclāmāvī, conclāmātus" "to cry out"
+   
    "conclūsit" "he concluded"
    "conclūdō, conclūdere, conclūsī, conclūsus" "to conclude"
 
@@ -2000,6 +2038,9 @@
    "conciliō" "I win"
    "conciliāre" "to win, to procure, to unite"
    "conciliō, conciliāre, conciliāvī, conciliātus" "to win, to procure, to unite"
+
+   "concitāvērunt" "they had agitated"
+   "concitō, concitāre, concitāvī, concitātus" "to agitate"
    
    "condemnō, condemnāre, condemnāvī, condemnātus" "to condemn"
    "condemnābitur" "he will be condemned"
@@ -2011,6 +2052,7 @@
    "conditum" "building, founding"
    "condō, condere, condidī, conditus" "to build, to found"
 
+   "conductam" "having been assembled"
    "condūxit" "he assembled"
    "condūcere" "to assemble"
    "condūcō, condūcere, condūxī, conductus" "to assemble"
@@ -2028,6 +2070,7 @@
    "cōnficere" "to complete"
    "cōnficiō, cōnficere, cōnfēcī, cōnfectus" "to complete"
 
+   "cōnfīdat" "he (might) trust"
    "cōnfīdēbant" "they were trusting, believing"
    "cōnfīdō, cōnfīdere, cōnfīsus sum" "to trust, believe"
    
@@ -2044,6 +2087,7 @@
    "cōnfirmō, cōnfirmāre, cōnfirmāvī, cōnfirmātus" "to strengthen, to encourage"
    
    "cōnfitēminī" "you confess"
+   "cōnfitērī" "to confess"
    "cōnfiteor, cōnfitērī, cōnfessum sum" "to confess"
    
    "cōnfortābat" "he was comforting, he was strengthening"
@@ -2062,6 +2106,7 @@
    "conicere" "to throw"
    "coniciō, conicere, coniēcī, coniectus" "to throw"
 
+   "coniūrātiōnī" "conspiracy"
    "coniūrātiōnem" "conspiracy"
    "coniūrātiōne"  "conspiracy"
    "coniūrātiō, coniūrātiōnis" "conspiracy"
@@ -2140,8 +2185,10 @@
    "cōnstitūtum, cōnstitūtī" "arrangement, agreement"
 
    "consuēverant" "they had familiarized"
+   "consuēverat" "he had familiarized"
    "consuēverint" "they will have familiarized"
    "consuēvērunt" "they familiarized"
+   "consuēvisset" "he (might) have familiarized"
    "consuēvit" "he familiarized"
    "consuēscere" "to familiarize"
    "consuēscō, consuēscere, consuēvī, consuētus" "to familiarize"
@@ -2154,7 +2201,9 @@
    "cōnsulibus" "consuls"
    "cōnsul, cōnsulis" "consul"
 
+   "cōnsulat" "he (might) consult"
    "cōnsuluit" "he consulted"
+   "cōnsulere" "to consult"
    "cōnsulō, cōnsulere, cōnsuluī, cōnsultus" "to consult"
    
    "cōnsummātīs" "being accomplished, being ended"
@@ -2189,6 +2238,10 @@
    
    "contrīstātus" "being saddened"
    "contrīstō, contrīstāre, contrīstāvī, contrīstātus" "to sadden"
+
+   "contrōversia" "dispute"
+   "contrōversiae" "disputes"
+   "contrōversia, contrōversiae" "dispute"
 
    "convēnerant" "they had come together"
    "conveniant" "they (might) meet together"
