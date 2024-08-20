@@ -2241,6 +2241,7 @@
 
    "contrōversia" "dispute"
    "contrōversiae" "disputes"
+   "contrōversiās" "disputes"
    "contrōversia, contrōversiae" "dispute"
 
    "convēnerant" "they had come together"
@@ -2430,6 +2431,7 @@
    "dans" "giving"
    "dant" "they give"
    "dat" "he gives"
+   "datūrum" "will be giving"
    "datūrōs" "to be given"
    "data" "things given"
    "datō" "gift"
@@ -2440,6 +2442,7 @@
    "dēbēs" "you should"
    "dēbet" "he should"
    "dēbētis" "you should"
+   "dēbēre" "to owe, to ought"
    "dēbeō, dēbēre, dēbuī, dēbitus" "to owe, to ought"
    
    "dēbitum" "debt, due, duty"
@@ -2473,6 +2476,9 @@
    "dēdūcō, dēdūcere, dēdūxī, dēductus" "to escort, to remove"
    
    "dedērunt" "they gave"
+
+   "dēfectiōnis" "defection, revolt"
+   "dēfectiō, dēfectiōnis" "defection, revolt"
    
    "dēerit" "it will lack"
    "dēerant" "they lacked"
@@ -2573,6 +2579,9 @@
    "desiluit" "he jumped down"
    "desiliunt" "they jump down"
    "desiliō, desilīre, desiluī, desultus" "to jump down"
+
+   "dēspērāta" "desperate"
+   "dēspērātus, dēspērāta, dēspērātum" "desperate"
    
    "dēspēximus" "we disdained"
    "dēspiciō, dēspicere, dēspēxī, dēspectus" "to disdain"
@@ -2691,6 +2700,7 @@
    "dītissimus" "rich"
    "dīs, dītis (gen.), dītior -or -us, dītissimus -a -um" "rich"
 
+   "discēdit" "he departs"
    "discessērunt" "they departed"
    "discēdere" "to depart"
    "discēdō, discēdere, discessī, discessus" "to depart"
@@ -2865,6 +2875,10 @@
    "edimus" "we eat"
    "ēditē" "eat!"
    "edō, edere, ēdī, ēsus" "to eat"
+
+   "ēductōs" "having been lead out"
+   "ēdūcere" "to lead out"
+   "ēdūcō, ēdūcere, ēdūxī, ēductum" "to lead out"
 
    "effēminandōs" "feminizing, emasculating"
    "effēminō, effēmināre, effēmināvī, effēminātus" "to make effeminate, to emasculate"
