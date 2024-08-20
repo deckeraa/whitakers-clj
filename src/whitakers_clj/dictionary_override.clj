@@ -2929,6 +2929,7 @@
    
    "ēmīsisset" "he (might) have had sent out"
    "ēmīsit" "he sent"
+   "ēmissīs" "having been sent out"
    "ēmittentēs" "sending out"
    "ēmittit" "he sends"
    "ēmittō, ēmittere, ēmīsī, ēmissus" "to send out"
@@ -2937,6 +2938,10 @@
    "eōdem" "the same"
    "Epiphanīae" "Epiphany, a Christian holiday that occurs closely after Christmas."
    "Epiphanīa, Epiphanīae" "Epiphany, a Christian holiday that occurs closely after Christmas."
+
+   "equestrī" "knight"
+   "equestribus" "knights"
+   "equester, equestris" "knight"
 
    "equitātū"  "cavalry"
    "equitātus" "cavalry"
@@ -2953,7 +2958,9 @@
    "equus" "horse"
    "equus, equī" "horse"
 
+   "eques" "horseman"
    "equitēs" "horsemen"
+   "equitibus" "horsemen"
    "equitum" "of horsemen"
    "eques, equitis" "horseman"
 
@@ -3189,16 +3196,23 @@
    "familia, familiās" "family"
    "familiae" "family"
    "familiam" "family"
+
+   "familiāris" "servant, familiar friend"
+   "familiāris, familiāris" "servant, familiar friend"
+   
    "famēs, famis" "hunger"
    "famē" "hunger"
+   
    "famulī" "servant, companion"
    "famulō" "servant, companion"
    "famulīs" "servants, companions"
    "famulōrum" "of servants, of companions"
    "famulōs" "servants, companions"
    "famulus, famulī" "servant, companion"
+   
    "fasciculum" "small bundle"
    "fasciculus, fasciculī" "small bundle"
+   
    "fateor" "I admit"
    "fateor, fatērī, fassus sum" "to admit, to confess (deponent)"
    "fatīgāre" "to grow weary, to fatigue"
@@ -3207,10 +3221,12 @@
    "favilla, favillae" "ember"
 
    "facient" "they will do, they will make"
+   "fēcerit" "he will have made"
    "fēcērunt" "they did, they made"
    "fēcī" "I did, I made"
    "fēcimus" "we made"
    "fēcit" "he did"
+   "fēcisse" "to have made"
    "fēcissent" "they (might) have had done"
    "fēcistis" "you made"
    
@@ -3613,6 +3629,7 @@
    "graphiō" "stylus"
    "graphium, graphiī" "stylus"
    "grātia" "grace"
+   "grātiam" "grace"
    "grātia, grātiae" "grace"
    "grātiās" "graces"
 
@@ -3660,6 +3677,8 @@
    "habuērunt" "they had"
    "habuerit" "you will have had"
    "habēre" "to have"
+   "habēret" "he (might) have had"
+   "habita" "having been had"
    "habērent" "they (might) have been having"
    "habeō, habēre, habuī, habitus" "to have"
 
@@ -3735,6 +3754,8 @@
    "Hispāniam" "Hispania"
    "hispāniam" "Hispania"
    "Hispānia, Hispāniae" "Hispania"
+   "hispānia" "Hispania"
+   "hispānīs" "Hispanics"
    "hispānia, hispāniae" "Hispania"
    
    "hispidum" "rough, shaggy"
@@ -3773,6 +3794,8 @@
    "hospitēs" "guests"
    "hospitibus" "guests"
    "hospitum" "of the guests"
+
+   "hospitiō" "hospitality"
    "hospitium" "hospitality"
    "hospitium, hospitiī" "hospitality"
 
@@ -3910,8 +3933,10 @@
    "imperō, imperāre, imperāvī, imperātus" "to command"
 
    "imperītī" "unfamiliar, unskilled"
+   "imperītus" "unfamiliar, unskilled"
    "imperītus, imperīta, imperītum" "unfamiliar, unskilled"
 
+   "imperia" "domains"
    "imperiō"  "command, dominion, empire"
    "imperium" "command, dominion, empire"
    "imperium, imperi(ī)" "command, dominion, empire"
