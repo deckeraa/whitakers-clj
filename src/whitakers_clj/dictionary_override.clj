@@ -88,6 +88,8 @@
    "Caiphā" "Ablative of Caiphas, a high priest involved with the crucifixion of Christ."
    "candida" "bright, white, clean; singular feminine nominative from candidus, candida, candidum"
    "cantāte" "Sing! Plural imperative from cantāre"
+   "carnūtēs" "A Celtic tribe of Gallia Lugdunensis (nominative or accusative)"
+   "carnūtibus" "A Celtic tribe of Gallia Lugdunensis (dative or ablative)"
    "cassium" "Lucius Cassius Longinus (c. 151 - 107 BC), a consul who was killed at the Battle of Burdigala"
    "Catamantaloedis" "Catamantaledes (one of the Sequani)"
    "celebrāte" "Celebrate!"
@@ -95,6 +97,7 @@
    "cepsitāvit" "he stumbled; singular perfect from cespitō, cespitāre, cespitāvi, cespitas"
    "Chrīstō" "Christ"
    "cibō" "food; singular masculine ablative from cibum cibum, cibī"
+   "cicerōnī" "Cicerō (dative case)"
    "circā" "around, about, concerning"
    "circiter" "near, close, about"
    "circum" "about, around, near"
@@ -153,6 +156,7 @@
    "eārum" "their; plural feminine genitive from is, ea, id"
    "eās" "their; plural feminine accusative from is, ea, id"
    "eīs" "to them; plural dative or ablative from is, ea, id"
+   "eburōnēs" "A Gallic-Germanic tribe of Gallia Belgica (nominative or accusative)"
    "ex" "out of, from"
    "ecce" "Look! Behold!"
    "eī" "to him, her, or it; singular dative from is, ea, id"
@@ -241,10 +245,12 @@
    "hāc" "this; singular feminine ablative of hic, haec, hoc"
    "haec" "this, these; singular feminine nominative or plural neuter nom. or acc. of hic, haec, hoc"
    "hanc" "this; singular feminine accusative of hic, haec, hoc"
+   "hārum" "of these; plural feminine genitive of hic, haec, hoc"
    "hās" "this; plural feminine accusative of hic, haec, hoc"
    "hic" "this; singuglar masculine nominative of hic, haec, hoc"
    "hī" "to these; plural masculine nominative of hic, haec, hoc"
    "hīs" "to these; plural masculine dative or ablative of hic, haec, hoc"
+   "huic" "to this; singular dative of hic, haec, hoc"
    "huius" "of this; singular genitive of hic, haec, hoc"
    "hunc" "this; singular masculine accusative of hic, haec, hoc"
    "hierusalem" "Jerusalem"
@@ -463,6 +469,7 @@
    "propius" "almost, nearly"
    "proptereā" "because of, that's why"
    "prōtinus" "forward, onward"
+   "proximē" "closest, very close, immediately after"
    "pulsātō" "having been hit; perfect passive dative or ablative participle from pulsō, pulsāre, pulsāvī, pulsātus"
    "propter" "because of, near"
    "quā" "what; singular female ablative of qui"
@@ -612,6 +619,8 @@
    "sūrsum" "on top, upward"
    "Syon" "Zion"
    "Synai" "Sinai"
+   "Tasgetius" "Tasgetius, a chief of the Carnutes"
+   "Tasgetium" "Tasgetius, a chief of the Carnutes (accusative case)"
    "tālī" "such"
    "tam" "as much, as much as"
    "tamen" "however"
@@ -1912,6 +1921,7 @@
    "collīsiōnēs" "collision"
    "collīsiō, collīsiōnis" "collision"
 
+   "collocātās" "having been put together"
    "collocātus" "having been put together"
    "collocāvit" "he put together"
    "collocāre" "to put together"
@@ -3942,6 +3952,7 @@
    "imperium, imperi(ī)" "command, dominion, empire"
 
    "impulit" "he impelled, he urged on"
+   "impulsī" "having been impelled"
    "impellere" "to impel"
    "impellō, impellere, impulī, impulsus" "to impel"
    
@@ -4334,6 +4345,7 @@
    "jūstus, jūsta -um, jūstior -or -us, jūstissimus -a -um" "just"
    
    "iūdiciī" "judgement"
+   "iūdiciō" "judgement"
    "iūdicium" "judgement"
    "iūdicium, iūdiciī" "judgement"
 
@@ -4353,7 +4365,8 @@
    
    "iussum" "command, order"
    "iussum, iussī" "command, order"
-   
+
+   "iunius" "younger"
    "iuvenum" "of the young men"
    "iuvene" "young man"
    "iuvenēs" "young men"
@@ -5025,6 +5038,10 @@
    "mundī" "world"
    "mundum" "world"
    "mundus, mundī" "world"
+
+   "mūnīta" "fortified"
+   "mūnītum" "fortified"
+   "mūnītus, mūnīta, mūnītum" "fortified"
    
    "mūnera" "gifts"
    "mūnus, mūneris" "gift"

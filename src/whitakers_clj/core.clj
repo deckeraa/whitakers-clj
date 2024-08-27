@@ -280,7 +280,7 @@
                    "hu.ius" "huius" "aliqu.is" "aliquis" "h.i" "hī" "e.a" "ea"
                    "h.orum" "hōrum" "ips.i" "ipsī" "ips.orum" "ipsōrum" "qu.arum" "quārum"
                    "qu.orum" "quōrum" "i.is" "iīs" "h.os" "hōs" "aliqu.os" "aliquōs"
-                   "e.arum" "eārum"
+                   "e.arum" "eārum" "h.arum" "hārum" "hu.ic" "huic"
                    } word) word)]
     {:options options
      :word word
