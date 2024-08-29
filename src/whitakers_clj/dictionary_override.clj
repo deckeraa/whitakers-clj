@@ -533,6 +533,9 @@
    "Ryeuall" "Rievaulx, a village about 9 miles from Byland Abbey."
    "saepe" "often"
    "saepius" "more often"
+   "Samarobrīva" "A town in Gallia (nominative)"
+   "Samarobrīvā" "A town in Gallia (ablative)"
+   "Samarobrīvae" "A town in Gallia (locative)"
    "sanctificāte" "Sanctify! Plural imperative of sanctificō, sanctificāre, sanctificāvī, sanctificātus"
    "sāncta" "holy, saint"
    "sānctus" "holy, saint"
@@ -619,6 +622,7 @@
    "sūrsum" "on top, upward"
    "Syon" "Zion"
    "Synai" "Sinai"
+   "Tasgetiī" "Tasgetius, a chief of the Carnutes (genitive case)"
    "Tasgetius" "Tasgetius, a chief of the Carnutes"
    "Tasgetium" "Tasgetius, a chief of the Carnutes (accusative case)"
    "tālī" "such"
@@ -798,6 +802,7 @@
 
    "adiūtus" "having been helped"
    "adiuvāre" "to help"
+   "adiūverat" "he had helped"
    "adiuvante" "helping"
    "adiūvit" "he helped"
    "adiuvō, adiuvāre, adiūvī, adiūtus" "to help"
@@ -1898,6 +1903,7 @@
    "cōgnōscerent" "they (might) have recognized, learned"
    "cōgnōverat" "they had recognized, learned"
    "cōgnōvisset" "they (might) have had recognized, learned"
+   "cōgnōscere" "to recognize, to learn, to inquire, to know"
    "cōgnōscō, cōgnōscere, cōgnōvī, cōgnitum" "to recognize, to learn, to inquire, to know"
 
    "cohortēs" "cohorts (groups of 360 men)"
@@ -2048,6 +2054,9 @@
    "conciliō" "I win"
    "conciliāre" "to win, to procure, to unite"
    "conciliō, conciliāre, conciliāvī, conciliātus" "to win, to procure, to unite"
+
+   "concilium" "council, assembly"
+   "concilium, conciliī" "council, assembly"
 
    "concitāvērunt" "they had agitated"
    "concitō, concitāre, concitāvī, concitātus" "to agitate"
@@ -3745,6 +3754,7 @@
    "heremita, heremitae" "hermit"
 
    "hīberna" "winter camp"
+   "hībernō" "winter, winter camp"
    "hībernīs" "winter camp"
    "hībernum, hībernī" "winter camp"
 
@@ -4210,6 +4220,7 @@
    "interfectīs" "having been killed"
    "interfēcērunt" "they killed"
    "interfectum" "having been killed"
+   "interfēcissent" "they (might) have had killed"
    "interficere" "to kill"
    "interficiō, interficere, interfēcī, interfectus" "to kill"
    
@@ -4584,6 +4595,7 @@
    "locī" "place"
    "locīs" "places"
    "locō" "place"
+   "locōs" "places"
    "locum" "place"
    "locus" "place"
    "locus, locī" "place"
@@ -7282,6 +7294,7 @@
 
    "subdūxerat" "he had lead off"
    "subductīs" "having been lead off"
+   "subduxerunt" "they lead off"
    "subdūcere" "to lead off"
    "subdūcō, subdūcere, subdūxī, subductus" "to lead off"
    
