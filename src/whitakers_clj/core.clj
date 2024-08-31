@@ -280,7 +280,7 @@
                    "hu.ius" "huius" "aliqu.is" "aliquis" "h.i" "hī" "e.a" "ea"
                    "h.orum" "hōrum" "ips.i" "ipsī" "ips.orum" "ipsōrum" "qu.arum" "quārum"
                    "qu.orum" "quōrum" "i.is" "iīs" "h.os" "hōs" "aliqu.os" "aliquōs"
-                   "e.arum" "eārum" "h.arum" "hārum" "hu.ic" "huic"
+                   "e.arum" "eārum" "h.arum" "hārum" "hu.ic" "huic" "aliqu.i" "aliquī"
                    } word) word)]
     {:options options
      :word word
@@ -529,6 +529,7 @@
                    "exped.itis" "expedītīs" "imped.itis" "impedītīs"
                    "iuss.it" "iussit" "iuss.erunt" "iussērunt" "incit.atis" "incitātis"
                    "super.atis" "superātis" "occup.atis" "occupātis" "perturb.atis" "perturbātis"
+                   "prodi.ret" "prōdīret"
                    } word) word)]
     word))
 

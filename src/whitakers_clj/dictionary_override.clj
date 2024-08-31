@@ -43,6 +43,7 @@
    "aliquam" "anyone"
    "aliquandō" "some day"
    "aliqui" "anyone"
+   "aliquī" "someone; plural masculine nominative from aliquis"
    "aliquid" "someone"
    "aliquis" "someone"
    "aliquod" "anyone; neuter singular nominative or accusative from aliqui"
@@ -56,6 +57,7 @@
    "Ambiorīx" "Ambiorīx"
    "Ambiorīgis" "Ambiorīx (genitive case)"
    "ambiorīgis" "Ambiorīx (genitive case)"
+   "ambiorige" "Ambiorix, king of the Eburones with Catuvolcus (ablative case)"
    "an" "or? rather?"
    "Annā" "Ablative of Annas, a high priest involved with the crucifixion of Christ."
    "annōn" "Was it not? Can it be that? Expects positive answer."
@@ -92,6 +94,7 @@
    "carnūtibus" "A Celtic tribe of Gallia Lugdunensis (dative or ablative)"
    "cassium" "Lucius Cassius Longinus (c. 151 - 107 BC), a consul who was killed at the Battle of Burdigala"
    "Catamantaloedis" "Catamantaledes (one of the Sequani)"
+   "Catuvolcō" "Catuvolcus, king of the Eburones with Ambiorix (ablative or dative case)"
    "celebrāte" "Celebrate!"
    "celeriter" "quickly"
    "cepsitāvit" "he stumbled; singular perfect from cespitō, cespitāre, cespitāvi, cespitas"
@@ -122,6 +125,7 @@
    "corporāliter" "bodily, physically, corporeally"
    "cotīdiē" "daily"
    "cottīdiē" "daily"
+   "cottae" "Cotta, a Roman cognomen (genitive or dative case)"
    "crās" "tomorrow"
    "cui" "who; singular dative from quis"
    "cuius" "whose; singular genitive from quis"
@@ -292,6 +296,7 @@
    "in" "into (with accusative), in (with ablative)"
    "inaequaliter" "unequally"
    "inde" "from there, since"
+   "indutiomarī" "Indūtiomārus, one of the chiefs of the Treviri"
    "inferōs" "Hades, plural masculine accusative from īnferus, īnfera, īnferum"
    "inlūxit" "he began to shine; from inlūcēscō, inlūcēscere, inlūxī, -"
    "innocenter" "innocently"
@@ -531,6 +536,7 @@
    "rubicunditātis" "redness. This word did not appear in any dictionaries I consulted, but the meaning is clear from the context. It appears to be a variant of rubicundus -a -um, meaning red, ruddy, or rubicund."
    "rūrsus" "backwards, on the flipside"
    "Ryeuall" "Rievaulx, a village about 9 miles from Byland Abbey."
+   "sabīnō" "Sabīnus, a Roman name"
    "saepe" "often"
    "saepius" "more often"
    "Samarobrīva" "A town in Gallia (nominative)"
@@ -639,6 +645,7 @@
    "Tīthis" "the sea; sea nymph"
    "trahō, trahere, trāxī, tractum" "to draw, to drag, to haul"
    "trāxissent" "they (might) have had drawn"
+   "trēverī" "Treveri, a tribe of Gallia Belgica (plural nominative)"
    "tria" "three"
    "trīduum, trīduī" "three days"
    "trīduum" "three days"
@@ -708,6 +715,7 @@
    "XXX" "thirty"
    "VII" "seven"
    "XII" "twelve"
+   "XV" "fifteen"
    })
 
 (def dictionary-map
@@ -3462,6 +3470,7 @@
    "fragrāntiam" "fragrance"
    "fragrāntoia, fragrānciae" "fragrance"
 
+   "frāctae" "having been broken"
    "frāctīs" "having been broken"
    "frēgit" "he broke, he shattered, he crushed"
    "frangō, frangere, frēgī, frāctus" "to break, to shatter, to crush"
@@ -4069,6 +4078,7 @@
    "indumenti" "garment, robe"
    "indūmentum, indūmentī" "garment, robe"
    "induō, induere, induī, indūtus" "to dress, to put on"
+   
    "ineffābilis" "ineffable"
    "ineffābilis, ineffābilis, ineffābile" "ineffable"
 
@@ -4564,6 +4574,10 @@
    
    "ligātūram" "ligature, binding"
    "ligātūra, ligātūrae" "ligature, binding"
+
+   "lignātor" "woodcutter"
+   "lignātōribus" "woodcutter"
+   "lignātor, lignātōris" "woodcutter"
    
    "lignīs" "wood"
    "lignum, lignī" "wood"
@@ -4897,16 +4911,25 @@
    "ministrātur" "he is being served"
    "ministrō" "I serve, I attend to"
    "ministrō, ministrāre, ministrāvī, ministrātus" "to serve, to attend to"
+   
    "minor" "smaller"
    "parva" "small"
    "parvissimum" "smallest"
    "parvus, parva -um, minor -or -us, minimus -a -um" "small"
+
+   "minuī" "I diminished"
+   "minuitur" "to be diminished"
+   "minuere" "to diminish"
+   "minuō, minuere, minuī, minūtus" "to diminish"
+   
    "mīrae" "wonderful, marvelous"
    "mīrī" "wonderful, marvelous"
    "mīrus, mīra, mīrum" "wonderful, marvelous"
+   
    "mīrābilia" "marvelous, wonderful"
    "mīrābilis" "marvelous, wonderful"
    "mīrābilis, mīrābilis, mīrābile" "marvelous, wonderful"
+   
    "mīrāculum" "miracle"
    "mīrāculīs" "miracles"
    "mīrāculum, mīrāculī" "miracle"
@@ -4945,9 +4968,6 @@
    "mittere" "to send"
    "mittō, mittere, mīsī, missus" "to send"
    
-   "minuitur" "to be diminished"
-   "minuō, minuere, minuī, minūtus" "to be diminished"
-
    "mōbilitās" "mobility"
    "mōbilitātem" "mobility"
    "mōbilitātis" "mobility"
@@ -5285,6 +5305,9 @@
    "nūntiāre" "to announce"
    "nūntiō, nūntiāre, nūntiāvī, nūntiātus" "to announce"
 
+   "nūntiīs" "messages, news"
+   "nūntium, nūntiī" "message, news"
+
    "nūntiōs" "messengers"
    "nūntium" "messenger"
    "nūntius" "messenger"
@@ -5432,6 +5455,11 @@
    "oppidum" "town"
    "oppidum, oppidī" "town"
 
+   "oppugnātiō" "assault, attack"
+   "oppugnātiōne" "assault, attack"
+   "oppugnātiōnis" "assault, attack"
+   "oppugnātiō, oppugnātiōnis" "assault, attack"
+
    "optimīs" "very good"
 
    "opera" "works, deeds"
@@ -5445,6 +5473,7 @@
    "opprimere" "to press down, to oppress"
 
    "oppūgnābant" "they were attacking"
+   "oppūgnātum" "having been attacked"
    "oppūgnāre" "to attack"
    "oppūgnō, oppūgnāre, oppūgnāvī, oppūgnātus" "to attack"
 
@@ -6192,6 +6221,9 @@
    "prōdere" "to project, to bring forth, to reveal"
    "prōdō, prōdere, prōdidī, prōditus" "to project, to bring forth, to reveal"
 
+   "prōdīret" "he (might) have advanced"
+   "prōdeō, prōdīre, prōdivī(iī), prōditus" "to advance"
+
    "prōdūcere" "to lead forward"
    "prōdūcō, prōdūcere, prōdūxī, prōductus" "to lead forward"
 
@@ -6439,6 +6471,7 @@
    "rārus, rāra -um, rārior -or -us, rārissimus -a -um" "thin, far apart, rare"
 
    "rebelliōne" "renewal of war, rebellion"
+   "rebelliōnem" "renewal of war, rebellion"
    "rebelliō" "renewal of war, rebellion"
    "rebelliōnis" "renewal of war, rebellion"
    "rebelliō, rebelliōnis" "renewal of war, rebellion"
@@ -6496,6 +6529,7 @@
    "redūcō, redūcere, redūxī, reductus" "to lead back, to bring back"
    "redūcet" "he will lead back, he will bring back"
    "redūxit" "he lead back"
+   "redūxērunt" "they lead back"
    
    "refectiō" "refreshing, restoring, repairing"
    "refectiōne" "refreshing, restoring, repairing"
@@ -6613,6 +6647,9 @@
    "removērī" "to be removed"
    "removēre" "to remove"
    "removeō, removēre, remōvī, remōtus" "to remove"
+
+   "repentīnī" "unexpected, sudden"
+   "repentīnus, repentīna, repentīnum" "unexpected, sudden"
 
    "replētī" "having been filled/re-filled"
    "repleō, replēre, replēvī, replētus" "to fill again"
@@ -7180,6 +7217,7 @@
    "spēlunca, spēluncae" "cave"
 
    "spērant" "they hope, they look forward"
+   "spērārent" "they (might) have been hoping"
    "spērāre" "to hope, to look forward"
    "spērō, spērāre, spērāvī, spērātus" "to hope, to look forward"
    
@@ -7399,6 +7437,7 @@
 
    "superiōribus" "higher"
    "superiōre" "higher, being above"
+   "superiōrēs" "higher"
    "superus, supera -um, superior -or -us, suprēmus -a -um" "upper, being above"
 
    "suppeteret" "it (might) have sufficed"
@@ -7680,11 +7719,17 @@
    "tuīs" "yours"
    "tuō" "your"
    "tuōs" "your"
+
+   "tumultus" "uproar"
+   "tumultus, tumultūs" "uproar"
+   
    "turbine" "whirlwind, revolution"
    "turben, turbinis" "whirlwind, revolution"
+   
    "turbidō" "turbid, troubled, muddy"
    "turbidus" "turbid, troubled, muddy"
    "turbidus, turbida, turbidum" "turbid, troubled, muddy"
+   
    "turma" "troop, group, crowd"
    "turmae" "troop, group, crowd"
    "turmam" "troop, group, crowd"
@@ -7794,6 +7839,9 @@
    "vāde" "go!"
    "vādō" "I go"
    "vādō, vādere, vāsī, -" "to go, to walk"
+
+   "vallum" "wall, rampart"
+   "vallum, vallī" "wall, rampart"
 
    "variō"  "various, diverse"
    "variīs" "various, diverse"
