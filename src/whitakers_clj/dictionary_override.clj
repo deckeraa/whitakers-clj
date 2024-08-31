@@ -31,6 +31,8 @@
    "admīrātī" "admīrātī + sunt = were admired"
    "admīrātus" "admīrātus + est = was admired"
    "admodum" "very"
+   "Aduatucī" "The Aduatucī, a Germanic tribe (nominative case)"
+   "Aduatucīs" "The Aduatucī, a Germanic tribe (dative or ablative case)"
    "aegrē" "scarcely"
    "aegypto" "Egypt, dative or ablative case"
    "aequāliter" "equally"
@@ -54,10 +56,12 @@
    "allobrogibus" "Allobrogi, A Gaulish tribe (dative or ablative case)"
    "allobrogum" "Of the Allobrogi, A Gaulish tribe (plural genitive case)"
    "alterīus" "of the other; singular genitive from alius, alia, aliud"
-   "Ambiorīx" "Ambiorīx"
-   "Ambiorīgis" "Ambiorīx (genitive case)"
-   "ambiorīgis" "Ambiorīx (genitive case)"
+   "Ambiorīx" "Ambiorīx, king of the Eburones with Catuvolcus"
+   "ambiorīx" "Ambiorīx, king of the Eburones with Catuvolcus"
+   "Ambiorīgis" "Ambiorīx, king of the Eburones with Catuvolcus (genitive case)"
+   "ambiorīgis" "Ambiorīx, king of the Eburones with Catuvolcus (genitive case)"
    "ambiorige" "Ambiorix, king of the Eburones with Catuvolcus (ablative case)"
+   "ambiorigem" "Ambiorix, king of the Eburones with Catuvolcus (accusative case)"
    "an" "or? rather?"
    "Annā" "Ablative of Annas, a high priest involved with the crucifixion of Christ."
    "annōn" "Was it not? Can it be that? Expects positive answer."
@@ -67,6 +71,7 @@
    "Antōnius" "Anthony"
    "April" "The month of April"
    "apud" "at, by, near"
+   "Arpinēius" "Arpinēius, a Roman family name"
    "asportāte" "take away! Plural imperative from asportō, asportāre, asportāvī, asportātus"
    "assāte" "Roast! Bake! Broil! Plural imperative from assō, assāre, assāvī, assātus"
    "at" "and"
@@ -166,6 +171,7 @@
    "eī" "to him, her, or it; singular dative from is, ea, id"
    "eōs" "to them; plural masculine accusative from is, ea, id"
    "eius" "his/her/its"
+   "ēiusmodī" "of this sort"
    "ēgressa" "having gone out; singular nominative perfect passive participle from ēgredior, ēgredī, ēgressum (deponent)"
    "ēgressī" "going out; genitive singular perfect passive participle from ēgredior, ēgredī, ēgressum (deponent)"
    "ēgressus" "ēgressus + est = he went out"
@@ -205,6 +211,7 @@
    "gabīniō" "Aulus Gabinius, consul in 58 BC"
    "Garumna"  "The Garonne, a river running in modern-day France and Spain"
    "Garumnam" "The Garonne, a river running in modern-day France and Spain"
+   "gāius" "Gāius, a Roman name"
    "germānī" "Germans"
    "germānīs" "Germans"
    "Germānīs" "Germans"
@@ -462,6 +469,7 @@
    "pōtū" "drink; singular masculine ablative from pōtus, pōtūs"
    "pōtum" "drink; singular masculine accusative from pōtus, pōtūs"
    "prae" "before, in front, because of"
+   "praestō" "present, available"
    "praeter" "more, beyond, besides, except"
    "praeteritō" "previous"
    "praeteritum" "previous"
@@ -493,6 +501,10 @@
    "quīn" "even, in fact"
    "quīnquāgintā" "fifty"
    "quīntō" "for the fifth time"
+   "Quīntus" "Quintus, a Roman name"
+   "quīntus" "Quintus, a Roman name"
+   "Quīntī" "Quintus, a Roman name (genitive case)"
+   "quīntī" "Quintus, a Roman name (genitive case)"
    "quis" "who"
    "quisquis" "whatever"
    "quod" "what; singular neuter nom. or acc. of qui"
@@ -643,6 +655,7 @@
    "tibi" "to you, singular dative of tu"
    "Tīthim" "the sea; sea nymph"
    "Tīthis" "the sea; sea nymph"
+   "Titūrī" "Titūrius, a Roman family name (genitive case)"
    "trahō, trahere, trāxī, tractum" "to draw, to drag, to haul"
    "trāxissent" "they (might) have had drawn"
    "trēverī" "Treveri, a tribe of Gallia Belgica (plural nominative)"
@@ -3537,6 +3550,7 @@
    
    "fuī" "I was"
    "fuimus" "we were"
+   "fuisse" "to have been"
    "fuissem" "I (might) have had been"
    "fuisset" "he (might) have had been"
    "fuissent" "they (might) have had been"
@@ -4381,6 +4395,7 @@
    "iūrandum, iūrandī" "oath"
 
    "iūra" "laws, rights, justice"
+   "iūris" "law, right, justice"
    "iūs" "law, right, justice"
    "iūs, iūris" "law, right, justice"
    
@@ -4559,6 +4574,7 @@
    "līberā" "liberate!"
    "līberābit" "he will liberate"
    "līberandī" "liberating"
+   "līberātus" "having been liberated"
    "līberāvistī" "you liberated"
    "līberāvērunt" "they liberated"
    "līberō, līberāre, līberāvī, līberātus" "to liberate"
@@ -4956,12 +4972,15 @@
    "mīsī" "I threw, I cast"
    "mīssisset" "he (might) have had thrown"
    "missī" "having been sent"
-   
+   "missōs" "having been sent"
+
+   "missū"  "throwing, dispatch"
    "missus" "throwing, dispatch"
    "missum" "throwing, dispatch"
    "missus, missūs" "throwing, dispatch"
 
    "missīs" "having been sent"
+   "mittitur" "he is being sent"
    "mittō" "I send"
    "mittunt" "they send"
    "mittuntur" "they are being sent"
@@ -5341,6 +5360,7 @@
    "observō, observāre, observāvī, observātus" "to observe, to watch"
 
    "obsidēs" "hostages"
+   "obsidum" "of hostages"
    "obses, obsidis" "hostage"
 
    "obtestātus" "having been implored"
@@ -5723,10 +5743,13 @@
    "pellēs" "pelts, hides"
    "pellium" "of pelts, of hides"
    "pellis, pellis" "pelt, hide"
+   
    "pendēbat" "he was hanging"
    "pendēns" "hanging"
    "pendet" "he will hang"
+   "pendere" "to hang, to pay"
    "pendō, pendere, pependī, pēnsus" "to hang"
+   
    "penetrāvit" "he entered, he penetrated"
    "penetrō, penetrāre, penetrāvī, penetrātus" "to enter, to penetrate"
    "pentēcostē, pentēcostēs" "Pentecost"
@@ -6037,6 +6060,7 @@
    "possum" "I am able"
    "possum, posse, potuī, -" "to be able (irregular)"
    "possumus" "we are able to"
+   "potuerit" "he will have been able to"
    "potuērunt" "they were able to"
    "potuimus" "we were able"
    "potuissēmus" "we might have had been able to"
@@ -6637,6 +6661,7 @@
    "rēmigō, rēmigāre, rēmigāvī, rēmigātus" "to row"
 
    "remīsērunt" "they sent back"
+   "remissī" "having been sent back"
    "remittere" "to send back"
    "remittō, remittere, remīsī, remissus" "to send back"
 
@@ -6648,6 +6673,7 @@
    "removēre" "to remove"
    "removeō, removēre, remōvī, remōtus" "to remove"
 
+   "repentīnae" "unexpected, sudden"
    "repentīnī" "unexpected, sudden"
    "repentīnus, repentīna, repentīnum" "unexpected, sudden"
 
@@ -6670,7 +6696,8 @@
 
    "requīsīvit" "he asked for, he required, he missed"
    "requīrō, requīrere, requīsīvī, requīsītus" "to require, to ask for, to miss"
-   
+
+   "rērum" "of things"
    "rēs, reī" "thing"
 
    "rescindī" "to be rescinded, cut out"
@@ -6685,7 +6712,7 @@
    "resēdērunt" "they sat down"
    "resēdisset" "he (might) have had sat down"
    "resēdissent" "they (might) have had sat down"
-   
+
    "resonābant" "they were resounding"
    "resonō, resonāre, resonāvī, resonātus" "to resound"
    
@@ -6703,6 +6730,7 @@
    "restitit" "he resisted"
    "restitērunt" "they resisted"
    "restituerat" "he had resisted"
+   "resistere" "to resist"
    "resistō, resistere, restitī, -" "to resist"
    
    "restant" "they stay behind, they remain"
@@ -7070,6 +7098,9 @@
    "servābat" "he was watchinig over, he was guarding, he was preserving"
    "servāre" "to watch over, to guard, to preserve, to save"
    "servō, servāre, servāvī, servātus" "to watch over, to guard, to preserve, to save"
+
+   "servitūte" "servitude"
+   "servitūs, servitūtis" "servitude"
    
    "servīs" "slaves, servants"
    "servōrum" "of slaves, of servants"
@@ -7276,7 +7307,9 @@
    
    "stetit" "he stood"
    "stetērunt" "they stood"
+   
    "stīpendia" "stipend, supplies"
+   "stīpendiō" "tribute, stipend, supplies"
    "stīpendium, stīpendiī" "stipend, supplies"
    
    "stābat" "he was standing"
@@ -7420,6 +7453,7 @@
    "superātī" "having been overcome"
    "superātis" "you overcome"
    "superāvisset" "he (might) have overcome"
+   "superārī" "to be overcome"
    "superō, superāre, superāvī, superātus" "to overcome"
 
    "superficiēs" "top, surface"
@@ -7552,6 +7586,7 @@
    "tenēbantur" "they were held"
    "tenēns" "holding"
    "tenentēs" "holding"
+   "tenuissent" "they (might) have had held"
    "tenēre" "to hold"
    "teneō, tenēre, tenuī, tentus" "to hold, to keep"
    
