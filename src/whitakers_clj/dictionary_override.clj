@@ -105,6 +105,7 @@
    "cepsitāvit" "he stumbled; singular perfect from cespitō, cespitāre, cespitāvi, cespitas"
    "Chrīstō" "Christ"
    "cibō" "food; singular masculine ablative from cibum cibum, cibī"
+   "cicerōnem" "Cicerō (accusative case)"
    "cicerōnī" "Cicerō (dative case)"
    "circā" "around, about, concerning"
    "circiter" "near, close, about"
@@ -215,6 +216,7 @@
    "germānī" "Germans"
    "germānīs" "Germans"
    "Germānīs" "Germans"
+   "germānōrum" "of Germans"
    "germānōs" "Germans"
    "Germānōs" "Germans"
    "Goliae" "of Goliath, the Philistine giant that David slew; from Golias, Goliae."
@@ -469,12 +471,14 @@
    "pōtū" "drink; singular masculine ablative from pōtus, pōtūs"
    "pōtum" "drink; singular masculine accusative from pōtus, pōtūs"
    "prae" "before, in front, because of"
+   "praesertim" "especially"
    "praestō" "present, available"
    "praeter" "more, beyond, besides, except"
    "praeteritō" "previous"
    "praeteritum" "previous"
    "prīdiē" "the day before"
    "prius" "before"
+   "priusquam" "before"
    "prō" "for, in favor of, before, in place of"
    "procul" "far"
    "prōfectī" "prōfectī est = had set out"
@@ -656,6 +660,7 @@
    "Tīthim" "the sea; sea nymph"
    "Tīthis" "the sea; sea nymph"
    "Titūrī" "Titūrius, a Roman family name (genitive case)"
+   "Titūrium" "Titūrius, a Roman family name (accusative case)"
    "trahō, trahere, trāxī, tractum" "to draw, to drag, to haul"
    "trāxissent" "they (might) have had drawn"
    "trēverī" "Treveri, a tribe of Gallia Belgica (plural nominative)"
@@ -3375,6 +3380,9 @@
    "fīnium" "boundary, end, limit"
    "fīnis, fīnis" "boundary, end, limit"
 
+   "fīnitimī" "neighbors"
+   "fīnitimus, fīnitimī" "neighbor"
+   
    "fīnitimīs" "neighboring"
    "fīnitimus, fīnitima, fīnitimum" "neighboring"
    
@@ -3591,6 +3599,7 @@
    "futūrus, futūra, futūrum" "future"
 
    "gallī" "Gaul"
+   "gallīs" "Gaul"
    "gallōs" "Gauls"
    "Gallus, Galli" "Gaul"
 
@@ -4394,6 +4403,9 @@
    "iūrandum" "oath"
    "iūrandum, iūrandī" "oath"
 
+   "iūreiūrandō" "oath"
+   "iūsiūrandum, iūrisiūrandī" "oath"
+
    "iūra" "laws, rights, justice"
    "iūris" "law, right, justice"
    "iūs" "law, right, justice"
@@ -4562,6 +4574,10 @@
    "levāte" "raise up!"
    "levāvit" "he raised up"
    "levāvērunt" "they raised up"
+   "levētur" "it (might) be raised up"
+   "levāre" "to raise up"
+   "levō, levāre, levāvī, levātus" "to raise up"
+   
    "levis, levis, leve" "light"
    "levissimam" "very light"
 
@@ -4882,6 +4898,8 @@
    "merīdiānam" "noon, southern"
    "merīdiānum" "noon, southern"
    "merīdiānus" "noon, southern"
+
+   "meritīs" "having been earned"
    "meruistī" "you earned"
    "mereō, merēre, meruī, meritus" "to earn, to deserve"
    "meritī" "merited"
@@ -5017,6 +5035,9 @@
    "monastēriō" "monastery"
    "monastērium" "monastery"
    "monastērium, monastēriī" "monastery"
+
+   "monēre" "to warn"
+   "moneō, monēre, monuī, monitus" "to warn"
    
    "mōns, montis" "mountain"
    "mōns" "mountain"
@@ -5197,6 +5218,9 @@
    "necessitātis" "necessity"
    "necessitātem" "necessity"
    "necessitās, necessitātis" "necessity"
+
+   "negāre" "to deny, to refuse"
+   "negō, negāre, negāvī, negātus" "to deny, to refuse"
 
    "negligentiam" "neglect, carelessness, coldness, disrespect"
    "negligentia, negligentiae" "neglect, carelessness, coldness, disrespect"
@@ -5424,10 +5448,16 @@
    "odor, odōris" "odor, scent"
    "offerebant" "they were offering"
    "offerō, offerre, obtulī, oblātus" "to offer"
+
+   "officī" "having been impeded"
+   "officere" "to impede"
+   "officiō, officere, offēcī, offectus" "to impede"
+   
    "officīnam" "workshop, manufactory"
    "officīnās" "workshops"
    "officīnīs" "workshops"
    "officīna, officīnae" "workshop, manufactory"
+   
    "officiō" "duty, service, favor"
    "officium" "duty, service, favor"
    "officium, officiī" "duty, service, favor"
@@ -5493,6 +5523,7 @@
    "opprimere" "to press down, to oppress"
 
    "oppūgnābant" "they were attacking"
+   "oppūgnandīs" "to be attacked"
    "oppūgnātum" "having been attacked"
    "oppūgnāre" "to attack"
    "oppūgnō, oppūgnāre, oppūgnāvī, oppūgnātus" "to attack"
@@ -5929,6 +5960,9 @@
    
    "petrōsa" "rocky places"
    "petrōsum, petrōsi" "rocky place"
+
+   "pietāte" "dutiful conduct, pietry"
+   "pietās, pietātis" "dutiful conduct, pietry"
    
    "pilae" "ball"
    "pila, pilae" "ball"
@@ -5995,6 +6029,7 @@
    "poenitentia, poenitentiae" "penance"
 
    "pollicitī" "having been promised"
+   "pollicērī" "to promise"
    "polliceor, pollicērī, pollicitus" "to promise"
    
    "polluantur" "they (might) be polluted"
@@ -6069,6 +6104,7 @@
    "potuisset" "he (might) have had been able"
    "potuissent" "they (might) have had been able"
    "potuistī" "you were able"
+   "potuisse" "to have been able"
 
    "posteriōrēs" "following, next"
    "posteriōrem" "following, next"
