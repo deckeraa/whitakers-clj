@@ -4594,6 +4594,9 @@
    "līberāvistī" "you liberated"
    "līberāvērunt" "they liberated"
    "līberō, līberāre, līberāvī, līberātus" "to liberate"
+
+   "lībertāte" "liberty"
+   "lībertās, lībertātis" "liberty"
    
    "lībra, lībrae" "pound (of weight)"
    "lībram" "pound (of weight)"
@@ -6530,6 +6533,9 @@
    "rārus" "thin, far apart, rare"
    "rārus, rāra -um, rārior -or -us, rārissimus -a -um" "thin, far apart, rare"
 
+   "rationem" "reason"
+   "ratiō, ratiōnis" "reason"
+
    "rebelliōne" "renewal of war, rebellion"
    "rebelliōnem" "renewal of war, rebellion"
    "rebelliō" "renewal of war, rebellion"
@@ -6561,6 +6567,9 @@
    
    "rēctō" "straight, proper, correct"
    "rēctus, rēcta -um, rēctior -or -us, rēctissimus -a -um" "straight, proper, correct"
+
+   "recuperanda" "to be regained"
+   "recuperō, recuperāre, recuperāvī, recuperātus" "to regain"
    
    "reddēbant" "they were rending, they were returning"
    "redīret" "he (might) have been returning"
@@ -6614,6 +6623,7 @@
    "rettulērunt" "they brought back, reported"
    "referēns" "bringing back, reporting"
    "referrentur" "they (might) be being reported"
+   "referre" "to bring back, to report"
    "referō, referre, rettulī, relātus" "to bring back, to report"
    
    "refocilātiō" "refreshment"
@@ -6941,6 +6951,7 @@
    "saltus, saltūs" "narrow pass, mountain defile, leap, jump"
    
    "salūs" "health, soundness"
+   "salūtī" "health, soundness"
    "salūs, salūtis" "health, soundness"
    
    "salūtāris" "salutary, redeeming"
@@ -6983,6 +6994,10 @@
    "satietās" "sufficiency, abundance"
    "satietāte" "sufficiency, abundance"
    "satietās, satietātis" "sufficiency, abundance"
+
+   "satisfēcerit" "he will have satisfied"
+   "satisfacere" "to satisfy"
+   "satisfaciō, satisfacere, satisfēcī, satisfactus" "to satisfy"
    
    "saxōsa" "rocky"
    "saxōsam" "rocky"
@@ -7085,8 +7100,11 @@
    
    "sententia" "opinion, judgement, thought"
    "sententia, sententiae" "opinion, judgement, thought"
+
+   "sentiant" "they (might) sense, feel"
    "sentīre" "to sense, to feel"
    "sentiō, sentīre, sēnsī, sēnsus" "to sense, to feel"
+   
    "sepelīvissem" "I (might) have had buried"
    "sepeliō, sepelīre, sepelīvī, sepultus" "to bury"
    
@@ -7426,6 +7444,7 @@
    "subsequī" "to follow close after"
 
    "subsidia" "support, auxilliary forces"
+   "subsidiō" "support, auxilliary forces"
    "subsidium" "support, auxilliary force"
    "subsidium, subsidiī" "support, auxilliary force"
    
@@ -7808,10 +7827,16 @@
    "turma, turmae" "troop, group, crowd"
    "turpissima" "ugly, nasty, repulsive, shameful"
    "turpis, turpe, turpior -or -us, turpissimus -a -um" "ugly, nasty, repulsive, shameful"
+   
    "turris" "tower"
    "turris, turris" "tower"
+
+   "tūtum" "safety"
+   "tūtum, tūtī" "safety"
+   
    "tuum" "your"
    "tuus" "your"
+   
    "ūlla" "any"
    "ūllum" "any"
    "ūllus" "any"
@@ -7925,8 +7950,10 @@
    "vāsculum" "small vessel"
    "vāsculum, vāsculī" "small vessel"
    "vāsculōrum" "of small vessels"
+   
    "vēlōcissimō" "very quickly"
    "vēlōx, vēlōcis (gen.), vēlōcior -or -us, vēlōcissimus -a -um" "very quickly"
+   
    "vēla" "sail, cloth"
    "vēlīs" "sails"
    "vēlum" "sail, cloth"
@@ -8188,6 +8215,7 @@
    "voluit" "he wanted"
    "volumus" "we want"
    "vīs" "you want"
+   "velint" "they (might) want"
    "volō, velle, voluī, -" "to want"
    
    "vōcem" "voice"

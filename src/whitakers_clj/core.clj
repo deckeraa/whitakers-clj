@@ -529,7 +529,7 @@
                    "exped.itis" "expedītīs" "imped.itis" "impedītīs"
                    "iuss.it" "iussit" "iuss.erunt" "iussērunt" "incit.atis" "incitātis"
                    "super.atis" "superātis" "occup.atis" "occupātis" "perturb.atis" "perturbātis"
-                   "prodi.ret" "prōdīret"
+                   "prodi.ret" "prōdīret" "libert.ate" "lībertāte"
                    } word) word)]
     word))
 
