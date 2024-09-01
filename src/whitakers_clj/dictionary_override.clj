@@ -26,6 +26,7 @@
    "āctīs" "acts, ablative from ācta, a plural-only second declension noun"
    "ad" "to, towards, at, according to"
    "adeō" "that far"
+   "adfore" "to be present (in the future); future infinitive from adsum"
    "adhūc" "until now"
    "aditum" "approach, access; singular masculine accusative from aditus, aditūs"
    "admīrātī" "admīrātī + sunt = were admired"
@@ -71,6 +72,7 @@
    "Antōnius" "Anthony"
    "April" "The month of April"
    "apud" "at, by, near"
+   "Ariovistus" "A German king"
    "Arpinēius" "Arpinēius, a Roman family name"
    "asportāte" "take away! Plural imperative from asportō, asportāre, asportāvī, asportātus"
    "assāte" "Roast! Bake! Broil! Plural imperative from assō, assāre, assāvī, assātus"
@@ -79,6 +81,7 @@
    "Atrebās" "An Atrebatian. The Atrebates were a tribe in Gallia Belgica."
    "attamen" "nevertheless"
    "audācter" "audaciously"
+   "Aurunculēius" "Aurunculēius, a Roman family name"
    "aut" "or"
    "autem" "but, however, moreover"
    "avēs" "birds; plural feminine nominative or accusative from avis, avis"
@@ -644,6 +647,7 @@
    "sūrsum" "on top, upward"
    "Syon" "Zion"
    "Synai" "Sinai"
+   "Tasgetī" "Tasgetius, a chief of the Carnutes (genitive case)"
    "Tasgetiī" "Tasgetius, a chief of the Carnutes (genitive case)"
    "Tasgetius" "Tasgetius, a chief of the Carnutes"
    "Tasgetium" "Tasgetius, a chief of the Carnutes (accusative case)"
@@ -661,6 +665,7 @@
    "Tīthis" "the sea; sea nymph"
    "Titūrī" "Titūrius, a Roman family name (genitive case)"
    "Titūrium" "Titūrius, a Roman family name (accusative case)"
+   "Titūrius" "Titūrius, a Roman family name (nominative case)"
    "trahō, trahere, trāxī, tractum" "to draw, to drag, to haul"
    "trāxissent" "they (might) have had drawn"
    "trēverī" "Treveri, a tribe of Gallia Belgica (plural nominative)"
@@ -781,6 +786,7 @@
    "accipiō, accipere, accēpī, acceptus" "to take, to grasp, to receive, to accept"
    "accipe"   "accept! receive!"
    "accipite" "accept! receive!"
+   "acceptum" "having been received"
    
    "ācrius" "harsher"
    "ācer, ācris -e, ācrior -or -us, ācerrimus -a -um" "harsh"
@@ -791,6 +797,7 @@
    "aciē" "battle line"
    "aciēs, aciēī" "battle line"
 
+   "adesset" "he (might) have been present"
    "affuit" "he was present"
    "assum, adesse, affuī, affuturus" "to be present"
    
@@ -943,6 +950,7 @@
    "agit" "I act, I conduct"
    "agitis" "you act, you conduct"
    "ēgissent" "you might have had conducted"
+   "agendum" "to be done"
    "agere" "to conduct, to act"
    "agō, agere, ēgī, āctus" "to conduct, to act"
    
