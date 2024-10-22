@@ -170,6 +170,7 @@
    "eās" "their; plural feminine accusative from is, ea, id"
    "eīs" "to them; plural dative or ablative from is, ea, id"
    "eburōnēs" "A Gallic-Germanic tribe of Gallia Belgica (nominative or accusative)"
+   "eburōnum" "A Gallic-Germanic tribe of Gallia Belgica (genitive)"
    "ex" "out of, from"
    "ecce" "Look! Behold!"
    "eī" "to him, her, or it; singular dative from is, ea, id"
@@ -821,6 +822,10 @@
 
    "adgregābat" "he was bringing together"
    "adgregō, adgregāre, adgregāvī, adgregātus" "to bring together"
+
+   "adimplēbō" "I will fulfill"
+   "adimplēre" "to fill up, to fulfill"
+   "adimpleō, adimplēre, adimplēvī, adimplētum" "to fill up, to fulfill"
    
    "aditus" "approach, entrance"
    "aditus, aditūs" "approach, entrance"
@@ -834,10 +839,11 @@
    "adiūtōrium, adiūtōriī" "help, support"
 
    "adiūtus" "having been helped"
-   "adiuvāre" "to help"
+   "adiuvābō" "I will help"
    "adiūverat" "he had helped"
    "adiuvante" "helping"
    "adiūvit" "he helped"
+   "adiuvāre" "to help"
    "adiuvō, adiuvāre, adiūvī, adiūtus" "to help"
 
    "administrandī" "attending to"
@@ -1158,6 +1164,10 @@
    "antīquī" "of the ancient"
    "antīquus, antīqua -um, antīquior -or -us, antīquissimus -a -um" "antique"
 
+   "ānulō" "ring"
+   "ānulus" "ring"
+   "ānulus, ānulī" "ring"
+
    "apertō"  "having been opened"
    "apertum" "having been opened"
    "aperiō, aperīre, aperuī, apertus" "to open"
@@ -1340,6 +1350,10 @@
    
    "asportābant" "they were carrying away"
    "asportō, asportāre, asportāvī, asportātus" "to carry away"
+
+   "associentur" "they (might) be joining"
+   "associāre" "to join, to associate"
+   "associō, associāre, associāvī, associātus" "to join, to associate"
    
    "assūmptiōne" "assumption, taking, receiving"
    "assūmptiō, assūmptiōnis" "assumption, taking, receiving"
@@ -1483,6 +1497,7 @@
    "benedīcet" "you will bless"
    "benedīcite" "bless!"
    "benedīcitis" "you bless"
+   "benedicta" "having been blessed"
    "benedictō" "having been blessed"
    "benedīxit" "he blessed"
    "benedīcō, benedīcere, benedīxī, benedictus" "to bless"
@@ -1589,6 +1604,9 @@
    "caelō" "heaven, sky"
    "caelus" "heaven, sky"
    "caelus, caelī" "heaven, sky"
+
+   "celeste" "heavenly"
+   "celestis, celeste, celestior -or -us, celestissimus -a -um" "heavenly"
 
    "Caesar" "Caesar"
    "caesar" "Caesar"
@@ -1711,6 +1729,7 @@
    "castrōrum" "of forts"
    "castrum, castrī" "fort"
 
+   "cāsum" "fall, downward movement"
    "cāsus" "fall, downward movement"
    "cāsus, cāsūs" "fall, downward movement"
 
@@ -2092,6 +2111,7 @@
    "concilium" "council, assembly"
    "concilium, conciliī" "council, assembly"
 
+   "concitāvit" "he agitated"
    "concitāvērunt" "they had agitated"
    "concitō, concitāre, concitāvī, concitātus" "to agitate"
    
