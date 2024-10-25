@@ -1973,10 +1973,15 @@
    "collēctiō" "collection"
    "collēctiō, collēctiōnis" "collection"
    "collēctiōne" "collection"
+
+   "colligam" "I will assemble, collect"
+   "colligās" "you (might) collect"
    "colligite" "collect!"
+   "collēgit" "he assembled, he collected"
    "colligere" "to collect, to assemble"
    "colligit" "he collects, he assembles"
    "colligō, colligere, collēgī, collēctus" "to collect, to assemble"
+   
    "collīsiōnēs" "collision"
    "collīsiō, collīsiōnis" "collision"
 
@@ -2013,6 +2018,10 @@
    "comedendum" "eating"
    "comedere" "to eat up"
    "comedō, comedere, comēdī, comēsum" "to eat up"
+
+   "comes" "comrade"
+   "comitī" "comrade"
+   "comes, comitis" "comrade"
 
    "coēmērunt" "they bought"
    "coemere" "to buy"
@@ -2091,6 +2100,9 @@
    
    "concedit" "he concedes, he allows"
    "concessit" "he conceded, he allowed"
+   "concēdātis" "you (might) allow, concede"
+   "concēderet" "he (might) have been allowing"
+   "concēdet" "he will allow, concede"
    "concēdendum" "allowing"
    "concēdō, concēdere, concessī, concessus" "to concede, to allow"
    
@@ -2510,6 +2522,10 @@
    "datō" "gift"
    "datum, datī" "gift"
 
+   "dēbellandum" "fighting out"
+   "dēbellāre" "to fight out"
+   "dēbellō, dēbellāre, dēbellāvī, dēbellātus" "to fight out"
+   
    "dēbēmus" "we should, we aught"
    "dēbeō" "I should"
    "dēbēs" "you should"
@@ -2527,11 +2543,18 @@
    "decānus" "dean, chief"
    "decānus, decānī" "dean, chief"
 
+   "dēceptus" "having been cheated, deceived"
+   "dēcipere" "to cheat, deceive"
+   "dēcipiō, dēcipere, dēcēpī, dēceptus" "to cheat, deceive"
+
    "dēclīvī" "slopes"
    "dēclīvum, dēclīvī" "slope"
    
    "dēcrēvimus" "we decided"
    "dēcernō, dēcernere, dēcrēvī, dēcrētus" "to decide"
+
+   "dēcessum" "departure"
+   "dēcessus, dēcessūs" "departure"
    
    "decet" "it is fitting"
    "decet, decēre, decuit, -" "it is fitting"
