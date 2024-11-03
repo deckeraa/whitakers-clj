@@ -2642,6 +2642,10 @@
    "dēnsissimīs" "very dense"
    "dēnsus, dēnsa -um, dēnsior -or -us, dēnsissimus -a -um" "dense"
 
+   "dēnūntiābat" "he was foretelling, giving notice"
+   "dēnūntiāre" "to foretell, to give notice"
+   "dēnūntiō, dēnūntiāre, dēnūntiāvī, dēnūntiātus" "to foretell, to give notice"
+
    "dēpositīs" "deposits, trusts"
    "dēpositum, dēpositī" "deposit, trust"
    
@@ -2712,7 +2716,8 @@
    "dēvorātōrem" "devourer, glutton"
    "dēvorātor, dēvorātōris" "devourer, glutton"
    
-   "diabolī" "devil, demon"
+   "diabolī"  "devil, demon"
+   "diabolum" "devil, demon"
    "diabolus" "devil, demon"
    "diabolus, diabolī" "devil, demon"
 
@@ -2726,6 +2731,7 @@
    "dīcere" "to say"
    "dīcerent" "they (might) have been saying"
    "dīceret" "he (might) have been saying"
+   "dīcī" "to be said"
    "dīcis" "you say"
    "dīcit" "he says"
    "dīcitur" "it is said"
@@ -2765,17 +2771,33 @@
    "digitus" "finger, toe, digit"
    "digitī"  "finger, toe, digit"
    "digitus, digitī" "finger, toe, digit"
+   
    "dīgnēminī" "you (might) be deemed worthy"
    "dīgnēris" "you (might) be deemed worthy"
+
+   "dignitās" "worth, honor, esteem, rank"
    "dignitās, dignitātis" "worth, honor, esteem, rank"
+   "dignitātem" "worth, honor, esteem, rank"
    "dignitātis" "worth, honor, esteem, rank"
+   
    "dīgnō, dīgnāre, dīgnavī, dīgnatus" "to deem worthy, to deign"
    "dīgnum" "worthy, appropriate"
    "dīgnus, dīgna, dīgnum" "worthy, appropriate"
+
+   "dīlēctiōne" "love"
+   "dīlēctiō, dīlēctiōnis" "love"
+   
    "dīlēxī" "I loved"
+   "dīlēxit" "he loved"
+   "dīligimus" "we love"
+   "dīligis" "you love"
+   "dīligit" "he loves"
+   "dīligō" "I love"
    "dīligō, dīligere, dīlēxī, dīlēctus" "to love"
+   
    "dīligentia" "diligence"
    "dīligentia, dīligentiae" "diligence"
+   
    "dīmīsērunt" "they sent away, they dismissed"
    "dīmīsī" "he sent away, he dismissed"
    "dīmīsimus" "we sent away"
@@ -2785,6 +2807,7 @@
    "dīmittō, dīmittere, dīmīsī, dīmissus" "to dismiss, to send away"
    "dīmissa" "having been sent away"
    "dīmissō" "having been sent away"
+   
    "dīrās" "ominous, dreadful"
    "dīrus, dīra -um, dīrior -or -us, dīrissimus -a -um" "ominous, dreadful"
    "dīrigis" "you align, you direct"
