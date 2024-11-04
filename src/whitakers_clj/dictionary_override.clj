@@ -2888,6 +2888,9 @@
    "dīmidium" "half"
    "dīmidium, dīmidiī" "half"
 
+   "dīvitia, dīvitiae" "riches, wealth"
+   "dīvitiās" "riches, wealth"
+
    "dabatur" "he was being given"
    "dabantur" "they were being given"
    "dabō" "I will give"
@@ -3214,12 +3217,18 @@
    "expedītum" "free, unburdened"
    "expedītus, expedīta -um, expedītior -or -us, expedītissimus -a -um" "free, unburdened"
 
-   "expulissent" "they had expelled"
-   "expellere" "to drive out"
-   "expellō, expellere, expulī, expulsus" "to drive out"
+   "expendit" "he pays, he paid"
+   "expendere" "to pay, to pay a penalty"
+   "expēnsīs" "having been paid"
+   "expendō, expendere, expendī, expēnsus" "to pay, to pay a penalty"
    
    "exposuimus" "we explained"
    "expōnō, expōnere, exposuī, expositus" "to explain"
+
+   "expulissent" "they had expelled"
+   "expulsus" "having been driven out"
+   "expellere" "to drive out, to expel"
+   "expellō, expellere, expulī, expulsus" "to drive out, to expel"
 
    "exsequī" "to follow"
    "exsequor, exsequī, exsecūtus" "to follow"
@@ -3279,7 +3288,7 @@
    "faciēs" "shape, figure, appearance, look"
    "faciem" "shape, figure, appearance, look"
    "faciēs, faciēī" "shape, figure, appearance, look"
-   
+   "faciam" "I will make, I (might) make"
    "faciat" "he (might) do/make"
    "faciātis" "you (might) be making"
    "faciēbam" "I was doing"
@@ -3297,6 +3306,7 @@
    "factī" "having been made, done"
    "factō" "made"
    "factūrōs" "to be made"
+   "factum" "having been made"
    "factus" "made"
    "fīēbat" "it was being made"
    "faciundī" "to be made"
@@ -3430,7 +3440,11 @@
    "fīliolus" "young son"
    "fīliolus, fīliolī" "young son"
 
+   "fīlia" "daughter"
+   "fīliābus" "daughters"
+   "fīliae" "daughters"
    "fīliam" "daughter"
+   "fīliās" "daughters"
    "fīlia, fīliae" "daughter"
    
    "fīliī" "sons"
