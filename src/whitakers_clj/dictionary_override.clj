@@ -182,6 +182,8 @@
    "ēgressus" "ēgressus + est = he went out"
    "enim" "for, truly, really, indeed"
    "eōrum" "their; plural masc. or neuter. genitive"
+   "Ercī" "Erc, Bishop of Slane (-513 A.D.)"
+   "Ercō" "Erc, Bishop of Slane (-513 A.D.)"
    "ergō" "therefore"
    "esse" "to be"
    "et" "and"
@@ -201,6 +203,7 @@
    "fēlīciter" "happily"
    "ferē" "nearly, almost, about"
    "fīant" "they might do; 3rd person plural subjunctive present from faciō, facere, fēcī, factus"
+   "Findluag" "Father of St. Brendan"
    "fīnītā" "end; singular feminine ablative of fīnītus, fīnīta, fīnītum"
    "fīnītīs" "end; plural dative or ablative of fīnītus, fīnīta, fīnītum"
    "fīnītō" "end; singular dative or ablative of fīnītus, fīnīta, fīnītum"
@@ -244,6 +247,8 @@
    "Hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
    "hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
    "hōs" "these; plural masculine accusative from hic, haec, hoc"
+   "Hybernia" "Ireland (nominative case)"
+   "Hyberniae" "of Ireland (genitive case)"
    "idcircō" "for that reason"
    "ideō" "for that reason"
    "iēiūnābant" "they were fasting"
@@ -353,6 +358,7 @@
    "iuxtā" "near, nearly"
    "judas" "Judas Iscariot"
    "kal" "Abbreviation for kalendae, the first day of the month"
+   "Kyarragi" "A region in western Ireland"
    "lātē" "widely; adverb from lātus, -a, -um"
    "Latobrigīs" "Latobrigi, neighbors to the Helvetii"
    "Lemanno" "Lake Geneva"
@@ -383,6 +389,7 @@
    "minus" "less"
    "mixtim" "mixedly, in a mixed manner (adverb)"
    "mox" "soon"
+   "Mumenensī" "of Munster, a south-western region in Ireland. Not to be confused with Münster, the German city."
    "nam" "yes, truly"
    "Nammeius" "Numeius, a Helvetic legate"
    "namque" "for and in fact, on the other hand"
@@ -615,6 +622,7 @@
    "sinus" "pocket, fold; singular masculine nominative from sinus, sinūs"
    "sinū" "pocket, fold; singular masculine ablative from sinus, sinūs"
    "sinum" "pocket, fold; singular masculine accusative from sinus, sinūs"
+   "siquidem" "however, accordingly, since, if only. In Medieval Latin, synonym of autem."
    "sīve" "or, what if"
    "sōlum" "only, just, barely, merely"
    "spontāneē" "spontaneously"
@@ -740,6 +748,7 @@
    "VII" "seven"
    "XII" "twelve"
    "XV" "fifteen"
+   "zephāriā" "western (alternate spellling of zephyrius -a -um, meaning pertaining to a western breeze)"
    })
 
 (def dictionary-map
@@ -4886,6 +4895,11 @@
    "malleōrum" "of hammers"
    "malleus, malleī" "hammer"
 
+   "mamilla"  "breast"
+   "mamillae" "breast"
+   "mamillās" "breasts"
+   "mamilla, mamillae" "breast"
+
    "mandāta" "having been entrusted"
    "mandāre" "to entrust"
    "mandō, mandāre, mandāvī, mandātus" "to entrust"
@@ -4952,6 +4966,7 @@
    "māteriēs, māteriēī" "material, substance"
 
    "mātrimōnium" "marriage"
+   "mātrimōniō" "marriage"
    "mātrimōnium, mātrimōniī" "marriage"
 
    "mātrōna" "matron, married woman"
@@ -5214,6 +5229,10 @@
    "movērētur" "they (might) have been moving"
    "movēre" "to move"
    "moveō, movēre, mōvī, mōtus" "to move"
+
+   "mulier"   "woman"
+   "mulieris" "woman"
+   "mulier, mulieris" "woman"
    
    "multitūdō" "multitude, great number"
    "multitūdine" "multitude, great number"
@@ -5266,13 +5285,16 @@
    "nārēs" "noses, nostrils"
    "nāris, nāris" "nose, nostril"
    "nāribus" "nostrils"
+   
    "nārrā" "narrate!"
+   "nārrāns" "narrating"
    "nārrāvit" "he told"
    "nārrāre" "to narrate, to tell about"
    "nārrō, nārrāre, nārrāvī, nārrātus" "to narrate, to tell about"
    
    "nātū" "birth"
    "nātus" "having been born"
+   "nāscētur" "he will be born"
    "nāscor, nāscī, nātus sum" "to be born"
 
    "natābat" "he was swimming"
@@ -5500,10 +5522,16 @@
    "obdormiō, obdormīre, obdormīvī, obdormītus" "to fall asleep"
    "obēdiāmus" "let us obey"
    "obēdiō, obēdīre, obēdīvī, obēdītus" "to obey"
+   
    "oblīviō, oblīviōnis" "forgetfulness"
    "oblīviōnem" "forgetfulness"
+   
    "oboedientiam" "obedience"
    "oboedientia, oboedientiae" "obedience"
+
+   "obrizō" "refined (gold)"
+   "obrizus, obriza, obrizum" "refined (gold)"
+   
    "obsequium" "allegiance, obedience"
    "obsequium, obsequiī" "allegiance, obedience"
    "observāre" "to observe, to watch"
@@ -5654,6 +5682,9 @@
    "oppūgnātum" "having been attacked"
    "oppūgnāre" "to attack"
    "oppūgnō, oppūgnāre, oppūgnāvī, oppūgnātus" "to attack"
+
+   "ōrās" "border, edge, frontier"
+   "ōra, ōrae" "border, edge, frontier"
 
    "ōrātiōne"  "oration, speech, discourse"
    "ōrātiōnem" "oration, speech, discourse"
@@ -6115,9 +6146,11 @@
    
    "placidō" "placid, gentle, quiet"
    "placidus, placida, placidum" "placid, gentle, quiet"
-   
+
+   "plāga" "coast"
    "plāgam" "coast"
    "plāga, plāgae" "coast"
+   
    "plānctus" "beating, wailing, lamentation"
    "plānctūs" "beating, wailing, lamentation"
    "plānctus, plānctūs" "beating, wailing, lamentation"
@@ -6637,6 +6670,10 @@
    
    "quīndecim" "fifteen"
    "quīndecim, quīndecimus -a -um, quīndeci -ae -a, quīndecie (n)s" "fifteen"
+
+   "radiantēs" "beaming, shining"
+   "radiāre" "to beam, to shine"
+   "radiō, radiāre, radiāvī, radiātus" "to beam, to shine"
    
    "rādīcibus" "roots"
    "rādīx, rādīcis" "root"
@@ -8044,6 +8081,9 @@
    "ūvīs" "grapes"
    "ūvās" "grapes"
    "ūva, ūvae" "grape"
+
+   "uxōre" "wife"
+   "uxor, uxōris" "wife"
    
    "vacuam" "empty, vacant"
    "vacuus, vacua, vacuum" "empty, vacant"
@@ -8364,7 +8404,11 @@
    "vōtum" "vow"
    "vultū" "face, expression, appearance"
    "vultum" "face, expression, appearance"
-   "vultus, vultūs" "face, expression, appearance"})
+   "vultus, vultūs" "face, expression, appearance"
+
+   
+
+   })
 
 (defn dictionary [v]
   (when v
