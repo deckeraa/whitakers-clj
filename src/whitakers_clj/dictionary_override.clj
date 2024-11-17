@@ -39,6 +39,7 @@
    "aequāliter" "equally"
    "aethiopum" "Ethiopian, black"
    "Ailbēī" "The name of a group of monks living on an island."
+   "Airde" "An Irish man"
    "aliam" "other, another; singular feminine accusative from alius, alia, aliud"
    "alicui" "to anyone; singular dative from aliqui"
    "aliōquī" "also"
@@ -88,6 +89,8 @@
    "avium" "of birds; plural feminine genitive from avis, avis"
    "Basipila" "baseball; singular feminine nominative from basipila, basipilae"
    "basipila" "baseball; singular feminine nominative from basipila, basipilae"
+   "beccus" "An Irish prophet who died around AD 553 or 557."
+   "Beccus" "An Irish prophet who died around AD 553 or 557."
    "bene" "good; adverb of bonus -a -um"
    "boiōs" "the Boii, who live across the Rhine from the Helvetii"
    "bovēs" "cows; plural masc. or fem. nom. or acc. from bōs, bovis"
@@ -869,6 +872,10 @@
    "admittere" "to admit, let in"
    "admittō, admittere, admīsī, admissus" "to admit, let in"
 
+   "adōrābunt" "they will adore, they will pray to"
+   "adōrāvit" "he adored, he prayed to"
+   "adōrō, adōrāre, adōrāvī, adōrātus" "to adore, to pray to"
+
    "adoriēbantur" "they were attacking"
    "adortī" "having been attacked"
    "adorio, adorīre, -, adorītus" "to attack"
@@ -1047,8 +1054,15 @@
    "altissimō" "highest"
    "altissimus" "highest"
    "altus, alta -um, altior -or -us, altissimus -a -um" "high"
+
+   "alumnī"  "nursling, pupil, foster-son"
+   "alumnum" "nursling, pupil, foster-son"
+   "alumnus" "nursling, pupil, foster-son"
+   "alumnus, alumnī" "nursling, pupil, foster-son"
+   
    "alveum" "cavity, trough"
    "alveus, alveī" "cavity, trough"
+   
    "amantissimī" "most loving"
    "amāns, amantis (gen.), amantior -or -us, amantissimus -a -um" "loving"
 
@@ -2194,6 +2208,7 @@
    "cōnfirmō, cōnfirmāre, cōnfirmāvī, cōnfirmātus" "to strengthen, to encourage"
    
    "cōnfitēminī" "you confess"
+   "cōnfiteor" "I confess"
    "cōnfitērī" "to confess"
    "cōnfiteor, cōnfitērī, cōnfessum sum" "to confess"
    
@@ -2871,6 +2886,10 @@
    "dīversōs" "diverse"
    "dīversus" "diverse"
    "dīversus, dīversa, dīversum" "diverse"
+
+   "dīves" "rich"
+   "dīvitī" "rich"
+   "dīves, dīvitis (gen.), dīvitior -or -us, dīvitissimus -a -um" "rich"
    
    "dīvīna" "divine"
    "dīvīnum" "divine"
@@ -3061,11 +3080,14 @@
    "elemosina" "alms"
    "elemosina, elemosinae" "alms"
    "elemosyna, elemosynae" "alms"
+   
    "ēlevātō" "having been raised up"
    "ēlevāvissent" "they (might) have had elevated"
    "ēlevāvērunt" "they were elevating, they were alleviating"
+   "ēlevāns" "lifting up"
    "ēlevantēs" "lifting up"
    "ēlevō, ēlevāre, ēlevāvī, ēlevātus" "to elevate, to alleviate"
+   
    "ēligit" "he chooses"
    "ēlēctīs" "having been chosen"
    "ēlēgit" "he chose"
@@ -3532,10 +3554,13 @@
    "flābat" "he was blowing, he was breathing"
    "flāre" "to breathe, to blow"
    "flō, flāre, flāvī, flātus" "to breathe, to blow"
+   
    "flectēbat" "they were bending"
    "flectentēs" "bending"
+   "flexīs" "having been bent, flexed"
    "flectere" "to bend"
    "flectō, flectere, flēxī, flexum" "to bend"
+   
    "fleō, flēre, flēvī, flētus" "to cry"
    "flētū" "weeping"
    
@@ -3737,6 +3762,10 @@
    "gaudium" "joy, delight"
    "gaudiō" "joy, delight"
    "gaudium, gaudiī" "joy, delight"
+
+   "gaudēns" "rejoicing"
+   "gaudeō, gaudēre, gavīsus sum" "to rejoice"
+   
    "gemmārum" "of gems"
    "gemmīs" "gems"
    "gemma, gemmae" "gem, jewel"
@@ -4202,6 +4231,7 @@
    "incurvātae" "being curved"
    
    "indicā" "show! indicate!"
+   "indicātus" "having been indicated, shown"
    "indicāre" "to indicate, to point out, to show"
    "indicō, indicāre, indicāvī, indicātus" "to indicate, to point out, to show"
 
@@ -4232,11 +4262,17 @@
    "inepta"  "inept, senseless"
    "ineptīs" "inept, senseless"
    "ineptus, inepta, ineptum" "inept, senseless"
-   
+
+   "īnfāns" "infant"
    "īnfantem" "infant"
    "īnfantum" "infant"
    "īnfantium" "of infants"
    "īnfāns, īnfantis" "infant"
+
+   "īnfantulum" "baby boy"
+   "īnfantulus" "baby boy"
+   "īnfantulī"  "baby boy"
+   "īnfantulus, īnfantulī" "baby boy"
    
    "īnfēlīx" "unhappy"
    "īnfēlīcem" "unhappy"
@@ -5294,6 +5330,7 @@
    
    "nātū" "birth"
    "nātus" "having been born"
+   "nāscitur" "he is being born"
    "nāscētur" "he will be born"
    "nāscor, nāscī, nātus sum" "to be born"
 
