@@ -3377,6 +3377,10 @@
    "fēcisse" "to have made"
    "fēcissent" "they (might) have had done"
    "fēcistis" "you made"
+
+   "fēlīcitās" "happiness, fruitfulness"
+   "fēlīcitātis" "happiness, fruitfulness"
+   "fēlīcitās, fēlīcitātis" "happiness, fruitfulness"
    
    "fenestra" "window"
    "fenestram" "window"
@@ -3436,6 +3440,9 @@
    "fīat" "may it be"
    "fībulās" "brace, brooch, clasp"
    "fībula, fībulae" "brace, brooch, clasp"
+
+   "fidēlis" "faithful person, confidant"
+   "fidēlis, fidēlis" "faithful person, confidant"
 
    "fidem" "faith"
    "fidēs" "faith"
@@ -3731,7 +3738,8 @@
    "genāva" "Geneva, a city in Gaul"
    "genāvam" "Geneva, a city in Gaul"
    "genāva, genēvae" "Geneva, a city in Gaul"
-   
+
+   "gēns" "people, clan, nation"
    "gentēs" "peoples, clans, nations"
    "gēns, gentis" "people, clan, nation"
    
@@ -4381,7 +4389,10 @@
    "interposita" "having been interposed"
    "interpōnere" "to interpose"
    "interpōnō, interpōnere, interposuī, interpositus" "to interpose"
-   
+
+   "interpretātus" "having interpreted"
+   "interpretor, interpretārī, interpretātus" "to interpret"
+      
    "interrogāns" "asking"
    "interrogās" "asking"
    "interrogābat" "he was asking"
@@ -4672,6 +4683,9 @@
    "lēgī" "I read"
    "legō, legere, lēgī, lēctus" "to read"
 
+   "lēgitimō" "lawful, legitimate"
+   "lēgitimus, lēgitima, lēgitimum" "lawful, legitimate"
+
    "lēnī" "gentle, calm"
    "lēnis, lēne, lēnior -or -us, lēnissimus -a -um" "gentle, calm"
    
@@ -4742,6 +4756,9 @@
 
    "litterīs" "literature"
    "littera, litterae" "letters, writings, literature"
+
+   "littoris" "beach, shore"
+   "littus, littoris" "beach, shore"
    
    "lītus" "beach, shore"
    "lītore" "beach, shore"
