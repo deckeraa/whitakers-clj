@@ -1409,6 +1409,11 @@
    "aurōra" "dawn, sunrise"
    "aurōra, aurōrae" "dawn, sunrise"
 
+   "aurō" "gold"
+   "aurum" "gold"
+   "aurī" "of gold"
+   "aurum, aurī" "gold"
+
    "auscultāns" "listening, overhearing, obeying"
    "auscultāre" "to listen, to overhear, to obey"
    "auscultō, auscultāre, auscultāvī, auscultātus" "to listen, to overhear, to obey"
@@ -1459,6 +1464,8 @@
    
    "basēs" "bases"
    "basis, basis" "base"
+
+   "beātissimus" "most happy, most blessed"
    "beātus" "happy, blessed"
    "beātus, beāta -um, beātior -or -us, beātissimus -a -um" "happy, blessed"
 
@@ -2069,6 +2076,7 @@
    "complentur" "it is completed, it is filled up"
    "complērentur" "they (might) have been being filled"
    "complērī" "to be filled up"
+   "complētum" "having been filled, completed"
    "compleō, complēre, complēvī, complētus" "to complete, to fill up"
    
    "complētōrium" "compline, service of prayers at close of day"
@@ -2150,6 +2158,11 @@
 
    "cōnferta" "dense, crowded"
    "cōnfertus, cōnferta -um, cōnfertior -or -us, cōnfertissimus -a -um" "dense, crowded"
+
+   "cōnfessiō" "confession"
+   "cōnfessiōnis" "confession"
+   "cōnfessiōne" "confession"
+   "cōnfessiō, cōnfessiōnis" "confession"
 
    "cōnficiendās" "completing"
    "cōnficere" "to complete"
@@ -3058,8 +3071,14 @@
    
    "eō" "I go"
    "eōdem" "the same"
+   
    "Epiphanīae" "Epiphany, a Christian holiday that occurs closely after Christmas."
    "Epiphanīa, Epiphanīae" "Epiphany, a Christian holiday that occurs closely after Christmas."
+
+   "episcopī" "overseer, bishop"
+   "episcopō" "overseer, bishop"
+   "episcopus" "overseer, bishop"
+   "episcopus, episcopī" "overseer, bishop"
 
    "equestrī" "knight"
    "equestribus" "knights"
