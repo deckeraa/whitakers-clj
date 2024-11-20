@@ -4231,8 +4231,10 @@
    "incurvātae" "being curved"
    
    "indicā" "show! indicate!"
+   "indicātum" "having been indicated, shown"
    "indicātus" "having been indicated, shown"
    "indicāre" "to indicate, to point out, to show"
+   "indicāvit" "he indicated, showed"
    "indicō, indicāre, indicāvī, indicātus" "to indicate, to point out, to show"
 
    "indicium" "information, discovery, notice"
@@ -4321,6 +4323,9 @@
    "inīquitās, inīquitātis" "iniquity"
    "inīquitās" "iniquity"
    "inīquitātem" "iniquity"
+
+   "inī" "enter! go in!"
+   "ineō, inīre, inivī(iī), initus" "enter, go in"
    
    "initiō" "beginning, entrance"
    "initium" "beginning, entrance"
@@ -4475,6 +4480,7 @@
    "invēnērunt" "they found"
    "invēnī" "I found"
    "invenietis" "finding"
+   "inveniēns" "finding"
    "invenientis" "finding"
    "inveniēs" "you will find"
    "invenīmus" "we find, we found"
@@ -4889,6 +4895,7 @@
    "māgnī" "large"
    "māgnō" "large"
    "māgnum" "large"
+   "māgnus" "large"
    
    "magnālia" "mighty works, mighty deeds"
    "magnāle, magnālis" "mighty work, mighty deed"
@@ -5330,7 +5337,9 @@
    
    "nātū" "birth"
    "nātus" "having been born"
+   "nātum" "having been born"
    "nāscitur" "he is being born"
+   "nāscerētur" "he (perhaps) will be born"
    "nāscētur" "he will be born"
    "nāscor, nāscī, nātus sum" "to be born"
 
@@ -5544,6 +5553,7 @@
    
    "nūtrīmentō" "nourishment"
    "nūtrīmentum, nūtrīmentī" "nourishment"
+   
    "nūtrītus" "having been nourished"
    "nūtriō, nūtrīre, nūtrīvī, nūtrītus" "to nourish"
    "nūtrit" "it nourishes"
@@ -5638,6 +5648,8 @@
    "odor" "odor, scent"
    "odōre" "odor, scent"
    "odor, odōris" "odor, scent"
+
+   "obtulit" "he offered, presented"
    "offerebant" "they were offering"
    "offerō, offerre, obtulī, oblātus" "to offer"
 
@@ -5844,6 +5856,9 @@
 
    "parietēs" "walls"
    "pariēs, parietis" "wall"
+
+   "parochiā" "parish"
+   "parochia, parochiae" "parish"
    
    "pars" "part"
    "parte" "part"
