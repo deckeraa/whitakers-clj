@@ -577,6 +577,8 @@
    "Samarobrīvae" "A town in Gallia (locative)"
    "sanctificāte" "Sanctify! Plural imperative of sanctificō, sanctificāre, sanctificāvī, sanctificātus"
    "sāncta" "holy, saint"
+   "sānctās" "holy, saintly"
+   "sānctē" "holy, saint"
    "sānctus" "holy, saint"
    "sānctae" "holy"
    "sānctam" "holy"
@@ -586,6 +588,7 @@
    "sānctōrum" "of the saints; plural masculine gentive from sānctus, sānctī"
    "sānctōs" "holy"
    "sānctum" "holy, saint"
+   "sānctissimam" "most holy"
    "sapienter" "wisely"
    "satis" "enough"
    "scalta" "an unknown type of plant. Ablative plural from scalta, scaltae."
@@ -6917,6 +6920,7 @@
    "regiōne" "region"
    "regiōnibus" "regions"
    "regiōnis" "regions"
+   "regiōnem" "region"
    "regiōnēs" "regions"
    "regiō, regiōnis" "region"
 
@@ -7475,6 +7479,9 @@
    "silvīs" "forests"
    "silva, silvae" "forest"
 
+   "similēs" "similar"
+   "similis, simile" "similar"
+
    "singulārēs" "horse body-guard"
    
    "singulam" "one each"
@@ -7828,6 +7835,7 @@
    
    "suscepta" "having been undertaken"
    "suscipe" "undertake!"
+   "suscēpit" "he undertook, he supported"
    "suscipit" "he undertakes"
    "suscipiō, suscipere, suscēpī, susceptus" "to undertake"
    
@@ -8130,6 +8138,9 @@
    "ūllō" "any"
    "ūllus, ūlla, ūllum (gen -ius)" "any"
 
+   "ulnīs" "arms"
+   "ulna, ulnae" "arm"
+
    "ūtilitātem" "usefulness, utility, profit, advantage"
    "ūtilitās, ūtilitātis" "usefulness, utility, profit, advantage"
       
@@ -8411,6 +8422,7 @@
    "vidēbat" "he was living"
    "videndum" "seeing, watching"
    "videndī" "of seeing"
+   "vidēns" "seeing"
    
    "vigiliam" "vigil, watch"
    "vigiliārum" "vigil, watch"
@@ -8449,6 +8461,11 @@
    "virō" "man"
    "virōrum" "of the men"
    "virum" "man"
+
+   "virginem" "virgin"
+   "virginēs" "virgins"
+   "virgō" "virgin"
+   "virgō, virginis" "virgin"
    
    "virtūs" "virtue, manliness, power"
    "virtūtē" "virtue, manliness, power"
