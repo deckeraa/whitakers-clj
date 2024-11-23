@@ -980,18 +980,26 @@
    "agō, agere, ēgī, āctus" "to conduct, to act"
    
    "āit" "he said"
+   "āiēbat" "he was saying"
    "āiere" "to speak, to affirm"
    "āiunt" "they said"
+
+   "alerētur" "he (might) have nursed, fed"
+   "alō, alere, aluī, altus" "to nurse, to feed"
+   
    "attulit" "he brought"
    "attulērunt" "they had carried"
    "afferrī" "to be brought"
    "allāta" "having been carried"
    "allātīs" "having been carried"
    "afferō, afferre, attulī, allātus" "to carry"
+   
    "āla, ālae" "wing"
+   
    "alacritās" "cheerfulness, liveliness"
    "alacritāte" "cheerfulness, liveliness"
    "alacritās, alacritātis" "cheerfulness, liveliness"
+   
    "ālae" "wings"
    "ālārum" "of wings"
    "ālās" "wings"
@@ -1121,7 +1129,9 @@
    
    "angelī" "angel"
    "angelīs" "angel"
+   "angelōs" "angels"
    "angelus, angelī" "angel"
+   
    "angulōs" "corners, angles"
    "angulus, angulī" "corner, angle"
    
@@ -1477,6 +1487,9 @@
    "baptismō" "baptism"
    "baptismus" "baptism"
    "baptismus, baptismī" "baptism"
+
+   "baptīzāvit" "he baptipzed"
+   "baptīzō, baptīzāre, baptīzāvī, baptīzātus" "to baptize"
    
    "barba" "beard"
    "barba, barbae" "beard"
@@ -1527,6 +1540,7 @@
    "benedictiō, benedictiōnis" "benediction, blessing"
    "benedictiōne" "benediction, blessing"
 
+   "benedīcēns" "blessing"
    "benedīcet" "you will bless"
    "benedīcite" "bless!"
    "benedīcitis" "you bless"
@@ -1803,7 +1817,8 @@
    "celeritātis" "swiftness"
    "celeritāte" "swiftness"
    "celeritās, celeritātis" "swiftness"
-   
+
+   "cella"  "small room, cell"
    "cellam" "small room, cell"
    "cellās" "small rooms, cells"
    "cella, cellae" "small room, cell"
@@ -1922,8 +1937,10 @@
    "clāritātis" "clarity, brightness"
    "clāritāte" "clarity, brightness"
    "clāritās, clāritātis" "clarity, brightness"
+   "clārō"  "clear, bright, famous"
    "clārum" "clear, bright, famous"
    "clārus" "clear, bright, famous"
+   "clārissima" "very clear, very bright, very famous"
    "clārissimō" "very clear, very bright, very famous"
    "clārus, clāra -um, clārior -or -us, clārissimus -a -um" "clear, bright, famous"
    "classe" "ship, fleet"
@@ -2567,6 +2584,7 @@
    "dēbellō, dēbellāre, dēbellāvī, dēbellātus" "to fight out"
    
    "dēbēmus" "we should, we aught"
+   "dēbent" "they should"
    "dēbeō" "I should"
    "dēbēs" "you should"
    "dēbet" "he should"
@@ -2829,6 +2847,7 @@
    
    "dīlēxī" "I loved"
    "dīlēxit" "he loved"
+   "dīligēbat" "he was loving"
    "dīligimus" "we love"
    "dīligis" "you love"
    "dīligit" "he loves"
@@ -3767,6 +3786,7 @@
    "gaudium, gaudiī" "joy, delight"
 
    "gaudēns" "rejoicing"
+   "gaudet" "he rejoices"
    "gaudeō, gaudēre, gavīsus sum" "to rejoice"
    
    "gemmārum" "of gems"
@@ -3818,6 +3838,9 @@
    "glorificāns" "glorifying"
    "glorificantēs" "glorifying"
    "glorificō, glorificāre, glorificāvī, glorificātus" "to glorify"
+
+   "glōriōsa" "glorious"
+   "glōriōsus, glōriōsa -um, glōriōsior -or -us, glōriōsissimus -a -um" "glorious"
    
    "gradior, gradi, gressus sum" "to walk, to step"
    "gradiēbantur" "they were walking"
