@@ -91,6 +91,8 @@
    "basipila" "baseball; singular feminine nominative from basipila, basipilae"
    "beccus" "An Irish prophet who died around AD 553 or 557."
    "Beccus" "An Irish prophet who died around AD 553 or 557."
+   "Beccī" "of Beccus, an Irish prophet who died around AD 553 or 557. (genitive case)"
+   "beccī" "of Beccus, an Irish prophet who died around AD 553 or 557. (genitive case)"
    "bene" "good; adverb of bonus -a -um"
    "boiōs" "the Boii, who live across the Rhine from the Helvetii"
    "bovēs" "cows; plural masc. or fem. nom. or acc. from bōs, bovis"
@@ -440,6 +442,7 @@
    "numquid" "is it possible?"
    "nunc" "now"
    "nūper" "recently"
+   "nūtrītōrem" "nurse; singular masculine accusative from nūtrītor, nūtrītōrēs"
    "ob" "for, because of, towards"
    "obviam" "in the path"
    "octāvīs" "octaves, 8th"
@@ -4231,6 +4234,7 @@
    "incurvātae" "being curved"
    
    "indicā" "show! indicate!"
+   "indicātam" "having been indicated, shown"
    "indicātum" "having been indicated, shown"
    "indicātus" "having been indicated, shown"
    "indicāre" "to indicate, to point out, to show"
@@ -5867,6 +5871,9 @@
    "partibus" "parts"
    "pars, partis" "part"
 
+   "parturīvērunt" "they gave birth"
+   "parturiō, parturīre, parturīvī, -" "to give birth, to be in labor"
+
    "parvam" "small"
    "parvum" "small"
    "parvus, parva, parvum" "small"
@@ -6549,7 +6556,13 @@
    "prōpellī" "to be driven, to be defeated"
    "prōpellere" "to drive, to defeat"
    "prōpellō, prōpellere, prōpulī, prōpulsus" "to drive, to defeat"
-   
+
+   "prophētātiō"    "prophecy"
+   "prophētātiōnis" "prophecy"
+   "prophētātiō, prophētātiōnis" "prophecy"
+
+   "prophēta"   "prophet"
+   "prophētā"   "prophet"
    "prophētia"  "prophet"
    "prophētiae" "prophet"
    "prophētia, prophētiae" "prophet"
@@ -7177,8 +7190,15 @@
    
    "salvatoris" "savior"
    "salvātor, salvātōris" "savior"
+
+   "sānctitās"   "sanctity"
+   "sanctitātis" "sanctity"
+   "sanctitāte" "sanctity"
+   "sānctitās, sanctitātis" "sanctity"
+   
    "sanguinem" "blood"
    "sanguis, sanguinis" "blood"
+   
    "sānōs" "healthy, sound"
    "sānus, sāna, sānum" "healthy, sound"
 
@@ -7279,6 +7299,10 @@
    "sedilia" "seats, benches, stools"
    "sēdit" "he sat"
 
+   "sēmen"   "seed, posterity, offspring"
+   "sēminis" "seed, posterity, offspring"
+   "sēmen, sēminis" "seed, posterity, offspring"
+
    "sēmentēs" "sowing, planting"
    "sēmentis, sēmentis" "sowing, planting"
 
@@ -7365,6 +7389,9 @@
    "servābat" "he was watchinig over, he was guarding, he was preserving"
    "servāre" "to watch over, to guard, to preserve, to save"
    "servō, servāre, servāvī, servātus" "to watch over, to guard, to preserve, to save"
+
+   "serviet" "you will serve"
+   "serviō, servīre, servīvī, servītus" "to serve"
 
    "servitūte" "servitude"
    "servitūs, servitūtis" "servitude"
@@ -8136,6 +8163,11 @@
 
    "uxōre" "wife"
    "uxor, uxōris" "wife"
+
+   "vacca" "cow"
+   "vaccae" "cows"
+   "vaccās" "cows"
+   "vacca, vaccae" "cow"
    
    "vacuam" "empty, vacant"
    "vacuus, vacua, vacuum" "empty, vacant"
@@ -8218,6 +8250,9 @@
    "verbīs" "words"
    "verbum" "word"
    "verbum, verbī" "word"
+
+   "vēridicus" "truthful"
+   "vēridicus, vēridica, vēridicum" "truthful"
 
    "veritus" "having been revered, feared"
    "vereor, verērī, veritus sum" "to revere, to fear"
@@ -8347,6 +8382,11 @@
    "vīlī" "cheap, worthless"
    "vīlis, vīlis, vīle" "cheap, worthless"
 
+   "vīlla"  "farm, villa"
+   "vīllae" "farms, villas"
+   "vīllam" "farm, villa"
+   "vīlla, vīllae" "farm, villa"
+
    "vincula" "chains"
    "vinculīs" "chains"
    "vinculum" "chain"
@@ -8393,6 +8433,12 @@
    
    "vitreum" "glass"
    "vitreum, vitreī" "glass"
+
+   "vitulus" "calf"
+   "vitulī"  "calf"
+   "vitulīs" "calves"
+   "vitulōs" "calves"
+   "vitulus, vitulī" "calf"
    
    "vīvēbam" "I was living"
    "vīvēbat" "he was living"
