@@ -3913,6 +3913,7 @@
    "habeō, habēre, habuī, habitus" "to have"
 
    "habitābam" "I was living"
+   "habitantem" "living, inhabiting"
    "habitantium" "inhabiting"
    "habitāre" "to inhabit"
    "habitābat" "he was living"
@@ -4521,6 +4522,8 @@
    "iocantem" "jesting"
    "iocārī" "to jest"
    "iocor, iocārī, iocātus" "to jest"
+
+   "iocundō" "pleasant, jocund"
    "iōcundum" "pleasant, jocund"
    "iōcundus" "pleasant, jocund"
    "iōcunditāte" "pleasant, jocund"
@@ -4657,6 +4660,10 @@
    "laetitiam" "joy, gladness, fruitfulness"
    "laetitia, laetitiae" "joy, gladness, fruitfulness"
    "laetitiae" "joy, gladness, fruitfulness"
+
+   "laetificat" "he delights"
+   "laetificant" "they delight"
+   "laetificō, laetificāre, laetificāvī, laetificātus" "to delight"
    
    "lampadēs" "lamps"
    "lampas, lampadis" "lamp"
@@ -4872,6 +4879,9 @@
    "longinquus" "long, prolonged"
    "longinquiōribus" "long, prolonged"
    "longinquus, longinqua -um, longinquior -or -us, longinquissimus -a -um" "long, prolonged"
+
+   "loquēla" "speech, utterance"
+   "loquēla, loquēlae" "speech, utterance"
 
    "loquēbātur" "he was talking"
    "loquendum" "talking"
@@ -5240,6 +5250,7 @@
    "monachī" "monk"
    "monachīs" "monks"
    "monachus" "monk"
+   "monachum" "monk"
    "monachōs" "monks"
    "monachōrum" "of monks"
    "monachus, monachī" "monk"
@@ -5580,10 +5591,12 @@
    
    "nūtrīmentō" "nourishment"
    "nūtrīmentum, nūtrīmentī" "nourishment"
-   
-   "nūtrītus" "having been nourished"
-   "nūtriō, nūtrīre, nūtrīvī, nūtrītus" "to nourish"
+
    "nūtrit" "it nourishes"
+   "nūtrītus" "having been nourished"
+   "nūtrīvit" "he nourished"
+   "nūtriō, nūtrīre, nūtrīvī, nūtrītus" "to nourish"
+
 
    "nucēs" "nuts"
    "nux, nucis" "nut"
@@ -5594,7 +5607,9 @@
    
    "obdormīvissent" "they (might) have had fallen asleep"
    "obdormiō, obdormīre, obdormīvī, obdormītus" "to fall asleep"
+   
    "obēdiāmus" "let us obey"
+   "obēdientem" "obeying"
    "obēdiō, obēdīre, obēdīvī, obēdītus" "to obey"
    
    "oblīviō, oblīviōnis" "forgetfulness"
@@ -5880,6 +5895,9 @@
    "parātōs" "having been prepared"
    "parō, parāre, parāvī, parātus" "to prepare"
    "parāvērunt" "they prepared"
+
+   "parentum" "parents"
+   "parēns, parentis" "parents"
 
    "parietēs" "walls"
    "pariēs, parietis" "wall"
@@ -6669,6 +6687,12 @@
    "puerī" "boy"
    "puer, puerī" "boy"
    "puerōrum" "of boys"
+
+   "puerīlī" "childish"
+   "puerīlis, puerīlis, puerīle" "childish"
+
+   "puerulus" "little boy"
+   "puerulus, puerulī" "little boy"
    
    "pugna" "fight"
    "pugnae" "fight"
