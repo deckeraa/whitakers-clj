@@ -924,6 +924,7 @@
    "āeris" "air"
 
    "aere" "copper"
+   "aes" "copper"
    "aes, aeris" "copper"
    
    "aestīvāle" "summer"
@@ -963,6 +964,7 @@
 
    "ager" "field"
    "agrīs" "fields"
+   "agrō" "field"
    "agrōs" "fields"
    "agrum" "field"
    "ager, agrī" "field"
@@ -1719,6 +1721,7 @@
    "cantus" "song"
    "cantus, cantūs" "song"
 
+   "capiēbant" "they were taking"
    "capiēmus" "we will take"
    "capiendōs" "seizing"
    "capit" "he takes"
@@ -1774,6 +1777,7 @@
    "carrus" "four-wheeled wagon"
    "carrus, carrī" "four-wheeled wagon"
 
+   "castram" "fort"
    "castra" "forts"
    "castrīs" "forts"
    "castrōrum" "of forts"
@@ -1864,6 +1868,7 @@
    "cessātiō, cessātiōnis" "rest, relaxation, respite"
    
    "cētera" "the other"
+   "cēterās" "the others"
    "cēterī" "the other"
    "cēterīs" "the others"
    "cēterum" "the other"
@@ -2009,10 +2014,12 @@
    "cōgnōscerent" "they (might) have recognized, learned"
    "cōgnōverat" "they had recognized, learned"
    "cōgnōvisset" "they (might) have had recognized, learned"
+   "cōgnōvit" "he learned"
    "cōgnōscere" "to recognize, to learn, to inquire, to know"
    "cōgnōscō, cōgnōscere, cōgnōvī, cōgnitum" "to recognize, to learn, to inquire, to know"
 
    "cohortēs" "cohorts (groups of 360 men)"
+   "cohortibus" "cohorts"
    "cohors, cohortis" "cohort, court, tenth of a legion (360 men)"
 
    "coiciēbant" "they were throwing together, guessing"
@@ -3200,6 +3207,7 @@
    "essedāriīs" "gladiators (fighting from chariots)"
    "essedārius, essedāriī" "gladiator (fighting from a chariot)"
 
+   "esseda" "two-wheeled chariots"
    "essedīs" "two-wheeled chariots"
    "essedum, essedī" "two-wheeled chariot"
    
@@ -4135,7 +4143,6 @@
    "imminent" "they threaten, they are imminent"
    "imminente" "imminently"
    "immineō, imminēre, -, -" "to threaten, to be imminent"
-
    
    "immolābat" "he was burning"
    "immolābant" "they were burning"
@@ -4538,6 +4545,7 @@
    "iērunt" "they went"
    "eāmus" "let us go"
    "eunt" "they go"
+   "it" "he goes"
    "īte" "go!"
    "īret" "he (might) have gone"
    "īre" "to go"
@@ -5667,6 +5675,11 @@
    "occīsum" "having been killed"
    "occīdō, occīdere, occīdī, occīsus" "to kill"
 
+   "occultāverant" "they had hidden"
+   "occultāvērunt" "they hide"
+   "occultāre" "to hide"
+   "occultō, occultāre, occultāvī, occultātus" "to hide"
+
    "occupāret" "he (might) have seized"
    "occupātō" "attack!"
    "occupātis" "having been seized"
@@ -6358,6 +6371,7 @@
    "possum" "I am able"
    "possum, posse, potuī, -" "to be able (irregular)"
    "possumus" "we are able to"
+   "possunt" "they can"
    "potuerit" "he will have been able to"
    "potuērunt" "they were able to"
    "potuimus" "we were able"
@@ -6553,11 +6567,11 @@
    "proeliantur" "they fight"
    "proelior, proeliārī, proeliātus" "to fight"
 
+   "proeliī" "of battle"
    "proeliīs" "battles, conflicts"
    "proeliō"  "battle, conflict"
    "proelium" "battle, conflict"
    "proelium, proeliī" "battle, conflict"
-
    "profectiōnem" "departure, source"
    "profectiō, profectiōnis" "departure, source"
    
@@ -6999,6 +7013,10 @@
    "repentīnae" "unexpected, sudden"
    "repentīnī" "unexpected, sudden"
    "repentīnus, repentīna, repentīnum" "unexpected, sudden"
+
+   "reparāvit" "he repaired"
+   "reparāre" "to repair"
+   "reparō, reparāre, reparāvī, reparātum" "to repair"
 
    "replētī" "having been filled/re-filled"
    "repleō, replēre, replēvī, replētus" "to fill again"
