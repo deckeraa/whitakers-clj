@@ -511,6 +511,7 @@
    "quā" "what; singular female ablative of qui"
    "quae" "who; plural female nom. or neuter nom. or acc. of quis"
    "quam" "how? how much?"
+   "quamquam" "though, on the other hand"
    "quanta" "how much?"
    "quārē" "by what mean?"
    "quārtum" "for the fourth time"
@@ -689,6 +690,7 @@
    "trahō, trahere, trāxī, tractum" "to draw, to drag, to haul"
    "trāxissent" "they (might) have had drawn"
    "trēverī" "Treveri, a tribe of Gallia Belgica (plural nominative)"
+   "trēverīs" "Treveris, members of a tribe of Gallia Belgica (plural accusative)"
    "tria" "three"
    "trīduum, trīduī" "three days"
    "trīduum" "three days"
@@ -6276,7 +6278,9 @@
    "pius, pia -um, -, piissimus -a -um" "upright, pious"
 
    "placēbat" "it was pleasing"
+   "placet" "it pleases"
    "placuit" "he pleased"
+   "placēre" "to please"
    "placeō, placēre, placuī, placitus" "to please"
    
    "placidō" "placid, gentle, quiet"
@@ -7135,7 +7139,8 @@
 
    "revolvō" "I turn over, I repeat"
    "revolvō, revolvere, revolvī, revolūtus" "to turn over, to repeat"
-   
+
+   "rēgēs" "kings"
    "rēgī" "king"
    "rēx" "king"
    "rēx, rēgis" "king"
@@ -8082,6 +8087,8 @@
    "trānsīvisset" "he (might) have had crossed"
    "transivit" "he crossed"
    "trānsīre" "to go over, to cross"
+   "trānsisse" "to have crossed"
+   "trānsivisse" "to have crossed"
    "trānsiverant" "they had gone over, they had crossed over"
    "trānsivērunt" "they went over, they crossed over"
    "trānseuntium" "crossing"
