@@ -108,6 +108,7 @@
    "cassium" "Lucius Cassius Longinus (c. 151 - 107 BC), a consul who was killed at the Battle of Burdigala"
    "Catamantaloedis" "Catamantaledes (one of the Sequani)"
    "Catuvolcō" "Catuvolcus, king of the Eburones with Ambiorix (ablative or dative case)"
+   "Catuvolcus" "Catuvolcus, king of the Eburones with Ambiorix (nominative case)"
    "celebrāte" "Celebrate!"
    "celeriter" "quickly"
    "cepsitāvit" "he stumbled; singular perfect from cespitō, cespitāre, cespitāvi, cespitas"
@@ -319,7 +320,8 @@
    "in" "into (with accusative), in (with ablative)"
    "inaequaliter" "unequally"
    "inde" "from there, since"
-   "indutiomarī" "Indūtiomārus, one of the chiefs of the Treviri"
+   "indūtiomarī" "Indūtiomārus, one of the chiefs of the Treviri"
+   "indūtiomārus" "Indūtiomārus, one of the chiefs of the Treviri"
    "inferōs" "Hades, plural masculine accusative from īnferus, īnfera, īnferum"
    "inlūxit" "he began to shine; from inlūcēscō, inlūcēscere, inlūxī, -"
    "innocenter" "innocently"
@@ -1728,6 +1730,7 @@
    "capite" "take!"
    "capere" "to seize, to take hold"
    "cēpērunt" "they took"
+   "cēpimus" "we took"
    "cēpit" "he took"
    "cēpissent" "they had taken hold"
    "capiō, capere, cēpī, captus" "to seize, to take hold"
@@ -1781,6 +1784,7 @@
    "castra" "forts"
    "castrīs" "forts"
    "castrōrum" "of forts"
+   "castrum" "fort"
    "castrum, castrī" "fort"
 
    "cāsum" "fall, downward movement"
@@ -2336,6 +2340,7 @@
    "cōnstitūta" "arrangements, agreements"
    "cōnstitūtum, cōnstitūtī" "arrangement, agreement"
 
+   "consuēscēbam" "I was familiarizing"
    "consuēverant" "they had familiarized"
    "consuēverat" "he had familiarized"
    "consuēverint" "they will have familiarized"
@@ -3124,7 +3129,8 @@
    "ēlēctīs" "having been chosen"
    "ēlēgit" "he chose"
    "ēligō, ēligere, ēlēgī, ēlēctus" "to choose"
-   
+
+   "ēmīsimus" "we sent out"
    "ēmīsisset" "he (might) have had sent out"
    "ēmīsit" "he sent"
    "ēmissīs" "having been sent out"
@@ -3199,7 +3205,8 @@
    "ēscam" "food, victuals, bait"
    "ēscās" "food, victuals, bait"
    "ēsca, ēscae" "food, victuals, bait"
-   
+
+   "erāmus" "we were"
    "es" "you are"
    "esset" "he (might) have been"
    "est" "he is"
@@ -3403,6 +3410,10 @@
    "facultās"  "means, ability"
    "facultāte" "means, ability"
    "facultās, facultātis" "means, ability"
+
+   "fallam" "I will deceive"
+   "fallere" "to deceive"
+   "fallō, fallere, fefellī, falsus" "to deceive"
    
    "familia" "family"
    "familia, familiās" "family"
@@ -3998,6 +4009,7 @@
    "hispāniam" "Hispania"
    "Hispānia, Hispāniae" "Hispania"
    "hispānia" "Hispania"
+   "hispānī" "Hispanic"
    "hispānīs" "Hispanics"
    "hispānia, hispāniae" "Hispania"
    
@@ -4809,6 +4821,7 @@
    "līberandī" "liberating"
    "līberātus" "having been liberated"
    "līberāvistī" "you liberated"
+   "līberāvit" "he liberated"
    "līberāvērunt" "they liberated"
    "līberō, līberāre, līberāvī, līberātus" "to liberate"
 
@@ -4897,6 +4910,7 @@
    "loquēbātur" "he was talking"
    "loquendum" "talking"
    "loquerentur" "they (might) have had said"
+   "loquī" "to speak, to say"
    "loquor, loquī, locūtus sum" "to speak, to say"
 
    "lūcidissimus" "very bright, very clear"
@@ -5334,6 +5348,7 @@
    "multa" "many"
    "multae" "many"
    "multam" "many"
+   "multēs" "many"
    "multum" "many"
    "multārum" "many"
    "multās" "many"
@@ -5767,6 +5782,9 @@
    "oppidum" "town"
    "oppidum, oppidī" "town"
 
+   "opportūnissimō" "very opportune, a suitable time"
+   "opportūnus, opportūna -um, opportūnior -or -us, opportūnissimus -a -um" "opportune, a suitable time"
+
    "oppugnātiō" "assault, attack"
    "oppugnātiōne" "assault, attack"
    "oppugnātiōnis" "assault, attack"
@@ -5787,6 +5805,7 @@
    "oppūgnābant" "they were attacking"
    "oppūgnandīs" "to be attacked"
    "oppūgnātum" "having been attacked"
+   "oppūgnāvī" "I attacked"
    "oppūgnāre" "to attack"
    "oppūgnō, oppūgnāre, oppūgnāvī, oppūgnātus" "to attack"
 
