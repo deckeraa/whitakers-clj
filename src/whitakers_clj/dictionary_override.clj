@@ -491,6 +491,7 @@
    "post" "behind, after, since"
    "posteā" "thereafter, later"
    "postquam" "since, since then, after"
+   "postrēmō" "finally"
    "pōtū" "drink; singular masculine ablative from pōtus, pōtūs"
    "pōtum" "drink; singular masculine accusative from pōtus, pōtūs"
    "prae" "before, in front, because of"
@@ -526,6 +527,7 @@
    "quī" "who; plural masculine nominative of quis"
    "quibus" "what; plural dative or ablative of qui"
    "quid" "who; singular neuter nom. or acc. of quis"
+   "quidem" "indeed, at last"
    "quīn" "even, in fact"
    "quīnquāgintā" "fifty"
    "quīntō" "for the fifth time"
@@ -5573,6 +5575,10 @@
 
    "negligentiam" "neglect, carelessness, coldness, disrespect"
    "negligentia, negligentiae" "neglect, carelessness, coldness, disrespect"
+
+   "neglegenda" "disregarding"
+   "neglegere" "to disregard"
+   "neglegō, neglegere, neglēxī, neglēctus" "to disregard"
    
    "negōtiātor" "merchant, trader"
    "negōtiātor, negōtiātōris" "merchant, trader"
@@ -5684,6 +5690,7 @@
    "nūllam" "no, none, not any"
    "nūllī" "no, none, not any"
    "nūllīs" "no, none, not any"
+   "nūllō" "no, none, not any"
    "nūllum" "no, none, not any"
    "nūllus" "no, none, not any"
    "nūllus, nūlla, nūllum (gen -ius)" "no, none, not any"
@@ -5747,6 +5754,9 @@
    "obsidum" "of hostages"
    "obses, obsidis" "hostage"
 
+   "obsidiōne" "seige"
+   "obsidiō, obsidiōnis" "seige"
+
    "obtestātus" "having been implored"
    "obtestor, obtestārī, obtestātus sum" "to implore"
 
@@ -5769,6 +5779,9 @@
    "occāsum" "setting, end"
    "occāsus" "setting, end"
    "occāsus, occāsūs" "setting, end"
+
+   "occāsiōnem" "occasion, opportunity"
+   "occāsiō, occāsiōnis" "occasion, opportunity"
    
    "occidentālis, occidentālis, occidentāle" "western"
    "occidentālem" "western"
@@ -5920,6 +5933,7 @@
    "ōrdinēs" "order"
    "ōrdinibus" "order"
    "ōrdinis" "order"
+   "ōrdinum" "order"
    "ōrdō" "order"
    "ōrdō, ōrdinis" "order"
    "ōrdine" "order"
@@ -6262,6 +6276,7 @@
    "permittō, permittere, permīsī, permissus" "to permit, to allow"
 
    "permōtī" "to have been stirred up"
+   "permovēbantur" "they were being stirred up"
    "permovēre" "to stir up, to agitate"
    "permoveō, permovēre, permōvī, permōtus" "to stir up, to agitate"
 
@@ -6283,6 +6298,8 @@
    "persevērō, persevērāre, persevērāvī, persevērātus" "to persevere"
    "persevērāssent" "they (might) have had persevered"
    "persevērāvissent" "they (might) have had persevered"
+   
+   "persuādēret" "he persuaded"
    "persuādet" "he persuades"
    "persuāsit" "he persuaded"
    "persuādent" "they persuade"
@@ -6322,6 +6339,7 @@
    "pervenit" "he arrives"
    "pervēnit" "he arrived"
    "perventum" "having been reached"
+   "perventūrōs" "arriving (in the future)"
    
    "pedibus" "feet"
    "pēs, pedis" "foot"
@@ -6438,6 +6456,7 @@
    "posuit" "he put"
    "pōnō, pōnere, posuī, positus" "to put, to place"
 
+   "populō" "peoples, populaces"
    "populōs" "peoples, populaces"
    "populum" "people, populace"
    "populus" "people, populace"
@@ -6683,8 +6702,12 @@
    "proeliō"  "battle, conflict"
    "proelium" "battle, conflict"
    "proelium, proeliī" "battle, conflict"
+   
    "profectiōnem" "departure, source"
    "profectiō, profectiōnis" "departure, source"
+
+   "prōfectum" "progress, success"
+   "prōfectus, prōfectūs" "progress, success"
    
    "proficīscere" "set out!"
    "profectae" "having set out"
@@ -6786,6 +6809,7 @@
    "prōvolūtīs" "fallen, rolled"
    "prōvolvō, prōvolvere, prōvolvī, prōvolūtus" "to roll forward, to bowl over"
 
+   "proximam" "next, nearest"
    "proximī"  "next, nearest"
    "proximum" "next, nearest"
    "proximus, proxima, proximum" "next, nearest"
