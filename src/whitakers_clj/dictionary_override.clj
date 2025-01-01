@@ -2696,7 +2696,7 @@
 
    "dēfectiōnis" "defection, revolt"
    "dēfectiō, dēfectiōnis" "defection, revolt"
-   
+
    "dēerit" "it will lack"
    "dēerant" "they lacked"
    "dēfuit" "he lacked"
@@ -2784,6 +2784,7 @@
    "deōs" "gods"
 
    "dēscendentēs" "descending"
+   "dēscendisse" "to have descended"
    "dēscendō, dēscendere, dēscendī, dēscēnsus" "to descend"
 
    "dēsīderiō" "longing, desire, wish"
@@ -2859,6 +2860,7 @@
    "dictīs" "things having been said"
    "dictō" "having been said"
    "dīcunt" "they say"
+   "dīcēbantur" "they were said"
    "dīcō, dīcere, dīxī, dictus" "to say"
 
    "dictiōnis" "saying, talk"
@@ -2942,6 +2944,7 @@
    "dīs, dītis (gen.), dītior -or -us, dītissimus -a -um" "rich"
 
    "discēdit" "he departs"
+   "discēdendum" "departing"
    "discessērunt" "they departed"
    "discēdere" "to depart"
    "discēdō, discēdere, discessī, discessus" "to depart"
@@ -2961,6 +2964,10 @@
 
    "dispersōs" "spread out"
    "dispersus, dispersa, dispersum" "spread out"
+
+   "dissentīrent" "they were disagreeing"
+   "dissentīre" "to disagree"
+   "dissentiō, dissentīre, dissēnsī, dissēnsus" "to disagree"
    
    "dīversae" "diverse"
    "dīversa" "diverse"
@@ -3007,6 +3014,7 @@
    "distribuō, distribuere, distribuī, distribūtus" "to distribute"
    "dedissent" "they (might) have had given"
    "dēlātīs" "having been transferred, having been brought down"
+   "dēferunt" "they transfer"
    "dēferret" "he (might) have been bringing"
    "dēfertur" "it is being transferred"
    "dēferō, dēferre, dētulī, dēlātus" "to bring down, to transfer"
@@ -3029,11 +3037,16 @@
    "dederat" "he had given"
    "dō, dare, dedī, datum" "to give (irregular)"
 
+   "docēbant" "they were teaching"
+   "docēre" "to teach"
+   "doceō, docēre, docuī, doctus" "to teach"
+
    "doctrīnae" "doctrine, teaching, instruction"
    "doctrīna, doctrīnae" "doctrine, teaching, instruction"
 
    "dolor" "pain, sorrow"
    "dolōre" "pain, sorrow"
+   "dolōrī" "to pain, sorrow"
    "dolor, dolōris" "pain, sorrow"
    
    "domestica" "domestic"
@@ -3104,6 +3117,7 @@
    "duplex, (gen.), duplicis" "double"
    "duplicem" "double"
    "dūrior" "harder"
+   "dūrius" "harder"
    "dūrus, dūra -um, dūrior -or -us, dūrissimus -a -um" "hard"
    "dūxērunt" "they were leading"
    "dūximus" "we lead"
@@ -3337,9 +3351,11 @@
    "exīstimāvit" "he estimated"
    "exīstimāre" "to estimate, to value"
    "exīstimō, exīstimāre, exīstimāvī, exīstimātus" "to estimate, to value"
-   
+
+   "exitum" "departure"
    "exitus" "departure"
    "exitus, exitūs" "departure"
+   
    "expavēscere" "to become frightened"
    "expavēscō, expavēscere, expāvī, -" "to become frightened"
    "expectābis" "you will await, you will expect"
@@ -3371,6 +3387,9 @@
    "exsequī" "to follow"
    "exsequor, exsequī, exsecūtus" "to follow"
 
+   "exsistit" "it exists, appears, becomes"
+   "exsisto, exsistere, exstiti, -" "to exist, appear, become"
+
    "exspectāvit" "he waited"
    "exspectāre" "to wait"
    "exspectō, exspectāre, exspectāvī, exspectātus" "to wait"
@@ -3385,7 +3404,8 @@
    "extendērunt" "they stretched out"
    "extendō, extendere, extendī, extentus" "to extend"
    "extendō, extendere, extendī, extensus" "to extend"
-   
+
+   "exstīncta" "having been quenched, destroyed"
    "extinguebantur" "they were being extinguished"
    "extinguō, extinguere, extīnxī, extīnctus" "to quench, to extinguish"
    
