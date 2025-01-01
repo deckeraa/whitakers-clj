@@ -7009,6 +7009,10 @@
    "redēmptōrem" "redeemer"
    "redēmptor, redēmptōris" "redeemer"
 
+   "redāctam" "having been driven back"
+   "redigere" "to drive back, to render"
+   "redigō, redigere, redēgī, redāctus" "to drive back, to render"
+
    "redīre" "to return, to go back"
    "redīrem" "I (might) have returned"
    "redeō, redīre, redivī(iī), reditus" "to return, to go back"
@@ -7145,6 +7149,7 @@
    "removēre" "to remove"
    "removeō, removēre, remōvī, remōtus" "to remove"
 
+   "repentīna" "unexpected, sudden"
    "repentīnae" "unexpected, sudden"
    "repentīnī" "unexpected, sudden"
    "repentīnus, repentīna, repentīnum" "unexpected, sudden"
@@ -7308,6 +7313,7 @@
    "Rōmānī" "Romans"
    "rōmānī" "Romans"
    "rōmānīs" "Romans"
+   "rōmānō" "Roman"
    "Rōmānōrum" "Romans"
    "rōmānōrum" "Romans"
    "rōmānōs" "Romans"
@@ -7382,6 +7388,7 @@
    "saltus, saltūs" "narrow pass, mountain defile, leap, jump"
    
    "salūs" "health, soundness"
+   "salūtem" "health, soundness"
    "salūtī" "health, soundness"
    "salūs, salūtis" "health, soundness"
    
@@ -7541,6 +7548,7 @@
    "sēnsus, sēnsūs" "perception, sense"
    
    "sententia" "opinion, judgement, thought"
+   "sententiam" "opinion, judgement, thought"
    "sententia, sententiae" "opinion, judgement, thought"
 
    "sentiant" "they (might) sense, feel"
@@ -7739,6 +7747,7 @@
 
    "spectat" "he observes, he considers"
    "spectant" "they observe, they consider"
+   "spectāre" "to observe, to consider"
    "spectō, spectāre, spectāvī, spectātus" "to observe, to consider"
 
    "speculātōria" "for spying or scouting"
@@ -7870,6 +7879,8 @@
    "subduxerunt" "they lead off"
    "subdūcere" "to lead off"
    "subdūcō, subdūcere, subdūxī, subductus" "to lead off"
+
+   "subedo, subesse, -, -" "to be under, to be nearby"
    
    "subiectam" "things subjected"
    "subiciō, subicere, subiēcī, subiectus" "to subject, to throw under"
@@ -7937,6 +7948,7 @@
    "summitāte" "summit, top"
 
    "summa" "highest, greatest"
+   "summīs" "highest, greatest"
    "summō" "highest, greatest"
    "summus, summa, summum" "highest, greatest"
    
@@ -8009,11 +8021,14 @@
    "sustinēbit" "he will sustain"
    "sustinēmus" "we sustain"
    "sustinēre" "to sustain"
+   "sustinērī" "to be sustained"
    "sustinendōs" "sustaining"
    "sustinēret" "he (might) have sustained"
    "sustinuisset" "he (might) have had sustained"
    "sustineō, sustinēre, sustinuī, sustentus" "to sustain"
    "sustinuit" "he sustained"
+   "sustinuerint" "they will have sustained"
+   
    "suus" "his"
    "suum" "his"
    
