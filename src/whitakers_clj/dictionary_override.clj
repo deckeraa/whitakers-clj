@@ -75,6 +75,7 @@
    "apud" "at, by, near"
    "Ariovistus" "A German king"
    "Ariovistī" "Ariovistus, a German King (genitive case)"
+   "ariovistī" "Ariovistus, a German King (genitive case)"
    "Arpinēius" "Arpinēius, a Roman family name"
    "asportāte" "take away! Plural imperative from asportō, asportāre, asportāvī, asportātus"
    "assāte" "Roast! Bake! Broil! Plural imperative from assō, assāre, assāvī, assātus"
@@ -1883,6 +1884,9 @@
 
    "cernitur" "it is discerned"
    "cernō, cernere, crēvī, crētus" "to sift, to see, to discern, to decide"
+
+   "certā" "certain"
+   "certus, certa, certum" "certain"
    
    "certāmine" "contest, struggle"
    "certāmen, certāminis" "contest, struggle"
@@ -1961,11 +1965,15 @@
 
    "cīvitās" "citizens, city-state"
    "cīvitāte" "citizens, city-state"
+   "cīvitātem" "civilization"
    "cīvitātēs" "citizens, city-states"
    "cīvitātī" "citizens, city-state"
    "cīvitātibus" "citizens, city-states"
    "cīvitātis" "citizens, city-state"
    "cīvitās, cīvitātis" "citizens, city-state"
+
+   "clāmitābat" "he was yelling"
+   "clāmitō, clāmitāre, clāmitāvī, clāmitātus" "to yell"
    
    "clāmābant" "they were shouting out"
    "clāmāre" "to shout"
@@ -2316,6 +2324,9 @@
    "cōnscrībere" "to write down"
    "cōnscrībō, cōnscrībere, cōnscrīpsī, cōnscrīptus" "to write down"
 
+   "cōnsentīret" "they were in agreement"
+   "cōnsentīre" "to be in agreement"
+
    "cōnsecūtīs" "having been followed"
    "cōnsequor, cōnsequī, cōnsecūtus sum" "to follow"
    
@@ -2386,12 +2397,16 @@
    "cōnsul, cōnsulis" "consul"
 
    "cōnsulat" "he (might) consult"
+   "cōnsulendī" "of consulting"
    "cōnsuluit" "he consulted"
    "cōnsulere" "to consult"
    "cōnsulō, cōnsulere, cōnsuluī, cōnsultus" "to consult"
    
    "cōnsummātīs" "being accomplished, being ended"
    "cōnsummō, cōnsummāre, cōnsummāvī, cōnsummātus" "to accomplish, to end, to consume"
+
+   "contemptiōne" "contempt, disdain"
+   "contemptiō, contemptiōnis" "contempt, disdain"
 
    "contendunt" "they contend, they hasten"
    "contendere" "to hasten, to contend"
@@ -2428,11 +2443,16 @@
    "contrōversiās" "disputes"
    "contrōversia, contrōversiae" "dispute"
 
+   "contumēliīs" "insults"
+   "contumēlia, contumēliae" "insults"
+
    "convēnerant" "they had come together"
    "conveniant" "they (might) meet together"
    "conveniēns" "meeting, coming together"
    "convenīre" "to meet, to come together"
    "convenīrent" "they (might) have met together"
+   "convēnissent" "they had come together"
+   "conventūra" "to come together (in the future)"
    "conveniō, convenīre, convēnī, conventus" "to meet, to come together"
    
    "conversātiōne" "intimacy, acquaintance, way of life, monastic life"
@@ -2459,6 +2479,7 @@
    "cophinus, cophinī" "basket"
 
    "cōpia" "force"
+   "cōpiās" "forces"
    "cōpiīs" "forces"
    "cōpia, cōpiae" "forces"
 
