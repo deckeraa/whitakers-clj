@@ -74,6 +74,7 @@
    "April" "The month of April"
    "apud" "at, by, near"
    "Ariovistus" "A German king"
+   "Ariovistī" "Ariovistus, a German King (genitive case)"
    "Arpinēius" "Arpinēius, a Roman family name"
    "asportāte" "take away! Plural imperative from asportō, asportāre, asportāvī, asportātus"
    "assāte" "Roast! Bake! Broil! Plural imperative from assō, assāre, assāvī, assātus"
@@ -851,6 +852,10 @@
    
    "aditus" "approach, entrance"
    "aditus, aditūs" "approach, entrance"
+
+   "adiūnctīs" "having been joined"
+   "adiungere" "to join"
+   "adiungō, adiungere, adiūnxī, adiūnctus" "to join"
    
    "adiūrō" "I adjure, I swear, I charge"
    "adiūrō, adiūrāre, adiūrāvī, adiūrātus" "to adjure, to swear, to charge"
@@ -1408,6 +1413,8 @@
    "attingit" "it touches, it borders"
    "attingō, attingere, attigī, attāctus" "to touch, to border on, to reach"
 
+   "auctōre"  "authority"
+   "auctōrem" "authority"
    "auctōribus" "authorities"
    "auctor, auctōris" "authority"
    
@@ -1416,6 +1423,10 @@
 
    "auctibus" "growth, increase"
    "auctus, auctūs" "growth, increase"
+
+   "ausam" "having been dared"
+   "audēre" "to dare"
+   "audeō, audēre, ausus sum" "to dare"
 
    "audiēns" "hearing"
    "audītis" "you hear"
@@ -1625,6 +1636,7 @@
    "Brendānō" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
 
+   "brevem" "short"
    "brevī" "short"
    "brevis, breve, brevior -or -us, brevissimus -a -um" "short"
 
@@ -1673,22 +1685,31 @@
    "Caesaris" "Caesar"
    "caesaris" "Caesar"
    "Caesar, Caesaris" "Caesar"
+
+   "calamitātis" "loss, damage, harm"
+   "calamitās, calamitātis" "loss, damage, harm"
    
    "calidus" "hot, warm"
    "calidus, calida -um, calidior -or -us, calidissimus -a -um" "hot, warm"
+   
    "calicem" "cup, chalice"
    "calicēs" "cups, chalices"
    "calix, calicis" "cup, chalice"
+   
    "cālīginem" "fog, mist"
    "cālīginis" "fog, mist"
    "cālīgō" "fog, mist"
    "cālīgō, cālīginis" "fog, mist"
+   
    "calōrem" "warmth, heat"
    "calor, calōris" "warmth, heat"
+   
    "camerārius" "chamberlain"
    "camerārius, camerāriī" "chamberlain"
+   
    "campānae" "bells"
    "campāna, campānae" "bell"
+   
    "candēla" "candle"
    "candēlās" "candles"
    "candēla, candēlae" "candle"
@@ -1731,6 +1752,7 @@
    "capit" "he takes"
    "capite" "take!"
    "capere" "to seize, to take hold"
+   "captūrōs" "having been taken"
    "cēpērunt" "they took"
    "cēpimus" "we took"
    "cēpit" "he took"
@@ -1855,6 +1877,9 @@
    "cēnō, cēnāre, cēnāvī, cēnātus" "to dine"
    
    "centum" "hundred"
+
+   "centuriōnēs" "centurions"
+   "centuriō, centuriōnis" "centurion"
 
    "cernitur" "it is discerned"
    "cernō, cernere, crēvī, crētus" "to sift, to see, to discern, to decide"
