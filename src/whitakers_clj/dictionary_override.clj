@@ -325,6 +325,7 @@
    "indūtiomarī" "Indūtiomārus, one of the chiefs of the Treviri"
    "indūtiomārus" "Indūtiomārus, one of the chiefs of the Treviri"
    "inferōs" "Hades, plural masculine accusative from īnferus, īnfera, īnferum"
+   "iniussū" "without an order (ablative)"
    "inlūxit" "he began to shine; from inlūcēscō, inlūcēscere, inlūxī, -"
    "innocenter" "innocently"
    "inter" "between, among, during"
@@ -358,6 +359,7 @@
    "istīs" "those; plural dative or ablative from iste, ista, istud"
    "Israel" "Israel"
    "ita" "yes"
+   "ītaliam" "Italy (accusative case)"
    "itaque" "so then, therefore"
    "item" "just like"
    "iterum" "again"
@@ -4192,9 +4194,14 @@
    "igneī" "fiery"
    "igneus" "fiery"
    "igneus, ignea, igneum" "fiery"
+
+   "īgnōbilem" "unknown"
+   "īgnōbilis, īgnōbilis, īgnōbile" "unknown"
+   
    "īgnōrābant" "they were ignoring"
    "īgnōrāmus" "we ignore, we do not know"
    "īgnōrō, īgnōrāre, īgnōrāvī, īgnōrātus" "to ignore"
+   
    "īgnōsce" "forgive!"
    "īgnōscere" "to forgive"
    "īgnōscerētur" "he (might) have been forgiven"
@@ -4421,6 +4428,7 @@
    "īnferendī" "having been imported"
    "īnferre" "to carry, import"
    "intulissent" "they (might) have carried, imported"
+   "illātīs" "having been brought in"
    "īnferō, īnferre, intulī, illātus" "to carry, import"
    
    "īnfīnīta" "endless, infinite"
@@ -4544,6 +4552,7 @@
    "interfēcērunt" "they killed"
    "interfectum" "having been killed"
    "interfēcissent" "they (might) have had killed"
+   "interficiendī" "killing"
    "interficere" "to kill"
    "interficiō, interficere, interfēcī, interfectus" "to kill"
    
@@ -4884,6 +4893,7 @@
    
    "levis, levis, leve" "light"
    "levissimam" "very light"
+   "levius" "lighter"
 
    "lēge" "law"
    "lēgēs" "laws"
@@ -4975,6 +4985,7 @@
    "longissime" "very long"
    "longus, longa -um, longior -or -us, longissimus -a -um" "long, far"
 
+   "longinquā" "long, prolonged"
    "longinquus" "long, prolonged"
    "longinquiōribus" "long, prolonged"
    "longinquus, longinqua -um, longinquior -or -us, longinquissimus -a -um" "long, prolonged"
@@ -5029,6 +5040,7 @@
    "māgna" "large"
    "māgnae" "large"
    "māgnam" "large"
+   "māgnās" "large"
    "māgnī" "large"
    "māgnō" "large"
    "māgnum" "large"
@@ -5239,6 +5251,9 @@
    "mīliāria" "milestones"
    "mīliāriī" "milestone"
    "mīliārium, mīliāriī" "milestone"
+
+   "mīlitāris" "military"
+   "mīlitāris, mīlitāris, mīlitāre" "military"
    
    "mīles" "soldier"
    "mīlitēs" "soldiers"
