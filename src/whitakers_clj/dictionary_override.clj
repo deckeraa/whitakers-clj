@@ -3490,7 +3490,8 @@
 
    "familiāris" "servant, familiar friend"
    "familiāris, familiāris" "servant, familiar friend"
-   
+
+   "famēs" "hunger"
    "famēs, famis" "hunger"
    "famē" "hunger"
    
@@ -3725,6 +3726,7 @@
    "fortēs" "strong"
    "fortiōrēs" "stronger"
    "fortis" "strong"
+   "fortissimē" "very strong"
    "fortis, forte, fortior -or -us, fortissimus -a -um" "strong"
 
    "fortissimī" "very strong"
@@ -3799,6 +3801,7 @@
    "frūmentātum" "having gotten grain"
    "frūmentor, frūmentārī, frūmentātus" "to get grain"
 
+   "frūmentāriā" "concerning grain"
    "frūmentāriae" "rich in grain"
    "frūmentārius, frūmentāria, frūmentārium" "rich in grain"
    
@@ -4122,6 +4125,7 @@
    "hospitium" "hospitality"
    "hospitium, hospitiī" "hospitality"
 
+   "hoste" "enemy"
    "hostēs" "enemies"
    "hostibus" "enemies"
    "hostem" "enemy"
@@ -4143,6 +4147,9 @@
    "humiliō, humiliāre, humiliāvī, humiliātus" "to humble, to abase, to humililate"
    "humilitās, humilitātis" "humility, insignificance, commonplaceness"
    "humilitāte" "humility, insignificance, commonplaceness"
+
+   "humilem" "humble, small"
+   "humilis, humile, humilior -or -us, humillimus -a -um" "humble, small"
    
    "hymnīs" "hymns"
    "hymnō" "hymn"
