@@ -681,6 +681,7 @@
    "tālī" "such"
    "tam" "as much, as much as"
    "tamen" "however"
+   "temere" "without design, thoughtlessly"
    "tantae" "of such"
    "tē" "to you, accusative from tu"
    "tēcum" "with you (tē + cum)"
@@ -7786,6 +7787,9 @@
    "splendor" "splendor, brightness"
    "splendōre" "splendor, brightness"
    "splendor, splendōris" "splendor, brightness"
+
+   "sponte" "free will, impulse"
+   "spōns, spontis" "free will, impulse"
    
    "spontāneus, spontānea, spontāneum" "spontaneous"
    "sportam" "basket"
@@ -7880,6 +7884,7 @@
    "subdūcere" "to lead off"
    "subdūcō, subdūcere, subdūxī, subductus" "to lead off"
 
+   "subesse" "to be under, to be nearby"
    "subedo, subesse, -, -" "to be under, to be nearby"
    
    "subiectam" "things subjected"
@@ -8143,6 +8148,9 @@
    
    "tenuēs" "thin"
    "tenuis, tenue, tenuior -or -us, tenuissimus -a -um" "thin"
+
+   "testimōniō" "witness, evidence"
+   "testimōnium, testimōniī" "witness, evidence"
    
    "thronum" "throne"
    "thronus, thronī" "throne"
@@ -8154,6 +8162,7 @@
    "timētis" "you fear"
    "timuērunt" "they feared"
    "timuistis" "you feared"
+   "timenda" "to be feared"
    "timēre" "to fear"
    "timeō, timēre, timuī, -" "to fear"
    
@@ -8244,10 +8253,15 @@
    "tertiō" "third"
    "trēs -es -ia, tertius -a -um, terni -ae -a, ter" "third"
    "tribus" "three"
+   
    "tribuam" "I will assign"
    "tribuent" "they will assign"
    "tribuere" "to divide, to assign, to attribute"
    "tribuō, tribuere, tribuī, tribūtus" "to divide, to assign, to attribute"
+
+   "tribūnī" "tribunes"
+   "tribūnus, tribūnī" "tribunes"
+   
    "triduānās" "three days"
    "triduānum" "three days"
    "triduānō" "three days"
@@ -8291,12 +8305,15 @@
    "turmam" "troop, group, crowd"
    "turmās" "troop, group, crowd"
    "turma, turmae" "troop, group, crowd"
+   
+   "turpius" "uglier"
    "turpissima" "ugly, nasty, repulsive, shameful"
    "turpis, turpe, turpior -or -us, turpissimus -a -um" "ugly, nasty, repulsive, shameful"
    
    "turris" "tower"
    "turris, turris" "tower"
 
+   "tūtam" "safety"
    "tūtum" "safety"
    "tūtum, tūtī" "safety"
    
@@ -8366,6 +8383,8 @@
    "ūsus, ūsūs" "use, employment, skill"
    
    "utra" "either"
+   "utram" "either"
+   
    "utrēs" "bag/bottle made of skin/hide"
    "uter, utris" "bag/bottle made of skin/hide"
 
@@ -8554,8 +8573,11 @@
    "victimās" "sacrificial victims"
    "victimīs" "sacrificial victim"
    "victima, victimae" "sacrificial victim"
+   
    "victōriam" "victory"
+   "victōriās" "victory"
    "victōria, victōriae" "victory"
+   
    "victus" "victuals, nourishment, necessaries of life"
    "victūs" "victuals, nourishment, necessaries of life"
    "victus, victūs" "victuals, nourishment, necessaries of life"
@@ -8735,6 +8757,10 @@
    "vōs" "you"
    "vōtum, vōtī" "vow"
    "vōtum" "vow"
+   
+   "vulneribus" "wounds"
+   "vulnus, vulneris" "wound"
+   
    "vultū" "face, expression, appearance"
    "vultum" "face, expression, appearance"
    "vultus, vultūs" "face, expression, appearance"
