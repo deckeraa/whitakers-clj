@@ -125,6 +125,8 @@
    "citō" "quickly"
    "clam" "secretly, stealthily, without the knowledge of"
    "Commius" "Commius, a Roman ambassador"
+   "Cosdras" "Codrus, the last King of Athens (r. ca 1089-1068 BC)"
+   "Cosdrī" "of Codrus, the last King of Athens (r. ca 1089-1068 BC)"
    "coepērunt" "they started; from coepī, coepisse, coepī, coeptum"
    "commendātīs" "you commend; 2nd person plural present from commendāre"
    "commodē" "suitably"
@@ -162,6 +164,7 @@
    "dīligenter" "diligently"
    "diūtius" "for a longer time"
    "dōnec" "while, as long as, until"
+   "Dorensēs" "The Dorians, a Greek ethnic group invading Athens"
    "dum" "while, as long as, until"
    "dumnorix" "Dumnorix, an Aeduan, the brother of Divitiacus"
    "dumtaxat" "only"
@@ -859,6 +862,9 @@
    "aditus" "approach, entrance"
    "aditus, aditūs" "approach, entrance"
 
+   "adiūdicātum" "having been judged"
+   "adiūdicō, adiūdicāre, adiūdicāvī, adiūdicātus" "to judge"
+
    "adiūnctīs" "having been joined"
    "adiungere" "to join"
    "adiungō, adiungere, adiūnxī, adiūnctus" "to join"
@@ -974,6 +980,7 @@
    "agite" "act! conduct (yourself)!"
    "agitō, agitāre, agitāvī, agitātus" "to act, to put in motion"
    "āgnita" "having been recognized, having been acknowledged"
+   "agnōscerētur" "it was acknowledged"
    "āgnōscō, āgnōscere, āgnōvī, āgnitus" "to recognize, to realize, to acknowledge"
    "āgnōvit" "he recognized, he realized"
 
@@ -1446,6 +1453,7 @@
    "audīvit" "he heard"
    "audiō, audīre, audīvī, audītum" "to hear"
 
+   "audītō" "having been heard"
    "audītus" "listening, hearing"
    "audītus, audītūs" "listening, hearing"
    
@@ -1551,6 +1559,7 @@
    "bellum" "battle, war"
    "bellī" "battle, war"
    "bellīs" "battles, wars"
+   "bellō" "battle, war"
    "bellum, bellī" "battle, war"
 
    "bellandī" "war-fighting"
@@ -1810,6 +1819,9 @@
    "carrus" "four-wheeled wagon"
    "carrus, carrī" "four-wheeled wagon"
 
+   "cārissimī" "beloved"
+   "cārus, cāra -um, cārior -or -us, cārissimus -a -um" "beloved, dear"
+
    "castram" "fort"
    "castra" "forts"
    "castrīs" "forts"
@@ -2057,7 +2069,8 @@
    "cōgnōsceret" "he (might) have recognized, learned"
    "cōgnōscerent" "they (might) have recognized, learned"
    "cōgnōverat" "they had recognized, learned"
-   "cōgnōvisset" "they (might) have had recognized, learned"
+   "cōgnōvisset" "he (might) have had recognized, learned"
+   "cōgnōvissent" "they (might) have had recognized, learned"
    "cōgnōvit" "he learned"
    "cōgnōscere" "to recognize, to learn, to inquire, to know"
    "cōgnōscō, cōgnōscere, cōgnōvī, cōgnitum" "to recognize, to learn, to inquire, to know"
@@ -2295,6 +2308,11 @@
    "cōnfugit" "he flees"
    "cōnfūgit" "he fled"
    "cōnfugiō, cōnfugere, cōnfūgī, cōnfugitūrus" "to flee"
+
+   "congregāvit" "he gathered"
+   "congregāre" "to congregate, gather"
+   "congregō, congregāre, congregāvī, congregātus" "to congregate, gather"
+   
    "congregātiōne" "congregation"
    "congregātiō, congregātiōnis" "congregation"
 
@@ -2406,6 +2424,9 @@
    "cōnsuluit" "he consulted"
    "cōnsulere" "to consult"
    "cōnsulō, cōnsulere, cōnsuluī, cōnsultus" "to consult"
+
+   "cōnsultō" "response, plan"
+   "cōnsultum, cōnsultī" "response, plan"
    
    "cōnsummātīs" "being accomplished, being ended"
    "cōnsummō, cōnsummāre, cōnsummāvī, cōnsummātus" "to accomplish, to end, to consume"
@@ -2566,14 +2587,22 @@
    "cruciō, cruciāre, cruciāvī, cruciātus" "to torment, to crucify"
    "crūdās" "raw"
    "crūdus, crūda, crūdum" "raw"
+
+   "crucem" "cross"
    "crux" "cross"
    "crux, crucis" "cross"
    "crucibus" "crosses"
+
+   "crucīfīxissent" "having had crucified"
+   "crucīfīgō, crucīfīgere, crucīfīxī, crucīfīxus" "to crucify"
+   
    "crystallī" "crystal"
    "crystallō" "crystal"
    "crystallus, crystallī" "crystals"
+   
    "cubitīs" "cubits"
    "cubitus, cubitī" "cubit"
+   
    "cūdēs" "you will pound"
    "cūdō, cūdere, cūdī, cūsus" "to pound"
    
@@ -4759,9 +4788,11 @@
    "lacus" "lake"
    "lacū" "lake"
    "lacus, lacūs" "lake"
-   
+
+   "laederet" "he struck, wounded"
    "laeseris" "you will strike"
    "laedō, laedere, laesī, laesus" "to strike, to wound"
+   
    "laetī" "happy"
    "laetus" "happy"
    "laetus, laeta -um, laetior -or -us, laetissimus -a -um" "happy"
@@ -7599,6 +7630,9 @@
    "sermōne" "conversation, speech"
    "sermō, sermōnis" "conversation, speech"
    "sermōnibus" "conversation, speech"
+
+   "sērō" "late, too late"
+   "sērus, sēra -um, sērior -or -us, sērissimus -a -um" "late"
 
    "servābat" "he was watchinig over, he was guarding, he was preserving"
    "servāre" "to watch over, to guard, to preserve, to save"
