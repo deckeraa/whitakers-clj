@@ -776,6 +776,7 @@
 
 (def dictionary-map
   {"abbās" "abbot"
+   "abbātibus" "abbots"
    "abbātis" "abbot"
    "abbās, abbātis" "abbot"
    "abbātem" "abbot"
@@ -784,14 +785,23 @@
    "abest" "he is absent"
    "absunt" "they are absent"
    "absum, abesse, āfuī, abfutūrus" "to be absent"
+
+   "abneget" "he denies"
+   "abnegō, abnegāre, abnegāvī, abnegātus" "to deny, to refuse"
    
    "abscondō, abscondere, abscondī, absconditus" "to hide, to conceal"
    "absconditōrum" "of things hidden"
    "absentia" "absence"
    "absentia, absentiae" "absence"
+   
    "abstinentia" "abstinence, self-restraint"
    "abstinentiae" "abstinence, self-restraint"
    "abstinentia, abstinentiae" "abstinence, self-restraint"
+
+   "abundantia"  "abundance, plentifulness"
+   "abundantiam" "abundance, plentifulness"
+   "abundantia, abundantiae" "abundance, plentifulness"
+   
    "abyssī" "abyss"
    "abyssus, abyssī" "abyss"
 
@@ -809,6 +819,7 @@
    "acceptō" "having been accepted"
    "acceptus" "having been accepted"
    "accipere" "to take, to grasp, to receive, to accept"
+   "acciperet" "he accepted, received"
    "accipiamus" "let us accept"
    "accipiēbant" "they were receiving, they were accepting"
    "accipientēs" "accepting"
@@ -969,6 +980,9 @@
    
    "Aethiopum" "Ethiopian, black man"
    "Aethiops, Aethiopis" "Ethiopian"
+
+   "afflictiō, afflictiōnis" "affliction, pain"
+   "afflictiōne" "affliction, pain"
 
    "aggregātō" "group together!"
    "aggregō, aggregāre, aggregāvī, aggregātus" "to group, to flock together"
@@ -1458,6 +1472,7 @@
    "audītus, audītūs" "listening, hearing"
    
    "abstulisset" "he (might) have carried away"
+   "abstulērunt" "they carried away"
    "auferō, auferre, abstulī, ablātus" "to carry away, to remove"
 
    "aula" "court"
