@@ -651,6 +651,7 @@
    "siquidem" "however, accordingly, since, if only. In Medieval Latin, synonym of autem."
    "sīve" "or, what if"
    "sōlum" "only, just, barely, merely"
+   "speciāliter" "specifically, individually; adverb from speciālis, speciāle"
    "spontāneē" "spontaneously"
    "statim" "immediately"
    "strictum" "narrow, strict, tight"
@@ -665,6 +666,7 @@
    "subtus" "under, below"
    "subeunda" "undergoing; gerundive from subīre."
    "subeundā" "undergoing; gerundive from subīre."
+   "subtīliter" "finely, precisely, subtly; adverb from subtīlis, subtīle"
    "sufficere" "to be sufficient"
    "sufficiō, sufficere, suffēcī, suffectum" "to be sufficient"
    "sufficienter" "sufficiently"
@@ -7617,6 +7619,7 @@
    
    "sēdēs" "seat"
    "sēdibus" "seats"
+   "sēdis" "seat"
    "sēdēs, sēdis" "seat"
    
    "sedilibus" "seats, benches, stools"
@@ -7678,16 +7681,21 @@
    "septentriōnālem" "northern"
    "septentriōnālī" "northern"
    "septentriōnālis, septentriōnālis, septentriōnāle" "northern"
-   
+
+   "sepulchrī" "grave"
    "sepulchrum" "grave"
    "sepulchrum, sepulchrī" "grave"
+   
    "sepultūra" "burial"
    "sepultūrae" "burial"
    "sepultūra, sepultūrae" "burial"
+   
    "sequāx" "followers"
    "sequācis" "followers"
    "sequācibus" "followers"
    "sequāx, sequācis" "followers"
+
+   "sequātur" "he follows"
    "sequenti" "following"
    "sequēbātur" "he was following"
    "sequiminī" "you follow"
@@ -7707,6 +7715,9 @@
    "serēnus" "serene"
    "serēnum" "serene"
    "serēnus, serēna, serēnum" "serene"
+
+   "sermōcinārī" "to converse, discuss"
+   "sermōcinor, sermōcinārī, sermōcinātum" "to converse, discuss"
 
    "sermōne" "conversation, speech"
    "sermō, sermōnis" "conversation, speech"
@@ -7970,6 +7981,7 @@
    "studiō" "studies, fondness, desire"
    "studium, studiī" "study, fondness, desire"
 
+   "studiōse"  "eager, studious"
    "studiōsus" "eager, studious"
    "studiōsus, studiōsa -um, studiōsior -or -us, studiōsissimus -a -um" "eager, studious"
    
@@ -8030,7 +8042,7 @@
    "substantia" "substance"
    "substantiā" "substance"
    "substantia, substantiae" "substance"
-   
+
    "subtrahit" "he carries off"
    "subtrahō, subtrahere, subtrāxī, subtractus" "to carry off"
    
