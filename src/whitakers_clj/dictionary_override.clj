@@ -487,6 +487,7 @@
    "per" "through"
    "perfīnītis" "You finished; 2nd person plural present from perfīnīre"
    "perfīnīta" "perfīnīta + est: it has been finished"
+   "pigritārētur" "he tarried, was slothful; 3rd person singular subjunctive imperfect from pigritor"
    "Pīlātō" "Ablative of Pontius Pilate, the Roman official involved with the crucifixion of Christ."
    "pīlātō" "Ablative of Pontius Pilate, the Roman official involved with the crucifixion of Christ."
    "pīsōne" "Lucius Piso, consul in 58 BC"
@@ -6461,7 +6462,7 @@
 
    "pietāte" "dutiful conduct, pietry"
    "pietās, pietātis" "dutiful conduct, pietry"
-   
+
    "pilae" "ball"
    "pila, pilae" "ball"
    "pīlō" "hair"
@@ -6664,6 +6665,10 @@
    "praedestinatiō, praedestinatiōnis" "predestination"
    "praedēstināvit" "he predestined"
    "praedēstinō, praedēstināre, praedēstināvī, praedēstinātus" "to predestine"
+
+   "praedicāre" "to preach"
+   "praedicō, praedicāre, praedicāvī, praedicātus" "to preach"
+   
    "praedicta" "the aforesaid"
    "praedictae" "the aforesaid"
    "praedictam" "the aforesaid"
@@ -6732,6 +6737,9 @@
    "premī" "to be pressed, to be overwhelmed"
    "premit" "he presses, he overwhelms"
    "premō, premere, pressī, pressus" "to press, to overwhelm"
+
+   "presbyterīs" "elders, presbyters"
+   "presbyter, presbyterī" "elder, presbyter"
    
    "pretiō" "price"
    "pretium, pretiī" "price"
@@ -6976,6 +6984,10 @@
    
    "pūrificātiōne" "purification"
    "pūrificātiō, pūrificātiōnis" "purification"
+
+   "pūrō" "clean, pure"
+   "pūrus, pūra -um, pūrior -or -us, pūrissimus -a -um" "clean, pure"
+   
    "purpūreus, purpūrea, purpūreum" "purple"
    "purpūreīs" "purple"
 
@@ -7407,6 +7419,7 @@
    "rogus" "funeral pyre, grave"
    "rogus, rogī" "funeral pyre, grave"
 
+   "rōmānae" "Roman"
    "Rōmānī" "Romans"
    "rōmānī" "Romans"
    "rōmānīs" "Romans"
@@ -7496,6 +7509,9 @@
    "salūtātis" "you salute, you greet"
    "salūtāvit" "he saluted, he greeted"
    "salūtō, salūtāre, salūtāvī, salūtātus" "to salute, to greet"
+
+   "salvam" "healthy, safe"
+   "salvus, salva, salvum" "healthy, safe"
    
    "salvatoris" "savior"
    "salvātor, salvātōris" "savior"
