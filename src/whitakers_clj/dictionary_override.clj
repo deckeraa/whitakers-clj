@@ -1261,6 +1261,9 @@
    "apostolōrum" "of apostles"
    "apostolōs" "apostle"
    "apostolus, apostolī" "apostle"
+
+   "apostolicus" "the Pope (medieval usage), bishop, apostle"
+   "apostolicus, apostolicī" "the Pope (medieval usage), bishop, apostle"
    
    "appāruisset" "he (might) have had appeared"
    "appārēbat" "he was appearing"
@@ -1336,6 +1339,10 @@
    "arcessere" "to summon, to fetch"
    "arcessō, arcessere, arcessīvī, arcessītus" "to summon, to fetch"
 
+   "archiepiscopus" "archbishop"
+   "archiepiscopīs" "archbishops"
+   "archiepiscopus, archiepiscopī" "archbishop"
+
    "ārdēns" "burning"
    "ārdent" "they burn"
    "ardentem" "burning"
@@ -1383,6 +1390,7 @@
    "arma" "weapons"
    
    "arripuit" "he took hold of, he snatched"
+   "arripere" "to take hold of, to snatch, to arrest"
    "arripiō, arripere, arripuī, arreptus" "to take hold of, to snatch, to arrest"
 
    "artis" "of art"
@@ -1530,6 +1538,9 @@
    "avis, avis" "bird"
    "avium" "of birds"
    "avibus" "birds"
+
+   "bāiulāre" "to carry, to bear"
+   "bāiulō, bāiulāre, bāiulāvī, bāiulātus" "to carry, to bear"
    
    "balneum" "bath"
    "balneī" "bath"
@@ -1882,6 +1893,9 @@
    "celebrāvisset" "he (might) have had celebrated"
    "celebrāvissent" "they (might) have had celebrated"
    "celebrō, celebrāre, celebrāvī, celebrātus" "to celebrate"
+
+   "celerius" "quicker"
+   "celer, celeris -e, celerior -or -us, celerrimus -a -um" "quick"
 
    "celeritās" "swiftness"
    "celeritātis" "swiftness"
@@ -2751,6 +2765,7 @@
    "dēerit" "it will lack"
    "dēerant" "they lacked"
    "dēfuit" "he lacked"
+   "dēesset" "he lacked"
    "dēesse" "to lack"
    "dēsum, dēesse, dēfuī, dēfutūrus" "to lack"
    
@@ -2800,6 +2815,7 @@
    "dēligere" "to choose, to select"
    "dēligō, dēligere, dēlēgī, dēlēctus" "to choose, to select"
 
+   "dēmōnstrat" "he demonstrates"
    "dēmōnstrātum" "having been demonstrated"
    "dēmōnstrāveram" "I had demonstrated"
    "dēmōnstrāvērunt" "they had demonstrated"
@@ -2837,6 +2853,10 @@
    "dēscendentēs" "descending"
    "dēscendisse" "to have descended"
    "dēscendō, dēscendere, dēscendī, dēscēnsus" "to descend"
+
+   "dēsīderāret" "he desired"
+   "dēsīderāre" "to desire"
+   "dēsīderō, dēsīderāre, dēsīderāvī, dēsīderātus" "to desire"
 
    "dēsīderiō" "longing, desire, wish"
    "dēsīderium" "longing, desire, wish"
@@ -3081,6 +3101,7 @@
    "dabō" "I will give"
    "dedī" "I gave"
    "dare" "to give"
+   "daret" "he gave"
    "datūrus" "will be given"
    "dabat" "he was giving"
    "dabit" "he will give"
@@ -3143,9 +3164,13 @@
    "dorsum" "back"
    "dorsō" "back"
    "dorsum, dorsī" "back"
+   
    "dubium" "doubt"
    "dubiō" "doubt"
    "dubium, dubiī" "doubt"
+
+   "dubitāret" "he hesitated, doubted"
+   "dubitō, dubitāre, dubitāvī, dubitātus" "to doubt, hesitate"
    
    "ductīs" "to have been lead"
    "dūcere" "to lead"
@@ -3258,6 +3283,7 @@
    "Epiphanīa, Epiphanīae" "Epiphany, a Christian holiday that occurs closely after Christmas."
 
    "episcopī" "overseer, bishop"
+   "episcopīs" "bishops"
    "episcopō" "overseer, bishop"
    "episcopus" "overseer, bishop"
    "episcopus, episcopī" "overseer, bishop"
