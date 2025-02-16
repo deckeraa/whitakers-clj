@@ -159,6 +159,7 @@
    "dēlicātīs" "delicate, plural dative or ablative dēlicātus, -a, -um"
    "dēliciārum" "of delights, from dēliciae"
    "dēmorātī" "dēmorātī + sunt = they were detained"
+   "dēnāriōrum" "of denarii"
    "dēnique" "finally"
    "dēsuper" "above"
    "dēterius" "worse, unfavorably"
@@ -215,6 +216,7 @@
    "fēlīciter" "happily"
    "ferē" "nearly, almost, about"
    "fīant" "they might do; 3rd person plural subjunctive present from faciō, facere, fēcī, factus"
+   "fidēliter" "faithfully"
    "Findluag" "Father of St. Brendan"
    "fīnītā" "end; singular feminine ablative of fīnītus, fīnīta, fīnītum"
    "fīnītīs" "end; plural dative or ablative of fīnītus, fīnīta, fīnītum"
@@ -2826,7 +2828,7 @@
    "dēmorābantur" "they were dwelling, they were delaying"
    "dēmorārī" "to detain, to delay, to dwell"
    "dēmoror, dēmorārī, dēmorātus sum" "to detain, to delay, to dwell"
-   
+
    "dēnsissimīs" "very dense"
    "dēnsus, dēnsa -um, dēnsior -or -us, dēnsissimus -a -um" "dense"
 
@@ -3364,6 +3366,9 @@
    "eucharistiam" "Eucharist/Lord's Supper/Communion"
    "eucharistia, eucharistiae" "Eucharist/Lord's Supper/Communion"
 
+   "ēvangeliō" "gospel"
+   "ēvangelium, ēvangeliī" "gospel"
+
    "ēvenīret" "it (might) have been happening"
    "ēvenīre" "to happen"
    "ēveniō, ēvenīre, ēvēnī, ēventus" "to happen"
@@ -3662,6 +3667,7 @@
    "fībulās" "brace, brooch, clasp"
    "fībula, fībulae" "brace, brooch, clasp"
 
+   "fidēlibus" "faithful persons, confidants"
    "fidēlis" "faithful person, confidant"
    "fidēlis, fidēlis" "faithful person, confidant"
 
@@ -3946,6 +3952,7 @@
    "gallia" "Gaul"
    "galliae" "Gaul"
    "galliam" "Gaul"
+   "galliārum" "of Gaul"
    "Gallia, Galliae" "Gaul"
    
    "gallōrum" "of chickens, of roosters"
@@ -4226,6 +4233,7 @@
    "humilitāte" "humility, insignificance, commonplaceness"
 
    "humilem" "humble, small"
+   "humiliter" "humbly"
    "humilis, humile, humilior -or -us, humillimus -a -um" "humble, small"
    
    "hymnīs" "hymns"
@@ -5279,6 +5287,9 @@
 
    "memoria" "memory, historical account"
    "memoria, memoriae" "memory, historical account"
+
+   "mente" "mind"
+   "mēns, mentis" "mind"
    
    "mēnsa" "table"
    "mēnsam" "table"
@@ -5288,11 +5299,13 @@
    "mēnsis" "month"
    "mēnsis, mēnsis" "month"
    "mēnsum" "of months"
+   
    "mēnsūra" "measure"
    "mēnsūram" "measure"
    "mēnsūra, mēnsūrae" "measure"
    "mēnsūrābat" "he was measuring"
    "mēnsūrō, mēnsūrāre, mēnsūrāvī, mēnsūrātus" "to measure"
+   
    "meum" "my"
    "meus" "my"
    "mihī" "to me"
@@ -5387,9 +5400,12 @@
    "misereātur" "he (might) pity"
    "miserēre" "to pity, to have compassion"
    "misereō, miserēre, miseruī, miseritus" "to pity, to have compassion"
+
+   "misericordia" "pity, compassion, mercy"
    "misericordiae" "pity, compassion, mercy"
    "misericordia, misericordiae" "pity, compassion, mercy"
    "misericordiam" "pity, compassion, mercy"
+   
    "mīsērunt" "they sent"
    "mīsit" "he sent"
    
@@ -5453,6 +5469,9 @@
 
    "monēre" "to warn"
    "moneō, monēre, monuī, monitus" "to warn"
+
+   "montānās" "mountainous"
+   "montānus, montāna, montānum" "mountainous"
    
    "mōns, montis" "mountain"
    "mōns" "mountain"
@@ -5491,6 +5510,9 @@
    "mortuae" "dead"
    "mortuus" "dead"
    "mortuus, mortua, mortuum" "dead"
+
+   "mōtiō" "motion"
+   "mōtiō, mōtiōnis" "motion"
 
    "mōtū"  "movement, tumult"
    "mōtus" "movement, tumult"
