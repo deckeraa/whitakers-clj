@@ -628,6 +628,7 @@
    "sēcūtī" "sēcūtī + sunt = they followed"
    "secūtus" "secūtus + est = he followed"
    "sed" "but"
+   "semetipsum" "he himself"
    "semper" "always"
    "septem" "seven"
    "septimō" "seventh"
@@ -8256,6 +8257,9 @@
    "terga" "back"
    "tergī" "back"
    "tergum, tergī" "back"
+
+   "terminus" "end, boundary, limit"
+   "terminus, terminī" "end, boundary, limit"
    
    "ternōs" "three each"
    
@@ -8489,8 +8493,10 @@
    "ungulās" "claws, hooves"
    "ungula, ungulae" "claw, hoof"
 
+   "ūniversās" "whole, entire"
    "ūniversī"  "whole, entire"
    "ūniversōs" "whole, entire"
+   "ūniversus" "whole, entire"
    "ūniversus, ūniversa, ūniversum" "whole, entire"
    
    "ūnum" "one"
@@ -8559,6 +8565,9 @@
    "vādō" "I go"
    "vādō, vādere, vāsī, -" "to go, to walk"
 
+   "valida" "strong, healthy"
+   "validus, valida, validum" "strong, healthy"
+
    "vallum" "wall, rampart"
    "vallum, vallī" "wall, rampart"
 
@@ -8581,6 +8590,7 @@
    "vēlīs" "sails"
    "vēlum" "sail, cloth"
    "vēlum, vēlī" "sail, cloth"
+   
    "venerābilem" "venerable"
    "venerābilis" "venerable"
    "venerābilis, venerābilis, venerābile" "venerable"
@@ -8852,6 +8862,7 @@
    "volābat" "he was flying"
    "volō, volāre, volāvī, volātus" "to fly"
 
+   "vellet" "he was wanting"
    "vellent" "they (might) have been wanting"
    "volēbat" "he was wanting"
    "volēbant" "they were wanting"

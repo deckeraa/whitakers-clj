@@ -281,6 +281,7 @@
                    "h.orum" "hōrum" "ips.i" "ipsī" "ips.orum" "ipsōrum" "qu.arum" "quārum"
                    "qu.orum" "quōrum" "i.is" "iīs" "h.os" "hōs" "aliqu.os" "aliquōs"
                    "e.arum" "eārum" "h.arum" "hārum" "hu.ic" "huic" "aliqu.i" "aliquī"
+                   "semetips.um" "semetipsum"
                    } word) word)]
     {:options options
      :word word
