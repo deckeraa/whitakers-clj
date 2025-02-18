@@ -573,6 +573,7 @@
    "quattuordecim" "14"
    "quia" "because"
    "quicquid" "whatever"
+   "quīnta" "fifth"
    "quippe" "surely, indeed, the thing is"
    "quōdam" "a certain one; ablative from quīdam"
    "quondam" "sometimes"
@@ -3019,6 +3020,7 @@
    "dīligentia" "diligence"
    "dīligentia, dīligentiae" "diligence"
 
+   "dīluviō" "flood, destruction"
    "dīluvium" "flood, destruction"
    "dīluvium, dīluviī" "flood, destruction"
    
@@ -5544,6 +5546,7 @@
    "mordeō, mordēre, momordī, morsus" "to bite"
 
    "mortuae" "dead"
+   "mortuōs" "dead"
    "mortuus" "dead"
    "mortuus, mortua, mortuum" "dead"
 
@@ -5560,6 +5563,10 @@
    "movērētur" "they (might) have been moving"
    "movēre" "to move"
    "moveō, movēre, mōvī, mōtus" "to move"
+
+   "moyse" "Moses"
+   "moysen" "Moses"
+   "Moyses, Moysis" "Moses"
 
    "mulier"   "woman"
    "mulieris" "woman"
@@ -6212,6 +6219,7 @@
    "pāscuum, pāscuī" "pasture, food"
    "passiō" "suffering, passion"
    "passiōnem" "suffering, passion"
+   "passiōne" "suffering, passion"
    "passiō, passiōnis" "suffering, passion"
 
    "passuum" "of steps, of paces"
@@ -6315,7 +6323,8 @@
    "penetrō, penetrāre, penetrāvī, penetrātus" "to enter, to penetrate"
    "pentēcostē, pentēcostēs" "Pentecost"
    "pentēcostēn" "Pentecost"
-   
+
+   "perāctī" "having been carried through"
    "perāctō" "being carried through"
    "peragere" "to carry through, to complete"
    "peragendum" "completing"
@@ -6800,6 +6809,10 @@
    "prīncipī"  "first man, prince"
    "prīncipis" "first man, prince"
    "prīnceps, prīncipis" "first man, prince"
+
+   "prīncipiō"  "beginning, origin"
+   "prīncipium" "beginning, origin"
+   "prīncipium, prīncipiī" "beginning, origin"
    
    "prior" "prior, ahead, previous"
    "prior, prior, prius" "prior, ahead, previous"
@@ -8396,6 +8409,11 @@
    
    "trānsmeāre" "to go across, to pass over"
    "trānsmeō, trānsmeāre, trānsmeāvī, trānsmeātus" "to go across, to pass over"
+
+   "trānsmigrātiōne"  "transmigration"
+   "trānsmigrātiōnem" "transmigration"
+   "trānsmigrātiō, trānsmigrātiōnis" "transmigration"
+   
    "trānsmittam" "I will send"
    "trānsmittō, trānsmittere, trānsmīsī, trānsmissus" "to send"
    
@@ -8875,6 +8893,7 @@
    "vīvō" "I live"
    "vīvō, vīvere, vīxī, vīctus" "to live"
 
+   "vīvōs" "those alive"
    "vīvus" "alive"
    "vīvus, vīva, vīvum" "alive"
 
