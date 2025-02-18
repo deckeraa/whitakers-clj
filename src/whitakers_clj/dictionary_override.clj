@@ -78,6 +78,7 @@
    "Ariovistus" "A German king"
    "Ariovistī" "Ariovistus, a German King (genitive case)"
    "ariovistī" "Ariovistus, a German King (genitive case)"
+   "Armoriācās" "The Amoriacas, a region of northern Gaul that includes the Brittany Peninsula"
    "Arpinēius" "Arpinēius, a Roman family name"
    "asportāte" "take away! Plural imperative from asportō, asportāre, asportāvī, asportātus"
    "assāte" "Roast! Bake! Broil! Plural imperative from assō, assāre, assāvī, assātus"
@@ -104,6 +105,9 @@
    "Brendānō" "(ablative or dative case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānum" "(accusative case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
+   "Brittannia" "Britain"
+   "Brittanniae" "Britain (nominative plural or genitive singular case)"
+   "Brittanniam" "Britain (accusative case)"
    "Caiphā" "Ablative of Caiphas, a high priest involved with the crucifixion of Christ."
    "candida" "bright, white, clean; singular feminine nominative from candidus, candida, candidum"
    "cantāte" "Sing! Plural imperative from cantāre"
@@ -185,6 +189,7 @@
    "eārum" "their; plural feminine genitive from is, ea, id"
    "eās" "their; plural feminine accusative from is, ea, id"
    "eīs" "to them; plural dative or ablative from is, ea, id"
+   "Euboniā" "The Isle of Man, an island between Great Britain and Ireland."
    "eburōnēs" "A Gallic-Germanic tribe of Gallia Belgica (nominative or accusative)"
    "eburōnum" "A Gallic-Germanic tribe of Gallia Belgica (genitive)"
    "ex" "out of, from"
@@ -253,6 +258,7 @@
    "grȳphum" "griffin (accusative case), a lion-eagle hybrid; from grȳphus, grȳphī"
    "grȳphus" "griffin, a lion-eagle hybrid; from grȳphus, grȳphī"
    "Grȳphus" "griffin, a lion-eagle hybrid; from grȳphus, grȳphī"
+   "Gueith" "The Isle of Wight, an island just off the southern coast of Great Britain in the English channel. The name Gueith is from Old Welsh."
    "Haeduō" "a region in Gallia"
    "haeduō" "a region in Gallia"
    "Harolde" "Harold (vocative case)"
@@ -398,6 +404,7 @@
    "malīs" "evil, bad"
    "malō" "evil, bad"
    "malum" "evil, bad"
+   "Manau" "The Isle of Man, an island between Great Britain and Ireland."
    "mandātum" "mandate; singular masculine nominative or accusative from mandātum, mandātī"
    "manē" "morning"
    "mānsī" "I remained; singular 1st person perfect from maneō, manēre, mānsī, mānsus"
@@ -474,6 +481,7 @@
    "operātus" "operātus + est = was performed"
    "ōrā" "pray! singular imperative from ōrō, ōrāre, ōrāvī, ōrātus"
    "ōrāte" "pray! plural imperative from ōrō, ōrāre, ōrāvī, ōrātus"
+   "Orc" "The Orkney Isles, located off the northern coast of Scotland"
    "orgetorīgis" "Orgetorix, a Helvetic aristocrat (genitive case)."
    "Orgetorīgis" "Orgetorix, a Helvetic aristocrat (genitive case)."
    "orgetorīx" "Orgetorix, a Helvetic aristocrat."
@@ -616,6 +624,7 @@
    "sānctissimam" "most holy"
    "sapienter" "wisely"
    "satis" "enough"
+   "Saxonēs" "The Saxons"
    "scalta" "an unknown type of plant. Ablative plural from scalta, scaltae."
    "scaltae" "an unknown type of plant. Ablative plural from scalta, scaltae."
    "scaltās" "an unknown type of plant. Accusative plural from scalta, scaltae."
@@ -1001,6 +1010,9 @@
 
    "afflictiō, afflictiōnis" "affliction, pain"
    "afflictiōne" "affliction, pain"
+
+   "āfricō" "southwest, southwest wind"
+   "āfricus, āfricī" "southwest, southwest wind"
 
    "aggregātō" "group together!"
    "aggregō, aggregāre, aggregāvī, aggregātus" "to group, to flock together"
@@ -1691,13 +1703,19 @@
    "optima" "best"
    "optimum" "best"
    "bonus, bona -um, melior -or -us, optimus -a -um" "good"
+
+   "boreālis, boreālis, boreāle" "northern"
+   "boreālī" "northern"
    
    "bōtrum" "grape"
    "bōtrus, bōtrī" "grape"
+   
    "bovīnīs" "bovine"
    "bovīnus, bovīna, bovīnum" "bovine"
+   
    "brachiīs" "arms"
    "brachium, brachiī" "arm"
+   
    "Brendānō" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
 
