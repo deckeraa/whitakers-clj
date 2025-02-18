@@ -20,11 +20,13 @@
    "ab" "from, out of, by, since"
    "Abbā" "father, abbot"
    "abbā" "father, abbot"
+   "Abraham" "Abraham, the Old Testament patriarch"
    "absit" "forbid it! May it be absent!"
    "ac" "and"
    "ācriter" "sharply"
    "āctīs" "acts, ablative from ācta, a plural-only second declension noun"
    "ad" "to, towards, at, according to"
+   "adam" "Adam, the first man"
    "adeō" "that far"
    "adfore" "to be present (in the future); future infinitive from adsum"
    "adhūc" "until now"
@@ -152,6 +154,7 @@
    "cum" "with"
    "cumque" "and with"
    "cūr" "why"
+   "Danihelem" "Daniel, the Old Testament prophet"
    "David" "David, the king of Israel that slew Goliath."
    "de" "of, from, away from, down from"
    "decem" "ten"
@@ -275,6 +278,8 @@
    "Iascōnium" "Jascōnius, a sea beast"
    "impedītīs" "impeded, plural masculine dative or ablative from impedītus -a -um"
    "iocantem" "jesting, participle from iocor, iocārī, iocātus (dep.)"
+   "Iohanne" "John the Baptist"
+   "Iohannem" "John the Baptist (accusative)"
    "Ionam" "Jonah, the prophet to Nineveh who spent three days in the belly of a sea monster; from Ionas, Ionae."
    "Iūram" "Mount Jura"
    "gravitātis" "gravity, weight, importance; singular feminine genitive from gravitās, gravitātis"
@@ -408,6 +413,7 @@
    "mixtim" "mixedly, in a mixed manner (adverb)"
    "mox" "soon"
    "Mumenensī" "of Munster, a south-western region in Ireland. Not to be confused with Münster, the German city."
+   "Nabuchodonosor" "Nebuchadnezzar (reigned 605-562 BC), the Babylonian king mentioned in Daniel"
    "nam" "yes, truly"
    "Nammeius" "Numeius, a Helvetic legate"
    "namque" "for and in fact, on the other hand"
@@ -430,6 +436,7 @@
    "nisī" "if not, unless"
    "nōbīs" "us; singular dative or ablative from ego"
    "noctū" "at night"
+   "Noe" "Noah, who repopulated the earth after the Flood"
    "nōlī" "be unwilling! imperative singular of nōlō, nōlle, nōluī (irr.)"
    "nōlīte" "be unwilling! imperative plural of nōlō, nōlle, nōluī (irr.)"
    "nōminātim" "by name"
@@ -761,6 +768,7 @@
    "vicissim" "in turn"
    "vīctū" "food; singular masculine ablative from victus, victūs"
    "vīctum" "food; singular masculine accussative from victus, victūs"
+   "vidēlicet" "namely, that is to say"
    "videō, vidēre, vīdī, vīsus" "to see"
    "vīdērunt" "they saw"
    "vigilāte" "stay alert! plural imperative from vigilō, vigilāre, vigilāvī, vigilātus"
@@ -978,6 +986,7 @@
 
    "aetās" "lifetime, age"
    "aetāte" "lifetime, age"
+   "aetātibus" "ages"
    "aetās, aetātis" "lifetime, age"
    
    "aeternam" "eternal"
@@ -1545,6 +1554,9 @@
    "avium" "of birds"
    "avibus" "birds"
 
+   "babylōniae" "Babylon"
+   "Babylōnia, Babylōniae" "Babylon"
+
    "bāiulāre" "to carry, to bear"
    "bāiulō, bāiulāre, bāiulāvī, bāiulātus" "to carry, to bear"
    
@@ -1555,6 +1567,9 @@
    "baptismō" "baptism"
    "baptismus" "baptism"
    "baptismus, baptismī" "baptism"
+
+   "baptistam" "baptist"
+   "baptista, baptistae" "baptist"
 
    "baptīzāvit" "he baptipzed"
    "baptīzō, baptīzāre, baptīzāvī, baptīzātus" "to baptize"
@@ -1972,6 +1987,7 @@
    "Chrīstō" "Christ"
    "chrīste" "annointed one, Christ"
    "chrīstī" "annointed one, Christ"
+   "chrīstum" "annointed one, Christ"
    "chrīstus" "annointed one, Christ"
    "Chrīstus, Chrīstī" "Christ"
    "chrīstiānōrum" "of Christians"
@@ -2703,6 +2719,10 @@
 
    "damnātum" "condemned"
    "damnātus, damnāta, damnātum" "condemned"
+
+   "dāniēle" "Daniel"
+   "dāniēlem" "Daniel"
+   "Dāniēl, Dāniēlis" "Daniel"
    
    "dans" "giving"
    "dant" "they give"
@@ -2998,6 +3018,9 @@
    
    "dīligentia" "diligence"
    "dīligentia, dīligentiae" "diligence"
+
+   "dīluvium" "flood, destruction"
+   "dīluvium, dīluviī" "flood, destruction"
    
    "dīmīsērunt" "they sent away, they dismissed"
    "dīmīsī" "he sent away, he dismissed"
@@ -3145,6 +3168,9 @@
    "dominorum" "of the lords, of the masters"
    "dominus" "lord, master"
    "dominus, dominī" "lord, master"
+
+   "domnus" "lord, master"
+   "domnus, domnī" "lord, master"
 
    "domī" "at home"
    "domō" "house"
@@ -4394,6 +4420,9 @@
    
    "inaequālitās" "inequality"
    "inaequālitās, inaequālitātis" "inequality"
+
+   "incarnātiōne" "incarnation"
+   "incarnātiō, incarnātiōnis" "incarnation"
    
    "incendentēs" "setting on fire"
    "incendēbātur" "it was being set on fire"
@@ -4780,6 +4809,9 @@
    
    "iūstus" "just"
    "jūstus, jūsta -um, jūstior -or -us, jūstissimus -a -um" "just"
+
+   "iūdicāre" "to judge"
+   "iūdicō, iūdicāre, iūdicāvī, iūdicātus" "to judge"
    
    "iūdiciī" "judgement"
    "iūdiciō" "judgement"
