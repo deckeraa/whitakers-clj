@@ -1269,6 +1269,7 @@
    "anterior, anterior, anterius" "earlier, previous, former"
    
    "antīquī" "of the ancient"
+   "antīquō" "ancient"
    "antīquus, antīqua -um, antīquior -or -us, antīquissimus -a -um" "antique"
 
    "ānulō" "ring"
@@ -1730,6 +1731,12 @@
    "britanniae" "Britain"
    "britanniam" "Britain"
    "Britannia, Britanniae" "Britain"
+
+   "brittōnēs" "Britons, inhabitants of Britain"
+   "Brittō, Brittōnēs" "Briton, an inhabitant of Britain"
+
+   "brūtō" "Brutus"
+   "Brūtus, Brūtī" "Brutus"
    
    "būtȳrum" "butter"
    "būtȳrō" "butter"
