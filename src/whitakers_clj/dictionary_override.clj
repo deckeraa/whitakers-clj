@@ -1897,6 +1897,9 @@
    "cārissimī" "beloved"
    "cārus, cāra -um, cārior -or -us, cārissimus -a -um" "beloved, dear"
 
+   "castellīs" "castles, strongholds"
+   "castellum, castellī" "castle, stronghold"
+
    "castram" "fort"
    "castra" "forts"
    "castrīs" "forts"
@@ -2494,6 +2497,7 @@
    "cōnsuētūdō"   "habit, custom"
    "cōnsuētūdō, cōnsuētūdinis" "habit, custom"
 
+   "cōnsule" "consul"
    "cōnsulem" "consul"
    "cōnsulibus" "consuls"
    "cōnsul, cōnsulis" "consul"
@@ -2509,6 +2513,9 @@
    
    "cōnsummātīs" "being accomplished, being ended"
    "cōnsummō, cōnsummāre, cōnsummāvī, cōnsummātus" "to accomplish, to end, to consume"
+
+   "cōnsurgit" "he stands up, he rises up"
+   "cōnsurgō, cōnsurgere, cōnsurrēxī, cōnsurrēctus" "to stand up, to rise up"
 
    "contemptiōne" "contempt, disdain"
    "contemptiō, contemptiōnis" "contempt, disdain"
@@ -2980,6 +2987,7 @@
    "dīcis" "you say"
    "dīcit" "he says"
    "dīcitur" "it is said"
+   "dictā" "having been said"
    "dictīs" "things having been said"
    "dictō" "having been said"
    "dīcunt" "they say"
@@ -3553,6 +3561,7 @@
    "extollō, extollere, -, -" "to extol"
 
    "extrēmīs" "limits, outsides, ends"
+   "extrēmō" "limit, outside, end"
    "extrēmum" "limit, outside, end"
    "extrēmum, extrēmī" "limit, outside, end"
    
@@ -4204,6 +4213,9 @@
    "hībernīs" "winter camp"
    "hībernum, hībernī" "winter camp"
 
+   "hīberniam" "Ireland"
+   "Hībernia, Hīberniae" "Ireland"
+
    "hiemāre" "to winter"
    "hiemārī" "to be wintery"
    "hiemō, hiemāre, hiemāvī, hiemātus" "to winter"
@@ -4623,8 +4635,13 @@
    "inlūminō, inlūmināre, inlūmināvī, inlūminātus" "to illuminate"
    "inmānissimam" "immense, savage, monstrous"
    "inmānis, inmāne, inmānior -or -us, inmānissimus -a -um" "immense, savage, monstrous"
+
+   "innumerābilia" "countless"
    "innumerābilis" "countless"
    "innumerābilis, innumerābilis, innumerābile" "countless"
+
+   "innumerīs" "countless"
+   "innumerus, innumera, innumerum" "countless"
 
    "inopia"  "lack, poverty"
    "inopiae" "lack, poverty"
@@ -4661,6 +4678,7 @@
    "īnsulae" "island"
    "īnsulam" "island"
    "īnsulīs" "islands"
+   "īnsulās" "islands"
 
    "īnsinuābat" "he was insinuating, he was pushing in"
    "īnsinuāvērunt" "they crept in"
