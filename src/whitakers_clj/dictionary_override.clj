@@ -4835,6 +4835,7 @@
    
    "iūdex" "judge"
    "iūdicem" "judge"
+   "iūdicibus" "judges"
    "iūdex, iūdicis" "judge"
 
    "iūmentōrum" "of baggage animals"
@@ -4855,6 +4856,7 @@
    "iūstus" "just"
    "jūstus, jūsta -um, jūstior -or -us, jūstissimus -a -um" "just"
 
+   "iūdicāvit" "he judged"
    "iūdicāre" "to judge"
    "iūdicō, iūdicāre, iūdicāvī, iūdicātus" "to judge"
    
@@ -4947,6 +4949,7 @@
    
    "lapidēs" "stones"
    "lapidis" "stone"
+   "lapidibus" "stones"
    "lapis, lapidis" "stone"
 
    "lāpsā" "slip! fall!"
@@ -4970,6 +4973,7 @@
    "latet" "he lies hidden, he lurks"
    "lateō, latēre, latuī, -" "to lie hidden, to lurk"
 
+   "lātitūdine" "breadth, width, latitude"
    "lātitūdinem" "breadth, width, latitude"
    "lātitūdinis" "breadth, width, latitude"
    "lātitūdō" "breadth, width, latitude"
@@ -6111,6 +6115,9 @@
    "ōrātōriō" "oratory, building for prayer"
    "ōrātōrium" "oratory, building for prayer"
    "ōrātōrium, ōrātōriī" "oratory, building for prayer"
+
+   "orbis" "sphere, orbit, circle, ring"
+   "orbis, orbis" "sphere, orbit, circle, ring"
    
    "ōrdinem" "order"
    "ōrdinēs" "order"
@@ -6546,6 +6553,9 @@
    
    "petrōsa" "rocky places"
    "petrōsum, petrōsi" "rocky place"
+
+   "pictī" "Picts, a Scottish tribe"
+   "pictōs" "Picts, a Scottish tribe"
 
    "pietāte" "dutiful conduct, pietry"
    "pietās, pietātis" "dutiful conduct, pietry"
