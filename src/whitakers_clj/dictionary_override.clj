@@ -295,7 +295,7 @@
    "hanc" "this; singular feminine accusative of hic, haec, hoc"
    "hārum" "of these; plural feminine genitive of hic, haec, hoc"
    "hās" "this; plural feminine accusative of hic, haec, hoc"
-   "hic" "this; singuglar masculine nominative of hic, haec, hoc"
+   "hic" "this; singular masculine nominative of hic, haec, hoc"
    "hī" "to these; plural masculine nominative of hic, haec, hoc"
    "hīs" "to these; plural masculine dative or ablative of hic, haec, hoc"
    "huic" "to this; singular dative of hic, haec, hoc"
@@ -1778,6 +1778,9 @@
 
    "calamitātis" "loss, damage, harm"
    "calamitās, calamitātis" "loss, damage, harm"
+
+   "calceāmentum" "shoe"
+   "calceāmentum, calceāmentī" "shoe"
    
    "calidus" "hot, warm"
    "calidus, calida -um, calidior -or -us, calidissimus -a -um" "hot, warm"
@@ -2132,7 +2135,8 @@
    "coāctūrōs" "to be assembled, to be forced"
    "cōgere" "to collect, to force"
    "cōgō, cōgere, coēgī, coāctus" "to collect, to force"
-   
+
+   "cōgitat" "he thinks"
    "cōgitāre" "to think"
    "cōgitāvit" "he thought"
    "cōgitō, cōgitāre, cōgitāvī, cōgitātus" "to think"
@@ -3889,6 +3893,9 @@
 
    "fortunam" "luck, fate"
    "fortūna, fortūnae" "luck, fate"
+
+   "forō" "forum"
+   "forum, forī" "forum"
    
    "fossa" "ditch, moat"
    "fossam" "ditch, moat"
@@ -5201,6 +5208,7 @@
    "lūx, lūcis" "light"
 
    "magister" "teacher"
+   "magistrō" "teacher"
    "magistrum" "teacher"
    "magister, magistrī" "teacher"
 
@@ -6403,6 +6411,9 @@
    "percussō" "having been hit"
    "percutiō, percutere, percussī, percussus" "to strike, to beat"
    "percutientēs" "striking, beating"
+
+   "perditum" "lost"
+   "perdō, perdere, perdidī, perditus" "to lose"
    
    "perdūcat" "you (might) lead through"
    "perdūcō, perdūcere, perdūxī, perductus" "to lead through, to guide"
@@ -7410,6 +7421,7 @@
    "respīrantem" "breathing"
    "respīrō, respīrāre, respīrāvī, respīrātus" "to breathe"
 
+   "respondet" "he responds"
    "respondēbat" "he was responding"
    "respondērunt" "they responded"
    "respondit" "he responded"
@@ -8828,6 +8840,7 @@
    "vidēbantur" "they were appearing"
    "videntibus" "looking"
    "vīderant" "they had seen"
+   "videt" "he sees"
    "vidētur" "he appears"
    "videō" "I see"
    "vīdī" "I saw"
