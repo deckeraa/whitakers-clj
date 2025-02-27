@@ -190,6 +190,7 @@
    "eās" "their; plural feminine accusative from is, ea, id"
    "eīs" "to them; plural dative or ablative from is, ea, id"
    "Euboniā" "The Isle of Man, an island between Great Britain and Ireland."
+   "euboniā" "The Isle of Man, an island between Great Britain and Ireland."
    "eburōnēs" "A Gallic-Germanic tribe of Gallia Belgica (nominative or accusative)"
    "eburōnum" "A Gallic-Germanic tribe of Gallia Belgica (genitive)"
    "ex" "out of, from"
@@ -219,6 +220,7 @@
    "expedītior" "freer, more unburdened"
    "expedītius" "freer, more unburdened"
    "explētis" "You fill; 2nd person plural present from expleō, explēre, explēvī, explētus"
+   "fabricātus" "having been made; masuline nominative past passive participle from fabricō, fabricāre, fabricāvī, fabricātus"
    "facillimē" "very easily"
    "factū" "to be done, supine of facere"
    "fēlīciter" "happily"
@@ -3798,6 +3800,7 @@
    "fīnitimus, fīnitima, fīnitimum" "neighboring"
    
    ;;   "fīnītus, fīnīta, fīnītum"
+   "fit" "it happened, it occurred"
    "fīēbant" "they were done"
    "fierī" "to happen, to occur"
    "fīō, fierī, factus sum" "to happen, to occur"
@@ -6956,6 +6959,9 @@
    "prōiēcit" "he threw down"
    "prōicere" "to throw down"
    "prōiciō, prōicere, prōiēcī, prōiectus" "to throw down"
+
+   "prōmontoria" "peak, headland, cape, promontory"
+   "prōmontorium, prōmontoriī" "peak, headland, cape, promontory"
    
    "prōmissum" "promise"
    "prōmissum, prōmissī" "promise"
@@ -7013,6 +7019,9 @@
    "prōvēnerat" "he had come forth"
    "prōvenīre" "to come forth"
    "prōveniō, prōvenīre, prōvēnī, prōventus" "to come forth"
+
+   "prōverbiō" "proverb"
+   "prōverbium, prōverbiī" "proverb"
 
    "prōvincia"  "province, command"
    "prōvinciae" "province, command"
@@ -7481,6 +7490,7 @@
 
    "rēgēs" "kings"
    "rēgī" "king"
+   "rēgibus" "kings"
    "rēx" "king"
    "rēx, rēgis" "king"
 
