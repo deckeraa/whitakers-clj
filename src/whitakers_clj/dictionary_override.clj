@@ -669,6 +669,7 @@
    "sinū" "pocket, fold; singular masculine ablative from sinus, sinūs"
    "sinum" "pocket, fold; singular masculine accusative from sinus, sinūs"
    "siquidem" "however, accordingly, since, if only. In Medieval Latin, synonym of autem."
+   "sita" "sita est = is located; idiomatic usage of past passive participle of sinō, sinere, sīvī, situs"
    "sīve" "or, what if"
    "sōlum" "only, just, barely, merely"
    "speciāliter" "specifically, individually; adverb from speciālis, speciāle"
@@ -7840,6 +7841,7 @@
    "sermōcinārī" "to converse, discuss"
    "sermōcinor, sermōcinārī, sermōcinātum" "to converse, discuss"
 
+   "sermō" "conversation, speech"
    "sermōne" "conversation, speech"
    "sermō, sermōnis" "conversation, speech"
    "sermōnibus" "conversation, speech"
@@ -8599,6 +8601,10 @@
    "ululātus" "howling"
    "ululātū" "howling"
    "ululātus, ululātūs" "howling"
+
+   "umbilīcō" "navel, center, middle, a seasnail"
+   "umbilīcus, umbilīcī" "navel, center, middle, a seasnail"
+   
    "umbra" "shadow, shade"
    "umbrae" "shadow, shade"
    "umbram" "shadow, shade"
