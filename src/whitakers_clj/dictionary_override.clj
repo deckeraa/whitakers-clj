@@ -1245,6 +1245,9 @@
    "animadvertisset" "he (might) have had observed"
    "animadvertere" "to observe"
    "animadvertō, animadvertere, animadvertī, animadversus" "to observe"
+
+   "annālibus" "annals, chronicles"
+   "annālis, annālis" "annals, chronicles"
    
    "annī" "year"
    "annīs" "years"
@@ -1687,7 +1690,7 @@
 
    "biennium" "two years"
    "biennium, biennī" "two years"
-   
+
    "bīna" "two each"
    "bīnīs" "two each"
    "bīnōs" "two each"
@@ -1716,7 +1719,8 @@
    
    "bovīnīs" "bovine"
    "bovīnus, bovīna, bovīnum" "bovine"
-   
+
+   "brachia" "forearms, branches"
    "brachiīs" "arms"
    "brachium, brachiī" "arm"
    
@@ -2084,7 +2088,8 @@
    "clāmāre" "to shout"
    "clāmāvit" "he shouted"
    "clāmō, clāmāre, clāmāvī, clāmātus" "to shout"
-   
+
+   "clāriōra" "clearer"
    "clāritās" "clarity, brightness"
    "clāritātis" "clarity, brightness"
    "clāritāte" "clarity, brightness"
@@ -2340,8 +2345,11 @@
    "condēnsus, condēnsa, condēnsum" "dense, thick, packed together"
    "condīvissent" "they (might) have seasoned"
    "condiō, condīre, condīvī, condītus" "to season, to salt"
+   
    "condita" "building, founding"
    "conditum" "building, founding"
+
+   "condidit" "he founded, he built"
    "condō, condere, condidī, conditus" "to build, to found"
 
    "conductam" "having been assembled"
@@ -2387,6 +2395,9 @@
    "cōnfiteor" "I confess"
    "cōnfitērī" "to confess"
    "cōnfiteor, cōnfitērī, cōnfessum sum" "to confess"
+
+   "cōnfluunt" "they flow together"
+   "cōnfluō, cōnfluere, cōnflūxī, cōnfluxus" "to flow together"
    
    "cōnfortābat" "he was comforting, he was strengthening"
    "cōnfortāminī" "you are being comforted/strengthened"
@@ -2408,6 +2419,9 @@
    "coniēcerant" "they had thrown"
    "conicere" "to throw"
    "coniciō, conicere, coniēcī, coniectus" "to throw"
+
+   "coniugium" "marriage"
+   "coniugium, coniugiī" "marriage"
 
    "coniūrātiōnī" "conspiracy"
    "coniūrātiōnem" "conspiracy"
