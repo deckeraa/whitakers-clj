@@ -3543,6 +3543,9 @@
    "expendere" "to pay, to pay a penalty"
    "expēnsīs" "having been paid"
    "expendō, expendere, expendī, expēnsus" "to pay, to pay a penalty"
+
+   "experīmentum" "test, experiment, experience"
+   "experīmentum, experīmentī" "test, experiment, experience"
    
    "exposuimus" "we explained"
    "expōnō, expōnere, exposuī, expositus" "to explain"
@@ -3864,6 +3867,7 @@
    "flūmen" "river"
    "flūmina" "rivers"
    "flūmine" "river"
+   "flūminibus" "rivers"
    "flūminis" "river"
    "flūmen, flūminis" "river"
    
@@ -4188,6 +4192,7 @@
    "habitābitis" "you will have"
    "habitandum" "living"
    "habitant" "they inhabit"
+   "habitāta" "having been inhabited"
    "habitāvī" "I inhabited"
    "habitō, habitāre, habitāvī, habitātus" "to inhabit"
    
@@ -4463,7 +4468,8 @@
    "impetum" "attack, assault, fury"
    "impetus" "attack, assault, fury"
    "impetus, impetūs" "attack, assault, fury"
-   
+
+   "implentēs" "filling up"
    "impleō, implēre, implēvī, implētus" "to fill up"
    "implēre" "to fill up"
    
@@ -4881,6 +4887,7 @@
    "iūstus" "just"
    "jūstus, jūsta -um, jūstior -or -us, jūstissimus -a -um" "just"
 
+   "iūdicāvērunt" "they judged"
    "iūdicāvit" "he judged"
    "iūdicāre" "to judge"
    "iūdicō, iūdicāre, iūdicāvī, iūdicātus" "to judge"
@@ -5792,9 +5799,14 @@
    "neglegenda" "disregarding"
    "neglegere" "to disregard"
    "neglegō, neglegere, neglēxī, neglēctus" "to disregard"
+
+   "negōtiātiō" "business"
+   "negōtiātiōnis" "business"
+   "negōtiātiō, negōtiātiōnis" "business"
    
    "negōtiātor" "merchant, trader"
    "negōtiātor, negōtiātōris" "merchant, trader"
+   
    "nēmō" "no one"
    "nēmō, nēminis" "no one"
    "nemorōsam" "woody, shaded"
@@ -5978,6 +5990,7 @@
    "obtinēbant" "they were obtaining"
    "obtinuerat" "he had obtained"
    "obtinuerant" "they had obtained"
+   "obtinuit" "he obtained"
    "obtinēre" "to obtain"
    "obtineō, obtinēre, obtinuī, obtentus" "to obtain"
    
@@ -6704,6 +6717,7 @@
    "portat" "he carries"
    "portābat" "he was carrying"
    "portābant" "they were carrying"
+   "portandās" "carrying"
    "portāte" "carry!"
    "portātūrī" "will be carrying"
    "portāvērunt" "they carried"
@@ -7202,6 +7216,9 @@
    "rārum" "thin, far apart, rare"
    "rārus" "thin, far apart, rare"
    "rārus, rāra -um, rārior -or -us, rārissimus -a -um" "thin, far apart, rare"
+
+   "ratēs" "rafts, barks, vessels"
+   "ratis, ratis" "raft, bark, vessel"
 
    "rationem" "reason"
    "ratiō, ratiōnis" "reason"
@@ -7708,6 +7725,7 @@
    "sciō" "I know"
    "sciēbat" "he was knowing"
    "scīvit" "he knew"
+   "scīre" "to know"
    "sciō, scīre, scīvī, scītus" "to know"
    
    "scolam" "school, corporation, leisure"
@@ -8236,6 +8254,7 @@
    "superat" "he overcomes"
    "superātī" "having been overcome"
    "superātis" "you overcome"
+   "superātō" "having been overcome"
    "superāvisset" "he (might) have overcome"
    "superārī" "to be overcome"
    "superō, superāre, superāvī, superātus" "to overcome"
@@ -8551,6 +8570,10 @@
    "trīstitia, trīstitiae" "sadness"
    
    "trium" "three"
+
+   "troiānum" "Trojan"
+   "Trojānus, Trojāna, Trojānum" "Trojan"
+   
    "trophaeō" "sign, trophy"
    "trophaeum" "sign, trophy"
    "tu" "you"
@@ -8688,6 +8711,7 @@
    "ūva, ūvae" "grape"
 
    "uxōre" "wife"
+   "uxōrem" "wife"
    "uxor, uxōris" "wife"
 
    "vacca" "cow"
@@ -8727,6 +8751,9 @@
    "vāsculum" "small vessel"
    "vāsculum, vāsculī" "small vessel"
    "vāsculōrum" "of small vessels"
+
+   "vehēbantur" "was being carried"
+   "vehō, vehere, vēxī, vectus" "to carry"
    
    "vēlōcissimō" "very quickly"
    "vēlōx, vēlōcis (gen.), vēlōcior -or -us, vēlōcissimus -a -um" "very quickly"
@@ -9009,6 +9036,7 @@
    "volābat" "he was flying"
    "volō, volāre, volāvī, volātus" "to fly"
 
+   "voluerit" "he will have wanted"
    "vellet" "he was wanting"
    "vellent" "they (might) have been wanting"
    "volēbat" "he was wanting"
