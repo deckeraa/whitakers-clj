@@ -118,6 +118,7 @@
    "carnūtēs" "A Celtic tribe of Gallia Lugdunensis (nominative or accusative)"
    "carnūtibus" "A Celtic tribe of Gallia Lugdunensis (dative or ablative)"
    "cassium" "Lucius Cassius Longinus (c. 151 - 107 BC), a consul who was killed at the Battle of Burdigala"
+   "cāsū" "accidentally, by chance (adverb)"
    "Catamantaloedis" "Catamantaledes (one of the Sequani)"
    "Catuvolcō" "Catuvolcus, king of the Eburones with Ambiorix (ablative or dative case)"
    "Catuvolcus" "Catuvolcus, king of the Eburones with Ambiorix (nominative case)"
@@ -2468,9 +2469,11 @@
    "cōnsentiō, cōnsentīre, cōnsēnsī, cōnsēnsus" "to be in agreement"
    "cōnsīderābat" "he was considering"
    "cōnsīderābant" "they were considering"
+   "cōnsīderandam" "considering"
    "cōnsīderantibus" "considering"
    "cōnsīderāre" "to consider"
    "cōnsīderāvissēmus" "we (might) have had considered"
+   "cōnsīderāvit" "he considered"
    "cōnsīderō, cōnsīderāre, cōnsīderāvī, cōnsīderātus" "to consider, to examine"
    "consideravisset" "he (might) have had considered"
 
@@ -3462,6 +3465,7 @@
    "ēvangeliō" "gospel"
    "ēvangelium, ēvangeliī" "gospel"
 
+   "ēvēnit" "it happened"
    "ēvenīret" "it (might) have been happening"
    "ēvenīre" "to happen"
    "ēveniō, ēvenīre, ēvēnī, ēventus" "to happen"
@@ -3530,6 +3534,9 @@
    "exitum" "departure"
    "exitus" "departure"
    "exitus, exitūs" "departure"
+
+   "exōsus" "hateful or hated"
+   "exōsus, exōsa, exōsum" "hateful or hated"
    
    "expavēscere" "to become frightened"
    "expavēscō, expavēscere, expāvī, -" "to become frightened"
@@ -3553,6 +3560,9 @@
 
    "experīmentum" "test, experiment, experience"
    "experīmentum, experīmentī" "test, experiment, experience"
+
+   "explōrāret" "he was exploring, investigating"
+   "explōrō, explōrāre, explōrāvī, explōrātus" "to explore, to investigate"
    
    "exposuimus" "we explained"
    "expōnō, expōnere, exposuī, expositus" "to explain"
