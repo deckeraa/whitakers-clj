@@ -3714,6 +3714,10 @@
    "fēlīcitās" "happiness, fruitfulness"
    "fēlīcitātis" "happiness, fruitfulness"
    "fēlīcitās, fēlīcitātis" "happiness, fruitfulness"
+
+   "fēmina"  "woman, wife"
+   "fēminam" "woman, wife"
+   "fēmina, fēminae" "woman, wife"
    
    "fenestra" "window"
    "fenestram" "window"
@@ -4152,6 +4156,11 @@
    "grātia, grātiae" "grace"
    "grātiās" "graces"
 
+   "gravida" "pregnant woman"
+   "gravida, gravidae" "pregnant woman"
+   
+   "gravidō, gravidāre, gravidāvī, gravidātus" "to impregnate"
+
    "gravī" "heavy, grave"
    "gravis, grave, gravior -or -us, gravissimus -a -um" "heavy, grave"
    "gravius" "graver, heavier"
@@ -4187,6 +4196,7 @@
    "habēbitis" "you will have"
    "habeō" "I have"
    "habitum" "having been held"
+   "habitāvit" "he inhabited"
    "habēmus" "we have"
    "habēns" "having"
    "habent" "they have"
@@ -4291,6 +4301,11 @@
    "historiae" "history, story"
    "historia, historiae" "history, story"
 
+   "hodiernum" "today"
+   "hodiernum, hodiernī" "today"
+
+   "hodiernus, hodierna, hodiernum" "modern, of today"
+
    "hominem" "person"
    "hominēs" "persons"
    "hominis" "of a person"
@@ -4383,6 +4398,9 @@
    "ībimus" "we will go"
    "ībit" "he will go"
    "ībō" "I will go"
+
+   "ictū" "blow, stroke"
+   "ictus, ictūs" "blow, stroke"
    
    "īgnis, īgnis" "fire"
    "īgnis" "fire"
@@ -4487,6 +4505,7 @@
    "impetus, impetūs" "attack, assault, fury"
 
    "implentēs" "filling up"
+   "implēvit" "he fulfilled, filled up"
    "impleō, implēre, implēvī, implētus" "to fill up"
    "implēre" "to fill up"
    
