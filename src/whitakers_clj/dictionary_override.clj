@@ -4310,6 +4310,7 @@
    "hominēs" "persons"
    "hominis" "of a person"
    "hominum" "of persons, of men"
+   "hominibus" "persons, men"
    "homō" "person"
    "homō, hominis" "person"
    
@@ -4611,6 +4612,9 @@
    "indumenti" "garment, robe"
    "indūmentum, indūmentī" "garment, robe"
    "induō, induere, induī, indūtus" "to dress, to put on"
+
+   "industria" "diligence, purpose"
+   "industria, industriae" "diligence, purpose"
    
    "ineffābilis" "ineffable"
    "ineffābilis, ineffābilis, ineffābile" "ineffable"
@@ -4815,6 +4819,9 @@
    "interrogāre" "to ask"
    "interrogō, interrogāre, interrogāvī, interrogātus" "to ask"
    "interveniente" "come between, intervene"
+
+   "intervallum" "interval, distance"
+   "intervallum, intervallī" "interval, distance"
    
    "intrābis" "you will enter"
    "intrāmus" "we enter"
@@ -5244,6 +5251,9 @@
    "lūcium" "fish, pike fish"
    "lūcius, lūciī" "fish, pike fish"
 
+   "lūdēbat" "he was playing"
+   "lūdō, lūdere, lūsī, lūsus" "to play"
+
    "lūdō"  "school, game"
    "lūdus" "school, game"
    "lūdum" "school, game"
@@ -5267,6 +5277,11 @@
    "lūx" "light"
    "lūcis" "light"
    "lūx, lūcis" "light"
+
+   "magus" "magician"
+   "magī" "magician"
+   "magum" "magician"
+   "magus, magī" "magician"
 
    "magister" "teacher"
    "magistrō" "teacher"
@@ -5381,6 +5396,11 @@
    
    "marmor" "marble"
    "marmor, marmoris" "marble"
+
+   "masculus" "male"
+   "masculum" "male"
+   "masculus, masculī" "male"
+   
    "māssa" "mass, bulk"
    "māssam" "mass, bulk"
    "māssās" "mass, bulk"
@@ -5388,6 +5408,7 @@
    
    "māter" "mother"
    "mātre" "mother"
+   "mātrem" "mother"
    "māter, mātris" "mother"
 
    "māteria" "matter"
@@ -5586,6 +5607,7 @@
    "mittō" "I send"
    "mittunt" "they send"
    "mittuntur" "they are being sent"
+   "mitteret" "he was sending"
    "mittere" "to send"
    "mittō, mittere, mīsī, missus" "to send"
    
@@ -5661,6 +5683,7 @@
    "mordēre" "to bite"
    "mordeō, mordēre, momordī, morsus" "to bite"
 
+   "mortua" "dead"
    "mortuae" "dead"
    "mortuōs" "dead"
    "mortuus" "dead"
@@ -5972,6 +5995,9 @@
    "nūntium" "messenger"
    "nūntius" "messenger"
    "nūntius, nūntiī" "messenger"
+
+   "nurus" "young woman, daughter-in-law"
+   "nurus, nurūs" "young woman, daughter-in-law"
    
    "nūtrīmentō" "nourishment"
    "nūtrīmentum, nūtrīmentī" "nourishment"
@@ -6053,7 +6079,11 @@
    "occīdī" "I killed"
    "occīdō" "I kill"
    "occīsum" "having been killed"
+   "occīsus" "having been killed"
    "occīdō, occīdere, occīdī, occīsus" "to kill"
+
+   "occīsiōnis" "massacre, slaughter, murder"
+   "occīsiō, occīsiōnis" "massacre, slaughter, murder"
 
    "occultāverant" "they had hidden"
    "occultāvērunt" "they hide"
@@ -7677,6 +7707,7 @@
    "saeculum, saeculī" "age, generation"
    
    "sagitta" "arrow"
+   "sagittae" "arrows"
    "sagittās" "arrows"
    "sagittīs" "arrows"
    "sagitta, sagittae" "arrow"
@@ -8742,6 +8773,9 @@
    "ūtēnsilia" "utensils"
    "ūtēnsiliā" "utensils"
    "ūtēnsilia, ūtēnsiliae" "utensils"
+
+   "uterō" "womb"
+   "uterus, uterī" "womb"
    
    "ūvae" "grape"
    "ūvārum" "of grapes"
@@ -8790,6 +8824,10 @@
    "vāsculum" "small vessel"
    "vāsculum, vāsculī" "small vessel"
    "vāsculōrum" "of small vessels"
+
+   "vāticinātiō" "prophecy"
+   "vāticinātiōnem" "prophecy"
+   "vāticinātiō, vāticinātiōnis" "prophecy"
 
    "vehēbantur" "was being carried"
    "vehō, vehere, vēxī, vectus" "to carry"
@@ -9063,6 +9101,7 @@
    "vocātur" "to be called"
    "vōcibus" "voices"
    "vocāvit" "he called"
+   "vocātum" "having been called"
    "vocer" "I am being called"
    "vocō, vocāre, vocāvī, vocātus" "to call, to summon"
    
