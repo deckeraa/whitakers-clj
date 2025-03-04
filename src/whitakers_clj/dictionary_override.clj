@@ -673,6 +673,8 @@
    "sibi" "to himself; singular dative of se"
    "sīc" "thus"
    "sīcut" "as, same as, like"
+   "Silvius" "Silvius, son of Aeneas (or Ascanius)"
+   "Silviī" "Silvius, son of Aeneas (or Ascanius) (genitive case)"
    "similiter" "similarly"
    "simul" "at the same time as"
    "sine" "without"
@@ -1759,6 +1761,7 @@
    "britanniam" "Britain"
    "Britannia, Britanniae" "Britain"
 
+   "brittō" "Briton, an inhabitant of Britain"
    "brittōnēs" "Britons, inhabitants of Britain"
    "Brittō, Brittōnēs" "Briton, an inhabitant of Britain"
 
@@ -4945,6 +4948,7 @@
    "iūstus" "just"
    "jūstus, jūsta -um, jūstior -or -us, jūstissimus -a -um" "just"
 
+   "iūdicābat" "he was judging, he was deciding"
    "iūdicāvērunt" "they judged"
    "iūdicāvit" "he judged"
    "iūdicāre" "to judge"
@@ -5068,6 +5072,9 @@
    "lātitūdinis" "breadth, width, latitude"
    "lātitūdō" "breadth, width, latitude"
    "lātitūdō, lātitūdinis" "breadth, width, latitude"
+
+   "latīnōs" "Latins, of Latium"
+   "Latīnus, Latīna, Latīnum" "Latin, of Latium"
 
    "lāta" "wide"
    "lātum" "wide"
@@ -5379,6 +5386,8 @@
    "mānsit" "he remained"
    "maneō, manēre, mānsī, mānsus" "to remain"
    "manet" "he remains"
+   "maneant" "he remains"
+   
    "manifestāvit" "he revealed"
    "manifestō, manifestāre, manifestāvī, manifestātus" "to reveal"
    
