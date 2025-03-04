@@ -38,6 +38,7 @@
    "Aduatucīs" "The Aduatucī, a Germanic tribe (dative or ablative case)"
    "aegrē" "scarcely"
    "aegypto" "Egypt, dative or ablative case"
+   "aeneae" "Aeneas, Trojan prince and legendary founder of Alba Longa, birthplace of Romulus and Remus (genitive case)"
    "aeneas" "Aeneas, Trojan prince and legendary founder of Alba Longa, birthplace of Romulus and Remus"
    "aequāliter" "equally"
    "aethiopum" "Ethiopian, black"
@@ -82,6 +83,7 @@
    "Armoriācās" "The Amoriacas, a region of northern Gaul that includes the Brittany Peninsula"
    "Arpinēius" "Arpinēius, a Roman family name"
    "Ascaniō" "Ascanius, legendary king of Alba Longa, son of Aeneas (ablative or dative case)"
+   "Ascanius" "Ascanius, legendary king of Alba Longa, son of Aeneas (ablative or dative case)"
    "asportāte" "take away! Plural imperative from asportō, asportāre, asportāvī, asportātus"
    "assāte" "Roast! Bake! Broil! Plural imperative from assō, assāre, assāvī, assātus"
    "at" "and"
@@ -273,6 +275,8 @@
    "Haroldō" "Harold (ablative case)"
    "Haroldum" "Harold (accusative case)"
    "Haroldus" "Harold (nominative case)"
+   "helī" "Eli, Old Testament high priest."
+   "Helī" "Eli, Old Testament high priest."
    "herī" "yesterday"
    "Hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
    "hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
@@ -491,6 +495,7 @@
    "ōrā" "pray! singular imperative from ōrō, ōrāre, ōrāvī, ōrātus"
    "ōrāte" "pray! plural imperative from ōrō, ōrāre, ōrāvī, ōrātus"
    "Orc" "The Orkney Isles, located off the northern coast of Scotland"
+   "Orcades" "The Orkney Isles, located off the northern coast of Scotland"
    "orgetorīgis" "Orgetorix, a Helvetic aristocrat (genitive case)."
    "Orgetorīgis" "Orgetorix, a Helvetic aristocrat (genitive case)."
    "orgetorīx" "Orgetorix, a Helvetic aristocrat."
@@ -1101,6 +1106,9 @@
    "alimōnia, alimōniae" "food, nourishment"
    "aliō" "other"
    "ālīs" "wings"
+
+   "aliēnigenīs" "strangers, foreigners"
+   "aliēnigena, aliēnigenae" "stranger, foreigner"
    
    "aliēnāvit" "he alienated"
    "aliēnārī" "to be alienated"
@@ -1318,6 +1326,7 @@
    "appellābat" "he was calling, he was naming"
    "appellābātur" "he was being called"
    "appellantur" "they are called"
+   "appellātī" "having been called"
    "appellātus" "having been called"
    "appellāvit" "he called, he named"
    "appellō, appellāre, appellāvī, appellātus" "to call, to name"
@@ -1377,6 +1386,9 @@
    "arbōrum" "of trees"
    "arbustam" "planted with trees"
    "arbustus, arbusta, arbustum" "planted with trees"
+
+   "arca" "chest, coffer, coffin, cell"
+   "arca, arcae" "chest, coffer, coffin, cell"
 
    "arcessītam" "having been summoned, fetched"
    "arcessere" "to summon, to fetch"
@@ -4889,6 +4901,9 @@
    "irruet" "it will rush in"
    "irruit" "it rushes, it rushed"
    "irruō, irruere, irruī, irrutus" "to rush into, to force way to"
+
+   "isrāhēl" "Israel"
+   "Isrāhēl, Isrāhēlis" "Israel"
    
    "ita" "yes; in this manner"
    
