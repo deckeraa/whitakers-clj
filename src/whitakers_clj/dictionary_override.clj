@@ -132,6 +132,9 @@
    "cibō" "food; singular masculine ablative from cibum cibum, cibī"
    "cicerōnem" "Cicerō (accusative case)"
    "cicerōnī" "Cicerō (dative case)"
+   "ciula" "longship; singular feminine nominative variant spelling from ceola, ceolae"
+   "ciulae" "longship; singular feminine genitive or plural nominative variant spelling from ceola, ceolae"
+   "ciulīs" "longship; plural feminine dative or ablative variant spelling from ceola, ceolae"
    "circā" "around, about, concerning"
    "circiter" "near, close, about"
    "circum" "about, around, near"
@@ -741,6 +744,7 @@
    "Titūrī" "Titūrius, a Roman family name (genitive case)"
    "Titūrium" "Titūrius, a Roman family name (accusative case)"
    "Titūrius" "Titūrius, a Roman family name (nominative case)"
+   "totidem" "as many, the same number of"
    "trahō, trahere, trāxī, tractum" "to draw, to drag, to haul"
    "trāxissent" "they (might) have had drawn"
    "trēverī" "Treveri, a tribe of Gallia Belgica (plural nominative)"
@@ -5793,6 +5797,7 @@
    "multōrum" "many"
    "multōs" "many"
    "plūrēs" "more"
+   "plūrimās" "very many"
    "plūrimum" "very many"
    "multus, multa -um, -, plūrimus -a -um" "many"
    
@@ -6640,8 +6645,11 @@
    "perīculīs" "dangers"
    "perīculō" "danger"
    "perīculum, perīculī" "danger"
+   
    "pereat" "may it perish"
+   "perivērunt" "they perished"
    "pereō, perīre, perivī(iī), peritus" "to perish"
+   
    "perlustrābant" "they were wandering through"
    "perlustrō, perlustrāre, perlustrāvī, perlustrātus" "to wander through"
    
@@ -7154,6 +7162,9 @@
    "prōpellere" "to drive, to defeat"
    "prōpellō, prōpellere, prōpulī, prōpulsus" "to drive, to defeat"
 
+   "properāvērunt" "they hurried"
+   "properō, properāre, properāvī, properātus" "to hurry"
+
    "prophētātiō"    "prophecy"
    "prophētātiōnis" "prophecy"
    "prophētātiō, prophētātiōnis" "prophecy"
@@ -7305,9 +7316,12 @@
    "quadringentīs" "400"
    "quadringentōs" "400"
    "quadringentī -ae -a, quadringentesimus -a -um, quadringeni -ae -a, quadringentie (n)s" "400"
+   
    "quadrātō" "square"
    "quadrāta" "squares"
    "quadrātum, quadrātī" "square"
+
+   "quaerēbant" "they were seeking"
    "quaerit" "he seeks"
    "quaerite" "seek!"
    "quaeritis" "you are seeking"
@@ -7512,7 +7526,8 @@
 
    "religiōsīs" "religious"
    "religiōsus, religiōsa, religiōsum" "religious"
-   
+
+   "relicta" "having been left behind"
    "relictīs" "leaving behind"
    "relinquō, relinquere, relīquī, relictum" "to leave behind"
 
@@ -7618,6 +7633,7 @@
 
    "respondet" "he responds"
    "respondēbat" "he was responding"
+   "respondēbant" "they were responding"
    "respondērunt" "they responded"
    "respondit" "he responded"
    "respondeō, respondēre, respondī, respōnsus" "to respond"
@@ -7912,6 +7928,7 @@
    "sector, sectārī, sectātus sum" "to run after, to hunt out"
    
    "secunda" "second"
+   "secundus" "second"
    
    "sedēbat" "he was sitting"
    "sedēbant" "they were sitting"
@@ -7990,6 +8007,10 @@
    "septentriōnālem" "northern"
    "septentriōnālī" "northern"
    "septentriōnālis, septentriōnālis, septentriōnāle" "northern"
+
+   "septimāna" "week"
+   "septimānā" "week"
+   "septimāna, septimānae" "week"
 
    "sepulchrī" "grave"
    "sepulchrum" "grave"
@@ -8762,7 +8783,8 @@
    "turpius" "uglier"
    "turpissima" "ugly, nasty, repulsive, shameful"
    "turpis, turpe, turpior -or -us, turpissimus -a -um" "ugly, nasty, repulsive, shameful"
-   
+
+   "turrim" "tower"
    "turris" "tower"
    "turris, turris" "tower"
 
@@ -9128,6 +9150,7 @@
    "vireō, virēre, viruī, -" "to be green, to be vigorous"
    "vir" "man"
    "virī" "man"
+   "virīs" "men"
    "vir, virī" "man"
    "virō" "man"
    "virōrum" "of the men"
@@ -9165,6 +9188,9 @@
    "vitiī" "vice, crime"
    "vitiīs" "vices, crimes"
    "vitium, vitiī" "vice, crime"
+
+   "vitream" "of glass, glassy, resemblingg glass in its color (greenish), translucency, or glitter"
+   "vitreus, vitrea, vitreum" "of glass, glassy, resemblingg glass in its color (greenish), translucency, or glitter"
    
    "vitreum" "glass"
    "vitreum, vitreī" "glass"
