@@ -4315,6 +4315,7 @@
    "hībernīs" "winter camp"
    "hībernum, hībernī" "winter camp"
 
+   "hībernia" "Ireland"
    "hīberniam" "Ireland"
    "Hībernia, Hīberniae" "Ireland"
 
@@ -4331,6 +4332,8 @@
    "hilaritātis" "good humor"
    "hilaritāte" "good humor"
 
+   "hispāniae" "of Hispania"
+   "Hispāniae" "of Hispania"
    "Hispāniam" "Hispania"
    "hispāniam" "Hispania"
    "Hispānia, Hispāniae" "Hispania"
@@ -4551,6 +4554,7 @@
    "impetus, impetūs" "attack, assault, fury"
 
    "implentēs" "filling up"
+   "implēta" "having been filled upo"
    "implēvit" "he fulfilled, filled up"
    "impleō, implēre, implēvī, implētus" "to fill up"
    "implēre" "to fill up"
@@ -5576,6 +5580,7 @@
    
    "mīles" "soldier"
    "mīlitēs" "soldiers"
+   "mīlitis" "of a soldier"
    "mīlitibus" "soldiers"
    "mīlitum" "of soldiers"
    "mīles, mīlitis" "soldier"
@@ -5737,6 +5742,9 @@
    "mordēre" "to bite"
    "mordeō, mordēre, momordī, morsus" "to bite"
 
+   "mortālitās" "mortality"
+   "mortālitās, mortālitātis" "mortality"
+
    "mortua" "dead"
    "mortuae" "dead"
    "mortuōs" "dead"
@@ -5762,6 +5770,8 @@
    "Moyses, Moysis" "Moses"
 
    "mulier"   "woman"
+   "mulierēs" "women"
+   "mulieribus" "women"
    "mulieris" "woman"
    "mulier, mulieris" "woman"
    
@@ -5851,6 +5861,10 @@
    "nātūra" "nature"
    "nātūra, nātūrae" "nature"
 
+   "naufragiō" "shipwreck"
+   "naufragium" "shipwreck"
+   "naufragium, naufragiī" "shipwreck"
+
    "nāve" "boat"
    "nāvem" "boat"
    "nāvēs" "boats"
@@ -5878,6 +5892,7 @@
    "nāvigēmus" "let us sail"
    "nāvigāvit" "he sailed"
    "nāvigāvērunt" "they sailed"
+   "nāvigāvisse" "to have sailed"
    "nāvigāvisset" "he (might) have navigated"
    "nāvigāvissent" "they (might) have navigated"
    "nāvigandum" "sailing, navigating"
@@ -5996,6 +6011,7 @@
    "novem" "nine"
 
    "novī" "new, inexperienced"
+   "novissimē" "very new, very inexperienced"
    "novissimō"  "very new, very inexperienced"
    "novissimum" "very new, very inexperienced"
    "novīs" "new, inexperienced"
@@ -6221,6 +6237,9 @@
 
    "onere" "burden"
    "onus, oneris" "burden"
+
+   "operuit" "he covered"
+   "operiō, operīre, operuī, opertus" "to cover"
    
    "oportet" "it is right/proper/necessary"
    "oportere" "it is right/proper/necessary"
@@ -6240,6 +6259,7 @@
 
    "oppugnātiō" "assault, attack"
    "oppugnātiōne" "assault, attack"
+   "oppugnātiōnem" "assault, attack"
    "oppugnātiōnis" "assault, attack"
    "oppugnātiō, oppugnātiōnis" "assault, attack"
 
