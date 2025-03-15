@@ -22,6 +22,7 @@
    "abbā" "father, abbot"
    "Abraham" "Abraham, the Old Testament patriarch"
    "absit" "forbid it! May it be absent!"
+   "albānōrum" "of the people of Alba Longa"
    "ac" "and"
    "ācriter" "sharply"
    "āctīs" "acts, ablative from ācta, a plural-only second declension noun"
@@ -679,6 +680,7 @@
    "simul" "at the same time as"
    "sine" "without"
    "singulāriter" "singularly, solitary, peerless; adverb from singulāris, singulāre"
+   "sinistrali" "left, singular feminine ablative from sinistra, sinistrae"
    "sinus" "pocket, fold; singular masculine nominative from sinus, sinūs"
    "sinū" "pocket, fold; singular masculine ablative from sinus, sinūs"
    "sinum" "pocket, fold; singular masculine accusative from sinus, sinūs"
@@ -1052,6 +1054,9 @@
    "agrōs" "fields"
    "agrum" "field"
    "ager, agrī" "field"
+
+   "agnōminis" "surname, nickname"
+   "agnōmen, agnōminis" "surname, nickname"
    
    "agnam" "lamb"
    "agna, agnae" "lamb"
@@ -2427,6 +2432,9 @@
    "cōnfortāre" "to comfort, to strengthen"
    "cōnfortāvit" "he comforted, he strengthened"
    "cōnfortō, cōnfortāre, cōnfortāvī, cōnfortātus" "to comfort, to strengthen"
+
+   "cōnfrācta" "having been broken in pieces, shattered"
+   "cōnfringō, cōnfringere, cōnfrēgī, cōnfrāctus" "to break in pieces, to shatter"
    
    "cōnfugit" "he flees"
    "cōnfūgit" "he fled"
@@ -2445,6 +2453,9 @@
 
    "coniugium" "marriage"
    "coniugium, coniugiī" "marriage"
+
+   "coniugibus" "spouses"
+   "conjunx, conjugis" "spouse"
 
    "coniūrātiōnī" "conspiracy"
    "coniūrātiōnem" "conspiracy"
@@ -2511,6 +2522,8 @@
 
    "cōnspēxerant" "they had observed"
    "cōnspēxerat" "he had observed"
+   "cōnspiciēbant" "they were observing"
+   "cōnspiciunt" "they observe"
    "cōnspēxissent" "they (might) have had observed"
    "cōnspicere" "to observe"
    "cōnspiciō, cōnspicere, cōnspēxī, cōnspectus" "to observe"
@@ -2710,6 +2723,9 @@
    "cremārētur" "he (might) have been burning"
    "cremāre" "to burn"
    "cremō, cremāre, cremāvī, cremātus" "to burn"
+
+   "crēvērunt" "they increased, they came forth"
+   "crēscō, crēscere, crēvī, crētus" "to increase, to come forth"
    
    "cruciātibus" "tortures"
    "cruciātus, cruciātūs" "tortures"
@@ -2920,6 +2936,9 @@
    "dēligere" "to choose, to select"
    "dēligō, dēligere, dēlēgī, dēlēctus" "to choose, to select"
 
+   "dēmersī" "I submerged, I sank"
+   "dēmergō, dēmergere, dēmersī, dēmersus" "to submerge, to sink"
+
    "dēmōnstrat" "he demonstrates"
    "dēmōnstrātum" "having been demonstrated"
    "dēmōnstrāveram" "I had demonstrated"
@@ -2956,6 +2975,7 @@
    "deōs" "gods"
 
    "dēscendentēs" "descending"
+   "dēscenderant" "they had descended"
    "dēscendisse" "to have descended"
    "dēscendō, dēscendere, dēscendī, dēscēnsus" "to descend"
 
@@ -3477,6 +3497,9 @@
    "eucharistiam" "Eucharist/Lord's Supper/Communion"
    "eucharistia, eucharistiae" "Eucharist/Lord's Supper/Communion"
 
+   "ēvāsit" "he avoided, he escaped"
+   "ēvādō, ēvādere, ēvāsī, ēvāsus" "to avoid, to escape"
+
    "ēvangeliō" "gospel"
    "ēvangelium, ēvangeliī" "gospel"
 
@@ -3581,6 +3604,9 @@
    
    "exposuimus" "we explained"
    "expōnō, expōnere, exposuī, expositus" "to explain"
+
+   "expugnandam" "assaulting, storming, conquering"
+   "expugnō, expugnāre, expugnāvī, expugnātus" "to assault, to storm, to conquer"
 
    "expulissent" "they had expelled"
    "expulsus" "having been driven out"
@@ -3749,6 +3775,7 @@
    "ferō, ferre, tulī, lātus" "to bring, to bear"
    "ferēbātur" "it was brought"
    "ferēbāntur" "they were brought"
+   "fertur" "it is brought"
    
    "ferrāmentīs" "iron tools"
    "ferrāmentum, ferrāmentī" "iron tool"
@@ -3958,6 +3985,9 @@
    "fossa" "ditch, moat"
    "fossam" "ditch, moat"
    "fossa, fossae" "ditch, moat"
+
+   "frāctiōnem" "breaking"
+   "frāctiō, frāctiōnis" "breaking"
 
    "fragmentum, fragmentī" "fragment"
    "fragmentum" "fragment"
@@ -5750,6 +5780,7 @@
    "multī"  "many"
    "multīs" "many"
    "multō" "many"
+   "multōrum" "many"
    "multōs" "many"
    "plūrēs" "more"
    "plūrimum" "very many"
@@ -5962,6 +5993,8 @@
    "nōtus" "known"
    "nōtus, nōta -um, nōtior -or -us, nōtissimus -a -um" "known"
 
+   "novem" "nine"
+
    "novī" "new, inexperienced"
    "novissimō"  "very new, very inexperienced"
    "novissimum" "very new, very inexperienced"
@@ -6118,6 +6151,7 @@
    "occupātō" "attack!"
    "occupātis" "having been seized"
    "occupātōs" "having been seized"
+   "occupāvērunt" "they seized, overtook, attacked"
    "occupō, occupāre, occupāvī, occupātum" "to seize, to overtake, to attack"
 
    "occurrerat" "he had run"
@@ -6823,6 +6857,12 @@
    "portus" "harbor, port"
    "portus, portūs" "harbor, port"
 
+   "possidēbātur" "it was being possessed"
+   "possideō, possidēre, possēdī, possessus" "to possess, to own, to seize, to occupy"
+
+   "postumus" "late, particularly of a child born after a father's death"
+   "postumus, postuma, postumum" "late, particularly of a child born after a father's death"
+
    "posse" "to be able"
    "posset" "he (might) have had been able"
    "possent" "they (might) have had been able"
@@ -7440,6 +7480,7 @@
 
    "rēgnābat" "he was reigning"
    "rēgnantem" "reigning"
+   "rēgnāvit" "he reigned"
    "rēgnāre" "to reign"
    "rēgnō, rēgnāre, rēgnāvī, rēgnātus" "to reign"
    
@@ -8033,7 +8074,7 @@
    "singulus, singula, singulum" "one each"
 
    "singulārī" "singular, peerless"
-   
+
    "sinite" "allow! permit!"
    "sinō, sinere, sīvī, situs" "to allow, to permit"
    "sim" "I (might) be"
@@ -8529,6 +8570,9 @@
    "tenuēs" "thin"
    "tenuis, tenue, tenuior -or -us, tenuissimus -a -um" "thin"
 
+   "testamenti" "of a will, of a testament"
+   "testāmentum, testāmentī" "will, testament"
+
    "testimōniō" "witness, evidence"
    "testimōnium, testimōniī" "witness, evidence"
    
@@ -8849,6 +8893,9 @@
    "vāsculum, vāsculī" "small vessel"
    "vāsculōrum" "of small vessels"
 
+   "vāstāvērunt" "they ravaged, they devastated"
+   "vāstō, vāstāre, vāstāvī, vāstātus" "to lay waste, to devastate, to ravage"
+
    "vāticinātiō" "prophecy"
    "vāticinātiōnem" "prophecy"
    "vāticinātiō, vāticinātiōnis" "prophecy"
@@ -9121,6 +9168,7 @@
    "vīvus" "alive"
    "vīvus, vīva, vīvum" "alive"
 
+   "vocantur" "they are called"
    "vocārētur" "he (might) have been called"
    "vocātur" "to be called"
    "vōcibus" "voices"
