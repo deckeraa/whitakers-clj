@@ -355,6 +355,7 @@
    "in" "into (with accusative), in (with ablative)"
    "inaequaliter" "unequally"
    "inde" "from there, since"
+   "indēsinenter" "incessantly, ceaselessly"
    "indūtiomarī" "Indūtiomārus, one of the chiefs of the Treviri"
    "indūtiomārus" "Indūtiomārus, one of the chiefs of the Treviri"
    "inferōs" "Hades, plural masculine accusative from īnferus, īnfera, īnferum"
@@ -994,6 +995,9 @@
    "aedificiīs" "buildings"
    "aedificium, aedificiī" "building, structure"
 
+   "aegyptiī" "Egyptian"
+   "Aegyptius, Aegyptiī" "Egyptian"
+
    "aequālī" "equal"
    "aequālis" "equal"
    "aequālis, aequāle, aequālior -or -us, aequālissimus -a -um" "equal"
@@ -1034,6 +1038,9 @@
 
    "afflictiō, afflictiōnis" "affliction, pain"
    "afflictiōne" "affliction, pain"
+
+   "africam" "Africa"
+   "Africa, Africae" "Africa"
 
    "āfricō" "southwest, southwest wind"
    "āfricus, āfricī" "southwest, southwest wind"
@@ -1370,7 +1377,8 @@
 
    "aquilam" "eagle, eagle standard"
    "aquila, aquilae" "eagle, eagle standard"
-   
+
+   "aquilōne"  "north wind"
    "aquilōnem" "north wind"
    "aquilō, aquilōnis" "north wind"
 
@@ -1386,6 +1394,9 @@
    "arāta" "having been plowed, having been cultivated"
    "arāre" "to plow, to cultivate"
    "arō, arāre, arāvī, arātus" "to plow, to cultivate"
+
+   "ārās" "altars, refuges"
+   "āra, ārae" "altar, refuge"
    
    "arbor" "tree"
    "arboris" "tree"
@@ -1774,6 +1785,7 @@
    "brittōnēs" "Britons, inhabitants of Britain"
    "Brittō, Brittōnēs" "Briton, an inhabitant of Britain"
 
+   "brūtus" "Brutus"
    "brūtō" "Brutus"
    "Brūtus, Brūtī" "Brutus"
    
@@ -2562,6 +2574,7 @@
 
    "cōnsule" "consul"
    "cōnsulem" "consul"
+   "cōnsulēs" "consuls"
    "cōnsulibus" "consuls"
    "cōnsul, cōnsulis" "consul"
 
@@ -2816,6 +2829,7 @@
    "dalmaticae" "deacon's vestmests"
    "dalmatica, dalmaticae" "deacon's vestmests"
 
+   "damnāta" "condemned"
    "damnātum" "condemned"
    "damnātus, damnāta, damnātum" "condemned"
 
@@ -2983,6 +2997,9 @@
    "dēscendisse" "to have descended"
    "dēscendō, dēscendere, dēscendī, dēscēnsus" "to descend"
 
+   "dēserta" "deserts"
+   "dēsertum, dēsertī" "desert"
+
    "dēsīderāret" "he desired"
    "dēsīderāre" "to desire"
    "dēsīderō, dēsīderāre, dēsīderāvī, dēsīderātus" "to desire"
@@ -3064,6 +3081,9 @@
    "dīcēbantur" "they were said"
    "dīcō, dīcere, dīxī, dictus" "to say"
 
+   "dictātōrēs" "dictators"
+   "dictātor, dictātōris" "dictator"
+
    "dictiōnis" "saying, talk"
    "dictiō" "saying, talk"
    "dictiō, dictiōnis" "saying, talk"
@@ -3101,6 +3121,7 @@
 
    "dignitās" "worth, honor, esteem, rank"
    "dignitās, dignitātis" "worth, honor, esteem, rank"
+   "dignitāte" "worth, honor, esteem, rank"
    "dignitātem" "worth, honor, esteem, rank"
    "dignitātis" "worth, honor, esteem, rank"
    
@@ -3612,8 +3633,10 @@
    "expugnandam" "assaulting, storming, conquering"
    "expugnō, expugnāre, expugnāvī, expugnātus" "to assault, to storm, to conquer"
 
+   "expulsī" "having been driven out"
    "expulissent" "they had expelled"
    "expulsus" "having been driven out"
+   "expellerent" "they drove out"
    "expellere" "to drive out, to expel"
    "expellō, expellere, expulī, expulsus" "to drive out, to expel"
 
@@ -3858,6 +3881,7 @@
    "fīlia, fīliae" "daughter"
    
    "fīliī" "sons"
+   "fīliīs" "sons"
    "fīliō" "son"
    "fīlium" "son"
    "fīlius" "son"
@@ -4727,6 +4751,9 @@
    "ingressus" "entrance"
    "ingressus, ingressūs" "entrance"
 
+   "inhabitābilis" "uninhabitable"
+   "inhabitābilis, inhabitābilis, inhabitābile" "uninhabitable"
+
    "inimīcī" "enemy"
    "inimīcō" "enemy"
    "inimīcus" "enemy"
@@ -4737,6 +4764,7 @@
    "inīquitātem" "iniquity"
 
    "inī" "enter! go in!"
+   "inivērunt" "they entered"
    "ineō, inīre, inivī(iī), initus" "enter, go in"
    
    "initiō" "beginning, entrance"
