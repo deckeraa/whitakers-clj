@@ -489,6 +489,7 @@
    "nūper" "recently"
    "nūtrītōrem" "nurse; singular masculine accusative from nūtrītor, nūtrītōrēs"
    "ob" "for, because of, towards"
+   "obitum" "death"
    "obviam" "in the path"
    "octāvīs" "octaves, 8th"
    "octāvās" "octaves, 8th"
@@ -2340,6 +2341,9 @@
    "comportāvissent" "they (might) have brought together"
    "comportō, comportāre, comportāvī, comportātus" "to bring together"
 
+   "compotī" "reckoning, possession/control/mastery of"
+   "compos, (gen.), compotis" "possession/control/mastery of"
+
    "comprehenderant" "they had caught"
    "comprehēnsōs" "having been seized"
    "comprehendere" "to catch"
@@ -2818,6 +2822,10 @@
    "custōdiunt" "they guard"
    "custōdiō, custōdīre, custōdīvī, custōdītus" "to guard, to watch over"
    "custōdīte" "guard!"
+
+   "cyclī"  "circle, cycle"
+   "cyclum" "circle, cycle"
+   "cyclus, cyclī" "circle, cycle"
    
    "daemōn" "demon"
    "daemōnem" "demon"
@@ -2869,6 +2877,10 @@
    
    "decānus" "dean, chief"
    "decānus, decānī" "dean, chief"
+
+   "decemnovennalem" "nineteen-year cycle; singular accusative adjective from decemnovennalis"
+   "decemnovennalēs" "nineteen-year cycle; plural nominative adjective from decemnovennalis"
+   "decemnovennalis" "nineteen-year cycle; singular nominative adjective from decemnovennalis"
 
    "dēceptus" "having been cheated, deceived"
    "dēcipere" "to cheat, deceive"
@@ -6152,7 +6164,7 @@
    "obēdiāmus" "let us obey"
    "obēdientem" "obeying"
    "obēdiō, obēdīre, obēdīvī, obēdītus" "to obey"
-   
+
    "oblīviō, oblīviōnis" "forgetfulness"
    "oblīviōnem" "forgetfulness"
    
@@ -6266,6 +6278,10 @@
    "officiō" "duty, service, favor"
    "officium" "duty, service, favor"
    "officium, officiī" "duty, service, favor"
+
+   "ogoade" "eight, eight-year cycle; singular feminine ablative from ogdoas, ogdoadis"
+   "ogdoas, ogdoadis" "eight, eight-year cycle"
+   
    "ōlla" "pot, jar"
    "ōlla, ōllae" "pot, jar"
    
@@ -7754,6 +7770,7 @@
    "revolvō" "I turn over, I repeat"
    "revolvō, revolvere, revolvī, revolūtus" "to turn over, to repeat"
 
+   "rēgis" "of the king"
    "rēgēs" "kings"
    "rēgī" "king"
    "rēgibus" "kings"
@@ -8526,6 +8543,9 @@
    "suppeteret" "it (might) have sufficed"
    "suppetere" "to be at hand, to suffice"
    "suppetō, suppetere, suppetīvī, suppetītus" "to be at hand, to suffice"
+
+   "supputantur" "they are computed"
+   "supputō, supputāre, supputāvī, supputātus" "to compute"
    
    "surgite" "raise! lift! get up!"
    "surrēxit" "he raised up"
