@@ -404,6 +404,7 @@
    "judas" "Judas Iscariot"
    "kal" "Abbreviation for kalendae, the first day of the month"
    "Kyarragi" "A region in western Ireland"
+   "lacum" "lake; singular masculine accusative from lacus, lacūs."
    "lātē" "widely; adverb from lātus, -a, -um"
    "Latobrigīs" "Latobrigi, neighbors to the Helvetii"
    "Lāvīniam" "Lavinia, the wife of Aeneas"
@@ -619,6 +620,7 @@
    "rīvulus, rīvulī" "rivulet, small brook"
    "rōmānī" "Romans"
    "rubicunditātis" "redness. This word did not appear in any dictionaries I consulted, but the meaning is clear from the context. It appears to be a variant of rubicundus -a -um, meaning red, ruddy, or rubicund."
+   "rūrsum" "backwards, on the flipside"
    "rūrsus" "backwards, on the flipside"
    "Ryeuall" "Rievaulx, a village about 9 miles from Byland Abbey."
    "sabīnō" "Sabīnus, a Roman name"
@@ -4293,6 +4295,7 @@
    "habitandum" "living"
    "habitant" "they inhabit"
    "habitāta" "having been inhabited"
+   "habitāvērunt" "they inhabited"
    "habitāvī" "I inhabited"
    "habitō, habitāre, habitāvī, habitātus" "to inhabit"
    
@@ -4328,12 +4331,19 @@
    "herba, herbae" "grass, herb"
    "herbīs" "herbs, grass"
    "herbās" "herbs"
+   
    "herbōsa" "grassy, herbaceous"
    "herbōsam" "grassy, herbaceous"
    "herbōsus" "grassy, herbaceous"
+
+   "herculis" "of Hercules"
+   "Herculis" "of Hercules"
+   "Herculēs, Herculis" "Hercules"
+   
    "hērēditātem" "inheritance"
    "hērēditāte" "inheritance"
    "hērēditās, hērēditātis" "inheritance"
+   
    "heremita" "hermit"
    "heremitam" "hermit"
    "heremita, heremitae" "hermit"
@@ -5429,6 +5439,9 @@
    "malleōrum" "of hammers"
    "malleus, malleī" "hammer"
 
+   "malvam" "mallow plant"
+   "malva, malvae" "mallow plant"
+
    "mamilla"  "breast"
    "mamillae" "breast"
    "mamillās" "breasts"
@@ -5581,6 +5594,9 @@
 
    "mercenāriī" "hired servant, working man"
    "mercenārius, mercenāriī" "hired servant, working man"
+
+   "mersī" "having been plunged, sunk, drowned"
+   "mergō, mergere, mersī, mersus" "to plunge, sink, drown"
    
    "merīdiem" "mid-day"
    "merīdiēs, merīdiēī" "mid-day"
@@ -5729,6 +5745,11 @@
    "monachōs" "monks"
    "monachōrum" "of monks"
    "monachus, monachī" "monk"
+
+   "monarchia" "monarchy"
+   "monarchiam" "monarchy"
+   "monarchia, monarchiae" "monarchy"
+   
    "monastēriī" "monastery"
    "monastēriō" "monastery"
    "monastērium" "monastery"
@@ -5806,6 +5827,10 @@
    "mulieribus" "women"
    "mulieris" "woman"
    "mulier, mulieris" "woman"
+
+   "multiplicāta" "having been multiplied"
+   "multiplicātī" "having been multiplied"
+   "multiplicō, multiplicāre, multiplicāvī, multiplicātus" "to multiply, to increase"
    
    "multitūdō" "multitude, great number"
    "multitūdine" "multitude, great number"
@@ -6158,6 +6183,7 @@
    "obtinēbant" "they were obtaining"
    "obtinuerat" "he had obtained"
    "obtinuerant" "they had obtained"
+   "obtinuērunt" "they obtained"
    "obtinuit" "he obtained"
    "obtinēre" "to obtain"
    "obtineō, obtinēre, obtinuī, obtentus" "to obtain"
@@ -6750,7 +6776,8 @@
    "perturbātī" "having been troubled, confused"
    "perturbātis" "you trouble, confuse"
    "perturbō, perturbāre, perturbāvī, perturbātus" "to trouble"
-   
+
+   "pervēnērunt" "they arrived"
    "pervēnisset" "he (might) have had come"
    "perveniō, pervenīre, pervēnī, perventus" "to come to, to arrive"
    "pervenit" "he arrives"
@@ -6826,6 +6853,9 @@
    "plānitia" "plain"
    "plānitiae" "plain"
    "plānitia, plānitiae" "plain"
+
+   "plēbis" "common people"
+   "plēbs, plēbis" "common people"
    
    "plēnā" "full"
    "plēnae" "full"
@@ -7275,6 +7305,9 @@
    "psalmus, psalmī" "psalm"
    "psaltēriī" "the Psalms"
    "psaltērium, psaltēriī" "the Psalms"
+
+   "pūblicam" "public woman"
+   "pūblica, pūblicae" "public woman"
    
    "pūblica" "public"
    "pūblicum, pūblicī" "public"
@@ -7525,6 +7558,9 @@
    "refulgeō, refulgēre, refulsī, -" "to shine"
    "refugium" "refuge"
    "refugium, refugiī" "refuge"
+
+   "rēgia" "royal palace, court"
+   "rēgia, rēgiae" "royal palace, court"
    
    "regiō" "region"
    "regiōne" "region"
@@ -7797,6 +7833,9 @@
    
    "rubricātīs" "red, reddened"
    "rubricātus, rubricāta, rubricātum" "red, reddened"
+
+   "rubrum" "red"
+   "ruber, rubra, rubrum" "red"
    
    "rubus" "thorn bush"
    "rubum" "thorn bush"
@@ -7846,6 +7885,9 @@
    "sagus, sagī" "sage"
    "sāl, salis" "salt"
    "sale" "salt"
+
+   "salīnārum" "of salt-pits"
+   "salīnae, salīnārum" "salt-pits"
 
    "saltus" "narrow pass, mountain defile, leap, jump"
    "saltūs" "narrow pass, mountain defile, leap, jump"
@@ -8585,6 +8627,7 @@
    "tempora" "times, periods"
    "tempus" "time, period"
    "tempore" "time, period"
+   "temporis" "of times, of periods"
    "temporum" "of times, of periods"
    "tempus, temporis" "time, period"
    
