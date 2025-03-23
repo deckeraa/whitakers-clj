@@ -1042,6 +1042,7 @@
    "afflictiō, afflictiōnis" "affliction, pain"
    "afflictiōne" "affliction, pain"
 
+   "africa"  "Africa"
    "africam" "Africa"
    "Africa, Africae" "Africa"
 
@@ -3143,6 +3144,9 @@
    "dīgnum" "worthy, appropriate"
    "dīgnus, dīgna, dīgnum" "worthy, appropriate"
 
+   "dīlātāvērunt" "they expanded, prolonged"
+   "dīlātō, dīlātāre, dīlātāvī, dīlātātus" "to expand, prolong"
+
    "dīlēctiōne" "love"
    "dīlēctiō, dīlēctiōnis" "love"
    
@@ -3231,6 +3235,8 @@
    "dīvidit" "he divides"
    "dīvidunt" "they divide"
    "dīvīsa" "having been divided"
+   "dīvīsae" "having been divided"
+   "dīvīsērunt" "they divided"
    "dīvīsit" "he divided"
    "dīvidō, dīvidere, dīvīsī, dīvīsus" "to divide"
    
@@ -3535,6 +3541,10 @@
    "eucharistia" "Eucharist/Lord's Supper/Communion"
    "eucharistiam" "Eucharist/Lord's Supper/Communion"
    "eucharistia, eucharistiae" "Eucharist/Lord's Supper/Communion"
+
+   "eurōpa" "Europe"
+   "eurōpam" "Europe"
+   "Eurōpa, Eurōpae" "Europe"
 
    "ēvāsit" "he avoided, he escaped"
    "ēvādō, ēvādere, ēvāsī, ēvāsus" "to avoid, to escape"
@@ -3897,6 +3907,7 @@
    "fīliī" "sons"
    "fīliīs" "sons"
    "fīliō" "son"
+   "fīliōs" "sons"
    "fīlium" "son"
    "fīlius" "son"
    "fīlius, fīlī" "son"
@@ -6374,6 +6385,7 @@
    "ōrātōrium" "oratory, building for prayer"
    "ōrātōrium, ōrātōriī" "oratory, building for prayer"
 
+   "orbem" "sphere, orbit, circle, ring"
    "orbis" "sphere, orbit, circle, ring"
    "orbis, orbis" "sphere, orbit, circle, ring"
    
@@ -6407,6 +6419,7 @@
    "ōrāvit" "he prayed"
    "ōrō, ōrāre, ōrāvī, ōrātus" "to pray"
 
+   "ortae" "having arisen"
    "oriuntur" "they originate, they arise"
    "orīrī" "to originate, to arise"
    "orior, orīrī, ortus sum" "to originate, to arise"
@@ -6715,6 +6728,11 @@
    "perīculīs" "dangers"
    "perīculō" "danger"
    "perīculum, perīculī" "danger"
+
+   "perītia"  "skill, experience"
+   "perītiae" "skill, experience"
+   "perītiam" "skill, experience"
+   "perītia, perītiae" "skill, experience"
    
    "pereat" "may it perish"
    "perivērunt" "they perished"
@@ -7975,6 +7993,7 @@
    "saxōsus, saxōsa, saxōsum" "rocky"
 
    "saxa" "rocks"
+   "saxō" "rock"
    "saxum, saxī" "rock"
 
    "scaphās" "light boats, skiffs"
@@ -8680,6 +8699,7 @@
    "tergī" "back"
    "tergum, tergī" "back"
 
+   "terminōs" "ends, boundaries, limits"
    "terminus" "end, boundary, limit"
    "terminus, terminī" "end, boundary, limit"
    
@@ -8756,6 +8776,9 @@
    "trādidit" "he handed over"
    "trādidimus" "we handed over"
    "trādō, trādere, trādidī, trāditus" "to hand over"
+
+   "trāditiōne" "surrender, delivering up"
+   "trāditiō, trāditiōnis" "surrender, delivering up"
    
    "trāditor" "traitor"
    "trāditor, trāditōris" "traitor"
