@@ -866,6 +866,11 @@
 
    "accidere" "to fall upon, to happen"
    "accidō, accidere, accidī, accāsus" "to fall upon, to happen"
+
+   "acceptiō" "acceptance"
+   "acceptiōne" "acceptance"
+   "acceptiōnis" "acceptance"
+   "acceptiō, acceptiōnis" "acceptance"
    
    "accēpērunt" "they accepted, they received"
    "acceptā" "having been accepted"
@@ -885,6 +890,8 @@
    "accipe"   "accept! receive!"
    "accipite" "accept! receive!"
    "acceptum" "having been received"
+   "accēpisset" "he had received"
+   "acciperent" "they received"
    
    "ācrius" "harsher"
    "ācer, ācris -e, ācrior -or -us, ācerrimus -a -um" "harsh"
@@ -1015,6 +1022,11 @@
    "aere" "copper"
    "aes" "copper"
    "aes, aeris" "copper"
+
+   "aestimātiō" "valuation, estimation"
+   "aestimātiōne" "valuation, estimation"
+   "aestimātiōnis" "valuation, estimation"
+   "aestimātiō, aestimātiōnis" "valuation, estimation"
    
    "aestīvāle" "summer"
    "aestīvālis, aestīvālis, aestīvāle" "summer"
@@ -1275,6 +1287,9 @@
    "animōs" "souls, minds, lives"
    "anima, animae" "soul, mind, life"
    "animae" "soul, mind, life"
+
+   "animālia" "animals"
+   "animal, animālis" "animal"
    
    "animantia" "living, giving life"
    "animō, animāre, animāvī, animātus" "to give live, to animate, to revive"
@@ -1352,6 +1367,9 @@
    "appellātus" "having been called"
    "appellāvit" "he called, he named"
    "appellō, appellāre, appellāvī, appellātus" "to call, to name"
+
+   "appetītus" "appetite"
+   "appetītus, appetītūs" "appetite"
    
    "appendentibus" "hanging"
    "appendō, appendere, appendī, appēnsus" "to hang"
@@ -1401,6 +1419,11 @@
 
    "ārās" "altars, refuges"
    "āra, ārae" "altar, refuge"
+
+   "arbitriī" "will, arbitration"
+   "arbitriō" "will, arbitration"
+   "arbitrium" "will, arbitration"
+   "arbitrium, arbitriī" "will, arbitration"
    
    "arbor" "tree"
    "arboris" "tree"
@@ -2032,6 +2055,9 @@
    "cēnandī" "of dining"
    "cēnandum" "dining"
    "cēnō, cēnāre, cēnāvī, cēnātus" "to dine"
+
+   "cēnsum" "census"
+   "cēnsum, cēnsī" "census"
    
    "centum" "hundred"
 
@@ -2210,6 +2236,8 @@
    "cōgnōscitis" "you recognize, you know"
    "cōgnōsceret" "he (might) have recognized, learned"
    "cōgnōscerent" "they (might) have recognized, learned"
+   "cōgnōscit" "he recognizes"
+   "cōgnōscunt" "they recognize"
    "cōgnōverat" "they had recognized, learned"
    "cōgnōvisset" "he (might) have had recognized, learned"
    "cōgnōvissent" "they (might) have had recognized, learned"
@@ -2531,6 +2559,9 @@
    "cōnsiliō"  "plan, advice, council"
    "cōnsilium" "plan, advice, council"
    "cōnsilium, cōnsiliī" "plan, advice, council"
+
+   "cōnsiliātī" "having been consulted"
+   "cōnsilior, cōnsiliārī, cōnsiliātus sum" "to consult, advise"
 
    "cōnsistendum" "taking a position, standing together"
    "cōnstitērunt" "they took a position, they stood together"
@@ -2953,6 +2984,11 @@
    "dēlīberandum" "deliberating"
    "dēlīberāre" "to deliberate"
    "dēlīberō, dēlīberāre, dēlīberāvī, dēlīberātus" "to deliberate"
+
+   "dēlīberātiō" "deliberation"
+   "dēlīberātiōne" "deliberation"
+   "dēlīberātiōnis" "deliberation"
+   "dēlīberātiō, dēlīberātiōnis" "deliberation"
    
    "dēliciārum" "of delights"
    "dēliciae, dēliciārum" "delights"
@@ -3094,6 +3130,7 @@
    "dictō" "having been said"
    "dīcunt" "they say"
    "dīcēbantur" "they were said"
+   "dicendum" "for saying"
    "dīcō, dīcere, dīxī, dictus" "to say"
 
    "dictātōrēs" "dictators"
@@ -3116,6 +3153,7 @@
 
    "differunt" "they delay, they differ"
    "differre" "to delay, to differ"
+   "differt" "it differs"
    "differō, differre, distulī, dīlātus" "to delay, to differ"
    
    "difficillimum" "very difficult"
@@ -3195,11 +3233,17 @@
    
    "discipulus" "student"
    "discipulus, discipulī" "student"
+   
    "discooperta" "having been uncovered"
    "discoopertum" "having been uncovered"
    "discooperiō, discooperīre, discooperuī, discoopertus" "to bare, to disclose"
+   
    "discubuissent" "he (might) have had reclined at table/laid down"
    "discumbō, discumbere, discubuī, discubitus" "to recline at table, to lie down"
+
+   "discursum" "discourse"
+   "discursus, discursūs" "discourse"
+   
    "discurrō, discurrere, discurrī, discursus" "to run around"
    "discurrentēs" "running around"
 
@@ -3430,6 +3474,11 @@
    "ēgredior, ēgredī, ēgressus sum" "to go out, to egress"
    
    "eius" "his, hers, its"
+
+   "ēlēctiō" "choice, selection"
+   "ēlēctiōne" "choice, selection"
+   "ēlēctiō, ēlēctiōnis" "choice, selection"
+   
    "elemosina" "alms"
    "elemosina, elemosinae" "alms"
    "elemosyna, elemosynae" "alms"
@@ -3444,6 +3493,7 @@
    "ēligit" "he chooses"
    "ēlēctīs" "having been chosen"
    "ēlēgit" "he chose"
+   "ēligere" "to choose"
    "ēligō, ēligere, ēlēgī, ēlēctus" "to choose"
 
    "ēmīsimus" "we sent out"
@@ -3581,6 +3631,9 @@
    "excitātur" "he is being raised up"
    "excitō, excitāre, excitāvī, excitātus" "to wake up, to stir up, to raise, to excite"
 
+   "excellentius" "more excellent"
+   "excellēns, excellentis (gen.), excellentior -or -us, excellentissimus -a -um" "excellent"
+
    "exemplum" "sample, model, copy"
    "exemplum, exemplī" "sample, model, copy"
 
@@ -3614,6 +3667,7 @@
 
    "exīstimābat" "he was estimating, valuing"
    "exīstimābant" "they were estimating, valuing"
+   "exīstimat" "he estimates"
    "exīstimāvit" "he estimated"
    "exīstimāre" "to estimate, to value"
    "exīstimō, exīstimāre, exīstimāvī, exīstimātus" "to estimate, to value"
@@ -4113,6 +4167,7 @@
    "fūgērunt" "they fled"
    "fugiāmus" "we might have fled"
    "fugiendō" "fleeing"
+   "fugit" "he flees, he fled"
    "fugite" "flee"
    "fugiō, fugere, fūgī, fugitus" "to flee, to avoid"
    
@@ -4693,6 +4748,9 @@
    "incrēdibilis, incrēdibilis, incrēdibile" "incredible"
    "incurvō, incurvāre, incurvāvī, incurvātus" "to make crooked, to bend"
    "incurvātae" "being curved"
+
+   "inditum" "having put on"
+   "indō, indere, indidī, inditus" "to put on"
    
    "indicā" "show! indicate!"
    "indicātam" "having been indicated, shown"
@@ -4834,6 +4892,12 @@
 
    "inquit" "he says, he said"
    "inquiam, -, -" "to say"
+
+   "inquīsītiō" "inquiry"
+   "inquīsītiōne" "inquiry"
+   "inquīsītiōnem" "inquiry"
+   "inquīsītiōnis" "inquiry"
+   "inquīsītiō, inquīsītiōnis" "inquiry"
    
    "īnsertā" "insert! introduce!"
    "īnsertō, īnsertāre, īnsertāvī, īnsertātus" "to insert, to introduce"
