@@ -4893,6 +4893,9 @@
    "inquit" "he says, he said"
    "inquiam, -, -" "to say"
 
+   "inquīrendō" "examining, inquiring"
+   "inquīrō, inquīrere, inquīsīvī, inquīsītus" "to examine, inquire"
+
    "inquīsītiō" "inquiry"
    "inquīsītiōne" "inquiry"
    "inquīsītiōnem" "inquiry"
@@ -4937,6 +4940,11 @@
    "integer" "whole, intact, untouched"
    "integer, integra -um, integrior -or -us, integerrimus -a -um" "whole, intact, untouched"
    "integrōs" "whole, intact, untouched"
+
+   "intellēctum" "intellect"
+   "intellēctus" "intellect"
+   "intellēctūs" "intellect"
+   "intellēctus, intellēctūs" "intellect"
 
    "intellegerent" "they (might) have been understanding, realizing"
    "intellegere" "to understand, to realize"
@@ -5063,6 +5071,9 @@
 
    "īrāta" "angry"
    "īrātus, īrāta, īrātum" "angry"
+
+   "irratiōnālia" "irrational"
+   "irratiōnāl, irratiōnālis" "unreasoning animal"
    
    "irruet" "it will rush in"
    "irruit" "it rushes, it rushed"
@@ -5340,6 +5351,11 @@
    "līberāvērunt" "they liberated"
    "līberō, līberāre, līberāvī, līberātus" "to liberate"
 
+   "līberī" "free"
+   "līberō" "free"
+   "līberum" "free"
+   "līber, lībera, līberum" "free"
+
    "lībertāte" "liberty"
    "lībertās, lībertātis" "liberty"
    
@@ -5423,6 +5439,7 @@
    "loquēla" "speech, utterance"
    "loquēla, loquēlae" "speech, utterance"
 
+   "loquitur" "he talks"
    "loquēbātur" "he was talking"
    "loquendum" "talking"
    "loquerentur" "they (might) have had said"
@@ -5454,6 +5471,9 @@
 
    "lūna" "moon, month"
    "lūna, lūnae" "moon, month"
+
+   "lupum" "wolf"
+   "lupus, lupī" "wolf"
    
    "luter" "otter"
    "luter, lutrī" "otter"
@@ -5902,6 +5922,8 @@
    "movēbat" "he was moving"
    "movent" "they move"
    "movērētur" "they (might) have been moving"
+   "movētur" "he was moved"
+   "mōta" "having been moved"
    "movēre" "to move"
    "moveō, movēre, mōvī, mōtus" "to move"
 
@@ -6174,6 +6196,9 @@
    "noctibus" "nights"
    "nox" "night"
    "nox, noctis" "night"
+
+   "noxium" "harmful"
+   "noxius, noxia, noxium" "harmful"
    
    "nūbēs" "cloud"
    "nūbe" "cloud"
@@ -6514,9 +6539,11 @@
    "ōstium" "door"
    "ōstium, ōstiī" "door"
    "ōstium, ōsti(ī)" "door"
+   
    "ovem" "sheep"
    "ovēs" "sheep"
    "ovibus" "sheep"
+   "ovis" "sheep"
    "ovium" "of sheep"
    "ovis, ovis" "sheep"
 
@@ -6622,6 +6649,7 @@
    "pāstus, pāstūs" "pasture, fodder, food"
    "pāstum" "pasture, fodder, food"
 
+   "patet" "it lies open"
    "patēbant" "they stood open, they lied open"
    "pateō, patēre, patuī, -" "to stand open, to extend, to lie open"
    
@@ -6903,6 +6931,9 @@
    
    "petrōsa" "rocky places"
    "petrōsum, petrōsi" "rocky place"
+
+   "philosophus" "philosopher"
+   "philosophus, philosophī" "philosopher"
 
    "pictī" "Picts, a Scottish tribe"
    "pictōs" "Picts, a Scottish tribe"
@@ -7208,6 +7239,7 @@
    "prīma" "first"
    "prīmī" "first"
    "prīmō" "first"
+   "prīmum" "first"
    "prīmus" "first"
    "prīmus, prīma, prīmum" "first"
    "primitia, primitiae" "first fruits"
@@ -7242,6 +7274,7 @@
    "probāre" "to approve, to commend, to demonstrate"
    "probō, probāre, probāvī, probātus" "to approve, to commend, to demonstrate"
 
+   "procēditur" "it is proceeded, advanced"
    "processisset" "he (might) have had proceeded"
    "procēdere" "to proceed"
    "procēdō, procēdere, processī, processus" "to proceed"
@@ -7547,6 +7580,7 @@
    "ratis, ratis" "raft, bark, vessel"
 
    "rationem" "reason"
+   "ratiōnis" "reason"
    "ratiō, ratiōnis" "reason"
 
    "rebelliōne" "renewal of war, rebellion"
