@@ -5456,6 +5456,7 @@
    "longa" "long, far"
    "longārum" "long, far"
    "longās" "long, far"
+   "longīs" "long, far"
    "longum" "long, far"
    "longus" "long, far"
    "longius" "longer, farther"
@@ -5514,6 +5515,10 @@
    "lūx" "light"
    "lūcis" "light"
    "lūx, lūcis" "light"
+
+   "maerens" "mourning"
+   "maereō, maerēre, -, -" "to mourn"
+   "maereō, maerēre, maeruī" "to mourn"
 
    "magus" "magician"
    "magī" "magician"
@@ -5962,6 +5967,9 @@
    "moyse" "Moses"
    "moysen" "Moses"
    "Moyses, Moysis" "Moses"
+
+   "mūgīs" "you low, you bellow"
+   "mūgiō, mūgīre, mūgīvī, mūgītus" "to low, to bellow"
 
    "mulier"   "woman"
    "mulierēs" "women"
@@ -6672,6 +6680,9 @@
    "passuum" "of steps, of paces"
    "passus, passūs" "step, pace"
 
+   "pasta" "paste"
+   "pasta, pastae" "paste"
+   
    "pāstōre" "shepherd, pastor"
    "pāstor, pāstōris" "shepherd, pastor"
    
@@ -6739,6 +6750,9 @@
    "peccāvī" "I sinned"
    "peccāvērunt" "they sinned"
    "peccō, peccāre, peccāvī, peccātus" "to sin"
+
+   "pectore" "chest"
+   "pectus, pectoris" "chest"
    
    "pede" "foot"
    "pedem" "foot"
@@ -7253,6 +7267,9 @@
    "prandium" "breakfast, meal"
    "prandium, prandiī" "breakfast, meal"
 
+   "prāta" "meadows"
+   "prātum, prātī" "meadow"
+
    "premantur" "they are being overwhelmed"
    "premī" "to be pressed, to be overwhelmed"
    "premit" "he presses, he overwhelms"
@@ -7546,6 +7563,7 @@
    "quadrātum, quadrātī" "square"
 
    "quaerēbant" "they were seeking"
+   "quaerēbat" "he was seeking"
    "quaerit" "he seeks"
    "quaerite" "seek!"
    "quaeritis" "you are seeking"
@@ -7707,6 +7725,7 @@
    "referēns" "bringing back, reporting"
    "referrentur" "they (might) be being reported"
    "referre" "to bring back, to report"
+   "refert" "he brings back"
    "referō, referre, rettulī, relātus" "to bring back, to report"
    
    "refocilātiō" "refreshment"
@@ -8012,6 +8031,9 @@
    
    "ruīna" "collapse, ruin, destruction"
    "ruīna, ruīnae" "collapse, ruin, destruction"
+
+   "rūra" "farms"
+   "rūs, rūris" "country"
    
    "rūsticam" "rural"
    "rūsticus, rūstica, rūsticum" "rural"
