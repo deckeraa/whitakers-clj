@@ -1076,6 +1076,7 @@
    
    "agitābātur" "to be stirred up"
    "agite" "act! conduct (yourself)!"
+   "agitāre" "to act, to put in motion"
    "agitō, agitāre, agitāvī, agitātus" "to act, to put in motion"
    "āgnita" "having been recognized, having been acknowledged"
    "agnōscerētur" "it was acknowledged"
@@ -1944,6 +1945,7 @@
    "capit" "he takes"
    "capite" "take!"
    "capere" "to seize, to take hold"
+   "captus" "having been seized"
    "captūrōs" "having been taken"
    "cēpērunt" "they took"
    "cēpimus" "we took"
@@ -1989,6 +1991,7 @@
    "carō, carnis" "meat, flesh"
 
    "carpere" "to pluck, to pick"
+   "carperet" "he plucked"
    "carpō, carpere, carpsī, carptus" "to pluck, to pick"
 
    "carrī" "four-wheeled wagon"
@@ -2648,6 +2651,9 @@
 
    "cōnsultō" "response, plan"
    "cōnsultum, cōnsultī" "response, plan"
+
+   "cōnsūmptī" "having been consumed"
+   "cōnsūmō, cōnsūmere, cōnsūmpsī, cōnsūmptus" "to consume"
    
    "cōnsummātīs" "being accomplished, being ended"
    "cōnsummō, cōnsummāre, cōnsummāvī, cōnsummātus" "to accomplish, to end, to consume"
@@ -2703,6 +2709,7 @@
    "convenīrent" "they (might) have met together"
    "convēnissent" "they had come together"
    "conventūra" "to come together (in the future)"
+   "convēnēre" "they came"
    "conveniō, convenīre, convēnī, conventus" "to meet, to come together"
    
    "conversātiōne" "intimacy, acquaintance, way of life, monastic life"
@@ -3248,7 +3255,8 @@
    "dīmittō, dīmittere, dīmīsī, dīmissus" "to dismiss, to send away"
    "dīmissa" "having been sent away"
    "dīmissō" "having been sent away"
-   
+
+   "dīra" "ominous, dreadful"
    "dīrās" "ominous, dreadful"
    "dīrus, dīra -um, dīrior -or -us, dīrissimus -a -um" "ominous, dreadful"
    "dīrigis" "you align, you direct"
@@ -3257,6 +3265,7 @@
    "dīrigite" "arrange! direct!"
    "dīrigō, dīrigere, dīrēxī, dīrēctus" "to arrange in line, to align, to direct"
 
+   "dītis" "rich"
    "dītissimus" "rich"
    "dīs, dītis (gen.), dītior -or -us, dītissimus -a -um" "rich"
 
@@ -3304,6 +3313,7 @@
 
    "dīves" "rich"
    "dīvitī" "rich"
+   "dīvitis" "rich"
    "dīves, dīvitis (gen.), dīvitior -or -us, dīvitissimus -a -um" "rich"
    
    "dīvīna" "divine"
@@ -3497,6 +3507,9 @@
    "effundō, effundere, effūdī, effūsus" "to pour out"
    "effūdisset" "he (might) have had poured out"
    "effūdissent" "they (might) have had poured out"
+
+   "egēns" "lacking, being poor"
+   "egeō, egēre, eguī, -" "to lack, to be poor"
    
    "ego" "I"
    
@@ -3937,6 +3950,9 @@
    "ferveō, fervēre, ferbuī, -" "to boil"
    "fervōris" "boiling heat"
    "fervor, fervōris" "boiling heat"
+
+   "fessa" "tired"
+   "fessus, fessa, fessum" "tired"
    
    "fēstī" "festive"
    "festīnābant" "they were hastening"
@@ -4364,6 +4380,10 @@
    "gregem" "flock"
    "gregēs" "flocks"
    "grex, gregis" "flock"
+
+   "gressus" "stepping, going, way"
+   "gressus, gressūs" "stepping, going, way"
+   
    "gubernāre" "to steer, to direct, to guide"
    "gubernō, gubernāre, gubernāvī, gubernātus" "to steer, to direct, to guide"
    "guberna" "rudders, helm, steering oars"
@@ -5224,6 +5244,10 @@
    "lac" "milk"
    "lac, lactis" "milk"
 
+   "lacerāvisse" "to have mangled, tormented"
+   "lacerāre" "to mangle, to torment"
+   "lacerō, lacerāre, lacerāvī, lacerātus" "to mangle, to torment"
+   
    "lacessendum" "provoking"
    "lacessō, lacessere, lacessīvī, lacessītus" "to provoke"
    
@@ -5508,6 +5532,7 @@
    "lūdus, lūdī" "school, game"
    
    "lūmen" "light"
+   "lūmine" "light"
    "lūminis" "light"
    "lūmen, lūminis" "light"
    
@@ -6173,6 +6198,9 @@
    "nescīvit" "he didn't know"
    "nesciō, nescīre, nescīvī, nescītus" "to not know"
 
+   "necis" "death, slaughter"
+   "nex, necis" "death, slaughter"
+
    "nihilō" "nothing"
    "nihilum, nihilī" "nothing"
 
@@ -6384,6 +6412,7 @@
 
    "occultāverant" "they had hidden"
    "occultāvērunt" "they hide"
+   "occultāret" "he was hiding"
    "occultāre" "to hide"
    "occultō, occultāre, occultāvī, occultātus" "to hide"
 
