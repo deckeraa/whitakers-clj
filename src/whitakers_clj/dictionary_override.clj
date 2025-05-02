@@ -919,6 +919,9 @@
    "addūcere" "to lead, to persuade"
    "addūcō, addūcere, addūxī, adductus" "to lead, to persuade"
 
+   "adlātō" "having been brought to"
+   "adferō, adferre, adtulī, adlātus" "to bring to"
+
    "adficiēbantur" "they were being equipped, they were being affected"
    "adficere" "to equip, to affect"
    "adficiō, adficere, adfēcī, adfectus" "to equip, to affect"
@@ -1100,6 +1103,7 @@
    "agit" "I act, I conduct"
    "agitis" "you act, you conduct"
    "ēgissent" "you might have had conducted"
+   "agēbantur" "they were being driven"
    "agendum" "to be done"
    "agere" "to conduct, to act"
    "agō, agere, ēgī, āctus" "to conduct, to act"
@@ -1178,6 +1182,9 @@
    "alterōrum" "of others"
    "alterum" "the other"
    "alter, altera, alterum" "the other"
+
+   "alternē" "alternatively"
+   "alternus, alterna, alternum" "alternative"
    
    "altitūdine" "height, depth"
    "altitūdinem" "height, depth"
@@ -1207,6 +1214,9 @@
    
    "amantissimī" "most loving"
    "amāns, amantis (gen.), amantior -or -us, amantissimus -a -um" "loving"
+
+   "amārīs" "bitter, harsh"
+   "amārus, amāra, amārum" "bitter, harsh"
 
    "ambulābat" "he was walking"
    "ambulābant" "they were walking"
@@ -1507,6 +1517,9 @@
 
    "artis" "of art"
    "ars, artis" "art, skill"
+
+   "artus" "joint, limb"
+   "artus, artūs" "joint, limb"
    
    "arūrae" "square fields of 100 cubits"
    "arūra, arūrae" "a square field of 100 cubits"
@@ -7049,6 +7062,9 @@
    "pluviā" "rainy"
    "pluvius, pluvia, pluvium" "rainy"
 
+   "podagra" "gout (inflamed swellings) in the feet"
+   "podagra, podagrae" "gout (inflamed swellings) in the feet"
+
    "poenam" "penalty, punishment"
    "poenās" "penalty, punishment"
    "poena, poenae" "penalty, punishment"
@@ -7311,6 +7327,9 @@
    "prior" "prior, ahead, previous"
    "prior, prior, prius" "prior, ahead, previous"
 
+   "prīscīs" "ancients"
+   "prīscus, prīsca, prīscum" "ancient, early"
+
    "prīstinam" "previous"
    "prīstinī" "previous"
    "prīstinus, prīstina, prīstinum" "previous"
@@ -7517,6 +7536,9 @@
    "pugnārent" "they (might) have been fighting"
    "pugnātum" "having been fought"
    "pugnō, pugnāre, pugnāvī, pugnātus" "to fight"
+
+   "pūlex" "flea"
+   "pūlex, pūlicis" "flea"
 
    "pulsum" "pulse, stroke"
    "pulsus, pulsūs" "pulse, stroke"
