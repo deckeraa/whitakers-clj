@@ -362,6 +362,7 @@
    "iniussū" "without an order (ablative)"
    "inlūxit" "he began to shine; from inlūcēscō, inlūcēscere, inlūxī, -"
    "innocenter" "innocently"
+   "inquantum" "insofar as"
    "inter" "between, among, during"
    "intereā" "during"
    "interfecta" "interfect est = was killed"
@@ -835,6 +836,9 @@
    "abbās, abbātis" "abbot"
    "abbātem" "abbot"
 
+   "abit" "you depart"
+   "abeō, abīre, abiī, abitus" "to depart"
+
    "abesse" "to be absent"
    "abest" "he is absent"
    "absunt" "they are absent"
@@ -1129,6 +1133,9 @@
    "albus, alba -um, albior -or -us, albissimus -a -um" "white"
    "albī" "white"
    "albīs" "white"
+
+   "āles" "bird"
+   "āles, ālitis" "bird"
    
    "alia" "other"
    "aliae" "other"
@@ -1308,6 +1315,7 @@
    "annōrum" "of years"
    "annōs" "years"
    "annum" "year"
+   "annus" "year"
    "annus, annī" "year"
    
    "annonam" "yearly income"
@@ -2115,6 +2123,9 @@
    "cibum" "food"
    "cibus" "food"
    "cibus, cibī" "food"
+
+   "cicōnia" "stork"
+   "cicōnia, cicōniae" "stork"
    
    "cīmītērium" "cemetery"
    "cīmītērium, cīmītēriī" "cemetery"
@@ -2798,6 +2809,10 @@
 
    "crucīfīxissent" "having had crucified"
    "crucīfīgō, crucīfīgere, crucīfīxī, crucīfīxus" "to crucify"
+
+   "crūra" "legs"
+   "crūribus" "legs"
+   "crūs, crūris" "leg"
    
    "crystallī" "crystal"
    "crystallō" "crystal"
@@ -2834,6 +2849,9 @@
    "curaverat" "he had taken care to"
    "cūrāre" "to take care to, attend to"
    "cūrō, cūrāre, cūrāvī, cūrātus" "to take care to, attend to"
+
+   "cūrēs" "spear"
+   "cūris, cūris" "spear"
 
    "cucurrērunt" "they ran"
    "currere" "to run"
@@ -7827,6 +7845,7 @@
    "respīrantem" "breathing"
    "respīrō, respīrāre, respīrāvī, respīrātus" "to breathe"
 
+   "respondeō" "I respond"
    "respondet" "he responds"
    "respondēbat" "he was responding"
    "respondēbant" "they were responding"
@@ -8012,6 +8031,9 @@
    "sagittās" "arrows"
    "sagittīs" "arrows"
    "sagitta, sagittae" "arrow"
+
+   "sagittante" "shooting arrows"
+   "sagittō, sagittāre, sagittāvī, sagittātus" "to shoot arrows"
    
    "sagus" "sage"
    "sagī" "sage"
@@ -8393,6 +8415,9 @@
    "sorbēbat" "he was drinking, he was absorbing"
    "sorbeō, sorbēre, sorbuī, sorbitus" "to drink, to absorb"
 
+   "soror" "sister"
+   "soror, sorōris" "sister"
+
    "spargō, spargere, sparsī, sparsus" "to scatter, to sprinkle"
    "sparsa" "having been scattered"
    
@@ -8604,6 +8629,9 @@
    
    "sufflantium" "inflating"
    "sufflō, sufflāre, sufflāvī, sufflātus" "inflating"
+
+   "suxī" "I sucked"
+   "sūgō, sūgere, suxī, suctus" "to suck, to imbibe"
    
    "sulcābat" "it was furrowing, it was plowing"
    "sulcantem" "furrowing"
@@ -8727,7 +8755,8 @@
    "tantō" "so much, so great, this many"
    "tantum" "so much, so great, this many"
    "tantus, tanta, tantum" "so much, so great, this many"
-   
+
+   "tetigī" "I touched"
    "tangere" "to touch, to strike"
    "tangō, tangere, tetigī, tāctus" "to touch, to strike"
 
@@ -8792,6 +8821,9 @@
    "tentōriō" "tent"
    "tentōriī" "tent"
    "tentōrium, tentōriī" "tent"
+
+   "teris" "you rub, you wear out"
+   "terō, terere, trīvī, trītus" "to rub, to wear out"
 
    "terga" "back"
    "tergī" "back"
@@ -8978,6 +9010,9 @@
 
    "tumultus" "uproar"
    "tumultus, tumultūs" "uproar"
+
+   "turbātus" "disturbed, confused"
+   "turbō, turbāre, turbāvī, turbātus" "disturbed, confused"
    
    "turbine" "whirlwind, revolution"
    "turben, turbinis" "whirlwind, revolution"
@@ -9052,6 +9087,9 @@
    
    "ungulās" "claws, hooves"
    "ungula, ungulae" "claw, hoof"
+
+   "ūniversālem" "universal"
+   "universalis, universalis, universale" "universal"
 
    "ūniversās" "whole, entire"
    "ūniversī"  "whole, entire"
@@ -9216,8 +9254,9 @@
    "veritus" "having been revered, feared"
    "vereor, verērī, veritus sum" "to revere, to fear"
    
-   "vēritās, vēritātis" "truth"
+   "vēritātis" "truth"
    "vēritātī" "truth"
+   "vēritās, vēritātis" "truth"
    
    "versibus" "verses, poetic lines"
    "versiculō" "verse, poetic line"
@@ -9396,6 +9435,10 @@
    "vītam" "life"
    "vītae" "life"
    "vīta, vītae" "life"
+
+   "vitellus" "small calf"
+   "vitellus, vitellī" "small calf"
+   
    "vitium" "vice, crime"
    "vitiī" "vice, crime"
    "vitiīs" "vices, crimes"
