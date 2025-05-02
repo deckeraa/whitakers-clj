@@ -3023,6 +3023,9 @@
    "dēligere" "to choose, to select"
    "dēligō, dēligere, dēlēgī, dēlēctus" "to choose, to select"
 
+   "dēmēns" "having been taken away"
+   "dēmō, dēmere, dēmpsī, dēmptus" "to take away"
+
    "dēmersī" "I submerged, I sank"
    "dēmergō, dēmergere, dēmersī, dēmersus" "to submerge, to sink"
 
@@ -3149,6 +3152,7 @@
    "dīcunt" "they say"
    "dīcēbantur" "they were said"
    "dicendum" "for saying"
+   "dīxisse" "to have said"
    "dīcō, dīcere, dīxī, dictus" "to say"
 
    "dictātōrēs" "dictators"
@@ -3347,6 +3351,7 @@
    "dō, dare, dedī, datum" "to give (irregular)"
 
    "docēbant" "they were teaching"
+   "docent" "they teach"
    "docēre" "to teach"
    "doceō, docēre, docuī, doctus" "to teach"
 
@@ -3835,6 +3840,9 @@
    "fallam" "I will deceive"
    "fallere" "to deceive"
    "fallō, fallere, fefellī, falsus" "to deceive"
+
+   "famulentus" "rumor, reputation"
+   "fāma, fāmae" "fame, rumor"
    
    "familia" "family"
    "familia, familiās" "family"
@@ -4038,6 +4046,9 @@
    
    "fleō, flēre, flēvī, flētus" "to cry"
    "flētū" "weeping"
+
+   "flōrida" "flowery"
+   "flōridus, flōrida, flōridum" "flowery"
    
    "flōre" "flower"
    "flōribus" "flowers"
@@ -4784,6 +4795,9 @@
    "indigēs" "you lack?"
    "indigeō, indigēre, indiguē, -" "to lack"
    "indigēmus" "we lack"
+
+   "indīgnātus" "having been scorned"
+   "indīgnor, indīgnārī, indīgnātus sum" "deem unworthy, scorn"
 
    "inductus" "having been inducted"
    "indūcere" "to induct"
