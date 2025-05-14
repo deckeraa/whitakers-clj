@@ -1272,6 +1272,7 @@
    "angelī" "angel"
    "angelīs" "angel"
    "angelōs" "angels"
+   "angelus" "angel"
    "angelus, angelī" "angel"
    
    "angulōs" "corners, angles"
@@ -1837,6 +1838,10 @@
    "brūtus" "Brutus"
    "brūtō" "Brutus"
    "Brūtus, Brūtī" "Brutus"
+
+   "būbalī" "antelopes, gazelles, wild oxen, buffalos"
+   "būbalus" "antelope, gazelle, wild ox, buffalo"
+   "būbalus, būbalī" "antelope, gazelle, wild ox, buffalo"
    
    "būtȳrum" "butter"
    "būtȳrō" "butter"
@@ -1863,6 +1868,7 @@
    "caelus" "heaven, sky"
    "caelus, caelī" "heaven, sky"
 
+   "caelestem" "heavenly"
    "celeste" "heavenly"
    "celestis, celeste, celestior -or -us, celestissimus -a -um" "heavenly"
 
@@ -3425,6 +3431,8 @@
    "dormiēbant" "we were sleeping"
    "dormiam" "I will sleep"
    "dormiās" "you (might) sleep"
+   "dormiēns" "sleeping"
+   "dormīmus" "we sleep"
    "dormīvērunt" "they slept"
    "dormīre" "to sleep"
    "dormiō, dormīre, dormīvī, dormītus" "to sleep"
@@ -3479,6 +3487,7 @@
    "edere" "to eat"
    "ēdērunt" "they ate"
    "edimus" "we eat"
+   "edit" "he eats"
    "ēditē" "eat!"
    "edō, edere, ēdī, ēsus" "to eat"
 
@@ -3661,6 +3670,8 @@
    
    "ēvigilāns" "awakening"
    "ēvigilat" "he wakes up, he rouses"
+   "ēvigilāvērunt" "they woke up"
+   "ēvigilāvit" "he woke up"
    "ēvigilō, ēvigilāre, ēvigilāvī, ēvigilātus" "to awaken"
    "ēvigilantibus" "waking, being watchful"
    
@@ -4424,6 +4435,10 @@
    "habēret" "he (might) have had"
    "habita" "having been had"
    "habērent" "they (might) have been having"
+   "habēbimus" "we will have"
+   "habēbit" "he will have"
+   "habēbunt" "they will have"
+   "habuī" "I had"
    "habeō, habēre, habuī, habitus" "to have"
 
    "habitābam" "I was living"
@@ -5410,6 +5425,11 @@
    "lēgibus" "laws"
    "lēx" "law"
    "lēx, lēgis" "law"
+
+   "liber" "book"
+   "librī" "book"
+   "librō" "book"
+   "liber, librī" "book"
    
    "līberā" "liberate!"
    "līberābit" "he will liberate"
@@ -5727,6 +5747,10 @@
    "meīs" "our"
 
    "medērī" "to heal"
+
+   "mediaevālis" "medieval"
+   "mediaevālī" "medieval"
+   "mediaevālis, mediaevālis, mediaevāle" "medieval"
    
    "medicōs" "doctors"
    "medicus, medicī" "doctor"
@@ -9194,6 +9218,9 @@
    
    "ūrceolus, ūrceolī" "small pitcher"
    "ūrceolī" "small pitcher"
+
+   "ūrī" "aurochs"
+   "ūrus, ūrī" "aurochs"
 
    "ūsuī" "use, employment, skill"
    "ūsū"  "use, employment, skill"
