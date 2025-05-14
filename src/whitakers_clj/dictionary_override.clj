@@ -261,6 +261,7 @@
    "germānōrum" "of Germans"
    "germānōs" "Germans"
    "Germānōs" "Germans"
+   "gesta" "deeds, acts"
    "Goliae" "of Goliath, the Philistine giant that David slew; from Golias, Goliae."
    "gravissimē" "very gravely"
    "Grifa" "griffin, a lion-eagle hybrid; from grifa, grifae"
@@ -284,6 +285,7 @@
    "herī" "yesterday"
    "Hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
    "hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
+   "heu" "Hey! oh! (interjection)"
    "hōs" "these; plural masculine accusative from hic, haec, hoc"
    "Hybernia" "Ireland (nominative case)"
    "Hyberniae" "of Ireland (genitive case)"
@@ -2220,6 +2222,9 @@
    
    "clēmentia, clēmentiae" "mercy, clemency"
    "clēmentiae" "mercies"
+
+   "clēricālis" "clericaly, priestly"
+   "clēricālis, clēricālis, clēricāle" "clericaly, priestly"
    
    "clībanō" "earthenware, iron vessels"
    "clībanus, clībanī" "earthenware, iron vessels"
@@ -3280,6 +3285,9 @@
    "discessērunt" "they departed"
    "discēdere" "to depart"
    "discēdō, discēdere, discessī, discessus" "to depart"
+
+   "disciplīna" "teaching, instruction"
+   "disciplīna, disciplīnae" "teaching, instruction"
    
    "discipulus" "student"
    "discipulus, discipulī" "student"
@@ -9014,6 +9022,7 @@
    "tollō, tollere, sustulī, sublātus" "to raise up"
    
    "tormenta" "torments"
+   "tormentī" "torment"
    "tormentīs" "torments"
    "tormentōrum" "of torments"
    "tormentum, tormentī" "torment, cannon"
@@ -9231,6 +9240,7 @@
    "ūnus -a -um, prīmus -a -um, singulī -ae -a, semel" "one"
 
    "urbe" "city"
+   "urbem" "city"
    "urbs" "city"
    "urbis" "city"
    "urbs, urbis" "city"
