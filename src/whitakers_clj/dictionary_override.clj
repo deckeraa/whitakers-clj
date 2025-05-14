@@ -5874,9 +5874,12 @@
    "mīrae" "wonderful, marvelous"
    "mīrī" "wonderful, marvelous"
    "mīrus, mīra, mīrum" "wonderful, marvelous"
-   
+
+   "mīrābile" "marvelous, wonderful"
    "mīrābilia" "marvelous, wonderful"
    "mīrābilis" "marvelous, wonderful"
+   "mīrābilior" "more marvelous"
+   "mīrābilissimum" "most marvelous"
    "mīrābilis, mīrābilis, mīrābile" "marvelous, wonderful"
    
    "mīrāculum" "miracle"
@@ -6932,6 +6935,10 @@
    "perīculīs" "dangers"
    "perīculō" "danger"
    "perīculum, perīculī" "danger"
+
+   "peregrīnus" "traveler"
+   "peregrīnī" "travelers"
+   "peregrīnus, peregrīnī" "traveler"
 
    "perītia"  "skill, experience"
    "perītiae" "skill, experience"
@@ -8265,6 +8272,7 @@
    "sector, sectārī, sectātus sum" "to run after, to hunt out"
    
    "secunda" "second"
+   "secundī" "second"
    "secundus" "second"
    
    "sedēbat" "he was sitting"
@@ -8305,6 +8313,10 @@
    "sēmitam" "footpath"
    "sēmitās" "footpath"
    "sēmita, sēmitae" "footpath"
+
+   "sempiternus" "everlasting, eternal"
+   "sempiternīs" "everlasting, eternal"
+   "sempiternus, sempiterna, sempiternum" "everlasting, eternal"
 
    "senātū" "senate"
    "senātus" "senate"
@@ -8439,6 +8451,9 @@
    "similēs" "similar"
    "similis, simile" "similar"
 
+   "simulāvit" "he simulated"
+   "simulō, simulāre, simulāvī, simulātus" "to simulate"
+
    "singulārēs" "horse body-guard"
    
    "singulam" "one each"
@@ -8504,6 +8519,10 @@
    "solvere" "to loosen, to pay"
    "solvō, solvere, solvī, solūtus" "to loosen, to pay"
 
+   "somnia" "dreams"
+   "somnium" "dream"
+   "somnium, somniī" "dream"
+   
    "somnō" "sleep"
    "somnus, somnī" "sleep"
    
