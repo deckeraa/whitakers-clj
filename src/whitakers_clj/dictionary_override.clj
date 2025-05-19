@@ -39,6 +39,7 @@
    "Aduatucīs" "The Aduatucī, a Germanic tribe (dative or ablative case)"
    "aegrē" "scarcely"
    "aegypto" "Egypt, dative or ablative case"
+   "aegyptiōs" "Egyptians, plural accusative case"
    "aeneae" "Aeneas, Trojan prince and legendary founder of Alba Longa, birthplace of Romulus and Remus (genitive case)"
    "aeneas" "Aeneas, Trojan prince and legendary founder of Alba Longa, birthplace of Romulus and Remus"
    "aequāliter" "equally"
@@ -112,9 +113,13 @@
    "Brendānō" "(ablative or dative case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānum" "(accusative case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
+   "Brittannī" "Britons"
+   "Brittannōs" "Britons (accusative case)"
    "Brittannia" "Britain"
    "Brittanniae" "Britain (nominative plural or genitive singular case)"
    "Brittanniam" "Britain (accusative case)"
+   "Brittannīcō" "Britannic (dative case)"
+   "Brittannicīs" "Britannic (ablative case)"
    "Caiphā" "Ablative of Caiphas, a high priest involved with the crucifixion of Christ."
    "candida" "bright, white, clean; singular feminine nominative from candidus, candida, candidum"
    "cantāte" "Sing! Plural imperative from cantāre"
@@ -202,6 +207,7 @@
    "eīs" "to them; plural dative or ablative from is, ea, id"
    "Euboniā" "The Isle of Man, an island between Great Britain and Ireland."
    "euboniā" "The Isle of Man, an island between Great Britain and Ireland."
+   "euboniam" "The Isle of Man, an island between Great Britain and Ireland (accusative case)."
    "eburōnēs" "A Gallic-Germanic tribe of Gallia Belgica (nominative or accusative)"
    "eburōnum" "A Gallic-Germanic tribe of Gallia Belgica (genitive)"
    "ex" "out of, from"
@@ -567,6 +573,7 @@
    "quanta" "how much?"
    "quārē" "by what mean?"
    "quārtum" "for the fourth time"
+   "quārtus" "fourth"
    "quārum" "what; plural female genitive from qui"
    "quās" "who; plural female accusative of quis"
    "quattuor" "4"
@@ -577,6 +584,7 @@
    "quidem" "indeed, at last"
    "quīn" "even, in fact"
    "quīnquāgintā" "fifty"
+   "quinque" "five"
    "quīntō" "for the fifth time"
    "Quīntus" "Quintus, a Roman name"
    "quīntus" "Quintus, a Roman name"
@@ -673,12 +681,14 @@
    "semetipsum" "he himself"
    "semper" "always"
    "septem" "seven"
+   "septimus" "seventh"
    "septimō" "seventh"
    "sēsē" "himself"
    "seu" "or, what if"
    "sex" "six"
    "sexta" "sixth"
    "sextam" "sixth"
+   "sextus" "sixth"
    "sexāgintā" "sixty"
    "sī" "if"
    "sibi" "to himself; singular dative of se"
@@ -1884,6 +1894,9 @@
    "caesaris" "Caesar"
    "Caesar, Caesaris" "Caesar"
 
+   "caesīs" "slaughter"
+   "caesum, caesī" "slaughter"
+
    "calamitātis" "loss, damage, harm"
    "calamitās, calamitātis" "loss, damage, harm"
 
@@ -2675,6 +2688,9 @@
    "contemptiōne" "contempt, disdain"
    "contemptiō, contemptiōnis" "contempt, disdain"
 
+   "contempserunt" "they contemned, they held in contempt"
+   "contemnō, contemnere, contempsī, contemptus" "to contemn, hold in contempt"
+
    "contendunt" "they contend, they hasten"
    "contendere" "to hasten, to contend"
    "contendit" "he hastened, he contended"
@@ -3415,6 +3431,10 @@
    "dominicam" "Sunday"
    "dominicum" "Sunday"
    "dominicus" "Sunday"
+
+   "dominium" "dominion"
+   "dominium, dominiī" "dominion"
+   
    "dominorum" "of the lords, of the masters"
    "dominus" "lord, master"
    "dominus, dominī" "lord, master"
@@ -4817,6 +4837,9 @@
    "incōgnitum" "unknown, untested"
    "incōgnitōrum" "unknown, untested"
    "incōgnitus, incōgnita, incōgnitum" "unknown, untested"
+
+   "incolae" "inhabitants"
+   "incola, incolae" "inhabitant"
    
    "incolumēs" "unharmed"
    "incolumis, incolumis, incolume" "unharmed"
@@ -5405,6 +5428,7 @@
    "legēbantur" "they were being read"
    "legendum" "reading"
    "lēgistī" "you read"
+   "legitur" "is read"
    "lēgī" "I read"
    "legō, legere, lēgī, lēctus" "to read"
 
@@ -5436,6 +5460,7 @@
 
    "liber" "book"
    "librī" "book"
+   "librīs" "books"
    "librō" "book"
    "liber, librī" "book"
    
@@ -6245,6 +6270,7 @@
    "nix, nivis" "snow"
 
    "nōbilibus" "noble, famous, high-born"
+   "nōbilis" "noble, famous, high-born"
    "nōbilissimōs" "very noble, famous, high-born"
    "nōbilissimus" "very noble, famous, high-born"
    "nōbilis, nōbilis, nōbile" "noble, famous, high-born"
@@ -6396,6 +6422,10 @@
    "observāte" "watch!"
    "observō, observāre, observāvī, observātus" "to observe, to watch"
 
+   "obsideret" "they besieged"
+   "obsidēre" "to besiesge"
+   "obsideō, obsidēre, obsēdī, obsessus" "to besiesge"
+   
    "obsidēs" "hostages"
    "obsidum" "of hostages"
    "obses, obsidis" "hostage"
@@ -6412,6 +6442,7 @@
    "obtinuerat" "he had obtained"
    "obtinuerant" "they had obtained"
    "obtinuērunt" "they obtained"
+   "obtinuisset" "he had obtained"
    "obtinuit" "he obtained"
    "obtinēre" "to obtain"
    "obtineō, obtinēre, obtinuī, obtentus" "to obtain"
@@ -6456,6 +6487,7 @@
    "occupātis" "having been seized"
    "occupātōs" "having been seized"
    "occupāvērunt" "they seized, overtook, attacked"
+   "occupāvit" "he seized, attacked"
    "occupō, occupāre, occupāvī, occupātum" "to seize, to overtake, to attack"
 
    "occurrerat" "he had run"
@@ -6496,7 +6528,7 @@
    "officium" "duty, service, favor"
    "officium, officiī" "duty, service, favor"
 
-   "ogoade" "eight, eight-year cycle; singular feminine ablative from ogdoas, ogdoadis"
+   "ogdoade" "eight, eight-year cycle; singular feminine ablative from ogdoas, ogdoadis"
    "ogdoas, ogdoadis" "eight, eight-year cycle"
    
    "ōlla" "pot, jar"
@@ -6944,6 +6976,9 @@
    "perīculō" "danger"
    "perīculum, perīculī" "danger"
 
+   "perītissimī" "most experienced"
+   "perītus, perīta, perītum" "experienced"
+
    "peregrīnus" "traveler"
    "peregrīnī" "travelers"
    "peregrīnus, peregrīnī" "traveler"
@@ -6983,11 +7018,16 @@
    "perpaucī" "very few"
    "perpaucum, perpaucī" "very few"
 
+   "perpessae" "having endured"
+   "perpetior, perpetī, perpessus" "to endure"
+
    "perpetuum" "perpetual"
    "perpetuus, perpetua, perpetuum" "perpetual"
    
    "persecūtiō" "pursuit"
    "persecūtiō, persecūtiōnis" "pursuit"
+
+   "persequendum" "pursuing"
    "persequēbātur" "he was following"
    "persequendōs" "following"
    "persequor, persequī, persecūtus sum" "to follow (deponent)"
@@ -7414,6 +7454,9 @@
    "processisset" "he (might) have had proceeded"
    "procēdere" "to proceed"
    "procēdō, procēdere, processī, processus" "to proceed"
+
+   "prōcōnsul" "proconsul, military commander"
+   "prōcōnsul, prōcōnsulis" "proconsul, military commander"
    
    "prōcūrātor" "procurator"
    "prōcūrātore" "procurator"
@@ -7597,6 +7640,7 @@
    "pugnae" "fight"
    "pugna, pugnae" "fight"
 
+   "pugnābat" "he was fighting"
    "pugnābant" "they were fighting"
    "pugnāvit" "he fought"
    "pugnāre" "to fight"
@@ -7775,6 +7819,7 @@
    "redigere" "to drive back, to render"
    "redigō, redigere, redēgī, redāctus" "to drive back, to render"
 
+   "redeam" "I return"
    "redīre" "to return, to go back"
    "redīrem" "I (might) have returned"
    "redeō, redīre, redivī(iī), reditus" "to return, to go back"
@@ -8474,6 +8519,7 @@
    "singulās" "one each"
    "singulus, singula, singulum" "one each"
 
+   "singulāre" "solitary, peerless"
    "singulārī" "singular, peerless"
 
    "sinite" "allow! permit!"
@@ -8631,7 +8677,7 @@
    "stabilitās, stabilitātis" "stability"
    
    "stadiī" "stadium (around 660 feet)"
-   "stadium, stadi(ī)" "stadium (around 660 feet)"
+   "stadium, stadiī" "stadium (around 660 feet)"
    "standō" "standing"
 
    "statiō"    "station, guard"
@@ -8807,7 +8853,8 @@
 
    "superficiēs" "top, surface"
    "superficiēs, superficiēī" "top, surface"
-   
+
+   "superfuerant" "they had survived, been left over"
    "supersum, superesse, superfuī, superfutūrus" "to be left over, to remain, to survive"
    "supersunt" "they are left over, they remain"
    
@@ -9138,6 +9185,7 @@
    
    "trophaeō" "sign, trophy"
    "trophaeum" "sign, trophy"
+   
    "tu" "you"
    "tua" "you"
    "tuae" "your"
@@ -9146,6 +9194,9 @@
    "tuīs" "yours"
    "tuō" "your"
    "tuōs" "your"
+
+   "tumidī" "swollen, pompous"
+   "tumidus, tumida, tumidum" "swollen, pompous"
 
    "tumultus" "uproar"
    "tumultus, tumultūs" "uproar"
@@ -9180,6 +9231,10 @@
    
    "tuum" "your"
    "tuus" "your"
+
+   "tyrannī" "tyrants"
+   "tyrannus" "tyrant"
+   "tyrannus, tyrannī" "tyrant"
    
    "ūlla" "any"
    "ūllum" "any"
@@ -9232,6 +9287,7 @@
 
    "ūniversās" "whole, entire"
    "ūniversī"  "whole, entire"
+   "ūniversīs"  "whole, entire"
    "ūniversōs" "whole, entire"
    "ūniversus" "whole, entire"
    "ūniversus, ūniversa, ūniversum" "whole, entire"
@@ -9443,7 +9499,9 @@
    "vetet" "he (might) reject"
    "vetō, vetāre, vetuī, vetitus" "to forbid, to reject"
 
+   "veteribus" "old"
    "veteris" "old"
+   "veterum" "of old"
    "vetus, vetus, vetus" "old"
    
    "vexentur" "they (might) be vexing"
@@ -9466,7 +9524,8 @@
    "victimās" "sacrificial victims"
    "victimīs" "sacrificial victim"
    "victima, victimae" "sacrificial victim"
-   
+
+   "victōria" "victory"
    "victōriam" "victory"
    "victōriās" "victory"
    "victōria, victōriae" "victory"
@@ -9608,10 +9667,12 @@
    "vīvō" "I live"
    "vīvō, vīvere, vīxī, vīctus" "to live"
 
+   "vīvī" "living"
    "vīvōs" "those alive"
    "vīvus" "alive"
    "vīvus, vīva, vīvum" "alive"
 
+   "vocābātur" "it was being called, summoned"
    "vocantur" "they are called"
    "vocārētur" "he (might) have been called"
    "vocātur" "to be called"
