@@ -118,6 +118,7 @@
    "Brittannia" "Britain"
    "Brittanniae" "Britain (nominative plural or genitive singular case)"
    "Brittanniam" "Britain (accusative case)"
+   "Brittannicae" "of the Brittannic (genitive case)"
    "Brittannīcō" "Britannic (dative case)"
    "Brittannicīs" "Britannic (ablative case)"
    "Caiphā" "Ablative of Caiphas, a high priest involved with the crucifixion of Christ."
@@ -741,6 +742,7 @@
    "sūrsum" "on top, upward"
    "Syon" "Zion"
    "Synai" "Sinai"
+   "Tamesis" "Thames river"
    "Tasgetī" "Tasgetius, a chief of the Carnutes (genitive case)"
    "Tasgetiī" "Tasgetius, a chief of the Carnutes (genitive case)"
    "Tasgetius" "Tasgetius, a chief of the Carnutes"
@@ -824,6 +826,7 @@
    "vīdērunt" "they saw"
    "vigilāte" "stay alert! plural imperative from vigilō, vigilāre, vigilāvī, vigilātus"
    "vīgintī" "20"
+   "Virgilius" "Vergil"
    "virīliter" "strongly"
    "vīsae" "vīsae + sunt = having been seen, having appeared"
    "vix" "barely"
@@ -1529,6 +1532,7 @@
    "arripere" "to take hold of, to snatch, to arrest"
    "arripiō, arripere, arripuī, arreptus" "to take hold of, to snatch, to arrest"
 
+   "ars" "art, skill"
    "artis" "of art"
    "ars, artis" "art, skill"
 
@@ -1627,6 +1631,9 @@
    "aula" "court"
    "aulam" "court"
    "aula, aulae" "court"
+
+   "aulaea" "canopies, curtains"
+   "aulaeum, aulaeī" "canopy, curtain"
 
    "auream" "golden"
    "aureum" "golden"
@@ -1728,6 +1735,9 @@
    
    "bellātōrēs" "fighters"
    "bellātor, bellātōris" "fighters"
+
+   "bellicōsum" "warlike"
+   "bellicōsus, bellicōsa -um, bellicōsior -or -us, bellicōsissimus -a -um" "warlike"
    
    "bellum" "battle, war"
    "bellī" "battle, war"
@@ -2892,6 +2902,9 @@
    "cūra" "care, concern, supervision"
    "cūra, cūrae" "care, concern, supervision"
 
+   "cūria" "court, council, senate"
+   "cūria, cūriae" "court, council, senate"
+
    "cūrārat" "he had taken care to"
    "curaverat" "he had taken care to"
    "cūrāre" "to take care to, attend to"
@@ -2997,7 +3010,9 @@
    "dēclārābitur" "he will announce"
    "dēclārō, dēclārāre, dēclārāvī, dēclārātus" "to announce"
    "dēcrēscant" "they (might) be decreasing"
+   "dēcrēvērunt" "they decreased"
    "dēcrēscō, dēcrēscere, dēcrēvī, dēcrētus" "to decrease, to diminish"
+   
    "dēcrētum" "decree, decision"
    "dēcrētum, dēcrētī" "decree, decision"
 
@@ -3197,6 +3212,7 @@
    "dictīs" "things having been said"
    "dictō" "having been said"
    "dīcunt" "they say"
+   "dictus" "having been said"
    "dīcēbantur" "they were said"
    "dicendum" "for saying"
    "dīxisse" "to have said"
@@ -3311,6 +3327,9 @@
    "discooperta" "having been uncovered"
    "discoopertum" "having been uncovered"
    "discooperiō, discooperīre, discooperuī, discoopertus" "to bare, to disclose"
+
+   "discrīmen" "distinction, division"
+   "discrīmen, discrīminis" "distinction, division"
    
    "discubuissent" "he (might) have had reclined at table/laid down"
    "discumbō, discumbere, discubuī, discubitus" "to recline at table, to lie down"
@@ -3981,6 +4000,7 @@
    "ferrum, ferrī" "iron"
    "ferreae" "made of iron"
    "ferreās" "made of iron"
+   "ferreōs" "made of iron"
    "ferreus, ferrea, ferreum" "made of iron"
    
    "fertilitāte" "fruitfulness, fertility"
@@ -4344,7 +4364,9 @@
    "genāva, genēvae" "Geneva, a city in Gaul"
 
    "gēns" "people, clan, nation"
+   "gentem" "people, clan, nation"
    "gentēs" "peoples, clans, nations"
+   "gentis" "of the people, clan, nation"
    "gēns, gentis" "people, clan, nation"
    
    "genu" "knee"
@@ -4365,6 +4387,7 @@
    "gerit" "he bears, he carries, he governs"
    "gerunt" "they bear, they carry, they govern"
    "geruntur" "they were carried, governed"
+   "gestum" "having been carried out"
    "gerere" "to bear, to carry, to govern"
    "gerō, gerere, gessī, gestus" "to bear, to carry, to govern"
    
@@ -4671,6 +4694,9 @@
 
    "ictū" "blow, stroke"
    "ictus, ictūs" "blow, stroke"
+
+   "īdibus" "ides"
+   "īdūs, īduum" "ides"
    
    "īgnis, īgnis" "fire"
    "īgnis" "fire"
@@ -5119,6 +5145,9 @@
 
    "intervallum" "interval, distance"
    "intervallum, intervallī" "interval, distance"
+
+   "intextī" "having been embroidered, woven in"
+   "intexō, intexere, intexuī, intextum" "to weave into, embroider"
    
    "intrābis" "you will enter"
    "intrāmus" "we enter"
@@ -5154,9 +5183,14 @@
    "invenit" "he finds, he found"
    "inveniātis" "you might find"
    "inveniō, invenīre, invēnī, inventum" "to find"
+
+   "invīsibilis" "invisible"
+   "invīsibil, (gen.), invīsibilis" "invisible"
+   
    "invocant" "they invoked"
    "invocās" "you invoke"
    "invocō, invocāre, invocāvī, invocātus" "to invoke"
+   
    "iocantem" "jesting"
    "iocārī" "to jest"
    "iocor, iocārī, iocātus" "to jest"
@@ -5247,6 +5281,9 @@
    "iugō" "yoke"
    "iugum" "yoke"
    "iugum, iugī" "yoke"
+
+   "iūlius" "Julius"
+   "Julius, Juli" "Julius"
    
    "iuncturās" "joinings, junctions"
    "iunctura, iuncturae" "joinings, junctions"
@@ -7202,6 +7239,7 @@
    "posuisset" "he (might) have put"
    "posuērunt" "they had put"
    "positam" "having been put"
+   "posuerat" "he had put"
    "posuit" "he put"
    "pōnō, pōnere, posuī, positus" "to put, to place"
 
@@ -7678,6 +7716,7 @@
    "pūrus, pūra -um, pūrior -or -us, pūrissimus -a -um" "clean, pure"
    
    "purpūreus, purpūrea, purpūreum" "purple"
+   "purpūrea" "purple"
    "purpūreīs" "purple"
 
    "putābat" "he was thinking"
@@ -8806,6 +8845,9 @@
    "sūcus, sūcī" "juice"
    "sūcō" "juice"
 
+   "sudēs" "stakes, logs"
+   "sudis, sudis" "stake, log"
+
    "sufficient" "they will suffice"
    "sufficiat" "it (might) suffice"
    "sufficiō, sufficere, suffēcī, suffectus" "to suffice"
@@ -8990,6 +9032,7 @@
    "tenēbant" "they were holding"
    "tenēbantur" "they were held"
    "tenēns" "holding"
+   "tenente" "holding"
    "tenentēs" "holding"
    "tenuissent" "they (might) have had held"
    "tenēre" "to hold"
@@ -9063,7 +9106,8 @@
    
    "tintinnābulum" "bell"
    "tintinnābulum, tintinnābulī" "bell"
-   "tollat" "they (might) lift up"
+   "tollat" "he (might) lift up"
+   "tollant" "they (might) lift up"
    "sublāta" "having been lifted up"
    "sustulerant" "they had lifted up"
    "tollō, tollere, sustulī, sublātus" "to raise up"
@@ -9153,6 +9197,9 @@
    "tertiō" "third"
    "trēs -es -ia, tertius -a -um, terni -ae -a, ter" "third"
    "tribus" "three"
+
+   "trecentīs" "three hundred"
+   "trecentī -ae -a, trecentesimus -a -um, trecenī -ae -a, trecentie (n)s" "three hundred"
    
    "tribuam" "I will assign"
    "tribuent" "they will assign"
@@ -9354,6 +9401,7 @@
    "vacuam" "empty, vacant"
    "vacuus, vacua, vacuum" "empty, vacant"
 
+   "vada" "shallows"
    "vadīs" "shallows"
    "vadum, vadī" "shallows"
    
@@ -9675,7 +9723,8 @@
    "vocābātur" "it was being called, summoned"
    "vocantur" "they are called"
    "vocārētur" "he (might) have been called"
-   "vocātur" "to be called"
+   "vocārī" "to be called"
+   "vocātur" "it is called"
    "vōcibus" "voices"
    "vocāvit" "he called"
    "vocātum" "having been called"
