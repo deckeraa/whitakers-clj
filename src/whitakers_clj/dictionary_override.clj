@@ -18,6 +18,7 @@
 (def dictionary-override
   {"ā" "from, out of, by, since"
    "ab" "from, out of, by, since"
+   "abs" "from, out of, by, since"
    "Abbā" "father, abbot"
    "abbā" "father, abbot"
    "Abraham" "Abraham, the Old Testament patriarch"
@@ -3052,7 +3053,9 @@
    "dēfōrmō, dēfōrmāre, dēfōrmāvī, dēfōrmātus" "deformed"
    
    "dēfūnctō" "dead"
+   "dēfūnctus" "dead"
    "dēfūnctus, dēfūncti" "dead"
+   
    "dēglutīre" "to swallow"
    "dēglutīvit" "I swallowed"
    "dēglutiō, dēglutīre, dēglutīvī, dēglutītus" "to swallow"
@@ -3169,6 +3172,7 @@
    "-, -, dēterior -or -us, dēterrimus -a -um" "worst"
    "dētrīmentum" "harm, detriment"
    "dētrīmentī" "harm, detriment"
+   "dētrīmentō" "harm, detriment"
    "dētrīmentum, dētrīmentī" "harm, detriment"
    "deum" "god"
    "deus" "god"
@@ -4771,7 +4775,10 @@
    "impedīmentum" "impediment, hindrance, heavy baggage"
    "impedīmentum, impedīmentī" "impediment, hindrance, heavy baggage"
 
+   "imperātor" "commander"
+   "imperātōre" "commander"
    "imperātōrī" "commander"
+   "imperātōribus" "commanders"
    "imperātor, imperātōris" "commander"
    
    "imperat" "he commands"
@@ -5441,6 +5448,7 @@
    "lectulīs" "bed, coach"
    "lectulus, lectulī" "bed, coach"
 
+   "lēgātiōne" "legate, embassy"
    "lēgātiōnem" "legate, embassy"
    "lēgātiōnis" "legate, embassy"
    "lēgātiō, lēgātiōnis" "legate, embassy"
@@ -5850,6 +5858,7 @@
    "mēnsa, mēnsae" "table"
    "mēnsem" "month"
    "mēnsēs" "months"
+   "mēnsibus" "months"
    "mēnsis" "month"
    "mēnsis, mēnsis" "month"
    "mēnsum" "of months"
@@ -6050,6 +6059,9 @@
 
    "mōnstrum" "monster"
    "mōnstrum, mōnstrī" "monster"
+
+   "monumentum" "monument, memorial, tomb"
+   "monumentum, monumentī" "monument, memorial, tomb"
 
    "morārī" "to stay, delay"
    
