@@ -1084,6 +1084,9 @@
    "āfricō" "southwest, southwest wind"
    "āfricus, āfricī" "southwest, southwest wind"
 
+   "aggerem" "bulwark, rampart"
+   "agger, aggeris" "bulwark, rampart"
+
    "aggregātō" "group together!"
    "aggregō, aggregāre, aggregāvī, aggregātus" "to group, to flock together"
 
@@ -1715,6 +1718,9 @@
 
    "barbarī" "barbarian"
    "barbarus, barbarī" "barbarian"
+   
+   "barbaricā" "barbaric"
+   "barbaricus, barbarica, barbaricum" "barbaric"
    
    "basēs" "bases"
    "basis, basis" "base"
@@ -3020,6 +3026,7 @@
    "dēdecus" "disgrace, shame"
    "dēdecus, dēdecoris" "disgrace, shame"
 
+   "dēdūxit" "he escorted, he removed"
    "dēdūcere" "to escort, to remove"
    "dēdūcō, dēdūcere, dēdūxī, dēductus" "to escort, to remove"
    
@@ -3516,12 +3523,18 @@
    "duās" "two"
    "duōbus" "two"
    "duo -ae o, secundus -a -um, bīnī -ae -a, bis" "two"
+   
    "duplicēs" "double"
    "duplex, (gen.), duplicis" "double"
    "duplicem" "double"
+   
    "dūrior" "harder"
    "dūrius" "harder"
    "dūrus, dūra -um, dūrior -or -us, dūrissimus -a -um" "hard"
+
+   "ducibus" "leaders"
+   "dux, ducis" "leader"
+   
    "dūxērunt" "they were leading"
    "dūximus" "we lead"
    "dūxit" "he lead"
@@ -6726,11 +6739,14 @@
    "ōsculāns" "kissing"
    "ōsculātīs" "having been kissed"
    "ōsculor, ōsculārī, ōsculātus sum" "to kiss"
+   
    "ostendātur" "he (might) be being shown"
    "ostendit" "he shows, he showed"
    "ostendet" "you will show"
+   "ostenditur" "it is shown"
    "ostendere" "to show"
    "ostendō, ostendere, ostendī, ostentus" "to show"
+   
    "ossa" "bones"
    "os, ossis" "bones"
    "ōstia" "doors"
@@ -6760,6 +6776,10 @@
    "pannus" "cloth, rag"
    "pannum" "cloth, rag"
    "pannus, pannī" "cloth, rag"
+
+   "pāpa" "father, bishop, pope"
+   "pāpā" "father, bishop, pope"
+   "pāpa, pāpae" "father, bishop, pope"
 
    "paradigmate" "example, pattern"
    "paradigma, paradigmatis" "example, pattern"
@@ -7784,6 +7804,9 @@
 
    "quiētissimam" "very quiet"
    "quiētus, quiēta -um, quiētior -or -us, quiētissimus -a -um" "quiet"
+
+   "quiēvit" "he rested"
+   "quiēscō, quiēscere, quiēvī, quiētus" "to rest"
    
    "quīndecim" "fifteen"
    "quīndecim, quīndecimus -a -um, quīndeci -ae -a, quīndecie (n)s" "fifteen"
@@ -7858,6 +7881,7 @@
    "reddāmus" "let us return"
    "redde" "return!"
    "reddite" "return!"
+   "redditum" "having being returned"
    "reddō, reddere, reddidī, redditus" "to return, to render"
    "reddētur" "to be returned"
    
@@ -7954,6 +7978,7 @@
    "regressus" "return"
    "regressus, regressūs" "return"
 
+   "rēgulīs" "rules, principles"
    "rēgulam" "rule, principle"
    "rēgula, rēgulae" "rule, principle"
 
@@ -8761,6 +8786,9 @@
    "statūra, statūrae" "stature"
    "statū" "state, status"
    "status, statūs" "state, status"
+
+   "strāgem" "overthrow, destruction"
+   "strāgēs, strāgis" "overthrow, destruction"
    
    "strāta" "paved road"
    "strātam" "paved road"
@@ -8808,7 +8836,8 @@
 
    "subesse" "to be under, to be nearby"
    "subedo, subesse, -, -" "to be under, to be nearby"
-   
+
+   "subiēcit" "he subjected"
    "subiectam" "things subjected"
    "subiciō, subicere, subiēcī, subiectus" "to subject, to throw under"
 
@@ -9218,6 +9247,9 @@
    "tribuere" "to divide, to assign, to attribute"
    "tribuō, tribuere, tribuī, tribūtus" "to divide, to assign, to attribute"
 
+   "tribūtāriās" "relating to tribute"
+   "tribūtārius, tribūtāria, tribūtārium" "relating to tribute"
+
    "tribūnī" "tribunes"
    "tribūnus, tribūnī" "tribunes"
    
@@ -9584,6 +9616,9 @@
    "victimās" "sacrificial victims"
    "victimīs" "sacrificial victim"
    "victima, victimae" "sacrificial victim"
+
+   "victor" "victor"
+   "victor, victōris" "victor"
 
    "victōria" "victory"
    "victōriam" "victory"
