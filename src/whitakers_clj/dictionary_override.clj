@@ -6066,6 +6066,9 @@
    "monēre" "to warn"
    "moneō, monēre, monuī, monitus" "to warn"
 
+   "mōnstrātur" "it is pointed out"
+   "mōnstrō, mōnstrāre, mōnstrāvī, mōnstrātus" "to point out"
+
    "montānās" "mountainous"
    "montānus, montāna, montānum" "mountainous"
    
@@ -6754,6 +6757,7 @@
    "ostendit" "he shows, he showed"
    "ostendet" "you will show"
    "ostenditur" "it is shown"
+   "ostendunt" "they show"
    "ostendere" "to show"
    "ostendō, ostendere, ostendī, ostentus" "to show"
    
@@ -6922,11 +6926,16 @@
    "pauxillum" "a little"
    "pauxillum, pauxillī" "a little"
 
+   "pauper" "poor"
    "pauperum" "poor"
    "pauper, pauperis (gen.), pauperior -or -us, pauperrimus -a -um" "poor"
    
    "pausētis" "you (might) pause"
    "pausō, pausāre, pausāvī, pausātus" "to pause"
+
+   "pavīmentum" "floor, pavement, tiling"
+   "pavīmentō" "floor, pavement, tiling"
+   "pavīmentum, pavīmentī" "floor, pavement, tiling"
    
    "pavor" "fear, trembling"
    "pavor, pavōris" "fear, trembling"
@@ -8450,12 +8459,14 @@
    "sēdit" "he sat"
 
    "sēmen"   "seed, posterity, offspring"
+   "sēmina" "seeds"
    "sēminis" "seed, posterity, offspring"
    "sēmen, sēminis" "seed, posterity, offspring"
 
    "sēmentēs" "sowing, planting"
    "sēmentis, sēmentis" "sowing, planting"
 
+   "sēmināvit" "he planted"
    "sēmināvērunt" "they planted, they sowed"
    "sēmināre" "to plant, to sow"
    "sēminō, sēmināre, sēmināvī, sēminātus" "to plant, to sow"
@@ -8986,6 +8997,9 @@
 
    "supputantur" "they are computed"
    "supputō, supputāre, supputāvī, supputātus" "to compute"
+
+   "suprādictae" "having been said above"
+   "suprādīcō, suprādīcere, suprādīxī, suprādictus" "to say above"
    
    "surgite" "raise! lift! get up!"
    "surrēxit" "he raised up"
@@ -9324,6 +9338,9 @@
 
    "tumultus" "uproar"
    "tumultus, tumultūs" "uproar"
+
+   "tumulī" "mound, hill"
+   "tumulus, tumulī" "mound, hill"
 
    "turbātus" "disturbed, confused"
    "turbō, turbāre, turbāvī, turbātus" "disturbed, confused"
