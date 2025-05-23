@@ -7871,6 +7871,7 @@
    "receptum, receptī" "engagement, obligation"
    
    "recēpistī" "you received"
+   "receptās" "having been received"
    "receptōs" "having been received"
    "recēpērunt" "they received, they kept back"
    "recipere" "to receive"
@@ -7996,6 +7997,9 @@
    "rēgulīs" "rules, principles"
    "rēgulam" "rule, principle"
    "rēgula, rēgulae" "rule, principle"
+
+   "rēgulōs" "princes"
+   "rēgulus, rēgulī" "prince"
 
    "religiōsīs" "religious"
    "religiōsus, religiōsa, religiōsum" "religious"
@@ -8231,6 +8235,9 @@
    "Rōmānus" "Roman"
    "rōmānus" "Roman"
    "Rōmānus, Rōmānī" "Roman"
+
+   "rōmānicae" "Romanic"
+   "rōmānicus, rōmānica, rōmānicum" "Romanic"
 
    "rotārum" "of wheels"
    "rota, rotae" "wheel"
@@ -8565,6 +8572,11 @@
    "servōs" "slaves, servants"
    "servus" "slave, servant"
    "servus, servī" "slave, servant"
+
+   "sevērī" "severe"
+   "sevērum" "severe"
+   "sevērus" "severe"
+   "sevērus, sevēra -um, sevērior -or -us, sevērissimus -a -um" "severe"
 
    "siccitātēs" "drought, dryness"
    "siccitās, siccitātis" "drought, dryness"
@@ -9212,6 +9224,9 @@
    "trānsactō" "having been accomplished"
    "trānsactīs" "having been accomplished"
    "trānsigō, trānsigere, trānsēgī, trānsactum" "to stab, to pierce, to accomplish"
+
+   "trānsfretāvit" "he passed over the sea, ferried"
+   "trānsfretō, trānsfretāre, trānsfretāvī, trānsfretātus" "to pass over the sea, to ferry"
    
    "trānsītur" "being crossed"
    "trānsībat" "he was going over, he was crossing"
@@ -9242,6 +9257,9 @@
    "trānsportāverat" "he had carried across"
    "trānsportandum" "to carry across"
    "trānsportō, trānsportāre, trānsportāvī, trānsportātus" "to carry across"
+
+   "trānsverberāvit" "he pierced through"
+   "trānsverberō, trānsverberāre, trānsverberāvī, trānsverberātus" "to pierce through"
    
    "tertia" "third"
    "tertium" "third"
@@ -9334,9 +9352,15 @@
    "tūtam" "safety"
    "tūtum" "safety"
    "tūtum, tūtī" "safety"
+
+   "tūtiōrēs" "safer"
+   "tūtus, tūta -um, tūtior -or -us, tūtissimus -a -um" "safe"
    
    "tuum" "your"
    "tuus" "your"
+
+   "tyrannide" "tyranny"
+   "tyrannis, tyrannidis" "tyranny"
 
    "tyrannī" "tyrants"
    "tyrannus" "tyrant"
@@ -9706,6 +9730,9 @@
    "vinculīs" "chains"
    "vinculum" "chain"
    "vinculum, vinculī" "chain"
+
+   "vindicāvit" "he vindicated, avenged"
+   "vindicō, vindicāre, vindicāvī, vindicātus" "to vindicate, avenge"
    
    "violet" "he (might) violate"
    "violō, violāre, violāvī, violātus" "to violate"
