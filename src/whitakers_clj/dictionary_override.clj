@@ -3913,6 +3913,7 @@
    "faciendum" "making, doing"
    "faciendī" "of making, doing"
    "facere" "to make, to do"
+   "faceret" "he did"
    "faciāmus" "we (might) do, make"
    "faciunt" "they are making, they are doing"
    "faciō, facere, fēcī, factus" "to do, to make"
@@ -4897,9 +4898,15 @@
    
    "incorporālis, incorporālis, incorporāle" "incorporeal"
    "incorporāle" "incorporeal"
+   
    "incrēdibilī" "incredible"
    "incrēdibilis" "incredible"
    "incrēdibilis, incrēdibilis, incrēdibile" "incredible"
+
+   "incursiō" "onrush, attack"
+   "incursiōne" "onrush, attack"
+   "incursiō, incursiōnis" "onrush, attack"
+   
    "incurvō, incurvāre, incurvāvī, incurvātus" "to make crooked, to bend"
    "incurvātae" "being curved"
 
@@ -6077,7 +6084,8 @@
    "monumentum, monumentī" "monument, memorial, tomb"
 
    "morārī" "to stay, delay"
-   
+
+   "moritur" "he dies"
    "moriēmur" "he will die"
    "morior, morī, mortuus sum" "to die"
    "mors, mortis" "death"
@@ -6535,6 +6543,8 @@
    "occīsus" "having been killed"
    "occīdō, occīdere, occīdī, occīsus" "to kill"
 
+   "occīsiōne"  "massacre, slaughter, murder"
+   "occīsiōnem" "massacre, slaughter, murder"
    "occīsiōnis" "massacre, slaughter, murder"
    "occīsiō, occīsiōnis" "massacre, slaughter, murder"
 
@@ -7657,6 +7667,7 @@
    "prōvincia"  "province, command"
    "prōvinciae" "province, command"
    "prōvinciam" "province, command"
+   "prōvinciās" "provinces, commands"
    "prōvincia, prōvinciae" "province, command"
 
    "prōvīsum" "looking into the distance, precaution"
@@ -7750,6 +7761,10 @@
    "purpūreus, purpūrea, purpūreum" "purple"
    "purpūrea" "purple"
    "purpūreīs" "purple"
+
+   "purpura" "purple (garment), royalty"
+   "purpuram" "purple (garment), royalty"
+   "purpura, purpurae" "purple (garment), royalty"
 
    "putābat" "he was thinking"
    "putābant" "they were thinking"
