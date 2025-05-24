@@ -5001,6 +5001,7 @@
    "indulgentia, indulgentiae" "leniency, pardon"
    
    "indumenti" "garment, robe"
+   "indumentīs" "garments, robes"
    "indūmentum, indūmentī" "garment, robe"
    "induō, induere, induī, indūtus" "to dress, to put on"
 
@@ -5192,6 +5193,7 @@
    "interfectīs" "having been killed"
    "interfēcērunt" "they killed"
    "interfectum" "having been killed"
+   "interfectus" "having been killed"
    "interfēcissent" "they (might) have had killed"
    "interficiendī" "killing"
    "interficere" "to kill"
@@ -5743,6 +5745,7 @@
    "magus, magī" "magician"
 
    "magister" "teacher"
+   "magistrī" "teacher"
    "magistrō" "teacher"
    "magistrum" "teacher"
    "magister, magistrī" "teacher"
@@ -5755,6 +5758,7 @@
    "māgnam" "large"
    "māgnās" "large"
    "māgnī" "large"
+   "māgnīs" "large"
    "māgnō" "large"
    "māgnum" "large"
    "māgnus" "large"
@@ -6237,6 +6241,7 @@
    "multus, multa -um, -, plūrimus -a -um" "many"
    
    "mundī" "world"
+   "mundō" "world"
    "mundum" "world"
    "mundus, mundī" "world"
 
@@ -7555,6 +7560,7 @@
    "premit" "he presses, he overwhelms"
    "premō, premere, pressī, pressus" "to press, to overwhelm"
 
+   "presbyter" "elder, presbyter"
    "presbyterīs" "elders, presbyters"
    "presbyter, presbyterī" "elder, presbyter"
    
@@ -7621,6 +7627,11 @@
 
    "prōdere" "to project, to bring forth, to reveal"
    "prōdō, prōdere, prōdidī, prōditus" "to project, to bring forth, to reveal"
+
+   "prōditiō" "discovery, betrayal, treason"
+   "prōditiōnis" "discovery, betrayal, treason"
+   "prōditiōne" "discovery, betrayal, treason"
+   "prōditiō, prōditiōnis" "discovery, betrayal, treason"
 
    "prōdīret" "he (might) have advanced"
    "prōdeō, prōdīre, prōdivī(iī), prōditus" "to advance"
@@ -8045,6 +8056,7 @@
    "refugium, refugiī" "refuge"
 
    "rēgia" "royal palace, court"
+   "rēgiīs" "royal palaces, courts"
    "rēgia, rēgiae" "royal palace, court"
    
    "regiō" "region"
@@ -8060,6 +8072,9 @@
    "rēgnō" "kingdom"
    "rēgnum" "kingdom"
    "rēgnum, rēgnī" "kingdom"
+
+   "regēbat" "he was ruling"
+   "regō, regere, rēxī, rēctus" "to rule"
 
    "rēgnābat" "he was reigning"
    "rēgnandum" "reigning"
@@ -8140,6 +8155,9 @@
    "repentīnae" "unexpected, sudden"
    "repentīnī" "unexpected, sudden"
    "repentīnus, repentīna, repentīnum" "unexpected, sudden"
+
+   "repetendus" "demanding back, returning"
+   "repetō, repetere, repetīvī, repetītus" "to demand back, return"
 
    "reparāvit" "he repaired"
    "reparāre" "to repair"
@@ -8532,6 +8550,11 @@
    "sedīle, sedilis" "seat, bench, stool"
    "sedilia" "seats, benches, stools"
    "sēdit" "he sat"
+
+   "sēditiō" "sedition, treason"
+   "sēditiōnem" "sedition, treason"
+   "sēditiōnis" "sedition, treason"
+   "sēditiō, sēditiōnis" "sedition, treason"
 
    "sēmen"   "seed, posterity, offspring"
    "sēmina" "seeds"
