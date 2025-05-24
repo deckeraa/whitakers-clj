@@ -331,6 +331,7 @@
    "hodiē" "today"
    "hōrum" "these; plural masc. or neut. gen. of hic, haec, hoc"
    "hūc" "toward here"
+   "hūcusque" "up to this point"
    "iam" "already, now, soon"
    "Iascōniī" "of Jasconius (the sea creature); singular masculine genitive from Iascōnius"
    "Iascōnius" "Jasconius, a large sea creature"
@@ -482,6 +483,7 @@
    "nōndum" "not yet"
    "nōnne" "not, expecting an affirmative answer"
    "nonnullī" "some; masculine plural nominative of nonnullus, -a, -um"
+   "nōnus" "9th"
    "Noricum" "Noric; belonging to Noreia, a region in Gallia"
    "nōs" "us; plural nominative or accusative of ego"
    "nostrae" "our; singular feminine genitive or dative of noster"
@@ -688,8 +690,10 @@
    "sēsē" "himself"
    "seu" "or, what if"
    "sex" "six"
+   "sexdecim" "sixteen"
    "sexta" "sixth"
    "sextam" "sixth"
+   "sextō" "sixth"
    "sextus" "sixth"
    "sexāgintā" "sixty"
    "sī" "if"
@@ -2059,6 +2063,9 @@
    "catēnae" "chains"
    "catēnīs" "chains"
    "catēna, catēnae" "chain"
+
+   "catholicōrum" "Catholic"
+   "catholicus, catholici" "Catholic"
    
    "cauda" "tail"
    "caudam" "tail"
@@ -2212,6 +2219,9 @@
    "citius" "swifter"
    "citus, cita -um, citior -or -us, citissimus -a -um" "swift"
 
+   "cīvēs" "citizens"
+   "cīvis, cīvis" "citizen"
+
    "cīvitās" "citizens, city-state"
    "cīvitāte" "citizens, city-state"
    "cīvitātem" "civilization"
@@ -2339,6 +2349,7 @@
    "collēgit" "he assembled, he collected"
    "colligere" "to collect, to assemble"
    "colligit" "he collects, he assembles"
+   "colligitur" "is assembled"
    "colligō, colligere, collēgī, collēctus" "to collect, to assemble"
    
    "collīsiōnēs" "collision"
@@ -2379,6 +2390,7 @@
    "comedō, comedere, comēdī, comēsum" "to eat up"
 
    "comes" "comrade"
+   "comite" "comrade"
    "comitī" "comrade"
    "comes, comitis" "comrade"
 
@@ -2643,6 +2655,10 @@
    "cōnsōlātiōnem" "consolation"
    "cōnsōlātiōnis" "consolation"
    "cōnsōlātiō, cōnsōlātiōnis" "consolation"
+
+   "cōnsortem" "consort"
+   "cōnsors, cōnsortis" "consort"
+   
    "cōnsortiō" "fellowship"
    "cōnsortiō, cōnsortiōnis" "fellowship"
 
@@ -2661,6 +2677,9 @@
    "cōnstantīnus" "Constantine"
    
    "cōnstantīus" "Constantius, son of Constantine"
+
+   "cōnstantīnopolim" "Constantinople"
+   "cōnstantīnopolis" "Constantinople"
 
    "cōnstituerant" "they had planned"
    "cōnstituērunt" "they planned"
@@ -2906,6 +2925,9 @@
    "cultus" "cult, civilization"
    "cultus, cultūs" "cult, civilization"
 
+   "cumulum" "heap, pile"
+   "cumulus, cumulī" "heap, pile"
+
    "cunctantibus" "hesitating, delaying"
    "cunctāre" "to hesitate, to delay"
    "cunctō, cunctāre, cunctāvī, cunctātus" "to hesitate, to delay"
@@ -2965,6 +2987,10 @@
    "dalmatica"  "deacon's vestmests"
    "dalmaticae" "deacon's vestmests"
    "dalmatica, dalmaticae" "deacon's vestmests"
+
+   "damnantur" "they are condemned"
+   "damnatur" "he is condemned"
+   "damnō, damnāre, damnāvī, damnātus" "to condemn"
 
    "damnāta" "condemned"
    "damnātum" "condemned"
@@ -3078,6 +3104,7 @@
    "dēglutīvit" "I swallowed"
    "dēglutiō, dēglutīre, dēglutīvī, dēglutītus" "to swallow"
 
+   "dēiēcērunt" "they threw down, overthrew"
    "dēicerentur" "they (might) have been throwing down"
    "dēicere" "to throw down"
    "dēiciō, dēicere, dēiēcī, dēiectus" "to throw down"
@@ -3453,6 +3480,11 @@
    "doctrīnae" "doctrine, teaching, instruction"
    "doctrīna, doctrīnae" "doctrine, teaching, instruction"
 
+   "dogma" "doctrine, dogma"
+   "dogmate" "doctrine, dogma"
+   "dogmatis" "doctrine, dogma"
+   "dogma, dogmatis" "doctrine, dogma"
+
    "dolor" "pain, sorrow"
    "dolōre" "pain, sorrow"
    "dolōrī" "to pain, sorrow"
@@ -3544,6 +3576,7 @@
    "dūrius" "harder"
    "dūrus, dūra -um, dūrior -or -us, dūrissimus -a -um" "hard"
 
+   "ducēs" "leaders"
    "ducibus" "leaders"
    "dux, ducis" "leader"
    
@@ -4318,6 +4351,7 @@
    "fūgērunt" "they fled"
    "fugiāmus" "we might have fled"
    "fugiendō" "fleeing"
+   "fugiēns" "fleeing"
    "fugit" "he flees, he fled"
    "fugite" "flee"
    "fugiō, fugere, fūgī, fugitus" "to flee, to avoid"
@@ -4373,6 +4407,7 @@
    "galliae" "Gaul"
    "galliam" "Gaul"
    "galliārum" "of Gaul"
+   "galliās" "Gaul"
    "Gallia, Galliae" "Gaul"
    
    "gallōrum" "of chickens, of roosters"
@@ -4525,6 +4560,7 @@
    "habēbit" "he will have"
    "habēbunt" "they will have"
    "habuī" "I had"
+   "habētur" "it is had"
    "habeō, habēre, habuī, habitus" "to have"
 
    "habitābam" "I was living"
@@ -4554,6 +4590,9 @@
    "habitus, habitūs" "habit, character"
    "hauriendam" "drawing, drinking, exhausting"
    "hauriō, haurīre, hausī, haustus" "to draw up, to drink, to exhaust"
+
+   "haeresēs" "heresies"
+   "haeresis, haeresis" "heresy"
 
    "Helvētiī" "Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.)"
    "helvētiī" "Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.)"
@@ -4809,6 +4848,7 @@
 
    "imperātor" "commander"
    "imperātōre" "commander"
+   "imperātōrēs" "commander"
    "imperātōrī" "commander"
    "imperātōribus" "commanders"
    "imperātor, imperātōris" "commander"
@@ -4825,6 +4865,7 @@
    "imperītus, imperīta, imperītum" "unfamiliar, unskilled"
 
    "imperia" "domains"
+   "imperiī"  "command, dominion, empire"
    "imperiō"  "command, dominion, empire"
    "imperium" "command, dominion, empire"
    "imperium, imperi(ī)" "command, dominion, empire"
@@ -6580,6 +6621,7 @@
 
    "occupāret" "he (might) have seized"
    "occupātō" "attack!"
+   "occupāta" "having been seized"
    "occupātis" "having been seized"
    "occupātōs" "having been seized"
    "occupāvērunt" "they seized, overtook, attacked"
@@ -7069,6 +7111,7 @@
    "pergite" "go, continue"
    "perrēxī" "I proceeded"
    "perrēxit" "he proceeded"
+   "perrēxērunt" "they proceeded"
    "pergō, pergere, perrēxī, perrēctus" "to go on, to proceed"
    
    "perīclitātiō" "trial, test"
@@ -7352,6 +7395,9 @@
    "portus" "harbor, port"
    "portus, portūs" "harbor, port"
 
+   "possessiōnēs" "properties"
+   "possessiō, possessiōnis" "property"
+   
    "possidēbātur" "it was being possessed"
    "possideō, possidēre, possēdī, possessus" "to possess, to own, to seize, to occupy"
 
@@ -8016,8 +8062,11 @@
    "rēgnum, rēgnī" "kingdom"
 
    "rēgnābat" "he was reigning"
+   "rēgnandum" "reigning"
    "rēgnantem" "reigning"
    "rēgnāvit" "he reigned"
+   "regnavērunt" "they reigned"
+   "rēgnārent" "they had reigned"
    "rēgnāre" "to reign"
    "rēgnō, rēgnāre, rēgnāvī, rēgnātus" "to reign"
    
@@ -8198,6 +8247,7 @@
    "revolvō" "I turn over, I repeat"
    "revolvō, revolvere, revolvī, revolūtus" "to turn over, to repeat"
 
+   "rēgem" "king"
    "rēgis" "of the king"
    "rēgēs" "kings"
    "rēgī" "king"
@@ -8252,6 +8302,10 @@
    
    "rogus" "funeral pyre, grave"
    "rogus, rogī" "funeral pyre, grave"
+
+   "rōma" "Rome"
+   "rōmam" "Rome"
+   "Rōma, Rōmae" "Rome"
 
    "rōmānae" "Roman"
    "Rōmānī" "Romans"
@@ -8814,6 +8868,10 @@
    "stadiī" "stadium (around 660 feet)"
    "stadium, stadiī" "stadium (around 660 feet)"
    "standō" "standing"
+
+   "stagnō" "swamp, pool"
+   "stagnum" "swamp, pool"
+   "stagnum, stagnī" "swamp, pool"
 
    "statiō"    "station, guard"
    "statiōne"  "station, guard"
@@ -9512,6 +9570,7 @@
 
    "uxōre" "wife"
    "uxōrem" "wife"
+   "uxōrēs" "wives"
    "uxor, uxōris" "wife"
 
    "vacca" "cow"
@@ -9586,6 +9645,7 @@
    "vēnissēs" "you (might) have had come"
    "vēnisset" "he (might) have had come"
    "ventūrum" "will be coming"
+   "venīrent" "they came"
    "vēnistī" "you came"
    "vēnistis" "you came"
    "veniō, venīre, vēnī, ventus" "to come"
@@ -9668,6 +9728,7 @@
    "vetet" "he (might) reject"
    "vetō, vetāre, vetuī, vetitus" "to forbid, to reject"
 
+   "veterī" "old"
    "veteribus" "old"
    "veteris" "old"
    "veterum" "of old"
