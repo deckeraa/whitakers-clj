@@ -1905,6 +1905,7 @@
    "caesar" "Caesar"
    "caesare" "Caesar"
    "caesarem" "Caesar"
+   "caesarēs" "Caesars"
    "Caesarī" "to Caesar"
    "caesarī" "to Caesar"
    "Caesaris" "Caesar"
@@ -2227,6 +2228,9 @@
    "clāmāre" "to shout"
    "clāmāvit" "he shouted"
    "clāmō, clāmāre, clāmāvī, clāmātus" "to shout"
+
+   "clāruit" "he became bright, loud"
+   "clārēscere" "to become bright, loud"
 
    "clāriōra" "clearer"
    "clāritās" "clarity, brightness"
@@ -2653,6 +2657,11 @@
    "cōnstābat" "he was remaining, standing still"
    "cōnstō, cōnstāre, cōnstitī, cōnstātus" "to remain, stand still, exist"
 
+   "cōnstantīnī" "of Constantine"
+   "cōnstantīnus" "Constantine"
+   
+   "cōnstantīus" "Constantius, son of Constantine"
+
    "cōnstituerant" "they had planned"
    "cōnstituērunt" "they planned"
    "cōnstituī" "I planned"
@@ -2682,6 +2691,7 @@
    "cōnsulem" "consul"
    "cōnsulēs" "consuls"
    "cōnsulibus" "consuls"
+   "cōnsulum" "of consuls"
    "cōnsul, cōnsulis" "consul"
 
    "cōnsulat" "he (might) consult"
@@ -3029,7 +3039,8 @@
    "dēdūxit" "he escorted, he removed"
    "dēdūcere" "to escort, to remove"
    "dēdūcō, dēdūcere, dēdūxī, dēductus" "to escort, to remove"
-   
+
+   "dederit" "he will give"
    "dedērunt" "they gave"
 
    "dēfectiōnis" "defection, revolt"
@@ -3306,6 +3317,7 @@
    "dīmīsistis" "you sent away"
    "dīmitte" "dismiss! send away!"
    "dīmittite" "dismiss! send away!"
+   "dīmittere" "to dismiss, to send away"
    "dīmittō, dīmittere, dīmīsī, dīmissus" "to dismiss, to send away"
    "dīmissa" "having been sent away"
    "dīmissō" "having been sent away"
@@ -3715,6 +3727,7 @@
    "eucharistia, eucharistiae" "Eucharist/Lord's Supper/Communion"
 
    "eurōpa" "Europe"
+   "eurōpae" "Europe"
    "eurōpam" "Europe"
    "Eurōpa, Eurōpae" "Europe"
 
@@ -3870,6 +3883,9 @@
    "extollātis" "you (might) have extolled"
    "extollite" "extol!"
    "extollō, extollere, -, -" "to extol"
+
+   "extrāneīs" "foreigner"
+   "extrāneus, extrāneī" "foreigner"
 
    "extrēmīs" "limits, outsides, ends"
    "extrēmō" "limit, outside, end"
@@ -4384,6 +4400,7 @@
    "gēns" "people, clan, nation"
    "gentem" "people, clan, nation"
    "gentēs" "peoples, clans, nations"
+   "gentibus" "peoples, clans, nations"
    "gentis" "of the people, clan, nation"
    "gēns, gentis" "people, clan, nation"
    
@@ -4518,6 +4535,7 @@
    "habitābitis" "you will have"
    "habitandum" "living"
    "habitant" "they inhabit"
+   "habitāret" "he inhabited"
    "habitāta" "having been inhabited"
    "habitāvērunt" "they inhabited"
    "habitāvī" "I inhabited"
@@ -5393,7 +5411,8 @@
    
    "languor" "faintness, languor, feebleness"
    "languor, languōris" "faintness, languor, feebleness"
-   
+
+   "lapide" "stone"
    "lapidēs" "stones"
    "lapidis" "stone"
    "lapidibus" "stones"
@@ -5581,6 +5600,7 @@
    "limite" "limit"
    "līmes, līmitis" "limit"
 
+   "litterae" "letters, literature"
    "litterīs" "literature"
    "littera, litterae" "letters, writings, literature"
 
@@ -5697,6 +5717,7 @@
    "māgnō" "large"
    "māgnum" "large"
    "māgnus" "large"
+   "maximus" "largest"
    
    "magnālia" "mighty works, mighty deeds"
    "magnāle, magnālis" "mighty work, mighty deed"
