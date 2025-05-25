@@ -8298,6 +8298,7 @@
    "revertere" "to return"
    "revertētis" "you will return"
    "revertite" "return!"
+   "revertēbantur" "they were returning"
    "reverterentur" "they (might) been returning"
    "revertendī" "of returning"
    "revertendum" "returning"
@@ -8379,6 +8380,7 @@
    "rōmānus" "Roman"
    "Rōmānus, Rōmānī" "Roman"
 
+   "rōmānicī" "Romanic"
    "rōmānicae" "Romanic"
    "rōmānicus, rōmānica, rōmānicum" "Romanic"
 
@@ -8530,6 +8532,9 @@
 
    "scaphās" "light boats, skiffs"
    "scapha, scaphae" "light boat, skiff"
+
+   "scelere" "crime"
+   "scelus, sceleris" "crime"
    
    "sciō" "I know"
    "sciēbat" "he was knowing"
@@ -8914,6 +8919,7 @@
    "splendōre" "splendor, brightness"
    "splendor, splendōris" "splendor, brightness"
 
+   "spoliātā" "having been plundered"
    "spoliātus" "having been plundered"
    "spoliō, spoliāre, spoliāvī, spoliātus" "to plunder"
 
@@ -9161,6 +9167,7 @@
    "suscipe" "undertake!"
    "suscēpit" "he undertook, he supported"
    "suscipit" "he undertakes"
+   "suscipiēbant" "they were undertaking"
    "suscipiō, suscipere, suscēpī, susceptus" "to undertake"
    
    "suscitāre" "to encourage, to awaken, to stir up"
@@ -9472,6 +9479,9 @@
    "trīstitia, trīstitiae" "sadness"
    
    "trium" "three"
+
+   "triumphō" "triumph"
+   "triumphus, triumphī" "triumph"
 
    "troiānum" "Trojan"
    "Trojānus, Trojāna, Trojānum" "Trojan"
@@ -9796,9 +9806,11 @@
    "vestīmentīs" "clothes"
    "vestīmentōrum" "clothes"
    "vestīmentum, vestīmentī" "clothing, clothes"
-   
+
+   "veste" "clothing"
    "vestibus" "clothing"
    "vestis, vestis" "clothing"
+   
    "vestītur" "it is worn"
    "vestiō, vestīre, vestīvī, vestītus" "to clothe"
 
@@ -9907,6 +9919,7 @@
    "vinculum" "chain"
    "vinculum, vinculī" "chain"
 
+   "vindicandum" "vindicating"
    "vindicāvit" "he vindicated, avenged"
    "vindicō, vindicāre, vindicāvī, vindicātus" "to vindicate, avenge"
    
