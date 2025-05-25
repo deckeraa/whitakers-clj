@@ -318,6 +318,7 @@
    "Iūram" "Mount Jura"
    "gravitātis" "gravity, weight, importance; singular feminine genitive from gravitās, gravitātis"
    "gravitāte" "gravity, weight, importance; singular feminine ablative from gravitās, gravitātis"
+   "gravitātem" "gravity, weight, importance; singular feminine accusative from gravitās, gravitātis"
    "hāc" "this; singular feminine ablative of hic, haec, hoc"
    "haec" "this, these; singular feminine nominative or plural neuter nom. or acc. of hic, haec, hoc"
    "hanc" "this; singular feminine accusative of hic, haec, hoc"
@@ -539,6 +540,7 @@
    "per" "through"
    "perfīnītis" "You finished; 2nd person plural present from perfīnīre"
    "perfīnīta" "perfīnīta + est: it has been finished"
+   "pictōrum" "of the Picts"
    "pigritārētur" "he tarried, was slothful; 3rd person singular subjunctive imperfect from pigritor"
    "Pīlātō" "Ablative of Pontius Pilate, the Roman official involved with the crucifixion of Christ."
    "pīlātō" "Ablative of Pontius Pilate, the Roman official involved with the crucifixion of Christ."
@@ -4198,6 +4200,9 @@
    "flagellāvit" "he whipped"
    "flagellō, flagellāre, flagellāvī, flagellātus" "to whip"
 
+   "flāgitābant" "they were demanding, requiring"
+   "flāgitō, flāgitāre, flāgitāvī, flāgitātus" "to demand urgently, require"
+
    "flagrāns" "burning"
    "flagrō, flagrāre, flagrāvī, flagrātus" "to blaze, to burn"
    
@@ -4510,10 +4515,14 @@
    "graphium" "stylus"
    "graphiō" "stylus"
    "graphium, graphiī" "stylus"
+   
    "grātia" "grace"
    "grātiam" "grace"
    "grātia, grātiae" "grace"
    "grātiās" "graces"
+
+   "grāta" "agreeable, thankful"
+   "grātus, grāta -um, grātior -or -us, grātissimus -a -um" "agreeable, thankful"
 
    "gravida" "pregnant woman"
    "gravida, gravidae" "pregnant woman"
@@ -5258,6 +5267,7 @@
    "intrāvī" "I entered"
    "intravissent" "they (might) have had entered"
    "intrētis" "he (might) enter"
+   "intrābant" "they were entering"
    "intrandī" "entering"
    "intrāre" "to enter"
    "intrantibus" "entering"
@@ -5392,6 +5402,9 @@
    "iuncturās" "joinings, junctions"
    "iunctura, iuncturae" "joinings, junctions"
 
+   "iūrāmentō" "oath"
+   "iūrāmentum, iūrāmentī" "oath"
+   
    "iūrandum" "oath"
    "iūrandum, iūrandī" "oath"
 
@@ -5720,6 +5733,9 @@
    "lūcium" "fish, pike fish"
    "lūcius, lūciī" "fish, pike fish"
 
+   "lūctū" "grief, sorrow"
+   "lūctus, lūctūs" "grief, sorrow"
+
    "lūdēbat" "he was playing"
    "lūdō, lūdere, lūsī, lūsus" "to play"
 
@@ -5779,6 +5795,7 @@
    "māgnum" "large"
    "māgnus" "large"
    "maximus" "largest"
+   "maximō" "largest"
    
    "magnālia" "mighty works, mighty deeds"
    "magnāle, magnālis" "mighty work, mighty deed"
@@ -5941,6 +5958,8 @@
    "mediō" "middle"
    "medium" "middle"
    "medium, mediī" "middle"
+
+   "melle" "honey"
    "mellis" "honey"
    "mel, mellis" "honey"
    
@@ -6100,6 +6119,7 @@
    "missus, missūs" "throwing, dispatch"
 
    "missīs" "having been sent"
+   "mittēbantur" "they were sending"
    "mittitur" "he is being sent"
    "mittō" "I send"
    "mittunt" "they send"
@@ -6625,6 +6645,7 @@
    
    "occīdī" "I killed"
    "occīdō" "I kill"
+   "occīsī" "having been killed"
    "occīsum" "having been killed"
    "occīsus" "having been killed"
    "occīdō, occīdere, occīdī, occīsus" "to kill"
@@ -7258,7 +7279,8 @@
    "pessimus" "worst"
    "pessimō" "worst"
    "pessimus, pessima, pessimum" "worst"
-   
+
+   "petēbant" "they were asking for"
    "petīvīt" "he asked for"
    "petenda" "asking for"
    "petīvērunt" "they asked for"
@@ -7700,6 +7722,9 @@
    "prōiēcit" "he threw down"
    "prōicere" "to throw down"
    "prōiciō, prōicere, prōiēcī, prōiectus" "to throw down"
+
+   "prōmittēbant" "they were promising"
+   "prōmittō, prōmittere, prōmīsī, prōmissus" "to promise"
 
    "prōmontoria" "peak, headland, cape, promontory"
    "prōmontorium, prōmontoriī" "peak, headland, cape, promontory"
