@@ -72,6 +72,7 @@
    "ambiorīgis" "Ambiorīx, king of the Eburones with Catuvolcus (genitive case)"
    "ambiorige" "Ambiorix, king of the Eburones with Catuvolcus (ablative case)"
    "ambiorigem" "Ambiorix, king of the Eburones with Catuvolcus (accusative case)"
+   "amen" "amen, truly, verily"
    "an" "or? rather?"
    "Annā" "Ablative of Annas, a high priest involved with the crucifixion of Christ."
    "annōn" "Was it not? Can it be that? Expects positive answer."
@@ -1801,6 +1802,9 @@
    "benevolentia"  "kindness"
    "benevolentiae" "kindness"
    "benevolentia, benevolentiae" "kindness"
+
+   "benignē" "kind, good, friendly"
+   "benīgnus, benīgna -um, benīgnior -or -us, benīgnissimus -a -um" "kind, good, friendly"
    
    "bēstia" "beast"
    "bēstiam" "beast"
@@ -2349,6 +2353,9 @@
    "coicere" "to throw, to guess"
    "coicī" "to be thrown together, to be guessed"
    "coiciō, coicere, coiēcī, coiectus" "to throw, to guess"
+
+   "colēbant" "they were worshiping"
+   "colō, colere, coluī, cultus" "to worship"
    
    "collēctiō" "collection"
    "collēctiō, collēctiōnis" "collection"
@@ -3713,6 +3720,9 @@
    "equitāre" "to ride on horseback"
    "equitō, equitāre, equitāvī, equitātus" "to ride on horseback"
 
+   "equitiō" "herd or stable of horses used for breeding"
+   "equitium, equitia" "herd or stable of horses used for breeding"
+
    "equīs" "horses"
    "equōrum" "of horses"
    "equōs" "horses"
@@ -3833,6 +3843,7 @@
    "exercitum" "army"
    "exercitus" "army"
    "exercitūs" "army"
+   "exercituum" "of armies"
    "exercitus, exercitūs" "army"
 
    "exiguitāte" "smallness, scarcity"
@@ -3852,6 +3863,9 @@
    
    "exilīvit" "he went out"
    "exiliō, exilīre, exilīvī, -" "to go out"
+
+   "exiliō" "exile"
+   "exilium, exiliī" "exile"
 
    "exīstimābat" "he was estimating, valuing"
    "exīstimābant" "they were estimating, valuing"
@@ -3899,6 +3913,7 @@
    "expugnandam" "assaulting, storming, conquering"
    "expugnō, expugnāre, expugnāvī, expugnātus" "to assault, to storm, to conquer"
 
+   "expulsae" "having been driven out"
    "expulsī" "having been driven out"
    "expulissent" "they had expelled"
    "expulsus" "having been driven out"
