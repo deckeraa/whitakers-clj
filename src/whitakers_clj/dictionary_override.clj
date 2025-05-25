@@ -65,6 +65,7 @@
    "allobrogibus" "Allobrogi, A Gaulish tribe (dative or ablative case)"
    "allobrogum" "Of the Allobrogi, A Gaulish tribe (plural genitive case)"
    "alterīus" "of the other; singular genitive from alius, alia, aliud"
+   "alternātim" "alternately (adverb)"
    "Ambiorīx" "Ambiorīx, king of the Eburones with Catuvolcus"
    "ambiorīx" "Ambiorīx, king of the Eburones with Catuvolcus"
    "Ambiorīgis" "Ambiorīx, king of the Eburones with Catuvolcus (genitive case)"
@@ -78,6 +79,7 @@
    "anteā" "before"
    "antequam" "before"
    "Antōnius" "Anthony"
+   "anxiebantur" "they were anxious"
    "April" "The month of April"
    "apud" "at, by, near"
    "Ariovistus" "A German king"
@@ -115,6 +117,7 @@
    "Brendānum" "(accusative case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brittannī" "Britons"
+   "Brittannīs" "Britons (dative or ablative case)"
    "Brittannōs" "Britons (accusative case)"
    "Brittannia" "Britain"
    "Brittanniae" "Britain (nominative plural or genitive singular case)"
@@ -994,6 +997,11 @@
    "admīror" "to admire"
    "admīror, admīrārī, admīrātus sum" "to admire"
 
+   "admissum" "crime"
+   "admissī" "crime"
+   "admissō" "crime"
+   "admissum, admissī" "crime"
+
    "admitteretur" "he (might) have been admitted"
    "admittere" "to admit, let in"
    "admittō, admittere, admīsī, admissus" "to admit, let in"
@@ -1716,6 +1724,7 @@
    "barba" "beard"
    "barba, barbae" "beard"
 
+   "barbarōrum" "of the barbarous"
    "barbarīs" "barbarous"
    "barbarus" "barbarous"
    "barbarus, barbara -um, barbarior -or -us, barbarissimus -a -um" "barbarous"
@@ -2456,6 +2465,9 @@
 
    "compotī" "reckoning, possession/control/mastery of"
    "compos, (gen.), compotis" "possession/control/mastery of"
+
+   "compositō" "having been ordered"
+   "compositus, composita, compositum" "ordered"
 
    "comprehenderant" "they had caught"
    "comprehēnsōs" "having been seized"
@@ -3526,6 +3538,8 @@
    "dōnāvit" "he gave"
    "dōnātus" "having been given"
    "dōnō, dōnāre, dōnāvī, dōnātus" "to give"
+
+   "dōna" "gifts"
    "dōnīs" "gifts"
    "dōnum, dōnī" "gift"
 
@@ -3574,9 +3588,11 @@
    
    "dūrior" "harder"
    "dūrius" "harder"
+   "dūrum" "hard"
    "dūrus, dūra -um, dūrior -or -us, dūrissimus -a -um" "hard"
 
    "ducēs" "leaders"
+   "ducum" "of leaders"
    "ducibus" "leaders"
    "dux, ducis" "leader"
    
@@ -8740,6 +8756,9 @@
    "sint" "they (might) be"
    "sīs" "you (might) be"
    "sit" "he (might) be"
+
+   "sistitur" "it is stopped"
+   "sistō, sistere, stitī, status" "to stop"
    
    "sitis, sitis" "thirst"
    "sitis" "thirst"
@@ -8869,6 +8888,9 @@
    "splendor" "splendor, brightness"
    "splendōre" "splendor, brightness"
    "splendor, splendōris" "splendor, brightness"
+
+   "spoliātus" "having been plundered"
+   "spoliō, spoliāre, spoliāvī, spoliātus" "to plunder"
 
    "sponte" "free will, impulse"
    "spōns, spontis" "free will, impulse"
@@ -9070,6 +9092,7 @@
    "superātī" "having been overcome"
    "superātis" "you overcome"
    "superātō" "having been overcome"
+   "superātus" "having been overcome"
    "superāvisset" "he (might) have overcome"
    "superārī" "to be overcome"
    "superō, superāre, superāvī, superātus" "to overcome"
@@ -9141,6 +9164,9 @@
    
    "suus" "his"
    "suum" "his"
+
+   "synodus" "synod (a religious council)"
+   "synodus, synodī" "synod (a religious council)"
    
    "tabula" "tablet"
    "tabulā" "tablet"
@@ -9309,6 +9335,7 @@
    "tōtam" "whole, total"
    "tōtī" "whole, total"
    "tōtius" "of the whole"
+   "tōtō" "whole, total"
    "tōtum" "whole, total"
    "tōtus" "whole, total"
    "tōtus, tōta, tōtum (gen -ius)" "whole, total"
@@ -9341,6 +9368,7 @@
    "trānsactīs" "having been accomplished"
    "trānsigō, trānsigere, trānsēgī, trānsactum" "to stab, to pierce, to accomplish"
 
+   "trānsfretāret" "he passed overed, ferried"
    "trānsfretāvit" "he passed over the sea, ferried"
    "trānsfretō, trānsfretāre, trānsfretāvī, trānsfretātus" "to pass over the sea, to ferry"
    
@@ -9482,6 +9510,7 @@
    "tyrannis, tyrannidis" "tyranny"
 
    "tyrannī" "tyrants"
+   "tyrannō" "tyrant"
    "tyrannus" "tyrant"
    "tyrannus, tyrannī" "tyrant"
    
