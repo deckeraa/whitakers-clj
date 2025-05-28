@@ -153,6 +153,7 @@
    "citissimē" "very swiftly"
    "citō" "quickly"
    "clam" "secretly, stealthily, without the knowledge of"
+   "clāmāte" "shout: plural imperative from clāmāre"
    "Commius" "Commius, a Roman ambassador"
    "Cosdras" "Codrus, the last King of Athens (r. ca 1089-1068 BC)"
    "Cosdrī" "of Codrus, the last King of Athens (r. ca 1089-1068 BC)"
@@ -456,6 +457,7 @@
    "minimē" "barely, no, not"
    "minus" "less"
    "mixtim" "mixedly, in a mixed manner (adverb)"
+   "modicum" "a little; singular neuter nominative or accusative from modicum, modica"
    "mox" "soon"
    "Mumenensī" "of Munster, a south-western region in Ireland. Not to be confused with Münster, the German city."
    "Nabuchodonosor" "Nebuchadnezzar (reigned 605-562 BC), the Babylonian king mentioned in Daniel"
@@ -508,6 +510,7 @@
    "numquid" "is it possible?"
    "nunc" "now"
    "nūper" "recently"
+   "nusquam" "nowhere"
    "nūtrītōrem" "nurse; singular masculine accusative from nūtrītor, nūtrītōrēs"
    "ob" "for, because of, towards"
    "obitum" "death"
@@ -935,6 +938,7 @@
    "aciē" "battle line"
    "aciēs, aciēī" "battle line"
 
+   "adfuit" "he was present"
    "adesset" "he (might) have been present"
    "affuit" "he was present"
    "assum, adesse, affuī, affuturus" "to be present"
@@ -2108,7 +2112,8 @@
    "causam" "cause, reason"
    "causās" "causes, reasons"
    "causa, causae" "cause, reason"
-      
+
+   "cavē" "Beware!"
    "cavēte" "Beware!"
    "caveō, cavēre, cāvī, cautus" "to beware"
    
@@ -2288,6 +2293,7 @@
    "classe" "ship, fleet"
    "classis, classis" "ship, fleet"
 
+   "clausīs" "having been closed"
    "claudit" "he closes"
    "claudere" "to close"
    "claudō, claudere, clausī, clausus" "to close"
@@ -2418,6 +2424,7 @@
 
    "combūrunt" "they burn up"
    "combūrere" "to burn up"
+   "combussit" "it burned up"
    "combūrō, combūrere, combussī, combustus" "to burn up"
    
    "comedendum" "eating"
@@ -3777,6 +3784,7 @@
    "erit" "he will be"
    "eritis" "you will be"
    "erō" "I will be"
+   "estōte" "be! (in the future)"
    "essent" "they (might) have been"
    "fore" "to be"
 
@@ -3833,6 +3841,7 @@
 
    "ēvēnit" "it happened"
    "ēvenīret" "it (might) have been happening"
+   "ēvēnerit" "it happened"
    "ēvenīre" "to happen"
    "ēveniō, ēvenīre, ēvēnī, ēventus" "to happen"
 
@@ -4838,8 +4847,14 @@
 
    "iactus" "throwing, casting, hurling"
    "iactus, iactūs" "throwing, casting, hurling"
+   
    "ianthinīs" "violet-colored"
    "janthinus, janthina, janthinum" "violet-colored"
+
+   "iānua" "door"
+   "iānuae" "door"
+   "iānuīs" "doors"
+   "iānua, iānuae" "door"
 
    "ībant" "they were going"
    "ībat" "he was going"
@@ -4856,6 +4871,9 @@
 
    "īdibus" "ides"
    "īdūs, īduum" "ides"
+
+   "iēiūnōs" "fasting"
+   "jējūnus, jējūna -um, jējūnior -or -us, jējūnissimus -a -um" "fasting, hungry"
    
    "īgnis, īgnis" "fire"
    "īgnis" "fire"
@@ -5943,9 +5961,11 @@
    "mānserint" "they will have remained"
    "mānsērunt" "they have remained"
    "mānsit" "he remained"
+   "manēre" "to remain"
    "maneō, manēre, mānsī, mānsus" "to remain"
    "manet" "he remains"
-   "maneant" "he remains"
+   "maneat" "he remains"
+   "maneant" "they remain"
    
    "manifestāvit" "he revealed"
    "manifestō, manifestāre, manifestāvī, manifestātus" "to reveal"
@@ -6631,6 +6651,7 @@
 
    "numerō"  "number, division, troop"
    "numerum" "number, division, troop"
+   "numerus" "number, division, troop"
    "numerus, numerī" "number, division, troop"
 
    "nūntiātum" "having been announced"
@@ -9280,6 +9301,7 @@
    "supputō, supputāre, supputāvī, supputātus" "to compute"
 
    "suprādictae" "having been said above"
+   "suprādictus" "having been said above"
    "suprādīcō, suprādīcere, suprādīxī, suprādictus" "to say above"
    
    "surgite" "raise! lift! get up!"
@@ -10042,6 +10064,7 @@
    "vigilāvit" "he woke up"
    "vigilandī" "of waking up"
    "vigilandum" "waking up"
+   "vigilantēs" "keeping watch, waking up"
    "vigilāre" "to wake up"
    "vigilō, vigilāre, vigilāvī, vigilātum" "to be awake, to watch for"
 
