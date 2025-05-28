@@ -53,6 +53,7 @@
    "aliōquīn" "also"
    "aliquam" "anyone"
    "aliquandō" "some day"
+   "aliquanta" "some"
    "aliqui" "anyone"
    "aliquī" "someone; plural masculine nominative from aliquis"
    "aliquid" "someone"
@@ -237,6 +238,7 @@
    "etsī" "even so"
    "eugē" "Hey-o! (An untranslatable interjection)"
    "eum" "to him; singular masculine accusative from is, ea, id"
+   "exceptā" "except"
    "exceptō" "except"
    "expectāte" "Await! plural imperative from expectō, expectāre, expectāvī, expectātus"
    "expedītīs" "lightly-armed soldiers; dative or ablative case"
@@ -302,6 +304,7 @@
    "Hybernia" "Ireland (nominative case)"
    "Hyberniae" "of Ireland (genitive case)"
    "iamdūdum" "long ago"
+   "iānuatōrem" "door-keeper; singular masculine accusative from iānuatōr, iānuatōris. This word was not in any dictionary I consulted; yet the meaning is clear from the root word iānua"
    "idcircō" "for that reason"
    "ideō" "for that reason"
    "iēiūnābant" "they were fasting"
@@ -1435,7 +1438,8 @@
    
    "appropinquāre" "to approach"
    "appropinquō, appropinquāre, appropinquāvī, appropinquātus" "to approach"
-   "appropinquābant" "they had approached"
+   "appropinquābat" "he approached"
+   "appropinquābant" "they approached"
    "appropinquant" "they approach"
    "appropinquāvērunt" "they had approached"
    "appropinquāvissem" "I (might) have had approached"
@@ -2060,6 +2064,11 @@
    "cārissimī" "beloved"
    "cārus, cāra -um, cārior -or -us, cārissimus -a -um" "beloved, dear"
 
+   "casa" "house"
+   "casae" "house"
+   "casam" "house"
+   "casa, casae" "house"
+
    "castellīs" "castles, strongholds"
    "castellum, castellī" "castle, stronghold"
 
@@ -2410,6 +2419,7 @@
    "comes" "comrade"
    "comite" "comrade"
    "comitī" "comrade"
+   "comitibus" "comrades"
    "comes, comitis" "comrade"
 
    "coēmērunt" "they bought"
@@ -2589,6 +2599,7 @@
    "cōnfortāvit" "he comforted, he strengthened"
    "cōnfortō, cōnfortāre, cōnfortāvī, cōnfortātus" "to comfort, to strengthen"
 
+   "cōnfringerētur" "it was not broken"
    "cōnfrācta" "having been broken in pieces, shattered"
    "cōnfringō, cōnfringere, cōnfrēgī, cōnfrāctus" "to break in pieces, to shatter"
    
@@ -2834,6 +2845,7 @@
    "cōpiīs" "forces"
    "cōpia, cōpiae" "forces"
 
+   "coxit" "he cooked"
    "coquināre" "to cook"
    "coquinō, coquināre, coquināvī, coquinātus" "to cook"
    
@@ -2878,7 +2890,8 @@
    "crassī"  "fat"
    "crassum, crassī" "fat"
    
-   "crāstinae" "tomorrow" 
+   "crāstinae" "tomorrow"
+   "crāstinō" "tomorrow"
    "crāstinum" "tomorrow"
    "crāstinus, crāstina, crāstinum" "tomorrow"
    "creātōrī" "creator"
@@ -3060,9 +3073,14 @@
    "dēcipere" "to cheat, deceive"
    "dēcipiō, dēcipere, dēcēpī, dēceptus" "to cheat, deceive"
 
+   "dēclīnābat" "he diverted, distracted"
+   "dēclīnāre" "to divert, to distract"
+   "dēclīnō, dēclīnāre, dēclīnāvī, dēclīnātus" "to divert, to distract"
+
    "dēclīvī" "slopes"
    "dēclīvum, dēclīvī" "slope"
-   
+
+   "dēcrēvī" "I decided"
    "dēcrēvimus" "we decided"
    "dēcernō, dēcernere, dēcrēvī, dēcrētus" "to decide"
 
@@ -3887,6 +3905,7 @@
    "expectābitis" "you will await, you will expect"
    "expectābant" "you were awaiting, you were expecting"
    "expectāre" "to await, to expect"
+   "expectārent" "they awaited"
    "expectāvimus" "we awaited, we expected"
    "expectō" "I await, I expect"
    "expectō, expectāre, expectāvī, expectātus" "to await, to expect"
@@ -4496,6 +4515,9 @@
    "gestum" "having been carried out"
    "gerere" "to bear, to carry, to govern"
    "gerō, gerere, gessī, gestus" "to bear, to carry, to govern"
+
+   "Germāniā" "Germany"
+   "Germānia, Germāniae" "Germany"
    
    "gigans" "giant"
    "gigantis" "giant"
@@ -4799,7 +4821,7 @@
    "iactus, iactūs" "throwing, casting, hurling"
    "ianthinīs" "violet-colored"
    "janthinus, janthina, janthinum" "violet-colored"
-   
+
    "ībant" "they were going"
    "ībat" "he was going"
    "ībunt" "they will be going"
@@ -4809,6 +4831,9 @@
 
    "ictū" "blow, stroke"
    "ictus, ictūs" "blow, stroke"
+
+   "īdōlīs" "idols"
+   "īdōlum, īdōlī" "idol"
 
    "īdibus" "ides"
    "īdūs, īduum" "ides"
@@ -4980,6 +5005,9 @@
    "incitātōs" "having been incited"
    "incitō, incitāre, incitāvī, incitātus" "to incite"
 
+   "inclīnāvit" "he inclined"
+   "inclīnō, inclīnāre, inclīnāvī, inclīnātus" "to incline"
+   
    "incōgnitum" "unknown, untested"
    "incōgnitōrum" "unknown, untested"
    "incōgnitus, incōgnita, incōgnitum" "unknown, untested"
@@ -4988,6 +5016,7 @@
    "incola, incolae" "inhabitant"
    
    "incolumēs" "unharmed"
+   "incolumis" "unharmed"
    "incolumis, incolumis, incolume" "unharmed"
 
    "incoluerant" "they had inhabited"
@@ -5117,6 +5146,10 @@
    "inīquitās, inīquitātis" "iniquity"
    "inīquitās" "iniquity"
    "inīquitātem" "iniquity"
+
+   "inīquum" "unjust"
+   "inīquus" "unjust"
+   "inīquus, inīqua -um, inīquior -or -us, inīquissimus -a -um" "unjust"
 
    "inī" "enter! go in!"
    "inivērunt" "they entered"
@@ -5311,10 +5344,14 @@
    "invenīre" "to find"
    "invenit" "he finds, he found"
    "inveniātis" "you might find"
+   "inventus" "having had found"
    "inveniō, invenīre, invēnī, inventum" "to find"
 
    "invīsibilis" "invisible"
    "invīsibil, (gen.), invīsibilis" "invisible"
+
+   "invītāvit" "he invited"
+   "invītō, invītāre, invītāvī, invītātus" "to invite"
    
    "invocant" "they invoked"
    "invocās" "you invoke"
@@ -5339,6 +5376,7 @@
    "it" "he goes"
    "īte" "go!"
    "īret" "he (might) have gone"
+   "īrent" "they (might) have gone"
    "īre" "to go"
    "eundum" "going"
    "eundī" "of going"
@@ -5831,6 +5869,7 @@
    
    "maxima" "biggest"
    "maximās" "biggest"
+   "maximī" "biggest"
    "maximīs" "biggest"
    "maximōs" "biggest"
    "maximum" "biggest"
@@ -5875,6 +5914,7 @@
    "manēbant" "they were remaining"
    "manēbit" "he will remain"
    "manēbitis" "you will remain"
+   "mānserint" "they will have remained"
    "mānsērunt" "they have remained"
    "mānsit" "he remained"
    "maneō, manēre, mānsī, mānsus" "to remain"
@@ -6036,6 +6076,9 @@
    "metendō" "reaping, cutting off"
    "metere" "to reap, to cut off"
    "metō, metere, messuī, messus" "to reap, to cut off"
+
+   "metū" "fear"
+   "metus, metūs" "fear"
    
    "migrāvī" "I departed"
    "migrō, migrāre, migrāvī, migrātus" "to depart"
@@ -6098,6 +6141,7 @@
    "mīrābilis, mīrābilis, mīrābile" "marvelous, wonderful"
    
    "mīrāculum" "miracle"
+   "mīrācula" "miracles"
    "mīrāculīs" "miracles"
    "mīrāculum, mīrāculī" "miracle"
    "miser" "miserable"
@@ -6289,6 +6333,7 @@
    "plūrēs" "more"
    "plūrimās" "very many"
    "plūrimum" "very many"
+   "plūrimī" "very many"
    "multus, multa -um, -, plūrimus -a -um" "many"
    
    "mundī" "world"
@@ -7432,6 +7477,9 @@
    "portam" "gate"
    "porta, portae" "door, entrance"
 
+   "portārius" "doorkeeper"
+   "portārius, portāriī" "doorkeeper"
+
    "portandum" "carrying"
    "portans" "carrying"
    "portantem" "carrying"
@@ -7538,7 +7586,9 @@
    "praedēstināvit" "he predestined"
    "praedēstinō, praedēstināre, praedēstināvī, praedēstinātus" "to predestine"
 
+   "praedicandum" "preaching"
    "praedicāre" "to preach"
+   "praedicāret" "he was preaching"
    "praedicō, praedicāre, praedicāvī, praedicātus" "to preach"
    
    "praedicta" "the aforesaid"
@@ -7754,6 +7804,7 @@
    "prōpellō, prōpellere, prōpulī, prōpulsus" "to drive, to defeat"
 
    "properāvērunt" "they hurried"
+   "properāre" "to hurry"
    "properō, properāre, properāvī, properātus" "to hurry"
 
    "prophētātiō"    "prophecy"
@@ -8134,6 +8185,7 @@
 
    "rēgnābat" "he was reigning"
    "rēgnandum" "reigning"
+   "rēgnante" "reigning"
    "rēgnantem" "reigning"
    "rēgnāvit" "he reigned"
    "regnavērunt" "they reigned"
@@ -8397,6 +8449,7 @@
 
    "rōmānicī" "Romanic"
    "rōmānicae" "Romanic"
+   "rōmānicō" "Romanic"
    "rōmānicus, rōmānica, rōmānicum" "Romanic"
 
    "rotārum" "of wheels"
@@ -8490,6 +8543,7 @@
    "salūtāvit" "he saluted, he greeted"
    "salūtō, salūtāre, salūtāvī, salūtātus" "to salute, to greet"
 
+   "salvī" "healthy, safe"
    "salvam" "healthy, safe"
    "salvus, salva, salvum" "healthy, safe"
    
@@ -8563,6 +8617,7 @@
    "scōria, scōriae" "slag"
 
    "scrībe" "write!"
+   "scrībenda" "writing"
    "scrībendī" "of writing"
    "scrībendum" "writing"
    "scrībere" "to write"
@@ -9181,6 +9236,7 @@
    "suscepta" "having been undertaken"
    "suscipe" "undertake!"
    "suscēpit" "he undertook, he supported"
+   "susceptī" "having been undertaken"
    "suscipit" "he undertakes"
    "suscipiēbant" "they were undertaking"
    "suscipiō, suscipere, suscēpī, susceptus" "to undertake"
@@ -9632,6 +9688,9 @@
    "ūrceolus, ūrceolī" "small pitcher"
    "ūrceolī" "small pitcher"
 
+   "urgēbātur" "he was being urged"
+   "urgeō, urgēre, ursī, -" "to urge"
+
    "ūrī" "aurochs"
    "ūrus, ūrī" "aurochs"
 
@@ -9972,6 +10031,7 @@
    "vīsiō, vīsiōnis" "vision"
 
    "vīsitāvissem" "I (might) have had visited"
+   "vīsitāre" "to visit"
    "vīsitō, vīsitāre, vīsitāvī, vīsitātus" "to visit"
    
    "vīta" "life"
