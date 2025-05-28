@@ -2924,6 +2924,7 @@
    "creātī" "of the thing created"
    
    "crēdidī" "I believed, I entrusted"
+   "crēdidit" "he believed"
    "crēdidistī" "you believed"
    "crēdis" "you believe"
    "crēdō" "I believe"
@@ -3306,6 +3307,7 @@
    "dicēbat" "he was saying"
    "dicēbant" "they were saying"
    "dīcēns" "saying"
+   "dīcentem" "saying"
    "dīcentēs" "saying"
    "dīcere" "to say"
    "dīcerent" "they (might) have been saying"
@@ -3693,6 +3695,9 @@
 
    "egēns" "lacking, being poor"
    "egeō, egēre, eguī, -" "to lack, to be poor"
+
+   "egēnum" "poor, needy"
+   "egēnus, egēna, egēnum" "poor, needy"
    
    "ego" "I"
    
@@ -3788,6 +3793,7 @@
    "essent" "they (might) have been"
    "fore" "to be"
 
+   "ērigēns" "raising, building"
    "ērēctīs" "to be raised, to be built"
    "ērēxit" "he raised, he built"
    "ērigō, ērigere, ērēxī, ērēctus" "to raise, to build"
@@ -4758,6 +4764,7 @@
    "historiae" "history, story"
    "historia, historiae" "history, story"
 
+   "hodiernā" "today"
    "hodiernum" "today"
    "hodiernum, hodiernī" "today"
 
@@ -4797,6 +4804,9 @@
    "hospitiō" "hospitality"
    "hospitium" "hospitality"
    "hospitium, hospitiī" "hospitality"
+
+   "hospitālis" "hospitable"
+   "hospitālis, hospitālis, hospitāle" "hospitable"
 
    "hoste" "enemy"
    "hostēs" "enemies"
