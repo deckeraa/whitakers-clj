@@ -1205,7 +1205,9 @@
    "aliud" "other"
    "alius" "other"
    "alius, alia, aliud" "other"
+   
    "alligāvissent" "they (might) have had tied"
+   "alligāvit" "he tied"
    "alligō, alligāre, alligāvī, alligātus" "to bind, to tie"
    "altāre" "alter"
    "altāre, altāris" "alter"
@@ -1564,6 +1566,11 @@
    
    "arūrae" "square fields of 100 cubits"
    "arūra, arūrae" "a square field of 100 cubits"
+
+   "arce" "citadel"
+   "arcis" "citadel"
+   "arx" "citadel"
+   "arx, arcis" "citadel"
    
    "ascendentibus" "ascending"
    "ascendēns" "ascending"
@@ -1725,6 +1732,7 @@
    "baptistam" "baptist"
    "baptista, baptistae" "baptist"
 
+   "baptīzātus" "having been baptized"
    "baptīzāvit" "he baptipzed"
    "baptīzō, baptīzāre, baptīzāvī, baptīzātus" "to baptize"
    
@@ -2909,6 +2917,8 @@
    "creātī" "of the thing created"
    
    "crēdidī" "I believed, I entrusted"
+   "crēdidistī" "you believed"
+   "crēdis" "you believe"
    "crēdō" "I believe"
    "crēdendum" "believing"
    "crēdō, crēdere, crēdidī, crēditum" "to believe"
@@ -2986,6 +2996,7 @@
    "cūrēs" "spear"
    "cūris, cūris" "spear"
 
+   "currēbat" "he ran"
    "cucurrērunt" "they ran"
    "currere" "to run"
    "currō, currere, cucurrī, cursus" "to run"
@@ -3438,6 +3449,9 @@
    "dissentīrent" "they were disagreeing"
    "dissentīre" "to disagree"
    "dissentiō, dissentīre, dissēnsī, dissēnsus" "to disagree"
+
+   "distillābat" "it was dripping"
+   "distīllō, distīllāre, distīllāvī, distīllātus" "to drip"
    
    "dīversae" "diverse"
    "dīversa" "diverse"
@@ -3600,6 +3614,7 @@
    "dūcerentur" "they (might) have been leading"
    "dūcet" "you will lead"
    "dūcendam" "leading"
+   "ductus" "having been lead"
    "dūcō, dūcere, dūxī, ductus" "to lead"
    
    "ductor" "leader"
@@ -6492,6 +6507,7 @@
 
    "nescīmus" "we do not know"
    "nescīvit" "he didn't know"
+   "nesciērunt" "they didn't know"
    "nesciō, nescīre, nescīvī, nescītus" "to not know"
 
    "necis" "death, slaughter"
@@ -6606,6 +6622,8 @@
 
    "nūntiātum" "having been announced"
    "nūntiāvērunt" "they announced"
+   "nūntiāvit" "he announced"
+   "nūntiāret" "he announced"
    "nūntiāre" "to announce"
    "nūntiō, nūntiāre, nūntiāvī, nūntiātus" "to announce"
 
@@ -6925,9 +6943,12 @@
    "ostendunt" "they show"
    "ostendere" "to show"
    "ostendō, ostendere, ostendī, ostentus" "to show"
-   
+
+   "os" "bone"
    "ossa" "bones"
+   "ossibus" "bones"
    "os, ossis" "bones"
+   
    "ōstia" "doors"
    "ōstium" "door"
    "ōstium, ōstiī" "door"
@@ -8557,7 +8578,8 @@
    
    "sanguinem" "blood"
    "sanguis, sanguinis" "blood"
-   
+
+   "sānus" "healthy, sound"
    "sānōs" "healthy, sound"
    "sānus, sāna, sānum" "healthy, sound"
 
@@ -8776,6 +8798,7 @@
 
    "sermō" "conversation, speech"
    "sermōne" "conversation, speech"
+   "sermōnem" "conversation, speech"
    "sermō, sermōnis" "conversation, speech"
    "sermōnibus" "conversation, speech"
 
@@ -9869,9 +9892,14 @@
    "vesperās" "evening"
    "vespere" "evening"
    "vespera, vesperae" "evening"
+
+   "vesperum" "evening"
+   "vesper, vesperis" "evening"
+   
    "vespertīnum" "evening"
    "vespertīna" "evening"
    "vespertīnus, vespertīna, vespertīnum" "evening"
+   
    "vester" "your"
    "vester, vestra, vestrum" "your"
    
@@ -10056,7 +10084,9 @@
    "vitulus" "calf"
    "vitulī"  "calf"
    "vitulīs" "calves"
+   "vitulō" "calf"
    "vitulōs" "calves"
+   "vitulum" "calf"
    "vitulus, vitulī" "calf"
    
    "vīvēbam" "I was living"
