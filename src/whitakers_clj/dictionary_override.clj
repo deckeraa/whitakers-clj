@@ -3919,6 +3919,8 @@
    "expectābis" "you will await, you will expect"
    "expectābitis" "you will await, you will expect"
    "expectābant" "you were awaiting, you were expecting"
+   "expectant" "they await"
+   "exspectārent" "they awaited"
    "expectāre" "to await, to expect"
    "expectārent" "they awaited"
    "expectāvimus" "we awaited, we expected"
@@ -4550,9 +4552,11 @@
 
    "glōriōsa" "glorious"
    "glōriōsus, glōriōsa -um, glōriōsior -or -us, glōriōsissimus -a -um" "glorious"
-   
+
+   "gradieris" "you will walk"
    "gradior, gradi, gressus sum" "to walk, to step"
    "gradiēbantur" "they were walking"
+   
    "gradus" "step"
    "gradūs" "step"
    "gradus, gradūs" "step"
@@ -4960,6 +4964,11 @@
    "impetus" "attack, assault, fury"
    "impetus, impetūs" "attack, assault, fury"
 
+   "impetrārent" "they obtained"
+   "impetrāvērunt" "they obtained"
+   "impetrāre" "to obtain"
+   "impetrō, impetrāre, impetrāvī, impetrātus" "to obtain"
+
    "implentēs" "filling up"
    "implēta" "having been filled upo"
    "implēvit" "he fulfilled, filled up"
@@ -5020,6 +5029,7 @@
    "incitātōs" "having been incited"
    "incitō, incitāre, incitāvī, incitātus" "to incite"
 
+   "inclīnābat" "he inclined"
    "inclīnāvit" "he inclined"
    "inclīnō, inclīnāre, inclīnāvī, inclīnātus" "to incline"
    
@@ -5276,6 +5286,7 @@
    "interdīcō, interdīcere, interdīxī, interdīctus" "to forbid, to interdict"
    "interēmit" "he extinguish, he did away with"
 
+   "interficiēbātur" "he was killed"
    "interfēcerant" "they had killed"
    "interfēcit" "he killed"
    "interfectīs" "having been killed"
@@ -6264,9 +6275,11 @@
 
    "morārī" "to stay, delay"
 
+   "moriēris" "you will die"
    "moritur" "he dies"
    "moriēmur" "he will die"
    "morior, morī, mortuus sum" "to die"
+   
    "mors, mortis" "death"
    "morte" "death"
    "mortem" "death"
@@ -6873,6 +6886,7 @@
    "ōrātiō, ōrātiōnis" "oration, speech, discourse"
    "ōrātiōnibus" "oration, speech, discourse"
    "ōrāvērunt" "they prayed"
+   "ōrārent" "they prayed"
 
    "ōrātōris" "speaker"
    "ōrātor, ōrātōris" "speaker"
@@ -7352,9 +7366,11 @@
    "pervēnit" "he arrived"
    "perventum" "having been reached"
    "perventūrōs" "arriving (in the future)"
-   
+
+   "pedum" "of feet"
    "pedibus" "feet"
    "pēs, pedis" "foot"
+   
    "pessimīs" "worst"
    "pessimum" "worst"
    "pessimus" "worst"
@@ -7425,6 +7441,10 @@
    "plānitia" "plain"
    "plānitiae" "plain"
    "plānitia, plānitiae" "plain"
+
+   "planta" "sole"
+   "plantās" "soles"
+   "planta, plantae" "sole"
 
    "plēbis" "common people"
    "plēbs, plēbis" "common people"
