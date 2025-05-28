@@ -7649,6 +7649,9 @@
    "praedae" "plunder"
    "praeda, praedae" "plunder"
 
+   "praefectus" "prefect, officer"
+   "praefectus, praefectī" "prefect, officer"
+
    "praefēcit" "he put in command"
    "praeficiō, praeficere, praefēcī, praefectus" "to command"
 
@@ -8580,9 +8583,14 @@
    "salūtārium" "salutary, redeeming"
    "salūtāris, 	salūtāre" "salutary, redeeming"
 
+   "salūtārent" "they greeted"
    "salūtātis" "you salute, you greet"
    "salūtāvit" "he saluted, he greeted"
    "salūtō, salūtāre, salūtāvī, salūtātus" "to salute, to greet"
+
+   "salūtātiō" "greeting"
+   "salūtātiōnem" "greeting"
+   "salūtātiō, salūtātiōnis" "greeting"
 
    "salvī" "healthy, safe"
    "salvam" "healthy, safe"
@@ -8833,6 +8841,7 @@
    "serviō, servīre, servīvī, servītus" "to serve"
 
    "servitūte" "servitude"
+   "servitūtem" "servitude"
    "servitūs, servitūtis" "servitude"
    
    "servīs" "slaves, servants"
@@ -9195,6 +9204,9 @@
    "sudēs" "stakes, logs"
    "sudis, sudis" "stake, log"
 
+   "sūdor" "sweat"
+   "sūdor, sūdōris" "sweat"
+
    "sufficient" "they will suffice"
    "sufficiat" "it (might) suffice"
    "sufficiō, sufficere, suffēcī, suffectus" "to suffice"
@@ -9274,6 +9286,7 @@
    "surrēxit" "he raised up"
    "surgēbat" "he was lifting up"
    "surgentem" "raising"
+   "surrēxērunt" "they raised up"
    "surgō, surgere, surrēxī, surrēctus" "to rise, to lift"
    
    "suscepta" "having been undertaken"
@@ -9581,7 +9594,9 @@
    "triduānō" "three days"
    "triduānōs" "three days"
    "triduāna, triduānae" "three days"
+   
    "trīnitās" "Trinity"
+   "trīnitātem" "Trinity"
    "trīnitātī" "Trinity"
    "trīnitās, trīnitātis" "Trinity"
    
@@ -9660,6 +9675,7 @@
 
    "tyrannī" "tyrants"
    "tyrannō" "tyrant"
+   "tyrannum" "tyrant"
    "tyrannus" "tyrant"
    "tyrannus, tyrannī" "tyrant"
    
@@ -9902,7 +9918,8 @@
    "vertitur" "he is turned"
    "vertere" "to turn, to change"
    "vertō, vertere, vertī, versus" "to turn, to change"
-   
+
+   "vertice" "head, top, peak"
    "verticem" "head, top, peak"
    "vertex, verticis" "head, top, peak"
    "vērum" "true"
