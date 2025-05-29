@@ -1710,6 +1710,7 @@
    "auxiliāre" "to help"
    "auxiliō, auxiliāre, auxiliāvī, auxiliātus" "to help"
 
+   "auxiliō" "help, aid"
    "auxilium" "help, aid"
    "auxilium, auxiliī" "help, aid"
    
@@ -2212,6 +2213,9 @@
    "Chrīstus, Chrīstī" "Christ"
    "chrīstiānōrum" "of Christians"
    "chrīstiānus, chrīstiānī" "Christian"
+
+   "cibāre" "to feed"
+   "cibō, cibāre, cibāvī, cibātus" "to feed"
 
    "cibāria" "food, fodder"
    "cibāria, cibāriōrum" "food, fodder"
@@ -3052,7 +3056,8 @@
    "dāniēle" "Daniel"
    "dāniēlem" "Daniel"
    "Dāniēl, Dāniēlis" "Daniel"
-   
+
+   "darī" "to be given"
    "dans" "giving"
    "dant" "they give"
    "dat" "he gives"
@@ -3127,6 +3132,7 @@
    "dederit" "he will give"
    "dedērunt" "they gave"
 
+   "dēfectiōne" "defection, revolt"
    "dēfectiōnis" "defection, revolt"
    "dēfectiō, dēfectiōnis" "defection, revolt"
 
@@ -3454,6 +3460,9 @@
 
    "dispersōs" "spread out"
    "dispersus, dispersa, dispersum" "spread out"
+
+   "disrumperent" "they shattered"
+   "disrumpō, disrumpere, disrūpī, disruptus" "to shatter"
 
    "dissentīrent" "they were disagreeing"
    "dissentīre" "to disagree"
@@ -3962,6 +3971,7 @@
    "expōnō, expōnere, exposuī, expositus" "to explain"
 
    "expugnandam" "assaulting, storming, conquering"
+   "expugnāre" "to assault, to storm, to conquer"
    "expugnō, expugnāre, expugnāvī, expugnātus" "to assault, to storm, to conquer"
 
    "expulsae" "having been driven out"
@@ -5194,6 +5204,7 @@
 
    "inimīcī" "enemy"
    "inimīcō" "enemy"
+   "inimīcōs" "enemies"
    "inimīcus" "enemy"
    "inimīcus, inimīcī" "enemy"
    
@@ -6130,6 +6141,9 @@
    "metallī" "metal"
    "metallum, metallī" "metal"
 
+   "mētātī" "having been measured off"
+   "mētō, mētāre, mētāvī, mētātus" "to measure off, mark out"
+
    "metendō" "reaping, cutting off"
    "metere" "to reap, to cut off"
    "metō, metere, messuī, messus" "to reap, to cut off"
@@ -6370,6 +6384,7 @@
 
    "multiplicāta" "having been multiplied"
    "multiplicātī" "having been multiplied"
+   "multiplicātus" "having been multiplied"
    "multiplicō, multiplicāre, multiplicāvī, multiplicātus" "to multiply, to increase"
    
    "multitūdō" "multitude, great number"
@@ -7615,6 +7630,7 @@
    "potestās, potestātis" "power"
    "postulābat" "he was asking for"
    "postulāns" "asking"
+   "postulārent" "they demanded"
    "postulō, postulāre, postulāvī, postulātus" "to ask for"
    "poterat" "he was able to"
    "poterant" "they were able to"
@@ -7866,6 +7882,8 @@
    "prōicere" "to throw down"
    "prōiciō, prōicere, prōiēcī, prōiectus" "to throw down"
 
+   "prōmīsērunt" "they promised"
+   "prōmīsit" "he promised"
    "prōmittēbant" "they were promising"
    "prōmittō, prōmittere, prōmīsī, prōmissus" "to promise"
 
@@ -8139,6 +8157,7 @@
    "recēdās" "you (might) recede, withdraw"
    "recēde" "recede! withdraw!"
    "recēdēbant" "they were receding, they were withdrawing"
+   "recēdite" "withdraw!"
    "recēdō, recēdere, recessī, recessus" "to recede, to withdraw"
 
    "receptum" "engagement, obligation"
@@ -9997,6 +10016,7 @@
    "vestīmentī" "clothing"
    "vestīmentīs" "clothes"
    "vestīmentōrum" "clothes"
+   "vestīmentum" "clothing"
    "vestīmentum, vestīmentī" "clothing, clothes"
 
    "veste" "clothing"
