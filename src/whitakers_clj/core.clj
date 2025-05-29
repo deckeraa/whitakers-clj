@@ -531,7 +531,7 @@
                    "iuss.it" "iussit" "iuss.erunt" "iussērunt" "incit.atis" "incitātis"
                    "super.atis" "superātis" "occup.atis" "occupātis" "perturb.atis" "perturbātis"
                    "prodi.ret" "prōdīret" "libert.ate" "lībertāte" "denari.orum" "dēnāriōrum"
-                   "fabric.atis" "fabricātus" "possid.ebatur" "possidēbātur" "lac.um" "lacum" "clam.ate" "clāmāte" "modic.um" "modicum"
+                   "fabric.atis" "fabricātus" "possid.ebatur" "possidēbātur" "lac.um" "lacum" "clam.ate" "clāmāte" "modic.um" "modicum" "prophet.am" "prophētam"
                    } word) word)]
     word))
 

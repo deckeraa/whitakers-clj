@@ -4997,6 +4997,7 @@
    "impetrāre" "to obtain"
    "impetrō, impetrāre, impetrāvī, impetrātus" "to obtain"
 
+   "implētum" "having been filled up"
    "implentēs" "filling up"
    "implēta" "having been filled upo"
    "implēvit" "he fulfilled, filled up"
@@ -7158,6 +7159,7 @@
    "pauxillum, pauxillī" "a little"
 
    "pauper" "poor"
+   "pauperem" "poor"
    "pauperum" "poor"
    "pauper, pauperis (gen.), pauperior -or -us, pauperrimus -a -um" "poor"
    
@@ -7766,6 +7768,7 @@
    "prīncipēs" "first men, chiefs"
    "prīncipī"  "first man, prince"
    "prīncipis" "first man, prince"
+   "prīncipibus" "princes"
    "prīnceps, prīncipis" "first man, prince"
 
    "prīncipiō"  "beginning, origin"
@@ -7888,6 +7891,7 @@
 
    "prophēta"   "prophet"
    "prophētā"   "prophet"
+   "prophētam"  "prophet"
    "prophētia"  "prophet"
    "prophētiae" "prophet"
    "prophētia, prophētiae" "prophet"
@@ -8010,6 +8014,7 @@
    "pulsī" "having been hit"
    "pulsō, pulsāre, pulsāvī, pulsātus" "to hit"
 
+   "pulvere" "dust, arena"
    "pulverem" "dust, arena"
    "pulveris" "dust, arena"
    "pulvis"   "dust, arena"
@@ -8256,6 +8261,7 @@
    "rēgnum, rēgnī" "kingdom"
 
    "regēbat" "he was ruling"
+   "regitur" "is ruled"
    "regō, regere, rēxī, rēctus" "to rule"
 
    "rēgnābat" "he was reigning"
@@ -8724,7 +8730,8 @@
    "secunda" "second"
    "secundī" "second"
    "secundus" "second"
-   
+
+   "sedeat" "he sits"
    "sedēbat" "he was sitting"
    "sedēbant" "they were sitting"
    "sedendō" "sitting"
@@ -8755,7 +8762,9 @@
 
    "sēmen"   "seed, posterity, offspring"
    "sēmina" "seeds"
+   "sēmine" "seed"
    "sēminis" "seed, posterity, offspring"
+   "sēminō" "seed"
    "sēmen, sēminis" "seed, posterity, offspring"
 
    "sēmentēs" "sowing, planting"
@@ -8866,6 +8875,7 @@
 
    "servābat" "he was watchinig over, he was guarding, he was preserving"
    "servāre" "to watch over, to guard, to preserve, to save"
+   "servō" "I watch over, guard"
    "servō, servāre, servāvī, servātus" "to watch over, to guard, to preserve, to save"
 
    "serviet" "you will serve"
@@ -8964,6 +8974,10 @@
    
    "sōlemnem" "solemn"
    "sōlemnis, sōlemne, sōlemnior -or -us, sōlemnissimus -a -um" "solemn"
+
+   "solium" "throne"
+   "soliī"  "throne"
+   "solium, soliī" "throne"
    
    "sollemnitātum" "of solemnities"
    "sollemnitās, sollemnitātis" "solemnity"
@@ -9107,6 +9121,11 @@
    "statiōnem" "station, guard"
    "statiōnis" "station, guard"
    "statiō, statiōnis" "station, guard"
+
+   "stercus" "dung"
+   "stercore" "dung"
+   "stercoris" "dung"
+   "stercus, stercoris" "dung"
 
    "sterilī" "sterile"
    "sterilis" "sterile"
@@ -9328,7 +9347,8 @@
    "suscipit" "he undertakes"
    "suscipiēbant" "they were undertaking"
    "suscipiō, suscipere, suscēpī, susceptus" "to undertake"
-   
+
+   "suscitāns" "awakening, stirring up"
    "suscitāre" "to encourage, to awaken, to stir up"
    "suscitāvīt" "he stirred up, he awakened"
    "suscitō, suscitāre, suscitāvī, suscitātus" "to encourage, to awaken, to stir up"
@@ -9428,6 +9448,7 @@
    "tendite" "hold!"
    "tenuit" "he held, he had"
    "tenuērunt" "they held"
+   "teneat" "he holds"
    "teneant" "they (might) hold"
    "tenēbat" "he was holding"
    "tenēbant" "they were holding"
