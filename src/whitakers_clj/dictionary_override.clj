@@ -145,6 +145,7 @@
    "cicerōnem" "Cicerō (accusative case)"
    "cicerōnī" "Cicerō (dative case)"
    "ciula" "longship; singular feminine nominative variant spelling from ceola, ceolae"
+   "ciulās" "longships; plural feminine accusative variant spelling from ceola, ceolae"
    "ciulae" "longship; singular feminine genitive or plural nominative variant spelling from ceola, ceolae"
    "ciulīs" "longship; plural feminine dative or ablative variant spelling from ceola, ceolae"
    "circā" "around, about, concerning"
@@ -2617,6 +2618,7 @@
    "cōnfīnis, cōnfīnis, cōnfīne" "bordering"
 
    "cōnfīniō" "border"
+   "cōnfīnium" "border"
    "cōnfīnium, cōnfīniī" "border"
 
    "cōnfirmat" "he strengthens, he encourages"
@@ -2709,6 +2711,10 @@
    "cōnsīderāvit" "he considered"
    "cōnsīderō, cōnsīderāre, cōnsīderāvī, cōnsīderātus" "to consider, to examine"
    "consideravisset" "he (might) have had considered"
+
+   "cōnsiliātor" "counsellor, adviser"
+   "cōnsiliātōrem" "counsellor, adviser"
+   "cōnsiliātor, cōnsiliātōris" "counsellor, adviser"
 
    "cōnsilia"  "plans, advice, councils"
    "cōnsiliī"  "of plans, of advice, of councils"
@@ -2963,6 +2969,7 @@
    "cremāre" "to burn"
    "cremō, cremāre, cremāvī, cremātus" "to burn"
 
+   "crēvisset" "he had increased, came forth"
    "crēvērunt" "they increased, they came forth"
    "crēscō, crēscere, crēvī, crētus" "to increase, to come forth"
    
@@ -3081,6 +3088,7 @@
    "dāniēlem" "Daniel"
    "Dāniēl, Dāniēlis" "Daniel"
 
+   "dā" "give!"
    "darī" "to be given"
    "dans" "giving"
    "dant" "they give"
@@ -3353,6 +3361,7 @@
    "dictus" "having been said"
    "dīcēbantur" "they were said"
    "dicendum" "for saying"
+   "dictam" "having been said"
    "dīxisse" "to have said"
    "dīcō, dīcere, dīxī, dictus" "to say"
 
@@ -3426,6 +3435,9 @@
    "dīluviō" "flood, destruction"
    "dīluvium" "flood, destruction"
    "dīluvium, dīluviī" "flood, destruction"
+
+   "they fight" "dīmicent"
+   "dīmicō, dīmicāre, dīmicāvī, dīmicātus" "to fight"
    
    "dīmīsērunt" "they sent away, they dismissed"
    "dīmīsī" "he sent away, he dismissed"
@@ -4717,8 +4729,10 @@
    "habitātiō" "dwelling"
    "habitātiōne" "dwelling"
    "habitātiō, habitātiōnis" "dwelling"
+   "habitātōre" "dweller"
    "habitātōribus" "dwellers"
    "habitātor, habitātōris" "dweller"
+   
    "habuimus" "we had"
    "habuisset" "he (might) have had"
    "habuissēmus" "we (might) have had"
@@ -4811,6 +4825,7 @@
 
    "hodiernus, hodierna, hodiernum" "modern, of today"
 
+   "homine" "person"
    "hominem" "person"
    "hominēs" "persons"
    "hominis" "of a person"
@@ -5464,6 +5479,8 @@
    "invīsibil, (gen.), invīsibilis" "invisible"
 
    "invītēmus" "we invite"
+   "invītābō" "you will invite"
+   "invītāret" "he invited"
    "invītāvit" "he invited"
    "invītō, invītāre, invītāvī, invītātus" "to invite"
    
@@ -6554,6 +6571,7 @@
    "nāvigāvī" "I sailed"
    "nāvigō, nāvigāre, nāvigāvī, nāvigātus" "to sail, to navigate"
    "nāvigēmus" "let us sail"
+   "nāvigārent" "they sailed"
    "nāvigāvit" "he sailed"
    "nāvigāvērunt" "they sailed"
    "nāvigāvisse" "to have sailed"
@@ -8375,6 +8393,7 @@
 
    "relicta" "having been left behind"
    "relictīs" "leaving behind"
+   "relinquerent" "they left behind"
    "relinquō, relinquere, relīquī, relictum" "to leave behind"
 
    "reliqua" "remaining"
@@ -9610,6 +9629,7 @@
    "tībia, tībiae" "leg"
    
    "timēbant" "they were fearing"
+   "timēbis" "you will fear"
    "timētis" "you fear"
    "timuērunt" "they feared"
    "timuistis" "you feared"
