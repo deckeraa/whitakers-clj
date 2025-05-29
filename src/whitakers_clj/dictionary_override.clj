@@ -1260,6 +1260,11 @@
    "amantissimī" "most loving"
    "amāns, amantis (gen.), amantior -or -us, amantissimus -a -um" "loving"
 
+   "amāre" "to love"
+   "amāret" "he loved"
+   "amāvit" "he loved"
+   "amō, amāre, amāvī, amātus" "to love"
+
    "amārīs" "bitter, harsh"
    "amārus, amāra, amārum" "bitter, harsh"
 
@@ -1837,6 +1842,8 @@
    "bēstia, bēstiae" "beast"
    "bēstiās" "beasts"
    "bēstiīs" "beasts"
+
+   "bibentibus" "drinking"
    "bibere" "to drink"
    "bibō, bibere, bibī, pōtus" "to drink"
    "bibendum" "drinking"
@@ -2856,6 +2863,9 @@
    "conversātiō, conversātiōnis" "intimacy, acquaintance, way of life, monastic life"
    "conversus" "having been turned"
    "convertō, convertere, convertī, conversus" "to turn, to change"
+
+   "convīvium" "banquet, feast"
+   "convīvium, convīviī" "banquet, feast"
    
    "cooperīmentum" "covering"
    "cooperīmentum, cooperīmentī" "covering"
@@ -3625,6 +3635,7 @@
    "dormiēns" "sleeping"
    "dormīmus" "we sleep"
    "dormīvērunt" "they slept"
+   "dormīvit" "he slept"
    "dormīre" "to sleep"
    "dormiō, dormīre, dormīvī, dormītus" "to sleep"
    
@@ -5022,6 +5033,7 @@
    "impetus" "attack, assault, fury"
    "impetus, impetūs" "attack, assault, fury"
 
+   "impetrābis" "you will obtain"
    "impetrārent" "they obtained"
    "impetrāvērunt" "they obtained"
    "impetrāre" "to obtain"
@@ -5160,6 +5172,10 @@
 
    "industria" "diligence, purpose"
    "industria, industriae" "diligence, purpose"
+
+   "inēbriātī" "having been made drunk"
+   "inēbriāre" "to make drunk"
+   "inēbriō, inēbriāre, inēbriāvī, inēbriātus" "to make drunk"
    
    "ineffābilis" "ineffable"
    "ineffābilis, ineffābilis, ineffābile" "ineffable"
@@ -5286,6 +5302,9 @@
    "inquīsītiōnem" "inquiry"
    "inquīsītiōnis" "inquiry"
    "inquīsītiō, inquīsītiōnis" "inquiry"
+
+   "īnscius" "ignorant, unknown"
+   "īnscius, īnscia, īnscium" "ignorant, unknown"
    
    "īnsertā" "insert! introduce!"
    "īnsertō, īnsertāre, īnsertāvī, īnsertātus" "to insert, to introduce"
@@ -5378,6 +5397,11 @@
    "interposita" "having been interposed"
    "interpōnere" "to interpose"
    "interpōnō, interpōnere, interposuī, interpositus" "to interpose"
+
+   "interpres" "translator, broker"
+   "interpretem" "translator, broker"
+   "interpretī" "translator, broker"
+   "interpres, interpretis" "translator, broker"
 
    "interpretātus" "having interpreted"
    "interpretor, interpretārī, interpretātus" "to interpret"
@@ -7052,6 +7076,11 @@
 
    "pācātī" "having been pacified, subdued"
    "pācō, pācāre, pācāvī, pācātus" "to pacify, subdue"
+
+   "pāgānī"  "peasant, villager, rustic"
+   "pāgānīs" "peasant, villager, rustic"
+   "pāgānus" "peasant, villager, rustic"
+   "pāgānus, pāgānī" "peasant, villager, rustic"
    
    "pānibus" "bread"
    "pānis" "bread"
@@ -7454,6 +7483,7 @@
    "petēbant" "they were asking for"
    "petīvīt" "he asked for"
    "petenda" "asking for"
+   "peterent" "they asked for"
    "petīvērunt" "they asked for"
    "petīvissent" "they (might) have had asked"
    "petō, petere, petīvī, petītus" "to ask for"
@@ -7654,10 +7684,14 @@
    "potestās" "power"
    "potestātem" "power"
    "potestās, potestātis" "power"
+   
    "postulābat" "he was asking for"
    "postulāns" "asking"
    "postulārent" "they demanded"
+   "postulās" "you ask for, demand"
+   "postulāvit" "he asked for, demanded"
    "postulō, postulāre, postulāvī, postulātus" "to ask for"
+   
    "poterat" "he was able to"
    "poterant" "they were able to"
    "poterit" "he will be able to"
@@ -8024,6 +8058,7 @@
    "pūblicus, pūblica, pūblicum" "public"
 
    "puella" "girl"
+   "puellam" "girl"
    "puella, puellae" "girl"
    
    "puer" "boy"
@@ -8728,6 +8763,9 @@
    "satisfēcerit" "he will have satisfied"
    "satisfacere" "to satisfy"
    "satisfaciō, satisfacere, satisfēcī, satisfactus" "to satisfy"
+
+   "saturātī" "having been sated, saturated"
+   "saturō, saturāre, saturāvī, saturātus" "to sate, saturate"
    
    "saxōsa" "rocky"
    "saxōsam" "rocky"
@@ -8847,8 +8885,10 @@
    "senem" "old man"
    "senex" "old person, elder"
    "senex, senis" "old person, elder"
+   
    "seniōrum" "older"
    "seniōrem" "older"
+   "seniōribus" "older, elders"
    "senex, senis (gen.), senior -or -us, -" "old"
 
    "sēnsibus" "perception, sense"
@@ -8952,6 +8992,10 @@
    
    "siccōs" "dry, thirsty"
    "siccus, sicca, siccum" "dry, thirsty"
+
+   "sicera"  "a type of alcoholic beverage"
+   "siceram" "a type of alcoholic beverage"
+   "sicera, sicerae" "a type of alcoholic beverage"
 
    "signa" "signs"
    "signīs" "signs"
@@ -9605,6 +9649,8 @@
    
    "tractāre" "to haul, to drag, to handle, to discuss"
    "tractō, tractāre, tractāvī, tractātum" "to haul, to drag, to handle, to discuss"
+
+   "trādēbātur" "he was handed over"
    "trādita" "having been handed over"
    "trādiderat" "he had handed over"
    "trādidit" "he handed over"
@@ -10171,6 +10217,9 @@
    "vindicandum" "vindicating"
    "vindicāvit" "he vindicated, avenged"
    "vindicō, vindicāre, vindicāvī, vindicātus" "to vindicate, avenge"
+
+   "vīnum" "wine"
+   "vīnum, vīnī" "wine"
    
    "violet" "he (might) violate"
    "violō, violāre, violāvī, violātus" "to violate"
