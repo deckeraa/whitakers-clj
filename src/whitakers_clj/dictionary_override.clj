@@ -694,6 +694,7 @@
    "sēcūtī" "sēcūtī + sunt = they followed"
    "secūtus" "secūtus + est = he followed"
    "sed" "but"
+   "sēdecim" "16"
    "semetipsum" "he himself"
    "semper" "always"
    "septem" "seven"
@@ -1298,6 +1299,8 @@
    
    "amplificatur" "being enlarged"
    "amplificō, amplificāre, amplificāvī, amplificātus" "to enlarge, to amplify"
+
+   "amplior" "ampler, larger"
    "amplius" "ampler, larger"
    "amplus, ampla -um, amplior -or -us, amplissimus -a -um" "ampler, larger"
 
@@ -1621,6 +1624,10 @@
    
    "assūmptiōne" "assumption, taking, receiving"
    "assūmptiō, assūmptiōnis" "assumption, taking, receiving"
+
+   "astūtus" "astute, sly"
+   "astūtus, astūta -um, astūtior -or -us, astūtissimus -a -um" "astute, sly"
+   
    "ablātīs" "things having been carried away"
 
    "attingēbat" "they were touching"
@@ -1968,6 +1975,9 @@
    "cālīginis" "fog, mist"
    "cālīgō" "fog, mist"
    "cālīgō, cālīginis" "fog, mist"
+
+   "callidus" "clever, crafty"
+   "callidus, callida -um, callidior -or -us, callidissimus -a -um" "clever, crafty"
    
    "calōrem" "warmth, heat"
    "calor, calōris" "warmth, heat"
@@ -2180,6 +2190,10 @@
    
    "certāmine" "contest, struggle"
    "certāmen, certāminis" "contest, struggle"
+
+   "certandum" "fighting"
+   "certāre" "to fight"
+   "certō, certāre, certāvī, certātus" "to fight"
 
    "certe" "certain"
    "certior" "more certain"
@@ -3551,6 +3565,8 @@
    "doctrīnae" "doctrine, teaching, instruction"
    "doctrīna, doctrīnae" "doctrine, teaching, instruction"
 
+   "doctus" "learned, knowledgeable"
+
    "dogma" "doctrine, dogma"
    "dogmate" "doctrine, dogma"
    "dogmatis" "doctrine, dogma"
@@ -3735,7 +3751,8 @@
    "ēlevāns" "lifting up"
    "ēlevantēs" "lifting up"
    "ēlevō, ēlevāre, ēlevāvī, ēlevātus" "to elevate, to alleviate"
-   
+
+   "ēlēctī" "having been chosen"
    "ēligit" "he chooses"
    "ēlēctīs" "having been chosen"
    "ēlēgit" "he chose"
@@ -3965,6 +3982,7 @@
    "experīmentum, experīmentī" "test, experiment, experience"
 
    "explōrāret" "he was exploring, investigating"
+   "explōrāvisset" "he had explored"
    "explōrō, explōrāre, explōrāvī, explōrātus" "to explore, to investigate"
    
    "exposuimus" "we explained"
@@ -4057,6 +4075,7 @@
    "faciendī" "of making, doing"
    "facere" "to make, to do"
    "faceret" "he did"
+   "facerent" "they did"
    "faciāmus" "we (might) do, make"
    "faciunt" "they are making, they are doing"
    "faciō, facere, fēcī, factus" "to do, to make"
@@ -4530,6 +4549,7 @@
    "genāva, genēvae" "Geneva, a city in Gaul"
 
    "gēns" "people, clan, nation"
+   "gente" "people, clan, nation"
    "gentem" "people, clan, nation"
    "gentēs" "peoples, clans, nations"
    "gentibus" "peoples, clans, nations"
@@ -5148,6 +5168,9 @@
    "ineptīs" "inept, senseless"
    "ineptus, inepta, ineptum" "inept, senseless"
 
+   "inertem" "weak, unskillful"
+   "iners, inertis (gen.), inertior -or -us, inertissimus -a -um" "weak, unskillful"
+
    "īnfāns" "infant"
    "īnfantem" "infant"
    "īnfantum" "infant"
@@ -5416,6 +5439,7 @@
    "invīsibilis" "invisible"
    "invīsibil, (gen.), invīsibilis" "invisible"
 
+   "invītēmus" "we invite"
    "invītāvit" "he invited"
    "invītō, invītāre, invītāvī, invītātus" "to invite"
    
@@ -6250,6 +6274,7 @@
 
    "missīs" "having been sent"
    "mittēbantur" "they were sending"
+   "mittēmus" "we will send"
    "mittitur" "he is being sent"
    "mittō" "I send"
    "mittunt" "they send"
@@ -7157,6 +7182,7 @@
    "paucitās, paucitātis" "scarcity"
 
    "pauca" "few, little"
+   "paucī" "few, little"
    "paucīs" "few, little"
    "paucōs" "few, little"
    "paucus, pauca, paucum" "few, little"
@@ -7996,6 +8022,9 @@
 
    "pūblicae" "public"
    "pūblicus, pūblica, pūblicum" "public"
+
+   "puella" "girl"
+   "puella, puellae" "girl"
    
    "puer" "boy"
    "puerī" "boy"
@@ -8020,6 +8049,9 @@
    "pugnārent" "they (might) have been fighting"
    "pugnātum" "having been fought"
    "pugnō, pugnāre, pugnāvī, pugnātus" "to fight"
+
+   "pulchra" "beautiful"
+   "pulcher, pulchra -um, pulchrior -or -us, pulcherrimus -a -um" "beautiful"
 
    "pūlex" "flea"
    "pūlex, pūlicis" "flea"
@@ -9599,7 +9631,8 @@
    "trānsactīs" "having been accomplished"
    "trānsigō, trānsigere, trānsēgī, trānsactum" "to stab, to pierce, to accomplish"
 
-   "trānsfretāret" "he passed overed, ferried"
+   "trānsfretāret" "he passed over, ferried"
+   "trānsfretāvērunt" "they passed over, ferried"
    "trānsfretāvit" "he passed over the sea, ferried"
    "trānsfretō, trānsfretāre, trānsfretāvī, trānsfretātus" "to pass over the sea, to ferry"
    
@@ -9888,6 +9921,9 @@
 
    "valida" "strong, healthy"
    "validus, valida, validum" "strong, healthy"
+
+   "vallem" "valley"
+   "vallis, vallis" "valley"
 
    "vallum" "wall, rampart"
    "vallum, vallī" "wall, rampart"
