@@ -813,6 +813,7 @@
    "ūsque" "until, all the way, up until"
    "ūsum" "have been being used, singular neuter nominative perfect participle from ūtor, ūtī, ūsum (dep.)"
    "ut" "so that"
+   "utrum" "whether"
    "vae" "woe"
    "valdē" "very"
    "vel" "or"
@@ -2022,6 +2023,9 @@
    
    "campānae" "bells"
    "campāna, campānae" "bell"
+
+   "campum" "field"
+   "campus, campī" "field"
    
    "candēla" "candle"
    "candēlās" "candles"
@@ -2425,6 +2429,7 @@
    "cōgnōvisset" "he (might) have had recognized, learned"
    "cōgnōvissent" "they (might) have had recognized, learned"
    "cōgnōvit" "he learned"
+   "cōgnōvī" "I learned"
    "cōgnōscere" "to recognize, to learn, to inquire, to know"
    "cōgnōscō, cōgnōscere, cōgnōvī, cōgnitum" "to recognize, to learn, to inquire, to know"
 
@@ -2600,6 +2605,7 @@
    "concēdō, concēdere, concessī, concessus" "to concede, to allow"
    
    "concēpit" "she conceived"
+   "conceptus" "having been conceived"
    "concipiō, concipere, concēpī, conceptus" "to conceive"
 
    "conclāmāvērunt" "they cried out"
@@ -3071,6 +3077,8 @@
    "cumulus, cumulī" "heap, pile"
 
    "cunctantibus" "hesitating, delaying"
+   "cunctābantur" "they were delayed"
+   "cunctantēs" "hesitating, delaying"
    "cunctāre" "to hesitate, to delay"
    "cunctō, cunctāre, cunctāvī, cunctātus" "to hesitate, to delay"
 
@@ -3763,6 +3771,7 @@
    "dux, ducis" "leader"
    
    "dūxērunt" "they were leading"
+   "dūxēre" "they were leading"
    "dūximus" "we lead"
    "dūxit" "he lead"
    
@@ -5552,6 +5561,7 @@
    "inveniēs" "you will find"
    "invenīmus" "we find, we found"
    "invenīre" "to find"
+   "invenīrent" "they found"
    "invenit" "he finds, he found"
    "inveniātis" "you might find"
    "inventus" "having had found"
@@ -5677,6 +5687,9 @@
    
    "iūrandum" "oath"
    "iūrandum, iūrandī" "oath"
+
+   "iūrāvit" "he swore"
+   "iūrō, iūrāre, iūrāvī, iūrātus" "to swear"
 
    "iūreiūrandō" "oath"
    "iūsiūrandum, iūrisiūrandī" "oath"
@@ -5940,8 +5953,12 @@
    "linteāmen, linteāminis" "linen cloth"
    "liquefacta" "being melted"
    "liquefaciō, liquefacere, liquefēcī, liquefactus" "to melt, to liquify"
+   
    "limite" "limit"
    "līmes, līmitis" "limit"
+
+   "lītigābant" "they quarrelled"
+   "lītigō, lītigāre, lītigāvī, lītigātus" "to quarrel"
 
    "litterae" "letters, literature"
    "litterīs" "literature"
@@ -6031,6 +6048,7 @@
    "lupus, lupī" "wolf"
 
    "lūstrante" "illuminating, purifying"
+   "lūstrandō" "illuminating, purifying, traversing"
    "lūstrō, lūstrāre, lūstrāvī, lūstrātus" "to illuminate, to purify"
    
    "luter" "otter"
@@ -6048,6 +6066,7 @@
    "magus" "magician"
    "magī" "magician"
    "magum" "magician"
+   "magōrum" "of magicians"
    "magōs" "magicians"
    "magus, magī" "magician"
 
@@ -6697,6 +6716,7 @@
    "necessitātem" "necessity"
    "necessitās, necessitātis" "necessity"
 
+   "negāvit" "he denied, refused"
    "negāre" "to deny, to refuse"
    "negō, negāre, negāvī, negātus" "to deny, to refuse"
 
@@ -6728,6 +6748,7 @@
    "nequeō, nequīre, nequivī(iī), nequitus" "to be unable"
 
    "nescīmus" "we do not know"
+   "nesciō" "I don't know"
    "nescīvit" "he didn't know"
    "nesciērunt" "they didn't know"
    "nesciō, nescīre, nescīvī, nescītus" "to not know"
@@ -8192,6 +8213,7 @@
    "puer" "boy"
    "puerī" "boy"
    "puerō" "boy"
+   "puerōs" "boys"
    "puer, puerī" "boy"
    "puerōrum" "of boys"
 
@@ -10023,6 +10045,7 @@
    "universalis, universalis, universale" "universal"
 
    "ūniversa" "whole, entire"
+   "ūniversam" "whole, entire"
    "ūniversās" "whole, entire"
    "ūniversī"  "whole, entire"
    "ūniversīs"  "whole, entire"
@@ -10154,6 +10177,7 @@
    
    "vēnerat" "he had come"
    "vēnērunt" "they came"
+   "vēnēre" "they came"
    "veniēbat" "he was coming"
    "veniēbant" "they were coming"
    "venient" "they will come"
