@@ -770,6 +770,7 @@
    "tālī" "such"
    "tam" "as much, as much as"
    "tamen" "however"
+   "tandem" "finally"
    "temere" "without design, thoughtlessly"
    "tantae" "of such"
    "tē" "to you, accusative from tu"
@@ -955,6 +956,10 @@
    "addūcere" "to lead, to persuade"
    "addūcō, addūcere, addūxī, adductus" "to lead, to persuade"
 
+   "adeptus" "having been gained, overtaking"
+   "adipīscī" "to gain, to obtain, to overtake"
+   "adipīscor, adipīscī, adeptum" "to gain, to obtain, to overtake"
+
    "adlātō" "having been brought to"
    "adferō, adferre, adtulī, adlātus" "to bring to"
 
@@ -1048,7 +1053,8 @@
 
    "adversa" "opposite, hostile"
    "adversus, adversa, adversum" "opposite, hostile"
-   
+
+   "aedificābitur" "it will be built"
    "aedificāta" "having been built"
    "aedificō, aedificāre, aedificāvī, aedificātus" "to build"
 
@@ -1094,6 +1100,7 @@
    "aetās, aetātis" "lifetime, age"
    
    "aeternam" "eternal"
+   "aeternum" "eternal"
    "aeternus, aeterna -um, aeternior -or -us, aeternissimus -a -um" "eternal"
    
    "aethera" "sky, heaven, aether"
@@ -1268,6 +1275,7 @@
    "amāre" "to love"
    "amāret" "he loved"
    "amāvit" "he loved"
+   "amāverās" "you had loved"
    "amō, amāre, amāvī, amātus" "to love"
 
    "amārīs" "bitter, harsh"
@@ -1467,7 +1475,9 @@
    "appropinquāvit" "he approached"
    
    "aptissimum" "very ready, very apt"
+   "aptum" "ready, apt"
    "aptus, apta -um, aptior -or -us, aptissimus -a -um" "ready, apt"
+   
    "aqua, aquae" "water"
    "aqua" "water"
    "aquae" "water"
@@ -1516,6 +1526,7 @@
    "arca" "chest, coffer, coffin, cell"
    "arca, arcae" "chest, coffer, coffin, cell"
 
+   "arcessīvit" "he summoned"
    "arcessītam" "having been summoned, fetched"
    "arcessere" "to summon, to fetch"
    "arcessō, arcessere, arcessīvī, arcessītus" "to summon, to fetch"
@@ -1578,6 +1589,9 @@
    "artis" "of art"
    "ars, artis" "art, skill"
 
+   "artificēs" "artist, actor"
+   "artifex, artificis" "artist, actor"
+
    "artus" "joint, limb"
    "artus, artūs" "joint, limb"
    
@@ -1614,6 +1628,9 @@
    "asinus" "ass"
    "asinus, asinī" "ass"
 
+   "aspergātur" "it is sprinkled, inflicted"
+   "aspergō, aspergere, aspersī, aspersus" "to sprinkle, to inflict"
+
    "aspēxērunt" "they looked at"
    "aspēxissent" "they (might) have had looked at"
    "aspiciēbat" "he was looking at"
@@ -1637,7 +1654,8 @@
 
    "astūtus" "astute, sly"
    "astūtus, astūta -um, astūtior -or -us, astūtissimus -a -um" "astute, sly"
-   
+
+   "ablāta" "things having been carried away"
    "ablātīs" "things having been carried away"
 
    "attingēbat" "they were touching"
@@ -2281,6 +2299,7 @@
    "circuitus, circuitūs" "circuit, outer shore"
 
    "circumdederant" "they had surrounded"
+   "circumdedērunt" "they surrounded"
    "circumdabātur" "he was being surrounded"
    "circumdatis" "you surround"
    "circumdō, circumdare, circumdedī, circumdatus" "to surround, to place around"
@@ -2526,6 +2545,9 @@
    "comparātis" "you prepare, compare"
    "comparō, comparāre, comparāvī, comparātus" "to compare"
 
+   "compāruit" "it appeared, came in sight"
+   "compāreō, compārēre, compāruī, compāritus" "to appear, come in sight"
+
    "compertum" "having been discovered"
    "comperior, comperīrī, compertum" "to discover, to find guilty"
 
@@ -2597,7 +2619,7 @@
    "concitāvit" "he agitated"
    "concitāvērunt" "they had agitated"
    "concitō, concitāre, concitāvī, concitātus" "to agitate"
-   
+
    "condemnō, condemnāre, condemnāvī, condemnātus" "to condemn"
    "condemnābitur" "he will be condemned"
    "condēnsīs" "dense, thick, packed together"
@@ -2609,6 +2631,7 @@
    "conditum" "building, founding"
 
    "condidit" "he founded, he built"
+   "condere" "to build, to found"
    "condō, condere, condidī, conditus" "to build, to found"
 
    "conductam" "having been assembled"
@@ -2675,6 +2698,8 @@
 
    "congregāvit" "he gathered"
    "congregāre" "to congregate, gather"
+   "congregārī" "to be gathered"
+   "congregāta" "having been gathered"
    "congregō, congregāre, congregāvī, congregātus" "to congregate, gather"
    
    "congregātiōne" "congregation"
@@ -3049,6 +3074,9 @@
    "cunctāre" "to hesitate, to delay"
    "cunctō, cunctāre, cunctāvī, cunctātus" "to hesitate, to delay"
 
+   "cūnctātus" "hesitant, tardy"
+   "cūnctāta -um, cūnctātior -or -us, cūnctātissimus -a -um" "hesitant, tardy"
+
    "cupidī" "eager, passionate"
    "cupidus, cupida, cupidum" "easger, passionate"
 
@@ -3209,6 +3237,7 @@
    "dēsum, dēesse, dēfuī, dēfutūrus" "to lack"
    
    "dēfendēbat" "he was defending"
+   "dēfendēs" "you will defend"
    "defendet" "he will defend"
    "dēfendere" "to defend"
    "dēfendistī" "you defended"
@@ -3394,6 +3423,7 @@
    "dictus" "having been said"
    "dīcēbantur" "they were said"
    "dicendum" "for saying"
+   "dīxēre" "they said"
    "dictam" "having been said"
    "dīxisse" "to have said"
    "dīcō, dīcere, dīxī, dictus" "to say"
@@ -3631,6 +3661,10 @@
    "dolōre" "pain, sorrow"
    "dolōrī" "to pain, sorrow"
    "dolor, dolōris" "pain, sorrow"
+
+   "dolum" "trickery, deception"
+   "dolus" "trickery, deception"
+   "dolus, dolī" "trickery, deception"
    
    "domestica" "domestic"
    "domesticus, domestica, domesticum" "domestic"
@@ -4152,6 +4186,7 @@
    "faciundī" "to be made"
    "fēcisset" "he (might) have had made"
    "faciendae" "doing, making"
+   "fac" "do! make!"
 
    "facile" "easy"
    "facilius" "easier"
@@ -5474,6 +5509,7 @@
    "interrogāvī" "I asked"
    "interrogāvit" "he asked"
    "interrogāre" "to ask"
+   "interrogāret" "he asked"
    "interrogō, interrogāre, interrogāvī, interrogātus" "to ask"
    "interveniente" "come between, intervene"
 
@@ -5511,6 +5547,7 @@
    "invēnī" "I found"
    "invenietis" "finding"
    "inveniēns" "finding"
+   "invenientibus" "finding"
    "invenientis" "finding"
    "inveniēs" "you will find"
    "invenīmus" "we find, we found"
@@ -5519,6 +5556,9 @@
    "inveniātis" "you might find"
    "inventus" "having had found"
    "inveniō, invenīre, invēnī, inventum" "to find"
+
+   "invidet" "he envies, is jealous"
+   "invideō, invidēre, invīdī, invīsus" "to envy, be jealous"
 
    "invīsibilis" "invisible"
    "invīsibil, (gen.), invīsibilis" "invisible"
@@ -5882,7 +5922,8 @@
    "lignātor" "woodcutter"
    "lignātōribus" "woodcutter"
    "lignātor, lignātōris" "woodcutter"
-   
+
+   "ligna" "wood"
    "lignīs" "wood"
    "lignum, lignī" "wood"
 
@@ -5988,6 +6029,9 @@
 
    "lupum" "wolf"
    "lupus, lupī" "wolf"
+
+   "lūstrante" "illuminating, purifying"
+   "lūstrō, lūstrāre, lūstrāvī, lūstrātus" "to illuminate, to purify"
    
    "luter" "otter"
    "luter, lutrī" "otter"
@@ -6004,6 +6048,7 @@
    "magus" "magician"
    "magī" "magician"
    "magum" "magician"
+   "magōs" "magicians"
    "magus, magī" "magician"
 
    "magister" "teacher"
@@ -6065,6 +6110,9 @@
 
    "maleficiō" "crime, misdeed"
    "maleficium, maleficiī" "crime, misdeed"
+
+   "malitiae" "malice"
+   "malitia, malitiae" "malice"
    
    "malleōrum" "of hammers"
    "malleus, malleī" "hammer"
@@ -6422,6 +6470,7 @@
    "montem" "mountain"
    "montēs" "mountains"
    "montibus" "mountains"
+   "montium" "of mountains"
    "montīs" "mountains"
 
    "mōnstrum" "monster"
@@ -6528,6 +6577,7 @@
    "mundus, mundī" "world"
 
    "mūnīta" "fortified"
+   "mūnītam" "fortified"
    "mūnītum" "fortified"
    "mūnītus, mūnīta, mūnītum" "fortified"
    
@@ -6925,6 +6975,7 @@
    "occupātōs" "having been seized"
    "occupāvērunt" "they seized, overtook, attacked"
    "occupāvit" "he seized, attacked"
+   "occupābit" "he will seize, overtake, attack"
    "occupō, occupāre, occupāvī, occupātum" "to seize, to overtake, to attack"
 
    "occurrerat" "he had run"
@@ -8806,7 +8857,8 @@
    "sanctitātis" "sanctity"
    "sanctitāte" "sanctity"
    "sānctitās, sanctitātis" "sanctity"
-   
+
+   "sanguine" "blood"
    "sanguinem" "blood"
    "sanguis, sanguinis" "blood"
 
@@ -9524,6 +9576,7 @@
    "susceptī" "having been undertaken"
    "suscipit" "he undertakes"
    "suscipiēbant" "they were undertaking"
+   "suscēpistī" "you undertook"
    "suscipiō, suscipere, suscēpī, susceptus" "to undertake"
 
    "suscitāns" "awakening, stirring up"
@@ -9862,6 +9915,7 @@
    "tuae" "your"
    "tuam" "your"
    "tuās" "yours"
+   "tuī" "your"
    "tuīs" "yours"
    "tuō" "your"
    "tuōs" "your"
@@ -9904,6 +9958,7 @@
    "tūtum, tūtī" "safety"
 
    "tūtiōrēs" "safer"
+   "tūtissima" "very safe"
    "tūtus, tūta -um, tūtior -or -us, tūtissimus -a -um" "safe"
    
    "tuum" "your"
@@ -9967,6 +10022,7 @@
    "ūniversālem" "universal"
    "universalis, universalis, universale" "universal"
 
+   "ūniversa" "whole, entire"
    "ūniversās" "whole, entire"
    "ūniversī"  "whole, entire"
    "ūniversīs"  "whole, entire"
