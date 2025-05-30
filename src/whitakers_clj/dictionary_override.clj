@@ -439,6 +439,7 @@
    "locūtus" "locūtus est = he spoke"
    "magis" "rather, more"
    "magnopere" "much, very, urgently"
+   "mala" "evil, bad"
    "malam" "evil, bad"
    "malī" "evil, bad"
    "malīs" "evil, bad"
@@ -968,6 +969,9 @@
 
    "adgregābat" "he was bringing together"
    "adgregō, adgregāre, adgregāvī, adgregātus" "to bring together"
+
+   "adiciēns" "adding, raising"
+   "adiciō, adicere, adiēcī, adiectus" "to add, to raise"
 
    "adimplēbō" "I will fulfill"
    "adimplēre" "to fill up, to fulfill"
@@ -1733,6 +1737,10 @@
    "avium" "of birds"
    "avibus" "birds"
 
+   "avum" "forefather, godfather"
+   "avus" "forefather, godfather"
+   "avus, avī" "forefather, godfather"
+
    "babylōniae" "Babylon"
    "Babylōnia, Babylōniae" "Babylon"
 
@@ -1913,6 +1921,7 @@
 
    "brittō" "Briton, an inhabitant of Britain"
    "brittōnēs" "Britons, inhabitants of Britain"
+   "brittonum" "of the Britons, inhabitants of Britain"
    "Brittō, Brittōnēs" "Briton, an inhabitant of Britain"
 
    "brūtus" "Brutus"
@@ -2073,6 +2082,9 @@
    "cāritātem" "charity"
    "carmen" "song, poem, prayer"
    "carmen, carminis" "song, poem, prayer"
+
+   "carnālem" "fleshly"
+   "carnālis, carnālis, carnāle" "fleshly"
    
    "carō" "meat, flesh"
    "carne" "meat, flesh"
@@ -2333,6 +2345,12 @@
 
    "clēricālis" "clericaly, priestly"
    "clēricālis, clēricālis, clēricāle" "clericaly, priestly"
+
+   "clēricōrum" "clerics"
+   "clēricus, clēricī" "cleric"
+
+   "clērō" "clergy"
+   "clērus, clērī" "clergy"
    
    "clībanō" "earthenware, iron vessels"
    "clībanus, clībanī" "earthenware, iron vessels"
@@ -2467,6 +2485,9 @@
    "coemere" "to buy"
    "coemō, coemere, coēmī, coēmptus" "to buy"
 
+   "comam" "hair"
+   "coma, comae" "hair"
+
    "commeant" "they communicate, they come and go"
    "commeō, commeāre, commeāvī, commeātus" "to communicate, to come and go"
 
@@ -2504,6 +2525,9 @@
    "comparāre" "I prepare, compare"
    "comparātis" "you prepare, compare"
    "comparō, comparāre, comparāvī, comparātus" "to compare"
+
+   "compertum" "having been discovered"
+   "comperior, comperīrī, compertum" "to discover, to find guilty"
 
    "complēbat" "he will fill up"
    "complentur" "it is completed, it is filled up"
@@ -2859,6 +2883,8 @@
    "convenīre" "to meet, to come together"
    "convenīrent" "they (might) have met together"
    "convēnissent" "they had come together"
+   "conventa" "having come together"
+   "conventum" "having come together"
    "conventūra" "to come together (in the future)"
    "convēnēre" "they came"
    "conveniō, convenīre, convēnī, conventus" "to meet, to come together"
@@ -2921,6 +2947,10 @@
    "cornua" "horn"
    "cornibus" "horns"
    "cornu, cornūs" "horn"
+
+   "corripere" "to grasp, shorten, hasten"
+   "corripiō, corripere, corripuī, correptus" "to grasp, shorten, hasten"
+   
    "cortice" "bark of a tree"
    "cortex, corticis" "bark of a tree"
 
@@ -3078,6 +3108,7 @@
 
    "damnantur" "they are condemned"
    "damnatur" "he is condemned"
+   "damnātus" "having been condemned"
    "damnō, damnāre, damnāvī, damnātus" "to condemn"
 
    "damnāta" "condemned"
@@ -3096,6 +3127,8 @@
    "datūrum" "will be giving"
    "datūrōs" "to be given"
    "data" "things given"
+   "dētur" "is given"
+   
    "datō" "gift"
    "datum, datī" "gift"
 
@@ -3715,6 +3748,9 @@
    "ēditē" "eat!"
    "edō, edere, ēdī, ēsus" "to eat"
 
+   "ēdocta" "having been taught thoroughly"
+   "ēdoceō, ēdocēre, ēdocuī, ēdoctus" "to teach thoroughly"
+
    "ēductōs" "having been lead out"
    "ēdūcere" "to lead out"
    "ēdūcō, ēdūcere, ēdūxī, ēductum" "to lead out"
@@ -3953,6 +3989,7 @@
    "exīvistīs" "you came out"
    "exīre" "to come out"
    "exīvit" "he came out"
+   "exīret" "he went out"
    "exīrent" "they (might) go out"
    "exeō, exīre, exivī(iī), exitus" "to come out, to go out"
    "exivērunt" "they came out, they went out"
@@ -4369,10 +4406,13 @@
    
    "focum" "hearth, fireplace, altar"
    "focus, focī" "hearth, fireplace, altar"
+   
    "folia" "leaves"
    "folium, foliī" "leaf"
+   
    "follium" "of bellows"
    "follis, follis" "bellows"
+   
    "fōns" "fountain"
    "fontibus" "fountains"
    "fontis" "fountain"
@@ -4381,11 +4421,15 @@
    "fontem" "fountain"
    "fontēs" "fountains"
    "fontium" "of fountains"
+   
    "forāmen" "opening, hole"
    "forāmina" "openings, holes"
    "forāmen, forāminis" "opening, hole"
+
+   "forcipe" "tongs, forceps"
    "forcipem" "tongs, forceps"
    "forceps, forcipis" "tongs, forceps"
+   
    "formidāre" "to dread"
    "formidō, formidāre, formidāvī, formidātus" "to dread"
    "fōrmula" "shape, formula"
@@ -4487,6 +4531,7 @@
    "fuga, fugae" "flight, escape"
 
    "fugere" "to flee"
+   "fugeret" "he fled"
    "fūgērunt" "they fled"
    "fugiāmus" "we might have fled"
    "fugiendō" "fleeing"
@@ -5513,6 +5558,7 @@
    "eundī" "of going"
 
    "īrāta" "angry"
+   "īrātus" "angry"
    "īrātus, īrāta, īrātum" "angry"
 
    "irratiōnālia" "irrational"
@@ -5829,7 +5875,7 @@
    "licentiam" "license"
 
    "liceat" "it (might) be permitted"
-   
+
    "ligātūram" "ligature, binding"
    "ligātūra, ligātūrae" "ligature, binding"
 
@@ -6695,6 +6741,9 @@
    "nōtus" "known"
    "nōtus, nōta -um, nōtior -or -us, nōtissimus -a -um" "known"
 
+   "novācula" "sharp knife, dagger"
+   "novācula, novāculae" "sharp knife, dagger"
+
    "novem" "nine"
 
    "novī" "new, inexperienced"
@@ -6780,6 +6829,9 @@
    "obaerātōs" "debtors"
    "obaerātus" "debtor"
    "obaerātus, obaerātī" "debtor"
+
+   "obaudīvit" "he obeyed, listened to"
+   "obaudiō, obaudīre, obaudiī, obaudītus" "to obey, to listen to"
    
    "obdormīvissent" "they (might) have had fallen asleep"
    "obdormiō, obdormīre, obdormīvī, obdormītus" "to fall asleep"
@@ -7269,6 +7321,9 @@
    "peccāvērunt" "they sinned"
    "peccō, peccāre, peccāvī, peccātus" "to sin"
 
+   "pectine" "comb"
+   "pecten, pectinis" "comb"
+
    "pectore" "chest"
    "pectus, pectoris" "chest"
    
@@ -7413,6 +7468,7 @@
    "permansūrus" "will be remaining"
    "permansērunt" "they remained"
 
+   "permittam" "I will permit"
    "permitte" "permit! allow!"
    "permittō, permittere, permīsī, permissus" "to permit, to allow"
 
@@ -7785,6 +7841,9 @@
    "praemissō" "having been sent ahead"
    "praemissum" "having been sent ahead"
    "praemittō, praemittere, praemīsī, praemissus" "to send ahead"
+
+   "praemonuit" "he forewarned"
+   "praemoneō, praemonēre, praemonuī, praemonitus" "to forewarn"
    
    "praeparantur" "being prepared"
    "praeparāvīt" "he prepared"
@@ -8081,6 +8140,7 @@
    
    "puer" "boy"
    "puerī" "boy"
+   "puerō" "boy"
    "puer, puerī" "boy"
    "puerōrum" "of boys"
 
@@ -8505,6 +8565,7 @@
    "respondēbant" "they were responding"
    "respondērunt" "they responded"
    "respondit" "he responded"
+   "respondēre" "to respond"
    "respondeō, respondēre, respondī, respōnsus" "to respond"
    
    "respōnsum" "response"
@@ -9030,6 +9091,9 @@
    "silice" "flint"
    "silicis" "flint"
    "silex, silicis" "flint"
+
+   "siluit" "he was silent"
+   "sileō, silēre, siluī, -" "to be silent"
    
    "silva" "forest"
    "silvam" "forest"
@@ -9502,6 +9566,7 @@
    "tacendī" "of being silent"
    "tacendum" "being silent"
    "tacēre" "to be silent"
+   "tacuit" "he was silent"
    "taceō, tacēre, tacuī, tacitus" "to be silent"
    
    "taediō" "weariness, tedium"
@@ -9648,6 +9713,9 @@
    "sublāta" "having been lifted up"
    "sustulerant" "they had lifted up"
    "tollō, tollere, sustulī, sublātus" "to raise up"
+
+   "tondē" "cut! shear!"
+   "tondeō, tondēre, totondī, tōnsus" "to cut, to shear"
    
    "tormenta" "torments"
    "tormentī" "torment"
