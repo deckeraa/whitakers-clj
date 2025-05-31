@@ -8693,7 +8693,9 @@
 
    "revēlā" "reveal!"
    "revēlāvīt" "he revealed"
+   "revēlārī" "to be revealed"
    "revēlō, revēlāre, revēlāvī, revēlātus" "to show, to reveal"
+   "revēlābō" "I will reveal"
    "revēlāre" "to reveal"
    "revēlātiō" "revelation"
    "revēlātiōnem" "revelation"
@@ -8827,6 +8829,9 @@
    "ruīna" "collapse, ruin, destruction"
    "ruīna, ruīnae" "collapse, ruin, destruction"
 
+   "ruit" "it falls, it fell"
+   "ruō, ruere, ruī, rūtus" "to fall down"
+
    "rūra" "farms"
    "rūs, rūris" "country"
    
@@ -8911,6 +8916,7 @@
 
    "sanguine" "blood"
    "sanguinem" "blood"
+   "sanguis" "blood"
    "sanguis, sanguinis" "blood"
 
    "sānus" "healthy, sound"
@@ -8928,6 +8934,9 @@
    "sapor, sapōris" "taste"
    "sapōrem" "taste"
    "sapōris" "taste"
+
+   "satagam" "I will be busy, hard pressed"
+   "satagō, satagere, satēgī, satāctus" "to be busy, hard pressed"
    
    "satanās" "Satan, adversary"
    "satanae" "Satan, adversary"
@@ -9195,6 +9204,7 @@
    "silicis" "flint"
    "silex, silicis" "flint"
 
+   "siluērunt" "they were silent"
    "siluit" "he was silent"
    "sileō, silēre, siluī, -" "to be silent"
    
@@ -10173,9 +10183,11 @@
    "variō"  "various, diverse"
    "variīs" "various, diverse"
    "varius, varia, varium" "various, diverse"
-   
+
+   "vāsīs" "vessels"
    "vās, vāsis" "vessel"
    "vāsa" "vessel"
+   
    "vāscula" "small vessel"
    "vāsculīs" "small vessels"
    "vāsculum" "small vessel"
@@ -10222,6 +10234,7 @@
    "veniō, venīre, vēnī, ventus" "to come"
    "vēnī" "I came"
    "vēnit" "he came"
+   "venīte" "come!"
    "ventūrōs" "to come"
 
    "ventitāret" "he was coming regularly"
@@ -10252,7 +10265,8 @@
 
    "veritus" "having been revered, feared"
    "vereor, verērī, veritus sum" "to revere, to fear"
-   
+
+   "vēritāte" "truth"
    "vēritātis" "truth"
    "vēritātī" "truth"
    "vēritās, vēritātis" "truth"
@@ -10505,6 +10519,7 @@
    "vocāvit" "he called"
    "vocātum" "having been called"
    "vocer" "I am being called"
+   "vocentur" "they were called"
    "vocō, vocāre, vocāvī, vocātus" "to call, to summon"
    
    "vōciferantēs" "crying, yelling"
