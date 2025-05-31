@@ -162,6 +162,7 @@
    "commendātīs" "you commend; 2nd person plural present from commendāre"
    "commodē" "suitably"
    "commorantur" "they dwell, 3rd person present of commoror, commorārī, commorātum (dep.)"
+   "complicātum" "folded up, rolled up; singular neuter accusative past passive participle from complicāre"
    "cōnfestim" "immediately"
    "cōnsīderāte" "consider! plural imperative from cōnsīderō, cōnsīderāre, cōnsīderāvī, cōnsīderātus"
    "cōnstitūtī" "cōnstitūtī + sunt = are arranged"
@@ -228,6 +229,7 @@
    "ēgressa" "having gone out; singular nominative perfect passive participle from ēgredior, ēgredī, ēgressum (deponent)"
    "ēgressī" "going out; genitive singular perfect passive participle from ēgredior, ēgredī, ēgressum (deponent)"
    "ēgressus" "ēgressus + est = he went out"
+   "ēn" "behold!"
    "enim" "for, truly, really, indeed"
    "eōrum" "their; plural masc. or neuter. genitive"
    "Ercī" "Erc, Bishop of Slane (-513 A.D.)"
@@ -247,6 +249,7 @@
    "expedītior" "freer, more unburdened"
    "expedītius" "freer, more unburdened"
    "explētis" "You fill; 2nd person plural present from expleō, explēre, explēvī, explētus"
+   "extrā" "outside of, beyond"
    "fabricātus" "having been made; masuline nominative past passive participle from fabricō, fabricāre, fabricāvī, fabricātus"
    "facillimē" "very easily"
    "factū" "to be done, supine of facere"
@@ -1191,6 +1194,8 @@
    "ālās" "wings"
 
    "albārum" "white"
+   "albō" "white"
+   "albus" "white"
    "albus, alba -um, albior -or -us, albissimus -a -um" "white"
    "albī" "white"
    "albīs" "white"
@@ -1648,6 +1653,9 @@
    
    "asportābant" "they were carrying away"
    "asportō, asportāre, asportāvī, asportātus" "to carry away"
+
+   "asseruit" "he alleged, claimed, defended"
+   "asserō, asserere, asseruī, assertus" "to allege, claim, defend"
 
    "associentur" "they (might) be joining"
    "associāre" "to join, to associate"
@@ -3731,6 +3739,7 @@
    "dormiam" "I will sleep"
    "dormiās" "you (might) sleep"
    "dormiēns" "sleeping"
+   "dormientēs" "sleeping"
    "dormīmus" "we sleep"
    "dormīvērunt" "they slept"
    "dormīvit" "he slept"
@@ -3984,6 +3993,9 @@
    "ēvāsit" "he avoided, he escaped"
    "ēvādō, ēvādere, ēvāsī, ēvāsus" "to avoid, to escape"
 
+   "ēvānuit" "it vanished"
+   "ēvānēscō, ēvānēscere, ēvānuī, -" "to vanish"
+
    "ēvangeliō" "gospel"
    "ēvangelium, ēvangeliī" "gospel"
 
@@ -4071,6 +4083,9 @@
 
    "exōsus" "hateful or hated"
    "exōsus, exōsa, exōsum" "hateful or hated"
+
+   "expandite" "spread out! expand!"
+   "expandō, expandere, expandī, expānsus" "to spread out, expand"
    
    "expavēscere" "to become frightened"
    "expavēscō, expavēscere, expāvī, -" "to become frightened"
@@ -4115,6 +4130,8 @@
    "expulsus" "having been driven out"
    "expellerent" "they drove out"
    "expellere" "to drive out, to expel"
+   "expelleret" "he drove out, expelled"
+   "expulit" "he drove out, expelled"
    "expellō, expellere, expulī, expulsus" "to drive out, to expel"
 
    "exsequī" "to follow"
@@ -4499,6 +4516,7 @@
    "fōrmula, fōrmulae" "shape, formula"
 
    "fortēs" "strong"
+   "fortior" "stronger"
    "fortiōrēs" "stronger"
    "fortis" "strong"
    "fortissimē" "very strong"
@@ -5349,6 +5367,9 @@
    "īnfirmitātem" "infirmity, weakness"
    "īnfirmitās, īnfirmitātis" "infirmity, weakness"
 
+   "īnfirmior" "weaker"
+   "īnfirmus, īnfirma -um, īnfirmior -or -us, īnfirmissimus -a -um" "weak, frail, sick"
+
    "ingemuit" "he sighed"
    "ingemō, ingemere, ingemuī, ingemitus" "to sigh"
    
@@ -5584,7 +5605,9 @@
    "invenīre" "to find"
    "invenīrent" "they found"
    "invenit" "he finds, he found"
+   "inventī" "having been found"
    "inveniātis" "you might find"
+   "inventum" "having been found"
    "inventus" "having had found"
    "inveniō, invenīre, invēnī, inventum" "to find"
 
@@ -6649,6 +6672,7 @@
    "nāribus" "nostrils"
    
    "nārrā" "narrate!"
+   "nārrātē" "narrate!"
    "nārrāns" "narrating"
    "nārrāvit" "he told"
    "nārrāre" "to narrate, to tell about"
@@ -8085,6 +8109,7 @@
    "prōfectum" "progress, success"
    "prōfectus, prōfectūs" "progress, success"
 
+   "prōferunt" "they bring forward"
    "prōferte" "bring forward!"
    "prōferre" "to bring forward"
    "prōferō, prōferre, prōtulī, prōlātus" "to bring forward"
@@ -8132,6 +8157,10 @@
    "prōmissum, prōmissī" "promise"
    "prōnus" "prone, sloped"
    "prōnus, prōna, prōnum" "prone, sloped"
+
+   "prōpalābō" "I will make visible, manifest"
+   "prōpalāre" "to make visible, to manifest"
+   "prōpalō, prōpalāre, prōpalāvī, prōpalātus" "to make visible, to manifest"
 
    "prōpellī" "to be driven, to be defeated"
    "prōpellere" "to drive, to defeat"
@@ -8694,13 +8723,17 @@
    "revēlā" "reveal!"
    "revēlāvīt" "he revealed"
    "revēlārī" "to be revealed"
+   "revēlātum" "having been shown, revealed"
    "revēlō, revēlāre, revēlāvī, revēlātus" "to show, to reveal"
    "revēlābō" "I will reveal"
    "revēlāre" "to reveal"
+   
    "revēlātiō" "revelation"
    "revēlātiōnem" "revelation"
    "revēlātiō, revēlātiōnis" "revelation"
+   
    "revēlātor" "revealer"
+   
    "reverentia" "reverence, timidity, shyness"
    "reverentia, reverentiae" "reverence, timidity, shyness"
    
@@ -8825,6 +8858,9 @@
 
    "rudis" "small stick, rod"
    "rudis, rudis" "small stick, rod"
+
+   "rūfus" "red, ruddy"
+   "rūfus, rūfa -um, rūfior -or -us, rūfissimus -a -um" "red, ruddy"
    
    "ruīna" "collapse, ruin, destruction"
    "ruīna, ruīnae" "collapse, ruin, destruction"
