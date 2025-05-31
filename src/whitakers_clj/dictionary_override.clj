@@ -1056,6 +1056,7 @@
    "adversus, adversa, adversum" "opposite, hostile"
 
    "aedificābitur" "it will be built"
+   "aedificārī" "to be built"
    "aedificāta" "having been built"
    "aedificō, aedificāre, aedificāvī, aedificātus" "to build"
 
@@ -1629,6 +1630,8 @@
    "asinus" "ass"
    "asinus, asinī" "ass"
 
+   "aspergētur" "it will be sprinkled"
+   "aspergerētur" "it was sprinkled, inflicted"
    "aspergātur" "it is sprinkled, inflicted"
    "aspergō, aspergere, aspersī, aspersus" "to sprinkle, to inflict"
 
@@ -2418,6 +2421,7 @@
 
    "cōgnitīs" "having been recognized"
    "cōgnitō" "having been recognized"
+   "cōgnōscat" "they recognize, know"
    "cōgnōscō" "I recognize, I know"
    "cōgnōscis" "you recognize"
    "cōgnōscitis" "you recognize, you know"
@@ -2554,6 +2558,7 @@
    "compāreō, compārēre, compāruī, compāritus" "to appear, come in sight"
 
    "compertum" "having been discovered"
+   "comperior" "to discover, to find guilty"
    "comperior, comperīrī, compertum" "to discover, to find guilty"
 
    "complēbat" "he will fill up"
@@ -2610,7 +2615,8 @@
 
    "conclāmāvērunt" "they cried out"
    "conclāmō, conclāmāre, conclāmāvī, conclāmātus" "to cry out"
-   
+
+   "conclūsīs" "having been concluded"
    "conclūsit" "he concluded"
    "conclūdō, conclūdere, conclūsī, conclūsus" "to conclude"
 
@@ -2919,6 +2925,9 @@
    "conventūra" "to come together (in the future)"
    "convēnēre" "they came"
    "conveniō, convenīre, convēnī, conventus" "to meet, to come together"
+
+   "conventiō" "agreement, meeting of people"
+   "conventiō, conventiōnis" "agreement, meeting of people"
    
    "conversātiōne" "intimacy, acquaintance, way of life, monastic life"
    "conversātiō" "intimacy, acquaintance, way of life, monastic life"
@@ -3080,6 +3089,7 @@
    "cunctābantur" "they were delayed"
    "cunctantēs" "hesitating, delaying"
    "cunctāre" "to hesitate, to delay"
+   "cunctor" "I am delayed"
    "cunctō, cunctāre, cunctāvī, cunctātus" "to hesitate, to delay"
 
    "cūnctātus" "hesitant, tardy"
@@ -3629,6 +3639,7 @@
    "dēferunt" "they transfer"
    "dēferret" "he (might) have been bringing"
    "dēfertur" "it is being transferred"
+   "dētulērunt" "they transferred"
    "dēferō, dēferre, dētulī, dēlātus" "to bring down, to transfer"
    
    "dīmidium" "half"
@@ -3860,6 +3871,9 @@
    "ēlēgit" "he chose"
    "ēligere" "to choose"
    "ēligō, ēligere, ēlēgī, ēlēctus" "to choose"
+
+   "ēlucubrābō" "I will burn the midnight oil"
+   "ēlucubrō, ēlucubrāre, ēlucubrāvī, ēlucubrātus" "to burn the midnight oil"
 
    "ēmīsimus" "we sent out"
    "ēmīsisset" "he (might) have had sent out"
@@ -4450,6 +4464,11 @@
    
    "focum" "hearth, fireplace, altar"
    "focus, focī" "hearth, fireplace, altar"
+
+   "fōdērunt" "they dug"
+   "fodere" "to dig"
+   "fodite" "dig!"
+   "fodiō, fodere, fōdī, fossus" "to dig"
    
    "folia" "leaves"
    "folium, foliī" "leaf"
@@ -5481,6 +5500,8 @@
    "interfectus" "having been killed"
    "interfēcissent" "they (might) have had killed"
    "interficiendī" "killing"
+   "interficerētur" "he killed"
+   "interficiāris" "you kill"
    "interficere" "to kill"
    "interficiō, interficere, interfēcī, interfectus" "to kill"
    
@@ -5576,6 +5597,7 @@
    "invītēmus" "we invite"
    "invītābō" "you will invite"
    "invītāret" "he invited"
+   "invītātī" "having been invited"
    "invītāvit" "he invited"
    "invītō, invītāre, invītāvī, invītātus" "to invite"
    
@@ -6477,6 +6499,7 @@
    "monēre" "to warn"
    "moneō, monēre, monuī, monitus" "to warn"
 
+   "mōnstrāvit" "he pointed out"
    "mōnstrātur" "it is pointed out"
    "mōnstrō, mōnstrāre, mōnstrāvī, mōnstrātus" "to point out"
 
@@ -7187,7 +7210,8 @@
    "ōsculāns" "kissing"
    "ōsculātīs" "having been kissed"
    "ōsculor, ōsculārī, ōsculātus sum" "to kiss"
-   
+
+   "ostendant" "they show"
    "ostendātur" "he (might) be being shown"
    "ostendit" "he shows, he showed"
    "ostendet" "you will show"
@@ -7378,6 +7402,7 @@
    "pausētis" "you (might) pause"
    "pausō, pausāre, pausāvī, pausātus" "to pause"
 
+   "pavīmentī" "floor, pavement, tiling"
    "pavīmentum" "floor, pavement, tiling"
    "pavīmentō" "floor, pavement, tiling"
    "pavīmentum, pavīmentī" "floor, pavement, tiling"
@@ -8059,6 +8084,10 @@
 
    "prōfectum" "progress, success"
    "prōfectus, prōfectūs" "progress, success"
+
+   "prōferte" "bring forward!"
+   "prōferre" "to bring forward"
+   "prōferō, prōferre, prōtulī, prōlātus" "to bring forward"
    
    "proficīscere" "set out!"
    "profectae" "having set out"
