@@ -9006,6 +9006,11 @@
    "scaphās" "light boats, skiffs"
    "scapha, scaphae" "light boat, skiff"
 
+   "scapula" "shoulder, back"
+   "scapulae" "shoulder, back"
+   "scapulās" "shoulders, back"
+   "scapula, scapulae" "shoulder, back"
+
    "scelere" "crime"
    "scelus, sceleris" "crime"
    
@@ -9130,6 +9135,10 @@
    "sentiant" "they (might) sense, feel"
    "sentīre" "to sense, to feel"
    "sentiō, sentīre, sēnsī, sēnsus" "to sense, to feel"
+
+   "sēparāte" "divide! separate!"
+   "sēparārī" "to be divided, separated"
+   "sēparō, sēparāre, sēparāvī, sēparātus" "divide, separate"
    
    "sepelīvissem" "I (might) have had buried"
    "sepeliō, sepelīre, sepelīvī, sepultus" "to bury"
@@ -9224,6 +9233,9 @@
    "sicera"  "a type of alcoholic beverage"
    "siceram" "a type of alcoholic beverage"
    "sicera, sicerae" "a type of alcoholic beverage"
+
+   "significat" "it signifies"
+   "significō, significāre, significāvī, significātus" "to signify"
 
    "signa" "signs"
    "signīs" "signs"
@@ -10306,6 +10318,10 @@
    "vēritātis" "truth"
    "vēritātī" "truth"
    "vēritās, vēritātis" "truth"
+
+   "vermēs" "worms"
+   "vermis" "worm"
+   "vermis, vermis" "worm"
    
    "versibus" "verses, poetic lines"
    "versiculō" "verse, poetic line"
