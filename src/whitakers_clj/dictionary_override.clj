@@ -1031,6 +1031,9 @@
    "admittere" "to admit, let in"
    "admittō, admittere, admīsī, admissus" "to admit, let in"
 
+   "adolēscentem" "young man"
+   "adolēscēns, adolēscentis" "young man"
+
    "adōrābunt" "they will adore, they will pray to"
    "adōrāvit" "he adored, he prayed to"
    "adōrō, adōrāre, adōrāvī, adōrātus" "to adore, to pray to"
@@ -1061,6 +1064,8 @@
    "aedificābitur" "it will be built"
    "aedificārī" "to be built"
    "aedificāta" "having been built"
+   "aedificāvit" "he built"
+   "aedificāre" "to build"
    "aedificō, aedificāre, aedificāvī, aedificātus" "to build"
 
    "aedificia" "buildings"
@@ -1348,6 +1353,9 @@
    
    "angulōs" "corners, angles"
    "angulus, angulī" "corner, angle"
+
+   "anglōrum" "of the Anglos, Englishmen"
+   "Anglus, Anglī" "Anglo, Englishman"
    
    "angelicō" "angelic"
    "angelicus, angelica, angelicum" "angelic"
@@ -2322,6 +2330,9 @@
    "circumfulsit" "it shone all around"
    "circumfulgeō, circumfulgēre, circumfulsī, circumfulsus" "it shone all around"
 
+   "circumī" "go around!"
+   "circumeō, circumīre, circumivi(iī), circumitus" "to go around"
+
    "circumsistēbant" "they were surrounding"
    "circumsistō, circumsistere, circumstitī, circumstatus" "to surround"
    
@@ -3289,6 +3300,7 @@
    "dēglutiō, dēglutīre, dēglutīvī, dēglutītus" "to swallow"
 
    "dēiēcērunt" "they threw down, overthrew"
+   "dēiciet" "he will overthrow"
    "dēicerentur" "they (might) have been throwing down"
    "dēicere" "to throw down"
    "dēiciō, dēicere, dēiēcī, dēiectus" "to throw down"
@@ -3749,6 +3761,10 @@
    "dorsum" "back"
    "dorsō" "back"
    "dorsum, dorsī" "back"
+
+   "dracō" "dragon, snake"
+   "dracōnēs" "dragons, snakes"
+   "dracō, dracōnis" "dragon, snake"
    
    "dubium" "doubt"
    "dubiō" "doubt"
@@ -5609,6 +5625,7 @@
    "inveniātis" "you might find"
    "inventum" "having been found"
    "inventus" "having had found"
+   "inveniās" "you discover"
    "inveniō, invenīre, invēnī, inventum" "to find"
 
    "invidet" "he envies, is jealous"
@@ -6206,6 +6223,7 @@
    "mānserint" "they will have remained"
    "mānsērunt" "they have remained"
    "mānsit" "he remained"
+   "manēbō" "I will remain"
    "manēre" "to remain"
    "maneō, manēre, mānsī, mānsus" "to remain"
    "manet" "he remains"
@@ -7727,6 +7745,7 @@
    "placidus, placida, placidum" "placid, gentle, quiet"
 
    "plāga" "coast"
+   "plāgae" "coast"
    "plāgam" "coast"
    "plāga, plāgae" "coast"
    
@@ -7870,6 +7889,7 @@
    "potuissent" "they (might) have had been able"
    "potuistī" "you were able"
    "potuisse" "to have been able"
+   "potes" "you can"
 
    "posteriōrēs" "following, next"
    "posteriōrem" "following, next"
@@ -8130,6 +8150,11 @@
    "profundīs" "deep, bottomless, boundless"
    "profundum" "deep, bottomless, boundless"
    "profundus, profunda, profundum" "deep, bottomless, boundless"
+
+   "prōgeniē" "race, family, progeny"
+   "prōgeniēī" "race, family, progeny"
+   "prōgeniēs" "race, family, progeny"
+   "prōgeniēs, prōgeniēī" "race, family, progeny"
 
    "prōgressī" "having advanced"
    "prōgredior, prōgredī, prōgressus sum" "to advance, to go forward"
