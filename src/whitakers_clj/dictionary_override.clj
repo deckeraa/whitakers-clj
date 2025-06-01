@@ -552,6 +552,7 @@
    "per" "through"
    "perfīnītis" "You finished; 2nd person plural present from perfīnīre"
    "perfīnīta" "perfīnīta + est: it has been finished"
+   "petulanter" "impudently, adverb from petulāns"
    "pictōrum" "of the Picts"
    "pigritārētur" "he tarried, was slothful; 3rd person singular subjunctive imperfect from pigritor"
    "Pīlātō" "Ablative of Pontius Pilate, the Roman official involved with the crucifixion of Christ."
@@ -1831,7 +1832,8 @@
    "belgiō" "a specific Gallic people-group"
    "belgīs" "a specific Gallic people-group"
    "Belga, Belgae" "a specific Gallic people-group"
-   
+
+   "bellātōrum" "of fighters"
    "bellātōrēs" "fighters"
    "bellātor, bellātōris" "fighters"
 
@@ -2546,6 +2548,10 @@
    
    "commīlitōnibus" "comrade"
    "commīlitō, commīlitōnis" "comrade"
+
+   "comminuit" "he lessens, shatters, crushes"
+   "comminuere" "to lessen, shatter, crush"
+   "comminuō, comminuere, comminuī, comminūtus" "to lessen, shatter, crush"
 
    "commissō" "undertaking, enterprise"
    "commissum, commissī" "undertaking, enterprise"
@@ -4148,6 +4154,7 @@
    "expellere" "to drive out, to expel"
    "expelleret" "he drove out, expelled"
    "expulit" "he drove out, expelled"
+   "expellēbantur" "they were driven out"
    "expellō, expellere, expulī, expulsus" "to drive out, to expel"
 
    "exsequī" "to follow"
@@ -4744,6 +4751,7 @@
    "gerō, gerere, gessī, gestus" "to bear, to carry, to govern"
 
    "Germāniā" "Germany"
+   "Germāniam" "Germany"
    "Germānia, Germāniae" "Germany"
    
    "gigans" "giant"
@@ -5392,6 +5400,7 @@
    "ingēns" "huge, enormous"
    "ingentem" "huge, enormous"
    "ingentēs" "huge, enormous"
+   "ingentī" "huge, enormous"
    "ingēns, ingentis (gen.), ingentior -or -us, ingentissimus -a -um" "huge, enormous"
    "ingeret" "he will carry in"
    "ingerō, ingerere, ingessī, ingestus" "to carry in, to throw in"
@@ -6992,6 +7001,7 @@
    "observō, observāre, observāvī, observātus" "to observe, to watch"
 
    "obsideret" "they besieged"
+   "obsēdit" "he besieged"
    "obsidēre" "to besiesge"
    "obsideō, obsidēre, obsēdī, obsessus" "to besiesge"
    
@@ -7523,6 +7533,7 @@
    
    "percutiēbat" "he was hitting"
    "percutiēbant" "they were hitting"
+   "percussit" "he struck"
    "percussa" "having been hit"
    "percussō" "having been hit"
    "percutiō, percutere, percussī, percussus" "to strike, to beat"
@@ -8576,6 +8587,7 @@
 
    "rēgna" "kingdoms"
    "rēgnī" "of the kingdom"
+   "rēgnīs" "kingdoms"
    "rēgnō" "kingdom"
    "rēgnum" "kingdom"
    "rēgnum, rēgnī" "kingdom"
@@ -9314,6 +9326,9 @@
    "sīs" "you (might) be"
    "sit" "he (might) be"
 
+   "sinistralem" "left-hand"
+   "sinistra, sinistrae" "left-hand"
+
    "sistitur" "it is stopped"
    "sistō, sistere, stitī, status" "to stop"
    
@@ -9694,6 +9709,8 @@
    "supputō, supputāre, supputāvī, supputātus" "to compute"
 
    "suprādictae" "having been said above"
+   "suprādictam" "having been said above"
+   "suprādictum" "having been said above"
    "suprādictus" "having been said above"
    "suprādīcō, suprādīcere, suprādīxī, suprādictus" "to say above"
    
@@ -9701,6 +9718,7 @@
    "surrēxit" "he raised up"
    "surgēbat" "he was lifting up"
    "surgentem" "raising"
+   "surget" "he will lift"
    "surrēxērunt" "they raised up"
    "surgō, surgere, surrēxī, surrēctus" "to rise, to lift"
    
@@ -9824,6 +9842,7 @@
    "tenentēs" "holding"
    "tenuissent" "they (might) have had held"
    "tenēre" "to hold"
+   "tenēbunt" "they will hold"
    "teneō, tenēre, tenuī, tentus" "to hold, to keep"
    
    "tenebrōsus" "dark"
@@ -9855,6 +9874,10 @@
    "terrae" "land"
    "terra, terrae" "land"
    "terrārum" "of lands"
+
+   "terruit" "he frightened"
+   "terrēre" "to frighten"
+   "terreō, terrēre, terruī, territus" "to frighten"
 
    "terrōre" "terror"
    "terror, terrōris" "terror"
@@ -9978,6 +10001,7 @@
    "trānsmigrātiō, trānsmigrātiōnis" "transmigration"
    
    "trānsmittam" "I will send"
+   "trānsmittēbant" "they sent across"
    "trānsmittō, trānsmittere, trānsmīsī, trānsmissus" "to send"
    
    "trāxit" "he hauled, he discussed"
@@ -10497,6 +10521,9 @@
    "vīllam" "farm, villa"
    "vīlla, vīllae" "farm, villa"
 
+   "vincēbantur" "they were conquered"
+   "vincō, vincere, vīcī, victus" "to conquer"
+
    "vincula" "chains"
    "vinculīs" "chains"
    "vinculum" "chain"
@@ -10597,6 +10624,9 @@
    "vocātum" "having been called"
    "vocer" "I am being called"
    "vocentur" "they were called"
+   "vocāris" "you will have been called"
+   "vocor" "I am called"
+   "vocandō" "calling"
    "vocō, vocāre, vocāvī, vocātus" "to call, to summon"
    
    "vōciferantēs" "crying, yelling"
