@@ -882,6 +882,9 @@
    "abit" "you depart"
    "abeō, abīre, abiī, abitus" "to depart"
 
+   "abigere" "to drive away"
+   "abigō, abigere, abēgī, abāctus" "to drive away"
+
    "abesse" "to be absent"
    "abest" "he is absent"
    "absunt" "they are absent"
@@ -961,6 +964,7 @@
    "adductī" "having been lead, having been persuaded"
    "addūxit" "he lead, he persuaded"
    "addūcere" "to lead, to persuade"
+   "addūxērunt" "they lead, persuaded"
    "addūcō, addūcere, addūxī, adductus" "to lead, to persuade"
 
    "adeptus" "having been gained, overtaking"
@@ -4269,6 +4273,9 @@
    "facultāte" "means, ability"
    "facultās, facultātis" "means, ability"
 
+   "fallāx" "deceitful, misleading"
+   "fallāx, fallācis (gen.), fallācior -or -us, fallācissimus -a -um" "deceitful, misleading"
+
    "fallam" "I will deceive"
    "fallere" "to deceive"
    "fallō, fallere, fefellī, falsus" "to deceive"
@@ -4452,11 +4459,13 @@
    ;;   "fīnītus, fīnīta, fīnītum"
    "fit" "it happened, it occurred"
    "fīēbant" "they were done"
+   "fieret" "it happened"
    "fierī" "to happen, to occur"
    "fīō, fierī, factus sum" "to happen, to occur"
    "firmāmentī" "strengthening, support"
    "firmāmentum, firmāmentī" "strengthening, support"
 
+   "fīrma" "firm"
    "fīrmissimōs" "very firm"
    "fīrmus, fīrma -um, fīrmior -or -us, fīrmissimus -a -um" "firm"
 
@@ -4828,7 +4837,8 @@
 
    "gressus" "stepping, going, way"
    "gressus, gressūs" "stepping, going, way"
-   
+
+   "gubernat" "he steers, directs, guides"
    "gubernāre" "to steer, to direct, to guide"
    "gubernō, gubernāre, gubernāvī, gubernātus" "to steer, to direct, to guide"
    "guberna" "rudders, helm, steering oars"
@@ -5016,6 +5026,7 @@
    
    "hortor, hortārī, hortātus sum" "to exhort"
    "hortābātur" "he was exhorting"
+   "hortātī" "having been exhorted"
    
    "hospes, hospitis" "guest"
    "hospitēs" "guests"
@@ -6985,6 +6996,9 @@
    "nūtrīvit" "he nourished"
    "nūtriō, nūtrīre, nūtrīvī, nūtrītus" "to nourish"
 
+   "nūtū" "command, will, pleasure"
+   "nūtus" "command, will, pleasure"
+   "nūtus, nūtūs" "command, will, pleasure"
 
    "nucēs" "nuts"
    "nux, nucis" "nut"
@@ -7192,6 +7206,7 @@
    "optimīs" "very good"
 
    "opera" "works, deeds"
+   "opere" "work, deed"
    "operibus" "works, deeds"
    "opus" "work, deed"
    "opus, operis" "work, deed"
@@ -7655,6 +7670,7 @@
    "perpessae" "having endured"
    "perpetior, perpetī, perpessus" "to endure"
 
+   "perpetua" "perpetual"
    "perpetuum" "perpetual"
    "perpetuus, perpetua, perpetuum" "perpetual"
    
@@ -8612,6 +8628,7 @@
 
    "regēbat" "he was ruling"
    "regitur" "is ruled"
+   "regit" "he rules"
    "regō, regere, rēxī, rēctus" "to rule"
 
    "rēgnābat" "he was reigning"
@@ -8791,6 +8808,10 @@
    
    "reverentia" "reverence, timidity, shyness"
    "reverentia, reverentiae" "reverence, timidity, shyness"
+
+   "reversiō" "turning back, return"
+   "reversiōnem" "turning back, return"
+   "reversiō, reversiōnis" "turning back, return"
    
    "revertentēs" "returning"
    "revertāmur" "he (might) return"
@@ -10110,6 +10131,9 @@
    "tumulī" "mound, hill"
    "tumulus, tumulī" "mound, hill"
 
+   "turbīs" "disturbances, quarrels, troops"
+   "turba, turbae" "disturbance, quarrel, troop"
+
    "turbātus" "disturbed, confused"
    "turbō, turbāre, turbāvī, turbātus" "disturbed, confused"
    
@@ -10291,6 +10315,9 @@
    "vāde" "go!"
    "vādō" "I go"
    "vādō, vādere, vāsī, -" "to go, to walk"
+
+   "valuit" "he was healthy, able, strong"
+   "valeō, valēre, valuī, valitūrus" "to be healthy, able, strong"
 
    "valida" "strong, healthy"
    "validus, valida, validum" "strong, healthy"
