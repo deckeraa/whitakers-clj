@@ -464,6 +464,7 @@
    "mixtim" "mixedly, in a mixed manner (adverb)"
    "modicum" "a little; singular neuter nominative or accusative from modicum, modica"
    "mox" "soon"
+   "muliebriter" "womanly (adverb from muliebris, muliebre)"
    "Mumenensī" "of Munster, a south-western region in Ireland. Not to be confused with Münster, the German city."
    "Nabuchodonosor" "Nebuchadnezzar (reigned 605-562 BC), the Babylonian king mentioned in Daniel"
    "nam" "yes, truly"
@@ -592,6 +593,7 @@
    "quae" "who; plural female nom. or neuter nom. or acc. of quis"
    "quam" "how? how much?"
    "quamquam" "though, on the other hand"
+   "quamvīs" "as much, as much as one wants, however"
    "quanta" "how much?"
    "quārē" "by what mean?"
    "quārtum" "for the fourth time"
@@ -1776,6 +1778,9 @@
    "avium" "of birds"
    "avibus" "birds"
 
+   "avidē" "greedily, eagerly, ardently"
+   "avidus, avida -um, avidior -or -us, avidissimus -a -um" "greedy, eager, ardent"
+
    "avum" "forefather, godfather"
    "avus" "forefather, godfather"
    "avus, avī" "forefather, godfather"
@@ -1839,7 +1844,8 @@
 
    "bellicōsum" "warlike"
    "bellicōsus, bellicōsa -um, bellicōsior -or -us, bellicōsissimus -a -um" "warlike"
-   
+
+   "bella" "battles, wars"
    "bellum" "battle, war"
    "bellī" "battle, war"
    "bellīs" "battles, wars"
@@ -2045,6 +2051,7 @@
    "campānae" "bells"
    "campāna, campānae" "bell"
 
+   "campō" "field"
    "campum" "field"
    "campus, campī" "field"
    
@@ -2543,6 +2550,7 @@
    "commeātū" "voyage, supplies, provisions"
    "commeātus, commeātūs" "voyage, supplies, provisions"
 
+   "commendō" "I entrust, commit, recommend"
    "commendāre" "to entrust, to commit, to recommend"
    "commendō, commendāre, commendāvī, commendātus" "to entrust, to commit, to recommend"
    
@@ -2556,6 +2564,7 @@
    "commissō" "undertaking, enterprise"
    "commissum, commissī" "undertaking, enterprise"
 
+   "commīsit" "he entrusted, connected"
    "committendum" "to entrust, connect"
    "committō, committere, commīsī, commissus" "to entrust, connect"
 
@@ -4085,6 +4094,7 @@
    "exeō, exīre, exivī(iī), exitus" "to come out, to go out"
    "exivērunt" "they came out, they went out"
    "exīssent" "they (might) have came out"
+   "exierant" "they had gone out"
    
    "exilīvit" "he went out"
    "exiliō, exilīre, exilīvī, -" "to go out"
@@ -4697,6 +4707,9 @@
    "galliārum" "of Gaul"
    "galliās" "Gaul"
    "Gallia, Galliae" "Gaul"
+
+   "gallicī" "Gallic"
+   "Gallicus, Gallica, Gallicum" "Gallic"
    
    "gallōrum" "of chickens, of roosters"
    "gallus, gallī" "chicken, rooster"
@@ -4747,6 +4760,7 @@
    "gerunt" "they bear, they carry, they govern"
    "geruntur" "they were carried, governed"
    "gestum" "having been carried out"
+   "gessit" "he bore, carried"
    "gerere" "to bear, to carry, to govern"
    "gerō, gerere, gessī, gestus" "to bear, to carry, to govern"
 
@@ -4874,6 +4888,7 @@
    "habitāta" "having been inhabited"
    "habitāvērunt" "they inhabited"
    "habitāvī" "I inhabited"
+   "habitāverint" "they inhabited"
    "habitō, habitāre, habitāvī, habitātus" "to inhabit"
    
    "habitātiō" "dwelling"
@@ -5606,6 +5621,7 @@
    "intrantibus" "entering"
    "intrāvērunt" "they entered"
    "intrāvit" "he entered"
+   "intrantēs" "entering"
    "intrō, intrāre, intrāvī, intrātus" "to enter"
    
    "introitus" "entrance"
@@ -5839,6 +5855,7 @@
    "languor, languōris" "faintness, languor, feebleness"
 
    "lapide" "stone"
+   "lapidem" "stone"
    "lapidēs" "stones"
    "lapidis" "stone"
    "lapidibus" "stones"
@@ -6238,6 +6255,7 @@
    "manet" "he remains"
    "maneat" "he remains"
    "maneant" "they remain"
+   "manēbunt" "they will remain"
    
    "manifestāvit" "he revealed"
    "manifestō, manifestāre, manifestāvī, manifestātus" "to reveal"
@@ -9176,7 +9194,8 @@
    "sēparāte" "divide! separate!"
    "sēparārī" "to be divided, separated"
    "sēparō, sēparāre, sēparāvī, sēparātus" "divide, separate"
-   
+
+   "sepelīvērunt" "they buried"
    "sepelīvissem" "I (might) have had buried"
    "sepeliō, sepelīre, sepelīvī, sepultus" "to bury"
    
@@ -9915,6 +9934,10 @@
    "timōre" "fear"
    "timōrem" "fear"
    "timor, timōris" "fear"
+
+   "titulī"  "inscription, token"
+   "titulus" "inscription, token"
+   "titulus, titulī" "inscription, token"
    
    "tintinnābulum" "bell"
    "tintinnābulum, tintinnābulī" "bell"
@@ -10257,6 +10280,7 @@
 
    "vada" "shallows"
    "vadīs" "shallows"
+   "vadum" "shallows"
    "vadum, vadī" "shallows"
    
    "vagor, vagārā, vagātus sum" "to wander, to roam"
@@ -10522,6 +10546,7 @@
    "vīlla, vīllae" "farm, villa"
 
    "vincēbantur" "they were conquered"
+   "vīctī" "having been conquered"
    "vincō, vincere, vīcī, victus" "to conquer"
 
    "vincula" "chains"
