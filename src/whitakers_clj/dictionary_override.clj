@@ -137,6 +137,7 @@
    "Catamantaloedis" "Catamantaledes (one of the Sequani)"
    "Catuvolcō" "Catuvolcus, king of the Eburones with Ambiorix (ablative or dative case)"
    "Catuvolcus" "Catuvolcus, king of the Eburones with Ambiorix (nominative case)"
+   "cāusāliter" "causally"
    "celebrāte" "Celebrate!"
    "celeriter" "quickly"
    "cepsitāvit" "he stumbled; singular perfect from cespitō, cespitāre, cespitāvi, cespitas"
@@ -455,6 +456,7 @@
    "maximē" "greatly"
    "mē" "to me, accusative from ego"
    "mēcum" "with me (mē + cum)"
+   "melius" "better, comparative adverb from bonus"
    "meō" "my; singular masculine or neuter dative or ablative from meus"
    "messala" "Marcus Messala, consul of Rome in 61 B.C."
    "mīlle" "one thousand"
@@ -816,6 +818,7 @@
    "ūnīcuique" "each one; ablative from ūnusquisque"
    "ūniūs" "of one (genitive of ūnus)"
    "ūnus" "one"
+   "ūnusquisque" "each one"
    "ūsque" "until, all the way, up until"
    "ūsum" "have been being used, singular neuter nominative perfect participle from ūtor, ūtī, ūsum (dep.)"
    "ut" "so that"
@@ -892,6 +895,9 @@
 
    "abneget" "he denies"
    "abnegō, abnegāre, abnegāvī, abnegātus" "to deny, to refuse"
+
+   "abscessit" "he left"
+   "abscēdō, abscēdere, abscessī, abscessus" "to leave"
    
    "abscondō, abscondere, abscondī, absconditus" "to hide, to conceal"
    "absconditōrum" "of things hidden"
@@ -1175,6 +1181,7 @@
    "agit" "I act, I conduct"
    "agitis" "you act, you conduct"
    "ēgissent" "you might have had conducted"
+   "agēbant" "they drove, conducted"
    "agēbantur" "they were being driven"
    "agendum" "to be done"
    "agere" "to conduct, to act"
@@ -2007,6 +2014,9 @@
    "caelus" "heaven, sky"
    "caelus, caelī" "heaven, sky"
 
+   "caelestī" "heavenly matters"
+   "caeleste, caelestis" "heavenly matters"
+
    "caelestem" "heavenly"
    "celeste" "heavenly"
    "celestis, celeste, celestior -or -us, celestissimus -a -um" "heavenly"
@@ -2184,6 +2194,9 @@
    "catēnae" "chains"
    "catēnīs" "chains"
    "catēna, catēnae" "chain"
+
+   "catēnātus" "chained"
+   "catēnātus, catēnāta, catēnātum" "chained"
 
    "catholicōrum" "Catholic"
    "catholicus, catholici" "Catholic"
@@ -2366,7 +2379,8 @@
 
    "clāmitābat" "he was yelling"
    "clāmitō, clāmitāre, clāmitāvī, clāmitātus" "to yell"
-   
+
+   "clāmāverō" "I will have shouted"
    "clāmābant" "they were shouting out"
    "clāmāre" "to shout"
    "clāmāvit" "he shouted"
@@ -2762,6 +2776,9 @@
    "coniugium" "marriage"
    "coniugium, coniugiī" "marriage"
 
+   "coniūnctiōne" "conjunction, association"
+   "coniūnctiō, coniūnctiōnis" "conjunction, association"
+
    "coniugibus" "spouses"
    "conjunx, conjugis" "spouse"
 
@@ -2962,6 +2979,7 @@
    "conventum" "having come together"
    "conventūra" "to come together (in the future)"
    "convēnēre" "they came"
+   "convēnērunt" "they came together"
    "conveniō, convenīre, convēnī, conventus" "to meet, to come together"
 
    "conventiō" "agreement, meeting of people"
@@ -2971,6 +2989,8 @@
    "conversātiō" "intimacy, acquaintance, way of life, monastic life"
    "conversātiōnis" "intimacy, acquaintance, way of life, monastic life"
    "conversātiō, conversātiōnis" "intimacy, acquaintance, way of life, monastic life"
+
+   "converteret" "he turned, changed"
    "conversus" "having been turned"
    "convertō, convertere, convertī, conversus" "to turn, to change"
 
@@ -3111,6 +3131,9 @@
    
    "cūdēs" "you will pound"
    "cūdō, cūdere, cūdī, cūsus" "to pound"
+
+   "cultellōs" "small knives"
+   "cultellus, cultellī" "small knife"
    
    "culpa" "fault"
    "culpam" "fault"
@@ -3483,6 +3506,7 @@
    "dīxēre" "they said"
    "dictam" "having been said"
    "dīxisse" "to have said"
+   "dīxerō" "I will have said"
    "dīcō, dīcere, dīxī, dictus" "to say"
 
    "dictātōrēs" "dictators"
@@ -3850,6 +3874,7 @@
    "ēdoceō, ēdocēre, ēdocuī, ēdoctus" "to teach thoroughly"
 
    "ēductōs" "having been lead out"
+   "ēdūcite" "lead out!"
    "ēdūcere" "to lead out"
    "ēdūcō, ēdūcere, ēdūxī, ēductum" "to lead out"
 
@@ -5714,6 +5739,7 @@
    
    "irruet" "it will rush in"
    "irruit" "it rushes, it rushed"
+   "irruite" "rush! force your way in!"
    "irruō, irruere, irruī, irrutus" "to rush into, to force way to"
 
    "isrāhēl" "Israel"
@@ -5740,6 +5766,9 @@
    "iūdicem" "judge"
    "iūdicibus" "judges"
    "iūdex, iūdicis" "judge"
+
+   "iugulātī" "having been butchered"
+   "iugulō, iugulāre, iugulāvī, iugulātus" "to butcher, cut the throat"
 
    "iūmentōrum" "of baggage animals"
    "iūmentum, iūmentī" "baggage animal"
@@ -6110,6 +6139,7 @@
    "loquēbātur" "he was talking"
    "loquendum" "talking"
    "loquerentur" "they (might) have had said"
+   "locūtī" "having been spoken"
    "loquī" "to speak, to say"
    "loquor, loquī, locūtus sum" "to speak, to say"
 
@@ -8539,6 +8569,11 @@
    "redditum" "having being returned"
    "reddō, reddere, reddidī, redditus" "to return, to render"
    "reddētur" "to be returned"
+
+   "redēmptiō" "redemption"
+   "redēmptiōne" "redemption"
+   "redēmptiōnis" "redemption"
+   "redēmptiō, redēmptiōnis" "redemption"
    
    "redēmptor" "redeemer"
    "redēmptōris" "redeemer"
@@ -8548,6 +8583,10 @@
    "redāctam" "having been driven back"
    "redigere" "to drive back, to render"
    "redigō, redigere, redēgī, redāctus" "to drive back, to render"
+
+   "redimātur" "is being bought back"
+   "redimere" "to bring back"
+   "redimō, redimere, redēmī, redēmptus" "to bring back"
 
    "redeam" "I return"
    "redīre" "to return, to go back"
@@ -8745,7 +8784,7 @@
 
    "rescindī" "to be rescinded, cut out"
    "rescindō, rescindere, rescidī, rescissus" "to rescind, cut out"
-   
+
    "resēdit" "he sat, he settled"
    "residēre" "to sit down, to settle"
    "resīdēbat" "he was sitting down"
@@ -8778,6 +8817,7 @@
    "restitērunt" "they resisted"
    "restituerat" "he had resisted"
    "resistere" "to resist"
+   "resistite" "resist!"
    "resistō, resistere, restitī, -" "to resist"
    
    "restant" "they stay behind, they remain"
@@ -9197,6 +9237,7 @@
    
    "seniōrum" "older"
    "seniōrem" "older"
+   "seniōrēs" "elders"
    "seniōribus" "older, elders"
    "senex, senis (gen.), senior -or -us, -" "old"
 
@@ -10069,11 +10110,13 @@
    "trēs -es -ia, tertius -a -um, terni -ae -a, ter" "third"
    "tribus" "three"
 
+   "trecentī" "three hundred"
    "trecentīs" "three hundred"
    "trecentī -ae -a, trecentesimus -a -um, trecenī -ae -a, trecentie (n)s" "three hundred"
    
    "tribuam" "I will assign"
    "tribuent" "they will assign"
+   "tribuit" "he divides, assigns"
    "tribuere" "to divide, to assign, to attribute"
    "tribuō, tribuere, tribuī, tribūtus" "to divide, to assign, to attribute"
 
@@ -10680,9 +10723,11 @@
    "vocor" "I am called"
    "vocandō" "calling"
    "vocō, vocāre, vocāvī, vocātus" "to call, to summon"
-   
+
+   "vōciferātus" "having been yelled"
    "vōciferantēs" "crying, yelling"
-   "vōciferō, vōciferāre, vōciferāvī, vōciferātus" "crying, yelling"
+   "vōciferō, vōciferāre, vōciferāvī, vōciferātus" "to cry, yell"
+   
    "volātū" "flying, flight"
    "volātus" "flying, flight"
    "volātus, volātūs" "flying, flight"
