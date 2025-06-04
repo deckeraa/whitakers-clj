@@ -3893,6 +3893,7 @@
    "effluō, effluere, efflūxī, -" "to flow out"
 
    "effugerent" "they (might) have been fleeing"
+   "effūgit" "he fled"
    "effugere" "to flee, escape"
    "effugiō, effugere, effūgī, effugitūrus" "to flee, escape"
    
@@ -5139,6 +5140,7 @@
    "īdibus" "ides"
    "īdūs, īduum" "ides"
 
+   "iēiūnus" "fasting"
    "iēiūnōs" "fasting"
    "jējūnus, jējūna -um, jējūnior -or -us, jējūnissimus -a -um" "fasting, hungry"
    
@@ -5154,6 +5156,9 @@
 
    "īgnōbilem" "unknown"
    "īgnōbilis, īgnōbilis, īgnōbile" "unknown"
+
+   "ignōminiōsē" "disgracefully"
+   "ignōminiōsus, ignōminiōsa, ignōminiōsum" "disgraced"
    
    "īgnōrābant" "they were ignoring"
    "īgnōrāmus" "we ignore, we do not know"
@@ -5177,7 +5182,10 @@
    "illaesum" "unharmed"
    "illaesus" "unharmed"
    "illaesus, illaesa, illaesum" "unharmed"
+
+   "illicitā" "unallowed"
    "illicitus, illicita, illicitum" "unallowed"
+   
    "illūcēsceret" "it (might) have begun to dawn"
    "illūcēscō, illūcēscere, illūxī, -" "to begin to dawn"
    
@@ -5268,6 +5276,9 @@
    "important" "they convey, they import"
    "importāre" "to convey, to import"
    "importō, importāre, importāvī, importātus" "to convey, to import"
+
+   "imprōvīsō" "unexpected"
+   "imprōvīsus, imprōvīsa, imprōvīsum" "unexpected"
 
    "imprūdentia"  "ignorance"
    "imprūdentiae" "ignorance"
@@ -5919,6 +5930,7 @@
    "lassitūdine" "faintness, weariness, exhaustion"
    "lassitūdō, lassitūdinis" "faintness, weariness, exhaustion"
 
+   "latēret" "he lay hidden, lurked"
    "latet" "he lies hidden, he lurks"
    "lateō, latēre, latuī, -" "to lie hidden, to lurk"
 
@@ -6386,6 +6398,9 @@
    
    "medietās" "center, midpoint"
    "medietās, medietātis" "center, midpoint"
+
+   "mediae" "middle"
+   "medius, media, medium" "middle"
    
    "mediō" "middle"
    "medium" "middle"
