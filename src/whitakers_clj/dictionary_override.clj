@@ -189,6 +189,7 @@
    "David" "David, the king of Israel that slew Goliath."
    "de" "of, from, away from, down from"
    "decem" "ten"
+   "decimō" "tenth"
    "deinde" "after"
    "dēlicātīs" "delicate, plural dative or ablative dēlicātus, -a, -um"
    "dēliciārum" "of delights, from dēliciae"
@@ -579,6 +580,7 @@
    "praeteritō" "previous"
    "praeteritum" "previous"
    "prīdiē" "the day before"
+   "prīmitus" "in the beginning, originally"
    "prius" "before"
    "priusquam" "before"
    "prō" "for, in favor of, before, in place of"
@@ -606,6 +608,7 @@
    "quem" "what, singular masculine accusative of qui"
    "quī" "who; plural masculine nominative of quis"
    "quibus" "what; plural dative or ablative of qui"
+   "quicquam" "anyone; singular neuter nominative or accusative from quisquam"
    "quid" "who; singular neuter nom. or acc. of quis"
    "quidem" "indeed, at last"
    "quīn" "even, in fact"
@@ -1120,6 +1123,7 @@
    "aetās" "lifetime, age"
    "aetāte" "lifetime, age"
    "aetātibus" "ages"
+   "aetātis" "lifetime, age"
    "aetās, aetātis" "lifetime, age"
    
    "aeternam" "eternal"
@@ -2019,6 +2023,9 @@
    "caelestī" "heavenly matters"
    "caeleste, caelestis" "heavenly matters"
 
+   "caelestīnō" "heavenly"
+   "caelestīnus, caelestīna, caelestīnum" "heavenly"
+
    "caelestem" "heavenly"
    "celeste" "heavenly"
    "celestis, celeste, celestior -or -us, celestissimus -a -um" "heavenly"
@@ -2134,18 +2141,27 @@
    
    "capitulum" "chapter"
    "capitulum, capitulī" "chapter"
+   
    "capsa" "cylindrical container for books"
    "capsa, capsae" "cylindrical container for books"
    "capsīs" "cylindrical container for books"
+
+   "captīvitāte" "captivity"
+   "captīvitās, captīvitātis" "captivity"
+   
    "captīvum" "captive"
+   "captīvus" "captive"
    "captīvus, captīvī" "captive"
+   
    "carbōnis" "charcoal, coal"
    "carbō, carbōnis" "charcoal, coal"
+   
    "cāritās" "charity"
    "cāritāte" "charity"
    "cāritātis" "charity"
    "cāritās, cāritātis" "charity"
    "cāritātem" "charity"
+   
    "carmen" "song, poem, prayer"
    "carmen, carminis" "song, poem, prayer"
 
@@ -2992,6 +3008,7 @@
    "conversātiōnis" "intimacy, acquaintance, way of life, monastic life"
    "conversātiō, conversātiōnis" "intimacy, acquaintance, way of life, monastic life"
 
+   "convertendōs" "turning, changing"
    "converteret" "he turned, changed"
    "conversus" "having been turned"
    "convertō, convertere, convertī, conversus" "to turn, to change"
@@ -3242,6 +3259,7 @@
    "dētur" "is given"
    
    "datō" "gift"
+   "datum" "gift"
    "datum, datī" "gift"
 
    "dēbellandum" "fighting out"
@@ -4027,6 +4045,7 @@
    "errat" "he wanders, errs"
    "errō, errāre, errāvī, errātus" "to wander, to go astray"
 
+   "ērudītus" "having been educated, taught"
    "ērudīrī" "to be educated, to be taught, to be instructed"
    "ērudiō, ērudīre, ērudīvī, ērudītus" "to educate, to teach, to instruct"
    
@@ -4771,6 +4790,9 @@
    "gemmārum" "of gems"
    "gemmīs" "gems"
    "gemma, gemmae" "gem, jewel"
+
+   "geneālogia" "genealogy"
+   "geneālogia, geneālogiae" "genealogy"
 
    "genitus" "having been born"
    "genō, genere, genuī, genitus" "to give birth to, beget"
@@ -6007,6 +6029,9 @@
    "lectulīs" "bed, coach"
    "lectulus, lectulī" "bed, coach"
 
+   "lēgandum" "sending as an envoy"
+   "lēgō, lēgāre, lēgāvī, lēgātus" "to send as an envoy"
+
    "lēgātiōne" "legate, embassy"
    "lēgātiōnem" "legate, embassy"
    "lēgātiōnis" "legate, embassy"
@@ -6066,6 +6091,7 @@
    "librī" "book"
    "librīs" "books"
    "librō" "book"
+   "librōs" "books"
    "liber, librī" "book"
    
    "līberā" "liberate!"
@@ -6973,6 +6999,9 @@
    "nōluit" "he didn't want"
    "nōlō, nōlle, nōluī, -" "to not want"
 
+   "nōminābātur" "he was named, called"
+   "nōminō, nōmināre, nōmināvī, nōminātus" "to name, call"
+
    "nōnāgēnāriīs" "ninety years"
    "nōnāgēnārius" "ninety years old"
    "nōnāgīnta, nōnāgēsīmus -a -um, nōnāgeni -ae -a, nonagie (n)s" "ninety years old"
@@ -7634,6 +7663,7 @@
    "pecūniam" "money"
    "pecūnia, pecūniae" "money"
 
+   "percurrit" "he ran through"
    "percurrere" "to run through"
    "percurrō, percurrere, percurrī, percursus" "to run through"
    
@@ -7950,6 +7980,10 @@
    
    "positae" "having been put"
    "posuistī" "you placed"
+
+   "porcarius" "swineherd"
+   "porcarius, porcariī" "swineherd"
+   
    "portiō" "share, part, portion"
    "portiō, portiōnis" "share, part, portion"
    
@@ -8985,6 +9019,7 @@
    "rogus, rogī" "funeral pyre, grave"
 
    "rōma" "Rome"
+   "rōmae" "Rome"
    "rōmam" "Rome"
    "Rōma, Rōmae" "Rome"
 
@@ -9051,18 +9086,25 @@
 
    "saccus" "sack, bag, wallet"
    "saccus, saccī" "sack, bag, wallet"
+
+   "sacrīs" "sacred"
+   "sacer, sacra, sacrum" "sacred"
    
    "sacerdōs" "priest"
    "sacerdōtēs" "priests"
    "sacerdōtibus" "priests"
    "sacerdōs, sacerdōtis" "priest"
+   
    "sacrāmentum" "sacrament"
    "sacrāmentum, sacrāmentī" "sacrament"
+   
    "sacrificāre" "sacrifice"
    "sacrificēmus" "we (might) sacrifice"
    "sacrificō, sacrificāre, sacrificāvī, sacrificātus" "sacrifice"
+   
    "sacrum" "sacred thing"
    "sacrum, sacrī" "sacred thing"
+   
    "saeculī" "age, generation"
    "saeculum" "age, generation"
    "saeculō" "age, generation"
@@ -9114,6 +9156,9 @@
    
    "salvatoris" "savior"
    "salvātor, salvātōris" "savior"
+
+   "sānctārum" "having been ordained, consecrated"
+   "sanciō, sancīre, sānxī, sānctus" "to confirm, consecrate, ordain"
 
    "sānctitās"   "sanctity"
    "sanctitātis" "sanctity"
@@ -9206,8 +9251,12 @@
    "scrīptum" "text, writing, book, letter"
    "scrīptum, scrīptī" "text, writing, book, letter"
 
+   "scrīptūrārum" "of writings, books"
    "scrīptūra" "writing, book, composition"
    "scrīptūra, scrīptūrae" "writing, book, composition"
+
+   "scrūtanda" "searching thoroughly, investigating"
+   "scrūto, scrūtāre, scrūtāvī, scrūtātus" "to search thoroughly, investigate"
    
    "scurrīlitās" "buffoonery"
    "scurrīlitās, scurrīlitātis" "buffoonery"
