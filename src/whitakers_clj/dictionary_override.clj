@@ -5897,6 +5897,10 @@
    "laetificat" "he delights"
    "laetificant" "they delight"
    "laetificō, laetificāre, laetificāvī, laetificātus" "to delight"
+
+   "lāïcōs" "laymen"
+   "lāïcus" "layman"
+   "lāïcus, lāïcī" "layman"
    
    "lampadēs" "lamps"
    "lampas, lampadis" "lamp"
@@ -5963,6 +5967,9 @@
    "laudēs" "praises"
    "laudibus" "praises"
    "laudō, laudāre, laudāvī, laudātus" "to praise"
+
+   "laude" "praise"
+   "laus, laudis" "praise"
    
    "lavantur" "are being washed"
    "lavātis" "you wash"
@@ -7444,9 +7451,12 @@
    
    "parvulum" "small child"
    "parvulum, parvulī" "small child"
+   
    "pāscāris" "you (might) feed/graze"
+   "pāscent" "they will feed, graze"
    "pāscit" "he feeds, he grazes"
    "pāscō, pāscere, pāvī, pāstus" "to feed, to graze"
+   
    "patina" "a broad, shallow dish"
    "patina, patinae" "a broad, shallow dish"
    
@@ -7801,6 +7811,9 @@
    "philosophus" "philosopher"
    "philosophus, philosophī" "philosopher"
 
+   "piāculō" "atonement, sacrifice, punishment"
+   "piāculum, piāculī" "atonement, sacrifice, punishment"
+
    "pictī" "Picts, a Scottish tribe"
    "pictōs" "Picts, a Scottish tribe"
 
@@ -8005,6 +8018,7 @@
    "potestis" "you can"
    "potuerant" "they had been able to"
 
+   "potentēs" "mighty"
    "potentissimōs" "very mighty"
    "potēns, potentis (gen.), potentior -or -us, potentissimus -a -um" "powerful, mighty"
 
@@ -8042,6 +8056,7 @@
    "praedēstinō, praedēstināre, praedēstināvī, praedēstinātus" "to predestine"
 
    "praedicandum" "preaching"
+   "praedicābat" "he preached"
    "praedicāre" "to preach"
    "praedicāret" "he was preaching"
    "praedicō, praedicāre, praedicāvī, praedicātus" "to preach"
@@ -8762,6 +8777,9 @@
    "removēre" "to remove"
    "removeō, removēre, remōvī, remōtus" "to remove"
 
+   "rēnis" "kidney"
+   "rēn, rēnis" "kidney"
+
    "repentīna" "unexpected, sudden"
    "repentīnae" "unexpected, sudden"
    "repentīnī" "unexpected, sudden"
@@ -9268,6 +9286,7 @@
    "sentīre" "to sense, to feel"
    "sentiō, sentīre, sēnsī, sēnsus" "to sense, to feel"
 
+   "sēparāret" "he divided, separated"
    "sēparāte" "divide! separate!"
    "sēparārī" "to be divided, separated"
    "sēparō, sēparāre, sēparāvī, sēparātus" "divide, separate"
@@ -9349,6 +9368,7 @@
    "servīs" "slaves, servants"
    "servōrum" "of slaves, of servants"
    "servōs" "slaves, servants"
+   "servum" "slave, servant"
    "servus" "slave, servant"
    "servus, servī" "slave, servant"
 
@@ -10237,6 +10257,7 @@
    "tyrannus, tyrannī" "tyrant"
    
    "ūlla" "any"
+   "ūllae" "any"
    "ūllum" "any"
    "ūllus" "any"
    "ūllō" "any"
@@ -10350,6 +10371,7 @@
    "uxōre" "wife"
    "uxōrem" "wife"
    "uxōrēs" "wives"
+   "uxōribus" "wives"
    "uxor, uxōris" "wife"
 
    "vacca" "cow"
@@ -10369,6 +10391,9 @@
    "vagāmur" "we wander"
    "vagantur" "they wander"
    "vagārentur" "they (might) have wandered"
+
+   "vagus" "vagrant"
+   "vagus, vagī" "vagrant"
    
    "vāde" "go!"
    "vādō" "I go"
