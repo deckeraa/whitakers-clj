@@ -1448,6 +1448,7 @@
    "ānulus" "ring"
    "ānulus, ānulī" "ring"
 
+   "apertā"  "having been opened"
    "apertō"  "having been opened"
    "apertum" "having been opened"
    "aperiō, aperīre, aperuī, apertus" "to open"
@@ -1826,6 +1827,7 @@
    "barbarus, barbara -um, barbarior -or -us, barbarissimus -a -um" "barbarous"
 
    "barbarī" "barbarian"
+   "barbarōs" "barbarians"
    "barbarus, barbarī" "barbarian"
    
    "barbaricā" "barbaric"
@@ -3097,6 +3099,9 @@
    "cremāre" "to burn"
    "cremō, cremāre, cremāvī, cremātus" "to burn"
 
+   "crepuit" "he grumbled, rustled"
+   "crepō, crepāre, crepuī, crepitus" "to grumble, rustle"
+
    "crēvisset" "he had increased, came forth"
    "crēvērunt" "they increased, they came forth"
    "crēscō, crēscere, crēvī, crētus" "to increase, to come forth"
@@ -3685,6 +3690,7 @@
    "dīxistī" "you said"
    "dīxisset" "he (might) have had said"
    "dīxit" "he said"
+   "dīximus" "we said"
    
    "dedit" "he gave"
    "dispendia" "pay, nourishment"
@@ -3726,6 +3732,7 @@
 
    "docēbant" "they were teaching"
    "docent" "they teach"
+   "docuit" "he taught"
    "docēre" "to teach"
    "doceō, docēre, docuī, doctus" "to teach"
 
@@ -3830,6 +3837,8 @@
    
    "ductor" "leader"
    "ductor, ductōris" "leader"
+
+   "duābus" "two"
    "duōrum" "two"
    "duās" "two"
    "duōbus" "two"
@@ -4015,6 +4024,7 @@
    "ēripiō, ēripere, ēripuī, ēreptus" "to rescue, to snatch away"
    
    "errantēs" "wandering, erroring"
+   "errat" "he wanders, errs"
    "errō, errāre, errāvī, errātus" "to wander, to go astray"
 
    "ērudīrī" "to be educated, to be taught, to be instructed"
@@ -4143,6 +4153,7 @@
    "exitus" "departure"
    "exitus, exitūs" "departure"
 
+   "exōsī" "hateful or hated"
    "exōsus" "hateful or hated"
    "exōsus, exōsa, exōsum" "hateful or hated"
 
@@ -4760,6 +4771,9 @@
    "gemmārum" "of gems"
    "gemmīs" "gems"
    "gemma, gemmae" "gem, jewel"
+
+   "genitus" "having been born"
+   "genō, genere, genuī, genitus" "to give birth to, beget"
    
    "genetricis" "mother, ancestress"
    "genetrīx, genetricis" "mother, ancestress"
@@ -5277,6 +5291,9 @@
    "importāre" "to convey, to import"
    "importō, importāre, importāvī, importātus" "to convey, to import"
 
+   "impotentēs" "the weak, powerless"
+   "impotēns, (gen.), impotentis" "the weak, powerless"
+
    "imprōvīsō" "unexpected"
    "imprōvīsus, imprōvīsa, imprōvīsum" "unexpected"
 
@@ -5695,6 +5712,7 @@
    "invenit" "he finds, he found"
    "inventī" "having been found"
    "inveniātis" "you might find"
+   "inventae" "having been found"
    "inventum" "having been found"
    "inventus" "having had found"
    "inveniās" "you discover"
@@ -8727,6 +8745,9 @@
    "relictīs" "leaving behind"
    "relinquerent" "they left behind"
    "relinquō, relinquere, relīquī, relictum" "to leave behind"
+
+   "reliquiae" "relics, remains"
+   "reliquiae, reliquiārum" "relics, remains"
 
    "reliqua" "remaining"
    "reliquae" "remaining"
