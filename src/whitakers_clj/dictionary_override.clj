@@ -8776,6 +8776,7 @@
    "rēgnāvit" "he reigned"
    "regnavērunt" "they reigned"
    "rēgnārent" "they had reigned"
+   "rēgnantibus" "reigning"
    "rēgnāre" "to reign"
    "rēgnō, rēgnāre, rēgnāvī, rēgnātus" "to reign"
    
@@ -8979,6 +8980,7 @@
    "revolvō" "I turn over, I repeat"
    "revolvō, revolvere, revolvī, revolūtus" "to turn over, to repeat"
 
+   "rēge" "king"
    "rēgem" "king"
    "rēgis" "of the king"
    "rēgēs" "kings"
@@ -9248,6 +9250,7 @@
    
    "sciō" "I know"
    "sciēbat" "he was knowing"
+   "sciēns" "knowing"
    "scīvit" "he knew"
    "scīre" "to know"
    "sciō, scīre, scīvī, scītus" "to know"
@@ -9765,7 +9768,8 @@
 
    "stylō" "stylus, stake"
    "stylus, stylī" "stylus, stake"
-   
+
+   "suādente" "persuading"
    "suādentem" "persuading"
    "suādeō, suādēre, suāsī, suāsus" "to persuade"
    "suāvissimum" "very sweet"
@@ -9862,6 +9866,7 @@
    "summa" "highest, greatest"
    "summīs" "highest, greatest"
    "summō" "highest, greatest"
+   "summum" "highest, greatest"
    "summus, summa, summum" "highest, greatest"
    
    "sūme" "take up!"
@@ -10553,7 +10558,8 @@
    "vēnī" "I came"
    "vēnit" "he came"
    "venīte" "come!"
-   "ventūrōs" "to come"
+   "ventūra" "coming (in the future)"
+   "ventūrōs" "coming (in the future)"
 
    "ventitāret" "he was coming regularly"
    "ventitāre" "to come regularly"
