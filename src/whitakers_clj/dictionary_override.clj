@@ -1886,6 +1886,7 @@
    "bellī" "battle, war"
    "bellīs" "battles, wars"
    "bellō" "battle, war"
+   "bellōrum" "of battles, wars"
    "bellum, bellī" "battle, war"
 
    "bellandī" "war-fighting"
@@ -2044,6 +2045,9 @@
    "cecidit" "he fell"
    "cecidērunt" "they fell"
    "cadō, cadere, cecidī, cāsus" "to fall"
+
+   "caedēs" "slaughter"
+   "caedēs, caedis" "slaughter"
    
    "caelum" "heaven, sky"
    "caelī" "heaven, sky"
@@ -2142,6 +2146,7 @@
    "cantāvisset" "he (might) have had sung"
    "cantāvissent" "they (might) have had sung"
    "cantō, cantāre, cantāvī, cantātus" "to sing"
+   
    "cantum" "song"
    "cantus" "song"
    "cantus, cantūs" "song"
@@ -2228,6 +2233,7 @@
    "casa, casae" "house"
 
    "castellīs" "castles, strongholds"
+   "castellō" "castle, stronghold"
    "castellum, castellī" "castle, stronghold"
 
    "castram" "fort"
@@ -3165,6 +3171,7 @@
    "crepuit" "he grumbled, rustled"
    "crepō, crepāre, crepuī, crepitus" "to grumble, rustle"
 
+   "crēscēbant" "they were increasing, coming forth"
    "crēvisset" "he had increased, came forth"
    "crēvērunt" "they increased, they came forth"
    "crēscō, crēscere, crēvī, crētus" "to increase, to come forth"
@@ -3924,6 +3931,7 @@
    "ducēs" "leaders"
    "ducum" "of leaders"
    "ducibus" "leaders"
+   "dux" "leader"
    "dux, ducis" "leader"
    
    "dūxērunt" "they were leading"
@@ -5202,6 +5210,11 @@
    "humātus" "having been buried"
    "humāre" "to bury"
    "humō, humāre, humāvī, humātus" "to bury"
+
+   "humerīs" "shoulders"
+   "humerōs" "shoulders"
+   "humerus" "shoulder"
+   "humerus, humerī" "shoulder"
    
    "humiliāre" "to humble, to abase, to humililate"
    "humiliō, humiliāre, humiliāvī, humiliātus" "to humble, to abase, to humililate"
@@ -5308,6 +5321,10 @@
    
    "illūcēsceret" "it (might) have begun to dawn"
    "illūcēscō, illūcēscere, illūxī, -" "to begin to dawn"
+
+   "imāginem" "image"
+   "imāgō" "image"
+   "imāgō, imāginis" "image"
    
    "immaculātam" "unblemished, immaculate"
    "immaculātum" "unblemished, immaculate"
@@ -5806,6 +5823,10 @@
 
    "inūtilēs" "useless"
    "inūtilis, inūtilis, inūtile" "useless"
+
+   "invalēscēbant" "they were strengthening"
+   "invalēscere" "to strengthen"
+   "invalēscō, invalēscere, invaluī, -" "to strengthen"
    
    "invēnērunt" "they found"
    "invēnī" "I found"
