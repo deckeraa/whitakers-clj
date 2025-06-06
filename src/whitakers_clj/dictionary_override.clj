@@ -615,6 +615,7 @@
    "quid" "who; singular neuter nom. or acc. of quis"
    "quidem" "indeed, at last"
    "quīn" "even, in fact"
+   "quintum" "fifth"
    "quīnquāgintā" "fifty"
    "quinque" "five"
    "quīntō" "for the fifth time"
@@ -714,6 +715,7 @@
    "semetipsum" "he himself"
    "semper" "always"
    "septem" "seven"
+   "septimum" "seventh"
    "septimus" "seventh"
    "septimō" "seventh"
    "sēsē" "himself"
@@ -723,6 +725,7 @@
    "sexta" "sixth"
    "sextam" "sixth"
    "sextō" "sixth"
+   "sextum" "sixth"
    "sextus" "sixth"
    "sexāgintā" "sixty"
    "sī" "if"
@@ -6494,9 +6497,14 @@
    "maris" "sea"
    "mare, maris" "sea"
    "marī" "sea"
-   
+
    "margarīta" "pearl"
    "margarīta, margarītae" "pearl"
+
+   "marīae" "of Mary"
+   "Marīae" "of Mary"
+   "marīa, marīae" "Mary"
+   "Marīa, Marīae" "Mary"
 
    "maritimōs" "maritime"
    "maritimus, maritima, maritimum" "maritime"
@@ -6844,6 +6852,7 @@
 
    "mortua" "dead"
    "mortuae" "dead"
+   "mortuō" "dead"
    "mortuōs" "dead"
    "mortuus" "dead"
    "mortuus, mortua, mortuum" "dead"
@@ -7511,6 +7520,7 @@
    "ōrō, ōrāre, ōrāvī, ōrātus" "to pray"
 
    "ortae" "having arisen"
+   "ortī" "having arisen"
    "oriuntur" "they originate, they arise"
    "orīrī" "to originate, to arise"
    "orior, orīrī, ortus sum" "to originate, to arise"
@@ -7916,6 +7926,7 @@
    "perpetior, perpetī, perpessus" "to endure"
 
    "perpetua" "perpetual"
+   "perpetuae" "perpetual"
    "perpetuum" "perpetual"
    "perpetuus, perpetua, perpetuum" "perpetual"
    
@@ -10775,12 +10786,14 @@
    "versiculō" "verse, poetic line"
    "versiculum" "verse, poetic line"
    "versiculus, versiculī" "verse, poetic line"
+   
    "versum" "verse, poetic line"
    "versus" "verse, poetic line"
    "versus, versūs" "verse, poetic line"
 
    "vertērunt" "they turned"
    "vertitur" "he is turned"
+   "versī" "having been turned"
    "vertere" "to turn, to change"
    "vertō, vertere, vertī, versus" "to turn, to change"
 
@@ -10954,6 +10967,7 @@
 
    "virginem" "virgin"
    "virginēs" "virgins"
+   "virginis" "virgin"
    "virgō" "virgin"
    "virgō, virginis" "virgin"
    
