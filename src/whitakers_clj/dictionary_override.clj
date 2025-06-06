@@ -1365,6 +1365,7 @@
    
    "angelī" "angel"
    "angelīs" "angel"
+   "angelō" "angel"
    "angelōs" "angels"
    "angelus" "angel"
    "angelus, angelī" "angel"
@@ -1726,6 +1727,7 @@
    "audīvisset" "he (might) have had heard"
    "audīvissent" "they (might) have had heard"
    "audīvit" "he heard"
+   "audītā" "having been heard"
    "audiō, audīre, audīvī, audītum" "to hear"
 
    "audītō" "having been heard"
@@ -3986,9 +3988,13 @@
    "Epiphanīae" "Epiphany, a Christian holiday that occurs closely after Christmas."
    "Epiphanīa, Epiphanīae" "Epiphany, a Christian holiday that occurs closely after Christmas."
 
+   "episcopālem" "episcopal, of a bishop"
+   "episcopālis, episcopālis, episcopāle" "episcopal, of a bishop"
+
    "episcopī" "overseer, bishop"
    "episcopīs" "bishops"
    "episcopō" "overseer, bishop"
+   "episcopum" "overseer, bishop"
    "episcopus" "overseer, bishop"
    "episcopus, episcopī" "overseer, bishop"
 
@@ -4859,7 +4865,9 @@
    "gradieris" "you will walk"
    "gradior, gradi, gressus sum" "to walk, to step"
    "gradiēbantur" "they were walking"
-   
+
+   "gradū" "step"
+   "gradum" "step"
    "gradus" "step"
    "gradūs" "step"
    "gradus, gradūs" "step"
@@ -5471,6 +5479,7 @@
    "īnfēlīx, īnfēlīcis (gen.), īnfēlīcior -or -us, īnfēlīcissimus -a -um" "unhappy"
 
    "īnferiōrem" "lower, inferior"
+   "īnferiōrī" "lower, inferior"
    "īnferus, īnfera -um, īnferior -or -us, īnfimus -a -um" "low, inferior"
    
    "īnfernō" "Hell"
@@ -6580,6 +6589,7 @@
    "mīrus, mīra, mīrum" "wonderful, marvelous"
 
    "mīrābile" "marvelous, wonderful"
+   "mīrābilem" "marvelous, wonderful"
    "mīrābilia" "marvelous, wonderful"
    "mīrābilis" "marvelous, wonderful"
    "mīrābilior" "more marvelous"
@@ -6671,6 +6681,7 @@
    "monastērium" "monastery"
    "monastērium, monastēriī" "monastery"
 
+   "monente" "warning"
    "monēre" "to warn"
    "moneō, monēre, monuī, monitus" "to warn"
 
@@ -7352,6 +7363,9 @@
    "ōrdō" "order"
    "ōrdō, ōrdinis" "order"
    "ōrdine" "order"
+
+   "ōrdinātī" "having been set in order, ordained"
+   "ōrdinō, ōrdināre, ōrdināvī, ōrdinātus" "to set in order, ordain"
    
    "ōre" "mouth"
    
@@ -8365,6 +8379,9 @@
 
    "propīnat" "he hands over, he drinks to"
    "propīnāre" "to hand over, to drink to"
+
+   "propinquō" "near, neighboring"
+   "propinquus, propinqua, propinquum" "near, neighboring"
    
    "prōposuit" "he displayed, he proposed"
    "prōposuī" "I displayed, I proposed"
