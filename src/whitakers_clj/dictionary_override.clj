@@ -1317,6 +1317,7 @@
    "ambulāns" "walking"
    "ambulāre" "to walk"
    "ambulāvit" "he walked"
+   "ambulandī" "walking"
    "ambulō, ambulāre, ambulāvī, ambulātus" "to walk"
    
    "amīcī" "friend"
@@ -1362,6 +1363,9 @@
    "ancorās" "anchors"
    "ancorīs" "anchors"
    "ancora, ancorae" "anchor"
+
+   "ānfrāctibus" "bends, curves, turnings"
+   "ānfrāctus, ānfrāctūs" "bend, curve, turning"
    
    "angelī" "angel"
    "angelīs" "angel"
@@ -1881,6 +1885,7 @@
    "bēlua, bēluae" "beast, monster"
    "benedīc" "bless!"
    "benedictiōnem" "blessing"
+   "benedictiōnibus" "benediction, blessing"
    "benedictiō, benedictiōnis" "benediction, blessing"
    "benedictiōne" "benediction, blessing"
 
@@ -3440,6 +3445,7 @@
    "dēscendentēs" "descending"
    "dēscenderant" "they had descended"
    "dēscendisse" "to have descended"
+   "dēscendit" "he descended"
    "dēscendō, dēscendere, dēscendī, dēscēnsus" "to descend"
 
    "dēserta" "deserts"
@@ -4178,6 +4184,9 @@
    "exitus" "departure"
    "exitus, exitūs" "departure"
 
+   "exōrsus" "beginning, commencement"
+   "exōrsus, exōrsūs" "beginning, commencement"
+
    "exōsī" "hateful or hated"
    "exōsus" "hateful or hated"
    "exōsus, exōsa, exōsum" "hateful or hated"
@@ -4547,6 +4556,10 @@
    "flābat" "he was blowing, he was breathing"
    "flāre" "to breathe, to blow"
    "flō, flāre, flāvī, flātus" "to breathe, to blow"
+
+   "flātū" "blowing, breathing, haughtiness"
+   "flātus" "blowing, breathing, haughtiness"
+   "flātus, flātūs" "blowing, breathing, haughtiness"
    
    "flectēbat" "they were bending"
    "flectentēs" "bending"
@@ -6595,6 +6608,9 @@
    "mīrābilior" "more marvelous"
    "mīrābilissimum" "most marvelous"
    "mīrābilis, mīrābilis, mīrābile" "marvelous, wonderful"
+
+   "mīrābilibus" "miracles"
+   "mīrābilia, mīrābilium" "miracles"
    
    "mīrāculum" "miracle"
    "mīrācula" "miracles"
@@ -7480,6 +7496,7 @@
    "parāvissent" "they (might) have had prepared"
    "parāta" "having been prepared"
    "parātī" "having been prepared"
+   "parātam" "having been prepared"
    "parātōs" "having been prepared"
    "parō, parāre, parāvī, parātus" "to prepare"
    "parāvērunt" "they prepared"
@@ -7712,6 +7729,7 @@
 
    "perficiendum" "completing"
    "perfēcissent" "they (might) have had finished"
+   "perfectīs" "having been accomplished"
    "perficere" "to finish, to accomplish"
    "perficiō, perficere, perfēcī, perfectus" "to finish, to accomplish"
    
@@ -8125,6 +8143,7 @@
    "praedicābat" "he preached"
    "praedicāre" "to preach"
    "praedicāret" "he was preaching"
+   "praedicāvit" "he preached"
    "praedicō, praedicāre, praedicāvī, praedicātus" "to preach"
    
    "praedicta" "the aforesaid"
@@ -10104,6 +10123,10 @@
 
    "testimōniō" "witness, evidence"
    "testimōnium, testimōniī" "witness, evidence"
+
+   "thēsaurīs" "treasures"
+   "thēsaurus" "treasure"
+   "thēsaurus, thēsaurī" "treasure"
    
    "thronum" "throne"
    "thronus, thronī" "throne"
@@ -10204,6 +10227,10 @@
    "trānseuntium" "crossing"
    "trānsitūrum" "will be crossing over"
    "trānseō, trānsīre, trānsivi(iī), trānsitus" "to go over, to cross"
+
+   "trānsmarīnīs" "overseas"
+   "trānsmarīnus" "overseas"
+   "trānsmarīnus, trānsmarīna, trānsmarīnum" "overseas"
    
    "trānsmeāre" "to go across, to pass over"
    "trānsmeō, trānsmeāre, trānsmeāvī, trānsmeātus" "to go across, to pass over"
@@ -10262,6 +10289,7 @@
    "trīnitās" "Trinity"
    "trīnitātem" "Trinity"
    "trīnitātī" "Trinity"
+   "trīnitātis" "Trinity"
    "trīnitās, trīnitātis" "Trinity"
    
    "trīstēs" "sad"
@@ -10529,6 +10557,10 @@
    
    "vēlōcissimō" "very quickly"
    "vēlōx, vēlōcis (gen.), vēlōcior -or -us, vēlōcissimus -a -um" "very quickly"
+
+   "vēlōcitās" "speed"
+   "vēlōcitāte" "speed"
+   "vēlōcitās, vēlōcitātis" "speed"
    
    "vēla" "sail, cloth"
    "vēlīs" "sails"
