@@ -191,6 +191,7 @@
    "de" "of, from, away from, down from"
    "decem" "ten"
    "decimō" "tenth"
+   "decimum" "tenth"
    "deinde" "after"
    "dēlicātīs" "delicate, plural dative or ablative dēlicātus, -a, -um"
    "dēliciārum" "of delights, from dēliciae"
@@ -471,6 +472,7 @@
    "modicum" "a little; singular neuter nominative or accusative from modicum, modica"
    "mox" "soon"
    "muliebriter" "womanly (adverb from muliebris, muliebre)"
+   "multipliciter" "numerously"
    "Mumenensī" "of Munster, a south-western region in Ireland. Not to be confused with Münster, the German city."
    "Nabuchodonosor" "Nebuchadnezzar (reigned 605-562 BC), the Babylonian king mentioned in Daniel"
    "nam" "yes, truly"
@@ -502,7 +504,9 @@
    "nōn" "not"
    "nōna" "ninth"
    "nōnam" "the 9th"
+   "nōnum" "ninth"
    "nōndum" "not yet"
+   "nōngentī" "900"
    "nōnne" "not, expecting an affirmative answer"
    "nonnullī" "some; masculine plural nominative of nonnullus, -a, -um"
    "nōnus" "9th"
@@ -825,6 +829,7 @@
    "ūnanimiter" "unanimously, harmoniously"
    "unde" "from where?"
    "ūndecim" "11"
+   "ūndecimum" "eleventh"
    "undique" "from all sides"
    "ūnīcuique" "each one; ablative from ūnusquisque"
    "ūniūs" "of one (genitive of ūnus)"
@@ -1757,6 +1762,10 @@
    "abstulisset" "he (might) have carried away"
    "abstulērunt" "they carried away"
    "auferō, auferre, abstulī, ablātus" "to carry away, to remove"
+
+   "augēbantur" "they were being increased"
+   "augēre" "to increase, augment"
+   "augeō, augēre, auxī, auctus" "to increase, augment"
 
    "aula" "court"
    "aulam" "court"
@@ -3122,6 +3131,10 @@
 
    "corripere" "to grasp, shorten, hasten"
    "corripiō, corripere, corripuī, correptus" "to grasp, shorten, hasten"
+
+   "corruērunt" "they collapsed"
+   "corruere" "to collapse"
+   "corruō, corruere, corruī, corrutus" "to collapse"
    
    "cortice" "bark of a tree"
    "cortex, corticis" "bark of a tree"
@@ -3376,6 +3389,7 @@
    "dēdecus" "disgrace, shame"
    "dēdecus, dēdecoris" "disgrace, shame"
 
+   "dēdūcēbant" "they escorted, removed"
    "dēdūxit" "he escorted, he removed"
    "dēdūcere" "to escort, to remove"
    "dēdūcō, dēdūcere, dēdūxī, dēductus" "to escort, to remove"
@@ -4233,6 +4247,9 @@
    "exiliō" "exile"
    "exilium, exiliī" "exile"
 
+   "extitit" "he stood out"
+   "extō, extāre, extitī, -" "to stand out"
+
    "exīstimābat" "he was estimating, valuing"
    "exīstimābant" "they were estimating, valuing"
    "exīstimat" "he estimates"
@@ -4922,6 +4939,7 @@
    "gerere" "to bear, to carry, to govern"
    "gerō, gerere, gessī, gestus" "to bear, to carry, to govern"
 
+   "germānia" "Germany"
    "Germāniā" "Germany"
    "Germāniam" "Germany"
    "Germānia, Germāniae" "Germany"
@@ -6891,7 +6909,7 @@
    "multiplicātī" "having been multiplied"
    "multiplicātus" "having been multiplied"
    "multiplicō, multiplicāre, multiplicāvī, multiplicātus" "to multiply, to increase"
-   
+
    "multitūdō" "multitude, great number"
    "multitūdine" "multitude, great number"
    "multitūdinem" "multitude, great number"
@@ -8556,6 +8574,7 @@
    "prostrāvēre" "they prostrated"
    "prosternēbant" "they were prostrating"
    "prostrāvērunt" "they prostrated"
+   "prosternēbantur" "they were being stricken down"
    "prosternō, prosternere, prostrāvī, prostrātus" "to prostrate"
 
    "prōvectae" "having been carried forward"
