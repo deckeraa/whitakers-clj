@@ -156,6 +156,7 @@
    "citō" "quickly"
    "clam" "secretly, stealthily, without the knowledge of"
    "clāmāte" "shout: plural imperative from clāmāre"
+   "clementer" "gently, leniently; adverb from clēmēns"
    "Commius" "Commius, a Roman ambassador"
    "Cosdras" "Codrus, the last King of Athens (r. ca 1089-1068 BC)"
    "Cosdrī" "of Codrus, the last King of Athens (r. ca 1089-1068 BC)"
@@ -1475,6 +1476,9 @@
 
    "apostolicus" "the Pope (medieval usage), bishop, apostle"
    "apostolicus, apostolicī" "the Pope (medieval usage), bishop, apostle"
+
+   "apostolicās" "apostolic"
+   "apostolicus, apostolica, apostolicum" "apostolic"
    
    "appāruisset" "he (might) have had appeared"
    "appārēbat" "he was appearing"
@@ -2005,17 +2009,25 @@
    "būtȳrum" "butter"
    "būtȳrō" "butter"
    "būtȳrum, būtȳrī" "butter"
+   
    "cācabus" "cooking pot"
    "cācabum" "cooking pot"
    "cācabōs" "cooking pots"
    "cācabus, cācabī" "cooking pot"
+
+   "cacūmine" "peak, extremity"
+   "cacūmen, cacūminis" "peak, extremity"
    
    "cadāver" "corpse"
    "cadāvere" "corpse"
    "cadāver, cadāveris" "corpse"
+
+   "caecōs" "blind"
+   "caecus, caeca, caecum" "blind"
    
    "caecitāte" "blindness"
    "caecitās, caecitātis" "blindness"
+   
    "cecidit" "he fell"
    "cecidērunt" "they fell"
    "cadō, cadere, cecidī, cāsus" "to fall"
@@ -2155,7 +2167,8 @@
 
    "captīvitāte" "captivity"
    "captīvitās, captīvitātis" "captivity"
-   
+
+   "captīvōs" "captives"
    "captīvum" "captive"
    "captīvus" "captive"
    "captīvus, captīvī" "captive"
@@ -2535,6 +2548,10 @@
    "colligit" "he collects, he assembles"
    "colligitur" "is assembled"
    "colligō, colligere, collēgī, collēctus" "to collect, to assemble"
+
+   "colle" "hill"
+   "collis" "hill"
+   "collis, collis" "hill"
    
    "collīsiōnēs" "collision"
    "collīsiō, collīsiōnis" "collision"
@@ -3018,6 +3035,8 @@
    "convertendōs" "turning, changing"
    "converteret" "he turned, changed"
    "conversus" "having been turned"
+   "convertit" "he turned"
+   "convertere" "to turn"
    "convertō, convertere, convertī, conversus" "to turn, to change"
 
    "convīvium" "banquet, feast"
@@ -3892,8 +3911,10 @@
    "ebdomadam" "week, seven"
    "ebdomadās" "weeks, sevens"
    "ebdomada, ebdomadae" "week, seven"
+   
    "ecclēsia" "church"
    "ecclēsiae" "church"
+   "ecclēsiās" "churches"
    "ecclēsiam" "church"
    "ecclēsia, ecclēsiae" "church"
 
@@ -4099,6 +4120,7 @@
    "ēvānēscō, ēvānēscere, ēvānuī, -" "to vanish"
 
    "ēvangeliō" "gospel"
+   "ēvangelium" "gospel"
    "ēvangelium, ēvangeliī" "gospel"
 
    "ēvēnit" "it happened"
@@ -4262,6 +4284,9 @@
    "extendērunt" "they stretched out"
    "extendō, extendere, extendī, extentus" "to extend"
    "extendō, extendere, extendī, extensus" "to extend"
+
+   "externīs" "outside, foreign"
+   "externus, externa, externum" "outside, foreign"
 
    "exstīncta" "having been quenched, destroyed"
    "extinguebantur" "they were being extinguished"
