@@ -797,6 +797,8 @@
    "Titūrium" "Titūrius, a Roman family name (accusative case)"
    "Titūrius" "Titūrius, a Roman family name (nominative case)"
    "totidem" "as many, the same number of"
+   "trecenta" "300"
+   "trecentās" "300"
    "trahō, trahere, trāxī, tractum" "to draw, to drag, to haul"
    "trāxissent" "they (might) have had drawn"
    "trēverī" "Treveri, a tribe of Gallia Belgica (plural nominative)"
@@ -4337,6 +4339,7 @@
    "faciat" "he (might) do/make"
    "faciātis" "you (might) be making"
    "faciēbam" "I was doing"
+   "faciēbat" "he was doing"
    "faciet" "it will make"
    "faciendum" "making, doing"
    "faciendī" "of making, doing"
@@ -4757,6 +4760,7 @@
    "fugeret" "he fled"
    "fūgērunt" "they fled"
    "fugiāmus" "we might have fled"
+   "fugiēbat" "he was fleeing"
    "fugiendō" "fleeing"
    "fugiēns" "fleeing"
    "fugit" "he flees, he fled"
@@ -4785,6 +4789,9 @@
    "funda" "sling"
    "fundīs" "slings"
    "funda, fundae" "sling"
+
+   "fundāvit" "he founded"
+   "fundō, fundāre, fundāvī, fundātus" "to found"
    
    "fūnēs" "ropes"
    "fūnibus" "ropes"
@@ -6115,6 +6122,7 @@
    "lēnis, lēne, lēnior -or -us, lēnissimus -a -um" "gentle, calm"
    
    "leprōsō" "leper"
+   "leprōsōs" "lepers"
    "leprōsus, leprōsī" "leper"
    
    "levāte" "raise up!"
@@ -6839,6 +6847,9 @@
    "plūrimum" "very many"
    "plūrimī" "very many"
    "multus, multa -um, -, plūrimus -a -um" "many"
+
+   "mundābat" "he was cleaning"
+   "mundō, mundāre, mundāvī, mundātus" "to cleanse"
    
    "mundī" "world"
    "mundō" "world"
@@ -6895,6 +6906,9 @@
    "natantium" "swimming"
    "natāvit" "he swam"
    "natō, natāre, natāvī, natātus" "to swim"
+
+   "nātiōnibus" "race, tribe, nation"
+   "nātiō, nātiōnis" "race, tribe, nation"
    
    "nātālem" "birthday"
    "nātālis" "birthday"
@@ -7185,8 +7199,9 @@
 
    "obsideret" "they besieged"
    "obsēdit" "he besieged"
-   "obsidēre" "to besiesge"
-   "obsideō, obsidēre, obsēdī, obsessus" "to besiesge"
+   "obsidēre" "to besiege"
+   "obsessīs" "having been besieged"
+   "obsideō, obsidēre, obsēdī, obsessus" "to besiege"
    
    "obsidēs" "hostages"
    "obsidum" "of hostages"
@@ -7405,6 +7420,7 @@
    "ōrdō, ōrdinis" "order"
    "ōrdine" "order"
 
+   "ōrdināvit" "he ordained, set in order"
    "ōrdinātī" "having been set in order, ordained"
    "ōrdinō, ōrdināre, ōrdināvī, ōrdinātus" "to set in order, ordain"
    
@@ -7905,6 +7921,9 @@
    "petīvērunt" "they asked for"
    "petīvissent" "they (might) have had asked"
    "petō, petere, petīvī, petītus" "to ask for"
+
+   "petītiōnēs" "petitions"
+   "petītiō, petītiōnis" "petition"
    
    "petra" "stone, rock"
    "petram" "stone, rock"
@@ -8251,6 +8270,7 @@
 
    "presbyter" "elder, presbyter"
    "presbyterīs" "elders, presbyters"
+   "presbyterōs" "elders, presbyters"
    "presbyter, presbyterī" "elder, presbyter"
    
    "pretiō" "price"
@@ -8728,6 +8748,7 @@
    "redigō, redigere, redēgī, redāctus" "to drive back, to render"
 
    "redimātur" "is being bought back"
+   "redēmit" "he brought back, redeemed"
    "redimere" "to bring back"
    "redimō, redimere, redēmī, redēmptus" "to bring back"
 
@@ -9511,6 +9532,9 @@
    "sevērus" "severe"
    "sevērus, sevēra -um, sevērior -or -us, sevērissimus -a -um" "severe"
 
+   "sexūs" "sex (male or female)"
+   "sexus, sexūs" "sex (male or female)"
+
    "siccitātēs" "drought, dryness"
    "siccitās, siccitātis" "drought, dryness"
    
@@ -9965,6 +9989,9 @@
    "suprādictum" "having been said above"
    "suprādictus" "having been said above"
    "suprādīcō, suprādīcere, suprādīxī, suprādictus" "to say above"
+
+   "surdōs" "deaf, silent"
+   "surdus, surda, surdum" "deaf, silent"
    
    "surgite" "raise! lift! get up!"
    "surrēxit" "he raised up"
@@ -10490,6 +10517,7 @@
    "uter, utris" "bag/bottle made of skin/hide"
 
    "utrīs" "either"
+   "utrius" "either"
    "uter, utra, utrum" "either"
 
    "ūtēbātur" "he was using"
