@@ -5130,9 +5130,10 @@
    "hominibus" "persons, men"
    "homō" "person"
    "homō, hominis" "person"
-   
-   "honor, honōris" "honor"
+
+   "honore" "honor"
    "honorem" "honor"
+   "honor, honōris" "honor"
    
    "hōram" "hour, time"
    "hōra" "hour, time"
@@ -5611,6 +5612,7 @@
    "inmānissimam" "immense, savage, monstrous"
    "inmānis, inmāne, inmānior -or -us, inmānissimus -a -um" "immense, savage, monstrous"
 
+   "innumerābilēs" "countless"
    "innumerābilia" "countless"
    "innumerābilis" "countless"
    "innumerābilis, innumerābilis, innumerābile" "countless"
@@ -5955,8 +5957,10 @@
    
    "labia" "lip"
    "labia, labiae" "lip"
+   
    "labōre" "labor"
    "labōrem" "labor"
+   "labōris" "labor"
    "labor, labōris" "labor, work"
 
    "labōrantēs" "laboring"
@@ -6589,6 +6593,7 @@
    "metus, metūs" "fear"
    
    "migrāvī" "I departed"
+   "migrāvit" "he departed"
    "migrō, migrāre, migrāvī, migrātus" "to depart"
    
    "mīliāria" "milestones"
@@ -7406,6 +7411,7 @@
    "ōrātiōnibus" "oration, speech, discourse"
    "ōrāvērunt" "they prayed"
    "ōrārent" "they prayed"
+   "ōrāret" "he prayed"
 
    "ōrātōris" "speaker"
    "ōrātor, ōrātōris" "speaker"
@@ -7504,6 +7510,10 @@
 
    "pācātī" "having been pacified, subdued"
    "pācō, pācāre, pācāvī, pācātus" "to pacify, subdue"
+
+   "paenitentia" "penitence, repentance"
+   "paenitentiam" "penitence, repentance"
+   "paenitentia, paenitentiae" "penitence, repentance"
 
    "pāgānī"  "peasant, villager, rustic"
    "pāgānīs" "peasant, villager, rustic"
@@ -7905,6 +7915,7 @@
 
    "pervēnērunt" "they arrived"
    "pervēnisset" "he (might) have had come"
+   "pervenīre" "to come to, to arrive"
    "perveniō, pervenīre, pervēnī, perventus" "to come to, to arrive"
    "pervenit" "he arrives"
    "pervēnit" "he arrived"
@@ -7929,6 +7940,7 @@
    "petīvissent" "they (might) have had asked"
    "petō, petere, petīvī, petītus" "to ask for"
 
+   "petītiō" "petition"
    "petītiōnēs" "petitions"
    "petītiō, petītiōnis" "petition"
    
@@ -8059,6 +8071,7 @@
    "populum" "people, populace"
    "populus" "people, populace"
    "populī" "people, populace"
+   "populīs" "people, populace"
    "populus, populī" "people, populace"
    
    "positae" "having been put"
@@ -9195,10 +9208,12 @@
    
    "sacrum" "sacred thing"
    "sacrum, sacrī" "sacred thing"
-   
+
+   "saecula" "ages, generations"
    "saeculī" "age, generation"
    "saeculum" "age, generation"
    "saeculō" "age, generation"
+   "saeculōrum" "of ages, generations"
    "saeculum, saeculī" "age, generation"
    
    "sagitta" "arrow"
@@ -9483,6 +9498,7 @@
    "sequāx, sequācis" "followers"
 
    "sequātur" "he follows"
+   "sequantur" "they follow"
    "sequenti" "following"
    "sequēbātur" "he was following"
    "sequiminī" "you follow"
@@ -9984,6 +10000,9 @@
    "superiōrēs" "higher"
    "superus, supera -um, superior -or -us, suprēmus -a -um" "upper, being above"
 
+   "supervīxerit" "he will have survived"
+   "supervīvō, supervīvere, supervīxī, supervīctus" "to survive"
+
    "suppeteret" "it (might) have sufficed"
    "suppetere" "to be at hand, to suffice"
    "suppetō, suppetere, suppetīvī, suppetītus" "to be at hand, to suffice"
@@ -10010,6 +10029,7 @@
    
    "suscepta" "having been undertaken"
    "suscipe" "undertake!"
+   "susciperet" "he undertook"
    "suscēpit" "he undertook, he supported"
    "susceptī" "having been undertaken"
    "suscipit" "he undertakes"
@@ -10386,6 +10406,7 @@
    "tumultus, tumultūs" "uproar"
 
    "tumulī" "mound, hill"
+   "tumulō" "mound, hill"
    "tumulus, tumulī" "mound, hill"
 
    "turbīs" "disturbances, quarrels, troops"
@@ -10816,6 +10837,7 @@
    "videndum" "seeing, watching"
    "videndī" "of seeing"
    "vidēns" "seeing"
+   "vidēret" "he saw"
    
    "vigiliam" "vigil, watch"
    "vigiliārum" "vigil, watch"
