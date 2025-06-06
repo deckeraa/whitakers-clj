@@ -308,6 +308,8 @@
    "Hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
    "hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
    "heu" "Hey! oh! (interjection)"
+   "hiberniae" "of Ireland (genitive case)"
+   "hibernensium" "of the Irish (plural genitive)"
    "hōs" "these; plural masculine accusative from hic, haec, hoc"
    "Hybernia" "Ireland (nominative case)"
    "Hyberniae" "of Ireland (genitive case)"
@@ -1896,6 +1898,7 @@
    "benedictiōne" "benediction, blessing"
 
    "benedīcēns" "blessing"
+   "benedīceret" "he blessed"
    "benedīcet" "you will bless"
    "benedīcite" "bless!"
    "benedīcitis" "you bless"
@@ -2960,6 +2963,7 @@
    "cōnsultō" "response, plan"
    "cōnsultum, cōnsultī" "response, plan"
 
+   "cōnsūmentur" "they will consume"
    "cōnsūmptī" "having been consumed"
    "cōnsūmō, cōnsūmere, cōnsūmpsī, cōnsūmptus" "to consume"
    
@@ -3397,6 +3401,9 @@
    "dēicerentur" "they (might) have been throwing down"
    "dēicere" "to throw down"
    "dēiciō, dēicere, dēiēcī, dēiectus" "to throw down"
+
+   "dēlēbuntur" "they will be erased"
+   "dēleō, dēlēre, dēlēvī, dēlētus" "to erase"
 
    "dēlīberandum" "deliberating"
    "dēlīberāre" "to deliberate"
