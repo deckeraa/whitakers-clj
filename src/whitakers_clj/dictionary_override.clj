@@ -1099,6 +1099,11 @@
    "aequālī" "equal"
    "aequālis" "equal"
    "aequālis, aequāle, aequālior -or -us, aequālissimus -a -um" "equal"
+
+   "aequantur" "they are compared"
+   "aequāre" "to compare"
+   "aequō, aequāre, aequāvī, aequātus" "to compare"
+   
    "aequor" "level surface"
    "aequor, aequōris" "level surface"
    "aequōra" "level surfaces"
@@ -1986,6 +1991,9 @@
    "Brendānō" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
 
+   "breviāre" "to shorten, abbreviate"
+   "breviō, breviāre, breviāvī, breviātus" "to shorten, abbreviate"
+
    "brevem" "short"
    "brevī" "short"
    "brevis, breve, brevior -or -us, brevissimus -a -um" "short"
@@ -2568,6 +2576,7 @@
    "collocō, collocāre, collocāvī, collocātus" "to put together"
 
    "colloquendī" "of discussing"
+   "colloquente" "discussing"
    "colloquor, colloquī, collocūtus sum" "to discuss"
 
    "colloquium" "conversation, meeting"
@@ -2655,6 +2664,11 @@
 
    "compāruit" "it appeared, came in sight"
    "compāreō, compārēre, compāruī, compāritus" "to appear, come in sight"
+
+   "compendiī" "compendium, abstract, saving"
+   "compendiō" "compendium, abstract, saving"
+   "compendium" "compendium, abstract, saving"
+   "compendium, compendiī" "compendium, abstract, saving"
 
    "compertum" "having been discovered"
    "comperior" "to discover, to find guilty"
@@ -4181,6 +4195,10 @@
    "exercituum" "of armies"
    "exercitus, exercitūs" "army"
 
+   "exigēbat" "he was driving out"
+   "exigere" "to drive out"
+   "exigō, exigere, exēgī, exāctus" "to drive out"
+
    "exiguitāte" "smallness, scarcity"
    "exiguitās" "smallness, scarcity"
    "exiguitātis" "smallness, scarcity"
@@ -5180,6 +5198,10 @@
    "hūmānam" "human, cultured, refined"
    "hūmānum" "human, cultured, refined"
    "hūmānus, hūmāna -um, hūmānior -or -us, hūmānissimus -a -um" "human, cultured, refined"
+
+   "humātus" "having been buried"
+   "humāre" "to bury"
+   "humō, humāre, humāvī, humātus" "to bury"
    
    "humiliāre" "to humble, to abase, to humililate"
    "humiliō, humiliāre, humiliāvī, humiliātus" "to humble, to abase, to humililate"
@@ -5248,6 +5270,7 @@
    "īgnem" "fire"
    "īgnī" "fire"
    "igneī" "fiery"
+   "igneō" "fiery"
    "igneus" "fiery"
    "igneus, ignea, igneum" "fiery"
 
@@ -6718,7 +6741,8 @@
    "modulātiō, modulātiōnis" "melody, modulation"
    "modulātiō" "melody, modulation"
    "modulātiōne" "melody, modulation"
-   
+
+   "modīs" "ways"
    "modum" "mode, manner, way, measure, size"
    "modus, modī" "mode, manner, way, measure, size"
 
@@ -6821,6 +6845,7 @@
 
    "moyse" "Moses"
    "moysen" "Moses"
+   "moyses" "Moses"
    "Moyses, Moysis" "Moses"
 
    "mūgīs" "you low, you bellow"
@@ -7010,9 +7035,11 @@
    
    "negōtiātor" "merchant, trader"
    "negōtiātor, negōtiātōris" "merchant, trader"
-   
+
+   "nēmine" "no one"
    "nēmō" "no one"
    "nēmō, nēminis" "no one"
+   
    "nemorōsam" "woody, shaded"
    "nemorōsus" "woody, shaded"
    "nemorōsus, nemorōsa, nemorōsum" "woody, shaded"
@@ -7273,6 +7300,10 @@
    "occultāret" "he was hiding"
    "occultāre" "to hide"
    "occultō, occultāre, occultāvī, occultātus" "to hide"
+
+   "occultō" "secrecy"
+   "occultum" "secrecy"
+   "occultum, occultī" "secrecy"
 
    "occupāret" "he (might) have seized"
    "occupātō" "attack!"
@@ -9158,6 +9189,7 @@
    "rubricātīs" "red, reddened"
    "rubricātus, rubricāta, rubricātum" "red, reddened"
 
+   "rubō" "red"
    "rubrum" "red"
    "ruber, rubra, rubrum" "red"
    
@@ -9338,6 +9370,8 @@
    "sciō" "I know"
    "sciēbat" "he was knowing"
    "sciēns" "knowing"
+   "sciente" "knowing"
+   "scit" "he knows"
    "scīvit" "he knew"
    "scīre" "to know"
    "sciō, scīre, scīvī, scītus" "to know"
@@ -9525,6 +9559,7 @@
    "sermō" "conversation, speech"
    "sermōne" "conversation, speech"
    "sermōnem" "conversation, speech"
+   "sermōnis" "conversation, speech"
    "sermō, sermōnis" "conversation, speech"
    "sermōnibus" "conversation, speech"
 
@@ -9897,6 +9932,9 @@
    
    "subrīsit" "he smiled"
    "subrīdeō, subrīdēre, subrīsī, subrīsus" "to smile"
+
+   "subrogātur" "he is elected, picked as a substitute"
+   "subrogō, subrogāre, subrogāvī, subrogātus" "to elect, pick a substitute"
 
    "subsequī" "to follow close after"
 
@@ -10777,6 +10815,9 @@
    "viam" "road"
    "viīs" "roads"
    "via, viae" "road"
+
+   "vīcēsimō" "twentieth"
+   "vīcēsimus, vīcēsima, vīcēsimum" "twentieth"
    
    "vice" "time, turn"
    "vicis" "time, turn"
@@ -10994,6 +11035,7 @@
    "volumus" "we want"
    "vīs" "you want"
    "velint" "they (might) want"
+   "voluī" "I wanted"
    "volō, velle, voluī, -" "to want"
    
    "vōcem" "voice"
@@ -11011,8 +11053,10 @@
    "voluntāte" "will"
    "voluntātem" "will"
    "voluntās, voluntātis" "will"
+   
    "volvissent" "they (might) have had rolled"
    "volvō, volvere, volvī, volūtum" "to roll, to tumble"
+   
    "vōs" "you"
    "vōtum, vōtī" "vow"
    "vōtum" "vow"
