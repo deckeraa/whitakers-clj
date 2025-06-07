@@ -127,6 +127,7 @@
    "Brittanniam" "Britain (accusative case)"
    "Brittannicae" "of the Brittannic (genitive case)"
    "Brittannīcō" "Britannic (dative case)"
+   "brittannīcō" "Britannic (dative case)"
    "Brittannicīs" "Britannic (ablative case)"
    "Caiphā" "Ablative of Caiphas, a high priest involved with the crucifixion of Christ."
    "candida" "bright, white, clean; singular feminine nominative from candidus, candida, candidum"
@@ -1725,6 +1726,9 @@
    "ablāta" "things having been carried away"
    "ablātīs" "things having been carried away"
 
+   "atavus" "ancestor"
+   "atavus, atavī" "ancestor"
+
    "attingēbat" "they were touching"
    "attingit" "it touches, it borders"
    "attingō, attingere, attigī, attāctus" "to touch, to border on, to reach"
@@ -2448,6 +2452,10 @@
    "cīvitātis" "citizens, city-state"
    "cīvitās, cīvitātis" "citizens, city-state"
 
+   "clāde" "ruins, destruction, defeat"
+   "clādēs" "ruins, destruction, defeat"
+   "clādēs, clādis" "ruins, destruction, defeat"
+
    "clāmitābat" "he was yelling"
    "clāmitō, clāmitāre, clāmitāvī, clāmitātus" "to yell"
 
@@ -2458,7 +2466,9 @@
    "clāmō, clāmāre, clāmāvī, clāmātus" "to shout"
 
    "clāruit" "he became bright, loud"
+   "clāruērunt" "they became bright, loud"
    "clārēscere" "to become bright, loud"
+   "clārēscō, clārēscere, clāruī, -" "to become bright, loud"
 
    "clāriōra" "clearer"
    "clāritās" "clarity, brightness"
@@ -3683,7 +3693,8 @@
    "dīluvium" "flood, destruction"
    "dīluvium, dīluviī" "flood, destruction"
 
-   "they fight" "dīmicent"
+   "dīmicābat" "he fought"
+   "dīmicent" "they fight"
    "dīmicō, dīmicāre, dīmicāvī, dīmicātus" "to fight"
    
    "dīmīsērunt" "they sent away, they dismissed"
@@ -4324,6 +4335,7 @@
    "expelleret" "he drove out, expelled"
    "expulit" "he drove out, expelled"
    "expellēbantur" "they were driven out"
+   "expulērunt" "they expelled"
    "expellō, expellere, expulī, expulsus" "to drive out, to expel"
 
    "exsequī" "to follow"
@@ -5637,6 +5649,7 @@
    "ingentem" "huge, enormous"
    "ingentēs" "huge, enormous"
    "ingentī" "huge, enormous"
+   "ingentissimā" "very large"
    "ingēns, ingentis (gen.), ingentior -or -us, ingentissimus -a -um" "huge, enormous"
    "ingeret" "he will carry in"
    "ingerō, ingerere, ingessī, ingestus" "to carry in, to throw in"
@@ -8137,6 +8150,9 @@
    "podagra" "gout (inflamed swellings) in the feet"
    "podagra, podagrae" "gout (inflamed swellings) in the feet"
 
+   "poēmate" "poem"
+   "poēma, poēmatis" "poem"
+
    "poenam" "penalty, punishment"
    "poenās" "penalty, punishment"
    "poena, poenae" "penalty, punishment"
@@ -8969,7 +8985,8 @@
    "rēgnantem" "reigning"
    "rēgnāvit" "he reigned"
    "regnavērunt" "they reigned"
-   "rēgnārent" "they had reigned"
+   "rēgnāret" "he reigned"
+   "rēgnārent" "they reigned"
    "rēgnantibus" "reigning"
    "rēgnāre" "to reign"
    "rēgnō, rēgnāre, rēgnāvī, rēgnātus" "to reign"
