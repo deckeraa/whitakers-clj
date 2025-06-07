@@ -210,8 +210,9 @@
    "dumnorix" "Dumnorix, an Aeduan, the brother of Divitiacus"
    "dumtaxat" "only"
    "duo" "two"
-   "duodecim" "two"
-   "duodecimum" "two"
+   "duodecim" "twelve"
+   "duodecimō" "twelfth (ablative of duodecim)"
+   "duodecimum" "twelve"
    "duōs" "two"
    "ē" "out of, from"
    "ea" "it; singular feminine nominative or plural neuter nom. or acc. from is, ea, id"
@@ -1855,8 +1856,10 @@
    "baptistam" "baptist"
    "baptista, baptistae" "baptist"
 
+   "baptīzātī" "having been baptized"
    "baptīzātus" "having been baptized"
    "baptīzāvit" "he baptipzed"
+   "baptīzāre" "to baptize"
    "baptīzō, baptīzāre, baptīzāvī, baptīzātus" "to baptize"
    
    "barba" "beard"
@@ -3187,7 +3190,8 @@
    "creāvērunt" "they created"
    "creō, creāre, creāvī, creātum" "to create"
    "creātī" "of the thing created"
-   
+
+   "crēdidērunt" "they believed"
    "crēdidī" "I believed, I entrusted"
    "crēdidit" "he believed"
    "crēdidistī" "you believed"
@@ -3557,6 +3561,10 @@
    
    "dēspēximus" "we disdained"
    "dēspiciō, dēspicere, dēspēxī, dēspectus" "to disdain"
+
+   "dēstinante" "determining"
+   "dēstinō, dēstināre, dēstināvī, dēstinātus" "to determine"
+
    "dēstinātum" "target, purpose, destination"
    "dēstinātum, dēstinātī" "target, purpose, destination"
 
@@ -3694,6 +3702,7 @@
    "dīluvium, dīluviī" "flood, destruction"
 
    "dīmicābat" "he fought"
+   "dīmicāvērunt" "they fought"
    "dīmicent" "they fight"
    "dīmicō, dīmicāre, dīmicāvī, dīmicātus" "to fight"
    
@@ -4302,6 +4311,10 @@
    "expectō" "I await, I expect"
    "expectō, expectāre, expectāvī, expectātus" "to await, to expect"
    "expectantēs" "expecting"
+
+   "expedītiō" "expedition, campaign"
+   "expedītiōne" "expedition, campaign"
+   "expedītiō, expedītiōnis" "expedition, campaign"
 
    "expedītius" "freer, more unburdened"
    "expedītum" "free, unburdened"
@@ -5734,6 +5747,10 @@
    "īnsita" "planted"
    "īnsitus, īnsita, īnsitum" "planted"
 
+   "īnstaurātiō" "renewal, repetition"
+   "īnstaurātiōne" "renewal, repetition"
+   "īnstaurātiō, īnstaurātiōnis" "renewal, repetition"
+
    "īnstitūta"  "customs, principles, institutions"
    "īnstitūtum" "custom, principle, institution"
    "īnstitūtīs" "customs, principles, institutions"
@@ -5897,6 +5914,9 @@
    "invidet" "he envies, is jealous"
    "invideō, invidēre, invīdī, invīsus" "to envy, be jealous"
 
+   "invidiā" "envy, spite"
+   "invidia, invidiae" "envy, spite"
+
    "invīsibilis" "invisible"
    "invīsibil, (gen.), invīsibilis" "invisible"
 
@@ -5976,6 +5996,7 @@
    "iūdex, iūdicis" "judge"
 
    "iugulātī" "having been butchered"
+   "iugulātus" "having been butchered"
    "iugulō, iugulāre, iugulāvī, iugulātus" "to butcher, cut the throat"
 
    "iūmentōrum" "of baggage animals"
@@ -6800,6 +6821,7 @@
    "mittō" "I send"
    "mittunt" "they send"
    "mittuntur" "they are being sent"
+   "mittente" "sending"
    "mitteret" "he was sending"
    "mittere" "to send"
    "mittō, mittere, mīsī, missus" "to send"
@@ -8346,6 +8368,10 @@
    "praeda"  "plunder"
    "praedae" "plunder"
    "praeda, praedae" "plunder"
+
+   "praedicātiō" "public proclamation"
+   "praedicātiōnem" "public proclamation"
+   "praedicātiō, praedicātiōnis" "public proclamation"
 
    "praefectus" "prefect, officer"
    "praefectus, praefectī" "prefect, officer"
@@ -10712,6 +10738,7 @@
    "uxōre" "wife"
    "uxōrem" "wife"
    "uxōrēs" "wives"
+   "uxōrī" "wife"
    "uxōribus" "wives"
    "uxor, uxōris" "wife"
 
