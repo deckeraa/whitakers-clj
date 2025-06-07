@@ -609,6 +609,7 @@
    "quamquam" "though, on the other hand"
    "quamvīs" "as much, as much as one wants, however"
    "quanta" "how much?"
+   "quāpropter" "that's why"
    "quārē" "by what mean?"
    "quārtum" "for the fourth time"
    "quārtus" "fourth"
@@ -1650,6 +1651,7 @@
    "arripiō, arripere, arripuī, arreptus" "to take hold of, to snatch, to arrest"
 
    "ars" "art, skill"
+   "artem" "art, skill"
    "artis" "of art"
    "ars, artis" "art, skill"
 
@@ -3021,6 +3023,7 @@
    "cōnsummātīs" "being accomplished, being ended"
    "cōnsummō, cōnsummāre, cōnsummāvī, cōnsummātus" "to accomplish, to end, to consume"
 
+   "cōnsurgēns" "standing up, rising"
    "cōnsurgit" "he stands up, he rises up"
    "cōnsurgō, cōnsurgere, cōnsurrēxī, cōnsurrēctus" "to stand up, to rise up"
 
@@ -3602,6 +3605,9 @@
    "diabolum" "devil, demon"
    "diabolus" "devil, demon"
    "diabolus, diabolī" "devil, demon"
+
+   "diabolicum" "diabolic, devilish"
+   "diabolicus, diabolica, diabolicum" "diabolic, devilish"
 
    "dīc" "say!"
    "dīcam" "I will say"
@@ -8901,6 +8907,7 @@
    "redditum" "having being returned"
    "reddō, reddere, reddidī, redditus" "to return, to render"
    "reddētur" "to be returned"
+   "reddidit" "he returned"
 
    "redēmptiō" "redemption"
    "redēmptiōne" "redemption"
@@ -11149,6 +11156,7 @@
    "vocāris" "you will have been called"
    "vocor" "I am called"
    "vocandō" "calling"
+   "vocātus" "having been called"
    "vocō, vocāre, vocāvī, vocātus" "to call, to summon"
 
    "vōciferātus" "having been yelled"
