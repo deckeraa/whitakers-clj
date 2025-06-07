@@ -723,6 +723,7 @@
    "sēdecim" "16"
    "semetipsum" "he himself"
    "semper" "always"
+   "sēparātim" "separately, apart"
    "septem" "seven"
    "septimum" "seventh"
    "septimus" "seventh"
@@ -1639,6 +1640,10 @@
    "āridam" "dry"
    "āridum" "dry"
    "āridus, ārida -um, āridior -or -us, āridissimus -a -um" "dry"
+
+   "ariēs" "ram"
+   "arietum" "of rams"
+   "ariēs, arietis" "ram"
 
    "armāmentīs" "equipmento"
    "armāmentum, armāmentī" "equipment"
@@ -2602,6 +2607,9 @@
    "collēctiō, collēctiōnis" "collection"
    "collēctiōne" "collection"
 
+   "collīdunt" "they collide"
+   "collīdō, collīdere, collīsī, collīsus" "to collide"
+
    "colligam" "I will assemble, collect"
    "colligās" "you (might) collect"
    "colligite" "collect!"
@@ -2877,6 +2885,7 @@
    "congregāre" "to congregate, gather"
    "congregārī" "to be gathered"
    "congregāta" "having been gathered"
+   "congregantur" "they are gathered"
    "congregō, congregāre, congregāvī, congregātus" "to congregate, gather"
    
    "congregātiōne" "congregation"
@@ -3137,6 +3146,7 @@
    "cōpia, cōpiae" "forces"
 
    "coxit" "he cooked"
+   "coquitur" "it is cooked"
    "coquināre" "to cook"
    "coquinō, coquināre, coquināvī, coquinātus" "to cook"
    
@@ -3271,6 +3281,7 @@
    "cultus" "cult, civilization"
    "cultus, cultūs" "cult, civilization"
 
+   "cumulī" "heaps, piles"
    "cumulum" "heap, pile"
    "cumulus, cumulī" "heap, pile"
 
@@ -4098,6 +4109,10 @@
 
    "ēlucubrābō" "I will burn the midnight oil"
    "ēlucubrō, ēlucubrāre, ēlucubrāvī, ēlucubrātus" "to burn the midnight oil"
+
+   "ēmergunt" "they emerge, appear"
+   "ēmergere" "to emerge, appear"
+   "ēmergō, ēmergere, ēmersī, ēmersus" "to emerge, appear"
 
    "ēmīsimus" "we sent out"
    "ēmīsisset" "he (might) have had sent out"
@@ -5915,6 +5930,10 @@
    "introitum" "entrance"
    "introitus, introitūs" "entrance"
 
+   "inundantur" "they are flooded"
+   "inundāre" "to flood"
+   "inundō, inundāre, inundāvī, inundātus" "to flood"
+
    "inūsitātior" "more unusual"
    "inūsitātō" "unusual"
    "inūsitātus, inūsitāta -um, inūsitātior -or -us, inūsitātissimus -a -um" "unusual"
@@ -5943,6 +5962,7 @@
    "inventum" "having been found"
    "inventus" "having had found"
    "inveniās" "you discover"
+   "inveniuntur" "they are discovered"
    "inveniō, invenīre, invēnī, inventum" "to find"
 
    "invidet" "he envies, is jealous"
@@ -8534,6 +8554,8 @@
    "probāre" "to approve, to commend, to demonstrate"
    "probō, probāre, probāvī, probātus" "to approve, to commend, to demonstrate"
 
+   "procēdit" "he proceeds"
+   "procēdunt" "they proceed"
    "procēditur" "it is proceeded, advanced"
    "processisset" "he (might) have had proceeded"
    "procēdere" "to proceed"
@@ -9440,8 +9462,10 @@
    "sagus" "sage"
    "sagī" "sage"
    "sagus, sagī" "sage"
-   "sāl, salis" "salt"
+   
+   "sāl" "salt"
    "sale" "salt"
+   "sāl, salis" "salt"
 
    "salīnārum" "of salt-pits"
    "salīnae, salīnārum" "salt-pits"
@@ -9449,6 +9473,11 @@
    "saltus" "narrow pass, mountain defile, leap, jump"
    "saltūs" "narrow pass, mountain defile, leap, jump"
    "saltus, saltūs" "narrow pass, mountain defile, leap, jump"
+
+   "salī" "high sea"
+   "salō" "high sea"
+   "salum" "high sea"
+   "salum, salī" "high sea"
    
    "salūs" "health, soundness"
    "salūtem" "health, soundness"
@@ -9582,6 +9611,11 @@
    "scurrīlitās" "buffoonery"
    "scurrīlitās, scurrīlitātis" "buffoonery"
    "scurrīlitātem" "buffoonery"
+
+   "sēcēdit" "he withdraws"
+   "sēcēdere" "to withdraw"
+   "sēcēdō, sēcēdere, sēcessī, sēcessus" "to withdraw"
+   
    "sēcrēta" "secrets"
    "sēcrētīs" "secrets"
    "sēcrētum, sēcrētī" "secret"
@@ -9988,10 +10022,13 @@
    "spontāneus, spontānea, spontāneum" "spontaneous"
    "sportam" "basket"
    "sporta, sportae" "basket"
+   
    "spūma" "foam"
    "spūmae" "foam"
+   "spūmārum" "of foam"
    "spūmās" "foam"
    "spūma, spūmae" "foam"
+   
    "spūmantem" "foaming"
    "spūmō, spūmāre, spūmāvī, spūmātus" "to foam"
 
