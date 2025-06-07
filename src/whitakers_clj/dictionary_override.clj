@@ -2131,6 +2131,7 @@
    "campānae" "bells"
    "campāna, campānae" "bell"
 
+   "campī" "fields"
    "campō" "field"
    "campum" "field"
    "campus, campī" "field"
@@ -7969,6 +7970,7 @@
    
    "pereat" "may it perish"
    "perivērunt" "they perished"
+   "perīvit" "he perished"
    "pereō, perīre, perivī(iī), peritus" "to perish"
    
    "perlustrābant" "they were wandering through"
@@ -9989,6 +9991,7 @@
    "status, statūs" "state, status"
 
    "strāgem" "overthrow, destruction"
+   "strāgēs" "overthrow, destruction"
    "strāgēs, strāgis" "overthrow, destruction"
    
    "strāta" "paved road"
