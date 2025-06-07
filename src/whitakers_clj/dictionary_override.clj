@@ -73,6 +73,7 @@
    "ambiorīgis" "Ambiorīx, king of the Eburones with Catuvolcus (genitive case)"
    "ambiorige" "Ambiorix, king of the Eburones with Catuvolcus (ablative case)"
    "ambiorigem" "Ambiorix, king of the Eburones with Catuvolcus (accusative case)"
+   "ambrōnum" "of the Ambrones, a tribe of Denmark"
    "amen" "amen, truly, verily"
    "an" "or? rather?"
    "Annā" "Ablative of Annas, a high priest involved with the crucifixion of Christ."
@@ -980,6 +981,7 @@
    "assum, adesse, affuī, affuturus" "to be present"
    
    "addidit" "he added"
+   "addidērunt" "they added"
    "addit" "he adds"
    "addō, addere, addidī, additus" "to add"
 
@@ -1264,7 +1266,7 @@
 
    "aliēnum" "strange, unfamiliar"
    "aliēnus, aliēna -um, aliēnior -or -us, alienissimus -a -um" "strange, unfamiliar"
-   
+
    "aliōrum" "of others"
    "alium" "other"
    "aliud" "other"
@@ -2724,6 +2726,9 @@
    "computātur" "it is calculated, it is reckoned"
    "computō, computāre, computāvī, computātum" "to calculate, to reckon"
 
+   "computō" "computation"
+   "computus, computī" "computation"
+
    "cōnāta" "attempts, efforts"
    "cōnātum, cōnātī" "attempt, effort"
    
@@ -3132,6 +3137,7 @@
    "corripere" "to grasp, shorten, hasten"
    "corripiō, corripere, corripuī, correptus" "to grasp, shorten, hasten"
 
+   "corruit" "he ccollapsed, destroyed"
    "corruērunt" "they collapsed"
    "corruere" "to collapse"
    "corruō, corruere, corruī, corrutus" "to collapse"
@@ -4248,6 +4254,7 @@
    "exilium, exiliī" "exile"
 
    "extitit" "he stood out"
+   "extitērunt" "they stood out"
    "extō, extāre, extitī, -" "to stand out"
 
    "exīstimābat" "he was estimating, valuing"
@@ -4765,6 +4772,9 @@
    "frātribus" "brothers"
    "frātrum" "of brothers"
 
+   "frātruēlem" "fraternal nephew"
+   "frātruēlis, frātruēlis" "fraternal nephew"
+
    "frēna" "bridle"
    "frēnī" "bridle"
    "frēnīs" "bridle"
@@ -4896,8 +4906,10 @@
    "gemma, gemmae" "gem, jewel"
 
    "geneālogia" "genealogy"
+   "geneālogiae" "genealogies"
    "geneālogia, geneālogiae" "genealogy"
 
+   "genuit" "he begot"
    "genitus" "having been born"
    "genō, genere, genuī, genitus" "to give birth to, beget"
    
@@ -8915,6 +8927,10 @@
    "rēgia" "royal palace, court"
    "rēgiīs" "royal palaces, courts"
    "rēgia, rēgiae" "royal palace, court"
+
+   "rēgīna" "queen"
+   "rēgīnam" "queen"
+   "rēgīna, rēgīnae" "queen"
    
    "regiō" "region"
    "regiōne" "region"
@@ -9153,6 +9169,7 @@
    "rēgēs" "kings"
    "rēgī" "king"
    "rēgibus" "kings"
+   "rēgum" "of kings"
    "rēx" "king"
    "rēx, rēgis" "king"
 
@@ -9193,10 +9210,12 @@
    "rapīnam" "robbery, pillage"
    "rapīna, rapīnae" "robbery, pillage"
    "rōborāminī" "you are strengthened"
+
+   "rōbore" "made of oak"
    "roborīnō" "made of oak"
    "rōbur, rōboris" "oak"
    "rōborō, rōborāre, rōborāvī, rōborātus" "to strengthen"
-   
+
    "rogābant" "they were asking"
    "rogāre" "to ask"
    "rogō, rogāre, rogāvī, rogātus" "to ask"
@@ -10722,6 +10741,9 @@
    "vāticinātiōnem" "prophecy"
    "vāticinātiō, vāticinātiōnis" "prophecy"
 
+   "vectīgal" "tax, tribute, revenue"
+   "vectīgal, vectīgālis" "tax, tribute, revenue"
+
    "vehēbantur" "was being carried"
    "vehō, vehere, vēxī, vectus" "to carry"
    
@@ -10885,6 +10907,7 @@
    "victima, victimae" "sacrificial victim"
 
    "victor" "victor"
+   "victōrēs" "victors"
    "victor, victōris" "victor"
 
    "victōria" "victory"
