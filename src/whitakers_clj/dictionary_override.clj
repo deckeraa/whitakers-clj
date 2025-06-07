@@ -5782,6 +5782,7 @@
    "interfectum" "having been killed"
    "interfectus" "having been killed"
    "interfēcissent" "they (might) have had killed"
+   "interfectī" "having been killed"
    "interficiendī" "killing"
    "interficerētur" "he killed"
    "interficiāris" "you kill"
@@ -5944,6 +5945,9 @@
    "itineris" "journey, trip"
    "iter, itineris" "journey, trip"
    "itinere" "journey, trip"
+
+   "iterātum" "having been repeated"
+   "iterō, iterāre, iterāvī, iterātus" "to repeat"
 
    "iubent" "they command"
    "iubēre" "to command"
@@ -7004,6 +7008,7 @@
    "natāvit" "he swam"
    "natō, natāre, natāvī, natātus" "to swim"
 
+   "nātiōne" "race, tribe, nation"
    "nātiōnibus" "race, tribe, nation"
    "nātiō, nātiōnis" "race, tribe, nation"
    
@@ -7543,6 +7548,11 @@
    "orientālī" "eastern"
    "orientālis, orientālis, orientāle" "eastern"
 
+   "orīgine" "origin"
+   "orīginis" "origin"
+   "orīgō" "origin"
+   "orīgō, orīginis" "origin"
+
    "ōrābat" "he was praying"
    "ōrābant" "they were praying"
    "ōrāre" "to pray"
@@ -7555,6 +7565,7 @@
    "orīrī" "to originate, to arise"
    "orior, orīrī, ortus sum" "to originate, to arise"
 
+   "ortū" "rising, beginning"
    "ortum" "rising, beginning"
    "ortus" "rising, beginning"
    "ortus, ortūs" "rising, beginning"
@@ -9570,6 +9581,7 @@
    "sēparāret" "he divided, separated"
    "sēparāte" "divide! separate!"
    "sēparārī" "to be divided, separated"
+   "sēparāvit" "he divided, separated"
    "sēparō, sēparāre, sēparāvī, sēparātus" "divide, separate"
 
    "sepelīvērunt" "they buried"
@@ -10607,6 +10619,9 @@
    "undae" "waves"
    "undās" "waves"
    "unda, undae" "waves"
+
+   "ūnxit" "he anointed"
+   "ungō, ungere, unxī, unctus" "to anoint"
    
    "ungulās" "claws, hooves"
    "ungula, ungulae" "claw, hoof"
