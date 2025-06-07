@@ -726,6 +726,7 @@
    "septimum" "seventh"
    "septimus" "seventh"
    "septimō" "seventh"
+   "septuāgintā" "70"
    "sēsē" "himself"
    "seu" "or, what if"
    "sex" "six"
@@ -3753,6 +3754,10 @@
    "discoopertum" "having been uncovered"
    "discooperiō, discooperīre, discooperuī, discoopertus" "to bare, to disclose"
 
+   "discordia" "discord, disagreement"
+   "discordiam" "discord, disagreement"
+   "discordia, discordiae" "discord, disagreement"
+
    "discrīmen" "distinction, division"
    "discrīmen, discrīminis" "distinction, division"
    
@@ -4517,6 +4522,9 @@
    "fēlīcitātis" "happiness, fruitfulness"
    "fēlīcitās, fēlīcitātis" "happiness, fruitfulness"
 
+   "fēlīcī" "happy"
+   "fēlīx, fēlīcis (gen.), fēlīcior -or -us, fēlīcissimus -a -um" "happy"
+
    "fēmina"  "woman, wife"
    "fēminam" "woman, wife"
    "fēmina, fēminae" "woman, wife"
@@ -4932,6 +4940,8 @@
    "gaudēns" "rejoicing"
    "gaudet" "he rejoices"
    "gaudeō, gaudēre, gavīsus sum" "to rejoice"
+
+   "geminīs" "twins"
    
    "gemmārum" "of gems"
    "gemmīs" "gems"
@@ -9103,6 +9113,9 @@
    "repentīnae" "unexpected, sudden"
    "repentīnī" "unexpected, sudden"
    "repentīnus, repentīna, repentīnum" "unexpected, sudden"
+
+   "reperiuntur" "they are discovered"
+   "reperiō, reperīre, repperī, repertus" "to discover, find out"
 
    "repetendus" "demanding back, returning"
    "repetō, repetere, repetīvī, repetītus" "to demand back, return"
