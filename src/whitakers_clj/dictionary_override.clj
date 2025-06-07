@@ -2453,6 +2453,7 @@
    "cīvitās" "citizens, city-state"
    "cīvitāte" "citizens, city-state"
    "cīvitātem" "civilization"
+   "cīvitātum" "of civilizations"
    "cīvitātēs" "citizens, city-states"
    "cīvitātī" "citizens, city-state"
    "cīvitātibus" "citizens, city-states"
