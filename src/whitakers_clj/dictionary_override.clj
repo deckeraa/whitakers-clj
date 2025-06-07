@@ -396,6 +396,7 @@
    "inlūxit" "he began to shine; from inlūcēscō, inlūcēscere, inlūxī, -"
    "innocenter" "innocently"
    "inquantum" "insofar as"
+   "īnstar" "as big as"
    "inter" "between, among, during"
    "intereā" "during"
    "interfecta" "interfect est = was killed"
@@ -1335,6 +1336,14 @@
    "amārīs" "bitter, harsh"
    "amārus, amāra, amārum" "bitter, harsh"
 
+   "ambītur" "it is incircled"
+   "ambīre" "to go around, circle, embrace"
+   "ambiō, ambīre, ambīvī, ambītus" "to go around, circle, embrace"
+
+   "ambitū" "edge, orbit, circuit"
+   "ambitus" "edge, orbit, circuit"
+   "ambitus, ambitūs" "edge, orbit, circuit"
+
    "ambulābat" "he was walking"
    "ambulābant" "they were walking"
    "ambulantibus" "walking"
@@ -1550,6 +1559,7 @@
    "aquam" "water"
    "aquās" "water"
 
+   "aquilae" "eagle, eagle standard"
    "aquilam" "eagle, eagle standard"
    "aquila, aquilae" "eagle, eagle standard"
 
@@ -2109,7 +2119,8 @@
 
    "calceāmentum" "shoe"
    "calceāmentum, calceāmentī" "shoe"
-   
+
+   "calidum" "hot, warm"
    "calidus" "hot, warm"
    "calidus, calida -um, calidior -or -us, calidissimus -a -um" "hot, warm"
    
@@ -4709,6 +4720,7 @@
    "fluēbant" "they were flowing"
    "fluentēs" "flowing"
    "fluit" "it flows"
+   "fluunt" "they flow"
    "fluō, fluere, flūxī, flūxus" "to flow"
    
    "flūctuum" "of waves, of billows, of turbulence"
@@ -4828,6 +4840,10 @@
    "frequenter" "frequently"
    "fretō" "strait, channel"
    "fretum, fretī" "strait, channel"
+
+   "frīgidum" "cold"
+   "frīgidum, frīgidī" "cold"
+   
    "frīgus, frīgoris" "cold"
    "frīgus" "cold"
    "frīgoris" "cold"
@@ -6208,7 +6224,11 @@
 
    "laude" "praise"
    "laus, laudis" "praise"
-   
+
+   "lavācrum" "bath"
+   "lavācrum, lavācrī" "bath"
+
+   "lavandum" "washing"
    "lavantur" "are being washed"
    "lavātis" "you wash"
    "lavandōs" "washing"
@@ -6358,6 +6378,7 @@
    "littus, littoris" "beach, shore"
    
    "lītus" "beach, shore"
+   "lītora" "beaches, shores"
    "lītore" "beach, shore"
    "lītus, lītoris" "beach, shore"
    
@@ -6580,6 +6601,7 @@
    "manus, manūs" "hand"
    
    "mare" "sea"
+   "maria" "seas"
    "maris" "sea"
    "mare, maris" "sea"
    "marī" "sea"
@@ -7017,7 +7039,8 @@
    
    "mūnera" "gifts"
    "mūnus, mūneris" "gift"
-   
+
+   "mūrō" "city wall"
    "mūrum" "city wall"
    "mūrus" "city wall"
    "mūrus, mūrī" "city wall"
@@ -7177,6 +7200,9 @@
 
    "necis" "death, slaughter"
    "nex, necis" "death, slaughter"
+
+   "nīdus" "nest"
+   "nīdus, nīdī" "nest"
 
    "nihilō" "nothing"
    "nihilum, nihilī" "nothing"
@@ -8142,6 +8168,7 @@
    "placēbat" "it was pleasing"
    "placet" "it pleases"
    "placuit" "he pleased"
+   "placuerit" "it will have pleased"
    "placēre" "to please"
    "placeō, placēre, placuī, placitus" "to please"
    
@@ -8882,6 +8909,7 @@
    "recēdās" "you (might) recede, withdraw"
    "recēde" "recede! withdraw!"
    "recēdēbant" "they were receding, they were withdrawing"
+   "recēdit" "it recedes"
    "recēdite" "withdraw!"
    "recēdō, recēdere, recessī, recessus" "to recede, to withdraw"
 
@@ -9355,6 +9383,11 @@
 
    "ruit" "it falls, it fell"
    "ruō, ruere, ruī, rūtus" "to fall down"
+
+   "rūpe" "cliff"
+   "rūpēs" "cliff"
+   "rūpibus" "cliffs"
+   "rūpēs, rūpis" "cliff"
 
    "rūra" "farms"
    "rūs, rūris" "country"
@@ -10285,6 +10318,9 @@
    "tangere" "to touch, to strike"
    "tangō, tangere, tetigī, tāctus" "to touch, to strike"
 
+   "tegit" "it covers, hides"
+   "tegō, tegere, tēxī, tēctus" "to cover, hide"
+
    "televisōrium" "television"
    "televisōrium, televisōriī" "television"
 
@@ -10789,6 +10825,9 @@
    
    "vāde" "go!"
    "vādō" "I go"
+   "vādit" "he goes"
+   "vādunt" "they go"
+   "vādere" "to go, to walk"
    "vādō, vādere, vāsī, -" "to go, to walk"
 
    "valuit" "he was healthy, able, strong"
