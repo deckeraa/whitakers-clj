@@ -607,6 +607,7 @@
    "quā" "what; singular female ablative of qui"
    "quae" "who; plural female nom. or neuter nom. or acc. of quis"
    "quam" "how? how much?"
+   "quamdiū" "as long as"
    "quamquam" "though, on the other hand"
    "quamvīs" "as much, as much as one wants, however"
    "quanta" "how much?"
@@ -3536,6 +3537,10 @@
    "dēnsissimīs" "very dense"
    "dēnsus, dēnsa -um, dēnsior -or -us, dēnsissimus -a -um" "dense"
 
+   "dēnūdātur" "it is uncovered"
+   "dēnūdāre" "to uncover"
+   "dēnūdō, dēnūdāre, dēnūdāvī, dēnūdātus" "to uncover"
+
    "dēnūntiābat" "he was foretelling, giving notice"
    "dēnūntiāre" "to foretell, to give notice"
    "dēnūntiō, dēnūntiāre, dēnūntiāvī, dēnūntiātus" "to foretell, to give notice"
@@ -3620,6 +3625,7 @@
    "dēvorāre" "to devour"
    "dēvorātum" "having been devoured"
    "dēvorāvērunt" "they devoured"
+   "dēvorāvit" "he devoured"
    "dēvorō, dēvorāre, dēvorāvī, dēvorātus" "to devour"
    
    "dēvorātōrem" "devourer, glutton"
@@ -3649,6 +3655,7 @@
    "dīcit" "he says"
    "dīcitur" "it is said"
    "dictā" "having been said"
+   "dictī" "things having been said"
    "dictīs" "things having been said"
    "dictō" "having been said"
    "dīcunt" "they say"
@@ -3751,10 +3758,12 @@
    "dīra" "ominous, dreadful"
    "dīrās" "ominous, dreadful"
    "dīrus, dīra -um, dīrior -or -us, dīrissimus -a -um" "ominous, dreadful"
+   
    "dīrigis" "you align, you direct"
    "dīrigit" "he aligns, he directs"
    "dīrigēbat" "he was aligning/directing"
    "dīrigite" "arrange! direct!"
+   "dīrēxerit" "he will have aligned, directed"
    "dīrigō, dīrigere, dīrēxī, dīrēctus" "to arrange in line, to align, to direct"
 
    "dītis" "rich"
@@ -4153,6 +4162,7 @@
    "equitiō" "herd or stable of horses used for breeding"
    "equitium, equitia" "herd or stable of horses used for breeding"
 
+   "equī" "horse"
    "equīs" "horses"
    "equōrum" "of horses"
    "equōs" "horses"
@@ -4190,6 +4200,10 @@
    "errantēs" "wandering, erroring"
    "errat" "he wanders, errs"
    "errō, errāre, errāvī, errātus" "to wander, to go astray"
+
+   "ērūctat" "it erupts, vomits"
+   "ērūctāre" "to erupt, vomit"
+   "ērūctō, ērūctāre, ērūctāvī, ērūctātus" "to erupt, vomit"
 
    "ērudītus" "having been educated, taught"
    "ērudīrī" "to be educated, to be taught, to be instructed"
@@ -4901,7 +4915,8 @@
    "fugit" "he flees, he fled"
    "fugite" "flee"
    "fugiō, fugere, fūgī, fugitus" "to flee, to avoid"
-   
+
+   "fuerit" "it will have been"
    "fuī" "I was"
    "fuimus" "we were"
    "fuisse" "to have been"
@@ -5331,6 +5346,10 @@
    "humilem" "humble, small"
    "humiliter" "humbly"
    "humilis, humile, humilior -or -us, humillimus -a -um" "humble, small"
+
+   "hūmor" "liquid"
+   "hūmōre" "liquid"
+   "hūmor, hūmōris" "liquid"
    
    "hymnīs" "hymns"
    "hymnō" "hymn"
@@ -5930,6 +5949,7 @@
    "introitum" "entrance"
    "introitus, introitūs" "entrance"
 
+   "inundatur" "it is flooded"
    "inundantur" "they are flooded"
    "inundāre" "to flood"
    "inundō, inundāre, inundāvī, inundātus" "to flood"
@@ -7242,6 +7262,7 @@
    "nōbilitātis" "celebrity, fame, renown"
    "nōbilitās, nōbilitātis" "celebrity, fame, renown"
 
+   "nocet" "it harms"
    "nocēret" "he (might) have harmed"
    "nocuit" "he harmed"
    "noceō, nocēre, nocuī, nocitus" "to harm"
@@ -7696,6 +7717,8 @@
    "os, ossis" "bones"
    
    "ōstia" "doors"
+   "ōstiī" "doors"
+   "ōstiō" "door"
    "ōstium" "door"
    "ōstium, ōstiī" "door"
    "ōstium, ōsti(ī)" "door"
@@ -8933,6 +8956,7 @@
    "recēdēbant" "they were receding, they were withdrawing"
    "recēdit" "it recedes"
    "recēdite" "withdraw!"
+   "recesserit" "it will have withdrawn"
    "recēdō, recēdere, recessī, recessus" "to recede, to withdraw"
 
    "receptum" "engagement, obligation"
@@ -9405,6 +9429,10 @@
 
    "ruit" "it falls, it fell"
    "ruō, ruere, ruī, rūtus" "to fall down"
+
+   "rumpit" "he breaks, destroys"
+   "rumpere" "to break, destroy"
+   "rumpō, rumpere, rūpī, ruptus" "to break, destroy"
 
    "rūpe" "cliff"
    "rūpēs" "cliff"
@@ -10356,6 +10384,7 @@
    "tangō, tangere, tetigī, tāctus" "to touch, to strike"
 
    "tegit" "it covers, hides"
+   "tegitur" "it is covered, hidden"
    "tegō, tegere, tēxī, tēctus" "to cover, hide"
 
    "televisōrium" "television"
@@ -10536,6 +10565,8 @@
    "trāditor, trāditōris" "traitor"
    
    "trahēbat" "he was drawing, he was dragging"
+   "trahit" "he draws, drags"
+   "trahuntur" "they are drawn, dragged"
    "trahere" "to draw, to drag"
    "trahō, trahere, trāxī, tractus" "to draw, to drag"
    
@@ -10757,6 +10788,7 @@
    "ūncia, ūnciae" "a twelfth part, an ounce"
    "unda" "waves"
    "undae" "waves"
+   "undam" "wave"
    "undās" "waves"
    "unda, undae" "waves"
 
@@ -11179,7 +11211,8 @@
    "virtūtibus" "virtues, manliness, power"
    "virtutum" "of virtues, manliness, power"
    "virtūs, virtūtis" "virtue, manliness, power"
-   
+
+   "vim" "strength"
    "vīrēs" "strength"
    "vīribus"  "strength"
    "vīs, vīs" "strength, power"
@@ -11293,6 +11326,10 @@
    
    "volvissent" "they (might) have had rolled"
    "volvō, volvere, volvī, volūtum" "to roll, to tumble"
+
+   "vorāginis" "abyss, gulf, depth"
+   "vorāgō" "abyss, gulf, depth"
+   "vorāgō, vorāginis" "abyss, gulf, depth"
    
    "vōs" "you"
    "vōtum, vōtī" "vow"
@@ -11304,10 +11341,7 @@
    "vultū" "face, expression, appearance"
    "vultum" "face, expression, appearance"
    "vultus, vultūs" "face, expression, appearance"
-
-   
-
-   })
+})
 
 (defn dictionary [v]
   (when v
