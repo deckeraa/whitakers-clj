@@ -981,6 +981,7 @@
    "acervus, acervī" "heap, pile, stack"
 
    "aciē" "battle line"
+   "aciem" "sharpness, battle line"
    "aciēs, aciēī" "battle line"
 
    "adfuit" "he was present"
@@ -1285,6 +1286,9 @@
    "aliud" "other"
    "alius" "other"
    "alius, alia, aliud" "other"
+
+   "alluit" "it flows, bathes"
+   "alluō, alluere, alluī, -" "to flow, to bathe"
    
    "alligāvissent" "they (might) have had tied"
    "alligāvit" "he tied"
@@ -1373,6 +1377,7 @@
    "amīcitiam" "friendship"
    "amīcitia, amīcitiae" "friendship"
 
+   "āmīsit" "he lost, dismissed"
    "āmissīs" "having been lost, dismissed"
    "āmittere" "to lose, to dismiss"
    "āmittō, āmittere, āmīsī, āmissus" "to lose, to dismiss"
@@ -1727,6 +1732,7 @@
    "aspēxissent" "they (might) have had looked at"
    "aspiciēbat" "he was looking at"
    "aspiciēbant" "they were looking at"
+   "aspēxit" "he looked at, contemplated"
    "aspicere" "to look at, to contemplate"
    "aspiciō, aspicere, aspēxī, aspectus" "to look at, to contemplate"
 
