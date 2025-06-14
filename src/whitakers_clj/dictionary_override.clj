@@ -1140,6 +1140,11 @@
    
    "aestīvāle" "summer"
    "aestīvālis, aestīvālis, aestīvāle" "summer"
+
+   "aestās" "summer"
+   "aestātis" "summer"
+   "aestās, aestātis" "summer"
+   
    "aestus" "heat"
    "aestus, aestūs" "heat"
    "aestuābat" "it was boiling"
@@ -1306,6 +1311,7 @@
    "altitūdō, altitūdinis" "height, depth"
    
    "alta" "height"
+   "altās" "high"
    "altō" "height"
    "altum" "height"
    "altī" "height"
@@ -3440,6 +3446,7 @@
 
    "dēdūcēbant" "they escorted, removed"
    "dēdūxit" "he escorted, he removed"
+   "dēdūcunt" "they lead down, escort, remove"
    "dēdūcere" "to escort, to remove"
    "dēdūcō, dēdūcere, dēdūxī, dēductus" "to escort, to remove"
 
@@ -3630,6 +3637,10 @@
    
    "dēvorātōrem" "devourer, glutton"
    "dēvorātor, dēvorātōris" "devourer, glutton"
+
+   "dextra" "right hand, right side"
+   "dextram" "right hand, right side"
+   "dextra, dextrae" "right hand, right side"
    
    "diabolī"  "devil, demon"
    "diabolum" "devil, demon"
@@ -4723,8 +4734,12 @@
    "flamma, flammae" "flame"
    
    "flābat" "he was blowing, he was breathing"
+   "flat" "it blows"
    "flāre" "to breathe, to blow"
    "flō, flāre, flāvī, flātus" "to breathe, to blow"
+
+   "flātiō" "blowing"
+   "flātiō, flātiōnēs" "blowing"
 
    "flātū" "blowing, breathing, haughtiness"
    "flātus" "blowing, breathing, haughtiness"
@@ -4828,6 +4843,10 @@
    "fossam" "ditch, moat"
    "fossa, fossae" "ditch, moat"
 
+   "fovea" "pit, pitfall"
+   "foveae" "pit, pitfall"
+   "fovea, foveae" "pit, pitfall"
+
    "frāctiōnem" "breaking"
    "frāctiō, frāctiōnis" "breaking"
 
@@ -4856,6 +4875,10 @@
 
    "frātruēlem" "fraternal nephew"
    "frātruēlis, frātruēlis" "fraternal nephew"
+
+   "fraxinum" "ash tree, spear of ash"
+   "fraxinus" "ash tree, spear of ash"
+   "fraxinus, fraxinī" "ash tree, spear of ash"
 
    "frēna" "bridle"
    "frēnī" "bridle"
