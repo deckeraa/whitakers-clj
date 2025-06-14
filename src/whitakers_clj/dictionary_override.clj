@@ -845,6 +845,7 @@
    "ūniūs" "of one (genitive of ūnus)"
    "ūnus" "one"
    "ūnusquisque" "each one"
+   "ūnīuscuiusque" "of each one; genitive from ūnusquisque"
    "ūsque" "until, all the way, up until"
    "ūsum" "have been being used, singular neuter nominative perfect participle from ūtor, ūtī, ūsum (dep.)"
    "ut" "so that"
@@ -2054,6 +2055,7 @@
 
    "brevem" "short"
    "brevī" "short"
+   "brevis" "short"
    "brevis, breve, brevior -or -us, brevissimus -a -um" "short"
 
    "brevitās" "shortness, narrowness"
@@ -3203,6 +3205,10 @@
    
    "cortice" "bark of a tree"
    "cortex, corticis" "bark of a tree"
+
+   "cosmos" "universe"
+   "cosmī" "universe"
+   "cosmos, cosmī" "universe"
 
    "costa" "rib"
    "costās" "ribs"
@@ -4447,6 +4453,7 @@
    "extēnsīs" "have been extended"
    "extēnsa" "have been extended"
    "extendērunt" "they stretched out"
+   "extenderit" "he will have extended"
    "extendō, extendere, extendī, extentus" "to extend"
    "extendō, extendere, extendī, extensus" "to extend"
 
@@ -5136,6 +5143,10 @@
 
    "grāta" "agreeable, thankful"
    "grātus, grāta -um, grātior -or -us, grātissimus -a -um" "agreeable, thankful"
+
+   "gravābitur" "he will be burdened"
+   "gravāre" "to burden"
+   "gravō, gravāre, gravāvī, gravātus" "to burden"
 
    "gravida" "pregnant woman"
    "gravida, gravidae" "pregnant woman"
@@ -6905,6 +6916,7 @@
    "minor" "smaller"
    "parva" "small"
    "parvissimum" "smallest"
+   "parvus" "small"
    "parvus, parva -um, minor -or -us, minimus -a -um" "small"
 
    "minuī" "I diminished"
@@ -8664,6 +8676,9 @@
    "procēdere" "to proceed"
    "procēdō, procēdere, processī, processus" "to proceed"
 
+   "prōcērus" "elongated, long"
+   "prōcērus, prōcēra -um, prōcērior -or -us, prōcērissimus -a -um" "elongated, long"
+
    "prōclīvō" "inclined towards"
    "prōclīvus, prōclīva, prōclīvum" "inclined towards"
 
@@ -9285,6 +9300,7 @@
    "repentīnī" "unexpected, sudden"
    "repentīnus, repentīna, repentīnum" "unexpected, sudden"
 
+   "reperītur" "it is discovered, found"
    "reperiuntur" "they are discovered"
    "reperiō, reperīre, repperī, repertus" "to discover, find out"
 
@@ -10215,6 +10231,7 @@
    "stō, stāre, stetī, status" "to stand, to remain"
 
    "statūra" "stature"
+   "statūram" "stature"
    "statūrae" "stature"
    "statūra, statūrae" "stature"
    "statū" "state, status"
@@ -10475,6 +10492,9 @@
    "tacēre" "to be silent"
    "tacuit" "he was silent"
    "taceō, tacēre, tacuī, tacitus" "to be silent"
+
+   "taediōsus" "tedious, wearisome"
+   "taediōsus, taediōsa, taediōsum" "tedious, wearisome"
    
    "taediō" "weariness, tedium"
    "taedium" "weariness, tedium"
@@ -10811,6 +10831,7 @@
    "tumulī" "mound, hill"
    "tumulō" "mound, hill"
    "tumulum" "mound, hill"
+   "tumulus" "mound, hill"
    "tumulus, tumulī" "mound, hill"
 
    "turbīs" "disturbances, quarrels, troops"
@@ -11083,6 +11104,8 @@
    "vēnistī" "you came"
    "vēnistis" "you came"
    "veniunt" "they come"
+   "venīret" "he came"
+   "vēnerit" "he will have come"
    "veniō, venīre, vēnī, ventus" "to come"
    
    "vēnī" "I came"
