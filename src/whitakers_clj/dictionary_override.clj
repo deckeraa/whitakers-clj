@@ -8752,6 +8752,7 @@
    "prōpellō, prōpellere, prōpulī, prōpulsus" "to drive, to defeat"
 
    "properāvērunt" "they hurried"
+   "properet" "he hurries"
    "properāre" "to hurry"
    "properō, properāre, properāvī, properātus" "to hurry"
 
@@ -9186,7 +9187,9 @@
    "rēgulam" "rule, principle"
    "rēgula, rēgulae" "rule, principle"
 
+   "rēgulī" "prince"
    "rēgulōs" "princes"
+   "rēgulus" "prince"
    "rēgulus, rēgulī" "prince"
 
    "religiōsīs" "religious"
@@ -9336,6 +9339,9 @@
    "resurrēctiōnem" "resurrection"
    "resurrēctiō, resurrēctiōnis" "resurrection"
 
+   "reticēre" "to keep silent"
+   "reticeō, reticēre, reticuī, -" "to keep silent"
+
    "retinenda" "retaining"
    "retinēbant" "they were holding back, they were retaining"
    "retineō, retinēre, retinuī, retentus" "they were holding back, they were retaining"
@@ -9347,6 +9353,7 @@
    "revēlō, revēlāre, revēlāvī, revēlātus" "to show, to reveal"
    "revēlābō" "I will reveal"
    "revēlāre" "to reveal"
+   "revēlēs" "you reveal"
    
    "revēlātiō" "revelation"
    "revēlātiōnem" "revelation"
@@ -9818,6 +9825,7 @@
 
    "sepelīvērunt" "they buried"
    "sepelīvissem" "I (might) have had buried"
+   "sepelīrēmus" "we buried"
    "sepeliō, sepelīre, sepelīvī, sepultus" "to bury"
    
    "septentriōnem" "north"
@@ -9838,6 +9846,7 @@
    
    "sepultūra" "burial"
    "sepultūrae" "burial"
+   "sepultūram" "burial"
    "sepultūra, sepultūrae" "burial"
    
    "sequāx" "followers"
@@ -11080,6 +11089,7 @@
    "vereor, verērī, veritus sum" "to revere, to fear"
 
    "vēritāte" "truth"
+   "vēritātem" "truth"
    "vēritātis" "truth"
    "vēritātī" "truth"
    "vēritās, vēritātis" "truth"
@@ -11272,6 +11282,9 @@
    "virōrum" "of the men"
    "virum" "man"
 
+   "virgam" "stick"
+   "virga, virgae" "stick"
+
    "virginem" "virgin"
    "virginēs" "virgins"
    "virginis" "virgin"
@@ -11333,6 +11346,7 @@
    "vīvit" "he lives"
    "vīvunt" "they live"
    "vīvō" "I live"
+   "vīxit" "he lived"
    "vīvō, vīvere, vīxī, vīctus" "to live"
 
    "vīvī" "living"
