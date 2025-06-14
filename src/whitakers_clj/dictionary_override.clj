@@ -214,6 +214,7 @@
    "duodecimō" "twelfth (ablative of duodecim)"
    "duodecimum" "twelve"
    "duōs" "two"
+   "dūrēscere" "to become hard"
    "ē" "out of, from"
    "ea" "it; singular feminine nominative or plural neuter nom. or acc. from is, ea, id"
    "eā" "there, that way"
@@ -2466,6 +2467,10 @@
    "circuitum" "circuit, outer shore"
    "circuitus, circuitūs" "circuit, outer shore"
 
+   "circulīs" "circle, ring"
+   "circulō" "circle, ring"
+   "circulus, circulī" "circle, ring"
+
    "circumdederant" "they had surrounded"
    "circumdedērunt" "they surrounded"
    "circumdabātur" "he was being surrounded"
@@ -4627,10 +4632,12 @@
    
    "ferrāmentīs" "iron tools"
    "ferrāmentum, ferrāmentī" "iron tool"
-   
+
+   "ferrī" "iron"
    "ferrō" "iron"
    "ferrum" "iron"
    "ferrum, ferrī" "iron"
+   
    "ferreae" "made of iron"
    "ferreās" "made of iron"
    "ferreōs" "made of iron"
@@ -4714,7 +4721,9 @@
    "fīlius, fīlī" "son"
 
    "ficta" "having been molded, having been created"
+   "fingunt" "they mold, form, create"
    "fingō, fingere, fīnxī, fictus" "to mold, to form, to create"
+   
    "fīniēbat" "they were limiting, they were finishing"
    "fīniantur" "he might be finishing"
    "fīnītur" "it is finished, it is limited"
@@ -4838,6 +4847,10 @@
    "forcipe" "tongs, forceps"
    "forcipem" "tongs, forceps"
    "forceps, forcipis" "tongs, forceps"
+
+   "fōrmāverint" "they will have formed"
+   "fōrmāre" "to form"
+   "fōrmō, fōrmāre, fōrmāvī, fōrmātus" "to form"
    
    "formidāre" "to dread"
    "formidō, formidāre, formidāvī, formidātus" "to dread"
@@ -6732,6 +6745,7 @@
    "marī" "sea"
 
    "margarīta" "pearl"
+   "margarītae" "pearl"
    "margarīta, margarītae" "pearl"
 
    "marīae" "of Mary"
@@ -8780,6 +8794,7 @@
    
    "prōiēcit" "he threw down"
    "prōicere" "to throw down"
+   "prōiciunt" "they throw down"
    "prōiciō, prōicere, prōiēcī, prōiectus" "to throw down"
 
    "prōmīsērunt" "they promised"
@@ -9317,6 +9332,7 @@
 
    "reperītur" "it is discovered, found"
    "reperiuntur" "they are discovered"
+   "reperiētur" "will be discovered, found out"
    "reperiō, reperīre, repperī, repertus" "to discover, find out"
 
    "repetendus" "demanding back, returning"
@@ -10214,6 +10230,10 @@
    "stagnō" "swamp, pool"
    "stagnum" "swamp, pool"
    "stagnum, stagnī" "swamp, pool"
+
+   "stannum" "tin, or an alloy of silver and lead"
+   "stannī" "tin, or an alloy of silver and lead"
+   "stannum, stannī" "tin, or an alloy of silver and lead"
 
    "statiō"    "station, guard"
    "statiōne"  "station, guard"
