@@ -330,6 +330,7 @@
    "Iascōnium" "Jascōnius, a sea beast"
    "impedītīs" "impeded, plural masculine dative or ablative from impedītus -a -um"
    "incessanter" "incessantly"
+   "īnsēparābiliter" "inseparably"
    "iocantem" "jesting, participle from iocor, iocārī, iocātus (dep.)"
    "Iohanne" "John the Baptist"
    "Iohannem" "John the Baptist (accusative)"
@@ -2696,6 +2697,7 @@
    "commeātus, commeātūs" "voyage, supplies, provisions"
 
    "commendō" "I entrust, commit, recommend"
+   "commendāvit" "he entrusted, committed, recommended"
    "commendāre" "to entrust, to commit, to recommend"
    "commendō, commendāre, commendāvī, commendātus" "to entrust, to commit, to recommend"
    
@@ -3323,6 +3325,7 @@
 
    "cūrārat" "he had taken care to"
    "curaverat" "he had taken care to"
+   "cūrāvit" "he took care of"
    "cūrāre" "to take care to, attend to"
    "cūrō, cūrāre, cūrāvī, cūrātus" "to take care to, attend to"
 
@@ -3454,6 +3457,7 @@
    "dēdūcēbant" "they escorted, removed"
    "dēdūxit" "he escorted, he removed"
    "dēdūcunt" "they lead down, escort, remove"
+   "dēdūcerēmus" "we had lead down, escorted, removed"
    "dēdūcere" "to escort, to remove"
    "dēdūcō, dēdūcere, dēdūxī, dēductus" "to escort, to remove"
 
@@ -4956,6 +4960,12 @@
    "fuistī" "you were"
    "fuit" "he was"
    "fuistis" "you were"
+
+   "fulciēbātur" "it was supported"
+   "fulcītur" "it is supported"
+   "fulcīre""to prop up, support"
+   "fultum" "having been supported"
+   "fulciō, fulcīre, fulsī, fultus" "to prop up, support"
    
    "fūmōsus" "smoky"
    "fūmōsus, fūmōsa, fūmōsum" "smoky"
@@ -5291,6 +5301,7 @@
    "hispidus" "rough, shaggy"
    "hispidus, hispida, hispidum" "rough, shaggy"
 
+   "historia" "history, story"
    "historiae" "history, story"
    "historia, historiae" "history, story"
 
@@ -5303,6 +5314,7 @@
    "homine" "person"
    "hominem" "person"
    "hominēs" "persons"
+   "hominī" "person, man"
    "hominis" "of a person"
    "hominum" "of persons, of men"
    "hominibus" "persons, men"
@@ -5882,6 +5894,7 @@
    "integer" "whole, intact, untouched"
    "integer, integra -um, integrior -or -us, integerrimus -a -um" "whole, intact, untouched"
    "integrōs" "whole, intact, untouched"
+   "integrum" "whole, intact, untouched"
 
    "intellēctum" "intellect"
    "intellēctus" "intellect"
@@ -6154,6 +6167,7 @@
    "iūrandum, iūrandī" "oath"
 
    "iūrāvit" "he swore"
+   "iūrent" "they swear"
    "iūrō, iūrāre, iūrāvī, iūrātus" "to swear"
 
    "iūreiūrandō" "oath"
@@ -7198,6 +7212,7 @@
    "nāvigā" "sail (imperative)"
    "nāvigābam" "I was sailing"
    "nāvigābant" "they were sailing"
+   "nāvigābat" "he was sailing"
    "nāvigābimus" "we will sail"
    "nāvigābitis" "you will sail"
    "nāvigandō" "sailing"
@@ -7214,6 +7229,7 @@
    "nāvigāvissent" "they (might) have navigated"
    "nāvigandum" "sailing, navigating"
    "nāvigārī" "to be sailed"
+   "nāvigantēs" "sailing"
 
    "nāvigia" "vessels, ships, sailings, navigation"
    "nāvigiī" "vessel, ship, sailing, navigation"
@@ -8615,6 +8631,7 @@
 
    "probat" "he approves, he commends"
    "probāvimus" "we approved, we commended"
+   "probāvit" "he approved, commended"
    "probāre" "to approve, to commend, to demonstrate"
    "probō, probāre, probāvī, probātus" "to approve, to commend, to demonstrate"
 
@@ -8622,6 +8639,7 @@
    "procēdunt" "they proceed"
    "procēditur" "it is proceeded, advanced"
    "processisset" "he (might) have had proceeded"
+   "processit" "he proceeded, advanced"
    "procēdere" "to proceed"
    "procēdō, procēdere, processī, processus" "to proceed"
 
