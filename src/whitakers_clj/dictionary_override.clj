@@ -1367,6 +1367,7 @@
    "ambulantibus" "walking"
    "ambulāns" "walking"
    "ambulāre" "to walk"
+   "ambulat" "he walks"
    "ambulāvit" "he walked"
    "ambulandī" "walking"
    "ambulō, ambulāre, ambulāvī, ambulātus" "to walk"
@@ -3455,6 +3456,7 @@
    "dēclārō, dēclārāre, dēclārāvī, dēclārātus" "to announce"
    "dēcrēscant" "they (might) be decreasing"
    "dēcrēvērunt" "they decreased"
+   "dēcrēscit" "it decreased"
    "dēcrēscō, dēcrēscere, dēcrēvī, dēcrētus" "to decrease, to diminish"
    
    "dēcrētum" "decree, decision"
@@ -3694,6 +3696,7 @@
    "dīcēbantur" "they were said"
    "dicendum" "for saying"
    "dīxēre" "they said"
+   "dictae" "having been said"
    "dictam" "having been said"
    "dīxisse" "to have said"
    "dīxerō" "I will have said"
@@ -5180,6 +5183,11 @@
    "gustō, gustāre, gustāvī, gustātus" "to taste, to enjoy"
    "gustū" "taste"
    "gustus, gustūs" "taste"
+
+   "gyrātur" "it is gone around, encircled"
+   "gyrāre" "to go around"
+   "gyrō, gyrāre, gyrāvī, gyrātus" "to go around"
+   
    "gȳrum" "circle, ring, circuit, course"
    "gȳrus, gȳrī" "circle, ring, circuit, course"
    
@@ -6014,7 +6022,7 @@
    "introitum" "entrance"
    "introitus, introitūs" "entrance"
 
-   "inundatur" "it is flooded"
+   "inundātur" "it is flooded"
    "inundantur" "they are flooded"
    "inundāre" "to flood"
    "inundō, inundāre, inundāvī, inundātus" "to flood"
@@ -6279,6 +6287,7 @@
    "lapidēs" "stones"
    "lapidis" "stone"
    "lapidibus" "stones"
+   "lapis" "stone"
    "lapis, lapidis" "stone"
 
    "lāpsā" "slip! fall!"
@@ -7368,6 +7377,9 @@
    "noctīs" "nights"
    "noctium" "of nights"
 
+   "nocturnīs" "nocturnal"
+   "nocturnus, nocturna, nocturnum" "nocturnal"
+
    "nōlēmus" "we won't want"
    "nōlō" "I don't want"
    "nōluit" "he didn't want"
@@ -8025,6 +8037,9 @@
    ;; "pēditī"  "fart"
    ;; "pēditum" "fart"
    ;; "pēditum, pēditī" "fart"
+
+   "pelagī" "of the sea"
+   "pelagus, pelagī" "sea"
    
    "pellēs" "pelts, hides"
    "pellium" "of pelts, of hides"
@@ -10552,6 +10567,7 @@
    "tempus" "time, period"
    "tempore" "time, period"
    "temporis" "of times, of periods"
+   "temporibus" "of times, of periods"
    "temporum" "of times, of periods"
    "tempus, temporis" "time, period"
    
@@ -11040,6 +11056,7 @@
    "validus, valida, validum" "strong, healthy"
 
    "vallem" "valley"
+   "vallis" "valley"
    "vallis, vallis" "valley"
 
    "vallum" "wall, rampart"
@@ -11472,6 +11489,7 @@
 
    "vorāginis" "abyss, gulf, depth"
    "vorāgō" "abyss, gulf, depth"
+   "vorāgine" "abyss, gulf, depth"
    "vorāgō, vorāginis" "abyss, gulf, depth"
    
    "vōs" "you"
