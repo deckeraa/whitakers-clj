@@ -6818,6 +6818,7 @@
    "mēnsūram" "measure"
    "mēnsūra, mēnsūrae" "measure"
    "mēnsūrābat" "he was measuring"
+   "mēnsūrandum" "measuring"
    "mēnsūrō, mēnsūrāre, mēnsūrāvī, mēnsūrātus" "to measure"
    
    "meum" "my"
@@ -6854,6 +6855,9 @@
    "metendō" "reaping, cutting off"
    "metere" "to reap, to cut off"
    "metō, metere, messuī, messus" "to reap, to cut off"
+
+   "mētiēris" "you will measure"
+   "mētior, mētīrī, mēnsus, -" "to measure"
 
    "metū" "fear"
    "metus, metūs" "fear"
@@ -9851,6 +9855,7 @@
    "sepelīrēmus" "we buried"
    "sepelīvit" "he buried"
    "sepelīret" "he buried"
+   "sepultus" "having been buried"
    "sepeliō, sepelīre, sepelīvī, sepultus" "to bury"
    
    "septentriōnem" "north"
@@ -10805,6 +10810,7 @@
 
    "tumulī" "mound, hill"
    "tumulō" "mound, hill"
+   "tumulum" "mound, hill"
    "tumulus, tumulī" "mound, hill"
 
    "turbīs" "disturbances, quarrels, troops"
@@ -11076,6 +11082,7 @@
    "venīrent" "they came"
    "vēnistī" "you came"
    "vēnistis" "you came"
+   "veniunt" "they come"
    "veniō, venīre, vēnī, ventus" "to come"
    
    "vēnī" "I came"
