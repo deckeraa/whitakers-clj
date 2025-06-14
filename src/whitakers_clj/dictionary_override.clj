@@ -329,6 +329,7 @@
    "interim" "during"
    "Iascōnium" "Jascōnius, a sea beast"
    "impedītīs" "impeded, plural masculine dative or ablative from impedītus -a -um"
+   "incessanter" "incessantly"
    "iocantem" "jesting, participle from iocor, iocārī, iocātus (dep.)"
    "Iohanne" "John the Baptist"
    "Iohannem" "John the Baptist (accusative)"
@@ -5746,6 +5747,10 @@
    "īnfirmior" "weaker"
    "īnfirmus, īnfirma -um, īnfirmior -or -us, īnfirmissimus -a -um" "weak, frail, sick"
 
+   "īnflat" "it blows into"
+   "īnflāre" "to blow into"
+   "īnflō, īnflāre, īnflāvī, īnflātus" "to blow into"
+
    "ingemuit" "he sighed"
    "ingemō, ingemere, ingemuī, ingemitus" "to sigh"
    
@@ -6006,6 +6011,7 @@
    "inventus" "having had found"
    "inveniās" "you discover"
    "inveniuntur" "they are discovered"
+   "invenīrī" "to be found"
    "inveniō, invenīre, invēnī, inventum" "to find"
 
    "invidet" "he envies, is jealous"
@@ -6261,6 +6267,7 @@
    "lātitūdō" "breadth, width, latitude"
    "lātitūdō, lātitūdinis" "breadth, width, latitude"
 
+   "Latīnē" "in Latin"
    "latīnōs" "Latins, of Latium"
    "Latīnus, Latīna, Latīnum" "Latin, of Latium"
 
@@ -6578,7 +6585,8 @@
    "maiōrēs" "bigger"
    "maiōribus" "bigger"
    "maiōrum" "of the biggest"
-   
+
+   "magnitūdine" "magnitude, greatness"
    "magnitudinem" "magnitude, greatness"
    "magnitūdinis" "magnitude, greatness"
    "magnitūdō, magnitūdinis" "magnitude, greatness"
@@ -8221,6 +8229,10 @@
    "pīlī"  "hair"
    "pīlīs"  "hairs"
    "pīlus, pīlī" "hair"
+
+   "piscārī" "to fish"
+   "piscor, piscārī, piscātus" "to fish"
+   
    "pisce" "fish"
    "piscem" "fish"
    "piscēs" "fishes"
@@ -8607,6 +8619,9 @@
    "procēdere" "to proceed"
    "procēdō, procēdere, processī, processus" "to proceed"
 
+   "prōclīvō" "inclined towards"
+   "prōclīvus, prōclīva, prōclīvum" "inclined towards"
+
    "prōcōnsul" "proconsul, military commander"
    "prōcōnsul, prōcōnsulis" "proconsul, military commander"
    
@@ -8665,6 +8680,12 @@
    "profundīs" "deep, bottomless, boundless"
    "profundum" "deep, bottomless, boundless"
    "profundus, profunda, profundum" "deep, bottomless, boundless"
+
+   "profunditās" "depth, vastness"
+   "profunditātis" "depth, vastness"
+   "profunditāte" "depth, vastness"
+   "profunditātem" "depth, vastness"
+   "profunditās, profunditātis" "depth, vastness"
 
    "prōgeniē" "race, family, progeny"
    "prōgeniēī" "race, family, progeny"
@@ -9380,6 +9401,9 @@
    "rīvulīs" "small brooks, rivulets"
    "rīvulōs" "small brooks, rivulets"
    "rīvulus, rīvulī" "small brook, rivulet"
+
+   "rīvus" "small stream"
+   "rīvus, rīvī" "small stream"
    
    "rapīnam" "robbery, pillage"
    "rapīna, rapīnae" "robbery, pillage"
@@ -9925,6 +9949,7 @@
    "sit" "he (might) be"
 
    "sinistralem" "left-hand"
+   "sinistram" "left-hand"
    "sinistra, sinistrae" "left-hand"
 
    "sistitur" "it is stopped"
@@ -10589,6 +10614,7 @@
    
    "trahēbat" "he was drawing, he was dragging"
    "trahit" "he draws, drags"
+   "trahitur" "it is drawn"
    "trahuntur" "they are drawn, dragged"
    "trahere" "to draw, to drag"
    "trahō, trahere, trāxī, tractus" "to draw, to drag"
@@ -10993,6 +11019,7 @@
    "vēnistī" "you came"
    "vēnistis" "you came"
    "veniō, venīre, vēnī, ventus" "to come"
+   
    "vēnī" "I came"
    "vēnit" "he came"
    "venīte" "come!"
