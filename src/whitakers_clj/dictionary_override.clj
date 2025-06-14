@@ -924,9 +924,11 @@
 
    "abscessit" "he left"
    "abscēdō, abscēdere, abscessī, abscessus" "to leave"
-   
+
+   "abscondit" "he hid, concealed"
    "abscondō, abscondere, abscondī, absconditus" "to hide, to conceal"
    "absconditōrum" "of things hidden"
+   
    "absentia" "absence"
    "absentia, absentiae" "absence"
    
@@ -1223,6 +1225,7 @@
    "agēbant" "they drove, conducted"
    "agēbantur" "they were being driven"
    "agendum" "to be done"
+   "agō" "I conduct, act"
    "agere" "to conduct, to act"
    "agō, agere, ēgī, āctus" "to conduct, to act"
    
@@ -4491,10 +4494,13 @@
    "fābula, fābulae" "story"
    
    "faciē" "shape, figure, appearance, look"
-   "faciēbant" "they were doing, they were making"
+   "faciēbus" "shapes, figures, appearances"
    "faciēs" "shape, figure, appearance, look"
    "faciem" "shape, figure, appearance, look"
    "faciēs, faciēī" "shape, figure, appearance, look"
+   
+
+   "faciēbant" "they were doing, they were making"   
    "faciam" "I will make, I (might) make"
    "faciat" "he (might) do/make"
    "faciātis" "you (might) be making"
@@ -5570,8 +5576,9 @@
 
    "implētum" "having been filled up"
    "implentēs" "filling up"
-   "implēta" "having been filled upo"
+   "implēta" "having been filled up"
    "implēvit" "he fulfilled, filled up"
+   "implētur" "it is filled up"
    "impleō, implēre, implēvī, implētus" "to fill up"
    "implēre" "to fill up"
    
@@ -6030,8 +6037,12 @@
    "inventus" "having had found"
    "inveniās" "you discover"
    "inveniuntur" "they are discovered"
+   "invenītur" "it is found"
    "invenīrī" "to be found"
    "inveniō, invenīre, invēnī, inventum" "to find"
+
+   "invertitur" "it is changed, turned upside down"
+   "invertō, invertere, invertī, inversus" "to change, turn upside down"
 
    "invidet" "he envies, is jealous"
    "invideō, invidēre, invīdī, invīsus" "to envy, be jealous"
@@ -6322,8 +6333,10 @@
    "lavantur" "are being washed"
    "lavātis" "you wash"
    "lavandōs" "washing"
+   "lavant" "they wash"
    "lavāre" "to wash"
    "lavō, lavāre, lāvī, lautus" "to wash"
+   
    "laxāte" "loosen! relax!"
 
    "lēctor" "reader"
@@ -6438,6 +6451,7 @@
 
    "ligna" "wood"
    "lignīs" "wood"
+   "lignum" "wood"
    "lignum, lignī" "wood"
 
    "lingua" "tongue, language"
@@ -6705,6 +6719,7 @@
    "marīa, marīae" "Mary"
    "Marīa, Marīae" "Mary"
 
+   "maritimam" "maritime"
    "maritimōs" "maritime"
    "maritimus, maritima, maritimum" "maritime"
    
@@ -8631,7 +8646,9 @@
 
    "probat" "he approves, he commends"
    "probāvimus" "we approved, we commended"
+   "probāvī" "I approved, commended"
    "probāvit" "he approved, commended"
+   "probandum" "approving, commending"
    "probāre" "to approve, to commend, to demonstrate"
    "probō, probāre, probāvī, probātus" "to approve, to commend, to demonstrate"
 
@@ -8665,6 +8682,7 @@
    "prōdīret" "he (might) have advanced"
    "prōdeō, prōdīre, prōdivī(iī), prōditus" "to advance"
 
+   "prōdūcitur" "it is lead forward"
    "prōdūcere" "to lead forward"
    "prōdūcō, prōdūcere, prōdūxī, prōductus" "to lead forward"
 
@@ -8923,6 +8941,9 @@
    "purpura" "purple (garment), royalty"
    "purpuram" "purple (garment), royalty"
    "purpura, purpurae" "purple (garment), royalty"
+
+   "puteī" "pits, wells, dungeons"
+   "puteus, puteī" "pit, well, dungeon"
 
    "putābat" "he was thinking"
    "putābant" "they were thinking"
@@ -9521,6 +9542,8 @@
    "rūs, rūris" "country"
    
    "rūsticam" "rural"
+   "rūsticīs" "rural, rustics"
+   "rūsticus" "rural"
    "rūsticus, rūstica, rūsticum" "rural"
    
    "sabbatum" "Sabbath"
@@ -9826,6 +9849,8 @@
    "sepelīvērunt" "they buried"
    "sepelīvissem" "I (might) have had buried"
    "sepelīrēmus" "we buried"
+   "sepelīvit" "he buried"
+   "sepelīret" "he buried"
    "sepeliō, sepelīre, sepelīvī, sepultus" "to bury"
    
    "septentriōnem" "north"
