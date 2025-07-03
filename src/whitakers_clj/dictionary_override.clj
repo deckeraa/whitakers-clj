@@ -2120,6 +2120,8 @@
    "caelestī" "heavenly matters"
    "caeleste, caelestis" "heavenly matters"
 
+   "caelestīs" "heavens"
+
    "caelestīnō" "heavenly"
    "caelestīnus, caelestīna, caelestīnum" "heavenly"
 
@@ -2165,6 +2167,10 @@
    
    "calōrem" "warmth, heat"
    "calor, calōris" "warmth, heat"
+
+   "camera"  "room"
+   "camerae" "room"
+   "camera, camerae" "room"
    
    "camerārius" "chamberlain"
    "camerārius, camerāriī" "chamberlain"
@@ -2190,6 +2196,10 @@
    "candor" "whiteness, brightness"
    "candōris" "whiteness, brightness"
    "candor, candōris" "whiteness, brightness"
+
+   "canīculus" "small dog"
+   "canīculum" "small dog"
+   "canīculus, canīculī" "small dog"
 
    "cane" "dog"
    "canem" "dog"
@@ -2855,6 +2865,7 @@
    "cōnferentēs" "conferencing, talking, meeting"
    "cōnferre" "to conference, to talk, to meet"
    "contulērunt" "they brought together"
+   "conlāta" "having been brought together"
    "cōnferō, cōnferre, contulī, collātus" "to conference, to talk, to meet"
 
    "cōnferta" "dense, crowded"
@@ -2884,6 +2895,7 @@
    "cōnfirmant" "they strengthen, they encourage"
    "cōnfirmāta" "having been strengthened"
    "cōnfirmāre" "to strengthen, to encourage"
+   "cōnfirmābātur" "it was being strengthened"
    "cōnfirmō, cōnfirmāre, cōnfirmāvī, cōnfirmātus" "to strengthen, to encourage"
    
    "cōnfitēminī" "you confess"
@@ -2950,6 +2962,10 @@
    "cōnōpēum" "canopy"
    "cōnōpēum, cōnōpēī" "canopy"
 
+   "cōnscientia"  "conscience"
+   "cōnscientiae" "of conscience"
+   "cōnscientia, cōnscientiae" "conscience"
+
    "cōnscīverit" "he will decide"
    "cōnscīscere" "to decide"
    "cōnscīscō, cōnscīscere, cōnscīvī, cōnscītus" "to decide"
@@ -2958,14 +2974,18 @@
    "cōnscrībere" "to write down"
    "cōnscrībō, cōnscrībere, cōnscrīpsī, cōnscrīptus" "to write down"
 
+   "cōnsēnsit" "he was in agreement"
+   "cōnsentiat" "he is in agreement"
    "cōnsentīret" "they were in agreement"
+   "cōnsēnsum" "having been in agreements"
    "cōnsentīre" "to be in agreement"
 
    "cōnsecūtīs" "having been followed"
    "cōnsequor, cōnsequī, cōnsecūtus sum" "to follow"
-   
+
    "cōnsēnsū" "consensus"
    "cōnsēnsus, cōnsēnsūs" "consensus"
+   
    "cōnsentiō, cōnsentīre, cōnsēnsī, cōnsēnsus" "to be in agreement"
    "cōnsīderābat" "he was considering"
    "cōnsīderābant" "they were considering"
