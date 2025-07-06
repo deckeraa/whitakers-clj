@@ -3050,6 +3050,7 @@
    "cōnstituit" "he planned"
    "cōnstituite" "Plan! Arrange! Decide!"
    "cōnstituistī" "you placed, arranged, decreed, decided"
+   "cōnstitūtus" "having been placed"
    "cōnstituō, cōnstituere, cōnstituī, cōnstitūtus" "to place, arrange, decree, decide"
 
    "cōnstitūta" "arrangements, agreements"
@@ -3100,6 +3101,7 @@
    "contemptiō, contemptiōnis" "contempt, disdain"
 
    "contempserunt" "they contemned, they held in contempt"
+   "contempsit" "she despised"
    "contemnō, contemnere, contempsī, contemptus" "to contemn, hold in contempt"
 
    "contendunt" "they contend, they hasten"
@@ -3127,6 +3129,7 @@
    
    "continuās" "continuous"
    "continuōs" "continuous"
+   "continuē" "continually"
    "continuus, continua, continuum" "continuous"
    
    "contrīstātus" "being saddened"
@@ -3204,6 +3207,15 @@
    
    "coriīs" "skins, hides"
    "corius, coriī" "skin, hide"
+
+   "corōna" "crown"
+   "corōnae" "crown"
+   "corōnam" "crown"
+   "corōna, corōnae" "crown"
+
+   "corōnārī" "to be crowned"
+   "corōnāre" "to crown"
+   "corōnō, corōnāre, corōnāvī, corōnātus" "to crown"
    
    "corporibus" "bodies"
    "corpus" "body, flesh"
@@ -3266,6 +3278,7 @@
    "crēbrīs" "frequent, repeated, thick"
 
    "creāvērunt" "they created"
+   "creāvit" "he created"
    "creō, creāre, creāvī, creātum" "to create"
    "creātī" "of the thing created"
 
@@ -3306,6 +3319,11 @@
 
    "crucīfīxissent" "having had crucified"
    "crucīfīgō, crucīfīgere, crucīfīxī, crucīfīxus" "to crucify"
+
+   "cruōre" "blood, gore, murder"
+   "cruor" "blood, gore, murder"
+   "cruōris" "blood, gore, murder"
+   "cruor, cruōris" "blood, gore, murder"
 
    "crūra" "legs"
    "crūribus" "legs"
