@@ -663,6 +663,7 @@
    "quippe" "surely, indeed, the thing is"
    "quōdam" "a certain one; ablative from quīdam"
    "quondam" "sometimes"
+   "quotiēns" "how many times?"
    "Rauracīs" "Rauraci, neighbors to the Helvetii"
    "recordare" "remember! Singular imperative of recordārī"
    "recordātus" "rememberance, recollection"
@@ -711,6 +712,7 @@
    "scīs" "you know; 2nd person singular present from sciō, scīre, scīvī, scītus"
    "scītis" "you know; 2nd person plural present from sciō, scīre, scīvī, scītus"
    "sciēbat" "he was knowing; 3rd person singular imperfect from sciō, scīre, scīvī, scītus"
+   "scīlicet" "obviously"
    "scoriosam" "slaggy. This is an uncommon word related to scōria, scōriae (slag)."
    "scrībēbat" "he was writing"
    "scrīpsit" "he wrote"
@@ -754,6 +756,7 @@
    "sine" "without"
    "singulāriter" "singularly, solitary, peerless; adverb from singulāris, singulāre"
    "sinistrali" "left, singular feminine ablative from sinistra, sinistrae"
+   "sinistrē" "badly"
    "sinus" "pocket, fold; singular masculine nominative from sinus, sinūs"
    "sinū" "pocket, fold; singular masculine ablative from sinus, sinūs"
    "sinum" "pocket, fold; singular masculine accusative from sinus, sinūs"
@@ -9166,6 +9169,9 @@
    "rebelliō" "renewal of war, rebellion"
    "rebelliōnis" "renewal of war, rebellion"
    "rebelliō, rebelliōnis" "renewal of war, rebellion"
+
+   "recalcitrāre" "to kick back, be disobedient"
+   "recalcitrō, recalcitrāre, recalcitrāvī, recalcitrātus" "to kick back, be disobedient"
    
    "recēdās" "you (might) recede, withdraw"
    "recēde" "recede! withdraw!"
@@ -9182,6 +9188,9 @@
    "receptās" "having been received"
    "receptōs" "having been received"
    "recēpērunt" "they received, they kept back"
+   "recēperat" "he had received"
+   "recēpimus" "we received"
+   "recēpit" "he received"
    "recipere" "to receive"
    "recipiō, recipere, recēpī, receptus" "to receive"
    
@@ -9190,6 +9199,10 @@
    
    "reciprocābant" "they were going back and forth"
    "reciprocō, reciprocāre, reciprocāvī, reciprocātus" "to go back and forth"
+
+   "reconciliāta" "having been reconciled"
+   "reconciliātī" "having been reconciled"
+   "reconciliō, reconciliāre, reconciliāvī, reconciliātus" "to reconcile"
    
    "rēctitūdinis" "straightness, rectitude"
    "rēctitūdō, rēctitūdinis" "straightness, rectitude"
@@ -9226,6 +9239,8 @@
 
    "redimātur" "is being bought back"
    "redēmit" "he brought back, redeemed"
+   "redēmī" "I redeemed"
+   "redimerem" "I redeemed"
    "redimere" "to bring back"
    "redimō, redimere, redēmī, redēmptus" "to bring back"
 
@@ -9772,6 +9787,7 @@
    "sanguine" "blood"
    "sanguinem" "blood"
    "sanguis" "blood"
+   "sanguinum" "of blood"
    "sanguis, sanguinis" "blood"
 
    "sānus" "healthy, sound"
@@ -9851,6 +9867,7 @@
    "scrībenda" "writing"
    "scrībendī" "of writing"
    "scrībendum" "writing"
+   "scrībit" "he writes"
    "scrībere" "to write"
    "scrībō, scrībere, scrīpsī, scrīptus" "to write"
 
@@ -9864,6 +9881,9 @@
 
    "scrūtanda" "searching thoroughly, investigating"
    "scrūto, scrūtāre, scrūtāvī, scrūtātus" "to search thoroughly, investigate"
+
+   "sculptum" "having been engraven"
+   "sculpō, sculpere, sculpsī, sculptus" "to carve, engrave"
    
    "scurrīlitās" "buffoonery"
    "scurrīlitās, scurrīlitātis" "buffoonery"
@@ -10014,7 +10034,9 @@
    "sequēbātur" "he was following"
    "sequiminī" "you follow"
    "sequī" "to follow"
+   "sēcūta" "having been followed"
    "sēcūtae" "having been followed"
+   "sequitur" "he follows"
    "sequor, sequī, sēcūtus sum" "to follow"
 
    "Sēquana" "The Seine River"
@@ -10080,6 +10102,10 @@
    "siceram" "a type of alcoholic beverage"
    "sicera, sicerae" "a type of alcoholic beverage"
 
+   "sigillum" "seal"
+   "sigillī" "seal"
+   "sigillum, sigillī" "seal"
+
    "significat" "it signifies"
    "significō, significāre, significāvī, significātus" "to signify"
 
@@ -10138,6 +10164,9 @@
    "sinistralem" "left-hand"
    "sinistram" "left-hand"
    "sinistra, sinistrae" "left-hand"
+
+   "sinistrī" "left, bad"
+   "sinister, sinistra -um, sinistrior -or -us, sinistimus -a -um" "left, bad"
 
    "sistitur" "it is stopped"
    "sistō, sistere, stitī, status" "to stop"
