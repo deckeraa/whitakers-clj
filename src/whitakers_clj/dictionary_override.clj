@@ -10076,7 +10076,8 @@
    "servitūte" "servitude"
    "servitūtem" "servitude"
    "servitūs, servitūtis" "servitude"
-   
+
+   "servī" "slaves, servants"
    "servīs" "slaves, servants"
    "servōrum" "of slaves, of servants"
    "servōs" "slaves, servants"
@@ -10262,6 +10263,11 @@
    "speciēs" "appearance, view"
    "speciēs, speciēī" "appearance, view"
 
+   "spectācula" "spectacles"
+   "spectāculī" "spectacle"
+   "spectāculum" "spectacle"
+   "spectāculum, spectāculī" "spectacle"
+
    "spectat" "he observes, he considers"
    "spectant" "they observe, they consider"
    "spectāre" "to observe, to consider"
@@ -10275,6 +10281,7 @@
    "spēluncās" "cave"
    "spēlunca, spēluncae" "cave"
 
+   "spērāns" "hoping"
    "spērant" "they hope, they look forward"
    "spērārent" "they (might) have been hoping"
    "spērāre" "to hope, to look forward"
@@ -10282,6 +10289,10 @@
    
    "spēs" "hope"
    "spēs, speī" "hope"
+
+   "spīneam" "thorny"
+   "spīneum" "thorny"
+   "spīneus, spīnea, spīneum" "thorny"
 
    "spīritū"  "spirit, breath"
    "spīritum" "spirit, breath"
@@ -10310,6 +10321,11 @@
 
    "sponte" "free will, impulse"
    "spōns, spontis" "free will, impulse"
+
+   "spōnsus" "groom"
+   "spōnsī" "groom"
+   "spōnsō" "groom"
+   "spōnsus, spōnsī" "groom"
    
    "spontāneus, spontānea, spontāneum" "spontaneous"
    "sportam" "basket"
@@ -10392,6 +10408,10 @@
    "strepitus" "din, noise, clashing, sound"
    "strepitus, strepitūs" "din, noise, clashing, sound"
 
+   "studeāmus" "we study, are eager for"
+   "studēre" "to study, be eager for"
+   "studeō, studēre, studuī, -" "to study, be eager for"
+
    "studiīs" "studies, fondness, desire"
    "studiō" "studies, fondness, desire"
    "studium, studiī" "study, fondness, desire"
@@ -10432,6 +10452,7 @@
 
    "subiēcit" "he subjected"
    "subiectam" "things subjected"
+   "subiecta" "having been subjectedo"
    "subiciō, subicere, subiēcī, subiectus" "to subject, to throw under"
 
    "subiugat" "he subjugates"
@@ -10604,6 +10625,9 @@
    "suspicātī" "having been suspected"
    "suspicātus" "having been suspected"
    "suspicō, suspicāre, suspicāvī, suspicātus" "to suspect"
+
+   "suspīria" "deep breathes"
+   "suspīrium, suspīriī" "deep breath"
    
    "sustinēbit" "he will sustain"
    "sustinēmus" "we sustain"
@@ -10640,6 +10664,11 @@
    "taediō" "weariness, tedium"
    "taedium" "weariness, tedium"
    "taedium, taediī" "weariness, tedium"
+
+   "talenta" "talents (a measure of weight)"
+   "talentum" "talent (a measure of weight)"
+   "talentī" "talent (a measure of weight)"
+   "talentum, talentī" "talent (a measure of weight)"
    
    "tālem" "such"
    "tālēs" "such"
@@ -10719,6 +10748,9 @@
    "tenebrae" "darkness"
    "tenebrārum" "of darkness"
    "tenebrae, tenebrārum" "darkness"
+
+   "tenerrimē" "very tenderly"
+   "tener, tenera -um, tenerior -or -us, tenerrimus -a -um" "soft, tender, delicate"
    
    "tentōrium" "tent"
    "tentōriō" "tent"
@@ -10765,6 +10797,9 @@
    "testimōniō" "witness, evidence"
    "testimōnium, testimōniī" "witness, evidence"
 
+   "textūra" "weaving, texture"
+   "textūra, textūrae" "weaving, texture"
+
    "thēsaurīs" "treasures"
    "thēsaurus" "treasure"
    "thēsaurus, thēsaurī" "treasure"
@@ -10781,12 +10816,16 @@
    "timuērunt" "they feared"
    "timuistis" "you feared"
    "timenda" "to be feared"
+   "timeās" "you fear"
    "timēre" "to fear"
    "timeō, timēre, timuī, -" "to fear"
    
    "timōre" "fear"
    "timōrem" "fear"
    "timor, timōris" "fear"
+
+   "tīncta" "having been soaked, colored, imbued"
+   "tinguō, tinguere, tīnxī, tīnctus" "to soak, color, imbue"
 
    "titulī"  "inscription, token"
    "titulus" "inscription, token"
@@ -10829,6 +10868,8 @@
    "trādiderat" "he had handed over"
    "trādidit" "he handed over"
    "trādidimus" "we handed over"
+   "trādidistī" "you handed over"
+   "trāditur" "it is handed over"
    "trādō, trādere, trādidī, trāditus" "to hand over"
 
    "trāditiōne" "surrender, delivering up"
@@ -10963,6 +11004,7 @@
    "tuīs" "yours"
    "tuō" "your"
    "tuōs" "your"
+   "tuārum" "of your"
 
    "tumidī" "swollen, pompous"
    "tumidus, tumida, tumidum" "swollen, pompous"
@@ -10975,6 +11017,10 @@
    "tumulum" "mound, hill"
    "tumulus" "mound, hill"
    "tumulus, tumulī" "mound, hill"
+
+   "tunica" "tunic, undergarment"
+   "tunicam" "tunic, undergarment"
+   "tunica, tunicae" "tunic, undergarment"
 
    "turbīs" "disturbances, quarrels, troops"
    "turba, turbae" "disturbance, quarrel, troop"
@@ -11188,6 +11234,7 @@
    "vallum" "wall, rampart"
    "vallum, vallī" "wall, rampart"
 
+   "varia"  "various, diverse"
    "variō"  "various, diverse"
    "variīs" "various, diverse"
    "varius, varia, varium" "various, diverse"
@@ -11249,6 +11296,7 @@
    "veniunt" "they come"
    "venīret" "he came"
    "vēnerit" "he will have come"
+   "venientem" "coming"
    "veniō, venīre, vēnī, ventus" "to come"
    
    "vēnī" "I came"
@@ -11509,6 +11557,9 @@
    "vīsitāvissem" "I (might) have had visited"
    "vīsitāre" "to visit"
    "vīsitō, vīsitāre, vīsitāvī, vīsitātus" "to visit"
+
+   "vīsus" "appearance"
+   "vīsus, vīsūs" "appearance"
    
    "vīta" "life"
    "vītam" "life"
@@ -11566,6 +11617,7 @@
    "vocor" "I am called"
    "vocandō" "calling"
    "vocātus" "having been called"
+   "vocātī" "having been called"
    "vocō, vocāre, vocāvī, vocātus" "to call, to summon"
 
    "vōciferātus" "having been yelled"
@@ -11592,6 +11644,7 @@
    "vīs" "you want"
    "velint" "they (might) want"
    "voluī" "I wanted"
+   "volens" "wanting"
    "volō, velle, voluī, -" "to want"
    
    "vōcem" "voice"
@@ -11623,6 +11676,7 @@
    "vōtum" "vow"
    
    "vulneribus" "wounds"
+   "vulnus" "wound"
    "vulnus, vulneris" "wound"
    
    "vultū" "face, expression, appearance"
