@@ -3400,9 +3400,18 @@
    "cursū" "course"
    "cursum" "course"
    "cursus, cursūs" "course"
+
+   "custōdia" "protection"
+   "custōdiae" "protection"
+   "custōdia, custōdiae" "protection"
+   
    "custōdiēbam" "I was guarding"
    "custōdīre" "to guard, to watch over"
    "custōdiunt" "they guard"
+   "custōdiēbant" "they were guarding"
+   "custōdiendum" "guarding"
+   "custōdīrent" "they were guarding"
+   "custōdīvit" "he guarded"
    "custōdiō, custōdīre, custōdīvī, custōdītus" "to guard, to watch over"
    "custōdīte" "guard!"
 
@@ -3513,6 +3522,7 @@
    "dēdūcunt" "they lead down, escort, remove"
    "dēdūcerēmus" "we had lead down, escorted, removed"
    "dēdūcere" "to escort, to remove"
+   "dēducta" "having been escorted, removed"
    "dēdūcō, dēdūcere, dēdūxī, dēductus" "to escort, to remove"
 
    "dederit" "he will give"
@@ -3683,9 +3693,13 @@
    "dētrīmentī" "harm, detriment"
    "dētrīmentō" "harm, detriment"
    "dētrīmentum, dētrīmentī" "harm, detriment"
+   
    "deum" "god"
    "deus" "god"
    "deus, deī" "god, diety"
+
+   "dēvēnit" "he came to"
+   "dēveniō, dēvenīre, dēvēnī, dēventus" "to come to"
    
    "dēvorat" "he devours"
    "dēvoret" "he (may) devour"
@@ -8887,6 +8901,12 @@
    
    "propriīs" "own, personal, individual"
    "proprius, propria, proprium" "own, personal, individual"
+
+   "prōpugnātor" "champion"
+   "prōpugnātōris" "champion"
+   "prōpugnātōre" "champion"
+   "prōpugnātor, prōpugnātōris" "champion"
+   
    "prōra" "prow"
    "prōra, prōrae" "prow"
    "prōrae" "prow"
@@ -8944,9 +8964,11 @@
    "psallite" "singing a Psalm"
    "psallentēs" "singing a Psalm"
    "psallō, psallere, psallī, -" "to sing a Psalm"
+   
    "psalmum" "psalm"
    "psalmōs" "psalm"
    "psalmus, psalmī" "psalm"
+   
    "psaltēriī" "the Psalms"
    "psaltērium, psaltēriī" "the Psalms"
 
@@ -8975,6 +8997,9 @@
 
    "puerulus" "little boy"
    "puerulus, puerulī" "little boy"
+
+   "pugil" "boxer, fighter"
+   "pugil, pugilis" "boxer, fighter"
    
    "pugna" "fight"
    "pugnae" "fight"
@@ -8987,9 +9012,11 @@
    "pugnandum" "fighting"
    "pugnārent" "they (might) have been fighting"
    "pugnātum" "having been fought"
+   "pugnat" "he fights"
    "pugnō, pugnāre, pugnāvī, pugnātus" "to fight"
 
    "pulchra" "beautiful"
+   "pulcherrimam" "very beautiful"
    "pulcher, pulchra -um, pulchrior -or -us, pulcherrimus -a -um" "beautiful"
 
    "pūlex" "flea"
@@ -9077,6 +9104,10 @@
    "quālis" "of such a kind"
    "quālis, quālis, quāle" "of such a kind"
 
+   "questiō" "complaint"
+   "questiōnis" "complaint"
+   "questiō, questiōnis" "complaint"
+
    "questus" "complaint"
    "questus, questūs" "complaint"
    
@@ -9106,6 +9137,11 @@
    "rapidissimō" "very quick"
    "rapidus, rapida -um, rapidior -or -us, rapidissimus -a -um" "quick"
 
+   "raptōre" "robber, plunderer"
+   "raptor" "robber, plunderer"
+   "raptōris" "robber, plunderer"
+   "raptor, raptōris" "robber, plunderer"
+
    "raptus" "snatching away, robbery"
    "raptus, raptūs" "snatching away, robbery"
    
@@ -9117,6 +9153,9 @@
 
    "ratēs" "rafts, barks, vessels"
    "ratis, ratis" "raft, bark, vessel"
+
+   "ratiōnālis" "reasonable"
+   "ratiōnālis, ratiōnālis, ratiōnāle" "reasonable"
 
    "rationem" "reason"
    "ratiōnis" "reason"
