@@ -134,6 +134,9 @@
    "cantāte" "Sing! Plural imperative from cantāre"
    "carnūtēs" "A Celtic tribe of Gallia Lugdunensis (nominative or accusative)"
    "carnūtibus" "A Celtic tribe of Gallia Lugdunensis (dative or ablative)"
+   "Carolomannus" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
+   "carolō" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
+   "carolus" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
    "cassium" "Lucius Cassius Longinus (c. 151 - 107 BC), a consul who was killed at the Battle of Burdigala"
    "cāsū" "accidentally, by chance (adverb)"
    "Catamantaloedis" "Catamantaledes (one of the Sequani)"
@@ -192,6 +195,7 @@
    "David" "David, the king of Israel that slew Goliath."
    "de" "of, from, away from, down from"
    "decem" "ten"
+   "deciēs" "ten"
    "decimō" "tenth"
    "decimum" "tenth"
    "deinde" "after"
@@ -274,7 +278,9 @@
    "foret" "he (might) have been; subjunctive imperfect from esse"
    "forīs" "outside (adverb)"
    "fortasse" "maybe, perhaps"
+   "forte" "by chance"
    "fortiter" "strongly (adverb from fortis, forte)"
+   "francōrum" "of the Franks"
    "frēnum" "bridal; ornamental necklace"
    "fuerint" "they will have been; 3rd person plural future perfect from esse"
    "fūrtim" "secret, stealthily"
@@ -307,6 +313,7 @@
    "Haroldō" "Harold (ablative case)"
    "Haroldum" "Harold (accusative case)"
    "Haroldus" "Harold (nominative case)"
+   "haud" "not, not at all"
    "helī" "Eli, Old Testament high priest."
    "Helī" "Eli, Old Testament high priest."
    "herī" "yesterday"
@@ -332,6 +339,7 @@
    "impedītīs" "impeded, plural masculine dative or ablative from impedītus -a -um"
    "incessanter" "incessantly"
    "īnsēparābiliter" "inseparably"
+   "īnsuper" "besides, furthermore"
    "iocantem" "jesting, participle from iocor, iocārī, iocātus (dep.)"
    "Iohanne" "John the Baptist"
    "Iohannem" "John the Baptist (accusative)"
@@ -567,6 +575,7 @@
    "Patriciī" "of Saint Patrick"
    "paulātim" "little by little"
    "paululum" "a little"
+   "pēne" "almost; alternate spelling of paene"
    "per" "through"
    "perfīnītis" "You finished; 2nd person plural present from perfīnīre"
    "perfīnīta" "perfīnīta + est: it has been finished"
@@ -734,6 +743,7 @@
    "septimum" "seventh"
    "septimus" "seventh"
    "septimō" "seventh"
+   "septingentōs" "700"
    "septuāgintā" "70"
    "sēsē" "himself"
    "seu" "or, what if"
@@ -1100,6 +1110,10 @@
 
    "adscīscunt" "they admit, approve, associate"
    "adscīscere" "to admit, to approve, to associate"
+
+   "adveniēns" "arriving"
+   "advenīre" "to arrive"
+   "adveniō, advenīre, advēnī, adventus" "to arrive"
    
    "adventum" "arrival, approach"
    "adventū" "arrival, approach"
@@ -2943,6 +2957,7 @@
    "coniūnctiōne" "conjunction, association"
    "coniūnctiō, coniūnctiōnis" "conjunction, association"
 
+   "coniuge" "spouse"
    "coniugibus" "spouses"
    "conjunx, conjugis" "spouse"
 
@@ -3483,6 +3498,10 @@
    "decānus" "dean, chief"
    "decānus, decānī" "dean, chief"
 
+   "dēcesserat" "he had departed, abandoned"
+   "dēcēdere" "to depart, abandon"
+   "dēcēdō, dēcēdere, dēcessī, dēcessus" "to depart, abandon"
+
    "decemnovennalem" "nineteen-year cycle; singular accusative adjective from decemnovennalis"
    "decemnovennalēs" "nineteen-year cycle; plural nominative adjective from decemnovennalis"
    "decemnovennalis" "nineteen-year cycle; singular nominative adjective from decemnovennalis"
@@ -3563,6 +3582,9 @@
    "dēfūnctō" "dead"
    "dēfūnctus" "dead"
    "dēfūnctus, dēfūncti" "dead"
+
+   "dēgere" "to spend, carry on"
+   "dēgō, dēgere, dēgī, -" "to spend, carry on"
    
    "dēglutīre" "to swallow"
    "dēglutīvit" "I swallowed"
@@ -3659,6 +3681,7 @@
    "dēsīderāre" "to desire"
    "dēsīderō, dēsīderāre, dēsīderāvī, dēsīderātus" "to desire"
 
+   "dēsīderiī" "longing, desire, wish"
    "dēsīderiō" "longing, desire, wish"
    "dēsīderium" "longing, desire, wish"
    "dēsīderium, dēsīderiī" "longing, desire, wish"
@@ -3806,8 +3829,10 @@
    "dignitāte" "worth, honor, esteem, rank"
    "dignitātem" "worth, honor, esteem, rank"
    "dignitātis" "worth, honor, esteem, rank"
-   
+
+   "dīgnatus" "having been deemed worthy"
    "dīgnō, dīgnāre, dīgnavī, dīgnatus" "to deem worthy, to deign"
+   
    "dīgnum" "worthy, appropriate"
    "dīgnus, dīgna, dīgnum" "worthy, appropriate"
 
@@ -4359,6 +4384,9 @@
    "ēvigilāvit" "he woke up"
    "ēvigilō, ēvigilāre, ēvigilāvī, ēvigilātus" "to awaken"
    "ēvigilantibus" "waking, being watchful"
+
+   "ēvolvit" "it rolled out, unrolled"
+   "ēvolvō, ēvolvere, ēvolvī, ēvolūtus" "to roll out, unroll"
    
    "exaudī" "hear!"
    "exaudiō, exaudīre, exaudīvī, exaudītus" "to hear clearly"
@@ -4369,8 +4397,9 @@
    "excēdunt" "they pass, exceed"
    "excēdere" "to pass, to exceed"
    "excēdō, excēdere, excessī, excessus" "to pass, to exceed"
-   
+
    "excēpit" "he took out"
+   "exceptīs" "having been taken out"
    "excipiō, excipere, excēpī, exceptus" "to take out, to receive, to ward off"
    
    "excitātur" "he is being raised up"
@@ -4656,6 +4685,7 @@
    "fēcisse" "to have made"
    "fēcissent" "they (might) have had done"
    "fēcistis" "you made"
+   "fēcerat" "he had done"
 
    "fēlīcitās" "happiness, fruitfulness"
    "fēlīcitātis" "happiness, fruitfulness"
@@ -4967,6 +4997,9 @@
    "frātrīs" "brothers"
    "frātribus" "brothers"
    "frātrum" "of brothers"
+
+   "frāternae" "fraternal"
+   "frāternus, frāterna, frāternum" "fraternal"
 
    "frātruēlem" "fraternal nephew"
    "frātruēlis, frātruēlis" "fraternal nephew"
@@ -6274,6 +6307,7 @@
    "iūra" "laws, rights, justice"
    "iūris" "law, right, justice"
    "iūs" "law, right, justice"
+   "iūre" "law, right, justice"
    "iūs, iūris" "law, right, justice"
    
    "iussum" "command, order"
@@ -7232,6 +7266,11 @@
    "mundum" "world"
    "mundus, mundī" "world"
 
+   "mūnīmen" "defence, fortification, rampart"
+   "mūnīmine" "defence, fortification, rampart"
+   "mūnīminis" "defence, fortification, rampart"
+   "mūnīmen, mūnīminis" "defence, fortification, rampart"
+
    "mūnīta" "fortified"
    "mūnītam" "fortified"
    "mūnītum" "fortified"
@@ -7277,6 +7316,8 @@
    "nāscerētur" "he (perhaps) will be born"
    "nāscētur" "he will be born"
    "nāscor, nāscī, nātus sum" "to be born"
+   "nāscī" "to be born"
+   "nātīs" "having been born"
 
    "natābat" "he was swimming"
    "natābant" "they were swimming"
@@ -7966,6 +8007,7 @@
    "partem" "part"
    "partēs" "parts"
    "partibus" "parts"
+   "partis" "part"
    "pars, partis" "part"
 
    "parturīvērunt" "they gave birth"
@@ -8131,6 +8173,7 @@
    "peragendum" "completing"
    "perēgērunt" "they completed"
    "perēgit" "he completed"
+   "perāctus" "having been completed"
    "peragō, peragere, perēgī, perāctus" "to carry through, to complete"
 
    "perambulantibus" "walking through"
@@ -8730,6 +8773,9 @@
    "prīncipiō"  "beginning, origin"
    "prīncipium" "beginning, origin"
    "prīncipium, prīncipiī" "beginning, origin"
+
+   "priōris" "forefather"
+   "prior, priōris" "forefather"
    
    "prior" "prior, ahead, previous"
    "prior, prior, prius" "prior, ahead, previous"
@@ -8759,6 +8805,11 @@
    "processit" "he proceeded, advanced"
    "procēdere" "to proceed"
    "procēdō, procēdere, processī, processus" "to proceed"
+
+   "procer" "nobleman"
+   "procerēs" "noblemen"
+   "proceris" "nobleman"
+   "procer, proceris" "nobleman"
 
    "prōcērus" "elongated, long"
    "prōcērus, prōcēra -um, prōcērior -or -us, prōcērissimus -a -um" "elongated, long"
@@ -9117,6 +9168,7 @@
    "quiēs, quiētis" "rest, respose, quiet"
    "quiētem" "rest, respose, quiet"
 
+   "quiētam" "quiet"
    "quiētissimam" "very quiet"
    "quiētus, quiēta -um, quiētior -or -us, quiētissimus -a -um" "quiet"
 
@@ -9510,6 +9562,9 @@
    "retinēbant" "they were holding back, they were retaining"
    "retineō, retinēre, retinuī, retentus" "they were holding back, they were retaining"
 
+   "retractantēs" "withdrawing"
+   "retractō, retractāre, retractāvī, retractātus" "to withdraw"
+
    "revēlā" "reveal!"
    "revēlāvīt" "he revealed"
    "revēlārī" "to be revealed"
@@ -9639,6 +9694,7 @@
    "rōmānicō" "Romanic"
    "rōmānicus, rōmānica, rōmānicum" "Romanic"
 
+   "rota" "wheel"
    "rotārum" "of wheels"
    "rota, rotae" "wheel"
 
@@ -9772,7 +9828,8 @@
    "salvī" "healthy, safe"
    "salvam" "healthy, safe"
    "salvus, salva, salvum" "healthy, safe"
-   
+
+   "salvātor" "savior"
    "salvatoris" "savior"
    "salvātor, salvātōris" "savior"
 
@@ -10001,7 +10058,7 @@
    "sepelīret" "he buried"
    "sepultus" "having been buried"
    "sepeliō, sepelīre, sepelīvī, sepultus" "to bury"
-   
+
    "septentriōnem" "north"
    "septentriōnēs" "north"
    "septentriō, septentriōnis" "north"
@@ -10441,6 +10498,9 @@
    "subcinerīciīs" "baked under ashes"
    "subcinericius, subcinericia, subcinericium" "baked under ashes"
 
+   "subdere" "to place under"
+   "subdō, subdere, subdidī, subditus" "to place under"
+
    "subdūxerat" "he had lead off"
    "subductīs" "having been lead off"
    "subduxerunt" "they lead off"
@@ -10532,6 +10592,7 @@
    "summa" "highest, greatest"
    "summīs" "highest, greatest"
    "summō" "highest, greatest"
+   "summōs" "highest, greatest"
    "summum" "highest, greatest"
    "summus, summa, summum" "highest, greatest"
    
@@ -10573,6 +10634,7 @@
    "superiōribus" "higher"
    "superiōre" "higher, being above"
    "superiōrēs" "higher"
+   "suprēmīs" "highest"
    "superus, supera -um, superior -or -us, suprēmus -a -um" "upper, being above"
 
    "supervīxerit" "he will have survived"
@@ -10610,6 +10672,7 @@
    "suscipit" "he undertakes"
    "suscipiēbant" "they were undertaking"
    "suscēpistī" "you undertook"
+   "suscēperat" "he undertook"
    "suscipiō, suscipere, suscēpī, susceptus" "to undertake"
 
    "suscitāns" "awakening, stirring up"
@@ -11531,6 +11594,7 @@
    "virgam" "stick"
    "virga, virgae" "stick"
 
+   "virgine" "virgin"
    "virginem" "virgin"
    "virginēs" "virgins"
    "virginis" "virgin"
