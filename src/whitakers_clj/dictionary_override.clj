@@ -94,6 +94,7 @@
    "Ascanius" "Ascanius, legendary king of Alba Longa, son of Aeneas (ablative or dative case)"
    "asportāte" "take away! Plural imperative from asportō, asportāre, asportāvī, asportātus"
    "assāte" "Roast! Bake! Broil! Plural imperative from assō, assāre, assāvī, assātus"
+   "assiduē" "permanently"
    "at" "and"
    "atque" "and"
    "Atrebās" "An Atrebatian. The Atrebates were a tribe in Gallia Belgica."
@@ -280,6 +281,8 @@
    "fortasse" "maybe, perhaps"
    "forte" "by chance"
    "fortiter" "strongly (adverb from fortis, forte)"
+   "francī" "the Franks"
+   "francīs" "the Franks"
    "francōrum" "of the Franks"
    "frēnum" "bridal; ornamental necklace"
    "fuerint" "they will have been; 3rd person plural future perfect from esse"
@@ -508,6 +511,7 @@
    "nihil" "not at all"
    "nimia" "too much"
    "nimiae" "too much"
+   "nīmīrum" "certainly"
    "nimis" "too much, extremely"
    "nisī" "if not, unless"
    "nōbīs" "us; singular dative or ablative from ego"
@@ -714,6 +718,8 @@
    "sapienter" "wisely"
    "satis" "enough"
    "Saxonēs" "The Saxons"
+   "Saxōnia" "Saxony"
+   "Saxōnum" "of the Saxons"
    "scalta" "an unknown type of plant. Ablative plural from scalta, scaltae."
    "scaltae" "an unknown type of plant. Ablative plural from scalta, scaltae."
    "scaltās" "an unknown type of plant. Accusative plural from scalta, scaltae."
@@ -863,6 +869,7 @@
    "ūsque" "until, all the way, up until"
    "ūsum" "have been being used, singular neuter nominative perfect participle from ūtor, ūtī, ūsum (dep.)"
    "ut" "so that"
+   "utrimque" "both sides"
    "utrum" "whether"
    "vae" "woe"
    "valdē" "very"
@@ -1037,6 +1044,10 @@
    "adgregābat" "he was bringing together"
    "adgregō, adgregāre, adgregāvī, adgregātus" "to bring together"
 
+   "adiacet" "it lies next to"
+   "adiacēre" "to lie next to"
+   "adiaceō, adiacēre, adiacuī, adiacitus" "to lie next to"
+
    "adiciēns" "adding, raising"
    "adiciō, adicere, adiēcī, adiectus" "to add, to raise"
 
@@ -1204,6 +1215,9 @@
 
    "aggerem" "bulwark, rampart"
    "agger, aggeris" "bulwark, rampart"
+
+   "aggrederētur" "they were attacking"
+   "aggredio, aggredere, aggressī, aggressus" "to attack"
 
    "aggregātō" "group together!"
    "aggregō, aggregāre, aggregāvī, aggregātus" "to group, to flock together"
@@ -1479,6 +1493,7 @@
    "animōs" "souls, minds, lives"
    "anima, animae" "soul, mind, life"
    "animae" "soul, mind, life"
+   "animīs" "souls, minds, lives"
 
    "animālia" "animals"
    "animal, animālis" "animal"
@@ -1519,7 +1534,8 @@
    "anteriōrēs" "earlier, previous, former"
    "anteriōribus" "earlier, previous, former"
    "anterior, anterior, anterius" "earlier, previous, former"
-   
+
+   "antīqua" "of the ancient"
    "antīquī" "of the ancient"
    "antīquō" "ancient"
    "antīquus, antīqua -um, antīquior -or -us, antīquissimus -a -um" "antique"
@@ -2055,6 +2071,9 @@
 
    "boreālis, boreālis, boreāle" "northern"
    "boreālī" "northern"
+
+   "Boreām" "the North"
+   "Boreās, Boreae" "the North"
    
    "bōtrum" "grape"
    "bōtrus, bōtrī" "grape"
@@ -2345,6 +2364,7 @@
    "catēnātus" "chained"
    "catēnātus, catēnāta, catēnātum" "chained"
 
+   "catholicam" "Catholic"
    "catholicōrum" "Catholic"
    "catholicus, catholici" "Catholic"
    
@@ -2361,6 +2381,9 @@
    "cavē" "Beware!"
    "cavēte" "Beware!"
    "caveō, cavēre, cāvī, cautus" "to beware"
+
+   "cēdēs" "you will yield"
+   "cēdō, cēdere, cessī, cessus" "to yield"
    
    "celebrābis" "you will celebrate"
    "celebrāvistī" "you celebrated"
@@ -2420,6 +2443,7 @@
    "cernō, cernere, crēvī, crētus" "to sift, to see, to discern, to decide"
 
    "certā" "certain"
+   "certō" "certain"
    "certus, certa, certum" "certain"
    
    "certāmine" "contest, struggle"
@@ -2640,6 +2664,9 @@
    "cōgnōvī" "I learned"
    "cōgnōscere" "to recognize, to learn, to inquire, to know"
    "cōgnōscō, cōgnōscere, cōgnōvī, cōgnitum" "to recognize, to learn, to inquire, to know"
+
+   "cohaerent" "they stick together"
+   "cohaereō, cohaerēre, cohaesī, cohaesus" "to stick together"
 
    "cohortēs" "cohorts (groups of 360 men)"
    "cohortibus" "cohorts"
@@ -3519,6 +3546,7 @@
 
    "dēcrēvī" "I decided"
    "dēcrēvimus" "we decided"
+   "dēcrēvit" "he decided"
    "dēcernō, dēcernere, dēcrēvī, dēcrētus" "to decide"
 
    "dēcessum" "departure"
@@ -3565,6 +3593,7 @@
    "dēfendēs" "you will defend"
    "defendet" "he will defend"
    "dēfendere" "to defend"
+   "dēfenderet" "he was defending"
    "dēfendistī" "you defended"
    "dēfendō" "I defend"
    "dēfendō, dēfendere, dēfendī, dēfēnsus" "to defend"
@@ -3831,6 +3860,7 @@
    "dignitātis" "worth, honor, esteem, rank"
 
    "dīgnatus" "having been deemed worthy"
+   "dīgnata" "having been deemed worthy"
    "dīgnō, dīgnāre, dīgnavī, dīgnatus" "to deem worthy, to deign"
    
    "dīgnum" "worthy, appropriate"
@@ -3964,6 +3994,10 @@
    "dīvīsērunt" "they divided"
    "dīvīsit" "he divided"
    "dīvidō, dīvidere, dīvīsī, dīvīsus" "to divide"
+
+   "dīvīsiō" "division"
+   "dīvīsiōnis" "division"
+   "dīvīsiō, dīvīsiōnis" "division"
    
    "dīxerat" "he had said"
    "dīxērunt" "they said"
@@ -4035,6 +4069,9 @@
    "dolum" "trickery, deception"
    "dolus" "trickery, deception"
    "dolus, dolī" "trickery, deception"
+
+   "dominābantur" "he was being mastered"
+   "dominō, domināre, domināvī, dominātus" "to master"
    
    "domestica" "domestic"
    "domesticus, domestica, domesticum" "domestic"
@@ -4128,7 +4165,8 @@
    "duplicēs" "double"
    "duplex, (gen.), duplicis" "double"
    "duplicem" "double"
-   
+
+   "dūra" "hard"
    "dūrior" "harder"
    "dūrius" "harder"
    "dūrum" "hard"
@@ -4319,6 +4357,9 @@
    "errantēs" "wandering, erroring"
    "errat" "he wanders, errs"
    "errō, errāre, errāvī, errātus" "to wander, to go astray"
+
+   "errōre" "error, wandering, deception"
+   "error, errōris" "error, wandering, deception"
 
    "ērūctat" "it erupts, vomits"
    "ērūctāre" "to erupt, vomit"
@@ -4714,6 +4755,9 @@
    "ferēbātur" "it was brought"
    "ferēbāntur" "they were brought"
    "fertur" "it is brought"
+
+   "ferōx" "wild, bold, defiant"
+   "ferōx, (gen.), ferōcis" "wild, bold, defiant"
    
    "ferrāmentīs" "iron tools"
    "ferrāmentum, ferrāmentī" "iron tool"
@@ -4823,6 +4867,7 @@
    "fīnis, fīnis" "boundary, end, limit"
 
    "fīnitimī" "neighbors"
+   "fīnitimōs" "neighbors"
    "fīnitimus, fīnitimī" "neighbor"
    
    "fīnitimīs" "neighboring"
@@ -4877,6 +4922,9 @@
 
    "flōrida" "flowery"
    "flōridus, flōrida, flōridum" "flowery"
+
+   "flōruit" "it blossomed"
+   "flōreō, flōrēre, flōruī, -" "to blossom"
    
    "flōre" "flower"
    "flōribus" "flowers"
@@ -5077,10 +5125,13 @@
    "fuistī" "you were"
    "fuit" "he was"
    "fuistis" "you were"
+   "fuerant" "they had been"
+   "fuēre" "they were, alternative spelling of fuērunt"
 
    "fulciēbātur" "it was supported"
    "fulcītur" "it is supported"
    "fulcīre""to prop up, support"
+   "fultī" "having been supported"
    "fultum" "having been supported"
    "fulciō, fulcīre, fulsī, fultus" "to prop up, support"
    
@@ -5154,6 +5205,10 @@
    "geneālogia" "genealogy"
    "geneālogiae" "genealogies"
    "geneālogia, geneālogiae" "genealogy"
+
+   "generāle" "general"
+   "generālis" "general"
+   "generālis, generālis, generāle" "general"
 
    "genuit" "he begot"
    "genitus" "having been born"
@@ -5728,6 +5783,11 @@
 
    "incarnātiōne" "incarnation"
    "incarnātiō, incarnātiōnis" "incarnation"
+
+   "incendia" "fires"
+   "incendiī" "fire"
+   "incendium" "fire"
+   "incendium, incendiī" "fire"
    
    "incendentēs" "setting on fire"
    "incendēbātur" "it was being set on fire"
@@ -5981,6 +6041,9 @@
    
    "īnsertā" "insert! introduce!"
    "īnsertō, īnsertāre, īnsertāvī, īnsertātus" "to insert, to introduce"
+
+   "īnsīgnīta" "having been marked, distinguished"
+   "īnsīgniō, īnsīgnīre, īnsīgnīvī, īnsīgnītus" "to mark, distinguish"
    
    "īnsistere" "to pursue, to stand upon"
    "īnsistō, īnsistere, īnstitī, -" "to pursue, to stand upon"
@@ -6629,6 +6692,7 @@
    "longārum" "long, far"
    "longās" "long, far"
    "longīs" "long, far"
+   "longō" "long, far"
    "longum" "long, far"
    "longus" "long, far"
    "longius" "longer, farther"
@@ -7002,6 +7066,9 @@
    "mīlitibus" "soldiers"
    "mīlitum" "of soldiers"
    "mīles, mīlitis" "soldier"
+
+   "mīlitiae" "military"
+   "mīlitia, mīlitiae" "military"
    
    "milium" "millet"
    "milium, miliī" "millet"
@@ -7449,6 +7516,9 @@
 
    "nihilō" "nothing"
    "nihilum, nihilī" "nothing"
+
+   "nimium" "to much, superabundance"
+   "nimium, nimiī" "to much, superabundance"
 
    "niveō" "snowy white"
    "niveus, nivea, niveum" "snowy white"
@@ -8129,6 +8199,7 @@
    "pectine" "comb"
    "pecten, pectinis" "comb"
 
+   "pectora" "chests"
    "pectore" "chest"
    "pectus, pectoris" "chest"
    
@@ -8504,6 +8575,10 @@
    "pōns" "bridge"
    "pontem" "bridge"
    "pōns, pontis" "bridge"
+
+   "pontificātum" "pontificate"
+   "pontificātus" "pontificate"
+   "pontificātus, pontificātūs" "pontificate"
    
    "posuisset" "he (might) have put"
    "posuērunt" "they had put"
@@ -8644,6 +8719,11 @@
    
    "praeclārus, praeclāra, praeclārum" "very bright, remarkable"
    "praeclārum" "very bright, remarkable"
+
+   "praede" "surety, bondsman"
+   "praes" "surety, bondsman"
+   "praes, praedis" "surety, bondsman"
+   
    "praedestinatiōne" "predestination"
    "praedestinatiō, praedestinatiōnis" "predestination"
    "praedēstināvit" "he predestined"
@@ -8715,6 +8795,11 @@
    
    "praestōlor" "I stand ready"
    "praestōlor, praestōlārī, praestōlātus sum" "to stand ready"
+
+   "praesul"  "president"
+   "praesule" "president"
+   "praesulis" "president"
+   "praesul, praesulis" "president"
    
    "praeest" "he preside, he takes command"
    "praeesse" "to command"
@@ -9004,6 +9089,7 @@
    "prōvolūtīs" "fallen, rolled"
    "prōvolvō, prōvolvere, prōvolvī, prōvolūtus" "to roll forward, to bowl over"
 
+   "proxima" "next, nearest"
    "proximam" "next, nearest"
    "proximī"  "next, nearest"
    "proximum" "next, nearest"
@@ -9676,6 +9762,7 @@
    "rōmam" "Rome"
    "Rōma, Rōmae" "Rome"
 
+   "rōmāne" "Roman"
    "rōmānae" "Roman"
    "Rōmānī" "Romans"
    "rōmānī" "Romans"
@@ -9990,6 +10077,9 @@
    "sēditiōnis" "sedition, treason"
    "sēditiō, sēditiōnis" "sedition, treason"
 
+   "sēiūnctās" "having been separated"
+   "sēiungō, sēiungere, sēiūnxī, sēiūnctus" "to separate, exclude"
+
    "sēmen"   "seed, posterity, offspring"
    "sēmina" "seeds"
    "sēmine" "seed"
@@ -10261,6 +10351,7 @@
    "solet" "he is accustomed to"
    "solent" "they are accustomed to"
    "solēbat" "he was accustomed to"
+   "solēbant" "they were accustomed to"
    "soleō, solēre, solitus sum" "to become accustomed to"
    "solitō" "being accustomed"
 
@@ -10492,6 +10583,7 @@
    "suādentem" "persuading"
    "suādeō, suādēre, suāsī, suāsus" "to persuade"
    "suāvissimum" "very sweet"
+   "suāve" "sweet"
    "suāvis, suāve, suāvior -or -us, suāvissimus -a -um" "sweet"
    "suāvitās, suāvitātis" "sweetness, pleasantness"
    "suāvitāte" "sweetness, pleasantness"
@@ -10514,6 +10606,9 @@
    "subiectam" "things subjected"
    "subiecta" "having been subjectedo"
    "subiciō, subicere, subiēcī, subiectus" "to subject, to throw under"
+
+   "subācta" "having been subjugated, conquered"
+   "subigō, subigere, subēgī, subāctus" "to subjugate, conquer"
 
    "subiugat" "he subjugates"
    "subjugō, subjugāre, subjugāvī, subjugātus" "to subjugate"
@@ -10753,6 +10848,9 @@
 
    "televisōrium" "television"
    "televisōrium, televisōriī" "television"
+
+   "tellūs" "earth, territory"
+   "tellūs, tellūris" "earth, territory"
 
    "tēla" "spears"
    "tēlum, tēlī" "spear"
@@ -11477,6 +11575,10 @@
 
    "vīcēsimō" "twentieth"
    "vīcēsimus, vīcēsima, vīcēsimum" "twentieth"
+
+   "vīcīna"  "neighbor"
+   "vīcīnae" "neighbors"
+   "vīcīna, vīcīnae" "neighbor"
    
    "vice" "time, turn"
    "vicis" "time, turn"
