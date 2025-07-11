@@ -76,6 +76,7 @@
    "ambrōnum" "of the Ambrones, a tribe of Denmark"
    "amen" "amen, truly, verily"
    "an" "or? rather?"
+   "angariī" "The Angarians, a Saxon tribe"
    "Annā" "Ablative of Annas, a high priest involved with the crucifixion of Christ."
    "annōn" "Was it not? Can it be that? Expects positive answer."
    "ante" "before, in front, forwards"
@@ -135,7 +136,7 @@
    "cantāte" "Sing! Plural imperative from cantāre"
    "carnūtēs" "A Celtic tribe of Gallia Lugdunensis (nominative or accusative)"
    "carnūtibus" "A Celtic tribe of Gallia Lugdunensis (dative or ablative)"
-   "Carolomannus" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
+   "Carolomannus" "Carloman, son of Pepin the Short and co-ruler of the Frankish kingdom with Charlemagne"
    "carolō" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
    "carolus" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
    "cassium" "Lucius Cassius Longinus (c. 151 - 107 BC), a consul who was killed at the Battle of Burdigala"
@@ -194,7 +195,7 @@
    "cūr" "why"
    "Danihelem" "Daniel, the Old Testament prophet"
    "David" "David, the king of Israel that slew Goliath."
-   "de" "of, from, away from, down from"
+   "dē" "of, from, away from, down from"
    "decem" "ten"
    "deciēs" "ten"
    "decimō" "tenth"
@@ -357,6 +358,7 @@
    "hārum" "of these; plural feminine genitive of hic, haec, hoc"
    "hās" "this; plural feminine accusative of hic, haec, hoc"
    "hic" "this; singular masculine nominative of hic, haec, hoc"
+   "hinc" "from here"
    "hī" "to these; plural masculine nominative of hic, haec, hoc"
    "hīs" "to these; plural masculine dative or ablative of hic, haec, hoc"
    "huic" "to this; singular dative of hic, haec, hoc"
@@ -567,6 +569,8 @@
    "orgetorīx" "Orgetorix, a Helvetic aristocrat."
    "Orgetoricem" "Orgetorix, a Helvetic aristocrat (accusative case)."
    "oriundus" "oriundus + est = was descended from"
+   "Osterliudī" "Another name of the Eastphalians"
+   "Ostvalōs" "Eastphalians, members of a Saxon tribe"
    "paene" "almost"
    "palam" "openly, publicly"
    "parce" "Pardon! Forgive! Singular imperative from parcō, parcere, pepercī, parsum"
@@ -676,6 +680,7 @@
    "quippe" "surely, indeed, the thing is"
    "quōdam" "a certain one; ablative from quīdam"
    "quondam" "sometimes"
+   "quot" "how many?"
    "quotiēns" "how many times?"
    "Rauracīs" "Rauraci, neighbors to the Helvetii"
    "recordare" "remember! Singular imperative of recordārī"
@@ -728,6 +733,7 @@
    "scītis" "you know; 2nd person plural present from sciō, scīre, scīvī, scītus"
    "sciēbat" "he was knowing; 3rd person singular imperfect from sciō, scīre, scīvī, scītus"
    "scīlicet" "obviously"
+   "Sclavī" "Slavs, plural masculine nominative from Sclavus, Sclavī"
    "scoriosam" "slaggy. This is an uncommon word related to scōria, scōriae (slag)."
    "scrībēbat" "he was writing"
    "scrīpsit" "he wrote"
@@ -780,6 +786,7 @@
    "sita" "sita est = is located; idiomatic usage of past passive participle of sinō, sinere, sīvī, situs"
    "sīve" "or, what if"
    "sōlum" "only, just, barely, merely"
+   "sotiātur" "it is joined; 3rd person singular present passive from a variant spelling of sociāre"
    "speciāliter" "specifically, individually; adverb from speciālis, speciāle"
    "spontāneē" "spontaneously"
    "statim" "immediately"
@@ -835,6 +842,7 @@
    "Titūrī" "Titūrius, a Roman family name (genitive case)"
    "Titūrium" "Titūrius, a Roman family name (accusative case)"
    "Titūrius" "Titūrius, a Roman family name (nominative case)"
+   "tot" "this many"
    "totidem" "as many, the same number of"
    "trecenta" "300"
    "trecentās" "300"
@@ -875,6 +883,7 @@
    "valdē" "very"
    "vel" "or"
    "vēlōciter" "quickly"
+   "velut" "same as, for example"
    "veniō, venīre, vēnī, ventus" "to come"
    "vēnērant" "they had came"
    "vēnissent" "they (might) have had come"
@@ -914,6 +923,7 @@
    "vōtum" "vow"
    "vult" "he wants; singular 3rd person present from volō, velle, voluī (irr.)"
    "vultis" "you want; plural 2nd person present from volō, velle, voluī (irr.)"
+   "Westfalōs" "Westphalians, members of a Saxon tribe"
    "X" "ten"
    "XVIII" "eighteen"
    "XXX" "thirty"
@@ -1235,6 +1245,7 @@
    "āgnōvit" "he recognized, he realized"
 
    "ager" "field"
+   "agrī" "fields"
    "agrīs" "fields"
    "agrō" "field"
    "agrōs" "fields"
@@ -1423,6 +1434,10 @@
    "ammonēbat" "he was admonishing, he was advising"
    "ammonēre" "to admonish, to advise"
    "ammoneō, ammonēre, ammonuī, ammonitus" "to admonish, to advise"
+
+   "amnis" "river"
+   "amne" "river"
+   "amnis, amnis" "river"
 
    "amor" "love"
    "amōrem" "love"
@@ -1665,6 +1680,7 @@
    "archiepiscopīs" "archbishops"
    "archiepiscopus, archiepiscopī" "archbishop"
 
+   "ārdēbant" "they were burning"
    "ārdēns" "burning"
    "ārdent" "they burn"
    "ardentem" "burning"
@@ -1876,7 +1892,8 @@
    "auscultāns" "listening, overhearing, obeying"
    "auscultāre" "to listen, to overhear, to obey"
    "auscultō, auscultāre, auscultāvī, auscultātus" "to listen, to overhear, to obey"
-   
+
+   "austrō" "south"
    "austrum" "south wind"
    "auster, austrī" "south wind"
    "austrālem" "southern"
@@ -1937,6 +1954,7 @@
    "barba" "beard"
    "barba, barbae" "beard"
 
+   "barbara" "barbarous"
    "barbarōrum" "of the barbarous"
    "barbarīs" "barbarous"
    "barbarus" "barbarous"
@@ -2343,6 +2361,7 @@
 
    "castellīs" "castles, strongholds"
    "castellō" "castle, stronghold"
+   "castellum" "castle, stronghold"
    "castellum, castellī" "castle, stronghold"
 
    "castram" "fort"
@@ -2931,6 +2950,7 @@
    "confinibus" "bordering"
    "cōnfīnis, cōnfīnis, cōnfīne" "bordering"
 
+   "cōnfīnia" "borders"
    "cōnfīniō" "border"
    "cōnfīnium" "border"
    "cōnfīnium, cōnfīniī" "border"
@@ -2983,6 +3003,11 @@
 
    "coniūnctiōne" "conjunction, association"
    "coniūnctiō, coniūnctiōnis" "conjunction, association"
+
+   "coniūncta" "having been joined together"
+   "coniungitur" "it is joined together"
+   "coniungere" "to join together"
+   "coniungō, coniungere, coniūnxī, coniūnctus" "to join together"
 
    "coniuge" "spouse"
    "coniugibus" "spouses"
@@ -3963,6 +3988,9 @@
    "dissentīrent" "they were disagreeing"
    "dissentīre" "to disagree"
    "dissentiō, dissentīre, dissēnsī, dissēnsus" "to disagree"
+
+   "distat" "it stands apart, it is distant"
+   "distō, distāre, -, -" "to stand apart, be distant"
 
    "distillābat" "it was dripping"
    "distīllō, distīllāre, distīllāvī, distīllātus" "to drip"
@@ -5943,6 +5971,10 @@
    "intulissent" "they (might) have carried, imported"
    "illātīs" "having been brought in"
    "īnferō, īnferre, intulī, illātus" "to carry, import"
+
+   "īnfēstant" "they infest"
+   "īnfēstāre" "to infest"
+   "īnfēstō, īnfēstāre, īnfēstāvī, īnfēstātus" "to infest"
    
    "īnfīnīta" "endless, infinite"
    "īnfīnītus, īnfīnīta, īnfīnītum" "endless, infinite"
@@ -5972,6 +6004,9 @@
 
    "inhabitābilis" "uninhabitable"
    "inhabitābilis, inhabitābilis, inhabitābile" "uninhabitable"
+
+   "inhabitābant" "they inhabited"
+   "inhabitō, inhabitāre, inhabitāvī, inhabitātus" "to inhabit"
 
    "inimīcī" "enemy"
    "inimīcō" "enemy"
@@ -6871,6 +6906,7 @@
    "maneat" "he remains"
    "maneant" "they remain"
    "manēbunt" "they will remain"
+   "manentēs" "remaining"
    
    "manifestāvit" "he revealed"
    "manifestō, manifestāre, manifestāvī, manifestātus" "to reveal"
@@ -6969,6 +7005,7 @@
    "medietās" "center, midpoint"
    "medietās, medietātis" "center, midpoint"
 
+   "mediā" "middle"
    "mediae" "middle"
    "medius, media, medium" "middle"
    
@@ -7231,6 +7268,7 @@
    "monumentum" "monument, memorial, tomb"
    "monumentum, monumentī" "monument, memorial, tomb"
 
+   "morantur" "they stay, delay"
    "morārī" "to stay, delay"
 
    "moriēris" "you will die"
@@ -7743,6 +7781,9 @@
    "occidentālem" "western"
    "occidentālis" "western"
    "occidentālibus" "western"
+
+   "occiduā" "westerly"
+   "occiduus, occidua, occiduum" "western"
    
    "occīdī" "I killed"
    "occīdō" "I kill"
@@ -8020,6 +8061,10 @@
    "pāgānīs" "peasant, villager, rustic"
    "pāgānus" "peasant, villager, rustic"
    "pāgānus, pāgānī" "peasant, villager, rustic"
+
+   "pāgōs" "district, region"
+   "pāgus" "district, region"
+   "pāgus, pāgī" "district, region"
    
    "pānibus" "bread"
    "pānis" "bread"
@@ -8297,6 +8342,9 @@
    "perfectīs" "having been accomplished"
    "perficere" "to finish, to accomplish"
    "perficiō, perficere, perfēcī, perfectus" "to finish, to accomplish"
+
+   "perfida" "treacherous, deceitful"
+   "perfidus, perfida, perfidum" "treacherous, deceitful"
    
    "perfīniēbat" "he was completing"
    "perfīnītum" "having been completed"
@@ -8525,6 +8573,7 @@
    "planta, plantae" "sole"
 
    "plēbis" "common people"
+   "plēbs" "common people"
    "plēbs, plēbis" "common people"
    
    "plēnā" "full"
@@ -9317,6 +9366,7 @@
    "recēdit" "it recedes"
    "recēdite" "withdraw!"
    "recesserit" "it will have withdrawn"
+   "recessit" "he withdrew"
    "recēdō, recēdere, recessī, recessus" "to recede, to withdraw"
 
    "receptum" "engagement, obligation"
@@ -9665,6 +9715,10 @@
    "revēlātiō, revēlātiōnis" "revelation"
    
    "revēlātor" "revealer"
+
+   "revulsī" "having been torn away"
+   "revellere" "to tear away"
+   "revellō, revellere, revellī, revulsus" "to tear away"
    
    "reverentia" "reverence, timidity, shyness"
    "reverentia, reverentiae" "reverence, timidity, shyness"
@@ -9884,6 +9938,9 @@
 
    "salīnārum" "of salt-pits"
    "salīnae, salīnārum" "salt-pits"
+
+   "saltem" "I jump"
+   "saltō, saltāre, saltāvī, saltātus" "to jump"
 
    "saltus" "narrow pass, mountain defile, leap, jump"
    "saltūs" "narrow pass, mountain defile, leap, jump"
@@ -10325,12 +10382,17 @@
 
    "sitiēbant" "they were thirsting"
    "sitiō, sitīre, sitīvī, sitītus" "to thirst"
+
+   "sociāta" "having been allied"
+   "sociāre" "to ally"
+   "sociō, sociāre, sociāvī, sociātus" "to ally"
    
    "sociō" "associate, companion"
    "sociīs" "associates, companions"
    "sociōs" "associates, companions"
    "socius" "associate, companion"
    "socius, soci(ī)" "associate, companion"
+   
    "sodālibus" "companions"
    "sodālis, sodālis" "companions"
 
@@ -10901,6 +10963,7 @@
    "tenuissent" "they (might) have had held"
    "tenēre" "to hold"
    "tenēbunt" "they will hold"
+   "tenuēre" "they held, alternative spelling of tenuērunt"
    "teneō, tenēre, tenuī, tentus" "to hold, to keep"
    
    "tenebrōsus" "dark"
@@ -10933,6 +10996,7 @@
    
    "terra" "land"
    "terrae" "land"
+   "terrīs" "lands"
    "terra, terrae" "land"
    "terrārum" "of lands"
 
@@ -11667,6 +11731,7 @@
 
    "vincēbantur" "they were conquered"
    "vīctī" "having been conquered"
+   "vincere" "to conquer"
    "vincō, vincere, vīcī, victus" "to conquer"
 
    "vincula" "chains"
@@ -11789,6 +11854,10 @@
    "vōciferātus" "having been yelled"
    "vōciferantēs" "crying, yelling"
    "vōciferō, vōciferāre, vōciferāvī, vōciferātus" "to cry, yell"
+
+   "vocitant" "they call"
+   "vocitāre" "to call"
+   "vocitō, vocitāre, vocitāvī, vocitātus" "to call"
    
    "volātū" "flying, flight"
    "volātus" "flying, flight"
