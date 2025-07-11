@@ -2700,6 +2700,7 @@
    "coiciō, coicere, coiēcī, coiectus" "to throw, to guess"
 
    "colēbant" "they were worshiping"
+   "coluit" "he worshipped"
    "colō, colere, coluī, cultus" "to worship"
    
    "collēctiō" "collection"
@@ -3196,6 +3197,9 @@
    "contigit" "to come to, to touch"
    "contingat" "he (might) touch, he (might) come to"
    "contingō, contingere, contigī, contāctus" "to come to, to touch"
+
+   "continuātō" "continuous"
+   "continuātus, continuāta, continuātum" "continuous"
    
    "continuās" "continuous"
    "continuōs" "continuous"
@@ -4701,6 +4705,9 @@
    "facile" "easy"
    "facilius" "easier"
    "facilis, facile, facilior -or -us, facillimus -a -um" "easy"
+
+   "factūra" "making, manufacture, creation"
+   "factūra, factūrae" "making, manufacture, creation"
 
    "facultās"  "means, ability"
    "facultāte" "means, ability"
