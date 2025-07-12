@@ -138,6 +138,7 @@
    "carnūtēs" "A Celtic tribe of Gallia Lugdunensis (nominative or accusative)"
    "carnūtibus" "A Celtic tribe of Gallia Lugdunensis (dative or ablative)"
    "Carolomannus" "Carloman, son of Pepin the Short and co-ruler of the Frankish kingdom with Charlemagne"
+   "carolī" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
    "carolō" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
    "carolus" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
    "cassium" "Lucius Cassius Longinus (c. 151 - 107 BC), a consul who was killed at the Battle of Burdigala"
@@ -207,6 +208,7 @@
    "dēmorātī" "dēmorātī + sunt = they were detained"
    "dēnāriōrum" "of denarii"
    "dēnique" "finally"
+   "Dēsīderius" "King Desiderius, final King of the Lombards (720-786)"
    "dēsuper" "above"
    "dēterius" "worse, unfavorably"
    "dīligenter" "diligently"
@@ -447,6 +449,7 @@
    "istīs" "those; plural dative or ablative from iste, ista, istud"
    "Israel" "Israel"
    "ita" "yes"
+   "ītaliae" "Italy (genitive or locative case)"
    "ītaliam" "Italy (accusative case)"
    "itaque" "so then, therefore"
    "item" "just like"
@@ -469,6 +472,7 @@
    "leviathan" "Leviathan, a sea monster mentioned in Job 40:25."
    "licet" "allow"
    "locūtus" "locūtus est = he spoke"
+   "Langōbardōs" "the Lombards"
    "magis" "rather, more"
    "magnopere" "much, very, urgently"
    "mala" "evil, bad"
@@ -754,6 +758,7 @@
    "semetipsum" "he himself"
    "semper" "always"
    "sēparātim" "separately, apart"
+   "sēpe" "often; variant spelling of saepe"
    "septem" "seven"
    "septimum" "seventh"
    "septimus" "seventh"
@@ -1145,6 +1150,7 @@
    "adventus, adventūs" "arrival, approach"
 
    "adversa" "opposite, hostile"
+   "adversus" "opposite, hostile"
    "adversus, adversa, adversum" "opposite, hostile"
 
    "aedificābitur" "it will be built"
@@ -2815,6 +2821,9 @@
    "commorātur" "he dwells"
    "commoro, commorare, commoravi, commoratus" "to dwell on"
 
+   "commovet" "it agitates"
+   "commoveō, commovēre, commōvī, commōtus" "to agitate"
+
    "commūne" "common property"
    "commūnī" "common property"
    "commūne, commūnis" "common property"
@@ -3043,6 +3052,9 @@
    "cōnōpēō" "canopy"
    "cōnōpēum" "canopy"
    "cōnōpēum, cōnōpēī" "canopy"
+
+   "cōnscendere" "to climb up, mount"
+   "cōnscendō, cōnscendere, cōnscendī, cōnscēnsus" "to climb up, mount"
 
    "cōnscientia"  "conscience"
    "cōnscientiae" "of conscience"
@@ -3725,6 +3737,9 @@
    "dēnūntiābat" "he was foretelling, giving notice"
    "dēnūntiāre" "to foretell, to give notice"
    "dēnūntiō, dēnūntiāre, dēnūntiāvī, dēnūntiātus" "to foretell, to give notice"
+
+   "dēpōscere" "to demand, require, challenge"
+   "dēpōscō, dēpōscere, dēpopōscī, -" "to demand, require, challenge"
 
    "dēpositīs" "deposits, trusts"
    "dēpositum, dēpositī" "deposit, trust"
@@ -4836,6 +4851,7 @@
    "fervēre" "to boil"
    "ferveō, fervēre, ferbuī, -" "to boil"
 
+   "fervor" "boiling heat"
    "fervōre" "boiling heat"
    "fervōris" "boiling heat"
    "fervor, fervōris" "boiling heat"
@@ -5000,7 +5016,8 @@
    "fluit" "it flows"
    "fluunt" "they flow"
    "fluō, fluere, flūxī, flūxus" "to flow"
-   
+
+   "flūctus" "wave, billow, turbulence"
    "flūctuum" "of waves, of billows, of turbulence"
    "flūctibus" "waves, billows, turbulence"
    "flūctus, flūctūs" "wave, billow, turbulence"
@@ -5601,6 +5618,9 @@
    "hospitālis" "hospitable"
    "hospitālis, hospitālis, hospitāle" "hospitable"
 
+   "hostīlēs" "enemies"
+   "hostīlis, hostīlis, hostīle" "enemy"
+
    "hoste" "enemy"
    "hostēs" "enemies"
    "hostibus" "enemies"
@@ -5833,6 +5853,9 @@
 
    "impotentēs" "the weak, powerless"
    "impotēns, (gen.), impotentis" "the weak, powerless"
+
+   "improba" "bad"
+   "improbus, improba, improbum" "bad"
 
    "imprōvīsō" "unexpected"
    "imprōvīsus, imprōvīsa, imprōvīsum" "unexpected"
@@ -6345,6 +6368,10 @@
    "eundum" "going"
    "eundī" "of going"
 
+   "īra" "anger"
+   "īrae" "anger"
+   "īra, īrae" "anger"
+
    "īrāta" "angry"
    "īrātus" "angry"
    "īrātus, īrāta, īrātum" "angry"
@@ -6624,6 +6651,7 @@
    "lēgātīs" "legate, ambassador"
    "lēgātō" "legate, ambassador"
    "lēgātōs" "legate, ambassador"
+   "lēgātum" "legate, ambassador"
    "lēgātus" "legate, ambassador"
    "lēgātus, lēgātī" "legate, ambassador"
 
@@ -7040,6 +7068,9 @@
    "mediaevālis" "medieval"
    "mediaevālī" "medieval"
    "mediaevālis, mediaevālis, mediaevāle" "medieval"
+
+   "mediante" "mediating"
+   "medior, mediārī, mediātus" "mediating"
    
    "medicōs" "doctors"
    "medicus, medicī" "doctor"
@@ -7068,6 +7099,7 @@
    "memoria, memoriae" "memory, historical account"
 
    "mente" "mind"
+   "mentēs" "minds"
    "mēns, mentis" "mind"
    
    "mēnsa" "table"
@@ -7791,6 +7823,7 @@
    "obsideō, obsidēre, obsēdī, obsessus" "to besiege"
    
    "obsidēs" "hostages"
+   "obsidibus" "hostages"
    "obsidum" "of hostages"
    "obses, obsidis" "hostage"
 
@@ -7921,6 +7954,7 @@
    "omnium" "of all"
    "omnibus" "all"
    "omnipotēns" "all-powerful"
+   "omnipotentis" "all-powerful"
    "omnipotēns, (gen.), omnipotentis" "all-powerful"
    
    "onerantibus" "loading"
@@ -8383,6 +8417,10 @@
    "perequitant" "they run through"
    "perequitāre" "to ride through"
    "perequitō, perequitāre, perequitāvī, perequitātus" "to ride through"
+
+   "pererrāns" "wandering through, rambling over"
+   "pererrāre" "to wander through, to ramble over"
+   "pererrō, pererrāre, pererrāvī, pererrātus" "to wander through, to ramble over"
 
    "perfacilis" "very easy"
    "perfacile"  "very easy"
@@ -9037,6 +9075,9 @@
    "proeliō"  "battle, conflict"
    "proelium" "battle, conflict"
    "proelium, proeliī" "battle, conflict"
+
+   "profānī" "profane"
+   "profānus, profāna, profānum" "profane"
    
    "profectiōnem" "departure, source"
    "profectiō, profectiōnis" "departure, source"
@@ -9155,6 +9196,9 @@
    "prōrae" "prow"
    "prōram" "prow"
 
+   "prōrumperet" "it was rushing forth"
+   "prōrumpō, prōrumpere, prōrūpī, prōruptus" "to rush forth, to break out"
+
    "prōsequī" "to escort, to pursue"
    
    "prosper" "favorable"
@@ -9162,6 +9206,9 @@
    "prosperō" "favorable, prosperous"
    "prosperum" "favorable, prosperous"
    "prosperus, prospera -um, prosperior -or -us, prosperrimus -a -um" "favorable, prosperous"
+
+   "prosperitāte" "success, prosperity"
+   "prosperitās, prosperitātis" "success, prosperity"
    
    "prostrāvit" "he prostrated"
    "prostrāvēre" "they prostrated"
@@ -9429,6 +9476,7 @@
    
    "recēpistī" "you received"
    "receptās" "having been received"
+   "receptīs" "having been received"
    "receptōs" "having been received"
    "recēpērunt" "they received, they kept back"
    "recēperat" "he had received"
@@ -9544,6 +9592,10 @@
    "refulgeō, refulgēre, refulsī, -" "to shine"
    "refugium" "refuge"
    "refugium, refugiī" "refuge"
+
+   "rēgālia" " regal, royal"
+   "rēgāle, rēgālis" "regal, royal"
+   "rēgālis, rēgālis, rēgāle" "regal, royal"
 
    "rēgia" "royal palace, court"
    "rēgiīs" "royal palaces, courts"
@@ -10356,6 +10408,10 @@
 
    "siccitātēs" "drought, dryness"
    "siccitās, siccitātis" "drought, dryness"
+
+   "siccī" "dry place"
+   "siccum" "dry place"
+   "siccum, siccī" "dry place"
    
    "siccōs" "dry, thirsty"
    "siccus, sicca, siccum" "dry, thirsty"
@@ -10776,6 +10832,9 @@
    "subvēnit" "he brought aid"
    "subveniō, subvenīre, subvēnī, subventus" "to bring aid"
 
+   "subversiō" "overthrow, destruction"
+   "subversiō, subversiōnis" "overthrow, destruction"
+
    "succēdere" "to climb, to succeed"
    "succēdō, succēdere, successī, successus" "to climb, to succeed"
    
@@ -10798,6 +10857,7 @@
    "sufficiat" "it (might) suffice"
    "sufficiō, sufficere, suffēcī, suffectus" "to suffice"
    "sufficit" "it suffices"
+   "sufficiēns" "sufficing"
    
    "sufflantium" "inflating"
    "sufflō, sufflāre, sufflāvī, sufflātus" "inflating"
@@ -11142,6 +11202,7 @@
    "tormentum, tormentī" "torment, cannon"
 
    "torrentem" "torrent"
+   "torrentis" "torrent"
    "torrēns, torrentis" "torrent"
    
    "tōta" "whole, total"
