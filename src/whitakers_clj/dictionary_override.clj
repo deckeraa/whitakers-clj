@@ -115,6 +115,7 @@
    "bene" "good; adverb of bonus -a -um"
    "bifāriē" "in two ways, variant spelling of bifāriam"
    "bifāriam" "in two ways"
+   "bis" "twice"
    "boiōs" "the Boii, who live across the Rhine from the Helvetii"
    "bovēs" "cows; plural masc. or fem. nom. or acc. from bōs, bovis"
    "Brendānī" "(genitive case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
@@ -224,7 +225,7 @@
    "ē" "out of, from"
    "ea" "it; singular feminine nominative or plural neuter nom. or acc. from is, ea, id"
    "eā" "there, that way"
-   "eadem" "the same, singular feminine nominative or plural neutern nominative or ablative"
+   "eadem" "the same, singular feminine nominative or plural neuter nominative or ablative"
    "eam" "her; singular feminine accusative from is, ea, id"
    "eārum" "their; plural feminine genitive from is, ea, id"
    "eās" "their; plural feminine accusative from is, ea, id"
@@ -248,6 +249,7 @@
    "eōrum" "their; plural masc. or neuter. genitive"
    "Ercī" "Erc, Bishop of Slane (-513 A.D.)"
    "Ercō" "Erc, Bishop of Slane (-513 A.D.)"
+   "Ērēsburg" "a Saxon refuge castle near modern-day Obermarsberg"
    "ergō" "therefore"
    "esse" "to be"
    "et" "and"
@@ -348,6 +350,7 @@
    "Iohanne" "John the Baptist"
    "Iohannem" "John the Baptist (accusative)"
    "Ionam" "Jonah, the prophet to Nineveh who spent three days in the belly of a sea monster; from Ionas, Ionae."
+   "Irminsul" "the name of an idol, or type of idol that the Saxons worshipped"
    "Iūram" "Mount Jura"
    "gravitātis" "gravity, weight, importance; singular feminine genitive from gravitās, gravitātis"
    "gravitāte" "gravity, weight, importance; singular feminine ablative from gravitās, gravitātis"
@@ -1437,6 +1440,7 @@
 
    "amnis" "river"
    "amne" "river"
+   "amnem" "river"
    "amnis, amnis" "river"
 
    "amor" "love"
@@ -1821,6 +1825,9 @@
    "attingēbat" "they were touching"
    "attingit" "it touches, it borders"
    "attingō, attingere, attigī, attāctus" "to touch, to border on, to reach"
+
+   "aucta" "increased"
+   "auctus, aucta, auctum" "increased"
 
    "auctōre"  "authority"
    "auctōrem" "authority"
@@ -2218,7 +2225,8 @@
 
    "callidus" "clever, crafty"
    "callidus, callida -um, callidior -or -us, callidissimus -a -um" "clever, crafty"
-   
+
+   "calōre" "warmth, heat"
    "calōrem" "warmth, heat"
    "calor, calōris" "warmth, heat"
 
@@ -2874,6 +2882,9 @@
    "cōnantur" "they attempt"
    "cōnārī" "to try, to attempt"
    "cōnor, cōnārī, cōnātus sum" "to try, to attempt"
+
+   "concava" "hollow"
+   "concavus, concava, concavum" "hollow"
    
    "concedit" "he concedes, he allows"
    "concessit" "he conceded, he allowed"
@@ -3583,8 +3594,13 @@
    
    "decet" "it is fitting"
    "decet, decēre, decuit, -" "it is fitting"
+   
    "dēclārābitur" "he will announce"
    "dēclārō, dēclārāre, dēclārāvī, dēclārātus" "to announce"
+
+   "decōris" "elegance, beauty"
+   "decor, decōris" "elegance, beauty"
+   
    "dēcrēscant" "they (might) be decreasing"
    "dēcrēvērunt" "they decreased"
    "dēcrēscit" "it decreased"
@@ -4489,6 +4505,7 @@
    "exercitātiō, exercitātiōnis" "exercise, training"
 
    "exercitū" "army"
+   "exercituī" "army"
    "exercitum" "army"
    "exercitus" "army"
    "exercitūs" "army"
@@ -4741,14 +4758,21 @@
    "famulōrum" "of servants, of companions"
    "famulōs" "servants, companions"
    "famulus, famulī" "servant, companion"
+
+   "fānum" "temple"
+   "fānī" "temple"
+   "fānum, fānī" "temple"
    
    "fasciculum" "small bundle"
    "fasciculus, fasciculī" "small bundle"
    
    "fateor" "I admit"
    "fateor, fatērī, fassus sum" "to admit, to confess (deponent)"
+
+   "fatīgābat" "it was wearying"
    "fatīgāre" "to grow weary, to fatigue"
    "fatīgō, fatīgāre, fatīgāvī, fatīgātum" "to grow weary, to fatigue"
+   
    "favilla" "ember"
    "favilla, favillae" "ember"
 
@@ -4811,6 +4835,8 @@
    "fertilitās, fertilitātis" "fruitfulness, fertility"
    "fervēre" "to boil"
    "ferveō, fervēre, ferbuī, -" "to boil"
+
+   "fervōre" "boiling heat"
    "fervōris" "boiling heat"
    "fervor, fervōris" "boiling heat"
 
@@ -4914,8 +4940,12 @@
    "fieret" "it happened"
    "fierī" "to happen, to occur"
    "fīō, fierī, factus sum" "to happen, to occur"
+   
    "firmāmentī" "strengthening, support"
    "firmāmentum, firmāmentī" "strengthening, support"
+
+   "fīrmātum" "having been hardened, confirmed"
+   "fīrmō, fīrmāre, fīrmāvī, fīrmātus" "to harden, confirm"
 
    "fīrma" "firm"
    "fīrmissimōs" "very firm"
@@ -5284,6 +5314,7 @@
    "geruntur" "they were carried, governed"
    "gestum" "having been carried out"
    "gessit" "he bore, carried"
+   "gestīs" "having been carried out"
    "gerere" "to bear, to carry, to govern"
    "gerō, gerere, gessī, gestus" "to bear, to carry, to govern"
 
@@ -5348,6 +5379,7 @@
    "gravidō, gravidāre, gravidāvī, gravidātus" "to impregnate"
 
    "gravī" "heavy, grave"
+   "graviter" "heavily, gravely"
    "gravis, grave, gravior -or -us, gravissimus -a -um" "heavy, grave"
    "gravius" "graver, heavier"
    
@@ -6418,6 +6450,9 @@
    "iussum" "command, order"
    "iussum, iussī" "command, order"
 
+   "iūsta" "just, righteous"
+   "iūstus, iūsta -um, iūstior -or -us, iūstissimus -a -um" "just, righteous"
+
    "iunius" "younger"
    "iuvenum" "of the young men"
    "iuvene" "young man"
@@ -7275,6 +7310,9 @@
    "monumentum" "monument, memorial, tomb"
    "monumentum, monumentī" "monument, memorial, tomb"
 
+   "mora" "delay"
+   "mora, morae" "delay"
+
    "morantur" "they stay, delay"
    "morārī" "to stay, delay"
 
@@ -7453,6 +7491,9 @@
    "nātūra" "nature"
    "nātūra, nātūrae" "nature"
 
+   "nātūrālī" "natural"
+   "nātūrālis, nātūrālis, nātūrāle" "natural"
+
    "naufragiō" "shipwreck"
    "naufragium" "shipwreck"
    "naufragium, naufragiī" "shipwreck"
@@ -7590,6 +7631,10 @@
    "nōminibus" "names"
    "nōmen" "name"
    "nōmen, nōminis" "name"
+
+   "nōminat" "it names"
+   "nōminābātur" "he was named, called"
+   "nōminō, nōmināre, nōmināvī, nōminātus" "to name"
    
    "noster" "our"
    "noster, nostra, nostrum" "our"
@@ -7609,9 +7654,6 @@
    "nōlō" "I don't want"
    "nōluit" "he didn't want"
    "nōlō, nōlle, nōluī, -" "to not want"
-
-   "nōminābātur" "he was named, called"
-   "nōminō, nōmināre, nōmināvī, nōminātus" "to name, call"
 
    "nōnāgēnāriīs" "ninety years"
    "nōnāgēnārius" "ninety years old"
@@ -7926,6 +7968,7 @@
    "opera" "works, deeds"
    "opere" "work, deed"
    "operibus" "works, deeds"
+   "operis" "work, deed"
    "opus" "work, deed"
    "opus, operis" "work, deed"
 
@@ -8136,6 +8179,7 @@
    "parturiō, parturīre, parturīvī, -" "to give birth, to be in labor"
 
    "parvam" "small"
+   "parvī" "small"
    "parvum" "small"
    "parvus, parva, parvum" "small"
    
@@ -8641,6 +8685,7 @@
    "positam" "having been put"
    "posuerat" "he had put"
    "posuit" "he put"
+   "positīs" "having been placed"
    "pōnō, pōnere, posuī, positus" "to put, to place"
 
    "populō" "peoples, populaces"
@@ -8687,6 +8732,9 @@
    "portum" "harbor, port"
    "portus" "harbor, port"
    "portus, portūs" "harbor, port"
+
+   "positus" "position"
+   "positus, positūs" "position"
 
    "possessiōnēs" "properties"
    "possessiō, possessiōnis" "property"
@@ -9799,6 +9847,7 @@
    "rīvulōs" "small brooks, rivulets"
    "rīvulus, rīvulī" "small brook, rivulet"
 
+   "rīvī" "small stream"
    "rīvus" "small stream"
    "rīvus, rīvī" "small stream"
    
@@ -10259,6 +10308,7 @@
    "sēquanōs" "Members of a Gallic tribe"
 
    "serēna"  "serene"
+   "serēnō" "serene"
    "serēnus" "serene"
    "serēnum" "serene"
    "serēnus, serēna, serēnum" "serene"
@@ -10346,7 +10396,12 @@
    "silva, silvae" "forest"
 
    "similēs" "similar"
+   "similis" "similar"
    "similis, simile" "similar"
+
+   "simulācrī" "image, likeness"
+   "simulācrum" "image, likeness"
+   "simulācrum, simulācrī" "image, likeness"
 
    "simulāvit" "he simulated"
    "simulō, simulāre, simulāvī, simulātus" "to simulate"
@@ -10557,6 +10612,9 @@
    "spūmantem" "foaming"
    "spūmō, spūmāre, spūmāvī, spūmātus" "to foam"
 
+   "squālēbant" "they were dry, rough, barren"
+   "squāleō, squālēre, squāluī, -" "to be dry, rough, barren"
+
    "stabilitās"   "stability"
    "stabilitātem" "stability"
    "stabilitātis" "stability"
@@ -10579,6 +10637,9 @@
    "statiōnem" "station, guard"
    "statiōnis" "station, guard"
    "statiō, statiōnis" "station, guard"
+
+   "statuit" "he decided"
+   "statuō, statuere, statuī, statūtus" "to decide, establish"
 
    "stercus" "dung"
    "stercore" "dung"
@@ -11090,6 +11151,7 @@
    "tōtō" "whole, total"
    "tōtum" "whole, total"
    "tōtus" "whole, total"
+   "tōtīs" "whole, total"
    "tōtus, tōta, tōtum (gen -ius)" "whole, total"
    
    "tractāre" "to haul, to drag, to handle, to discuss"
@@ -11457,6 +11519,7 @@
    "valeō, valēre, valuī, valitūrus" "to be healthy, able, strong"
 
    "valida" "strong, healthy"
+   "validō" "strong, healthy"
    "validus, valida, validum" "strong, healthy"
 
    "vallem" "valley"
@@ -11481,6 +11544,7 @@
    "vāsculum, vāsculī" "small vessel"
    "vāsculōrum" "of small vessels"
 
+   "vāstāvit" "he ravaged, devastated"
    "vāstāvērunt" "they ravaged, they devastated"
    "vāstō, vāstāre, vāstāvī, vāstātus" "to lay waste, to devastate, to ravage"
 
@@ -11863,6 +11927,7 @@
    "vōciferō, vōciferāre, vōciferāvī, vōciferātus" "to cry, yell"
 
    "vocitant" "they call"
+   "vocitābant" "they called"
    "vocitāre" "to call"
    "vocitō, vocitāre, vocitāvī, vocitātus" "to call"
    
