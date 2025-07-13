@@ -485,6 +485,7 @@
    "mandātum" "mandate; singular masculine nominative or accusative from mandātum, mandātī"
    "manē" "morning"
    "mānsī" "I remained; singular 1st person perfect from maneō, manēre, mānsī, mānsus"
+   "Massiliam" "Marseille, a city in southern France"
    "maximē" "greatly"
    "mē" "to me, accusative from ego"
    "mēcum" "with me (mē + cum)"
@@ -1072,6 +1073,9 @@
    "adimplēbō" "I will fulfill"
    "adimplēre" "to fill up, to fulfill"
    "adimpleō, adimplēre, adimplēvī, adimplētum" "to fill up, to fulfill"
+
+   "adīvit" "he approached, visited"
+   "adeō, adīre, adivī(iī), aditus" "to approach, visit"
    
    "aditus" "approach, entrance"
    "aditus, aditūs" "approach, entrance"
@@ -1569,6 +1573,11 @@
    "ānulus" "ring"
    "ānulus, ānulī" "ring"
 
+   "ānxietās" "anxiety"
+   "ānxietātī" "anxiety"
+   "ānxietātis" "anxiety"
+   "ānxietās, ānxietātis" "anxiety"
+
    "apertā"  "having been opened"
    "apertō"  "having been opened"
    "apertum" "having been opened"
@@ -1585,6 +1594,7 @@
    "apostolōs" "apostle"
    "apostolus, apostolī" "apostle"
 
+   "apostolicae" "the Pope (medieval usage), bishop, apostle"
    "apostolicus" "the Pope (medieval usage), bishop, apostle"
    "apostolicus, apostolicī" "the Pope (medieval usage), bishop, apostle"
 
@@ -1876,6 +1886,7 @@
    "augeō, augēre, auxī, auctus" "to increase, augment"
 
    "aula" "court"
+   "aulae" "court"
    "aulam" "court"
    "aula, aulae" "court"
 
@@ -2194,6 +2205,7 @@
 
    "caelestem" "heavenly"
    "celeste" "heavenly"
+   "celestis" "heavenly"
    "celestis, celeste, celestior -or -us, celestissimus -a -um" "heavenly"
 
    "Caesar" "Caesar"
@@ -2626,6 +2638,9 @@
    "clāvandum" "batting"
    "clāvāre" "to bat"
    "clāvō, clāvāre, -, clāvātus" "to bat"
+
+   "clāviger" "key-bearer"
+   "clāviger, clāvigerī" "key-bearer"
    
    "clēmentia, clēmentiae" "mercy, clemency"
    "clēmentiae" "mercies"
@@ -3828,6 +3843,8 @@
    "dēvorāvērunt" "they devoured"
    "dēvorāvit" "he devoured"
    "dēvorō, dēvorāre, dēvorāvī, dēvorātus" "to devour"
+
+   "dēvōtē" "devotedly"
    
    "dēvorātōrem" "devourer, glutton"
    "dēvorātor, dēvorātōris" "devourer, glutton"
@@ -8584,6 +8601,8 @@
    "peterent" "they asked for"
    "petīvērunt" "they asked for"
    "petīvissent" "they (might) have had asked"
+   "peteret" "he was asking for"
+   "petere" "to ask for"
    "petō, petere, petīvī, petītus" "to ask for"
 
    "petītiō" "petition"
@@ -8963,6 +8982,7 @@
    "premantur" "they are being overwhelmed"
    "premī" "to be pressed, to be overwhelmed"
    "premit" "he presses, he overwhelms"
+   "premēbat" "he was pressing, overwhelming, oppressing"
    "premō, premere, pressī, pressus" "to press, to overwhelm"
 
    "presbyter" "elder, presbyter"
@@ -9032,6 +9052,10 @@
    "processit" "he proceeded, advanced"
    "procēdere" "to proceed"
    "procēdō, procēdere, processī, processus" "to proceed"
+
+   "procella" "storm, violence, sudden attack"
+   "procellae" "storm, violence, sudden attack"
+   "procella, procellae" "storm, violence, sudden attack"
 
    "procer" "nobleman"
    "procerēs" "noblemen"
@@ -10012,6 +10036,9 @@
    
    "sacrāmentum" "sacrament"
    "sacrāmentum, sacrāmentī" "sacrament"
+
+   "sacrātus" "sacred"
+   "sacrātus, sacrāta, sacrātum" "sacred"
    
    "sacrificāre" "sacrifice"
    "sacrificēmus" "we (might) sacrifice"
@@ -10744,6 +10771,7 @@
 
    "studeāmus" "we study, are eager for"
    "studēre" "to study, be eager for"
+   "studuit" "he studied, was eager for"
    "studeō, studēre, studuī, -" "to study, be eager for"
 
    "studiīs" "studies, fondness, desire"
@@ -10776,6 +10804,7 @@
    "subcinerīciīs" "baked under ashes"
    "subcinericius, subcinericia, subcinericium" "baked under ashes"
 
+   "subdita" "having been placed under"
    "subdere" "to place under"
    "subdō, subdere, subdidī, subditus" "to place under"
 
@@ -10820,6 +10849,10 @@
    "subsidiō" "support, auxilliary forces"
    "subsidium" "support, auxilliary force"
    "subsidium, subsidiī" "support, auxilliary force"
+
+   "suspectum" "high esteem, respect"
+   "suspectus" "high esteem, respect"
+   "suspectus, suspectūs" "high esteem, respect"
    
    "substantia" "substance"
    "substantiā" "substance"
@@ -11124,6 +11157,7 @@
    
    "terra" "land"
    "terrae" "land"
+   "terrās" "lands"
    "terrīs" "lands"
    "terra, terrae" "land"
    "terrārum" "of lands"
@@ -11239,6 +11273,10 @@
    "trahuntur" "they are drawn, dragged"
    "trahere" "to draw, to drag"
    "trahō, trahere, trāxī, tractus" "to draw, to drag"
+
+   "trāmes" "footpath"
+   "trāmite" "footpath"
+   "trāmes, trāmitis" "footpath"
    
    "tranquillitās" "tranquility"
    "tranquillitātis" "tranquility"
@@ -11385,7 +11423,8 @@
    
    "turbine" "whirlwind, revolution"
    "turben, turbinis" "whirlwind, revolution"
-   
+
+   "turbida" "turbid, troubled, muddy"
    "turbidō" "turbid, troubled, muddy"
    "turbidus" "turbid, troubled, muddy"
    "turbidus, turbida, turbidum" "turbid, troubled, muddy"
@@ -11408,6 +11447,8 @@
    "tūtum" "safety"
    "tūtum, tūtī" "safety"
 
+   "tūtē" "safely"
+   "tūtior" "safer"
    "tūtiōrēs" "safer"
    "tūtissima" "very safe"
    "tūtus, tūta -um, tūtior -or -us, tūtissimus -a -um" "safe"
@@ -11877,9 +11918,13 @@
 
    "vīnum" "wine"
    "vīnum, vīnī" "wine"
+
+   "violentia" "violence"
+   "violentia, violentiae" "violence"
    
    "violet" "he (might) violate"
    "violō, violāre, violāvī, violātus" "to violate"
+   
    "virentibus" "green"
    "vireō, virēre, viruī, -" "to be green, to be vigorous"
    "vir" "man"
@@ -11928,6 +11973,10 @@
    "vītam" "life"
    "vītae" "life"
    "vīta, vītae" "life"
+
+   "vītāret" "they were avoiding"
+   "vītāre" "to avoid"
+   "vītō, vītāre, vītāvī, vītātus" "to avoid"
 
    "vitellus" "small calf"
    "vitellus, vitellī" "small calf"
