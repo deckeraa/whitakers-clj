@@ -587,6 +587,7 @@
    "pārentibus" "parents (ablative or dative case)"
    "parumper" "briefly"
    "passus" "passus + est = to have suffered"
+   "passī" "passī + est = they suffered"
    "paterentur" "they (might) suffer them, allow them; subjunctive imperfect from patī"
    "Patriciī" "of Saint Patrick"
    "paulātim" "little by little"
@@ -1265,6 +1266,10 @@
    "agrum" "field"
    "ager, agrī" "field"
 
+   "agmen" "marching army"
+   "agminis" "marching army"
+   "agmen, agminis" "marching army"
+
    "agnōminis" "surname, nickname"
    "agnōmen, agnōminis" "surname, nickname"
    
@@ -1773,6 +1778,9 @@
    "arcis" "citadel"
    "arx" "citadel"
    "arx, arcis" "citadel"
+
+   "arva" "field, country"
+   "arva, arvae" "field, country"
    
    "ascendentibus" "ascending"
    "ascendēns" "ascending"
@@ -3990,6 +3998,7 @@
    "dīrigēbat" "he was aligning/directing"
    "dīrigite" "arrange! direct!"
    "dīrēxerit" "he will have aligned, directed"
+   "dīrēctus" "having been directed"
    "dīrigō, dīrigere, dīrēxī, dīrēctus" "to arrange in line, to align, to direct"
 
    "dītis" "rich"
@@ -5296,6 +5305,9 @@
    "gaudeō, gaudēre, gavīsus sum" "to rejoice"
 
    "geminīs" "twins"
+
+   "geminō" "double, twin"
+   "geminus, gemina, geminum" "double, twin"
    
    "gemmārum" "of gems"
    "gemmīs" "gems"
@@ -5401,6 +5413,7 @@
    "grātiās" "graces"
 
    "grāta" "agreeable, thankful"
+   "grātum" "agreeable, thankful"
    "grātus, grāta -um, grātior -or -us, grātissimus -a -um" "agreeable, thankful"
 
    "gravābitur" "he will be burdened"
@@ -5963,9 +5976,6 @@
    "incurvō, incurvāre, incurvāvī, incurvātus" "to make crooked, to bend"
    "incurvātae" "being curved"
 
-   "inditum" "having put on"
-   "indō, indere, indidī, inditus" "to put on"
-   
    "indicā" "show! indicate!"
    "indicātam" "having been indicated, shown"
    "indicātum" "having been indicated, shown"
@@ -5976,6 +5986,10 @@
 
    "indicium" "information, discovery, notice"
    "indicium, indiciī" "information, discovery, notice"
+
+   "indidit" "it put on"
+   "inditum" "having put on"
+   "indō, indere, indidī, inditus" "to put on"
 
    "indigēs" "you lack?"
    "indigeō, indigēre, indiguē, -" "to lack"
@@ -6155,6 +6169,9 @@
    
    "īnsertā" "insert! introduce!"
    "īnsertō, īnsertāre, īnsertāvī, īnsertātus" "to insert, to introduce"
+
+   "īnsignis" "distinguished"
+   "īnsignis, īnsignis, īnsigne" "distinguished"
 
    "īnsīgnīta" "having been marked, distinguished"
    "īnsīgniō, īnsīgnīre, īnsīgnīvī, īnsīgnītus" "to mark, distinguish"
@@ -6495,6 +6512,7 @@
    "iussum, iussī" "command, order"
 
    "iūsta" "just, righteous"
+   "iūstum" "just, righteous"
    "iūstus, iūsta -um, iūstior -or -us, iūstissimus -a -um" "just, righteous"
 
    "iunius" "younger"
@@ -7452,6 +7470,7 @@
    "multōrum" "many"
    "multōs" "many"
    "plūrēs" "more"
+   "plūrima" "very many"
    "plūrimās" "very many"
    "plūrimum" "very many"
    "plūrimī" "very many"
@@ -8093,6 +8112,7 @@
 
    "ōrābat" "he was praying"
    "ōrābant" "they were praying"
+   "ōrāns" "praying"
    "ōrāre" "to pray"
    "ōrāvit" "he prayed"
    "ōrō, ōrāre, ōrāvī, ōrātus" "to pray"
@@ -8401,10 +8421,14 @@
 
    "perceptō" "having been perceived, having been learned, having been secured"
    "percipiō, percipere, percēpī, perceptus" "to perceive, to learn, to secure"
+   
 
    "pecūnia"  "money"
    "pecūniam" "money"
    "pecūnia, pecūniae" "money"
+
+   "perculit" "it struck down, overpowered"
+   "percellō, percellere, perculī, perculsus" "to strike down, overpower"
 
    "percurrit" "he ran through"
    "percurrere" "to run through"
@@ -8522,6 +8546,10 @@
    "perpaucī" "very few"
    "perpaucum, perpaucī" "very few"
 
+   "perpendit" "he weighed carefully"
+   "perpendere" "to weigh carefully"
+   "perpendō, perpendere, perpendī, perpēnsus" "to weigh carefully"
+
    "perpessae" "having endured"
    "perpetior, perpetī, perpessus" "to endure"
 
@@ -8625,8 +8653,9 @@
    "pictī" "Picts, a Scottish tribe"
    "pictōs" "Picts, a Scottish tribe"
 
-   "pietāte" "dutiful conduct, pietry"
-   "pietās, pietātis" "dutiful conduct, pietry"
+   "pietāte" "dutiful conduct, piety"
+   "pietātem" "dutiful conduct, piety"
+   "pietās, pietātis" "dutiful conduct, piety"
 
    "pilae" "ball"
    "pila, pilae" "ball"
@@ -8732,6 +8761,10 @@
    "pōns" "bridge"
    "pontem" "bridge"
    "pōns, pontis" "bridge"
+
+   "pontifex" "high priest, Pope"
+   "pontificis" "high priest, Pope"
+   "pontifex, pontificis" "high priest, Pope"
 
    "pontificātum" "pontificate"
    "pontificātus" "pontificate"
@@ -8928,6 +8961,9 @@
    "praemissum" "having been sent ahead"
    "praemittō, praemittere, praemīsī, praemissus" "to send ahead"
 
+   "praemia" "rewards"
+   "praemium, praemiī" "reward"
+
    "praemonuit" "he forewarned"
    "praemoneō, praemonēre, praemonuī, praemonitus" "to forewarn"
    
@@ -8972,6 +9008,9 @@
    "praeterīre" "to pass by"
    "praeterita" "being passed by"
    "praetereō, praeterīre, praeterivī(iī), praeteritus" "to pass by"
+
+   "praeterfluit" "it flows past"
+   "praeterfluere" "to flow past"
    
    "prandium" "breakfast, meal"
    "prandium, prandiī" "breakfast, meal"
@@ -9816,6 +9855,8 @@
    
    "restant" "they stay behind, they remain"
    "restat" "it remains"
+   "restāret" "he stayed behind, remained"
+   "restāre" "to stay behind, to remain"
    "restō, restāre, restitī, -" "to stay behind, to remain"
    
    "resurrēctiōnis" "resurrection"
@@ -10554,6 +10595,9 @@
    
    "sollemnitātum" "of solemnities"
    "sollemnitās, sollemnitātis" "solemnity"
+
+   "sollicitō" "agitated, restless, anxious"
+   "sollicitus, sollicita, sollicitum" "agitated, restless, anxious"
    
    "solet" "he is accustomed to"
    "solent" "they are accustomed to"
@@ -10877,6 +10921,11 @@
    "successōribus" "successors"
    "successor" "successor"
    "successor, successōris" "successor"
+
+   "succurreret" "he brought aid"
+   "succurrere" "to bring aid"
+   "succurrō, succurrere, succurrī, succursus" "to bring aid"
+   
    "sūcus, sūcī" "juice"
    "sūcō" "juice"
 
@@ -10912,6 +10961,7 @@
    "summō" "highest, greatest"
    "summōs" "highest, greatest"
    "summum" "highest, greatest"
+   "summus" "highest, greatest"
    "summus, summa, summum" "highest, greatest"
    
    "sūme" "take up!"
@@ -11054,6 +11104,7 @@
    "tālem" "such"
    "tālēs" "such"
    "tālia" "such"
+   "tālibus" "such"
    "tālis, tālis, tāle" "such"
    
    "tanta" "so much, so great, this many"
@@ -11124,6 +11175,7 @@
    "tenuissent" "they (might) have had held"
    "tenēre" "to hold"
    "tenēbunt" "they will hold"
+   "tenendae" "holding"
    "tenuēre" "they held, alternative spelling of tenuērunt"
    "teneō, tenēre, tenuī, tentus" "to hold, to keep"
    
@@ -11161,6 +11213,9 @@
    "terrīs" "lands"
    "terra, terrae" "land"
    "terrārum" "of lands"
+
+   "terrēnum" "land, ground"
+   "terrēnum, terrēnī" "land, ground"
 
    "terruit" "he frightened"
    "terrēre" "to frighten"
@@ -12030,6 +12085,7 @@
    "vocandō" "calling"
    "vocātus" "having been called"
    "vocātī" "having been called"
+   "vocāta" "having been called"
    "vocō, vocāre, vocāvī, vocātus" "to call, to summon"
 
    "vōciferātus" "having been yelled"
@@ -12081,6 +12137,7 @@
    "voluntās, voluntātis" "will"
    
    "volvissent" "they (might) have had rolled"
+   "volvēns" " rolling, tumbling"
    "volvō, volvere, volvī, volūtum" "to roll, to tumble"
 
    "vorāginis" "abyss, gulf, depth"
