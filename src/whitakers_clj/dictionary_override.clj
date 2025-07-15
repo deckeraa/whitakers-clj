@@ -4229,7 +4229,8 @@
 
    "dubitāret" "he hesitated, doubted"
    "dubitō, dubitāre, dubitāvī, dubitātus" "to doubt, hesitate"
-   
+
+   "dūcēns" "leading"
    "ductīs" "to have been lead"
    "dūcere" "to lead"
    "ducta" "having been lead"
@@ -4261,6 +4262,7 @@
    "dūrum" "hard"
    "dūrus, dūra -um, dūrior -or -us, dūrissimus -a -um" "hard"
 
+   "duce" "leader"
    "ducēs" "leaders"
    "ducum" "of leaders"
    "ducibus" "leaders"
@@ -6140,6 +6142,9 @@
    "inmānissimam" "immense, savage, monstrous"
    "inmānis, inmāne, inmānior -or -us, inmānissimus -a -um" "immense, savage, monstrous"
 
+   "inmēnsī" "immense, boundless"
+   "inmēnsus, inmēnsa, inmēnsum" "immense, boundless"
+
    "innumerābilēs" "countless"
    "innumerābilia" "countless"
    "innumerābilis" "countless"
@@ -6328,6 +6333,9 @@
 
    "inūtilēs" "useless"
    "inūtilis, inūtilis, inūtile" "useless"
+
+   "invādere" "to invade"
+   "invādō, invādere, invāsī, invāsus" "to invade"
 
    "invalēscēbant" "they were strengthening"
    "invalēscere" "to strengthen"
@@ -9490,6 +9498,7 @@
    "rāmus, rāmī" "branch"
    
    "rapidissimō" "very quick"
+   "rapidō" "quick"
    "rapidus, rapida -um, rapidior -or -us, rapidissimus -a -um" "quick"
 
    "raptōre" "robber, plunderer"
@@ -9974,7 +9983,11 @@
 
    "rōbore" "made of oak"
    "roborīnō" "made of oak"
-   "rōbur, rōboris" "oak"
+
+   "rōbur" "stronghold, oak"
+   "rōboris" "stronghold, oak"
+   "rōbur, rōboris" "stronghold, oak"
+   
    "rōborō, rōborāre, rōborāvī, rōborātus" "to strengthen"
 
    "rogābant" "they were asking"
