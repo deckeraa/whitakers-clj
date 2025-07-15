@@ -117,6 +117,7 @@
    "bifāriam" "in two ways"
    "bis" "twice"
    "boiōs" "the Boii, who live across the Rhine from the Helvetii"
+   "Bonifacius" "Saint Boniface, AD 675-754"
    "bovēs" "cows; plural masc. or fem. nom. or acc. from bōs, bovis"
    "Brendānī" "(genitive case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānō" "(ablative or dative case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
@@ -290,6 +291,8 @@
    "francīs" "the Franks"
    "francōrum" "of the Franks"
    "frēnum" "bridal; ornamental necklace"
+   "Frīdēshlar" "Fritzlar, Germany"
+   "frūstrā" "futile"
    "fuerint" "they will have been; 3rd person plural future perfect from esse"
    "fūrtim" "secret, stealthily"
    "gabīniō" "Aulus Gabinius, consul in 58 BC"
@@ -327,6 +330,7 @@
    "herī" "yesterday"
    "Hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
    "hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
+   "Hassī" "Hesse, a region in Germany"
    "heu" "Hey! oh! (interjection)"
    "hiberniae" "of Ireland (genitive case)"
    "hibernensium" "of the Irish (plural genitive)"
@@ -485,6 +489,7 @@
    "mandātum" "mandate; singular masculine nominative or accusative from mandātum, mandātī"
    "manē" "morning"
    "mānsī" "I remained; singular 1st person perfect from maneō, manēre, mānsī, mānsus"
+   "martir" "martyr, one who dies for their faith"
    "Massiliam" "Marseille, a city in southern France"
    "maximē" "greatly"
    "mē" "to me, accusative from ego"
@@ -1123,6 +1128,10 @@
    "admittere" "to admit, let in"
    "admittō, admittere, admīsī, admissus" "to admit, let in"
 
+   "admōtīs" "having been moved up, brought near"
+   "admovēre" "to move up, bring near"
+   "admoveō, admovēre, admōvī, admōtus" "to move up, bring near"
+
    "adolēscentem" "young man"
    "adolēscēns, adolēscentis" "young man"
 
@@ -1573,6 +1582,10 @@
    "antīquī" "of the ancient"
    "antīquō" "ancient"
    "antīquus, antīqua -um, antīquior -or -us, antīquissimus -a -um" "antique"
+
+   "antistes" "overseer"
+   "antistitis" "overseer"
+   "antistes, antistitis" "overseer"
 
    "ānulō" "ring"
    "ānulus" "ring"
@@ -2640,6 +2653,7 @@
 
    "clausīs" "having been closed"
    "claudit" "he closes"
+   "clausum" "having been closed"
    "claudere" "to close"
    "claudō, claudere, clausī, clausus" "to close"
 
@@ -3484,6 +3498,9 @@
    "cūnctātus" "hesitant, tardy"
    "cūnctāta -um, cūnctātior -or -us, cūnctātissimus -a -um" "hesitant, tardy"
 
+   "cūnctōs" "all, whole"
+   "cūnctus, cūncta, cūnctum" "all, whole"
+
    "cupidī" "eager, passionate"
    "cupidus, cupida, cupidum" "easger, passionate"
 
@@ -3869,6 +3886,11 @@
    "diabolicum" "diabolic, devilish"
    "diabolicus, diabolica, diabolicum" "diabolic, devilish"
 
+   "diadēma" "diadem, crown"
+   "diadēmatis" "diadem, crown"
+   "diadēmate" "diadem, crown"
+   "diadēma, diadēmatis" "diadem, crown"
+
    "dīc" "say!"
    "dīcam" "I will say"
    "dīcās" "you might say"
@@ -3930,6 +3952,9 @@
 
    "difficultās" "difficulty"
    "difficultās, difficultātis" "difficulty"
+
+   "Diffīdēns" "distrusting"
+   "diffīdō, diffīdere, diffīsus" "to distrust"
    
    "digitus" "finger, toe, digit"
    "digitī"  "finger, toe, digit"
@@ -4700,6 +4725,10 @@
    "extrēmō" "limit, outside, end"
    "extrēmum" "limit, outside, end"
    "extrēmum, extrēmī" "limit, outside, end"
+
+   "exul" "exile, wanderer"
+   "exulis" "exile, wanderer"
+   "exul, exulis" "exile, wanderer"
    
    "exultābant" "they were exulting, they were rejoicing"
    "exultō, exultāre, exultāvī, exultātus" "to exult, to rejoice"
@@ -5214,6 +5243,10 @@
    "fugam" "flight, escape"
    "fuga, fugae" "flight, escape"
 
+   "fugāvit" "he routed, chased away"
+   "fugāre" "to rout, to chase away"
+   "fugō, fugāre, fugāvī, fugātus" "to rout, to chase away"
+
    "fugere" "to flee"
    "fugeret" "he fled"
    "fūgērunt" "they fled"
@@ -5562,8 +5595,12 @@
    "heremitam" "hermit"
    "heremita, heremitae" "hermit"
 
+   "hesternō" "yesterday's"
+   "hesternus, hesterna, hesternum" "yesterday's"
+
    "hīberna" "winter camp"
    "hībernō" "winter, winter camp"
+   "hībernī" "winter, winter camp"
    "hībernīs" "winter camp"
    "hībernum, hībernī" "winter camp"
 
@@ -6420,6 +6457,9 @@
 
    "irratiōnālia" "irrational"
    "irratiōnāl, irratiōnālis" "unreasoning animal"
+
+   "irrumpere" "to invade, penetrate"
+   "irrumpō, irrumpere, irrūpī, irruptus" "to invade, penetrate"
    
    "irruet" "it will rush in"
    "irruit" "it rushes, it rushed"
@@ -7201,6 +7241,7 @@
    "mētior, mētīrī, mēnsus, -" "to measure"
 
    "metū" "fear"
+   "metus" "fear"
    "metus, metūs" "fear"
    
    "migrāvī" "I departed"
@@ -7338,6 +7379,11 @@
    "modīs" "ways"
    "modum" "mode, manner, way, measure, size"
    "modus, modī" "mode, manner, way, measure, size"
+
+   "mōlīmen" "exertion, effort, endeavour"
+   "mōlīmina" "exertion, effort, endeavour"
+   "mōlīminis" "exertion, effort, endeavour"
+   "mōlīmen, mōlīminis" "exertion, effort, endeavour"
 
    "molliōris" "softer"
    "mollis, mollis, molle" "soft"
@@ -7506,6 +7552,7 @@
    "mūnus, mūneris" "gift"
 
    "mūrō" "city wall"
+   "mūrōs" "city wall"
    "mūrum" "city wall"
    "mūrus" "city wall"
    "mūrus, mūrī" "city wall"
@@ -7631,6 +7678,9 @@
    "necessitātem" "necessity"
    "necessitās, necessitātis" "necessity"
 
+   "nefandum" "impious, wicked"
+   "nefandus, nefanda, nefandum" "impious, wicked"
+
    "negāvit" "he denied, refused"
    "negāre" "to deny, to refuse"
    "negō, negāre, negāvī, negātus" "to deny, to refuse"
@@ -7681,6 +7731,9 @@
 
    "nimium" "to much, superabundance"
    "nimium, nimiī" "to much, superabundance"
+
+   "nīsōs" "having advanced, pressed upon"
+   "nītor, nītī, nīsus sum" "to advance, press upon"
 
    "niveō" "snowy white"
    "niveus, nivea, niveum" "snowy white"
@@ -7873,6 +7926,9 @@
 
    "obsidiōne" "seige"
    "obsidiō, obsidiōnis" "seige"
+
+   "obsistere" "to oppose, resist, withstand"
+   "obsistō, obsistere, obstitī, obstitus" "to oppose, resist, withstand"
 
    "obtestātus" "having been implored"
    "obtestor, obtestārī, obtestātus sum" "to implore"
@@ -8231,6 +8287,7 @@
    "parātī" "having been prepared"
    "parātam" "having been prepared"
    "parātōs" "having been prepared"
+   "parābat" "he was preparing"
    "parō, parāre, parāvī, parātus" "to prepare"
    "parāvērunt" "they prepared"
 
@@ -8793,6 +8850,10 @@
    "populī" "people, populace"
    "populīs" "people, populace"
    "populus, populī" "people, populace"
+
+   "populantur" "it is ravaged, devastated"
+   "populāre" "to ravage, devastate"
+   "populō, populāre, populāvī, populātus" "to ravage, devastate"
    
    "positae" "having been put"
    "posuistī" "you placed"
@@ -9149,7 +9210,8 @@
 
    "profānī" "profane"
    "profānus, profāna, profānum" "profane"
-   
+
+   "profectiō" "departure, source"
    "profectiōnem" "departure, source"
    "profectiō, profectiōnis" "departure, source"
 
@@ -9685,6 +9747,9 @@
    "regiōnēs" "regions"
    "regiō, regiōnis" "region"
 
+   "rēgius" "royal, regal"
+   "rēgius, rēgia, rēgium" "royal, regal"
+
    "rēgna" "kingdoms"
    "rēgnī" "of the kingdom"
    "rēgnīs" "kingdoms"
@@ -9695,6 +9760,7 @@
    "regēbat" "he was ruling"
    "regitur" "is ruled"
    "regit" "he rules"
+   "regentem" "reigning"
    "regō, regere, rēxī, rēctus" "to rule"
 
    "rēgnābat" "he was reigning"
@@ -10091,6 +10157,10 @@
    "sacrāmentum" "sacrament"
    "sacrāmentum, sacrāmentī" "sacrament"
 
+   "sacrāvit" "he consecrated"
+   "sacrāre" "to consecrate"
+   "sacrō, sacrāre, sacrāvī, sacrātus" "to consecrate"
+
    "sacrātus" "sacred"
    "sacrātus, sacrāta, sacrātum" "sacred"
    
@@ -10238,6 +10308,11 @@
 
    "scelere" "crime"
    "scelus, sceleris" "crime"
+
+   "scēptra" "scepters"
+   "scēptrum" "scepter"
+   "scēptrī" "scepter"
+   "scēptrum, scēptrī" "scepter"
    
    "sciō" "I know"
    "sciēbat" "he was knowing"
@@ -11160,6 +11235,7 @@
    "templum, templī" "temple"
 
    "temptābat" "he was tempting"
+   "temptāns" "tempting"
    "temptāre" "to tempt"
    "temptō, temptāre, temptāvī, temptātus" "to tempt"
    
@@ -11532,6 +11608,9 @@
    "tyrannum" "tyrant"
    "tyrannus" "tyrant"
    "tyrannus, tyrannī" "tyrant"
+
+   "ulcīscendī" "avenging, punishing"
+   "ulcīscor, ulcīscī, ultus sum" "to avenge, punish"
    
    "ūlla" "any"
    "ūllae" "any"
