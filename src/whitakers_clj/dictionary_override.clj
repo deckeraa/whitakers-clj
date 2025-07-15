@@ -214,6 +214,7 @@
    "dēterius" "worse, unfavorably"
    "dīligenter" "diligently"
    "diūtius" "for a longer time"
+   "dīvīnitus" "divinely, of heaven (adverb)"
    "dōnec" "while, as long as, until"
    "Dorensēs" "The Dorians, a Greek ethnic group invading Athens"
    "dum" "while, as long as, until"
@@ -1297,6 +1298,7 @@
    "agēbantur" "they were being driven"
    "agendum" "to be done"
    "agō" "I conduct, act"
+   "agerentur" "they were being conducted"
    "agere" "to conduct, to act"
    "agō, agere, ēgī, āctus" "to conduct, to act"
    
@@ -1542,6 +1544,7 @@
    "animal, animālis" "animal"
    
    "animantia" "living, giving life"
+   "animāvit" "it animated, inspired"
    "animō, animāre, animāvī, animātus" "to give live, to animate, to revive"
 
    "animadvertit" "he observes, he observed"
@@ -2891,6 +2894,7 @@
    "complērentur" "they (might) have been being filled"
    "complērī" "to be filled up"
    "complētum" "having been filled, completed"
+   "complēre" "to complete, to fill up"
    "compleō, complēre, complēvī, complētus" "to complete, to fill up"
    
    "complētōrium" "compline, service of prayers at close of day"
@@ -3240,6 +3244,9 @@
    "contendit" "he hastened, he contended"
    "contendō, contendere, contendī, contentus" "to hasten, to contend"
 
+   "contiguōs" "bordering, neighboring, contiguous"
+   "contiguus, contigua, contiguum" "bordering, neighboring, contiguous"
+
    "continentem" "continent"
    "continēns"   "continent"
    "continentī"  "continent"
@@ -3423,6 +3430,7 @@
    "crēdis" "you believe"
    "crēdō" "I believe"
    "crēdendum" "believing"
+   "crēdentēs" "believing"
    "crēdō, crēdere, crēdidī, crēditum" "to believe"
 
    "cremārētur" "he (might) have been burning"
@@ -3501,6 +3509,9 @@
    "cūnctōs" "all, whole"
    "cūnctus, cūncta, cūnctum" "all, whole"
 
+   "cupīvērunt" "they desired"
+   "cupiō, cupere, cupīvī, cupītus" "to desire"
+
    "cupidī" "eager, passionate"
    "cupidus, cupida, cupidum" "easger, passionate"
 
@@ -3576,6 +3587,11 @@
    "damnāta" "condemned"
    "damnātum" "condemned"
    "damnātus, damnāta, damnātum" "condemned"
+
+   "damna" "damages, injuries"
+   "damnī" "damage, injury"
+   "damnum" "damage, injury"
+   "damnum, damnī" "damage, injury"
 
    "dāniēle" "Daniel"
    "dāniēlem" "Daniel"
@@ -3989,6 +4005,7 @@
    "dīligis" "you love"
    "dīligit" "he loves"
    "dīligō" "I love"
+   "dīlēctus" "having been loved"
    "dīligō, dīligere, dīlēxī, dīlēctus" "to love"
    
    "dīligentia" "diligence"
@@ -4795,6 +4812,10 @@
    "facilius" "easier"
    "facilis, facile, facilior -or -us, facillimus -a -um" "easy"
 
+   "facinus" "crime, outrage"
+   "facinoris" "crime, outrage"
+   "facinus, facinoris" "crime, outrage"
+
    "factūra" "making, manufacture, creation"
    "factūra, factūrae" "making, manufacture, creation"
 
@@ -5244,6 +5265,8 @@
    "fuga, fugae" "flight, escape"
 
    "fugāvit" "he routed, chased away"
+   "fugārunt" "they routed, chased away"
+   "fugāvērunt" "they routed, chased away"
    "fugāre" "to rout, to chase away"
    "fugō, fugāre, fugāvī, fugātus" "to rout, to chase away"
 
@@ -5662,6 +5685,7 @@
    "hōram" "hour, time"
    "hōra" "hour, time"
    "hōrae" "hour, time"
+   "hōrīs" "hours, times"
    "hōra, hōrae" "hour, time"
 
    "hōrologiō" "clock"
@@ -6371,6 +6395,7 @@
    "inūtilēs" "useless"
    "inūtilis, inūtilis, inūtile" "useless"
 
+   "invāsit" "he invaded"
    "invādere" "to invade"
    "invādō, invādere, invāsī, invāsus" "to invade"
 
@@ -6470,6 +6495,9 @@
    "Isrāhēl, Isrāhēlis" "Israel"
    
    "ita" "yes; in this manner"
+
+   "Ītalicīs" "Italic, of Italy"
+   "Ītalicus, Ītalica, Ītalicum" "Italic, of Italy"
    
    "iter" "journey, trip"
    "itinera" "journies, marches"
@@ -8248,6 +8276,7 @@
    "pāgānus, pāgānī" "peasant, villager, rustic"
 
    "pāgōs" "district, region"
+   "pāgum" "district, region"
    "pāgus" "district, region"
    "pāgus, pāgī" "district, region"
    
@@ -9867,6 +9896,9 @@
    "reparāre" "to repair"
    "reparō, reparāre, reparāvī, reparātum" "to repair"
 
+   "repedāre" "to return, retreat"
+   "repedō, repedāre, repedāvī, repedātus" "to return, retreat"
+
    "replētī" "having been filled/re-filled"
    "repleō, replēre, replēvī, replētus" "to fill again"
 
@@ -11155,6 +11187,7 @@
    "sustinendōs" "sustaining"
    "sustinēret" "he (might) have sustained"
    "sustinuisset" "he (might) have had sustained"
+   "sustinuēre" "they sustained"
    "sustineō, sustinēre, sustinuī, sustentus" "to sustain"
    "sustinuit" "he sustained"
    "sustinuerint" "they will have sustained"
@@ -11310,6 +11343,8 @@
    "terrēre" "to frighten"
    "terreō, terrēre, terruī, territus" "to frighten"
 
+   "terror" "terror"
+   "terrōris" "terror"
    "terrōre" "terror"
    "terror, terrōris" "terror"
    
@@ -11403,6 +11438,7 @@
    "trādidimus" "we handed over"
    "trādidistī" "you handed over"
    "trāditur" "it is handed over"
+   "trādere" "to hand over"
    "trādō, trādere, trādidī, trāditus" "to hand over"
 
    "trāditiōne" "surrender, delivering up"
@@ -11489,6 +11525,9 @@
    "trecentī" "three hundred"
    "trecentīs" "three hundred"
    "trecentī -ae -a, trecentesimus -a -um, trecenī -ae -a, trecentie (n)s" "three hundred"
+
+   "trepidōs" "agitated, nervous"
+   "trepidus, trepida, trepidum" "agitated, nervous"
    
    "tribuam" "I will assign"
    "tribuent" "they will assign"
@@ -11578,7 +11617,8 @@
    "turmam" "troop, group, crowd"
    "turmās" "troop, group, crowd"
    "turma, turmae" "troop, group, crowd"
-   
+
+   "turpī" "ugly, filthy"
    "turpius" "uglier"
    "turpissima" "ugly, nasty, repulsive, shameful"
    "turpis, turpe, turpior -or -us, turpissimus -a -um" "ugly, nasty, repulsive, shameful"
@@ -12186,6 +12226,7 @@
 
    "vocitant" "they call"
    "vocitābant" "they called"
+   "vocitātur" "it is called"
    "vocitāre" "to call"
    "vocitō, vocitāre, vocitāvī, vocitātus" "to call"
    
