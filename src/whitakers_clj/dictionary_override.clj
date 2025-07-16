@@ -11642,6 +11642,8 @@
    "trīnitātī" "Trinity"
    "trīnitātis" "Trinity"
    "trīnitās, trīnitātis" "Trinity"
+
+   "triplex" "triple"
    
    "trīstēs" "sad"
    "trīstis" "sad"
@@ -11754,7 +11756,8 @@
 
    "ūtilitātem" "usefulness, utility, profit, advantage"
    "ūtilitās, ūtilitātis" "usefulness, utility, profit, advantage"
-      
+
+   "ultima" "farthest, last"
    "ultimam" "farthest, last"
    "ulteriōre" "farther, last"
    "ulteriōrem" "farther, last"
@@ -11924,6 +11927,7 @@
    "vāsculum, vāsculī" "small vessel"
    "vāsculōrum" "of small vessels"
 
+   "vāstāns" "ravaging, devastating"
    "vāstāvit" "he ravaged, devastated"
    "vāstāvērunt" "they ravaged, they devastated"
    "vāstō, vāstāre, vāstāvī, vāstātus" "to lay waste, to devastate, to ravage"
@@ -11939,6 +11943,7 @@
    "vehō, vehere, vēxī, vectus" "to carry"
    
    "vēlōcissimō" "very quickly"
+   "vēlōx" "quick"
    "vēlōx, vēlōcis (gen.), vēlōcior -or -us, vēlōcissimus -a -um" "very quickly"
 
    "vēlōcitās" "speed"
@@ -11972,6 +11977,7 @@
    "veniunt" "they come"
    "venīret" "he came"
    "vēnerit" "he will have come"
+   "veniēns" "coming"
    "venientem" "coming"
    "veniō, venīre, vēnī, ventus" "to come"
    
