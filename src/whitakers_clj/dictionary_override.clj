@@ -556,7 +556,7 @@
    "nostram" "our; plural genitive of ego"
    "nostrum" "our; plural genitive of ego"
    "nōtum" "known; singular neuter nom. or acc. perfect passive participle of gnōscō, gnōscere, nōvī, nōtus"
-   
+   "noviter" "recently"
    "numquam" "never"
    "numquid" "is it possible?"
    "nunc" "now"
@@ -5748,6 +5748,7 @@
    "hūmāna" "human, cultured, refined"
    "hūmānae" "human, cultured, refined"
    "hūmānam" "human, cultured, refined"
+   "hūmānārum" "human, cultured, refined"
    "hūmānum" "human, cultured, refined"
    "hūmānus, hūmāna -um, hūmānior -or -us, hūmānissimus -a -um" "human, cultured, refined"
 
@@ -6574,6 +6575,7 @@
    "iūdicium" "judgement"
    "iūdicium, iūdiciī" "judgement"
 
+   "iugī" "yoke"
    "iugō" "yoke"
    "iugum" "yoke"
    "iugum, iugī" "yoke"
@@ -6961,6 +6963,11 @@
    "lūctū" "grief, sorrow"
    "lūctus, lūctūs" "grief, sorrow"
 
+   "lūdibria" "mockeries, wantonness"
+   "lūdibrium" "mockery, wantonness"
+   "lūdibriī" "mockery, wantonness"
+   "lūdibrium, lūdibriī" "mockery, wantonness"
+
    "lūdēbat" "he was playing"
    "lūdō, lūdere, lūsī, lūsus" "to play"
 
@@ -7224,6 +7231,9 @@
    "membrum, membrī" "limb, member"
    "membrum" "limb, member"
    "membrīs" "limbs, members"
+
+   "memorātum" "having been remembered"
+   "memorō, memorāre, memorāvī, memorātus" "to remember"
 
    "memoria" "memory, historical account"
    "memoria, memoriae" "memory, historical account"
@@ -8223,6 +8233,7 @@
 
    "ōrābat" "he was praying"
    "ōrābant" "they were praying"
+   "ōrandī" "praying"
    "ōrāns" "praying"
    "ōrāre" "to pray"
    "ōrāvit" "he prayed"
@@ -8418,10 +8429,15 @@
    "patre" "father"
    "patrem" "father"
    "patrēs" "fathers"
+
+   "paternās" "paternal"
+   "paternus, paterna, paternum" "paternal"
+   
    "patriam" "father"
    "patris" "father"
    "patribus" "fathers"
    "patrum" "of fathers"
+   
    "patria" "fatherland"
    "patricius" "patrician"
    "patriciī" "patrician"
@@ -8519,6 +8535,7 @@
    "pentēcostēn" "Pentecost"
 
    "perāctī" "having been carried through"
+   "perāctīs" "having been carried through"
    "perāctō" "being carried through"
    "peragere" "to carry through, to complete"
    "peragendum" "completing"
@@ -9139,6 +9156,7 @@
    "premī" "to be pressed, to be overwhelmed"
    "premit" "he presses, he overwhelms"
    "premēbat" "he was pressing, overwhelming, oppressing"
+   "premendum" "pressing, overwhelming, oppressing"
    "premō, premere, pressī, pressus" "to press, to overwhelm"
 
    "presbyter" "elder, presbyter"
@@ -9720,6 +9738,7 @@
    "redeam" "I return"
    "redīre" "to return, to go back"
    "redīrem" "I (might) have returned"
+   "redīvit" "he returned"
    "redeō, redīre, redivī(iī), reditus" "to return, to go back"
 
    "reditiōnis" "return"
@@ -9872,6 +9891,9 @@
    "remanēbunt" "they will remain"
    "remānsērunt" "they remained"
    "remaneō, remanēre, remānsī, remānsus" "to remain"
+
+   "remeāre" "to come back, return"
+   "remeō, remeāre, remeāvī, remeātus" "to come back, return"
 
    "remedium" "remedy, cure"
    "remedium, remediī" "remedy, cure"
