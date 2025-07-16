@@ -1310,6 +1310,7 @@
    "agendum" "to be done"
    "agō" "I conduct, act"
    "agerentur" "they were being conducted"
+   "agendīs" "conducting"
    "agere" "to conduct, to act"
    "agō, agere, ēgī, āctus" "to conduct, to act"
    
@@ -2546,6 +2547,10 @@
    "certiōrēs" "more certain"
    "certus, certa -um, certior -or -us, certissimus -a -um" "certain"
 
+   "cervīx" "neck"
+   "cervīcis" "neck"
+   "cervīx, cervīcis" "neck"
+
    "cessābit" "it will cease"
    "cessāvit" "it ceased"
    "cessō, cessāre, cessāvī, cessātus" "to cease"
@@ -3344,6 +3349,9 @@
 
    "convīvium" "banquet, feast"
    "convīvium, convīviī" "banquet, feast"
+
+   "convocat" "he calls together, assembles"
+   "convocō, convocāre, convocāvī, convocātus" "to call togethehr, assemble"
    
    "cooperīmentum" "covering"
    "cooperīmentum, cooperīmentī" "covering"
@@ -3563,6 +3571,7 @@
    "cūrō, cūrāre, cūrāvī, cūrātus" "to take care to, attend to"
 
    "cūrēs" "spear"
+   "cūris" "spear"
    "cūris, cūris" "spear"
 
    "currēbat" "he ran"
@@ -3774,6 +3783,7 @@
    "dēiciō, dēicere, dēiēcī, dēiectus" "to throw down"
 
    "dēlēbuntur" "they will be erased"
+   "dēlērentur" "it was erased"
    "dēleō, dēlēre, dēlēvī, dēlētus" "to erase"
 
    "dēlīberandum" "deliberating"
@@ -4088,6 +4098,9 @@
    "discessērunt" "they departed"
    "discēdere" "to depart"
    "discēdō, discēdere, discessī, discessus" "to depart"
+
+   "dīsceret" "he might learn"
+   "dīscō, dīscere, didicī, dīscitus" "to learn"
 
    "disciplīna" "teaching, instruction"
    "disciplīna, disciplīnae" "teaching, instruction"
@@ -4720,6 +4733,10 @@
    "experīmentum" "test, experiment, experience"
    "experīmentum, experīmentī" "test, experiment, experience"
 
+   "expertus" "expert"
+   "expertūs" "expert"
+   "expertus, expertūs" "expert"
+
    "explōrāret" "he was exploring, investigating"
    "explōrāvisset" "he had explored"
    "explōrō, explōrāre, explōrāvī, explōrātus" "to explore, to investigate"
@@ -5158,6 +5175,10 @@
    "fodere" "to dig"
    "fodite" "dig!"
    "fodiō, fodere, fōdī, fossus" "to dig"
+
+   "foedus" "treaty"
+   "foederis" "treaty"
+   "foedus, foederis" "treaty"
    
    "folia" "leaves"
    "folium, foliī" "leaf"
@@ -5438,6 +5459,10 @@
    "gentibus" "peoples, clans, nations"
    "gentis" "of the people, clan, nation"
    "gēns, gentis" "people, clan, nation"
+
+   "gentīlī" "heathen, pagan"
+   "gentīlis" "heathen, pagan"
+   "gentīlis, gentīlis" "heathen, pagan"
    
    "genu" "knee"
    "genū" "knee"
@@ -5680,6 +5705,7 @@
    "hiemō, hiemāre, hiemāvī, hiemātus" "to winter"
 
    "hiemem" "winter"
+   "hiemis" "of winter"
    "hiemps" "winter"
    "hiemps, hiemis" "winter"
    
@@ -5903,6 +5929,10 @@
    "immaculātam" "unblemished, immaculate"
    "immaculātum" "unblemished, immaculate"
    "immaculātus, immaculāta, immaculātum" "unblemished, immaculate"
+
+   "immemor" "forgetful"
+   "immemorēs" "forgetful"
+   "immemor, (gen.), immemoris" "forgetful"
    
    "immēnsae" "immense, boundless"
    "immēnsa"  "immense, boundless"
@@ -6100,8 +6130,9 @@
    "indō, indere, indidī, inditus" "to put on"
 
    "indigēs" "you lack?"
-   "indigeō, indigēre, indiguē, -" "to lack"
    "indigēmus" "we lack"
+   "indiguit" "he lacked"
+   "indigeō, indigēre, indiguē, -" "to lack"
 
    "indīgnātus" "having been scorned"
    "indīgnor, indīgnārī, indīgnātus sum" "deem unworthy, scorn"
@@ -6191,6 +6222,9 @@
 
    "ingemuit" "he sighed"
    "ingemō, ingemere, ingemuī, ingemitus" "to sigh"
+
+   "ingenitum" "implanted, endangered"
+   "ingenitus, ingenita, ingenitum" "implanted, endangered"
    
    "ingēns" "huge, enormous"
    "ingentem" "huge, enormous"
@@ -6199,7 +6233,9 @@
    "ingentissimā" "very large"
    "ingēns, ingentis (gen.), ingentior -or -us, ingentissimus -a -um" "huge, enormous"
    "ingeret" "he will carry in"
+   "ingererētur" "it was carried in"
    "ingerō, ingerere, ingessī, ingestus" "to carry in, to throw in"
+   
    "ingressus" "entrance"
    "ingressus, ingressūs" "entrance"
 
@@ -6262,6 +6298,9 @@
    "inopia"  "lack, poverty"
    "inopiae" "lack, poverty"
    "inopia, inopiae" "lack, poverty"
+
+   "inprimis" "you imprint, stamp"
+   "inprimō, inprimere, inpressī, inpressus" "to imprint, stamp"
 
    "inquit" "he says, he said"
    "inquiam, -, -" "to say"
