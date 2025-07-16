@@ -3019,6 +3019,7 @@
    "cōnferre" "to conference, to talk, to meet"
    "contulērunt" "they brought together"
    "conlāta" "having been brought together"
+   "contulit" "he brought together"
    "cōnferō, cōnferre, contulī, collātus" "to conference, to talk, to meet"
 
    "cōnferta" "dense, crowded"
@@ -3200,6 +3201,7 @@
    "cōnstō, cōnstāre, cōnstitī, cōnstātus" "to remain, stand still, exist"
 
    "cōnstantīnī" "of Constantine"
+   "cōnstantīnum" "Constantine"
    "cōnstantīnus" "Constantine"
    
    "cōnstantīus" "Constantius, son of Constantine"
@@ -4003,6 +4005,7 @@
    "difficultās, difficultātis" "difficulty"
 
    "Diffīdēns" "distrusting"
+   "diffīdēns" "distrusting"
    "diffīdō, diffīdere, diffīsus" "to distrust"
    
    "digitus" "finger, toe, digit"
@@ -5525,6 +5528,9 @@
    "graviter" "heavily, gravely"
    "gravis, grave, gravior -or -us, gravissimus -a -um" "heavy, grave"
    "gravius" "graver, heavier"
+
+   "grēcōrum" "Greek"
+   "grēcus, grēca, grēcum" "Greek"
    
    "grege" "flock"
    "gregem" "flock"
@@ -7133,6 +7139,7 @@
    "maneant" "they remain"
    "manēbunt" "they will remain"
    "manentēs" "remaining"
+   "manēret" "it remained"
    
    "manifestāvit" "he revealed"
    "manifestō, manifestāre, manifestāvī, manifestātus" "to reveal"
@@ -7623,7 +7630,8 @@
    "mūnītam" "fortified"
    "mūnītum" "fortified"
    "mūnītus, mūnīta, mūnītum" "fortified"
-   
+
+   "mūnere" "gift"
    "mūnera" "gifts"
    "mūnus, mūneris" "gift"
 
@@ -8150,6 +8158,9 @@
 
    "operuit" "he covered"
    "operiō, operīre, operuī, opertus" "to cover"
+
+   "opīmīs" "well-fed, fat, fertile"
+   "opīmus, opīma, opīmum" "well-fed, fat, fertile"
    
    "oportet" "it is right/proper/necessary"
    "oportere" "it is right/proper/necessary"
@@ -8458,6 +8469,7 @@
    "patrum" "of fathers"
    
    "patria" "fatherland"
+   "patriae" "fatherland"
    "patricius" "patrician"
    "patriciī" "patrician"
    "patricius, patriciī" "patrician"
@@ -8678,6 +8690,7 @@
    "permansissent" "having had remained"
    "permansūrus" "will be remaining"
    "permansērunt" "they remained"
+   "permansit" "he remained"
 
    "permittam" "I will permit"
    "permitte" "permit! allow!"
@@ -9063,14 +9076,15 @@
    "praeceptōrum" "of orders, directions, precepts"
    "praeceptum" "order, direction, precept"
    "praeceptum, praeceptī" "order, direction, precept"
-   
+
+   "praeclārō" "very bright, remarkable"
    "praeclārus, praeclāra, praeclārum" "very bright, remarkable"
    "praeclārum" "very bright, remarkable"
 
    "praede" "surety, bondsman"
    "praes" "surety, bondsman"
    "praes, praedis" "surety, bondsman"
-   
+
    "praedestinatiōne" "predestination"
    "praedestinatiō, praedestinatiōnis" "predestination"
    "praedēstināvit" "he predestined"
@@ -9098,6 +9112,7 @@
 
    "praeda"  "plunder"
    "praedae" "plunder"
+   "praedīs" "plunder"
    "praeda, praedae" "plunder"
 
    "praedicātiō" "public proclamation"
@@ -10900,6 +10915,11 @@
    "spoliātā" "having been plundered"
    "spoliātus" "having been plundered"
    "spoliō, spoliāre, spoliāvī, spoliātus" "to plunder"
+
+   "spoliī" "spoil, booty"
+   "spoliīs" "spoils, booty"
+   "spolium" "spoil, booty"
+   "spolium, spoliī" "spoils, booty"
 
    "sponte" "free will, impulse"
    "spōns, spontis" "free will, impulse"
