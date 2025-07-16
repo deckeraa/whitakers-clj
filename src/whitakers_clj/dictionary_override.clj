@@ -477,6 +477,7 @@
    "leviathan" "Leviathan, a sea monster mentioned in Job 40:25."
    "licet" "allow"
    "locūtus" "locūtus est = he spoke"
+   "Langōbardīs" "the Lombards"
    "Langōbardōs" "the Lombards"
    "magis" "rather, more"
    "magnopere" "much, very, urgently"
@@ -653,6 +654,7 @@
    "quārum" "what; plural female genitive from qui"
    "quās" "who; plural female accusative of quis"
    "quattuor" "4"
+   "que" "and"
    "quem" "what, singular masculine accusative of qui"
    "quī" "who; plural masculine nominative of quis"
    "quibus" "what; plural dative or ablative of qui"
@@ -739,6 +741,7 @@
    "satis" "enough"
    "Saxonēs" "The Saxons"
    "Saxōnia" "Saxony"
+   "Saxonibus" "The Saxons"
    "Saxōnum" "of the Saxons"
    "scalta" "an unknown type of plant. Ablative plural from scalta, scaltae."
    "scaltae" "an unknown type of plant. Ablative plural from scalta, scaltae."
@@ -998,7 +1001,7 @@
    "accēdere" "to approach"
    "accēdō, accēdere, accessī, accessus" "to approach"
 
-   "accelerābat" "they were speeding up"
+   "accelerābat" "he was speeding up"
    "accelerō, accelerāre, accelerāvī, accelerātus" "to speed up"
 
    "accidere" "to fall upon, to happen"
@@ -1245,6 +1248,9 @@
    "afflictiō, afflictiōnis" "affliction, pain"
    "afflictiōne" "affliction, pain"
 
+   "afflīgeret" "he was striking, throwing down"
+   "afflīgō, afflīgere, afflīxī, afflīctus" "to strike, throw down"
+
    "africa"  "Africa"
    "africam" "Africa"
    "Africa, Africae" "Africa"
@@ -1341,6 +1347,11 @@
 
    "āles" "bird"
    "āles, ālitis" "bird"
+
+   "alga" "seaweed"
+   "algae" "seaweed"
+   "algīs" "seaweed"
+   "alga, algae" "seaweed"
    
    "alia" "other"
    "aliae" "other"
@@ -1485,6 +1496,7 @@
    "amplificatur" "being enlarged"
    "amplificō, amplificāre, amplificāvī, amplificātus" "to enlarge, to amplify"
 
+   "ampla" "large"
    "amplior" "ampler, larger"
    "amplius" "ampler, larger"
    "amplus, ampla -um, amplior -or -us, amplissimus -a -um" "ampler, larger"
@@ -2216,6 +2228,7 @@
    "cadō, cadere, cecidī, cāsus" "to fall"
 
    "caedēs" "slaughter"
+   "caedibus" "slaughters"
    "caedēs, caedis" "slaughter"
    
    "caelum" "heaven, sky"
@@ -2727,6 +2740,12 @@
    "cōgnitor" "advocate, attorney, witness"
    "cōgnitor, cōgnitōris" "advocate, attorney, witness"
 
+   "cōgnōmen" "name, surname"
+   "cōgnōmine" "name, surname"
+   "cōgnōminis" "name, surname"
+   "cōgnōmen, cōgnōminis" "name, surname"
+
+   "cōgnitus" "having been recognized"
    "cōgnitīs" "having been recognized"
    "cōgnitō" "having been recognized"
    "cōgnōscat" "they recognize, know"
@@ -9946,6 +9965,9 @@
    "reportārī" "to be reported"
    "reportāre" "to report"
    "reportō, reportāre, reportāvī, reportātus" "to report"
+
+   "repūgnandī" "fighting back"
+   "repūgnō, repūgnāre, repūgnāvī, repūgnātus" "to fight back"
    
    "reputābitur" "it will be thought over"
    "reputō, reputāre, reputāvī, reputātus" "to think over, to reflect"
@@ -11028,6 +11050,7 @@
    "subiciō, subicere, subiēcī, subiectus" "to subject, to throw under"
 
    "subācta" "having been subjugated, conquered"
+   "subāctum" "having been subjugated, conquered"
    "subigō, subigere, subēgī, subāctus" "to subjugate, conquer"
 
    "subiugat" "he subjugates"
@@ -11172,6 +11195,11 @@
    "suppeteret" "it (might) have sufficed"
    "suppetere" "to be at hand, to suffice"
    "suppetō, suppetere, suppetīvī, suppetītus" "to be at hand, to suffice"
+
+   "supplex" "suppliant"
+   "supplicis" "suppliant"
+   "supplicibus" "suppliants"
+   "supplex, supplicis" "suppliant"
 
    "supputantur" "they are computed"
    "supputō, supputāre, supputāvī, supputātus" "to compute"
@@ -11479,6 +11507,7 @@
    "trādidimus" "we handed over"
    "trādidistī" "you handed over"
    "trāditur" "it is handed over"
+   "trādiderant" "they had handed over"
    "trādere" "to hand over"
    "trādō, trādere, trādidī, trāditus" "to hand over"
 
@@ -11761,6 +11790,7 @@
 
    "urbe" "city"
    "urbem" "city"
+   "urbēs" "cities"
    "urbs" "city"
    "urbis" "city"
    "urbs, urbis" "city"
@@ -12106,6 +12136,7 @@
    "videndī" "of seeing"
    "vidēns" "seeing"
    "vidēret" "he saw"
+   "videās" "you may see"
    
    "vigiliam" "vigil, watch"
    "vigiliārum" "vigil, watch"
@@ -12311,6 +12342,7 @@
    "voluntās, voluntātis" "will"
    
    "volvissent" "they (might) have had rolled"
+   "volvitur" "it is rolled"
    "volvēns" " rolling, tumbling"
    "volvō, volvere, volvī, volūtum" "to roll, to tumble"
 
@@ -12320,8 +12352,11 @@
    "vorāgō, vorāginis" "abyss, gulf, depth"
    
    "vōs" "you"
-   "vōtum, vōtī" "vow"
+
+   "vōtī" "vow"
+   "vōtīs" "vows"
    "vōtum" "vow"
+   "vōtum, vōtī" "vow"
    
    "vulneribus" "wounds"
    "vulnus" "wound"
