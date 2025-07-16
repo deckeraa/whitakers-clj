@@ -853,6 +853,8 @@
    "terram" "land"
    "Theophaniam" "Theophany a.k.a. Epiphany, a feast celebrated soon after Christmas that commemorates the visit of the Magi, the baptism of Christ, and the wedding at Cana."
    "tibi" "to you, singular dative of tu"
+   "Ticinēnsum" "residents of Pavia a.k.a. Ticinum, capital of the Kingdom of the Lombards from 572 to 774."
+   "Ticinum" "Pavia a.k.a. Ticinum, capital of the Kingdom of the Lombards from 572 to 774."
    "Tīthim" "the sea; sea nymph"
    "Tīthis" "the sea; sea nymph"
    "Titūrī" "Titūrius, a Roman family name (genitive case)"
@@ -995,6 +997,9 @@
    "accēderet" "he (might) have been approaching"
    "accēdere" "to approach"
    "accēdō, accēdere, accessī, accessus" "to approach"
+
+   "accelerābat" "they were speeding up"
+   "accelerō, accelerāre, accelerāvī, accelerātus" "to speed up"
 
    "accidere" "to fall upon, to happen"
    "accidō, accidere, accidī, accāsus" "to fall upon, to happen"
@@ -1455,6 +1460,7 @@
    "amīcitiam" "friendship"
    "amīcitia, amīcitiae" "friendship"
 
+   "āmīserat" "he had lost, dismissed"
    "āmīsit" "he lost, dismissed"
    "āmissīs" "having been lost, dismissed"
    "āmittere" "to lose, to dismiss"
@@ -2700,6 +2706,7 @@
    "coepissent" "they (might) have had started"
    "coepī, coepisse, coepī, coeptus" "to start"
    "coepit" "he started"
+   "coeperat" "he had started"
 
    "coēgit" "he collected, he forced"
    "cōgerent" "they (might) have collected, forced"
@@ -2966,6 +2973,8 @@
    "concitāvit" "he agitated"
    "concitāvērunt" "they had agitated"
    "concitō, concitāre, concitāvī, concitātus" "to agitate"
+
+   "concorditer" "like-mindedly (adverb)"
 
    "condemnō, condemnāre, condemnāvī, condemnātus" "to condemn"
    "condemnābitur" "he will be condemned"
@@ -3506,9 +3515,11 @@
    "cūnctātus" "hesitant, tardy"
    "cūnctāta -um, cūnctātior -or -us, cūnctātissimus -a -um" "hesitant, tardy"
 
+   "cūnctīs" "all, whole"
    "cūnctōs" "all, whole"
    "cūnctus, cūncta, cūnctum" "all, whole"
 
+   "cupiēns" "desiring"
    "cupīvērunt" "they desired"
    "cupiō, cupere, cupīvī, cupītus" "to desire"
 
@@ -3690,6 +3701,9 @@
 
    "dederit" "he will give"
    "dedērunt" "they gave"
+
+   "dēdita" "having been surrendured"
+   "dēdō, dēdere, dēdidī, dēditum" "to surrender"
 
    "dēfectiōne" "defection, revolt"
    "dēfectiōnis" "defection, revolt"
@@ -4084,6 +4098,10 @@
 
    "dispersōs" "spread out"
    "dispersus, dispersa, dispersum" "spread out"
+
+   "dispositīs" "having been arranged, distributed"
+   "disposuit" "he arranged, distributed"
+   "dispōnō, dispōnere, disposuī, dispositus" "to arrange, distribute"
 
    "disrumperent" "they shattered"
    "disrumpō, disrumpere, disrūpī, disruptus" "to shatter"
@@ -4582,6 +4600,7 @@
    "excellentius" "more excellent"
    "excellēns, excellentis (gen.), excellentior -or -us, excellentissimus -a -um" "excellent"
 
+   "exemplō" "sample, model, copy"
    "exemplum" "sample, model, copy"
    "exemplum, exemplī" "sample, model, copy"
 
