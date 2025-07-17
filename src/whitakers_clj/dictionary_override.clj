@@ -6606,6 +6606,8 @@
    "iūdicibus" "judges"
    "iūdex, iūdicis" "judge"
 
+   "iūgiter" "continually"
+
    "iugulātī" "having been butchered"
    "iugulātus" "having been butchered"
    "iugulō, iugulāre, iugulāvī, iugulātus" "to butcher, cut the throat"
@@ -7483,6 +7485,9 @@
    "mitteret" "he was sending"
    "mittere" "to send"
    "mittō, mittere, mīsī, missus" "to send"
+
+   "mītī" "soft, mild, gentle"
+   "mītis, mīte, mītior -or -us, mītissimus -a -um" "soft, mild, gentle"
    
    "mōbilitās" "mobility"
    "mōbilitātem" "mobility"
@@ -7509,6 +7514,9 @@
 
    "molliōris" "softer"
    "mollis, mollis, molle" "soft"
+   
+   "mollīrī" "to be softened, weakened"
+   "molliō, mollīre, mollīvī, mollītus" "to soften, weaken"
    
    "monachī" "monk"
    "monachīs" "monks"
@@ -8681,6 +8689,9 @@
    "perfīnīvisset" "he (might) have had completed"
    "perfīnīvissent" "they (might) have had completed"
    "perfīniō, perfīnīre, perfīnīvī, perfīnītus" "to complete"
+
+   "perhibētur" "it is bestowed"
+   "perhibeō, perhibēre, perhibuī, perhibitus" "to bestow"
    
    "pergite" "go, continue"
    "perrēxī" "I proceeded"
@@ -8854,6 +8865,7 @@
    "pictī" "Picts, a Scottish tribe"
    "pictōs" "Picts, a Scottish tribe"
 
+   "pietās" "dutiful conduct, piety"
    "pietāte" "dutiful conduct, piety"
    "pietātem" "dutiful conduct, piety"
    "pietās, pietātis" "dutiful conduct, piety"
@@ -9682,6 +9694,7 @@
    "quiētus, quiēta -um, quiētior -or -us, quiētissimus -a -um" "quiet"
 
    "quiēvit" "he rested"
+   "quiēscere" "to rest"
    "quiēscō, quiēscere, quiēvī, quiētus" "to rest"
    
    "quīndecim" "fifteen"
@@ -9852,6 +9865,9 @@
    "referre" "to bring back, to report"
    "refert" "he brings back"
    "referō, referre, rettulī, relātus" "to bring back, to report"
+
+   "reflectere" "to bend back"
+   "reflectō, reflectere, reflexī, reflexus" "to bend back"
    
    "refocilātiō" "refreshment"
    "refocillātiō, refocillātiōnis" "refreshment"
@@ -9867,8 +9883,9 @@
    "refugium" "refuge"
    "refugium, refugiī" "refuge"
 
-   "rēgālia" " regal, royal"
+   "rēgālia" "regal, royal"
    "rēgāle, rēgālis" "regal, royal"
+   "rēgālis" "regal, royal"
    "rēgālis, rēgālis, rēgāle" "regal, royal"
 
    "rēgia" "royal palace, court"
@@ -9932,6 +9949,7 @@
 
    "relicta" "having been left behind"
    "relictīs" "leaving behind"
+   "relictō" "having been left behind"
    "relinquerent" "they left behind"
    "relinquō, relinquere, relīquī, relictum" "to leave behind"
 
