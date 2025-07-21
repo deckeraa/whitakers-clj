@@ -6634,6 +6634,7 @@
    "iubent" "they command"
    "iubēre" "to command"
    "iubēbat" "he was commanding"
+   "iubente" "commanding"
    "iubet" "he commands"
    "iussit" "he commanded"
    "iussērunt" "they commanded"
@@ -6722,6 +6723,11 @@
    "iuvenēs" "young men"
    "iuvenis" "young man"
    "iuvenis, iuvenis" "young man"
+
+   "iuventūs" "youth"
+   "iuventūtis" "youth"
+   "iuventūs, iuventūtis" "youth"
+   
    "īvisset" "he (might) have gone"
 
    "iūvit" "he helped"
@@ -7710,6 +7716,10 @@
    "mūnīmine" "defence, fortification, rampart"
    "mūnīminis" "defence, fortification, rampart"
    "mūnīmen, mūnīminis" "defence, fortification, rampart"
+
+   "mūnīvit" "he fortified"
+   "mūnīre" "to fortify"
+   "mūniō, mūnīre, mūnīvī, mūnītus" "to fortify"
 
    "mūnīta" "fortified"
    "mūnītam" "fortified"
@@ -9244,6 +9254,11 @@
    "praesentia, praesentiae" "present time"
    "praesentiam" "present time"
 
+   "praesidium" "defence"
+   "praesidiī" "defence"
+   "praesidiō" "defence"
+   "praesidium, praesidiī" "defence"
+
    "praestiterō" "I will have surpassed"
    "praestō, praestāre, praestitī, praestātum" "to excel, to surpass"
    
@@ -9280,6 +9295,7 @@
    "premit" "he presses, he overwhelms"
    "premēbat" "he was pressing, overwhelming, oppressing"
    "premendum" "pressing, overwhelming, oppressing"
+   "premeret" "he pressed, overwhelmed"
    "premō, premere, pressī, pressus" "to press, to overwhelm"
 
    "presbyter" "elder, presbyter"
@@ -9478,6 +9494,7 @@
 
    "properāvērunt" "they hurried"
    "properet" "he hurries"
+   "properant" "they hurry"
    "properāre" "to hurry"
    "properō, properāre, properāvī, properātus" "to hurry"
 
@@ -9773,6 +9790,7 @@
    "ratiōnālis" "reasonable"
    "ratiōnālis, ratiōnālis, ratiōnāle" "reasonable"
 
+   "ratiōne" "reason"
    "rationem" "reason"
    "ratiōnis" "reason"
    "ratiō, ratiōnis" "reason"
@@ -10447,6 +10465,10 @@
    "salvum" "healthy, safe"
    "salvus, salva, salvum" "healthy, safe"
 
+   "salvārī" "to be saved"
+   "salvāre" "to save"
+   "salvō, salvāre, salvāvī, salvātus" "to save"
+
    "salvātor" "savior"
    "salvatoris" "savior"
    "salvātor, salvātōris" "savior"
@@ -11115,6 +11137,9 @@
    "strāta" "paved road"
    "strātam" "paved road"
    "strāta, strātae" "paved road"
+
+   "strēnua" "brisk, vigorous"
+   "strēnuus, strēnua, strēnuum" "brisk, vigorous"
    
    "strepitantibus" "making a harsh noise"
 
@@ -11693,7 +11718,8 @@
    "trānsmigrātiōne"  "transmigration"
    "trānsmigrātiōnem" "transmigration"
    "trānsmigrātiō, trānsmigrātiōnis" "transmigration"
-   
+
+   "trānsmissō" "having been sent"
    "trānsmittam" "I will send"
    "trānsmittēbant" "they sent across"
    "trānsmittō, trānsmittere, trānsmīsī, trānsmissus" "to send"
@@ -11863,6 +11889,9 @@
 
    "ūtilitātem" "usefulness, utility, profit, advantage"
    "ūtilitās, ūtilitātis" "usefulness, utility, profit, advantage"
+
+   "ūtile" "useful"
+   "ūtilis, ūtilis, ūtile" "useful"
 
    "ultima" "farthest, last"
    "ultimam" "farthest, last"
