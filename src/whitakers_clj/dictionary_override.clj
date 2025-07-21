@@ -141,6 +141,7 @@
    "Carolomannus" "Carloman, son of Pepin the Short and co-ruler of the Frankish kingdom with Charlemagne"
    "carolī" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
    "carolō" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
+   "carolum" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
    "carolus" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
    "cassium" "Lucius Cassius Longinus (c. 151 - 107 BC), a consul who was killed at the Battle of Burdigala"
    "cāsū" "accidentally, by chance (adverb)"
@@ -203,6 +204,7 @@
    "deciēs" "ten"
    "decimō" "tenth"
    "decimum" "tenth"
+   "dehinc" "from now on, from this place"
    "deinde" "after"
    "dēlicātīs" "delicate, plural dative or ablative dēlicātus, -a, -um"
    "dēliciārum" "of delights, from dēliciae"
@@ -790,6 +792,7 @@
    "sibi" "to himself; singular dative of se"
    "sīc" "thus"
    "sīcut" "as, same as, like"
+   "Sigiburg" "A Saxon hillfort in Western Germany"
    "Silvius" "Silvius, son of Aeneas (or Ascanius)"
    "Silviī" "Silvius, son of Aeneas (or Ascanius) (genitive case)"
    "similiter" "similarly"
@@ -945,6 +948,7 @@
    "vult" "he wants; singular 3rd person present from volō, velle, voluī (irr.)"
    "vultis" "you want; plural 2nd person present from volō, velle, voluī (irr.)"
    "Westfalōs" "Westphalians, members of a Saxon tribe"
+   "Wisuram" "The River Weser, the second longest river in Germany"
    "X" "ten"
    "XVIII" "eighteen"
    "XXX" "thirty"
@@ -2360,6 +2364,7 @@
    "cēpimus" "we took"
    "cēpit" "he took"
    "cēpissent" "they had taken hold"
+   "captam" "having been taken"
    "capiō, capere, cēpī, captus" "to seize, to take hold"
 
    "capillī" "hair"
@@ -2489,6 +2494,7 @@
    "celebrāvissent" "they (might) have had celebrated"
    "celebrō, celebrāre, celebrāvī, celebrātus" "to celebrate"
 
+   "celerī" "quick"
    "celerius" "quicker"
    "celer, celeris -e, celerior -or -us, celerrimus -a -um" "quick"
 
@@ -2728,6 +2734,7 @@
 
    "coēgit" "he collected, he forced"
    "cōgerent" "they (might) have collected, forced"
+   "cōgeret" "he collected, forced"
    "coēgērunt" "they collected, they forced"
    "coācta" "having been forced"
    "coāctūrōs" "to be assembled, to be forced"
@@ -3330,6 +3337,7 @@
    "conventūra" "to come together (in the future)"
    "convēnēre" "they came"
    "convēnērunt" "they came together"
+   "conventus" "having come together"
    "conveniō, convenīre, convēnī, conventus" "to meet, to come together"
 
    "conventiō" "agreement, meeting of people"
@@ -3382,6 +3390,7 @@
    "cor" "heart"
    "cor, cordis" "heart"
    "corde" "heart"
+   "cordī" "heart"
    "cordis" "heart"
    
    "coriīs" "skins, hides"
@@ -10193,12 +10202,21 @@
    "rhodanus" "The Rhone"
    "Rhodanus, Rhodanī" "The Rhone"
    "rhodanus, Rhodanī" "The Rhone"
+
+   "rigor" "rigor, roughness"
+   "rigōrem" "rigor, roughness"
+   "rigōris" "rigor, roughness"
+   "rigor, rigōris" "rigor, roughness"
    
    "rīpa" "bank, shore"
    "rīpam" "bank, shore"
    "rīpae" "bank, shore"
    "rīpās" "banks, shores"
    "rīpa, rīpae" "bank, shore"
+
+   "rītū" "rite, ceremony"
+   "rītus" "rite, ceremony"
+   "rītus, rītūs" "rite, ceremony"
    
    "rīvulus" "small brook, rivulet"
    "rīvulī" "small brook, rivulet"
@@ -10397,6 +10415,7 @@
 
    "salvī" "healthy, safe"
    "salvam" "healthy, safe"
+   "salvum" "healthy, safe"
    "salvus, salva, salvum" "healthy, safe"
 
    "salvātor" "savior"
@@ -10593,6 +10612,7 @@
    "sempiternus, sempiterna, sempiternum" "everlasting, eternal"
 
    "senātū" "senate"
+   "senātum" "senate"
    "senātus" "senate"
    "senātus, senātūs" "senate"
    
@@ -11573,7 +11593,8 @@
    "tōtus" "whole, total"
    "tōtīs" "whole, total"
    "tōtus, tōta, tōtum (gen -ius)" "whole, total"
-   
+
+   "tractāns" "hauling, dragging, handling, discussing"
    "tractāre" "to haul, to drag, to handle, to discuss"
    "tractō, tractāre, tractāvī, tractātum" "to haul, to drag, to handle, to discuss"
 
@@ -12162,6 +12183,7 @@
    "vicis" "time, turn"
    "vīcīs" "time, turn"
    "vīcōs" "time, turn"
+   "vicum" "of times, turns"
    "vicis, vicis" "time, turn"
    "vicibus" "times"
    
@@ -12406,6 +12428,7 @@
    "velint" "they (might) want"
    "voluī" "I wanted"
    "volens" "wanting"
+   "velle" "to want"
    "volō, velle, voluī, -" "to want"
    
    "vōcem" "voice"
