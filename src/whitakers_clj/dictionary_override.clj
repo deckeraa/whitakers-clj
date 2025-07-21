@@ -3815,6 +3815,7 @@
    "dēligāre" "to tie, to fasten"
    "dēligō, dēligāre, dēligāvī, dēligātus" "to tie, to fasten"
 
+   "dēlēcta" "having been chosen"
    "dēligitur" "it is chosen"
    "dēligere" "to choose, to select"
    "dēligō, dēligere, dēlēgī, dēlēctus" "to choose, to select"
@@ -3909,6 +3910,7 @@
    "dēstinātum, dēstinātī" "target, purpose, destination"
 
    "dēstrūxit" "he destroyed"
+   "dēstrūxērunt" "they destroyed"
    "dēstruere" "to destroy"
    "dēstruō, dēstruere, dēstrūxī, dēstrūctus" "to destroy"
    
@@ -4244,6 +4246,11 @@
    "docēre" "to teach"
    "doceō, docēre, docuī, doctus" "to teach"
 
+   "doctor" "teacher, instructor"
+   "doctōrem" "teacher, instructor"
+   "doctōris" "teacher, instructor"
+   "doctor, doctōris" "teacher, instructor"
+
    "doctrīnae" "doctrine, teaching, instruction"
    "doctrīna, doctrīnae" "doctrine, teaching, instruction"
 
@@ -4262,6 +4269,10 @@
    "dolum" "trickery, deception"
    "dolus" "trickery, deception"
    "dolus, dolī" "trickery, deception"
+
+   "domāret" "he subdued, tamed"
+   "domāre" "to subdue, tame"
+   "domō, domāre, domuī, domitus" "to subdue, tame"
 
    "dominābantur" "he was being mastered"
    "dominō, domināre, domināvī, dominātus" "to master"
@@ -5533,9 +5544,12 @@
    "grāmen, grāminis" "grass, turf, herb"
    "grandō, grandinis" "hail"
    "grandine" "hail"
+
+   "grandī" "great, grand, imposing"
    "grandis" "great, grand, imposing"
    "grandis, grandis, grande" "great, grand, imposing"
    "grandissima" "great, grand, imposing"
+   
    "graphium" "stylus"
    "graphiō" "stylus"
    "graphium, graphiī" "stylus"
@@ -5791,6 +5805,7 @@
    "hospitālis, hospitālis, hospitāle" "hospitable"
 
    "hostīlēs" "enemies"
+   "hostīliter" "in a hostile manner (adverb)"
    "hostīlis, hostīlis, hostīle" "enemy"
 
    "hoste" "enemy"
@@ -6138,6 +6153,11 @@
    "inditum" "having put on"
    "indō, indere, indidī, inditus" "to put on"
 
+   "indigenus" "native, denizen"
+   "indigenī" "native, denizen"
+   "indigene" "native, denizen"
+   "indigenus, indigenī" "native, denizen"
+
    "indigēs" "you lack?"
    "indigēmus" "we lack"
    "indiguit" "he lacked"
@@ -6329,6 +6349,7 @@
    "īnsertā" "insert! introduce!"
    "īnsertō, īnsertāre, īnsertāvī, īnsertātus" "to insert, to introduce"
 
+   "īnsignem" "distinguished"
    "īnsignis" "distinguished"
    "īnsignis, īnsignis, īnsigne" "distinguished"
 
@@ -6340,6 +6361,10 @@
 
    "īnsita" "planted"
    "īnsitus, īnsita, īnsitum" "planted"
+
+   "īnspīrātum" "having been inspired"
+   "īnspīrāre" "to inspire"
+   "īnspīrō, īnspīrāre, īnspīrāvī, īnspīrātus" "to inspire"
 
    "īnstaurātiō" "renewal, repetition"
    "īnstaurātiōne" "renewal, repetition"
@@ -6467,6 +6492,7 @@
    "intrandī" "entering"
    "intrāre" "to enter"
    "intrantibus" "entering"
+   "intrat" "it enters"
    "intrāvērunt" "they entered"
    "intrāvit" "he entered"
    "intrantēs" "entering"
@@ -6529,6 +6555,9 @@
 
    "invīsibilis" "invisible"
    "invīsibil, (gen.), invīsibilis" "invisible"
+
+   "invītōs" "unwilling"
+   "invītus, invīta, invītum" "unwilling"
 
    "invītēmus" "we invite"
    "invītābō" "you will invite"
