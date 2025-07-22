@@ -916,6 +916,7 @@
 
    "vergit" "it lies"
    "vergentem" "laying"
+   "vergēbat" "it was laying, inclining, sloping"
    "vergō, vergere, -, -" "to lay, to incline, to slope"
       
    "vērō" "truly, even so, still"
@@ -10496,6 +10497,9 @@
    "saeculō" "age, generation"
    "saeculōrum" "of ages, generations"
    "saeculum, saeculī" "age, generation"
+
+   "saevus" "furious"
+   "saevus, saeva -um, saevior -or -us, saevissimus -a -um" "furious"
    
    "sagitta" "arrow"
    "sagittae" "arrows"
@@ -10688,6 +10692,9 @@
 
    "sectābātur" "he was running after, he was hunting out"
    "sector, sectārī, sectātus sum" "to run after, to hunt out"
+
+   "sēcūrōs" "untroubled, carefree"
+   "sēcūrus, sēcūra, sēcūrum" "untroubled, carefree"
    
    "secunda" "second"
    "secundī" "second"
@@ -10704,6 +10711,7 @@
    "sedeō" "I sit"
    "sēdērunt" "they sat"
    "sēdāvit" "he sat"
+   "sedēre" "to sit"
    "sedeō, sedēre, sēdī, sessus" "to sit"
    "sēdō, sēdāre, sēdāvī, sēdātus" "to sit"
    
@@ -10983,6 +10991,7 @@
    "sitiēbant" "they were thirsting"
    "sitiō, sitīre, sitīvī, sitītus" "to thirst"
 
+   "sociābat" "it was allying"
    "sociāta" "having been allied"
    "sociāre" "to ally"
    "sociō, sociāre, sociāvī, sociātus" "to ally"
@@ -10996,6 +11005,7 @@
    "sodālibus" "companions"
    "sodālis, sodālis" "companions"
 
+   "sōl" "sun"
    "sōlem" "sun"
    "sōlis" "sun"
    "sōl, sōlis" "sun"
@@ -11331,6 +11341,10 @@
 
    "subtrahit" "he carries off"
    "subtrahō, subtrahere, subtrāxī, subtractus" "to carry off"
+
+   "subvectat" "he conveys"
+   "subvectāre" "to convey"
+   "subvectō, subvectāre, subvectāvī, subvectātus" "to convey"
    
    "subvenit" "he brings aid"
    "subvēnit" "he brought aid"
@@ -11549,6 +11563,7 @@
    "tangere" "to touch, to strike"
    "tangō, tangere, tetigī, tāctus" "to touch, to strike"
 
+   "tēctus" "having been covered"
    "tegit" "it covers, hides"
    "tegitur" "it is covered, hidden"
    "tegō, tegere, tēxī, tēctus" "to cover, hide"
@@ -11656,6 +11671,7 @@
    "terreō, terrēre, terruī, territus" "to frighten"
 
    "terror" "terror"
+   "terrōrī" "terror"
    "terrōris" "terror"
    "terrōre" "terror"
    "terror, terrōris" "terror"
@@ -12288,6 +12304,7 @@
    
    "vespertīnum" "evening"
    "vespertīna" "evening"
+   "vespertīnās" "evening"
    "vespertīnus, vespertīna, vespertīnum" "evening"
    
    "vester" "your"
@@ -12443,6 +12460,10 @@
    "violō, violāre, violāvī, violātus" "to violate"
    
    "virentibus" "green"
+   "viridis" "green"
+   "viride" "green"
+   "viridis, viridis, viride" "green"
+   
    "vireō, virēre, viruī, -" "to be green, to be vigorous"
    "vir" "man"
    "virī" "man"
