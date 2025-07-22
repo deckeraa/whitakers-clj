@@ -9342,6 +9342,9 @@
    "primitia, primitiae" "first fruits"
    "prīmitiīs" "first fruits"
 
+   "prīmōribus" "chiefs, nobles"
+   "prīmōrēs, prīmōrum" "chiefs, nobles"
+
    "prīncipātum" "sovereignty, empire"
    "prīncipātus, prīncipātūs" "sovereignty, empire"
    
@@ -9577,6 +9580,7 @@
    "prosternēbant" "they were prostrating"
    "prostrāvērunt" "they prostrated"
    "prosternēbantur" "they were being stricken down"
+   "prostrāverat" "he had struck down"
    "prosternō, prosternere, prostrāvī, prostrātus" "to prostrate"
 
    "prōvectae" "having been carried forward"
@@ -9680,6 +9684,7 @@
 
    "pulsāvērunt" "they hit"
    "pulsāvit" "he hit"
+   "pulsā" "having been hit"
    "pulsī" "having been hit"
    "pulsō, pulsāre, pulsāvī, pulsātus" "to hit"
 
@@ -9904,6 +9909,7 @@
    "redīre" "to return, to go back"
    "redīrem" "I (might) have returned"
    "redīvit" "he returned"
+   "reditum" "having been returned"
    "redeō, redīre, redivī(iī), reditus" "to return, to go back"
 
    "reditiōnis" "return"
@@ -9965,6 +9971,7 @@
    "rēgālia" "regal, royal"
    "rēgāle, rēgālis" "regal, royal"
    "rēgālis" "regal, royal"
+   "rēgālibus" "regals, royals"
    "rēgālis, rēgālis, rēgāle" "regal, royal"
 
    "rēgia" "royal palace, court"
@@ -10189,6 +10196,7 @@
 
    "retinenda" "retaining"
    "retinēbant" "they were holding back, they were retaining"
+   "retinent" "they hold back, retain"
    "retineō, retinēre, retinuī, retentus" "they were holding back, they were retaining"
 
    "retractantēs" "withdrawing"
@@ -10869,6 +10877,7 @@
    "silva, silvae" "forest"
 
    "similēs" "similar"
+   "similī" "similar"
    "similis" "similar"
    "similis, simile" "similar"
 
@@ -11071,6 +11080,10 @@
    "spoliīs" "spoils, booty"
    "spolium" "spoil, booty"
    "spolium, spoliī" "spoils, booty"
+
+   "spondent" "they promise"
+   "spondēre" "to promise"
+   "spondeō, spondēre, spopondī, spōnsus" "to promise"
 
    "sponte" "free will, impulse"
    "spōns, spontis" "free will, impulse"
@@ -11729,6 +11742,7 @@
    "trānsivērunt" "they went over, they crossed over"
    "trānseuntium" "crossing"
    "trānsitūrum" "will be crossing over"
+   "trānsīret" "he crossed over"
    "trānseō, trānsīre, trānsivi(iī), trānsitus" "to go over, to cross"
 
    "trānsmarīnīs" "overseas"
@@ -11846,6 +11860,8 @@
    "tunicam" "tunic, undergarment"
    "tunica, tunicae" "tunic, undergarment"
 
+   "turba" "disturbance, quarrel, troop"
+   "turbae" "disturbance, quarrel, troop"
    "turbīs" "disturbances, quarrels, troops"
    "turba, turbae" "disturbance, quarrel, troop"
 
