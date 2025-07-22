@@ -425,6 +425,7 @@
    "inlūxit" "he began to shine; from inlūcēscō, inlūcēscere, inlūxī, -"
    "innocenter" "innocently"
    "inquantum" "insofar as"
+   "īnstanter" "upcomingly, menacingly (adverb)"
    "īnstar" "as big as"
    "inter" "between, among, during"
    "intereā" "during"
@@ -950,6 +951,7 @@
    "vōtum" "vow"
    "vult" "he wants; singular 3rd person present from volō, velle, voluī (irr.)"
    "vultis" "you want; plural 2nd person present from volō, velle, voluī (irr.)"
+   "Westfalhōs" "Westphalians, members of a Saxon tribe"
    "Westfalōs" "Westphalians, members of a Saxon tribe"
    "Wisuram" "The River Weser, the second longest river in Germany"
    "X" "ten"
@@ -983,6 +985,8 @@
    "abnegō, abnegāre, abnegāvī, abnegātus" "to deny, to refuse"
 
    "abscessit" "he left"
+   "abscesserat" "he had left"
+   "abscēdere" "to leave"
    "abscēdō, abscēdere, abscessī, abscessus" "to leave"
 
    "abscondit" "he hid, concealed"
@@ -1323,6 +1327,7 @@
    "agō" "I conduct, act"
    "agerentur" "they were being conducted"
    "agendīs" "conducting"
+   "ēgērunt" "they conducted, acted"
    "agere" "to conduct, to act"
    "agō, agere, ēgī, āctus" "to conduct, to act"
    
@@ -1809,6 +1814,7 @@
    "arripiō, arripere, arripuī, arreptus" "to take hold of, to snatch, to arrest"
 
    "ars" "art, skill"
+   "arte" "art, skill"
    "artem" "art, skill"
    "artis" "of art"
    "ars, artis" "art, skill"
@@ -1903,6 +1909,7 @@
 
    "auctōre"  "authority"
    "auctōrem" "authority"
+   "auctōrēs" "authorities"
    "auctōribus" "authorities"
    "auctor, auctōris" "authority"
    
@@ -2250,6 +2257,7 @@
    "cecidērunt" "they fell"
    "cadō, cadere, cecidī, cāsus" "to fall"
 
+   "caedem" "slaughter"
    "caedēs" "slaughter"
    "caedibus" "slaughters"
    "caedēs, caedis" "slaughter"
@@ -3455,6 +3463,7 @@
    "cornibus" "horns"
    "cornu, cornūs" "horn"
 
+   "correptīs" "having been grasped, shortened, hastened"
    "corripere" "to grasp, shorten, hasten"
    "corripiō, corripere, corripuī, correptus" "to grasp, shorten, hasten"
 
@@ -3525,6 +3534,10 @@
    "crēvisset" "he had increased, came forth"
    "crēvērunt" "they increased, they came forth"
    "crēscō, crēscere, crēvī, crētus" "to increase, to come forth"
+
+   "crīmen" "judicial decision, verdict"
+   "crīminis" "judicial decision, verdict"
+   "crīmen, crīminis" "judicial decision, verdict"
    
    "cruciātibus" "tortures"
    "cruciātus, cruciātūs" "tortures"
@@ -3898,6 +3911,10 @@
    "dēprecāvisset" "they (might) have had prayed"
    "dēprecābātur" "they were praying"
 
+   "dēpressōs" "having been suppressed"
+   "dēprimere" "to suppress"
+   "dēprimō, dēprimere, dēpressī, dēpressus" "to suppress"
+
    "deī" "god, diety"
    "deō" "god"
    "deōrum" "of gods"
@@ -4027,6 +4044,10 @@
    "dīxisse" "to have said"
    "dīxerō" "I will have said"
    "dīcō, dīcere, dīxī, dictus" "to say"
+
+   "dictābat" "he was saying"
+   "dictāre" "to say"
+   "dictō, dictāre, dictāvī, dictātus" "to say"
 
    "dictātōrēs" "dictators"
    "dictātor, dictātōris" "dictator"
@@ -4174,6 +4195,10 @@
    "discurrō, discurrere, discurrī, discursus" "to run around"
    "discurrentēs" "running around"
 
+   "discussō" "having been struck down"
+   "discutere" "to strike down"
+   "discutiō, discutere, discussī, discussus" "to strike down"
+
    "diserta" "skilled in speaking"
    "disertus, diserta, disertum" "skilled in speaking"
 
@@ -4301,6 +4326,12 @@
    "dolōre" "pain, sorrow"
    "dolōrī" "to pain, sorrow"
    "dolor, dolōris" "pain, sorrow"
+
+   "dolōsa" "crafty, cunning"
+   "dolōsī" "crafty, cunning"
+   "dolōsum" "crafty, cunning"
+   "dolōsus" "crafty, cunning"
+   "dolōsus, dolōsa, dolōsum" "crafty, cunning"
 
    "dolum" "trickery, deception"
    "dolus" "trickery, deception"
@@ -4906,6 +4937,7 @@
    "facerent" "they did"
    "faciāmus" "we (might) do, make"
    "faciunt" "they are making, they are doing"
+   "fēcēre" "they did, made"
    "faciō, facere, fēcī, factus" "to do, to make"
    "facis" "you do, you make"
    "facit" "he makes"
@@ -5023,6 +5055,7 @@
    "ferēbāntur" "they were brought"
    "fertur" "it is brought"
 
+   "ferōcēs" "wild, bold, defiant"
    "ferōx" "wild, bold, defiant"
    "ferōx, (gen.), ferōcis" "wild, bold, defiant"
    
@@ -5409,6 +5442,7 @@
    "fugiēns" "fleeing"
    "fugit" "he flees, he fled"
    "fugite" "flee"
+   "fugientum" "fleeing"
    "fugiō, fugere, fūgī, fugitus" "to flee, to avoid"
 
    "fuerit" "it will have been"
@@ -6548,6 +6582,9 @@
    "intrāvit" "he entered"
    "intrantēs" "entering"
    "intrō, intrāre, intrāvī, intrātus" "to enter"
+
+   "intrōgressī" "having entered"
+   "intrōgredior, intrōgredī, intrōgressus sum" "to enter"
    
    "introitus" "entrance"
    "introitum" "entrance"
@@ -7970,8 +8007,9 @@
    "nihilō" "nothing"
    "nihilum, nihilī" "nothing"
 
-   "nimium" "to much, superabundance"
-   "nimium, nimiī" "to much, superabundance"
+   "nimiam" "too much, superabundance"
+   "nimium" "too much, superabundance"
+   "nimium, nimiī" "too much, superabundance"
 
    "nīsōs" "having advanced, pressed upon"
    "nītor, nītī, nīsus sum" "to advance, press upon"
@@ -8176,6 +8214,9 @@
 
    "obtestātus" "having been implored"
    "obtestor, obtestārī, obtestātus sum" "to implore"
+
+   "obstāre" "to oppose"
+   "obstō, obstāre, obstitī, obstātus" "to oppose"
 
    "obtentūrus" "will be obtaining"
    "obtinēbat" "he was obtaining"
@@ -8475,6 +8516,10 @@
    "ōstium" "door"
    "ōstium, ōstiī" "door"
    "ōstium, ōsti(ī)" "door"
+
+   "ovāns" "rejoicing"
+   "ovāre" "to rejoice"
+   "ovō, ovāre, ovāvī, ovātus" "to rejoice"
    
    "ovem" "sheep"
    "ovēs" "sheep"
@@ -8513,7 +8558,12 @@
    "pāne, pānis" "bread"
    "pānem" "bread"
    "pānēs" "bread"
-   
+
+   "pactī" "agreement, bargain"
+   "pāctō" "agreement, bargain"
+   "pactum" "agreement, bargain"
+   "pactum, pactī" "agreement, bargain"
+      
    "pannus" "cloth, rag"
    "pannum" "cloth, rag"
    "pannus, pannī" "cloth, rag"
