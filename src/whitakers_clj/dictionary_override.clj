@@ -293,6 +293,7 @@
    "francī" "the Franks"
    "francīs" "the Franks"
    "francōrum" "of the Franks"
+   "francōs" "the Franks"
    "frēnum" "bridal; ornamental necklace"
    "Frīdēshlar" "Fritzlar, Germany"
    "frūstrā" "futile"
@@ -904,6 +905,8 @@
    "ūsque" "until, all the way, up until"
    "ūsum" "have been being used, singular neuter nominative perfect participle from ūtor, ūtī, ūsum (dep.)"
    "ut" "so that"
+   "utcumque" "as soon as, by any means"
+   "utcunque" "as soon as, by any means"
    "utrimque" "both sides"
    "utrum" "whether"
    "vae" "woe"
@@ -9977,6 +9980,10 @@
 
    "recuperanda" "to be regained"
    "recuperō, recuperāre, recuperāvī, recuperātus" "to regain"
+
+   "recursū" "return, running back"
+   "recursus" "return, running back"
+   "recursus, recursūs" "return, running back"
    
    "reddēbant" "they were rending, they were returning"
    "redīret" "he (might) have been returning"
@@ -10016,6 +10023,8 @@
    "reditum" "having been returned"
    "rediērunt" "they returned"
    "redivērunt" "they returned"
+   "redeuntem" "returning"
+   "rediēre" "they returned"
    "redeō, redīre, redivī(iī), reditus" "to return, to go back"
 
    "reditiōnis" "return"
@@ -10197,6 +10206,7 @@
    "rēmōrum" "of oars"
    "rēmus, rēmī" "oar"
 
+   "remōta" "having been removed"
    "removērī" "to be removed"
    "removēre" "to remove"
    "removeō, removēre, remōvī, remōtus" "to remove"
@@ -10245,6 +10255,7 @@
    "requiēscō, requiēscere, requiēvī, requiētum" "to rest, to quiet down"
 
    "requīsīvit" "he asked for, he required, he missed"
+   "requīrat" "he requires, asks for"
    "requīrō, requīrere, requīsīvī, requīsītus" "to require, to ask for, to miss"
 
    "rērum" "of things"
@@ -10644,6 +10655,7 @@
    "sapōrem" "taste"
    "sapōris" "taste"
 
+   "satēgit" "he was busy, hard pressed"
    "satagam" "I will be busy, hard pressed"
    "satagō, satagere, satēgī, satāctus" "to be busy, hard pressed"
    
@@ -11602,6 +11614,7 @@
    "tālēs" "such"
    "tālia" "such"
    "tālibus" "such"
+   "tālis" "such"
    "tālis, tālis, tāle" "such"
    
    "tanta" "so much, so great, this many"
@@ -11791,6 +11804,11 @@
    "tormentīs" "torments"
    "tormentōrum" "of torments"
    "tormentum, tormentī" "torment, cannon"
+
+   "torpor" "numbness, stupefaction"
+   "torpore" "numbness, stupefaction"
+   "torpōris" "numbness, stupefaction"
+   "torpor, torpōris" "numbness, stupefaction"
 
    "torrentem" "torrent"
    "torrentis" "torrent"
@@ -12544,6 +12562,7 @@
    "vim" "strength"
    "vīrēs" "strength"
    "vīribus"  "strength"
+   "vī" "strength"
    "vīs, vīs" "strength, power"
    
    "vīsitābō" "I will visit"
