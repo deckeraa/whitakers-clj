@@ -2969,6 +2969,10 @@
    "compendium" "compendium, abstract, saving"
    "compendium, compendiī" "compendium, abstract, saving"
 
+   "comperit" "he discovered, found guilty"
+   "comperīre" "to discover, to find guilty"
+   "comperiō, comperīre, comperī, compertus" "to discover, to find guilty"
+
    "compertum" "having been discovered"
    "comperior" "to discover, to find guilty"
    "comperior, comperīrī, compertum" "to discover, to find guilty"
@@ -3002,6 +3006,10 @@
    "comprehēnsōs" "having been seized"
    "comprehendere" "to catch"
    "comprehendō, comprehendere, comprehendī, comprehēnsus" "to catch"
+
+   "comprimeret" "he squeezed together"
+   "comprimere" "to squeeze together"
+   "comprimō, comprimere, compressī, compressus" "to squeeze together"
    
    "computātur" "it is calculated, it is reckoned"
    "computō, computāre, computāvī, computātum" "to calculate, to reckon"
@@ -4352,6 +4360,10 @@
 
    "dominābantur" "he was being mastered"
    "dominō, domināre, domināvī, dominātus" "to master"
+
+   "dominātū" "rule, mastery, tyranny"
+   "dominātus" "rule, mastery, tyranny"
+   "dominātus, dominātūs" "rule, mastery, tyranny"
    
    "domestica" "domestic"
    "domesticus, domestica, domesticum" "domestic"
@@ -4392,6 +4404,7 @@
 
    "dōna" "gifts"
    "dōnīs" "gifts"
+   "dōnō" "gift"
    "dōnum, dōnī" "gift"
 
    "dormiēbat" "he was sleeping"
@@ -4454,6 +4467,7 @@
    "dūrus, dūra -um, dūrior -or -us, dūrissimus -a -um" "hard"
 
    "duce" "leader"
+   "ducem" "leader"
    "ducēs" "leaders"
    "ducum" "of leaders"
    "ducibus" "leaders"
@@ -6356,6 +6370,9 @@
    "ingeret" "he will carry in"
    "ingererētur" "it was carried in"
    "ingerō, ingerere, ingessī, ingestus" "to carry in, to throw in"
+
+   "ingrātus" "ungrateful, unpleasant"
+   "ingrātus, ingrāta, ingrātum" "ungrateful, unpleasant"
    
    "ingressus" "entrance"
    "ingressus, ingressūs" "entrance"
@@ -6541,6 +6558,10 @@
    
    "interfectrīx" "murderess, murderer"
    "interfectrīx, interfectrīcis" "murderess, murderer"
+
+   "interitū" "ruin"
+   "interitus" "ruin"
+   "interitus, interitūs" "ruin"
 
    "intermīserant" "they had interrupted"
    "intermissō" "having been interrupted"
@@ -6814,6 +6835,10 @@
    "iussum" "command, order"
    "iussīs" "commands, orders"
    "iussum, iussī" "command, order"
+
+   "iussū" "order, command, decree"
+   "iussus" "order, command, decree"
+   "iussus, iussūs" "order, command, decree"
 
    "iūsta" "just, righteous"
    "iūstum" "just, righteous"
