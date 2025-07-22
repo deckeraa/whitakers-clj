@@ -1084,6 +1084,11 @@
    "adgregābat" "he was bringing together"
    "adgregō, adgregāre, adgregāvī, adgregātus" "to bring together"
 
+   "adhibitum" "having been summoned"
+   "adhibitus" "having been summoned"
+   "adhibēre" "to summon"
+   "adhibeō, adhibēre, adhibuī, adhibitus" "to summon"
+
    "adiacet" "it lies next to"
    "adiacēre" "to lie next to"
    "adiaceō, adiacēre, adiacuī, adiacitus" "to lie next to"
@@ -1469,6 +1474,7 @@
    
    "amīcī" "friend"
    "amīcīs" "friends"
+   "amīcō" "friend"
    "amīcōs" "friends"
    "amīcum" "friend"
    "amīcus" "friend"
@@ -1906,6 +1912,7 @@
    "auctus, auctūs" "growth, increase"
 
    "ausam" "having been dared"
+   "audente" "daring"
    "audēre" "to dare"
    "audeō, audēre, ausus sum" "to dare"
 
@@ -1930,6 +1937,7 @@
    "abstulērunt" "they carried away"
    "auferō, auferre, abstulī, ablātus" "to carry away, to remove"
 
+   "auget" "it increases"
    "augēbantur" "they were being increased"
    "augēre" "to increase, augment"
    "augeō, augēre, auxī, auctus" "to increase, augment"
@@ -2000,6 +2008,10 @@
    "avum" "forefather, godfather"
    "avus" "forefather, godfather"
    "avus, avī" "forefather, godfather"
+
+   "axe" "axis"
+   "axis" "axis"
+   "axis, axis" "axis"
 
    "babylōniae" "Babylon"
    "Babylōnia, Babylōniae" "Babylon"
@@ -2146,6 +2158,9 @@
 
    "blandīmenta" "flatteries, blandishments"
    "blandīmentum, blandīmentī" "flattery, blandishment"
+
+   "blandē" "flatteringly"
+   "blandus, blanda -um, blandior -or -us, blandissimus -a -um" "flattering"
    
    "bona" "good"
    "boni" "good"
@@ -2477,6 +2492,10 @@
    "causās" "causes, reasons"
    "causa, causae" "cause, reason"
 
+   "cautēla" "caution"
+   "cautēlae" "caution"
+   "cautēla, cautēlae" "caution"
+
    "cavē" "Beware!"
    "cavēte" "Beware!"
    "caveō, cavēre, cāvī, cautus" "to beware"
@@ -2727,6 +2746,10 @@
    "coagulātae" "having been coagulated"
    "coagulātum" "having been coagulated"
    "coagulō, coagulāre, coagulāvī, coagulātus" "to coagulate, to curdle"
+
+   "coelī" "heaven"
+   "coelum" "heaven"
+   "coelum, coelī" "heaven"
 
    "coepērunt" "they started"
    "coepimus" "we started"
@@ -3563,6 +3586,7 @@
    "cūnctātus" "hesitant, tardy"
    "cūnctāta -um, cūnctātior -or -us, cūnctātissimus -a -um" "hesitant, tardy"
 
+   "cūnctī" "all, whole"
    "cūnctīs" "all, whole"
    "cūnctōs" "all, whole"
    "cūnctus, cūncta, cūnctum" "all, whole"
@@ -4229,6 +4253,7 @@
    "dēferret" "he (might) have been bringing"
    "dēfertur" "it is being transferred"
    "dētulērunt" "they transferred"
+   "dēferrent" "they transferred"
    "dēferō, dēferre, dētulī, dēlātus" "to bring down, to transfer"
    
    "dīmidium" "half"
@@ -4912,6 +4937,7 @@
    "facultās, facultātis" "means, ability"
 
    "fallāx" "deceitful, misleading"
+   "fallācibus" "deceitful, misleading"
    "fallāx, fallācis (gen.), fallācior -or -us, fallācissimus -a -um" "deceitful, misleading"
 
    "fallam" "I will deceive"
@@ -5095,6 +5121,7 @@
 
    "ficta" "having been molded, having been created"
    "fingunt" "they mold, form, create"
+   "fingentum" "having been molded, created"
    "fingō, fingere, fīnxī, fictus" "to mold, to form, to create"
    
    "fīniēbat" "they were limiting, they were finishing"
@@ -5210,6 +5237,10 @@
    "foedus" "treaty"
    "foederis" "treaty"
    "foedus, foederis" "treaty"
+
+   "foenum" "hay"
+   "foenī" "hay"
+   "foenum, foenī" "hay"
    
    "folia" "leaves"
    "folium, foliī" "leaf"
@@ -5304,6 +5335,11 @@
 
    "frātruēlem" "fraternal nephew"
    "frātruēlis, frātruēlis" "fraternal nephew"
+
+   "fraus" "fraud"
+   "fraudis" "fraud"
+   "fraude" "fraud"
+   "fraus, fraudis" "fraud"
 
    "fraxinum" "ash tree, spear of ash"
    "fraxinus" "ash tree, spear of ash"
