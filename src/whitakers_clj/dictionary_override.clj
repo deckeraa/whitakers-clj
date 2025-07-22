@@ -5825,6 +5825,7 @@
    "hōram" "hour, time"
    "hōra" "hour, time"
    "hōrae" "hour, time"
+   "hōrās" "hours, times"
    "hōrīs" "hours, times"
    "hōra, hōrae" "hour, time"
 
@@ -6796,6 +6797,7 @@
    "labōris" "labor"
    "labor, labōris" "labor, work"
 
+   "labōrant" "they labor"
    "labōrantēs" "laboring"
    "laboravissent" "they (might) have labored"
    "labōrō, labōrāre, labōrāvī, labōrātus" "to labor"
@@ -6875,6 +6877,7 @@
 
    "latēret" "he lay hidden, lurked"
    "latet" "he lies hidden, he lurks"
+   "latuit" "it lay hidden, it lurked"
    "lateō, latēre, latuī, -" "to lie hidden, to lurk"
 
    "lātitūdine" "breadth, width, latitude"
@@ -7244,6 +7247,9 @@
    
    "malleōrum" "of hammers"
    "malleus, malleī" "hammer"
+
+   "male" "in an evil manner (adverb)"
+   "malus, mala -um, pejor -or -us, -" "evil"
 
    "malvam" "mallow plant"
    "malva, malvae" "mallow plant"
@@ -7986,7 +7992,9 @@
 
    "nocet" "it harms"
    "nocēret" "he (might) have harmed"
+   "nocērī" "to be harmed"
    "nocuit" "he harmed"
+   "nocēre" "to harm"
    "noceō, nocēre, nocuī, nocitus" "to harm"
 
    "nōmina" "names"
@@ -8041,6 +8049,7 @@
    "novissimum" "very new, very inexperienced"
    "novīs" "new, inexperienced"
    "novum" "new, inexperienced"
+   "novō" "new, inexperienced"
    "novus, nova -um, novior -or -us, novissimus -a -um" "new, inexperienced"
 
    "novitāte" "novelty"
@@ -8305,6 +8314,8 @@
    "onerārius, onerāria, onerārium" "burdened"
 
    "onere" "burden"
+   "oneris" "burden"
+   "onus" "burden"
    "onus, oneris" "burden"
 
    "operuit" "he covered"
@@ -8470,6 +8481,11 @@
    "ovis" "sheep"
    "ovium" "of sheep"
    "ovis, ovis" "sheep"
+
+   "pābula" "food, nourishment"
+   "pābulī" "food, nourishment"
+   "pābulum" "food, nourishment"
+   "pābulum, pābulī" "food, nourishment"
 
    "pācātissimam" "very peaceful"
    "pācātus, pācāta -um, pācātior -or -us, pācātissimus -a -um" "peaceful"
@@ -9604,6 +9620,7 @@
    
    "prosper" "favorable"
    "prosper, prospera, prosperum" "favorable"
+   "prospera" "favorable, prosperous"
    "prosperō" "favorable, prosperous"
    "prosperum" "favorable, prosperous"
    "prosperus, prospera -um, prosperior -or -us, prosperrimus -a -um" "favorable, prosperous"
@@ -9946,6 +9963,8 @@
    "redīrem" "I (might) have returned"
    "redīvit" "he returned"
    "reditum" "having been returned"
+   "rediērunt" "they returned"
+   "redivērunt" "they returned"
    "redeō, redīre, redivī(iī), reditus" "to return, to go back"
 
    "reditiōnis" "return"
@@ -10119,6 +10138,7 @@
 
    "remīsērunt" "they sent back"
    "remissī" "having been sent back"
+   "remissus" "having been sent back"
    "remittere" "to send back"
    "remittō, remittere, remīsī, remissus" "to send back"
 
