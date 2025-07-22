@@ -705,6 +705,7 @@
    "quondam" "sometimes"
    "quot" "how many?"
    "quotiēns" "how many times?"
+   "raptim" "quickly, hastily"
    "Rauracīs" "Rauraci, neighbors to the Helvetii"
    "recordare" "remember! Singular imperative of recordārī"
    "recordātus" "rememberance, recollection"
@@ -6841,6 +6842,7 @@
    "iussus, iussūs" "order, command, decree"
 
    "iūsta" "just, righteous"
+   "iūstō" "just, righteous"
    "iūstum" "just, righteous"
    "iūstus, iūsta -um, iūstior -or -us, iūstissimus -a -um" "just, righteous"
 
@@ -7155,6 +7157,11 @@
    "locum" "place"
    "locus" "place"
    "locus, locī" "place"
+
+   "locābat" "he stationed"
+   "locāre" "to station"
+   "locō, locāre, locāvī, locātus" "to station"
+   
    "locūtiōnibus" "speeches, discourse"
    "locūtiō, locūtiōnis" "speaking, speech, discourse"
    "longē" "long"
@@ -7526,6 +7533,7 @@
    "meruistī" "you earned"
    "mereō, merēre, meruī, meritus" "to earn, to deserve"
    "meritī" "merited"
+   "meritō" "merited"
    
    "metallī" "metal"
    "metallum, metallī" "metal"
@@ -7740,8 +7748,10 @@
    "mora" "delay"
    "mora, morae" "delay"
 
+   "mōrātus" "having stayed, delayed"
    "morantur" "they stay, delay"
    "morārī" "to stay, delay"
+   "moror, morārī, morātus sum" "to stay, delay"
 
    "moriēris" "you will die"
    "moritur" "he dies"
@@ -8116,6 +8126,7 @@
 
    "novem" "nine"
 
+   "nova" "new, inexperienced"
    "novī" "new, inexperienced"
    "novissimē" "very new, very inexperienced"
    "novissimō"  "very new, very inexperienced"
@@ -9133,6 +9144,10 @@
    "plēbis" "common people"
    "plēbs" "common people"
    "plēbs, plēbis" "common people"
+
+   "plectēns" "plaiting, twining"
+   "plectere" "to plait, twine"
+   "plectō, plectere, plexī, plectus" "to plait, twine"
    
    "plēnā" "full"
    "plēnae" "full"
@@ -9655,6 +9670,7 @@
    "prōpellere" "to drive, to defeat"
    "prōpellō, prōpellere, prōpulī, prōpulsus" "to drive, to defeat"
 
+   "properāns" "hurrying"
    "properāvērunt" "they hurried"
    "properet" "he hurries"
    "properant" "they hurry"
@@ -10055,6 +10071,7 @@
    "rediērunt" "they returned"
    "redivērunt" "they returned"
    "redeuntem" "returning"
+   "rediēns" "returning"
    "rediēre" "they returned"
    "redeō, redīre, redivī(iī), reditus" "to return, to go back"
 
@@ -10350,6 +10367,10 @@
 
    "retractantēs" "withdrawing"
    "retractō, retractāre, retractāvī, retractātus" "to withdraw"
+
+   "revēxit" "he carried back"
+   "revehere" "to carry back"
+   "revehō, revehere, revēxī, revectus" "to carry back"
 
    "revēlā" "reveal!"
    "revēlāvīt" "he revealed"
@@ -11115,6 +11136,10 @@
 
    "sollicitō" "agitated, restless, anxious"
    "sollicitus, sollicita, sollicitum" "agitated, restless, anxious"
+
+   "sollicitābat" "he was stirring up, agitating"
+   "sollicitāre" "to stir up, agitate"
+   "sollicitō, sollicitāre, sollicitāvī, sollicitātus" "to stir up, agitate"
    
    "solet" "he is accustomed to"
    "solent" "they are accustomed to"
@@ -11196,6 +11221,10 @@
    "spēluncae" "cave"
    "spēluncās" "cave"
    "spēlunca, spēluncae" "cave"
+
+   "sprētō" "having been scorned, despised"
+   "spernere" "to scorn, despise"
+   "spernō, spernere, sprēvī, sprētus" "to scorn, despise"
 
    "spērāns" "hoping"
    "spērant" "they hope, they look forward"
@@ -12162,6 +12191,7 @@
    "urbēs" "cities"
    "urbs" "city"
    "urbis" "city"
+   "urbibus" "cities"
    "urbs, urbis" "city"
    
    "ūrceolus, ūrceolī" "small pitcher"
@@ -12435,6 +12465,11 @@
    "vexentur" "they (might) be vexing"
    "vexātōrum" "having been vexed"
    "vexō, vexāre, vexāvī, vexātus" "to vex, to trouble"
+
+   "vexilla" "flags, banners"
+   "vexillum" "flag, banner"
+   "vexillī" "flag, banner"
+   "vexillum, vexillī" "flag, banner"
    
    "via" "road"
    "viam" "road"
@@ -12664,6 +12699,7 @@
    "vocer" "I am being called"
    "vocentur" "they were called"
    "vocāris" "you will have been called"
+   "vocat" "he calls"
    "vocor" "I am called"
    "vocandō" "calling"
    "vocātus" "having been called"
