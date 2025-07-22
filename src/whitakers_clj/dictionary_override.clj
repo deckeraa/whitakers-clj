@@ -1016,6 +1016,7 @@
    "accēdō, accēdere, accessī, accessus" "to approach"
 
    "accelerābat" "he was speeding up"
+   "accelerāret" "he was speeding up"
    "accelerō, accelerāre, accelerāvī, accelerātus" "to speed up"
 
    "accidere" "to fall upon, to happen"
@@ -1306,6 +1307,7 @@
    "agrum" "field"
    "ager, agrī" "field"
 
+   "agmina" "marching armies"
    "agmen" "marching army"
    "agminis" "marching army"
    "agmen, agminis" "marching army"
@@ -2711,6 +2713,8 @@
    "clāritātis" "clarity, brightness"
    "clāritāte" "clarity, brightness"
    "clāritās, clāritātis" "clarity, brightness"
+
+   "clāra" "clear, bright, famous"
    "clārō"  "clear, bright, famous"
    "clārum" "clear, bright, famous"
    "clārus" "clear, bright, famous"
@@ -2896,6 +2900,8 @@
 
    "comes" "comrade"
    "comite" "comrade"
+   "comitem" "comrade"
+   "comitēs" "comrade"
    "comitī" "comrade"
    "comitibus" "comrades"
    "comes, comitis" "comrade"
