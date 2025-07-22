@@ -396,6 +396,7 @@
    "ignōtum" "unknown"
    "iī" "they, plural masculine nominative of is, ea, id"
    "illīc" "there"
+   "īlicō" "in place"
    "illa" "that; singular feminine nominative from ille, illa, illud"
    "illam" "that; singular feminine accusative from ille, illa, illud"
    "illārum" "that; plural feminine genitive from ille, illa, illud"
@@ -594,6 +595,7 @@
    "parem" "equal, sing. masc. or fem. acc. from pār"
    "pārentēs" "parents"
    "pārentibus" "parents (ablative or dative case)"
+   "pariter" "equally, together"
    "parumper" "briefly"
    "passus" "passus + est = to have suffered"
    "passī" "passī + est = they suffered"
@@ -2434,6 +2436,9 @@
    "casam" "house"
    "casa, casae" "house"
 
+   "cassō" "hollow, vain, useless"
+   "cassus, cassa, cassum" "hollow, vain, useless"
+
    "castellīs" "castles, strongholds"
    "castellō" "castle, stronghold"
    "castellum" "castle, stronghold"
@@ -2962,6 +2967,11 @@
 
    "computō" "computation"
    "computus, computī" "computation"
+
+   "cōnāmen" "effort, struggle"
+   "cōnāmine" "effort, struggle"
+   "cōnāminis" "effort, struggle"
+   "cōnāmen, cōnāminis" "effort, struggle"
 
    "cōnāta" "attempts, efforts"
    "cōnātum, cōnātī" "attempt, effort"
@@ -5041,6 +5051,7 @@
    "fībulās" "brace, brooch, clasp"
    "fībula, fībulae" "brace, brooch, clasp"
 
+   "fidēlēs" "faithful persons, confidants"
    "fidēlibus" "faithful persons, confidants"
    "fidēlis" "faithful person, confidant"
    "fidēlis, fidēlis" "faithful person, confidant"
@@ -6322,6 +6333,8 @@
    "innumerābilis, innumerābilis, innumerābile" "countless"
 
    "innumerīs" "countless"
+   "innumerōs" "countless"
+   "innumerus" "countless"
    "innumerus, innumera, innumerum" "countless"
 
    "inopia"  "lack, poverty"
@@ -6691,6 +6704,9 @@
    "iuncturās" "joinings, junctions"
    "iunctura, iuncturae" "joinings, junctions"
 
+   "iūrāmenta" "oaths"
+   "iūrāmentī" "oath"
+   "iūrāmentīs" "oaths"
    "iūrāmentō" "oath"
    "iūrāmentum, iūrāmentī" "oath"
    
@@ -6709,8 +6725,10 @@
    "iūs" "law, right, justice"
    "iūre" "law, right, justice"
    "iūs, iūris" "law, right, justice"
-   
+
+   "iussī" "command, order"
    "iussum" "command, order"
+   "iussīs" "commands, orders"
    "iussum, iussī" "command, order"
 
    "iūsta" "just, righteous"
@@ -7658,6 +7676,7 @@
    "movērētur" "they (might) have been moving"
    "movētur" "he was moved"
    "mōta" "having been moved"
+   "movēns" "moving"
    "movēre" "to move"
    "moveō, movēre, mōvī, mōtus" "to move"
 
@@ -8181,6 +8200,7 @@
    "occurrerat" "he had run"
    "occurrērunt" "they ran"
    "occurrit" "he ran"
+   "occurrere" "to run"
    "occurrō, occurrere, occurrī, occursus" "to run"
 
    "occursum" "meeting"
@@ -8472,8 +8492,11 @@
    "parātam" "having been prepared"
    "parātōs" "having been prepared"
    "parābat" "he was preparing"
+   "parāre" "to prepare"
    "parō, parāre, parāvī, parātus" "to prepare"
    "parāvērunt" "they prepared"
+   "parat" "he prepares"
+   "parent" "they prepare"
 
    "parentum" "parents"
    "parēns, parentis" "parents"
