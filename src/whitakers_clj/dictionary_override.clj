@@ -748,7 +748,8 @@
    "satis" "enough"
    "Saxonēs" "The Saxons"
    "Saxōnia" "Saxony"
-   "Saxonibus" "The Saxons"
+   "Saxōnibus" "The Saxons"
+   "Saxōnicus" "Saxon"
    "Saxōnum" "of the Saxons"
    "scalta" "an unknown type of plant. Ablative plural from scalta, scaltae."
    "scaltae" "an unknown type of plant. Ablative plural from scalta, scaltae."
@@ -1410,6 +1411,12 @@
    "alligāvissent" "they (might) have had tied"
    "alligāvit" "he tied"
    "alligō, alligāre, alligāvī, alligātus" "to bind, to tie"
+
+   "alpīnārum" "Alpine"
+   "Alpīnārum" "Alpine"
+   "alpīnus, alpīna, alpīnum" "Alpine"
+   "Alpīnus, Alpīna, Alpīnum" "Alpine"
+   
    "altāre" "alter"
    "altāre, altāris" "alter"
    "altāria" "alters"
@@ -2674,6 +2681,10 @@
 
    "circumsistēbant" "they were surrounding"
    "circumsistō, circumsistere, circumstitī, circumstatus" "to surround"
+
+   "circumventus" "having been surrounded"
+   "circumvenīre" "to surround"
+   "circumveniō, circumvenīre, circumvēnī, circumventus" "to surround"
    
    "citius" "swifter"
    "citus, cita -um, citior -or -us, citissimus -a -um" "swift"
@@ -2776,6 +2787,7 @@
    "coepī, coepisse, coepī, coeptus" "to start"
    "coepit" "he started"
    "coeperat" "he had started"
+   "coepisse" "to have started"
 
    "coēgit" "he collected, he forced"
    "cōgerent" "they (might) have collected, forced"
@@ -4665,6 +4677,10 @@
    "ērudītus" "having been educated, taught"
    "ērudīrī" "to be educated, to be taught, to be instructed"
    "ērudiō, ērudīre, ērudīvī, ērudītus" "to educate, to teach, to instruct"
+
+   "ērumpentibus" "breaking out, erupting"
+   "ērumpere" "to break out, erupt"
+   "ērumpō, ērumpere, ērūpī, ēruptus" "to break out, erupt"
    
    "ēscīs" "food, victuals, bait"
    "ēsca" "food, victuals, bait"
@@ -4855,6 +4871,7 @@
    "exposuimus" "we explained"
    "expōnō, expōnere, exposuī, expositus" "to explain"
 
+   "expugnātam" "having been assaulted, stormed, conquered"
    "expugnandam" "assaulting, storming, conquering"
    "expugnāre" "to assault, to storm, to conquer"
    "expugnō, expugnāre, expugnāvī, expugnātus" "to assault, to storm, to conquer"
@@ -4862,6 +4879,7 @@
    "expulsae" "having been driven out"
    "expulsī" "having been driven out"
    "expulissent" "they had expelled"
+   "expulsum" "having been driven out"
    "expulsus" "having been driven out"
    "expellerent" "they drove out"
    "expellere" "to drive out, to expel"
