@@ -571,6 +571,7 @@
    "nūtrītōrem" "nurse; singular masculine accusative from nūtrītor, nūtrītōrēs"
    "ob" "for, because of, towards"
    "obitum" "death"
+   "obvia" "in the path"
    "obviam" "in the path"
    "octāvīs" "octaves, 8th"
    "octāvās" "octaves, 8th"
@@ -947,6 +948,7 @@
    "vīdērunt" "they saw"
    "vigilāte" "stay alert! plural imperative from vigilō, vigilāre, vigilāvī, vigilātus"
    "vīgintī" "20"
+   "violenter" "violently"
    "Virgilius" "Vergil"
    "virīliter" "strongly"
    "vīsae" "vīsae + sunt = having been seen, having appeared"
@@ -6501,6 +6503,9 @@
    "īnspīrāre" "to inspire"
    "īnspīrō, īnspīrāre, īnspīrāvī, īnspīrātus" "to inspire"
 
+   "īnstāns" "upcoming, menacing"
+   "īnstāns, īnstāns" "upcoming, menacing"
+
    "īnstaurātiō" "renewal, repetition"
    "īnstaurātiōne" "renewal, repetition"
    "īnstaurātiō, īnstaurātiōnis" "renewal, repetition"
@@ -6582,6 +6587,9 @@
    
    "interfectrīx" "murderess, murderer"
    "interfectrīx, interfectrīcis" "murderess, murderer"
+
+   "interius" "inner, interior, middle"
+   "interior, interior, interius" "inner, interior, middle"
 
    "interitū" "ruin"
    "interitus" "ruin"
@@ -6822,6 +6830,7 @@
    "iūdicium" "judgement"
    "iūdicium, iūdiciī" "judgement"
 
+   "iuga" "yokes"
    "iugī" "yoke"
    "iugō" "yoke"
    "iugum" "yoke"
@@ -7257,6 +7266,10 @@
    "lūna" "moon, month"
    "lūna, lūnae" "moon, month"
 
+   "lueret" "he paid, fined, expiated"
+   "luere" "to pay, fine, expiate"
+   "luō, luere, luī, lutus" "to pay, fine, expiate"
+
    "lupum" "wolf"
    "lupus, lupī" "wolf"
 
@@ -7362,6 +7375,7 @@
    "mamilla, mamillae" "breast"
 
    "mandāta" "having been entrusted"
+   "mandāverat" "he had entrusted"
    "mandāre" "to entrust"
    "mandō, mandāre, mandāvī, mandātus" "to entrust"
    
@@ -7769,6 +7783,7 @@
    "monumentum, monumentī" "monument, memorial, tomb"
 
    "mora" "delay"
+   "morās" "delays"
    "mora, morae" "delay"
 
    "mōrātus" "having stayed, delayed"
@@ -8083,6 +8098,8 @@
 
    "niveō" "snowy white"
    "niveus, nivea, niveum" "snowy white"
+
+   "nivium" "of snow"
    "nix" "snow"
    "nix, nivis" "snow"
 
@@ -8189,6 +8206,7 @@
    
    "nūlla" "no, none, not any"
    "nūllam" "no, none, not any"
+   "nūllās" "no, none, not any"
    "nūllī" "no, none, not any"
    "nūllīs" "no, none, not any"
    "nūllō" "no, none, not any"
@@ -8300,6 +8318,7 @@
    "obumbrāvit" "it overshadowed, it darkened"
    "obumbrāvisset" "he (might) have had overshadowed"
    "obumbrō, obumbrāre, obumbrāvī, obumbrātus" "to overshadow, to darken"
+   
    "ōceanī" "ocean"
    "ōceanō" "ocean"
    "ōceanus, ōceanī" "ocean"
@@ -8838,6 +8857,9 @@
 
    "pelagī" "of the sea"
    "pelagus, pelagī" "sea"
+
+   "pellere" "to drive away"
+   "pellō, pellere, pepulī, pulsus" "to drive away"
    
    "pellēs" "pelts, hides"
    "pellium" "of pelts, of hides"
@@ -9574,6 +9596,7 @@
    "procer" "nobleman"
    "procerēs" "noblemen"
    "proceris" "nobleman"
+   "procerum" "of noblemen"
    "procer, proceris" "nobleman"
 
    "prōcērus" "elongated, long"
@@ -9959,6 +9982,10 @@
    
    "quīndecim" "fifteen"
    "quīndecim, quīndecimus -a -um, quīndeci -ae -a, quīndecie (n)s" "fifteen"
+
+   "quīvit" "he was ableo"
+   "quīre" "to be able"
+   "queō, quīre, quivī(iī), quitus" "to be able"
 
    "radiantēs" "beaming, shining"
    "radiāre" "to beam, to shine"
@@ -10577,6 +10604,10 @@
    "ruit" "it falls, it fell"
    "ruō, ruere, ruī, rūtus" "to fall down"
 
+   "rūmor" "rumor"
+   "rūmōris" "rumor"
+   "rūmor, rūmōris" "rumor"
+
    "rumpit" "he breaks, destroys"
    "rumpere" "to break, destroy"
    "rumpō, rumpere, rūpī, ruptus" "to break, destroy"
@@ -10772,6 +10803,7 @@
    "scapula, scapulae" "shoulder, back"
 
    "scelere" "crime"
+   "sceleris" "crime"
    "scelus, sceleris" "crime"
 
    "scēptra" "scepters"
@@ -11354,6 +11386,10 @@
    "sterilī" "sterile"
    "sterilis" "sterile"
    "sterilis, sterilis, sterile" "sterile"
+
+   "sternentibus" "spreading, laying out"
+   "sternere" "to spread, to lay out"
+   "sternō, sternere, strāvī, strātus" "to spread, to lay out"
    
    "stetit" "he stood"
    "stetērunt" "they stood"
@@ -11701,6 +11737,7 @@
    "tālis, tālis, tāle" "such"
    
    "tanta" "so much, so great, this many"
+   "tantī" "so much, so great, this many"
    "tantō" "so much, so great, this many"
    "tantum" "so much, so great, this many"
    "tantus, tanta, tantum" "so much, so great, this many"
@@ -11794,6 +11831,7 @@
 
    "terga" "back"
    "tergī" "back"
+   "tergō" "back"
    "tergum, tergī" "back"
 
    "terminōs" "ends, boundaries, limits"
@@ -11953,6 +11991,11 @@
    "trānsfretāvērunt" "they passed over, ferried"
    "trānsfretāvit" "he passed over the sea, ferried"
    "trānsfretō, trānsfretāre, trānsfretāvī, trānsfretātus" "to pass over the sea, to ferry"
+
+   "trānsgressō" "transgressor"
+   "trānsgressor" "transgressor"
+   "trānsgressōris" "transgressor"
+   "trānsgressor, trānsgressōris" "transgressor"
    
    "trānsītur" "being crossed"
    "trānsībat" "he was going over, he was crossing"
@@ -12066,6 +12109,9 @@
    "tuō" "your"
    "tuōs" "your"
    "tuārum" "of your"
+
+   "tuendam" "looking at, protecting"
+   "tueor, tuērī, tuitus sum" "to look at, protect"
 
    "tumidī" "swollen, pompous"
    "tumidus, tumida, tumidum" "swollen, pompous"
