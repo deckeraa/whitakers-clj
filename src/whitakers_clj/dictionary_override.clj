@@ -1113,6 +1113,7 @@
    "adimplēre" "to fill up, to fulfill"
    "adimpleō, adimplēre, adimplēvī, adimplētum" "to fill up, to fulfill"
 
+   "adiēns" "approaching, visiting"
    "adīvit" "he approached, visited"
    "adeō, adīre, adivī(iī), aditus" "to approach, visit"
    
@@ -2046,6 +2047,10 @@
    "balneī" "bath"
    "balneum, balneī" "bath"
 
+   "baptisma" "baptism"
+   "baptismatis" "baptism"
+   "baptisma, baptismatis" "baptism"
+
    "baptismō" "baptism"
    "baptismus" "baptism"
    "baptismus, baptismī" "baptism"
@@ -2502,6 +2507,11 @@
    "catēnātus" "chained"
    "catēnātus, catēnāta, catēnātum" "chained"
 
+   "caterva" "crowd"
+   "catervae" "crowd"
+   "catervās" "crowd"
+   "caterva, catervae" "crowd"
+
    "catholicam" "Catholic"
    "catholicōrum" "Catholic"
    "catholicus, catholici" "Catholic"
@@ -2542,6 +2552,7 @@
    "celebrāvissent" "they (might) have had celebrated"
    "celebrō, celebrāre, celebrāvī, celebrātus" "to celebrate"
 
+   "celer" "quick"
    "celerī" "quick"
    "celerius" "quicker"
    "celer, celeris -e, celerior -or -us, celerrimus -a -um" "quick"
@@ -2750,6 +2761,9 @@
 
    "clāviger" "key-bearer"
    "clāviger, clāvigerī" "key-bearer"
+
+   "clēmēns" "mild, gentle, lenient"
+   "clēmēns, (gen.), clēmentis" "mild, gentle, lenient"
    
    "clēmentia, clēmentiae" "mercy, clemency"
    "clēmentiae" "mercies"
