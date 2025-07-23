@@ -5019,6 +5019,7 @@
    "fallere" "to deceive"
    "fallō, fallere, fefellī, falsus" "to deceive"
 
+   "fāma" "fame, rumor"
    "famulentus" "rumor, reputation"
    "fāma, fāmae" "fame, rumor"
    
@@ -5472,6 +5473,7 @@
    "fugāvit" "he routed, chased away"
    "fugārunt" "they routed, chased away"
    "fugāvērunt" "they routed, chased away"
+   "fugātus" "having been routed, chased away"
    "fugāre" "to rout, to chase away"
    "fugō, fugāre, fugāvī, fugātus" "to rout, to chase away"
 
@@ -6443,6 +6445,9 @@
 
    "inmēnsī" "immense, boundless"
    "inmēnsus, inmēnsa, inmēnsum" "immense, boundless"
+
+   "innectere" "to tie, fasten"
+   "innectō, innectere, innexuī, innexus" "to tie, fasten"
 
    "innumerābilēs" "countless"
    "innumerābilia" "countless"
