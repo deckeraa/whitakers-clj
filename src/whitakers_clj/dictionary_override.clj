@@ -2867,6 +2867,11 @@
    "colēbant" "they were worshiping"
    "coluit" "he worshipped"
    "colō, colere, coluī, cultus" "to worship"
+
+   "collecta" "contribution"
+   "collectae" "contribution"
+   "collectās" "contributions"
+   "collecta, collectae" "contribution"
    
    "collēctiō" "collection"
    "collēctiō, collēctiōnis" "collection"
@@ -3011,6 +3016,7 @@
    "complērentur" "they (might) have been being filled"
    "complērī" "to be filled up"
    "complētum" "having been filled, completed"
+   "complēvit" "he completed, filled up"
    "complēre" "to complete, to fill up"
    "compleō, complēre, complēvī, complētus" "to complete, to fill up"
    
@@ -3050,6 +3056,9 @@
    "cōnāmine" "effort, struggle"
    "cōnāminis" "effort, struggle"
    "cōnāmen, cōnāminis" "effort, struggle"
+
+   "cōnātus" "attempt, effort"
+   "cōnātus, cōnātūs" "attempt, effort"
 
    "cōnāta" "attempts, efforts"
    "cōnātum, cōnātī" "attempt, effort"
@@ -3105,6 +3114,7 @@
    "condita" "building, founding"
    "conditum" "building, founding"
 
+   "condēns" "building, founding"
    "condidit" "he founded, he built"
    "condere" "to build, to found"
    "condō, condere, condidī, conditus" "to build, to found"
