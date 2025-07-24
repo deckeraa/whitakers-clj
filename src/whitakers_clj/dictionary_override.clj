@@ -8247,6 +8247,10 @@
    "nūllus" "no, none, not any"
    "nūllus, nūlla, nūllum (gen -ius)" "no, none, not any"
 
+   "numerōsās" "numerous"
+   "numerōsus" "numerous"
+   "numerōsus, numerōsa -um, numerōsior -or -us, numerōsissimus -a -um" "numerous"
+
    "numerō"  "number, division, troop"
    "numerum" "number, division, troop"
    "numerus" "number, division, troop"
@@ -9536,6 +9540,10 @@
 
    "praeterfluit" "it flows past"
    "praeterfluere" "to flow past"
+
+   "praevertitur" "it is anticipated"
+   "praevertere" "to anticipate"
+   "praevertō, praevertere, praevertī, praeversus" "to anticipate"
    
    "prandium" "breakfast, meal"
    "prandium, prandiī" "breakfast, meal"
