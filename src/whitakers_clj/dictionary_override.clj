@@ -3577,6 +3577,7 @@
    "crēdō" "I believe"
    "crēdendum" "believing"
    "crēdentēs" "believing"
+   "crēdere" "to believe"
    "crēdō, crēdere, crēdidī, crēditum" "to believe"
 
    "cremārētur" "he (might) have been burning"
@@ -4802,6 +4803,7 @@
    "exercitus" "army"
    "exercitūs" "army"
    "exercituum" "of armies"
+   "exercitibus" "armies"
    "exercitus, exercitūs" "army"
 
    "exigēbat" "he was driving out"
@@ -5257,6 +5259,8 @@
    "firmāmentī" "strengthening, support"
    "firmāmentum, firmāmentī" "strengthening, support"
 
+   "fīrmat" "he confirms, hardens"
+   "fīrmāta" "having been hardened, confirmed"
    "fīrmātum" "having been hardened, confirmed"
    "fīrmō, fīrmāre, fīrmāvī, fīrmātus" "to harden, confirm"
 
@@ -5378,6 +5382,7 @@
    "fōrmula, fōrmulae" "shape, formula"
 
    "fortēs" "strong"
+   "fortī" "strong"
    "fortior" "stronger"
    "fortiōrēs" "stronger"
    "fortis" "strong"
@@ -5582,6 +5587,7 @@
    "galliās" "Gaul"
    "Gallia, Galliae" "Gaul"
 
+   "gallica" "Gallic"
    "gallicī" "Gallic"
    "Gallicus, Gallica, Gallicum" "Gallic"
    
@@ -5995,6 +6001,7 @@
    "humilitāte" "humility, insignificance, commonplaceness"
 
    "humilem" "humble, small"
+   "humilēs" "humble, small"
    "humiliter" "humbly"
    "humilis, humile, humilior -or -us, humillimus -a -um" "humble, small"
 
@@ -6076,6 +6083,7 @@
    
    "īgnōsce" "forgive!"
    "īgnōscere" "to forgive"
+   "īgnōsceret" "he was forgiving"
    "īgnōscerētur" "he (might) have been forgiven"
    "īgnōscō, īgnōscere, īgnōvī, īgnōtus" "to pardon, to forgive"
    
@@ -7060,6 +7068,7 @@
    "lēctor" "reader"
    "lēctor, lēctōris" "reader"
 
+   "lectīs" "beds, coaches"
    "lectō" "bed, coach"
    "lectus, lectī" "bed, coach"
    
