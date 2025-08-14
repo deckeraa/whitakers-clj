@@ -9414,6 +9414,9 @@
    "pōtūs" "drink, drinking"
    "pōtus, pōtūs" "drink, drinking"
 
+   "precantēs" "praying"
+   "precor, precārī, precātus sum" "to pray"
+
    "praecēdunt" "they proceed, they excel"
    "praecēdere" "to proceed, to excel"
    "praecēdō, praecēdere, praecessī, praecessus" "to proceed, to excel"
@@ -9602,6 +9605,7 @@
    "prior, priōris" "forefather"
    
    "prior" "prior, ahead, previous"
+   "priōrī" "prior, ahead, previous"
    "prior, prior, prius" "prior, ahead, previous"
 
    "prīscīs" "ancients"
@@ -9739,6 +9743,7 @@
    "prōmīsērunt" "they promised"
    "prōmīsit" "he promised"
    "prōmittēbant" "they were promising"
+   "prōmissa" "having been promised"
    "prōmittō, prōmittere, prōmīsī, prōmissus" "to promise"
 
    "prōmontoria" "peak, headland, cape, promontory"
@@ -9940,6 +9945,9 @@
 
    "puppim" "stern, poop (of a ship)"
    "puppis, puppis" "stern, poop (of a ship)"
+
+   "pūrgārī" "to be cleansed"
+   "pūrgō, pūrgāre, pūrgāvī, pūrgātus" "to cleanse"
    
    "pūrificātiōne" "purification"
    "pūrificātiō, pūrificātiōnis" "purification"
@@ -10271,6 +10279,9 @@
    "rēgnantibus" "reigning"
    "rēgnāre" "to reign"
    "rēgnō, rēgnāre, rēgnāvī, rēgnātus" "to reign"
+
+   "regrediēns" "returning"
+   "regredior, regredī, regressus sum" "to return"
    
    "regressus" "return"
    "regressus, regressūs" "return"
@@ -10674,6 +10685,7 @@
    "saccus" "sack, bag, wallet"
    "saccus, saccī" "sack, bag, wallet"
 
+   "sacrī" "sacred"
    "sacrīs" "sacred"
    "sacer, sacra, sacrum" "sacred"
    
@@ -11080,6 +11092,7 @@
    "servābat" "he was watchinig over, he was guarding, he was preserving"
    "servāre" "to watch over, to guard, to preserve, to save"
    "servō" "I watch over, guard"
+   "servāvissent" "they had watched over"
    "servō, servāre, servāvī, servātus" "to watch over, to guard, to preserve, to save"
 
    "serviet" "you will serve"
@@ -11157,6 +11170,7 @@
 
    "simulācrī" "image, likeness"
    "simulācrum" "image, likeness"
+   "simulācrōrum" "of images, likenesses"
    "simulācrum, simulācrī" "image, likeness"
 
    "simulāvit" "he simulated"
@@ -11366,6 +11380,7 @@
    "spolium, spoliī" "spoils, booty"
 
    "spondent" "they promise"
+   "spondentēs" "promising"
    "spondēre" "to promise"
    "spondeō, spondēre, spopondī, spōnsus" "to promise"
 
@@ -11820,6 +11835,7 @@
 
    "temptābat" "he was tempting"
    "temptāns" "tempting"
+   "temptāvēre" "they tempted"
    "temptāre" "to tempt"
    "temptō, temptāre, temptāvī, temptātus" "to tempt"
    
@@ -12051,6 +12067,9 @@
    "trānsitūrum" "will be crossing over"
    "trānsīret" "he crossed over"
    "trānseō, trānsīre, trānsivi(iī), trānsitus" "to go over, to cross"
+
+   "trānsēgit" "he stabbed, accomplished"
+   "trānsigō, trānsigere, trānsēgī, trānsactus" "to stab, accomplish"
 
    "trānsmarīnīs" "overseas"
    "trānsmarīnus" "overseas"
@@ -12466,6 +12485,10 @@
    "veniēns" "coming"
    "venientem" "coming"
    "veniō, venīre, vēnī, ventus" "to come"
+
+   "venia" "indulgence, kindness"
+   "veniam" "indulgence, kindness"
+   "venia, veniae" "indulgence, kindness"
    
    "vēnī" "I came"
    "vēnit" "he came"
