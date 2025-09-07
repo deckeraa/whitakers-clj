@@ -1338,6 +1338,7 @@
    "agerentur" "they were being conducted"
    "agendīs" "conducting"
    "ēgērunt" "they conducted, acted"
+   "āctūrōs" "to be conducted"
    "agere" "to conduct, to act"
    "agō, agere, ēgī, āctus" "to conduct, to act"
    
@@ -1832,6 +1833,7 @@
    "ars" "art, skill"
    "arte" "art, skill"
    "artem" "art, skill"
+   "artibus" "arts, skills"
    "artis" "of art"
    "ars, artis" "art, skill"
 
@@ -1889,6 +1891,10 @@
    "aspēxit" "he looked at, contemplated"
    "aspicere" "to look at, to contemplate"
    "aspiciō, aspicere, aspēxī, aspectus" "to look at, to contemplate"
+
+   "aspīrante" "breathing, influencing"
+   "aspīrāre" "to breath, influence"
+   "aspīrō, aspīrāre, aspīrāvī, aspīrātus" "to breath, influence"
 
    "assīgnāvit" "he assigned"
    "assīgnāre" "to assign"
@@ -3110,6 +3116,10 @@
    "condēnsus, condēnsa, condēnsum" "dense, thick, packed together"
    "condīvissent" "they (might) have seasoned"
    "condiō, condīre, condīvī, condītus" "to season, to salt"
+
+   "condicta" "agreements, appointments"
+   "condictum" "agreement, appointment"
+   "condictum, condictī" "agreement, appointment"
    
    "condita" "building, founding"
    "conditum" "building, founding"
@@ -3411,6 +3421,7 @@
    "continuās" "continuous"
    "continuōs" "continuous"
    "continuē" "continually"
+   "continuī" "continually"
    "continuus, continua, continuum" "continuous"
    
    "contrīstātus" "being saddened"
@@ -4471,10 +4482,12 @@
    "dubiō" "doubt"
    "dubium, dubiī" "doubt"
 
+   "dubitāns" "hesitating, doubting"
    "dubitāret" "he hesitated, doubted"
    "dubitō, dubitāre, dubitāvī, dubitātus" "to doubt, hesitate"
 
    "dūcēns" "leading"
+   "dūcit" "he leads"
    "ductīs" "to have been lead"
    "dūcere" "to lead"
    "ducta" "having been lead"
@@ -5342,6 +5355,7 @@
    "fodiō, fodere, fōdī, fossus" "to dig"
 
    "foedus" "treaty"
+   "foedera" "treaties"
    "foederis" "treaty"
    "foedus, foederis" "treaty"
 
@@ -5389,6 +5403,7 @@
    "fortissimē" "very strong"
    "fortis, forte, fortior -or -us, fortissimus -a -um" "strong"
 
+   "fortissima" "very strong"
    "fortissimī" "very strong"
    "fortissimus" "very strong"
    
@@ -5889,6 +5904,9 @@
    "hiemis" "of winter"
    "hiemps" "winter"
    "hiemps, hiemis" "winter"
+
+   "hiems" "winter"
+   "hiems, hiemis" "winter"
    
    "hilaritās, hilaritātis" "good humor"
    "hilaritās" "good humor"
@@ -5943,6 +5961,11 @@
    "hōrologiō" "clock"
    "hōrologium" "clock"
    "hōrologium, hōrologiī" "clock"
+
+   "horrida"  "dreadful, horrid, rude"
+   "horridum" "dreadful, horrid, rude"
+   "horridus" "dreadful, horrid, rude"
+   "horridus, horrida, horridum" "dreadful, horrid, rude"
 
    "horrificum" "horrific"
    "horrificus, horrifica, horrificum" "horrific"
