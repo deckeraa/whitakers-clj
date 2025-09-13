@@ -1011,6 +1011,10 @@
    "abundantia"  "abundance, plentifulness"
    "abundantiam" "abundance, plentifulness"
    "abundantia, abundantiae" "abundance, plentifulness"
+
+   "abundat" "it abounds"
+   "abundāre" "to abound"
+   "abundō, abundāre, abundāvī, abundātus" "to abound"
    
    "abyssī" "abyss"
    "abyssus, abyssī" "abyss"
@@ -1338,6 +1342,7 @@
    "agō" "I conduct, act"
    "agerentur" "they were being conducted"
    "agendīs" "conducting"
+   "agendō" "conducting, acting, doing"
    "ēgērunt" "they conducted, acted"
    "āctūrōs" "to be conducted"
    "agere" "to conduct, to act"
@@ -1942,6 +1947,9 @@
    "auctibus" "growth, increase"
    "auctus, auctūs" "growth, increase"
 
+   "audācis" "bold, daring"
+   "audāx, audācis (gen.), audācior -or -us, audācissimus -a -um" "bold, daring"
+
    "ausam" "having been dared"
    "audente" "daring"
    "audēre" "to dare"
@@ -1967,6 +1975,9 @@
    "abstulisset" "he (might) have carried away"
    "abstulērunt" "they carried away"
    "auferō, auferre, abstulī, ablātus" "to carry away, to remove"
+
+   "aufugit" "he flees"
+   "aufugiō, aufugere, aufūgī, aufugitūrus" "to flee"
 
    "auget" "it increases"
    "augēbantur" "they were being increased"
@@ -2085,6 +2096,7 @@
    "barbarus, barbarī" "barbarian"
    
    "barbaricā" "barbaric"
+   "barbaricae" "barbaric"
    "barbaricus, barbarica, barbaricum" "barbaric"
    
    "basēs" "bases"
