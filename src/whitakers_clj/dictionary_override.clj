@@ -562,6 +562,7 @@
    "nostram" "our; plural genitive of ego"
    "nostrum" "our; plural genitive of ego"
    "nōtum" "known; singular neuter nom. or acc. perfect passive participle of gnōscō, gnōscere, nōvī, nōtus"
+   "Nōviomāgum" "Nijmegen, a city in the modern-day Netherlands (accusative case)"
    "noviter" "recently"
    "numquam" "never"
    "numquid" "is it possible?"
@@ -9226,6 +9227,9 @@
    "placidō" "placid, gentle, quiet"
    "placidus, placida, placidum" "placid, gentle, quiet"
 
+   "placitī" "pleasant"
+   "placitus, placita, placitum" "pleasant"
+
    "plāga" "coast"
    "plāgae" "coast"
    "plāgam" "coast"
@@ -9298,6 +9302,11 @@
    "pōmum, pōmī" "fruit, grapes"
    "pōmiferīs" "fruit-bearing"
    "pōmifer, pōmifera, pōmiferum" "fruit-bearing"
+
+   "pondere" "weight, burden"
+   "ponderis" "weight, burden"
+   "pondus" "weight, burden"
+   "pondus, ponderis" "weight, burden"
 
    "pōns" "bridge"
    "pontem" "bridge"
@@ -9583,6 +9592,7 @@
    "premēbat" "he was pressing, overwhelming, oppressing"
    "premendum" "pressing, overwhelming, oppressing"
    "premeret" "he pressed, overwhelmed"
+   "premerentur" "they were pressed, overwhelmed"
    "premō, premere, pressī, pressus" "to press, to overwhelm"
 
    "presbyter" "elder, presbyter"
@@ -10684,6 +10694,7 @@
    "rūmor, rūmōris" "rumor"
 
    "rumpit" "he breaks, destroys"
+   "ruptūrōs" "to be breaking, destroying"
    "rumpere" "to break, destroy"
    "rumpō, rumpere, rūpī, ruptus" "to break, destroy"
 
@@ -11283,6 +11294,9 @@
 
    "sōlitārius" "solitary"
    "sōlitārius, sōlitāria, sōlitārium" "solitary"
+
+   "sollempnia" "solemn, sacred"
+   "sollempnis, sollempne, sollempnior -or -us, sollempnissimus -a -um" "solemn, sacred"
    
    "sōlstitium" "solstice, heat of summer"
    "sōlstitium, sōlstitiī" "solstice, heat of summer"
@@ -11760,6 +11774,7 @@
 
    "suspicābātur" "he was being suspected" ;; WARNING: this could come from the deponent suspicor
    "suspicātī" "having been suspected"
+   "suspectōs" "having been suspected"
    "suspicātus" "having been suspected"
    "suspicō, suspicāre, suspicāvī, suspicātus" "to suspect"
 
@@ -11887,6 +11902,7 @@
    "tenuissent" "they (might) have had held"
    "tenēre" "to hold"
    "tenēbunt" "they will hold"
+   "tenenda" "holding"
    "tenendae" "holding"
    "tenuēre" "they held, alternative spelling of tenuērunt"
    "teneō, tenēre, tenuī, tentus" "to hold, to keep"
@@ -12427,6 +12443,7 @@
    "vādō, vādere, vāsī, -" "to go, to walk"
 
    "valuit" "he was healthy, able, strong"
+   "valērent" "they were healthy, able, strong"
    "valeō, valēre, valuī, valitūrus" "to be healthy, able, strong"
 
    "valida" "strong, healthy"
@@ -12530,6 +12547,10 @@
    "ventus" "wind"
    "ventō" "wind"
    "ventus, ventī" "wind"
+
+   "vēr" "spring"
+   "vēris" "spring"
+   "vēr, vēris" "spring"
    
    "vērāx" "true"
    "vērāx, vērācis (gen.), vērācior -or -us, vērācissimus -a -um" "true"
