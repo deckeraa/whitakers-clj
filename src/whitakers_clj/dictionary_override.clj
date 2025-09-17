@@ -7958,6 +7958,7 @@
    "multōrum" "many"
    "multōs" "many"
    "plūrēs" "more"
+   "plūribus" "more"
    "plūrima" "very many"
    "plūrimās" "very many"
    "plūrimum" "very many"
@@ -8171,6 +8172,12 @@
    "nimiam" "too much, superabundance"
    "nimium" "too much, superabundance"
    "nimium, nimiī" "too much, superabundance"
+
+   "nitet" "it shines, glitters, thrives"
+   "niteō, nitēre, nituī, -" "to shine, glitter, thrive"
+
+   "nitidīs" "shining, brought"
+   "nitidus, nitida, nitidum" "shining, brought"
 
    "nīsōs" "having advanced, pressed upon"
    "nītor, nītī, nīsus sum" "to advance, press upon"
@@ -9337,6 +9344,9 @@
    "pontifex" "high priest, Pope"
    "pontificis" "high priest, Pope"
    "pontifex, pontificis" "high priest, Pope"
+
+   "pontificālis" "pontifical, relating to the Pope"
+   "pontificālis, pontificāle" "pontifical, relating to the Pope"
 
    "pontificātum" "pontificate"
    "pontificātus" "pontificate"
