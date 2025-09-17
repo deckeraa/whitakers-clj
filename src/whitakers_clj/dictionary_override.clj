@@ -21,6 +21,7 @@
    "abs" "from, out of, by, since"
    "Abbā" "father, abbot"
    "abbā" "father, abbot"
+   "abinde" "from that place, thence, since"
    "Abraham" "Abraham, the Old Testament patriarch"
    "absit" "forbid it! May it be absent!"
    "albānōrum" "of the people of Alba Longa"
@@ -2906,6 +2907,7 @@
    "colligere" "to collect, to assemble"
    "colligit" "he collects, he assembles"
    "colligitur" "is assembled"
+   "collēctōs" "having been collected, assembled"
    "colligō, colligere, collēgī, collēctus" "to collect, to assemble"
 
    "colle" "hill"
@@ -3267,6 +3269,9 @@
    "cōnscīscere" "to decide"
    "cōnscīscō, cōnscīscere, cōnscīvī, cōnscītus" "to decide"
 
+   "cōnscius" "conscious, aware of"
+   "cōnscius, cōnscia, cōnscium" "conscious, aware of"
+
    "cōnscrīpserat" "he had written down"
    "cōnscrībere" "to write down"
    "cōnscrībō, cōnscrībere, cōnscrīpsī, cōnscrīptus" "to write down"
@@ -3353,6 +3358,9 @@
 
    "cōnstitūta" "arrangements, agreements"
    "cōnstitūtum, cōnstitūtī" "arrangement, agreement"
+
+   "cōnstrūcta" "having been constructed"
+   "cōnstruō, cōnstruere, cōnstrūxī, cōnstrūctus" "to construct"
 
    "consuēscēbam" "I was familiarizing"
    "consuēverant" "they had familiarized"
@@ -4628,7 +4636,8 @@
    "ēlevantēs" "lifting up"
    "ēlevō, ēlevāre, ēlevāvī, ēlevātus" "to elevate, to alleviate"
 
-   "ēlēctī" "having been chosen"
+   "ēlēctī"  "having been chosen"
+   "ēlēctus" "having been chosen"
    "ēligit" "he chooses"
    "ēlēctīs" "having been chosen"
    "ēlēgit" "he chose"
@@ -7220,6 +7229,7 @@
 
    "lingua" "tongue, language"
    "linguā" "tongue, language"
+   "linguae" "tongues, languages"
    "linguās" "tongues, languages"
    "lingua, linguae" "tongue, language"
    
