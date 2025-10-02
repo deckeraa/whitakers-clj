@@ -1953,6 +1953,7 @@
 
    "ausam" "having been dared"
    "audente" "daring"
+   "audērent" "they had dared"
    "audēre" "to dare"
    "audeō, audēre, ausus sum" "to dare"
 
@@ -2461,6 +2462,10 @@
    
    "carbōnis" "charcoal, coal"
    "carbō, carbōnis" "charcoal, coal"
+
+   "carērent" "they would lack"
+   "carēre" "to lack"
+   "careō, carēre, caruī, caritus" "to lack"
    
    "cāritās" "charity"
    "cāritāte" "charity"
@@ -3135,6 +3140,9 @@
    "condicta" "agreements, appointments"
    "condictum" "agreement, appointment"
    "condictum, condictī" "agreement, appointment"
+
+   "condītiōne" "condition"
+   "condītiō, condītiōnis" "condition"
    
    "condita" "building, founding"
    "conditum" "building, founding"
@@ -3689,6 +3697,7 @@
    "cūnctātus" "hesitant, tardy"
    "cūnctāta -um, cūnctātior -or -us, cūnctātissimus -a -um" "hesitant, tardy"
 
+   "cūncta" "all, whole"
    "cūnctī" "all, whole"
    "cūnctīs" "all, whole"
    "cūnctōs" "all, whole"
@@ -3783,6 +3792,9 @@
    "dāniēle" "Daniel"
    "dāniēlem" "Daniel"
    "Dāniēl, Dāniēlis" "Daniel"
+
+   "dānōrum: of the Danes; plural masculine genitive from Dānus, Dānī"
+   "Dānus: the Danes; singular masculine nominative from Dānus, Dānī"
 
    "dā" "give!"
    "darī" "to be given"
@@ -5779,6 +5791,9 @@
    "gregem" "flock"
    "gregēs" "flocks"
    "grex, gregis" "flock"
+
+   "gregātī" "having been assembled"
+   "gregō, gregāre, gregāvī, gregātus" "to assemble"
 
    "gressus" "stepping, going, way"
    "gressus, gressūs" "stepping, going, way"
@@ -9500,6 +9515,9 @@
    "praeceptum" "order, direction, precept"
    "praeceptum, praeceptī" "order, direction, precept"
 
+   "praecipuae" "particular, special"
+   "praecipuus, praecipua, praecipuum" "particular, special"
+
    "praeclārō" "very bright, remarkable"
    "praeclārus, praeclāra, praeclārum" "very bright, remarkable"
    "praeclārum" "very bright, remarkable"
@@ -10141,6 +10159,9 @@
    "ratiōnis" "reason"
    "ratiō, ratiōnis" "reason"
 
+   "reātūs" "accusation, charge"
+   "reātus, reātūs" "accusation, charge"
+
    "rebelliōne" "renewal of war, rebellion"
    "rebelliōnem" "renewal of war, rebellion"
    "rebelliō" "renewal of war, rebellion"
@@ -10226,6 +10247,10 @@
    "redimerem" "I redeemed"
    "redimere" "to bring back"
    "redimō, redimere, redēmī, redēmptus" "to bring back"
+
+   "redimītus" "having been brought back"
+   "redimīre" "having been brought back"
+   "redimiō, redimīre, redimiī, redimītus" "having been brought back"
 
    "redeam" "I return"
    "redīre" "to return, to go back"
