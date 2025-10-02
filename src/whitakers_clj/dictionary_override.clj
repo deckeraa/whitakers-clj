@@ -7822,6 +7822,9 @@
    "modum" "mode, manner, way, measure, size"
    "modus, modī" "mode, manner, way, measure, size"
 
+   "mōle" "weight"
+   "mōles, mōlis" "weight"
+
    "mōlīmen" "exertion, effort, endeavour"
    "mōlīmina" "exertion, effort, endeavour"
    "mōlīminis" "exertion, effort, endeavour"
@@ -8799,6 +8802,9 @@
    "peperit" "he gave birth"
    "pariō, parere, peperī, partus" "to give birth"
 
+   "pāruerant" "they had obeyed"
+   "pāreō, pārēre, pāruī, pāritūrus" "to obey"
+
    "parietēs" "walls"
    "pariēs, parietis" "wall"
 
@@ -9207,6 +9213,7 @@
    "petēbant" "they were asking for"
    "petīvīt" "he asked for"
    "petenda" "asking for"
+   "petentēs" "asking for"
    "peterent" "they asked for"
    "petīvērunt" "they asked for"
    "petīvissent" "they (might) have had asked"
@@ -9296,6 +9303,7 @@
 
    "plēbis" "common people"
    "plēbs" "common people"
+   "plēbe" "common people"
    "plēbs, plēbis" "common people"
 
    "plectēns" "plaiting, twining"
@@ -9689,8 +9697,10 @@
    
    "prior" "prior, ahead, previous"
    "priōrī" "prior, ahead, previous"
+   "priōrum" "of the previous"
    "prior, prior, prius" "prior, ahead, previous"
 
+   "prīsca" "former, ancient"
    "prīscīs" "ancients"
    "prīscus, prīsca, prīscum" "ancient, early"
 
@@ -9791,6 +9801,9 @@
    "proficīscēminī" "you will set out"
    "proficīscendum" "setting out"
    "proficīscantur" "they (might) set out"
+
+   "professa" "haved professed"
+   "profiteor, profitērī, professus sum" "to profess, declare"
 
    "profundō" "deep, bottomless, boundless"
    "profundīs" "deep, bottomless, boundless"
@@ -10862,6 +10875,9 @@
    "salūtātiōnem" "greeting"
    "salūtātiō, salūtātiōnis" "greeting"
 
+   "salūtiferum" "health-bringing"
+   "salūtifer, salūtifera, salūtiferum" "health-bringing"
+
    "salvī" "healthy, safe"
    "salvam" "healthy, safe"
    "salvum" "healthy, safe"
@@ -10948,6 +10964,7 @@
 
    "scelere" "crime"
    "sceleris" "crime"
+   "scelerum" "of crimes"
    "scelus, sceleris" "crime"
 
    "scēptra" "scepters"
