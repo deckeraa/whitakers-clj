@@ -1986,6 +1986,9 @@
    "augēre" "to increase, augment"
    "augeō, augēre, auxī, auctus" "to increase, augment"
 
+   "Augustī" "august, venerable"
+   "augustus, augusta, augustum" "august, venerable"
+
    "aula" "court"
    "aulae" "court"
    "aulam" "court"
@@ -2597,6 +2600,9 @@
    "cellula, cellulae" "small room, cell"
    "cellulās" "small room, cell"
    "cellulīs" "small rooms, cells"
+
+   "celsōs" "celsus, celsa, celsum"
+   "celsus, celsa, celsum" "high, lofty, tall"
 
    "celtae" "Celts"
    "Celtus, Celta, Celtum" "Celtic"
@@ -3808,6 +3814,7 @@
    "datūrōs" "to be given"
    "data" "things given"
    "dētur" "is given"
+   "dederant" "they had given"
    
    "datō" "gift"
    "datum" "gift"
@@ -3938,6 +3945,7 @@
    "dēglutīvit" "I swallowed"
    "dēglutiō, dēglutīre, dēglutīvī, dēglutītus" "to swallow"
 
+   "dēiēcerat" "he had thrown down, overthrew"
    "dēiēcērunt" "they threw down, overthrew"
    "dēiciet" "he will overthrow"
    "dēicerentur" "they (might) have been throwing down"
@@ -5113,6 +5121,9 @@
    "famēs" "hunger"
    "famēs, famis" "hunger"
    "famē" "hunger"
+
+   "fāmōsum" "famed"
+   "fāmōsus, fāmōsa, fāmōsum" "famed"
    
    "famulī" "servant, companion"
    "famulō" "servant, companion"
