@@ -8888,6 +8888,9 @@
 
    "paternās" "paternal"
    "paternus, paterna, paternum" "paternal"
+
+   "patriō" "fatherly, ancestral"
+   "patrius, patria, patrium" "fatherly, ancestral"
    
    "patriam" "father"
    "patris" "father"
@@ -9198,6 +9201,7 @@
    "perturbātis" "you trouble, confuse"
    "perturbō, perturbāre, perturbāvī, perturbātus" "to trouble"
 
+   "pervēnerat" "he had arrived"
    "pervēnērunt" "they arrived"
    "pervēnisset" "he (might) have had come"
    "pervenīre" "to come to, to arrive"
@@ -9218,6 +9222,7 @@
    "pessimus, pessima, pessimum" "worst"
 
    "petēbant" "they were asking for"
+   "petit" "he sought, asked for"
    "petīvīt" "he asked for"
    "petenda" "asking for"
    "petentēs" "asking for"
@@ -9578,8 +9583,9 @@
    "praefectus" "prefect, officer"
    "praefectus, praefectī" "prefect, officer"
 
+   "praefēcerat" "he had put in command"
    "praefēcit" "he put in command"
-   "praeficiō, praeficere, praefēcī, praefectus" "to command"
+   "praeficiō, praeficere, praefēcī, praefectus" "to place in command"
 
    "praemissō" "having been sent ahead"
    "praemissum" "having been sent ahead"
@@ -11988,6 +11994,7 @@
    "tenēns" "holding"
    "tenente" "holding"
    "tenentēs" "holding"
+   "tenet" "he holds"
    "tenuissent" "they (might) have had held"
    "tenēre" "to hold"
    "tenēbunt" "they will hold"
