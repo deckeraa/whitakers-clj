@@ -2727,7 +2727,10 @@
    "citius" "swifter"
    "citus, cita -um, citior -or -us, citissimus -a -um" "swift"
 
+   "cīvis" "citizen"
    "cīvēs" "citizens"
+   "cīvibus" "citizens"
+   "cīvium" "of citizens"
    "cīvis, cīvis" "citizen"
 
    "cīvitās" "citizens, city-state"
@@ -3890,6 +3893,7 @@
    "dederit" "he will give"
    "dedērunt" "they gave"
 
+   "dēdidit" "he surrendured, gave up"
    "dēdita" "having been surrendured"
    "dēdō, dēdere, dēdidī, dēditum" "to surrender"
 
@@ -7251,6 +7255,9 @@
    "liniērunt" "they lined"
    "linīvērunt" "they lined"
    "liniō, linīre, linīvī, linītus" "to line, to smear"
+
+   "linquentem" "leaving, abandoning"
+   "linquō, linquere, līquī, lictus" "to leave, abandon"
    
    "linteāmina" "linen clothes"
    "linteāmen, linteāminis" "linen cloth"
@@ -11178,6 +11185,9 @@
    "sēquanō" "Members of a Gallic tribe"
    "sēquanōs" "Members of a Gallic tribe"
 
+   "sequentia" "following"
+   "sequēns" "following"
+
    "serēna"  "serene"
    "serēnō" "serene"
    "serēnus" "serene"
@@ -11281,6 +11291,7 @@
    "simulācrōrum" "of images, likenesses"
    "simulācrum, simulācrī" "image, likeness"
 
+   "simulāta" "having been simulated"
    "simulāvit" "he simulated"
    "simulō, simulāre, simulāvī, simulātus" "to simulate"
 
@@ -11541,6 +11552,9 @@
    "statiōnem" "station, guard"
    "statiōnis" "station, guard"
    "statiō, statiōnis" "station, guard"
+
+   "statūta" "statute, law"
+   "statūtum, statūtī" "statute, law"
 
    "statuit" "he decided"
    "statuō, statuere, statuī, statūtus" "to decide, establish"
@@ -11804,6 +11818,7 @@
    "supplex" "suppliant"
    "supplicis" "suppliant"
    "supplicibus" "suppliants"
+   "suppliciter" "suppliantly, beggingly"
    "supplex, supplicis" "suppliant"
 
    "supputantur" "they are computed"
@@ -12662,6 +12677,9 @@
    "versus" "verse, poetic line"
    "versus, versūs" "verse, poetic line"
 
+   "versūtō" "crafty, cunning"
+   "versūtus, versūta, versūtum" "crafty, cunning"
+
    "vertērunt" "they turned"
    "vertitur" "he is turned"
    "versī" "having been turned"
@@ -12842,6 +12860,7 @@
    "violentia, violentiae" "violence"
    
    "violet" "he (might) violate"
+   "violāre" "to violate"
    "violō, violāre, violāvī, violātus" "to violate"
    
    "virentibus" "green"
