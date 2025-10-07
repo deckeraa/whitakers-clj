@@ -8162,6 +8162,7 @@
    "necessitātem" "necessity"
    "necessitās, necessitātis" "necessity"
 
+   "nefanda" "impious, wicked"
    "nefandum" "impious, wicked"
    "nefandus, nefanda, nefandum" "impious, wicked"
 
@@ -9502,6 +9503,7 @@
    "posteriōrem" "following, next"
    "posteriora" "after"
    "posteriōribus" "after"
+   "postrēmōs" "very last"
    "posterus, postera -um, posterior -or -us, postrēmus -a -um" "following, next"
    "potestās" "power"
    "potestātem" "power"
@@ -9537,6 +9539,7 @@
    "precor, precārī, precātus sum" "to pray"
 
    "praecēdunt" "they proceed, they excel"
+   "praecessit" "he proceeded, excelled"
    "praecēdere" "to proceed, to excel"
    "praecēdō, praecēdere, praecessī, praecessus" "to proceed, to excel"
    
@@ -9594,6 +9597,7 @@
 
    "praeda"  "plunder"
    "praedae" "plunder"
+   "praedam"  "plunder"
    "praedīs" "plunder"
    "praeda, praedae" "plunder"
 
@@ -9627,6 +9631,10 @@
    "praeparāvisset" "he (might) have had prepared"
    "praeparāvissent" "they (might) have had prepared"
    "praeparō, praeparāre, praeparāvī, praeparātus" "to prepare"
+
+   "praepediēbat" "he was hindering, shackling, fettering"
+   "praepedīre" "to hinder, shackle, fetter"
+   "praepediō, praepedīre, praepedīvī, praepedītus" "to hinder, shackle, fetter"
    
    "praepositō" "advantageous thing"
    "praepositum, praeposit" "advantageous thing"
@@ -9730,6 +9738,7 @@
    "prior, priōris" "forefather"
    
    "prior" "prior, ahead, previous"
+   "priōrēs" "prior, ahead, previous"
    "priōrī" "prior, ahead, previous"
    "priōrum" "of the previous"
    "prior, prior, prius" "prior, ahead, previous"
@@ -10176,6 +10185,10 @@
    "rāmī" "branches"
    "rāmum" "branch"
    "rāmus, rāmī" "branch"
+
+   "rapuit" "he seized, pillaged"
+   "rapere" "to seize, to pillage"
+   "rapiō, rapere, rapuī, raptus" "to seize, to pillage"
    
    "rapidissimō" "very quick"
    "rapidō" "quick"
@@ -10471,6 +10484,7 @@
    "remanēret" "he (might) have been remaining"
    "remānsit" "he remained"
    "remanēbunt" "they will remain"
+   "remānserat" "he had remained"
    "remānsērunt" "they remained"
    "remaneō, remanēre, remānsī, remānsus" "to remain"
 
@@ -11600,6 +11614,7 @@
    "sterilis, sterilis, sterile" "sterile"
 
    "sternentibus" "spreading, laying out"
+   "sternunt" "they spread out, laid out"
    "sternere" "to spread, to lay out"
    "sternō, sternere, strāvī, strātus" "to spread, to lay out"
    
@@ -11960,6 +11975,9 @@
    "tangere" "to touch, to strike"
    "tangō, tangere, tetigī, tāctus" "to touch, to strike"
 
+   "tardum" "slow"
+   "tardus, tarda -um, tardior -or -us, tardissimus -a -um" "slow"
+
    "tēctus" "having been covered"
    "tegit" "it covers, hides"
    "tegitur" "it is covered, hidden"
@@ -11993,6 +12011,7 @@
 
    "temptābat" "he was tempting"
    "temptāns" "tempting"
+   "temptant" "they tried"
    "temptāvēre" "they tempted"
    "temptāre" "to tempt"
    "temptō, temptāre, temptāvī, temptātus" "to tempt"
@@ -12201,6 +12220,9 @@
    "tranquillitātis" "tranquility"
    "tranquillitās, tranquillitātis" "tranquility"
    "tranquillitāte" "tranquility"
+
+   "trānscenderet" "he was stepping over"
+   "trānscendō, trānscendere, trānscendī, trānscēnsus" "to step over"
    
    "trānsāctā" "having been accomplished"
    "trānsactō" "having been accomplished"
@@ -12339,6 +12361,7 @@
    "tumidī" "swollen, pompous"
    "tumidus, tumida, tumidum" "swollen, pompous"
 
+   "tumultū" "uproar"
    "tumultus" "uproar"
    "tumultus, tumultūs" "uproar"
 
@@ -12357,6 +12380,7 @@
    "turbīs" "disturbances, quarrels, troops"
    "turba, turbae" "disturbance, quarrel, troop"
 
+   "turbantur" "they are disturbed, confused"
    "turbātus" "disturbed, confused"
    "turbō, turbāre, turbāvī, turbātus" "disturbed, confused"
    
@@ -12609,6 +12633,7 @@
    "vectīgal, vectīgālis" "tax, tribute, revenue"
 
    "vehēbantur" "was being carried"
+   "vehendārum" "of carrying"
    "vehō, vehere, vēxī, vectus" "to carry"
    
    "vēlōcissimō" "very quickly"
@@ -12808,6 +12833,10 @@
    "victōriam" "victory"
    "victōriās" "victory"
    "victōria, victōriae" "victory"
+
+   "victrīx" "conqueror"
+   "victrīcis" "conqueror"
+   "victrīx, victrīcis" "conqueror"
    
    "victus" "victuals, nourishment, necessaries of life"
    "victūs" "victuals, nourishment, necessaries of life"
