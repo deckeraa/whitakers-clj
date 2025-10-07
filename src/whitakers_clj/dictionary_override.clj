@@ -7802,6 +7802,11 @@
    "missās" "Masses"
    "missam" "Mass"
    "missārum" "of Masses"
+
+   "missile" "missile, javelin"
+   "missilibus" "missiles, javelins"
+   "missilis" "missile, javelin"
+   "missile, missilis" "missile, javelin"
    
    "mīsissent" "they (might) have had sent"
    "mittite" "send! put!"
@@ -8150,6 +8155,10 @@
    "nebulae" "fog, cloud"
    "nebulam" "fog, cloud"
    "nebula, nebulae" "fog, cloud"
+
+   "necāvit" "he killed, destroyed"
+   "necāre" "to kill, destroy"
+   "necō, necāre, necāvī, necātus" "to kill, destroy"
    
    "necesse" "necessary"
    "necesse, undeclined" "necessary"
