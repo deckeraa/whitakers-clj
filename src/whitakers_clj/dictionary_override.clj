@@ -6025,6 +6025,10 @@
    "hortor, hortārī, hortātus sum" "to exhort"
    "hortābātur" "he was exhorting"
    "hortātī" "having been exhorted"
+
+   "hortātū" "encouragement, exhortation"
+   "hortātus" "encouragement, exhortation"
+   "hortātus, hortātūs" "encouragement, exhortation"
    
    "hospes, hospitis" "guest"
    "hospitēs" "guests"
@@ -6181,6 +6185,9 @@
    
    "illūcēsceret" "it (might) have begun to dawn"
    "illūcēscō, illūcēscere, illūxī, -" "to begin to dawn"
+
+   "illūstrēs" "illustrious"
+   "illūstris, illūstre" "illustrious"
 
    "imāginem" "image"
    "imāgō" "image"
@@ -7631,6 +7638,7 @@
    "membrum" "limb, member"
    "membrīs" "limbs, members"
 
+   "memorātī" "having been remembered"
    "memorātum" "having been remembered"
    "memorō, memorāre, memorāvī, memorātus" "to remember"
 
@@ -8225,6 +8233,7 @@
    "nix" "snow"
    "nix, nivis" "snow"
 
+   "nōbile" "noble, famous, high-born"
    "nōbilibus" "noble, famous, high-born"
    "nōbilis" "noble, famous, high-born"
    "nōbilissimōs" "very noble, famous, high-born"
@@ -9547,6 +9556,7 @@
    "praeceptum, praeceptī" "order, direction, precept"
 
    "praecipuae" "particular, special"
+   "praecipuam" "particular, special"
    "praecipuus, praecipua, praecipuum" "particular, special"
 
    "praeclārō" "very bright, remarkable"
@@ -10204,6 +10214,9 @@
    "rebelliō" "renewal of war, rebellion"
    "rebelliōnis" "renewal of war, rebellion"
    "rebelliō, rebelliōnis" "renewal of war, rebellion"
+
+   "rebellis" "rebellious"
+   "rebellis, rebelle" "rebellious"
 
    "recalcitrāre" "to kick back, be disobedient"
    "recalcitrō, recalcitrāre, recalcitrāvī, recalcitrātus" "to kick back, be disobedient"
@@ -11478,6 +11491,7 @@
    "spērāns" "hoping"
    "spērant" "they hope, they look forward"
    "spērārent" "they (might) have been hoping"
+   "spērāret" "they had hoped"
    "spērāre" "to hope, to look forward"
    "spērō, spērāre, spērāvī, spērātus" "to hope, to look forward"
    
@@ -12175,6 +12189,9 @@
    "trahuntur" "they are drawn, dragged"
    "trahere" "to draw, to drag"
    "trahō, trahere, trāxī, tractus" "to draw, to drag"
+
+   "trāiciēns" "transfering, transporting, passing through"
+   "trāiciō, trāicere, trāiēcī, trāiectus" "to transfer, transport, pass through"
 
    "trāmes" "footpath"
    "trāmite" "footpath"
