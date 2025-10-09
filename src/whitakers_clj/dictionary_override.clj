@@ -1847,6 +1847,9 @@
    "artificēs" "artist, actor"
    "artifex, artificis" "artist, actor"
 
+   "artōs" "close, narrow"
+   "artus, arta -um, artior -or -us, artissimus -a -um" "close, narrow"
+
    "artus" "joint, limb"
    "artus, artūs" "joint, limb"
    
@@ -2361,6 +2364,9 @@
 
    "callidus" "clever, crafty"
    "callidus, callida -um, callidior -or -us, callidissimus -a -um" "clever, crafty"
+
+   "callēs" "paths"
+   "callis, callis" "path"
 
    "calōre" "warmth, heat"
    "calōrem" "warmth, heat"
@@ -2925,6 +2931,7 @@
    "colligō, colligere, collēgī, collēctus" "to collect, to assemble"
 
    "colle" "hill"
+   "collibus" "hills"
    "collis" "hill"
    "collis, collis" "hill"
    
@@ -6218,6 +6225,9 @@
    
    "immolātiōne" "sacrifice"
    "immolātiō, immolātiōnis" "sacrifice"
+
+   "impar" "unequal"
+   "impar, (gen.), imparis" "unequal"
 
    "impedītōs" "burdened"
    "impedītus, impedīta, impedītum" "burdened"
@@ -11514,7 +11524,7 @@
    "spērāns" "hoping"
    "spērant" "they hope, they look forward"
    "spērārent" "they (might) have been hoping"
-   "spērāret" "they had hoped"
+   "spērāret" "he had hoped"
    "spērāre" "to hope, to look forward"
    "spērō, spērāre, spērāvī, spērātus" "to hope, to look forward"
    
