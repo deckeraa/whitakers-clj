@@ -2308,6 +2308,7 @@
    "caecitās, caecitātis" "blindness"
    
    "cecidit" "he fell"
+   "cecidēre" "they fell"
    "cecidērunt" "they fell"
    "cadō, cadere, cecidī, cāsus" "to fall"
 
@@ -2597,6 +2598,10 @@
    "celerī" "quick"
    "celerius" "quicker"
    "celer, celeris -e, celerior -or -us, celerrimus -a -um" "quick"
+
+   "celerant" "they quicken, hurry"
+   "celerāre" "to quicken, to hurry"
+   "celerō, celerāre, celerāvī, celerātus" "to quicken, to hurry"
 
    "celeritās" "swiftness"
    "celeritātis" "swiftness"
@@ -3002,6 +3007,7 @@
    "commeātū" "voyage, supplies, provisions"
    "commeātus, commeātūs" "voyage, supplies, provisions"
 
+   "commendāta" "having been entrusted"
    "commendō" "I entrust, commit, recommend"
    "commendāvit" "he entrusted, committed, recommended"
    "commendāre" "to entrust, to commit, to recommend"
@@ -3072,6 +3078,7 @@
    "complētōrium" "compline, service of prayers at close of day"
    "complētōrium, complētōriī" "compline, service of prayers at close of day"
 
+   "complūra" "many, several persons"
    "complūrēs" "many, several persons"
    "complūribus" "many, several persons"
    "complūs, (gen.), complūris" "many, several persons"
@@ -4231,6 +4238,9 @@
    
    "dīgnum" "worthy, appropriate"
    "dīgnus, dīgna, dīgnum" "worthy, appropriate"
+
+   "dīlāpsōs" "having broken down, flowed out"
+   "dīlābor, dīlābī, dīlāpsus sum" "to break down, flow out"
 
    "dīlātāvērunt" "they expanded, prolonged"
    "dīlātō, dīlātāre, dīlātāvī, dīlātātus" "to expand, prolong"
