@@ -979,6 +979,9 @@
    "abbās, abbātis" "abbot"
    "abbātem" "abbot"
 
+   "abdita" "having been hidden, removed"
+   "abdō, abdere, abdidī, abditus" "to hide, to remove"
+
    "abit" "you depart"
    "abeō, abīre, abiī, abitus" "to depart"
 
@@ -1459,6 +1462,7 @@
    "altum, altī" "height"
    "altior" "higher"
    "altus" "high"
+   "altīs" "highs"
    "altissimam" "highest"
    "altissimō" "highest"
    "altissimus" "highest"
@@ -1788,6 +1792,9 @@
    "ardentem" "burning"
    "ardentēs" "burning"
    "ārdēre" "to burn"
+
+   "ardua" "steep, high, lofty, difficult"
+   "arduus, ardua -um, arduior -or -us, arduissimus -a -um" "steep, high, lofty, difficult"
 
    "argentea" "silver"
    "argenteō" "silver"
@@ -6469,6 +6476,7 @@
    "īnfēlīx, īnfēlīcis (gen.), īnfēlīcior -or -us, īnfēlīcissimus -a -um" "unhappy"
 
    "īnferiōrem" "lower, inferior"
+   "īnferiōrēs" "lower, inferior"
    "īnferiōrī" "lower, inferior"
    "īnferus, īnfera -um, īnferior -or -us, īnfimus -a -um" "low, inferior"
    
@@ -6609,6 +6617,9 @@
    
    "īnsertā" "insert! introduce!"
    "īnsertō, īnsertāre, īnsertāvī, īnsertātus" "to insert, to introduce"
+
+   "īnsidiās" "ambushes, plots"
+   "īnsidia, īnsidiae" "ambush, plot"
 
    "īnsignem" "distinguished"
    "īnsignis" "distinguished"
@@ -6753,6 +6764,9 @@
 
    "intextī" "having been embroidered, woven in"
    "intexō, intexere, intexuī, intextum" "to weave into, embroider"
+
+   "intima" "inmost"
+   "intimus, intima, intimum" "inmost"
    
    "intrābis" "you will enter"
    "intrāmus" "we enter"
@@ -7105,6 +7119,9 @@
    "lassitūdine" "faintness, weariness, exhaustion"
    "lassitūdō, lassitūdinis" "faintness, weariness, exhaustion"
 
+   "lassō" "tired, weary"
+   "lassus, lassa, lassum" "tired, weary"
+
    "latēret" "he lay hidden, lurked"
    "latet" "he lies hidden, he lurks"
    "latuit" "it lay hidden, it lurked"
@@ -7119,6 +7136,10 @@
    "Latīnē" "in Latin"
    "latīnōs" "Latins, of Latium"
    "Latīnus, Latīna, Latīnum" "Latin, of Latium"
+
+   "latrōnum" "of plunderers, robbers, brigands"
+   "latrō" "robber, brigand, plunderer"
+   "latrō, latrōnis" "robber, brigand, plunderer"
 
    "lāta" "wide"
    "lātum" "wide"
@@ -7731,6 +7752,7 @@
    "mīlitāris, mīlitāris, mīlitāre" "military"
    
    "mīles" "soldier"
+   "mīlite" "soldier"
    "mīlitēs" "soldiers"
    "mīlitis" "of a soldier"
    "mīlitibus" "soldiers"
