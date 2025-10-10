@@ -4358,6 +4358,10 @@
 
    "distillābat" "it was dripping"
    "distīllō, distīllāre, distīllāvī, distīllātus" "to drip"
+
+   "dītāvit" "he enriched"
+   "dītāre" "to enrich"
+   "dītō, dītāre, dītāvī, dītātus" "to enrich"
    
    "dīversae" "diverse"
    "dīversa" "diverse"
@@ -5690,6 +5694,10 @@
    "gaudet" "he rejoices"
    "gaudeō, gaudēre, gavīsus sum" "to rejoice"
 
+   "gaza" "treasury"
+   "gazae" "treasuries"
+   "gaza, gazae" "treasury"
+
    "geminīs" "twins"
 
    "geminō" "double, twin"
@@ -6800,6 +6808,9 @@
    "introitum" "entrance"
    "introitus, introitūs" "entrance"
 
+   "inultum" "unavenged"
+   "inultus, inulta, inultum" "unavenged"
+
    "inundātur" "it is flooded"
    "inundantur" "they are flooded"
    "inundāre" "to flood"
@@ -6844,6 +6855,9 @@
 
    "invertitur" "it is changed, turned upside down"
    "invertō, invertere, invertī, inversus" "to change, turn upside down"
+
+   "investīgābilis" "searchable"
+   "investīgābilis, investīgābilis, investigabile" "searchable"
 
    "invidet" "he envies, is jealous"
    "invideō, invidēre, invīdī, invīsus" "to envy, be jealous"
@@ -7688,6 +7702,7 @@
 
    "mente" "mind"
    "mentēs" "minds"
+   "mentī" "to the mind"
    "mēns, mentis" "mind"
    
    "mēnsa" "table"
