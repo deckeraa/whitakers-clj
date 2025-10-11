@@ -7793,12 +7793,15 @@
    "mīllia" "miles"
    "mīlibus" "miles"
    "mīlle, mīlle" "mile"
-   
+
    "minābat" "he was pushing"
    "minō, mināre, mināvī, minātus" "to push, to impel"
    "minimae" "very small"
+   
+   "ministrī" "ministers"
    "minister" "servant, waiter"
    "minister, ministrī" "servant, waiter"
+   
    "ministerium" "ministry"
    "ministerium, ministeriī" "ministry"
    "ministrābat" "he was serving, he was attending"
@@ -8354,6 +8357,7 @@
    "notanda" "writing, observing"
    "notō, notāre, notāvī, notātus" "to write, to observe"
 
+   "nōta" "known"
    "nōtīs" "known"
    "nōtissimīs" "very well known"
    "nōtus" "known"
@@ -8393,8 +8397,13 @@
    "nūbe" "cloud"
    "nūbis" "cloud"
    "nūbēs, nūbis" "cloud"
+
+   "nūbila" "clouds"
+   "nūbilum, nūbilī" "clouds"
+   
    "nūbilās" "cloudy"
    "nūbilus, nūbila, nūbilum" "cloudy"
+   
    "nūda" "naked"
    "nūdus" "naked"
    "nūdus, nūda, nūdum" "naked"
@@ -8841,6 +8850,8 @@
    "pāgum" "district, region"
    "pāgus" "district, region"
    "pāgus, pāgī" "district, region"
+
+   "palātīnī" "palace, imperial"
    
    "pānibus" "bread"
    "pānis" "bread"
@@ -9671,6 +9682,9 @@
    "praedicātiōnem" "public proclamation"
    "praedicātiō, praedicātiōnis" "public proclamation"
 
+   "praedōnēs" "robbers, thieves"
+   "praedō, praedōnis" "robber, thief"
+
    "praefectus" "prefect, officer"
    "praefectus, praefectī" "prefect, officer"
 
@@ -9914,6 +9928,7 @@
    "professa" "haved professed"
    "profiteor, profitērī, professus sum" "to profess, declare"
 
+   "profundē" "profoundly"
    "profundō" "deep, bottomless, boundless"
    "profundīs" "deep, bottomless, boundless"
    "profundum" "deep, bottomless, boundless"
@@ -10449,6 +10464,7 @@
    "refugium" "refuge"
    "refugium, refugiī" "refuge"
 
+   "rēgālī" "regal, royal"
    "rēgālia" "regal, royal"
    "rēgāle, rēgālis" "regal, royal"
    "rēgālis" "regal, royal"
@@ -11280,6 +11296,7 @@
    "sequantur" "they follow"
    "sequenti" "following"
    "sequēbātur" "he was following"
+   "sequerētur" "he followed"
    "sequiminī" "you follow"
    "sequī" "to follow"
    "sēcūta" "having been followed"
