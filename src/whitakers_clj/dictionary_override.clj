@@ -1004,6 +1004,9 @@
    "abscondit" "he hid, concealed"
    "abscondō, abscondere, abscondī, absconditus" "to hide, to conceal"
    "absconditōrum" "of things hidden"
+
+   "absēns" "absent"
+   "absēns, (gen.), absentis" "absent"
    
    "absentia" "absence"
    "absentia, absentiae" "absence"
@@ -1323,6 +1326,7 @@
 
    "agmina" "marching armies"
    "agmen" "marching army"
+   "agmine" "marching army"
    "agminis" "marching army"
    "agmen, agminis" "marching army"
 
@@ -3231,6 +3235,7 @@
    "cōnfitērī" "to confess"
    "cōnfiteor, cōnfitērī, cōnfessum sum" "to confess"
 
+   "cōnfluit" "it flows together"
    "cōnfluunt" "they flow together"
    "cōnfluō, cōnfluere, cōnflūxī, cōnfluxus" "to flow together"
    
@@ -3818,6 +3823,9 @@
    "damnī" "damage, injury"
    "damnum" "damage, injury"
    "damnum, damnī" "damage, injury"
+
+   "dampna" "damages, injuries"
+   "dampnum, dampnī" "damage, injury"
 
    "dāniēle" "Daniel"
    "dāniēlem" "Daniel"
@@ -5215,8 +5223,10 @@
    "ferēbātur" "it was brought"
    "ferēbāntur" "they were brought"
    "fertur" "it is brought"
+   "ferēns" "bringing, bearing"
 
    "ferōcēs" "wild, bold, defiant"
+   "ferōciter" "ferociously, wildly, defiantly"
    "ferōx" "wild, bold, defiant"
    "ferōx, (gen.), ferōcis" "wild, bold, defiant"
    
@@ -6509,8 +6519,11 @@
    "īnferendī" "having been imported"
    "īnferre" "to carry, import"
    "intulissent" "they (might) have carried, imported"
+   "illāta" "having been brought in"
    "illātīs" "having been brought in"
    "īnferō, īnferre, intulī, illātus" "to carry, import"
+
+   "īnfēstō" "unsafe, dangerous, hostile"
 
    "īnfēstant" "they infest"
    "īnfēstāre" "to infest"
@@ -7353,6 +7366,7 @@
    "lītus" "beach, shore"
    "lītora" "beaches, shores"
    "lītore" "beach, shore"
+   "lītoribus" "beaches, shores"
    "lītus, lītoris" "beach, shore"
    
    "loca" "places"
@@ -11316,6 +11330,7 @@
    "sequēns" "following"
 
    "serēna"  "serene"
+   "serēnam" "serene"
    "serēnō" "serene"
    "serēnus" "serene"
    "serēnum" "serene"
@@ -11405,6 +11420,7 @@
    
    "silva" "forest"
    "silvam" "forest"
+   "silvārum" "of forests"
    "silvīs" "forests"
    "silva, silvae" "forest"
 
@@ -11782,6 +11798,7 @@
    "subdūxerat" "he had lead off"
    "subductīs" "having been lead off"
    "subduxerunt" "they lead off"
+   "subdūxit" "he lead off"
    "subdūcere" "to lead off"
    "subdūcō, subdūcere, subdūxī, subductus" "to lead off"
 
@@ -12410,6 +12427,7 @@
    "triplex" "triple"
    
    "trīstēs" "sad"
+   "tristia" "sad"
    "trīstis" "sad"
    "trīstis, trīstis, trīste" "sad"
 
@@ -12537,6 +12555,9 @@
    "ulteriōrem" "farther, last"
    "ulterius" "farther, last"
    "-, -, ulterior -or -us, ultimus -a -um" "farthest, last"
+
+   "ultiō" "vengeance, revenge"
+   "ultiō, ultiōnis" "vengeance, revenge"
    
    "ululantem" "howling"
    "ululātum" "howling"
@@ -12707,6 +12728,9 @@
    "vāstāvit" "he ravaged, devastated"
    "vāstāvērunt" "they ravaged, they devastated"
    "vāstō, vāstāre, vāstāvī, vāstātus" "to lay waste, to devastate, to ravage"
+
+   "vāstī" "wild, deserted, empty, immense"
+   "vāstus, vāsta -um, vāstior -or -us, vāstissimus -a -um" "wild, deserted, empty, immense"
 
    "vāticinātiō" "prophecy"
    "vāticinātiōnem" "prophecy"
