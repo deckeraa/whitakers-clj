@@ -1345,6 +1345,7 @@
    "agit" "I act, I conduct"
    "agitis" "you act, you conduct"
    "ēgissent" "you might have had conducted"
+   "agēbat" "he drove, conducted"
    "agēbant" "they drove, conducted"
    "agēbantur" "they were being driven"
    "agendum" "to be done"
@@ -2320,6 +2321,7 @@
    "caedem" "slaughter"
    "caedēs" "slaughter"
    "caedibus" "slaughters"
+   "caedis" "slaughter"
    "caedēs, caedis" "slaughter"
    
    "caelum" "heaven, sky"
@@ -3172,6 +3174,9 @@
    "condīvissent" "they (might) have seasoned"
    "condiō, condīre, condīvī, condītus" "to season, to salt"
 
+   "condiciōnis" "condition"
+   "condiciō, condiciōnis" "condition"
+
    "condicta" "agreements, appointments"
    "condictum" "agreement, appointment"
    "condictum, condictī" "agreement, appointment"
@@ -3734,6 +3739,7 @@
    "cūnctāta -um, cūnctātior -or -us, cūnctātissimus -a -um" "hesitant, tardy"
 
    "cūncta" "all, whole"
+   "cūnctās" "all, whole"
    "cūnctī" "all, whole"
    "cūnctīs" "all, whole"
    "cūnctōs" "all, whole"
@@ -4623,6 +4629,9 @@
    "ecclēsiās" "churches"
    "ecclēsiam" "church"
    "ecclēsia, ecclēsiae" "church"
+
+   "edāx" "greedy, gluttonous, voracious, destructive"
+   "edāx, edācis (gen.), edācior -or -us, edācissimus -a -um" "greedy, gluttonous, voracious, destructive"
 
    "edēbat" "he was eating"
    "edere" "to eat"
@@ -5668,6 +5677,9 @@
    
    "furcae" "fork"
    "furca, furcae" "fork"
+
+   "furor" "frenzy, rage, madness"
+   "furor, furōris" "frenzy, rage, madness"
    
    "fūrtī" "theft, stolen article"
    "fūrtō" "theft, stolen article"
@@ -5770,6 +5782,7 @@
    "gestum" "having been carried out"
    "gessit" "he bore, carried"
    "gestīs" "having been carried out"
+   "gessisse" "to have born, carried"
    "gerere" "to bear, to carry, to govern"
    "gerō, gerere, gessī, gestus" "to bear, to carry, to govern"
 
@@ -6253,6 +6266,9 @@
    "imminent" "they threaten, they are imminent"
    "imminente" "imminently"
    "immineō, imminēre, -, -" "to threaten, to be imminent"
+
+   "immītis" "savage, cruel"
+   "immītis, immīte, immītior -or -us, immītissimus -a -um" "savage, cruel"
    
    "immolābat" "he was burning"
    "immolābant" "they were burning"
