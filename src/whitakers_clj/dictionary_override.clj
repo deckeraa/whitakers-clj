@@ -633,6 +633,7 @@
    "praesertim" "especially"
    "praestō" "present, available"
    "praeter" "more, beyond, besides, except"
+   "praetereā" "and also"
    "praeteritō" "previous"
    "praeteritum" "previous"
    "prīdiē" "the day before"
@@ -8115,7 +8116,8 @@
    "mūnus, mūneris" "gift"
 
    "mūrō" "city wall"
-   "mūrōs" "city wall"
+   "mūrīs" "city walls"
+   "mūrōs" "city walls"
    "mūrum" "city wall"
    "mūrus" "city wall"
    "mūrus, mūrī" "city wall"
@@ -9322,6 +9324,7 @@
    "pervēnit" "he arrived"
    "perventum" "having been reached"
    "perventūrōs" "arriving (in the future)"
+   "perveniās" "you arrive"
 
    "pedum" "of feet"
    "pedibus" "feet"
@@ -10202,6 +10205,7 @@
 
    "putābat" "he was thinking"
    "putābant" "they were thinking"
+   "putantēs" "thinking"
    "putāre" "to think"
    "putō, putāre, putāvī, putātus" "to think"
 
@@ -12694,6 +12698,7 @@
    "vādere" "to go, to walk"
    "vādō, vādere, vāsī, -" "to go, to walk"
 
+   "valentēs" "being healthy, able, strong"
    "valuit" "he was healthy, able, strong"
    "valērent" "they were healthy, able, strong"
    "valeō, valēre, valuī, valitūrus" "to be healthy, able, strong"
@@ -12727,6 +12732,7 @@
    "vāstāns" "ravaging, devastating"
    "vāstāvit" "he ravaged, devastated"
    "vāstāvērunt" "they ravaged, they devastated"
+   "vāstāre" "to lay waste, to devastate, to ravage"
    "vāstō, vāstāre, vāstāvī, vāstātus" "to lay waste, to devastate, to ravage"
 
    "vāstī" "wild, deserted, empty, immense"
