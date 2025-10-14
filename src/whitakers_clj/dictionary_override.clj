@@ -61,6 +61,7 @@
    "aliquis" "someone"
    "aliquod" "anyone; neuter singular nominative or accusative from aliqui"
    "aliquōs" "someone"
+   "aliquot" "quite a lot"
    "aliter" "otherwise"
    "alleluia" "hallelujah"
    "allobrogēs" "Allobrogi, A Gaulish tribe (nom. or acc. case)"
@@ -179,6 +180,7 @@
    "complicātum" "folded up, rolled up; singular neuter accusative past passive participle from complicāre"
    "cōnfestim" "immediately"
    "cōnsīderāte" "consider! plural imperative from cōnsīderō, cōnsīderāre, cōnsīderāvī, cōnsīderātus"
+   "cōnstanter" "constantly"
    "cōnstitūtī" "cōnstitūtī + sunt = are arranged"
    "cōnsummāta" "finished, consummated; singular feminine nom. or abl. or plural neuter nom. or acc. from cōnsummātus, cōnsummāta, cōnsummātum"
    "cōnsummātō" "finished, consummated; singular masculine or neuter dative or ablative from cōnsummātus, cōnsummāta, cōnsummātum"
@@ -429,6 +431,7 @@
    "inquantum" "insofar as"
    "īnstanter" "upcomingly, menacingly (adverb)"
    "īnstar" "as big as"
+   "intentē" "intently, attentively"
    "inter" "between, among, during"
    "intereā" "during"
    "interfecta" "interfect est = was killed"
@@ -1029,6 +1032,7 @@
 
    "accēde" "approach!"
    "accēderet" "he (might) have been approaching"
+   "accessit" "he approached"
    "accēdere" "to approach"
    "accēdō, accēdere, accessī, accessus" "to approach"
 
@@ -1567,6 +1571,10 @@
 
    "ānfrāctibus" "bends, curves, turnings"
    "ānfrāctus, ānfrāctūs" "bend, curve, turning"
+
+   "angariōs" "public messengers, couriers"
+   "angarius" "public messenger, courier"
+   "angarius, angariī" "public messenger, courier"
    
    "angelī" "angel"
    "angelīs" "angel"
@@ -3031,6 +3039,7 @@
    "commissum, commissī" "undertaking, enterprise"
 
    "commīsit" "he entrusted, connected"
+   "commissa" "having been committed"
    "committendum" "to entrust, connect"
    "committō, committere, commīsī, commissus" "to entrust, connect"
 
@@ -3217,6 +3226,7 @@
    "cōnficere" "to complete"
    "cōnficiō, cōnficere, cōnfēcī, cōnfectus" "to complete"
 
+   "cōnfīdēns" "trusting, believing"
    "cōnfīdat" "he (might) trust"
    "cōnfīdēbant" "they were trusting, believing"
    "cōnfīdō, cōnfīdere, cōnfīsus sum" "to trust, believe"
@@ -3442,6 +3452,7 @@
    "cōnsultum, cōnsultī" "response, plan"
 
    "cōnsūmentur" "they will consume"
+   "cōnsūmpserat" "he had consumed"
    "cōnsūmptī" "having been consumed"
    "cōnsūmō, cōnsūmere, cōnsūmpsī, cōnsūmptus" "to consume"
    
@@ -3674,6 +3685,7 @@
    "crēscō, crēscere, crēvī, crētus" "to increase, to come forth"
 
    "crīmen" "judicial decision, verdict"
+   "crīmina" "judicial decisions, verdicts"
    "crīminis" "judicial decision, verdict"
    "crīmen, crīminis" "judicial decision, verdict"
    
@@ -3820,6 +3832,7 @@
    "damnantur" "they are condemned"
    "damnatur" "he is condemned"
    "damnātus" "having been condemned"
+   "dampnāre" "to condemn"
    "damnō, damnāre, damnāvī, damnātus" "to condemn"
 
    "damnāta" "condemned"
@@ -3904,7 +3917,8 @@
 
    "dēcessum" "departure"
    "dēcessus, dēcessūs" "departure"
-   
+
+   "decēbat" "it was fitting"
    "decet" "it is fitting"
    "decet, decēre, decuit, -" "it is fitting"
    
@@ -4295,6 +4309,7 @@
    "dīmittō, dīmittere, dīmīsī, dīmissus" "to dismiss, to send away"
    "dīmissa" "having been sent away"
    "dīmissō" "having been sent away"
+   "dīmissus" "having been sent away"
 
    "dīra" "ominous, dreadful"
    "dīrās" "ominous, dreadful"
@@ -4318,6 +4333,7 @@
    "discēdere" "to depart"
    "discēdō, discēdere, discessī, discessus" "to depart"
 
+   "didicit" "he learned"
    "dīsceret" "he might learn"
    "dīscō, dīscere, didicī, dīscitus" "to learn"
 
@@ -4628,6 +4644,7 @@
    "ecclēsiae" "church"
    "ecclēsiās" "churches"
    "ecclēsiam" "church"
+   "ecclēsiīs" "churches"
    "ecclēsia, ecclēsiae" "church"
 
    "edāx" "greedy, gluttonous, voracious, destructive"
@@ -6662,6 +6679,9 @@
 
    "īnscius" "ignorant, unknown"
    "īnscius, īnscia, īnscium" "ignorant, unknown"
+
+   "īnsequerentur" "they followed"
+   "īnsequor, īnsequī, īnsecūtus" "to follow"
    
    "īnsertā" "insert! introduce!"
    "īnsertō, īnsertāre, īnsertāvī, īnsertātus" "to insert, to introduce"
@@ -6669,6 +6689,7 @@
    "īnsidiās" "ambushes, plots"
    "īnsidia, īnsidiae" "ambush, plot"
 
+   "īnsignī"  "distinguished"
    "īnsignem" "distinguished"
    "īnsignis" "distinguished"
    "īnsignis, īnsignis, īnsigne" "distinguished"
@@ -6949,7 +6970,8 @@
 
    "irrumpere" "to invade, penetrate"
    "irrumpō, irrumpere, irrūpī, irruptus" "to invade, penetrate"
-   
+
+   "irruerant" "they had forced their way in"
    "irruet" "it will rush in"
    "irruit" "it rushes, it rushed"
    "irruite" "rush! force your way in!"
@@ -7942,6 +7964,7 @@
 
    "modīs" "ways"
    "modum" "mode, manner, way, measure, size"
+   "modus" "mode, manner, way, measure, size"
    "modus, modī" "mode, manner, way, measure, size"
 
    "mōle" "weight"
@@ -8787,6 +8810,7 @@
    "oriēns, orientis" "daybreak, dawn, East"
    
    "orientālem" "eastern"
+   "orientālēs" "eastern"
    "orientālī" "eastern"
    "orientālis, orientālis, orientāle" "eastern"
 
@@ -8932,6 +8956,10 @@
    "parāvērunt" "they prepared"
    "parat" "he prepares"
    "parent" "they prepare"
+
+   "pepercit" "he spared, saved"
+   "parcere" "to spare, to save"
+   "parcō, parcere, pepercī, parsus" "to spare, to save"
 
    "parentum" "parents"
    "parēns, parentis" "parents"
@@ -9136,6 +9164,9 @@
    "perēgit" "he completed"
    "perāctus" "having been completed"
    "peragō, peragere, perēgī, perāctus" "to carry through, to complete"
+
+   "peragrāns" "traveling over"
+   "peragrō, peragrāre, peragrāvī, peragrātus" "to travel over"
 
    "perambulantibus" "walking through"
    "perambulantēs" "walking through"
@@ -9575,6 +9606,9 @@
    "portus" "harbor, port"
    "portus, portūs" "harbor, port"
 
+   "pōscente" "demanding"
+   "pōscō, pōscere, popōscī, -" "to demand"
+
    "positus" "position"
    "positus, positūs" "position"
 
@@ -9868,6 +9902,7 @@
    "prīvātus, prīvāta, prīvātum" "private"
 
    "probat" "he approves, he commends"
+   "probātur" "it is approved, commended"
    "probāvimus" "we approved, we commended"
    "probāvī" "I approved, commended"
    "probāvit" "he approved, commended"
@@ -10396,6 +10431,7 @@
    "recursus, recursūs" "return, running back"
    
    "reddēbant" "they were rending, they were returning"
+   "redeuntēs" "returning"
    "redīret" "he (might) have been returning"
    "reddāmus" "let us return"
    "redde" "return!"
@@ -11759,6 +11795,7 @@
    "statū" "state, status"
    "status, statūs" "state, status"
 
+   "strāge"  "overthrow, destruction"
    "strāgem" "overthrow, destruction"
    "strāgēs" "overthrow, destruction"
    "strāgēs, strāgis" "overthrow, destruction"
@@ -11937,7 +11974,9 @@
    "sūmite" "take up!"
    "sūmere" "to take up"
    "sūmpsit" "he took up"
+   "sūmpserat" "he had taken up"
    "sūmpsērunt" "they took up"
+   "sūmptīs" "having been taken up"
    "sūmptō" "having been taken up"
    "sūmptūrum" "to be undertaken"
    "sūmō, sūmere, sūmpsī, sūmptus" "to take up"
@@ -11957,6 +11996,7 @@
    "superficiēs" "top, surface"
    "superficiēs, superficiēī" "top, surface"
 
+   "superessent" "they had survived, been left over"
    "superfuerant" "they had survived, been left over"
    "supersum, superesse, superfuī, superfutūrus" "to be left over, to remain, to survive"
    "supersunt" "they are left over, they remain"
@@ -12329,6 +12369,7 @@
    "trahere" "to draw, to drag"
    "trahō, trahere, trāxī, tractus" "to draw, to drag"
 
+   "trāiēcerat" "they had transferred, transported"
    "trāiciēns" "transfering, transporting, passing through"
    "trāiciō, trāicere, trāiēcī, trāiectus" "to transfer, transport, pass through"
 
@@ -12552,7 +12593,8 @@
 
    "ulcīscendī" "avenging, punishing"
    "ulcīscor, ulcīscī, ultus sum" "to avenge, punish"
-   
+
+   "ūllīus" "of any"
    "ūlla" "any"
    "ūllae" "any"
    "ūllum" "any"
@@ -12730,6 +12772,9 @@
    "vallum" "wall, rampart"
    "vallum, vallī" "wall, rampart"
 
+   "vānā" "empty, vain"
+   "vānus, vāna, vānum" "empty, vain"
+
    "varia"  "various, diverse"
    "variō"  "various, diverse"
    "variīs" "various, diverse"
@@ -12827,6 +12872,7 @@
    "ventus, ventī" "wind"
 
    "vēr" "spring"
+   "vēre" "spring"
    "vēris" "spring"
    "vēr, vēris" "spring"
    
@@ -13030,6 +13076,7 @@
    "vīlla"  "farm, villa"
    "vīllae" "farms, villas"
    "vīllam" "farm, villa"
+   "vīllās" "farm, villa"
    "vīlla, vīllae" "farm, villa"
 
    "vincēbantur" "they were conquered"
@@ -13176,6 +13223,8 @@
 
    "vocitant" "they call"
    "vocitābant" "they called"
+   "vocitātō"  "having been called"
+   "vocitātus" "having been called"
    "vocitātur" "it is called"
    "vocitāre" "to call"
    "vocitō, vocitāre, vocitāvī, vocitātus" "to call"
