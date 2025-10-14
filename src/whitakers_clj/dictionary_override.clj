@@ -3251,6 +3251,9 @@
    "cōnfitērī" "to confess"
    "cōnfiteor, cōnfitērī, cōnfessum sum" "to confess"
 
+   "cōnflīgere" "to fight"
+   "cōnflīgō, cōnflīgere, cōnflīxī, cōnflīctus" "to fight"
+
    "cōnfluit" "it flows together"
    "cōnfluunt" "they flow together"
    "cōnfluō, cōnfluere, cōnflūxī, cōnfluxus" "to flow together"
@@ -3938,6 +3941,11 @@
 
    "dēdecus" "disgrace, shame"
    "dēdecus, dēdecoris" "disgrace, shame"
+
+   "dēditiō"    "surrender, capitulation"
+   "dēditiōnem" "surrender, capitulation"
+   "dēditiōnis" "surrender, capitulation"
+   "dēditiō, dēditiōnis" "surrender, capitulation"
 
    "dēdūcēbant" "they escorted, removed"
    "dēdūxit" "he escorted, he removed"
@@ -5389,6 +5397,7 @@
    "fīrmat" "he confirms, hardens"
    "fīrmāta" "having been hardened, confirmed"
    "fīrmātum" "having been hardened, confirmed"
+   "fīrmāre" "to harden, confirm"
    "fīrmō, fīrmāre, fīrmāvī, fīrmātus" "to harden, confirm"
 
    "fīrma" "firm"
@@ -7418,6 +7427,7 @@
    "locus, locī" "place"
 
    "locābat" "he stationed"
+   "locāta" "having been stationed"
    "locāre" "to station"
    "locō, locāre, locāvī, locātus" "to station"
    
@@ -10014,6 +10024,7 @@
    "prōgeniēs, prōgeniēī" "race, family, progeny"
 
    "prōgressī" "having advanced"
+   "prōgressus" "having advanced"
    "prōgredior, prōgredī, prōgressus sum" "to advance, to go forward"
 
    "prohibēbant" "they were preventing, restraining"
@@ -10032,6 +10043,7 @@
    "prōmīsit" "he promised"
    "prōmittēbant" "they were promising"
    "prōmissa" "having been promised"
+   "prōmissam" "having been promised"
    "prōmittō, prōmittere, prōmīsī, prōmissus" "to promise"
 
    "prōmontoria" "peak, headland, cape, promontory"
@@ -10640,6 +10652,7 @@
    "remānsērunt" "they remained"
    "remaneō, remanēre, remānsī, remānsus" "to remain"
 
+   "remeāvit" "he returned"
    "remeāre" "to come back, return"
    "remeō, remeāre, remeāvī, remeātus" "to come back, return"
 
@@ -11000,7 +11013,8 @@
    "sacerdōtēs" "priests"
    "sacerdōtibus" "priests"
    "sacerdōs, sacerdōtis" "priest"
-   
+
+   "sacrāmentīs" "sacraments"
    "sacrāmentum" "sacrament"
    "sacrāmentum, sacrāmentī" "sacrament"
 
@@ -11701,6 +11715,7 @@
    "spolium" "spoil, booty"
    "spolium, spoliī" "spoils, booty"
 
+   "spondēbant" "they were promising"
    "spondent" "they promise"
    "spondentēs" "promising"
    "spondēre" "to promise"
@@ -11864,7 +11879,8 @@
 
    "subiēcit" "he subjected"
    "subiectam" "things subjected"
-   "subiecta" "having been subjectedo"
+   "subiecta" "having been subjected"
+   "subiectōs" "having been subjected"
    "subiciō, subicere, subiēcī, subiectus" "to subject, to throw under"
 
    "subācta" "having been subjugated, conquered"
@@ -12246,6 +12262,7 @@
    "terrēnum" "land, ground"
    "terrēnum, terrēnī" "land, ground"
 
+   "territa" "having been frightened"
    "terruit" "he frightened"
    "terrēre" "to frighten"
    "terreō, terrēre, terruī, territus" "to frighten"
@@ -12847,6 +12864,7 @@
    "vēnerit" "he will have come"
    "veniēns" "coming"
    "venientem" "coming"
+   "venientēs" "coming"
    "veniō, venīre, vēnī, ventus" "to come"
 
    "venia" "indulgence, kindness"
