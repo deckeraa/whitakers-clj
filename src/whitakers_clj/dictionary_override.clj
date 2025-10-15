@@ -158,6 +158,7 @@
    "cibō" "food; singular masculine ablative from cibum cibum, cibī"
    "cicerōnem" "Cicerō (accusative case)"
    "cicerōnī" "Cicerō (dative case)"
+   "citrā" "on this side"
    "ciula" "longship; singular feminine nominative variant spelling from ceola, ceolae"
    "ciulās" "longships; plural feminine accusative variant spelling from ceola, ceolae"
    "ciulae" "longship; singular feminine genitive or plural nominative variant spelling from ceola, ceolae"
@@ -1544,6 +1545,7 @@
    "amnis, amnis" "river"
 
    "amor" "love"
+   "amōre" "with love"
    "amōrem" "love"
    "amor, amōris" "love"
    
@@ -2764,6 +2766,7 @@
    "circumveniō, circumvenīre, circumvēnī, circumventus" "to surround"
    
    "citius" "swifter"
+   "citus" "swift"
    "citus, cita -um, citior -or -us, citissimus -a -um" "swift"
 
    "cīvis" "citizen"
@@ -3098,6 +3101,9 @@
    "complūrēs" "many, several persons"
    "complūribus" "many, several persons"
    "complūs, (gen.), complūris" "many, several persons"
+
+   "compōnere" "to put together"
+   "compōnō, compōnere, composuī, compositus" "to put together"
 
    "comportārī" "to be brought together"
    "comportāvissent" "they (might) have brought together"
@@ -3776,6 +3782,7 @@
    "cūria" "court, council, senate"
    "cūria, cūriae" "court, council, senate"
 
+   "cūrāns" "taking care"
    "cūrārat" "he had taken care to"
    "curaverat" "he had taken care to"
    "cūrāvit" "he took care of"
@@ -3894,6 +3901,10 @@
    "decānus" "dean, chief"
    "decānus, decānī" "dean, chief"
 
+   "decas" "decade"
+   "decadis" "of the decade"
+   "decas, decadis" "decade"
+
    "dēcesserat" "he had departed, abandoned"
    "dēcēdere" "to depart, abandon"
    "dēcēdō, dēcēdere, dēcessī, dēcessus" "to depart, abandon"
@@ -4002,6 +4013,9 @@
    "dēglutīre" "to swallow"
    "dēglutīvit" "I swallowed"
    "dēglutiō, dēglutīre, dēglutīvī, dēglutītus" "to swallow"
+
+   "dēgunt" "they spend"
+   "dēgō, dēgere, dēgī" "to spend"
 
    "dēiēcerat" "he had thrown down, overthrew"
    "dēiēcērunt" "they threw down, overthrew"
@@ -4383,6 +4397,7 @@
 
    "dispositīs" "having been arranged, distributed"
    "disposuit" "he arranged, distributed"
+   "dispositūrus" "for arranging"
    "dispōnō, dispōnere, disposuī, dispositus" "to arrange, distribute"
 
    "disrumperent" "they shattered"
@@ -5056,6 +5071,9 @@
    "exspectāvit" "he waited"
    "exspectāre" "to wait"
    "exspectō, exspectāre, exspectāvī, exspectātus" "to wait"
+
+   "exstāre" "to stand out, exist"
+   "exstō, exstāre, -, -" "to stand out, exist"
    
    "extendentis" "extending"
    "extendere" "to extend"
@@ -5296,6 +5314,10 @@
    "festīnāre" "to hasten, to hurry"
    "festīnāvit" "he hastened, he hurried"
    "festīnāvissent" "they (might) have had hastened"
+
+   "festīnus" "swift, fast, hastening"
+   "festīnus, festīna, festīnum" "swift, fast, hastening"
+   
    "festīnō, festīnāre, festīnāvī, festīnātus" "to hasten, to hurry"
    "fēstīvitāte" "festivity"
    "fēstīvitātem" "festivity"
@@ -5368,8 +5390,10 @@
    "fīniantur" "he might be finishing"
    "fīnītur" "it is finished, it is limited"
    "fīnīvit" "he finished, he limited"
+   "fīnīre" "to limit, to finish"
    "fīniō, fīnīre, fīnīvī, fīnītus" "to limit, to finish"
 
+   "fīne" "boundary, end, limit"
    "fīnem" "boundary, end, limit"
    "fīnēs" "boundaries, ends, limits"
    "fīnibus" "boundaries, ends, limits"
@@ -5410,6 +5434,7 @@
    "flāgitābant" "they were demanding, requiring"
    "flāgitō, flāgitāre, flāgitāvī, flāgitātus" "to demand urgently, require"
 
+   "flagrābat" "he was burning"
    "flagrāns" "burning"
    "flagrō, flagrāre, flagrāvī, flagrātus" "to blaze, to burn"
    
@@ -5467,6 +5492,7 @@
    "flūmen, flūminis" "river"
    
    "fluvium" "river"
+   "fluvius" "river"
    "fluvius, fluviī" "river"
    
    "focum" "hearth, fireplace, altar"
@@ -7335,6 +7361,10 @@
    "lēx" "law"
    "lēx, lēgis" "law"
 
+   "libellum" "little book"
+   "libellus" "little book"
+   "libellus, libellī" "little book"
+
    "liber" "book"
    "librī" "book"
    "librīs" "books"
@@ -7379,6 +7409,10 @@
    "lignīs" "wood"
    "lignum" "wood"
    "lignum, lignī" "wood"
+
+   "līmen" "threshold, doorstep, house"
+   "līmina" "thresholds, doorsteps, houses"
+   "līmen, līminis" "thresholds, doorsteps, house"
 
    "lingua" "tongue, language"
    "linguā" "tongue, language"
@@ -7427,6 +7461,7 @@
    "locus, locī" "place"
 
    "locābat" "he stationed"
+   "locāvit" "he stationed"
    "locāta" "having been stationed"
    "locāre" "to station"
    "locō, locāre, locāvī, locātus" "to station"
@@ -7638,6 +7673,7 @@
    "manēbunt" "they will remain"
    "manentēs" "remaining"
    "manēret" "it remained"
+   "mānsisse" "to have remained"
    
    "manifestāvit" "he revealed"
    "manifestō, manifestāre, manifestāvī, manifestātus" "to reveal"
@@ -7741,6 +7777,7 @@
 
    "mediā" "middle"
    "mediae" "middle"
+   "medius" "middle"
    "medius, media, medium" "middle"
    
    "mediō" "middle"
@@ -7911,6 +7948,10 @@
    "misereātur" "he (might) pity"
    "miserēre" "to pity, to have compassion"
    "misereō, miserēre, miseruī, miseritus" "to pity, to have compassion"
+
+   "miscētur" "it is mixed"
+   "miscēre" "to mix, mingle"
+   "misceō, miscēre, miscuī, mixtus" "to mix, mingle"
 
    "misericordia" "pity, compassion, mercy"
    "misericordiae" "pity, compassion, mercy"
@@ -8733,6 +8774,7 @@
    "oportere" "it is right/proper/necessary"
    "oportet, oportere, oportuit, -" "it is right/proper/necessary"
 
+   "oportunō" "opportune"
    "oportunissimō" "very opportune"
    "oportūnus, oportūna -um, oportunior -or -us, oportunissimus -a -um" "opportune"
 
@@ -8907,6 +8949,7 @@
    "paenitentiam" "penitence, repentance"
    "paenitentia, paenitentiae" "penitence, repentance"
 
+   "pāgāna"  "peasant, villager, rustic"
    "pāgānī"  "peasant, villager, rustic"
    "pāgānīs" "peasant, villager, rustic"
    "pāgānus" "peasant, villager, rustic"
@@ -8977,6 +9020,7 @@
    "peperit" "he gave birth"
    "pariō, parere, peperī, partus" "to give birth"
 
+   "pārēns" "obeying"
    "pāruerant" "they had obeyed"
    "pāreō, pārēre, pāruī, pāritūrus" "to obey"
 
@@ -8999,6 +9043,7 @@
 
    "parvam" "small"
    "parvī" "small"
+   "parvīs" "small"
    "parvum" "small"
    "parvus, parva, parvum" "small"
    
@@ -9248,7 +9293,8 @@
 
    "perhibētur" "it is bestowed"
    "perhibeō, perhibēre, perhibuī, perhibitus" "to bestow"
-   
+
+   "pergēns" "continuing on"
    "pergite" "go, continue"
    "perrēxī" "I proceeded"
    "perrēxit" "he proceeded"
@@ -9708,6 +9754,7 @@
    "praecipitis" "steep place"
    "praeceps, praecipitis" "steep place"
 
+   "praeceptō" "order, direction, precept"
    "praeceptōrum" "of orders, directions, precepts"
    "praeceptum" "order, direction, precept"
    "praeceptum, praeceptī" "order, direction, precept"
@@ -10063,6 +10110,7 @@
    "prōpellō, prōpellere, prōpulī, prōpulsus" "to drive, to defeat"
 
    "properāns" "hurrying"
+   "properāverat" "he hurried"
    "properāvērunt" "they hurried"
    "properet" "he hurries"
    "properant" "they hurry"
@@ -11124,6 +11172,7 @@
 
    "sānus" "healthy, sound"
    "sānōs" "healthy, sound"
+   "sānē" "healthfully, soundly"
    "sānus, sāna, sānum" "healthy, sound"
 
    "sapidō" "tasty"
@@ -11504,6 +11553,7 @@
    "simulācrōrum" "of images, likenesses"
    "simulācrum, simulācrī" "image, likeness"
 
+   "simulāns" "feigning, simulating"
    "simulāta" "having been simulated"
    "simulāvit" "he simulated"
    "simulō, simulāre, simulāvī, simulātus" "to simulate"
@@ -11995,6 +12045,7 @@
    "sūmptīs" "having been taken up"
    "sūmptō" "having been taken up"
    "sūmptūrum" "to be undertaken"
+   "sūmēns" "taking up"
    "sūmō, sūmere, sūmpsī, sūmptus" "to take up"
    
    "sumus" "we are"
@@ -12632,6 +12683,7 @@
    "ultimam" "farthest, last"
    "ulteriōre" "farther, last"
    "ulteriōrem" "farther, last"
+   "ulteriōrī" "farther, last"
    "ulterius" "farther, last"
    "-, -, ulterior -or -us, ultimus -a -um" "farthest, last"
 
