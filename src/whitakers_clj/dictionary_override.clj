@@ -123,6 +123,7 @@
    "boiōs" "the Boii, who live across the Rhine from the Helvetii"
    "Bonifacius" "Saint Boniface, AD 675-754"
    "bovēs" "cows; plural masc. or fem. nom. or acc. from bōs, bovis"
+   "Brāchium" "the Bosporus; from Brāchium Sānctī Georgīī"
    "Brendānī" "(genitive case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānō" "(ablative or dative case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānum" "(accusative case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
@@ -1756,6 +1757,10 @@
    "appropinquāvisset" "he (might) have had approached"
    "appropinquāvissent" "they (might) have had approached"
    "appropinquāvit" "he approached"
+
+   "aptārī" "to be adapted, to be fit in"
+   "aptāre" "to adapt, to fit in"
+   "aptō, aptāre, aptāvī, aptātus" "to adapt, to fit in"
    
    "aptissimum" "very ready, very apt"
    "aptum" "ready, apt"
@@ -3300,6 +3305,7 @@
    "congregāre" "to congregate, gather"
    "congregārī" "to be gathered"
    "congregāta" "having been gathered"
+   "congregātōs" "having been gathered"
    "congregantur" "they are gathered"
    "congregō, congregāre, congregāvī, congregātus" "to congregate, gather"
    
@@ -4856,6 +4862,7 @@
    "erō" "I will be"
    "estōte" "be! (in the future)"
    "essent" "they (might) have been"
+   "estis" "you (all) are"
    "fore" "to be"
 
    "ērigēns" "raising, building"
@@ -6302,6 +6309,8 @@
    
    "īgnōrābant" "they were ignoring"
    "īgnōrāmus" "we ignore, we do not know"
+   "īgnōrō" "I do not know"
+   "īgnōrāre" "to ignore"
    "īgnōrō, īgnōrāre, īgnōrāvī, īgnōrātus" "to ignore"
    
    "īgnōsce" "forgive!"
@@ -7181,6 +7190,9 @@
    "iūvit" "he helped"
    "iuvāre" "to help"
    "iuvō, iuvāre, iūvī, iūtus" "to help"
+
+   "kalendīs" "calends, first day of the month"
+   "Kalenda, Kalendae" "calends, first day of the month"
    
    "labia" "lip"
    "labia, labiae" "lip"
