@@ -611,6 +611,7 @@
    "passus" "passus + est = to have suffered"
    "passī" "passī + est = they suffered"
    "paterentur" "they (might) suffer them, allow them; subjunctive imperfect from patī"
+   "patī" "to suffer"
    "Patriciī" "of Saint Patrick"
    "paulātim" "little by little"
    "paululum" "a little"
@@ -808,6 +809,7 @@
    "sibi" "to himself; singular dative of se"
    "sīc" "thus"
    "sīcut" "as, same as, like"
+   "sīcutī" "as, same as, like"
    "Sigiburg" "A Saxon hillfort in Western Germany"
    "Silvius" "Silvius, son of Aeneas (or Ascanius)"
    "Silviī" "Silvius, son of Aeneas (or Ascanius) (genitive case)"
@@ -10576,6 +10578,7 @@
    "redimerem" "I redeemed"
    "redimere" "to bring back"
    "redimō, redimere, redēmī, redēmptus" "to bring back"
+   "redēmptī" "having been redeemed"
 
    "redimītus" "having been brought back"
    "redimīre" "having been brought back"
@@ -10779,6 +10782,7 @@
    "rēmus, rēmī" "oar"
 
    "remōta" "having been removed"
+   "remōtae" "having been removed"
    "removērī" "to be removed"
    "removēre" "to remove"
    "removeō, removēre, remōvī, remōtus" "to remove"
@@ -10891,6 +10895,9 @@
 
    "retractantēs" "withdrawing"
    "retractō, retractāre, retractāvī, retractātus" "to withdraw"
+
+   "retribūtiō" "retribution, recompense"
+   "retribūtiō, retribūtiōnis" "retribution, recompense"
 
    "revēxit" "he carried back"
    "revehere" "to carry back"
@@ -11648,6 +11655,7 @@
    "sitis, sitis" "thirst"
    "sitis" "thirst"
    "sitī" "thirst"
+   "sitēs" "thirsts"
 
    "sitiēbant" "they were thirsting"
    "sitiō, sitīre, sitīvī, sitītus" "to thirst"
@@ -12066,6 +12074,10 @@
 
    "sūdor" "sweat"
    "sūdor, sūdōris" "sweat"
+
+   "suēvēre" "they became accustomed"
+   "suēscere" "to become accustomed"
+   "suēscō, suēscere, suēvī, suētus" "to become accustomed"
 
    "sufficient" "they will suffice"
    "sufficiat" "it (might) suffice"
@@ -13073,6 +13085,9 @@
    
    "vester" "your"
    "vester, vestra, vestrum" "your"
+
+   "vestīgia" "footsteps, footprints"
+   "vestīgium, vestīgiī" "footsteps, footprints"
    
    "vestīmenta" "clothes"
    "vestīmentī" "clothing"
