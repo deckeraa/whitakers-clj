@@ -209,6 +209,7 @@
    "decimō" "tenth"
    "decimum" "tenth"
    "dehinc" "from now on, from this place"
+   "deinceps" "successively, thereafter"
    "deinde" "after"
    "dēlicātīs" "delicate, plural dative or ablative dēlicātus, -a, -um"
    "dēliciārum" "of delights, from dēliciae"
@@ -346,6 +347,7 @@
    "Hybernia" "Ireland (nominative case)"
    "Hyberniae" "of Ireland (genitive case)"
    "iamdūdum" "long ago"
+   "iamiamque" "at this very moment"
    "iānuatōrem" "door-keeper; singular masculine accusative from iānuatōr, iānuatōris. This word was not in any dictionary I consulted; yet the meaning is clear from the root word iānua"
    "idcircō" "for that reason"
    "ideō" "for that reason"
@@ -1984,6 +1986,7 @@
    "audeō, audēre, ausus sum" "to dare"
 
    "audiēns" "hearing"
+   "audientēs" "hearing"
    "audītis" "you hear"
    "audīvērunt" "they heard"
    "audiēbant" "they were hearing"
@@ -3670,6 +3673,9 @@
    "creō, creāre, creāvī, creātum" "to create"
    "creātī" "of the thing created"
 
+   "crēbrēscere" "to become widespread, to become frequent"
+   "crēbrēscō, crēbrēscere, crēbruī, -" "to become widespread, to become frequent"
+
    "crēdidērunt" "they believed"
    "crēdidī" "I believed, I entrusted"
    "crēdidit" "he believed"
@@ -4361,7 +4367,8 @@
 
    "disciplīna" "teaching, instruction"
    "disciplīna, disciplīnae" "teaching, instruction"
-   
+
+   "discipulīs" "students"
    "discipulus" "student"
    "discipulus, discipulī" "student"
    
@@ -4570,6 +4577,7 @@
    "domnus, domnī" "lord, master"
 
    "domī" "at home"
+   "domibus" "houses"
    "domō" "house"
    "domum" "house"
    "domus" "house"
@@ -4717,6 +4725,11 @@
 
    "egēnum" "poor, needy"
    "egēnus, egēna, egēnum" "poor, needy"
+
+   "egestātēs" "needs, poverty"
+   "egestās" "need, poverty"
+   "egestātis" "need, poverty"
+   "egestās, egestātis" "need, poverty"
    
    "ego" "I"
    
@@ -4753,6 +4766,10 @@
    "ēlēgit" "he chose"
    "ēligere" "to choose"
    "ēligō, ēligere, ēlēgī, ēlēctus" "to choose"
+
+   "ēloquium" "eloquence, speech, pronouncement"
+   "ēloquiī"  "eloquence, speech, pronouncement"
+   "ēloquium, ēloquiī" "eloquence, speech, pronouncement"
 
    "ēlucubrābō" "I will burn the midnight oil"
    "ēlucubrō, ēlucubrāre, ēlucubrāvī, ēlucubrātus" "to burn the midnight oil"
@@ -4841,6 +4858,9 @@
 
    "errōre" "error, wandering, deception"
    "error, errōris" "error, wandering, deception"
+
+   "ērubēscere" "to be ashamed, to blush"
+   "ērubēscō, ērubēscere, ērubuī, -" "to be ashamed, to blush"
 
    "ērūctat" "it erupts, vomits"
    "ērūctāre" "to erupt, vomit"
@@ -5072,6 +5092,7 @@
    "exspectāre" "to wait"
    "exspectō, exspectāre, exspectāvī, exspectātus" "to wait"
 
+   "exstat" "he stands out, exists"
    "exstāre" "to stand out, exist"
    "exstō, exstāre, -, -" "to stand out, exist"
    
@@ -9382,6 +9403,9 @@
    "persevērō, persevērāre, persevērāvī, persevērātus" "to persevere"
    "persevērāssent" "they (might) have had persevered"
    "persevērāvissent" "they (might) have had persevered"
+
+   "persolvere" "to pay, perform"
+   "persolvō, persolvere, persolvī, persolūtum" "to pay, perform"
    
    "persuādēret" "he persuaded"
    "persuādet" "he persuades"
@@ -9761,9 +9785,11 @@
 
    "praecipuae" "particular, special"
    "praecipuam" "particular, special"
+   "praecipuō" "particular, special"
    "praecipuus, praecipua, praecipuum" "particular, special"
 
    "praeclārō" "very bright, remarkable"
+   "praeclārus" "very bright, remarkable"
    "praeclārus, praeclāra, praeclārum" "very bright, remarkable"
    "praeclārum" "very bright, remarkable"
 
@@ -9910,8 +9936,14 @@
    "pretiōsa" "precious"
    "pretiōsī" "precious"
    "pretiōsus, pretiōsa -um, pretiōsior -or -us, pretiōsissimus -a -um" "precious"
+
+   "precēs" "prayers"
+   "prex" "prayer"
+   "precis" "prayer"
+   "prex, precis" "prayer"
    
    "prīma" "first"
+   "prīmae" "first"
    "prīmī" "first"
    "prīmō" "first"
    "prīmum" "first"
@@ -11615,6 +11647,10 @@
    "sōlem" "sun"
    "sōlis" "sun"
    "sōl, sōlis" "sun"
+
+   "sōlātia" "comfort, relief, solace"
+   "sōlātium" "comfort, relief, solace"
+   "sōlātium, sōlātiī" "comfort, relief, solace"
    
    "sōlemnem" "solemn"
    "sōlemnis, sōlemne, sōlemnior -or -us, sōlemnissimus -a -um" "solemn"
@@ -11821,6 +11857,7 @@
    "statūta" "statute, law"
    "statūtum, statūtī" "statute, law"
 
+   "statuī" "I decided"
    "statuit" "he decided"
    "statuō, statuere, statuī, statūtus" "to decide, establish"
 
@@ -12042,6 +12079,7 @@
    "sūmpsit" "he took up"
    "sūmpserat" "he had taken up"
    "sūmpsērunt" "they took up"
+   "sūmpta" "having been taken up"
    "sūmptīs" "having been taken up"
    "sūmptō" "having been taken up"
    "sūmptūrum" "to be undertaken"
@@ -13351,6 +13389,7 @@
    
    "vōs" "you"
 
+   "vōta" "vows"
    "vōtī" "vow"
    "vōtīs" "vows"
    "vōtum" "vow"
