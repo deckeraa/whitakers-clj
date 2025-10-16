@@ -124,6 +124,7 @@
    "Bonifacius" "Saint Boniface, AD 675-754"
    "bovēs" "cows; plural masc. or fem. nom. or acc. from bōs, bovis"
    "Brāchium" "the Bosporus; from Brāchium Sānctī Georgīī"
+   "brāchium" "the Bosporus; from Brāchium Sānctī Georgīī"
    "Brendānī" "(genitive case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānō" "(ablative or dative case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānum" "(accusative case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
@@ -7880,6 +7881,10 @@
    "mercātōrēs" "merchants"
    "mercātor, mercātōris" "merchant"
 
+   "mercātum" "trade, market, fair"
+   "mercātus" "trade, market, fair"
+   "mercātus, mercātūs" "trade, market, fair"
+
    "mercenāriī" "hired servant, working man"
    "mercenārius, mercenāriī" "hired servant, working man"
 
@@ -7992,6 +7997,9 @@
    "mīrācula" "miracles"
    "mīrāculīs" "miracles"
    "mīrāculum, mīrāculī" "miracle"
+
+   "mīrificus" "amazing, wonderful"
+   "mīrificus, mīrifica, mīrificum" "amazing, wonderful"
    
    "miser" "miserable"
    "miser, misera -um, miserior -or -us, miserrimus -a -um" "miserable"
@@ -9799,6 +9807,7 @@
    "potuerant" "they had been able to"
 
    "potentēs" "mighty"
+   "potentissimī" "very mighty"
    "potentissimōs" "very mighty"
    "potēns, potentis (gen.), potentior -or -us, potentissimus -a -um" "powerful, mighty"
 
@@ -10097,6 +10106,7 @@
    "prōdūcō, prōdūcere, prōdūxī, prōductus" "to lead forward"
 
    "proeliantur" "they fight"
+   "proeliārī" "to fight"
    "proelior, proeliārī, proeliātus" "to fight"
 
    "proeliī" "of battle"
@@ -12926,6 +12936,7 @@
    "valentēs" "being healthy, able, strong"
    "valuit" "he was healthy, able, strong"
    "valērent" "they were healthy, able, strong"
+   "valeātis" "you are healthy, able, strong"
    "valeō, valēre, valuī, valitūrus" "to be healthy, able, strong"
 
    "valida" "strong, healthy"
@@ -13015,6 +13026,7 @@
    "veniēns" "coming"
    "venientem" "coming"
    "venientēs" "coming"
+   "veniat" "he came"
    "veniō, venīre, vēnī, ventus" "to come"
 
    "venia" "indulgence, kindness"
