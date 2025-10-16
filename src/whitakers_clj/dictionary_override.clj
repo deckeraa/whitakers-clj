@@ -6621,7 +6621,9 @@
    
    "īnfīnīta" "endless, infinite"
    "īnfīnītus, īnfīnīta, īnfīnītum" "endless, infinite"
+   
    "īnfirmitātem" "infirmity, weakness"
+   "īnfirmitātēs" "infirmities, weaknesses"
    "īnfirmitās, īnfirmitātis" "infirmity, weakness"
 
    "īnfirmior" "weaker"
@@ -7239,9 +7241,9 @@
    "lāpsum" "fall, slipping"
    "lāpsus" "fall, slipping"
    "lāpsus, lāpsūs" "fall, slipping"
-   
-   "largissimās" "very large"
 
+   "larga" "large"
+   "largissimās" "very large"
 
    "lascīvus, lascīva, lascīvum" "playful, lustful, lascivious"
 
@@ -7963,9 +7965,16 @@
    "mīrācula" "miracles"
    "mīrāculīs" "miracles"
    "mīrāculum, mīrāculī" "miracle"
+   
    "miser" "miserable"
    "miser, misera -um, miserior -or -us, miserrimus -a -um" "miserable"
    "misera" "miserable"
+
+   "miseria"  "misfortune, suffering"
+   "miseriae" "misfortune, suffering"
+   "miseriās" "misfortunes, suffering"
+   "miseria, miseriae" "misfortune, suffering"
+   
    "misereātur" "he (might) pity"
    "miserēre" "to pity, to have compassion"
    "misereō, miserēre, miseruī, miseritus" "to pity, to have compassion"
@@ -8530,6 +8539,11 @@
    
    "nūbilās" "cloudy"
    "nūbilus, nūbila, nūbilum" "cloudy"
+
+   "nūditās"   "nudity, nakedness"
+   "nūditātēs" "nudity, nakedness"
+   "nūditātis" "nudity, nakedness"
+   "nūditās, nūditātis" "nudity, nakedness"
    
    "nūda" "naked"
    "nūdus" "naked"
@@ -9123,6 +9137,7 @@
    "paternās" "paternal"
    "paternus, paterna, paternum" "paternal"
 
+   "patriās" "fatherly, ancestral"
    "patriō" "fatherly, ancestral"
    "patrius, patria, patrium" "fatherly, ancestral"
    
@@ -9166,6 +9181,11 @@
    "pauperem" "poor"
    "pauperum" "poor"
    "pauper, pauperis (gen.), pauperior -or -us, pauperrimus -a -um" "poor"
+
+   "paupertās"   "poverty"
+   "paupertātēs" "poverties"
+   "paupertātis" "poverty"
+   "paupertās, paupertātis" "poverty"
    
    "pausētis" "you (might) pause"
    "pausō, pausāre, pausāvī, pausātus" "to pause"
@@ -9394,12 +9414,15 @@
    "perpetuus, perpetua, perpetuum" "perpetual"
    
    "persecūtiō" "pursuit"
+   "persecūtiōnēs" "pursuits"
    "persecūtiō, persecūtiōnis" "pursuit"
 
    "persequendum" "pursuing"
    "persequēbātur" "he was following"
    "persequendōs" "following"
+   "persequētur" "he will follow"
    "persequor, persequī, persecūtus sum" "to follow (deponent)"
+   
    "persevērō, persevērāre, persevērāvī, persevērātus" "to persevere"
    "persevērāssent" "they (might) have had persevered"
    "persevērāvissent" "they (might) have had persevered"
