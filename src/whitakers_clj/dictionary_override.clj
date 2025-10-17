@@ -3600,6 +3600,7 @@
    "cooperīmentum" "covering"
    "cooperīmentum, cooperīmentī" "covering"
    "cooperta" "covered"
+   "coopertae" "covered"
    "coopertam" "covered"
    "coopertus" "covered"
    "cooperuit" "he covered"
@@ -4202,6 +4203,10 @@
    "deus" "god"
    "deus, deī" "god, diety"
 
+   "dēvāstantēs" "devastating, ravaging"
+   "dēvāstāre" "to devastate, ravage"
+   "dēvāstō, dēvāstāre, dēvāstāvī, dēvāstātus" "to devastate, ravage"
+
    "dēvēnit" "he came to"
    "dēveniō, dēvenīre, dēvēnī, dēventus" "to come to"
    
@@ -4483,6 +4488,7 @@
    "dīvīsa" "having been divided"
    "dīvīsae" "having been divided"
    "dīvīsērunt" "they divided"
+   "dīvīsī" "having been divided"
    "dīvīsit" "he divided"
    "dīvidō, dīvidere, dīvīsī, dīvīsus" "to divide"
 
@@ -4613,6 +4619,7 @@
    "domī" "at home"
    "domibus" "houses"
    "domō" "house"
+   "domōs" "houses"
    "domum" "house"
    "domus" "house"
    "domūs" "house"
@@ -4798,6 +4805,7 @@
    "ēligit" "he chooses"
    "ēlēctīs" "having been chosen"
    "ēlēgit" "he chose"
+   "ēlēgērunt" "they chose"
    "ēligere" "to choose"
    "ēligō, ēligere, ēlēgī, ēlēctus" "to choose"
 
