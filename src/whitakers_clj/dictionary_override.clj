@@ -48,7 +48,8 @@
    "aethiopum" "Ethiopian, black"
    "Ailbēī" "The name of a group of monks living on an island."
    "Airde" "An Irish man"
-   "Alamannōrum" "Of the Alamanni, a confederation of Germanic tribes"
+   "Alamannī" "the Alamanni, a confederation of Germanic tribes"
+   "Alamannōrum" "of the Alamanni, a confederation of Germanic tribes"
    "aliam" "other, another; singular feminine accusative from alius, alia, aliud"
    "alicui" "to anyone; singular dative from aliqui"
    "aliōquī" "also"
@@ -496,9 +497,12 @@
    "leviathan" "Leviathan, a sea monster mentioned in Job 40:25."
    "licet" "allow"
    "locūtus" "locūtus est = he spoke"
+   "Langōbardī" "the Lombards"
    "Langōbardīs" "the Lombards"
    "Langōbardōs" "the Lombards"
+   "Longobardī" "the Lombards"
    "Longobardōs" "the Lombards"
+   "Lombardī" "the Lombards"
    "Lombardōs" "the Lombards"
    "magis" "rather, more"
    "magnopere" "much, very, urgently"
@@ -546,6 +550,7 @@
    "necessāria, necessāriōrum" "necessities of life"
    "nēminem" "no one (accusative cas)"
    "neque" "not, not either"
+   "Nicēnam" "Nicea"
    "nihil" "not at all"
    "nimia" "too much"
    "nimiae" "too much"
@@ -725,6 +730,7 @@
    "quondam" "sometimes"
    "quot" "how many?"
    "quotiēns" "how many times?"
+   "Rainoldus" "a leader of the crusaders chosen by the Lombards and Longobards"
    "raptim" "quickly, hastily"
    "Rauracīs" "Rauraci, neighbors to the Helvetii"
    "recordare" "remember! Singular imperative of recordārī"
@@ -1746,6 +1752,7 @@
    "apposuit" "he placed, he set before"
    "appōnō, appōnere, apposuī, appositus" "to place, to set before"
    "apprehendit" "he seizes, he seized"
+   "apprehendērunt" "they seized"
    "apprehendō, apprehendere, apprehendī, apprehēnsus" "to seize, to grasp"
    
    "appropinquāre" "to approach"
@@ -2026,6 +2033,7 @@
    
    "abstulisset" "he (might) have carried away"
    "abstulērunt" "they carried away"
+   "auferēbant" "they were carrying away"
    "auferō, auferre, abstulī, ablātus" "to carry away, to remove"
 
    "aufugit" "he flees"
@@ -2706,6 +2714,7 @@
    "cervīcis" "neck"
    "cervīx, cervīcis" "neck"
 
+   "cessābant" "they ceased"
    "cessābit" "it will cease"
    "cessāvit" "it ceased"
    "cessō, cessāre, cessāvī, cessātus" "to cease"
@@ -2731,6 +2740,8 @@
    "chrīstum" "annointed one, Christ"
    "chrīstus" "annointed one, Christ"
    "Chrīstus, Chrīstī" "Christ"
+
+   "chrīstiānī" "Christians"
    "chrīstiānōrum" "of Christians"
    "chrīstiānus, chrīstiānī" "Christian"
 
@@ -3019,6 +3030,7 @@
    "columnātam" "supported by pillers"
    "columnātus, columnāta, columnātum" "supported by pillers"
 
+   "combūrentēs" "burning up"
    "combūrunt" "they burn up"
    "combūrere" "to burn up"
    "combussit" "it burned up"
