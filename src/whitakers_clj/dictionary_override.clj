@@ -550,6 +550,7 @@
    "necessāria, necessāriōrum" "necessities of life"
    "nēminem" "no one (accusative cas)"
    "neque" "not, not either"
+   "nēquiter" "wickedly"
    "Nicēnam" "Nicea"
    "nihil" "not at all"
    "nimia" "too much"
@@ -5933,9 +5934,14 @@
    "gradus" "step"
    "gradūs" "step"
    "gradus, gradūs" "step"
+
+   "graecīs" "Greek"
+   "Graecus, Graecī" "Greek"
+   
    "grāmina" "grasses, herbs"
    "grāminibus" "grasses, herbs"
    "grāmen, grāminis" "grass, turf, herb"
+   
    "grandō, grandinis" "hail"
    "grandine" "hail"
 
@@ -9051,6 +9057,11 @@
    "pāgus, pāgī" "district, region"
 
    "palātīnī" "palace, imperial"
+
+   "palātia"  "palaces, large residences"
+   "palātium" "palace, large residence"
+   "palātiī"  "palaces, large residences"
+   "palātium, palātiī" "palace, large residence"
    
    "pānibus" "bread"
    "pānis" "bread"
@@ -9653,8 +9664,10 @@
    "plōrābant" "they were crying"
    "plōrō, plōrāre, plōrāvī, plōrātus" "to cry"
    
-   "plumbī" "lead"
+   "plumbī"  "lead"
+   "plumbum" "lead"
    "plumbum, plumbī" "lead"
+   
    "pluvium, pluviī" "basin"
    "pluviā" "rainy"
    "pluvius, pluvia, pluvium" "rainy"
@@ -11956,6 +11969,7 @@
    "sterilis" "sterile"
    "sterilis, sterilis, sterile" "sterile"
 
+   "sternēbant" "they were spreading, laying out"
    "sternentibus" "spreading, laying out"
    "sternunt" "they spread out, laid out"
    "sternere" "to spread, to lay out"
@@ -12187,6 +12201,11 @@
    "superāvisset" "he (might) have overcome"
    "superārī" "to be overcome"
    "superō, superāre, superāvī, superātus" "to overcome"
+
+   "superbia" "pride, haughtiness, arrogance"
+   "superbiae" "pride, haughtiness, arrogance"
+   "superbiam" "pride, haughtiness, arrogance"
+   "superbia, superbiae" "pride, haughtiness, arrogance"
 
    "superficiēs" "top, surface"
    "superficiēs, superficiēī" "top, surface"
@@ -12716,6 +12735,9 @@
    "tuendam" "looking at, protecting"
    "tueor, tuērī, tuitus sum" "to look at, protect"
 
+   "tumēbant" "they were swelling up"
+   "tumeō, tumēre, -, -" "to be swollen, puffed up"
+
    "tumidī" "swollen, pompous"
    "tumidus, tumida, tumidum" "swollen, pompous"
 
@@ -12931,6 +12953,7 @@
    "vacca, vaccae" "cow"
    
    "vacuam" "empty, vacant"
+   "vacuum" "empty, vacant"
    "vacuus, vacua, vacuum" "empty, vacant"
 
    "vada" "shallows"
@@ -13020,6 +13043,10 @@
    "vēlīs" "sails"
    "vēlum" "sail, cloth"
    "vēlum, vēlī" "sail, cloth"
+
+   "vēndēbant" "they were selling"
+   "vēndere" "to sell"
+   "vēndō, vēndere, vēndidī, vēnditus" "to sell"
    
    "venerābilem" "venerable"
    "venerābilis" "venerable"
@@ -13296,6 +13323,7 @@
    "vindicāvit" "he vindicated, avenged"
    "vindicō, vindicāre, vindicāvī, vindicātus" "to vindicate, avenge"
 
+   "vīnī" "wine"
    "vīnum" "wine"
    "vīnum, vīnī" "wine"
 
