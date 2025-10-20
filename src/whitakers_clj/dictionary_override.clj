@@ -33,6 +33,7 @@
    "adeō" "that far"
    "adfore" "to be present (in the future); future infinitive from adsum"
    "adhūc" "until now"
+   "adinvicem" "mutually, each other, reciprocally (Medieval Latin adverb from ad invicem)"
    "aditum" "approach, access; singular masculine accusative from aditus, aditūs"
    "admīrātī" "admīrātī + sunt = were admired"
    "admīrātus" "admīrātus + est = was admired"
@@ -2522,6 +2523,9 @@
    "capitis" "head"
    "caput" "head"
    "caput, capitis" "head"
+
+   "capitālem" "deadly"
+   "capitālis, capitāle, capitālior -or -us, capitālissimus -a -um" "deadly"
    
    "capitulum" "chapter"
    "capitulum, capitulī" "chapter"
@@ -3097,6 +3101,10 @@
    "committō, committere, commīsī, commissus" "to entrust, connect"
 
    "commodus, commoda -um, commodior -or -us, commodissimus -a -um" "suitable, convenient"
+
+   "commonēbant" "they were reminding, remembering, warning"
+   "commonēre" "to remind, to remember, to warn"
+   "commoneō, commonēre, commonuī, commonitus" "to remind, to remember, to warn"
    
    "commorāmur" "we dwell"
    "commorantem" "dwelling"
@@ -3231,6 +3239,10 @@
    "concitō, concitāre, concitāvī, concitātus" "to agitate"
 
    "concorditer" "like-mindedly (adverb)"
+
+   "concordātus" "having been agreed"
+   "concordāre" "to harmonize, agree"
+   "concordō, concordāre, concordāvī, concordātus" "to harmonize, agree"
 
    "condemnō, condemnāre, condemnāvī, condemnātus" "to condemn"
    "condemnābitur" "he will be condemned"
