@@ -7727,6 +7727,10 @@
    "magnitudinem" "magnitude, greatness"
    "magnitūdinis" "magnitude, greatness"
    "magnitūdō, magnitūdinis" "magnitude, greatness"
+
+   "martyriī"  "of martyrdom"
+   "martyrium" "martyrdom"
+   "martyrium, martyriī" "martyrdom"
    
    "maxima" "biggest"
    "maximās" "biggest"
@@ -8590,6 +8594,7 @@
    "nocturnīs" "nocturnal"
    "nocturnus, nocturna, nocturnum" "nocturnal"
 
+   "nōluērunt" "they didn't want"
    "nōlēmus" "we won't want"
    "nōlō" "I don't want"
    "nōluit" "he didn't want"
@@ -10079,6 +10084,7 @@
    "premō, premere, pressī, pressus" "to press, to overwhelm"
 
    "presbyter" "elder, presbyter"
+   "presbyterī"  "elders, presbyters"
    "presbyterīs" "elders, presbyters"
    "presbyterōs" "elders, presbyters"
    "presbyter, presbyterī" "elder, presbyter"
@@ -11293,6 +11299,7 @@
    "sagittīs" "arrows"
    "sagitta, sagittae" "arrow"
 
+   "sagittābant" "they were shooting arrows"
    "sagittante" "shooting arrows"
    "sagittō, sagittāre, sagittāvī, sagittātus" "to shoot arrows"
    
@@ -12333,6 +12340,7 @@
    
    "suscepta" "having been undertaken"
    "suscipe" "undertake!"
+   "suscēpērunt" "they undertook"
    "susciperet" "he undertook"
    "suscēpit" "he undertook, he supported"
    "susceptī" "having been undertaken"
@@ -12638,6 +12646,7 @@
    "trādidistī" "you handed over"
    "trāditur" "it is handed over"
    "trādiderant" "they had handed over"
+   "trāderet" "he handed over"
    "trādere" "to hand over"
    "trādō, trādere, trādidī, trāditus" "to hand over"
 
@@ -12746,6 +12755,10 @@
 
    "trepidōs" "agitated, nervous"
    "trepidus, trepida, trepidum" "agitated, nervous"
+
+   "trībulātiō" "distress, trouble, tribulation"
+   "trībulātiōnis" "distress, trouble, tribulation"
+   "trībulātiō, trībulātiōnis" "distress, trouble, tribulation"
    
    "tribuam" "I will assign"
    "tribuent" "they will assign"
