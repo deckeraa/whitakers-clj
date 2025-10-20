@@ -920,6 +920,7 @@
    "Turcam" "the Turk"
    "Turcās" "the Turks"
    "Turcīs" "the Turks"
+   "Turcōs" "the Turks"
    "Turcus" "the Turk"
    "Turcī" "of the Turk"
    "Turnō" "Turnus, a king of the Rutuli killed by Aeneas (ablative or dative case)"
@@ -10484,6 +10485,7 @@
    "purpura, purpurae" "purple (garment), royalty"
 
    "puteī" "pits, wells, dungeons"
+   "puteus" "pit, well, dungeon"
    "puteus, puteī" "pit, well, dungeon"
 
    "putābat" "he was thinking"
@@ -12279,6 +12281,9 @@
    "supervīxerit" "he will have survived"
    "supervīvō, supervīvere, supervīxī, supervīctus" "to survive"
 
+   "supīnābant" "they were laying on the back, turning up"
+   "supīnō, supīnāre, supīnāvī, supīnātus" "to lay on the back, turn up"
+
    "suppeteret" "it (might) have sufficed"
    "suppetere" "to be at hand, to suffice"
    "suppetō, suppetere, suppetīvī, suppetītus" "to be at hand, to suffice"
@@ -13575,6 +13580,10 @@
    "vultū" "face, expression, appearance"
    "vultum" "face, expression, appearance"
    "vultus, vultūs" "face, expression, appearance"
+
+   "zōna" "belt"
+   "zōnās" "belts"
+   "zōna, zōnae" "belt"
 })
 
 (defn dictionary [v]
