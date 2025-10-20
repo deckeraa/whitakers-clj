@@ -5122,6 +5122,10 @@
    "exposuimus" "we explained"
    "expōnō, expōnere, exposuī, expositus" "to explain"
 
+   "exprimēbant" "they were squeezing, pressing out"
+   "exprimere" "to squeeze, press out"
+   "exprimō, exprimere, expressī, expressus" "to squeeze, press out"
+
    "expugnātam" "having been assaulted, stormed, conquered"
    "expugnandam" "assaulting, storming, conquering"
    "expugnāre" "to assault, to storm, to conquer"
@@ -5406,6 +5410,7 @@
    "fēstīs" "festive"
    "fēsta" "festivals"
    "fēstam" "festival"
+   "fēstō"  "festival"
    "fēstum" "festival"
    "fēstum, fēstī" "festival"
 
@@ -5579,6 +5584,7 @@
 
    "fōdērunt" "they dug"
    "fodere" "to dig"
+   "fodiēbant" "they were digging"
    "fodite" "dig!"
    "fodiō, fodere, fōdī, fossus" "to dig"
 
@@ -6267,6 +6273,9 @@
    "humerōs" "shoulders"
    "humerus" "shoulder"
    "humerus, humerī" "shoulder"
+
+   "humidam" "humid, wet, moist"
+   "humidus, humida, humidum" "humid, wet, moist"
    
    "humiliāre" "to humble, to abase, to humililate"
    "humiliō, humiliāre, humiliāvī, humiliātus" "to humble, to abase, to humililate"
@@ -7995,6 +8004,9 @@
    "minābat" "he was pushing"
    "minō, mināre, mināvī, minātus" "to push, to impel"
    "minimae" "very small"
+
+   "mingēbant" "they were making water"
+   "mingō, mingere, mīnxī, mīnctus" "to make water"
    
    "ministrī" "ministers"
    "minister" "servant, waiter"
@@ -8093,7 +8105,8 @@
    "missus, missūs" "throwing, dispatch"
 
    "missīs" "having been sent"
-   "mittēbantur" "they were sending"
+   "mittēbant" "they were sending"
+   "mittēbantur" "they were being sent"
    "mittēmus" "we will send"
    "mittitur" "he is being sent"
    "mittō" "I send"
@@ -8714,6 +8727,7 @@
    "obsideret" "they besieged"
    "obsēdit" "he besieged"
    "obsidēre" "to besiege"
+   "obsēdērunt" "they besieged"
    "obsessīs" "having been besieged"
    "obsideō, obsidēre, obsēdī, obsessus" "to besiege"
    
@@ -9090,6 +9104,11 @@
    "pāctō" "agreement, bargain"
    "pactum" "agreement, bargain"
    "pactum, pactī" "agreement, bargain"
+
+   "panniculī"  "bit of cloth, rag"
+   "panniculōs" "bit of cloth, rag"
+   "panniculus" "bit of cloth, rag"
+   "panniculus, panniculī" "bit of cloth, rag"
       
    "pannus" "cloth, rag"
    "pannum" "cloth, rag"
@@ -9595,6 +9614,9 @@
    "philosophus" "philosopher"
    "philosophus, philosophī" "philosopher"
 
+   "phlebotomārent" "bleed, let blood"
+   "phlebotomō, phlebotomāre, phlebotomāvī, phlebotomatus" "bleed, let blood"
+
    "piāculō" "atonement, sacrifice, punishment"
    "piāculum, piāculī" "atonement, sacrifice, punishment"
 
@@ -9617,6 +9639,9 @@
 
    "piscārī" "to fish"
    "piscor, piscārī, piscātus" "to fish"
+
+   "piscīnam" "pool, cistern, pond"
+   "piscīna, piscīnae" "pool, cistern, pond"
    
    "pisce" "fish"
    "piscem" "fish"
@@ -9625,6 +9650,7 @@
    "piscis, piscis" "fish"
    "piscibus" "fishes"
    "piscium" "of fishes"
+   
    "pius" "upright, pious"
    "pius, pia -um, -, piissimus -a -um" "upright, pious"
 
@@ -10393,6 +10419,10 @@
 
    "pugil" "boxer, fighter"
    "pugil, pugilis" "boxer, fighter"
+
+   "pugillō"  "handful, fist"
+   "pugillum" "handful, fist"
+   "pugillum, pugillī" "handful, fist"
    
    "pugna" "fight"
    "pugnae" "fight"
