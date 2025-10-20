@@ -106,6 +106,7 @@
    "attamen" "nevertheless"
    "audācter" "audaciously"
    "Aurunculēius" "Aurunculēius, a Roman family name"
+   "Ausoniae" "of Ausonia, a poetic name for Italy"
    "aut" "or"
    "autem" "but, however, moreover"
    "avēs" "birds; plural feminine nominative or accusative from avis, avis"
@@ -1467,6 +1468,9 @@
    "Alpīnārum" "Alpine"
    "alpīnus, alpīna, alpīnum" "Alpine"
    "Alpīnus, Alpīna, Alpīnum" "Alpine"
+
+   "Alpibus" "the Alps"
+   "Alpis, Alpis" "the Alps"
    
    "altāre" "alter"
    "altāre, altāris" "alter"
@@ -1861,6 +1865,11 @@
    "argentō" "silver"
    "argentum, argentī" "silver"
 
+   "āriditās"   "dryness, drought"
+   "āriditātis" "dryness, drought"
+   "āriditāte"  "dryness, drought"
+   "āriditās, āriditātis" "dryness, drought"
+
    "āridō" "dry"
    "āridam" "dry"
    "āridum" "dry"
@@ -1940,6 +1949,7 @@
    "asellus, asellī" "small ass"
 
    "asinō" "ass"
+   "asinōs" "asses"
    "asinus" "ass"
    "asinus, asinī" "ass"
 
@@ -2582,7 +2592,9 @@
 
    "castram" "fort"
    "castra" "forts"
+   "castrī" "forts"
    "castrīs" "forts"
+   "castrō" "fort"
    "castrōrum" "of forts"
    "castrum" "fort"
    "castrum, castrī" "fort"
@@ -4685,7 +4697,8 @@
    "duās" "two"
    "duōbus" "two"
    "duo -ae o, secundus -a -um, bīnī -ae -a, bis" "two"
-   
+
+   "duplex" "double"
    "duplicēs" "double"
    "duplex, (gen.), duplicis" "double"
    "duplicem" "double"
@@ -4900,6 +4913,7 @@
    "errat" "he wanders, errs"
    "errō, errāre, errāvī, errātus" "to wander, to go astray"
 
+   "error"  "error, wandering, deception"
    "errōre" "error, wandering, deception"
    "error, errōris" "error, wandering, deception"
 
@@ -6192,6 +6206,8 @@
    "hōrologium" "clock"
    "hōrologium, hōrologiī" "clock"
 
+   "horrendīs" "horrendous"
+
    "horrida"  "dreadful, horrid, rude"
    "horridum" "dreadful, horrid, rude"
    "horridus" "dreadful, horrid, rude"
@@ -7081,6 +7097,7 @@
    "irrumpō, irrumpere, irrūpī, irruptus" "to invade, penetrate"
 
    "irruerant" "they had forced their way in"
+   "irruerat" "it had forced its way in"
    "irruet" "it will rush in"
    "irruit" "it rushes, it rushed"
    "irruite" "rush! force your way in!"
@@ -10800,6 +10817,7 @@
 
    "reliqua" "remaining"
    "reliquae" "remaining"
+   "reliquam" "remaining"
    "reliquās" "remaining"
    "reliquī" "remaining"
    "reliquīs" "remaining"
@@ -12598,6 +12616,7 @@
    "tranquillitāte" "tranquility"
 
    "trānscenderet" "he was stepping over"
+   "trānscēnsīs" "having been stepped over"
    "trānscendō, trānscendere, trānscendī, trānscēnsus" "to step over"
    
    "trānsāctā" "having been accomplished"
@@ -13194,6 +13213,7 @@
    "veteribus" "old"
    "veteris" "old"
    "veterum" "of old"
+   "vetus" "old"
    "vetus, vetus, vetus" "old"
    
    "vexentur" "they (might) be vexing"
