@@ -3271,6 +3271,7 @@
 
    "conductam" "having been assembled"
    "condūxit" "he assembled"
+   "condūcēbant" "they were assembling"
    "condūcere" "to assemble"
    "condūcō, condūcere, condūxī, conductus" "to assemble"
 
@@ -3327,6 +3328,7 @@
    "cōnfluō, cōnfluere, cōnflūxī, cōnfluxus" "to flow together"
    
    "cōnfortābat" "he was comforting, he was strengthening"
+   "cōnfortābant" "they were comforting, strengthening"
    "cōnfortāminī" "you are being comforted/strengthened"
    "cōnfortāre" "to comfort, to strengthen"
    "cōnfortāvit" "he comforted, he strengthened"
@@ -4651,6 +4653,7 @@
    "domūs" "house"
    "domus, domūs" "house"
 
+   "dōnābant" "they were giving"
    "dōnāvit" "he gave"
    "dōnātus" "having been given"
    "dōnō, dōnāre, dōnāvī, dōnātus" "to give"
@@ -5350,6 +5353,7 @@
    "fēlīcitās, fēlīcitātis" "happiness, fruitfulness"
 
    "fēlīcī" "happy"
+   "fēlīx"  "happy"
    "fēlīx, fēlīcis (gen.), fēlīcior -or -us, fēlīcissimus -a -um" "happy"
 
    "fēmina"  "woman, wife"
@@ -5479,6 +5483,7 @@
    "fīlius, fīlī" "son"
 
    "ficta" "having been molded, having been created"
+   "fingēns" "molding, forming, creating"
    "fingunt" "they mold, form, create"
    "fingentum" "having been molded, created"
    "fingō, fingere, fīnxī, fictus" "to mold, to form, to create"
