@@ -2654,6 +2654,7 @@
    "celebrāvistis" "you celebrated"
    "celebrābat" "you were celebrating"
    "celebrābant" "they were celebrating"
+   "celebrantem" "celebrating"
    "celebrētis" "you (might) have been celebrating"
    "celebrāre" "to celebrate"
    "celebrāvērunt" "they celebrated"
@@ -4493,6 +4494,7 @@
    
    "dīversae" "diverse"
    "dīversa" "diverse"
+   "dīversam" "diverse"
    "dīversārum" "diverse"
    "dīversās" "diverse"
    "dīversī" "diverse"
@@ -7123,6 +7125,7 @@
    "irrumpere" "to invade, penetrate"
    "irrumpō, irrumpere, irrūpī, irruptus" "to invade, penetrate"
 
+   "Irruentēs" "forcing their way in"
    "irruerant" "they had forced their way in"
    "irruerat" "it had forced its way in"
    "irruet" "it will rush in"
