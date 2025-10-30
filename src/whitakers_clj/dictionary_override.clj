@@ -1109,6 +1109,7 @@
    "aciem" "sharpness, battle line"
    "aciēs, aciēī" "battle line"
 
+   "adfuērunt" "they were present"
    "adfuit" "he was present"
    "adesset" "he (might) have been present"
    "affuit" "he was present"
@@ -1362,6 +1363,7 @@
    "agmina" "marching armies"
    "agmen" "marching army"
    "agmine" "marching army"
+   "agminī" "marching army"
    "agminis" "marching army"
    "agmen, agminis" "marching army"
 
@@ -1872,8 +1874,9 @@
    "āriditāte"  "dryness, drought"
    "āriditās, āriditātis" "dryness, drought"
 
-   "āridō" "dry"
    "āridam" "dry"
+   "āridō" "dry"
+   "āridōs" "dry"
    "āridum" "dry"
    "āridus, ārida -um, āridior -or -us, āridissimus -a -um" "dry"
 
@@ -2618,6 +2621,7 @@
 
    "caterva" "crowd"
    "catervae" "crowd"
+   "catervam" "crowd"
    "catervās" "crowd"
    "caterva, catervae" "crowd"
 
@@ -2637,6 +2641,7 @@
 
    "cautēla" "caution"
    "cautēlae" "caution"
+   "cautēlam" "caution"
    "cautēla, cautēlae" "caution"
 
    "cavē" "Beware!"
@@ -2990,6 +2995,7 @@
 
    "colēbant" "they were worshiping"
    "coluit" "he worshipped"
+   "colunt" "they worship"
    "colō, colere, coluī, cultus" "to worship"
 
    "collecta" "contribution"
@@ -3392,6 +3398,7 @@
    "cōnōpēum" "canopy"
    "cōnōpēum, cōnōpēī" "canopy"
 
+   "cōnscendit" "he climbed up, mounted, got in"
    "cōnscendere" "to climb up, mount"
    "cōnscendō, cōnscendere, cōnscendī, cōnscēnsus" "to climb up, mount"
 
@@ -3624,7 +3631,8 @@
    "convīvium, convīviī" "banquet, feast"
 
    "convocat" "he calls together, assembles"
-   "convocō, convocāre, convocāvī, convocātus" "to call togethehr, assemble"
+   "convocāvit" "he called together, assembled"
+   "convocō, convocāre, convocāvī, convocātus" "to call together, assemble"
    
    "cooperīmentum" "covering"
    "cooperīmentum, cooperīmentī" "covering"
@@ -4009,6 +4017,7 @@
    "dēclārābitur" "he will announce"
    "dēclārō, dēclārāre, dēclārāvī, dēclārātus" "to announce"
 
+   "decōra" "elegance, beauty"
    "decōris" "elegance, beauty"
    "decor, decōris" "elegance, beauty"
    
@@ -4152,6 +4161,7 @@
    "dēnūntiāre" "to foretell, to give notice"
    "dēnūntiō, dēnūntiāre, dēnūntiāvī, dēnūntiātus" "to foretell, to give notice"
 
+   "dēposcit" "he asked for, requested, demanded"
    "dēpōscere" "to demand, require, challenge"
    "dēpōscō, dēpōscere, dēpopōscī, -" "to demand, require, challenge"
 
@@ -4217,6 +4227,7 @@
    "dēstinātum, dēstinātī" "target, purpose, destination"
 
    "dēstrūxit" "he destroyed"
+   "dēstrūxerant" "they had destroyed"
    "dēstrūxērunt" "they destroyed"
    "dēstruere" "to destroy"
    "dēstruō, dēstruere, dēstrūxī, dēstrūctus" "to destroy"
@@ -4666,7 +4677,7 @@
    "dōnum, dōnī" "gift"
 
    "dormiēbat" "he was sleeping"
-   "dormiēbant" "we were sleeping"
+   "dormiēbant" "they were sleeping"
    "dormiam" "I will sleep"
    "dormiās" "you (might) sleep"
    "dormiēns" "sleeping"
@@ -4999,6 +5010,10 @@
 
    "ēventū" "event"
    "ēventus, ēventūs" "event"
+
+   "ēvertit" "he overturned, destroyed"
+   "ēvertere" "to overturn, destroy"
+   "ēvertō, ēvertere, ēvertī, ēversus" "to overturn, destroy"
    
    "ēvigilāns" "awakening"
    "ēvigilat" "he wakes up, he rouses"
@@ -5360,6 +5375,7 @@
 
    "fēmina"  "woman, wife"
    "fēminam" "woman, wife"
+   "fēminās" "woman, wives"
    "fēmina, fēminae" "woman, wife"
    
    "fenestra" "window"
@@ -5379,6 +5395,7 @@
    "ferēbāntur" "they were brought"
    "fertur" "it is brought"
    "ferēns" "bringing, bearing"
+   "ferēbant" "they were bringing, bearing"
 
    "ferōcēs" "wild, bold, defiant"
    "ferōciter" "ferociously, wildly, defiantly"
@@ -5488,6 +5505,7 @@
    "fingēns" "molding, forming, creating"
    "fingunt" "they mold, form, create"
    "fingentum" "having been molded, created"
+   "fīnxērunt" "they molded, created"
    "fingō, fingere, fīnxī, fictus" "to mold, to form, to create"
    
    "fīniēbat" "they were limiting, they were finishing"
@@ -5716,6 +5734,7 @@
    "fraus" "fraud"
    "fraudis" "fraud"
    "fraude" "fraud"
+   "fraudem" "fraud"
    "fraus, fraudis" "fraud"
 
    "fraxinum" "ash tree, spear of ash"
@@ -5777,6 +5796,7 @@
    "fugāre" "to rout, to chase away"
    "fugō, fugāre, fugāvī, fugātus" "to rout, to chase away"
 
+   "fūgerat" "he fled"
    "fugere" "to flee"
    "fugeret" "he fled"
    "fūgērunt" "they fled"
@@ -6417,6 +6437,9 @@
    "imāginem" "image"
    "imāgō" "image"
    "imāgō, imāginis" "image"
+
+   "imber" "rain"
+   "imber, imbris" "rain"
    
    "immaculātam" "unblemished, immaculate"
    "immaculātum" "unblemished, immaculate"
@@ -7028,6 +7051,7 @@
    "inūtilēs" "useless"
    "inūtilis, inūtilis, inūtile" "useless"
 
+   "invāsērunt" "they invaded"
    "invāsit" "he invaded"
    "invādere" "to invade"
    "invādō, invādere, invāsī, invāsus" "to invade"
@@ -7110,12 +7134,14 @@
    "īre" "to go"
    "eundum" "going"
    "eundī" "of going"
+   "ierat" "he had gone"
 
    "īra" "anger"
    "īrae" "anger"
    "īra, īrae" "anger"
 
    "īrāta" "angry"
+   "īrātī" "angry"
    "īrātus" "angry"
    "īrātus, īrāta, īrātum" "angry"
 
@@ -7507,6 +7533,7 @@
 
    "līberī" "free"
    "līberō" "free"
+   "līberōs" "free, children"
    "līberum" "free"
    "līber, lībera, līberum" "free"
 
@@ -7996,6 +8023,10 @@
    "metū" "fear"
    "metus" "fear"
    "metus, metūs" "fear"
+
+   "metuit" "he feared"
+   "metuere" "to fear"
+   "metuō, metuere, metuī, metūtus" "to fear"
    
    "migrāvī" "I departed"
    "migrāvit" "he departed"
@@ -8468,6 +8499,7 @@
    "nebulam" "fog, cloud"
    "nebula, nebulae" "fog, cloud"
 
+   "necāvērunt" "they killed, destroyed"
    "necāvit" "he killed, destroyed"
    "necāre" "to kill, destroy"
    "necō, necāre, necāvī, necātus" "to kill, destroy"
@@ -8821,6 +8853,7 @@
    "occīsiōnis" "massacre, slaughter, murder"
    "occīsiō, occīsiōnis" "massacre, slaughter, murder"
 
+   "occultābant" "they were hiding"
    "occultāverant" "they had hidden"
    "occultāvērunt" "they hide"
    "occultāret" "he was hiding"
@@ -9010,6 +9043,7 @@
    "organum, organī" "organ, instrument"
    
    "oriēns" "daybreak, dawn, East"
+   "oriente" "daybreak, dawn, East"
    "orientis" "daybreak, dawn, East"
    "orientem" "daybreak, dawn, East"
    "oriēns, orientis" "daybreak, dawn, East"
@@ -9512,6 +9546,10 @@
    "permansūrus" "will be remaining"
    "permansērunt" "they remained"
    "permansit" "he remained"
+
+   "permīscuit" "he mixed together"
+   "permīscēre" "to mix together"
+   "permīsceō, permīscēre, permīscuī, permīxtum" "to mix together"
 
    "permittam" "I will permit"
    "permitte" "permit! allow!"
@@ -10460,6 +10498,7 @@
    "pugnāvit" "he fought"
    "pugnāre" "to fight"
    "pugnandum" "fighting"
+   "pugnāns" "fighting"
    "pugnārent" "they (might) have been fighting"
    "pugnātum" "having been fought"
    "pugnat" "he fights"
@@ -10631,6 +10670,10 @@
 
    "reātūs" "accusation, charge"
    "reātus, reātūs" "accusation, charge"
+
+   "rebellāvit" "he rebelled"
+   "rebellāre" "to rebel"
+   "rebellō, rebellāre, rebellāvī, rebellātus" "to rebel"
 
    "rebelliōne" "renewal of war, rebellion"
    "rebelliōnem" "renewal of war, rebellion"
@@ -11148,6 +11191,8 @@
    "rīvulus, rīvulī" "small brook, rivulet"
 
    "rīvī" "small stream"
+   "rīvīs" "small streams"
+   "rīvōs" "small streams"
    "rīvus" "small stream"
    "rīvus, rīvī" "small stream"
    
@@ -11272,6 +11317,7 @@
    "sacrāmentum" "sacrament"
    "sacrāmentum, sacrāmentī" "sacrament"
 
+   "sacrāverat" "he had consecrated"
    "sacrāvit" "he consecrated"
    "sacrāre" "to consecrate"
    "sacrō, sacrāre, sacrāvī, sacrātus" "to consecrate"
@@ -11496,6 +11542,7 @@
    "sectābātur" "he was running after, he was hunting out"
    "sector, sectārī, sectātus sum" "to run after, to hunt out"
 
+   "sēcūrī" "untroubled, carefree"
    "sēcūrōs" "untroubled, carefree"
    "sēcūrus, sēcūra, sēcūrum" "untroubled, carefree"
    
@@ -11755,6 +11802,7 @@
    "similis" "similar"
    "similis, simile" "similar"
 
+   "simulācra" "images, likenesses"
    "simulācrī" "image, likeness"
    "simulācrum" "image, likeness"
    "simulācrōrum" "of images, likenesses"
@@ -11980,6 +12028,7 @@
    "spondēbant" "they were promising"
    "spondent" "they promise"
    "spondentēs" "promising"
+   "spospondērunt" "they promised"
    "spondēre" "to promise"
    "spondeō, spondēre, spopondī, spōnsus" "to promise"
 
@@ -12128,6 +12177,7 @@
    "subcinericius, subcinericia, subcinericium" "baked under ashes"
 
    "subdita" "having been placed under"
+   "subdidērunt" "they placed under"
    "subdere" "to place under"
    "subdō, subdere, subdidī, subditus" "to place under"
 
@@ -12468,6 +12518,7 @@
    "temptāns" "tempting"
    "temptant" "they tried"
    "temptāvēre" "they tempted"
+   "temptāvit" "he tried"
    "temptāre" "to tempt"
    "temptō, temptāre, temptāvī, temptātus" "to tempt"
    
@@ -12649,6 +12700,7 @@
    "trādidistī" "you handed over"
    "trāditur" "it is handed over"
    "trādiderant" "they had handed over"
+   "trādidērunt" "they had handed over"
    "trāderet" "he handed over"
    "trādere" "to hand over"
    "trādō, trādere, trādidī, trāditus" "to hand over"
@@ -12844,6 +12896,7 @@
 
    "turba" "disturbance, quarrel, troop"
    "turbae" "disturbance, quarrel, troop"
+   "turbam" "disturbance, quarrel, troop"
    "turbīs" "disturbances, quarrels, troops"
    "turba, turbae" "disturbance, quarrel, troop"
 
@@ -13027,6 +13080,7 @@
    "ūvās" "grapes"
    "ūva, ūvae" "grape"
 
+   "uxor" "wife"
    "uxōre" "wife"
    "uxōrem" "wife"
    "uxōrēs" "wives"
@@ -13434,6 +13488,7 @@
    "vir, virī" "man"
    "virō" "man"
    "virōrum" "of the men"
+   "virōs" "men"
    "virum" "man"
 
    "virgam" "stick"
