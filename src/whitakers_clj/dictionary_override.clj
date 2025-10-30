@@ -90,6 +90,8 @@
    "Antōnius" "Anthony"
    "anxiebantur" "they were anxious"
    "April" "The month of April"
+   "aptota" "indeclinable, from άπτωτος"
+   "aptoton" "indeclinable, from άπτωτος"
    "apud" "at, by, near"
    "Ariovistus" "A German king"
    "Ariovistī" "Ariovistus, a German King (genitive case)"
@@ -1027,6 +1029,12 @@
    "absunt" "they are absent"
    "absum, abesse, āfuī, abfutūrus" "to be absent"
 
+   "ablātīvī" "ablative"
+   "ablātīvō" "ablative"
+   "ablātīvum" "ablative"
+   "ablātīvus" "ablative"
+   "ablātīvus, ablātīvī" "ablative"
+
    "abneget" "he denies"
    "abnegō, abnegāre, abnegāvī, abnegātus" "to deny, to refuse"
 
@@ -1069,6 +1077,10 @@
    "accelerābat" "he was speeding up"
    "accelerāret" "he was speeding up"
    "accelerō, accelerāre, accelerāvī, accelerātus" "to speed up"
+
+   "accentū" "accent, intonation, accentuation"
+   "accentus" "accent, intonation, accentuation"
+   "accentus, accentūs" "accent, intonation, accentuation"
 
    "accidere" "to fall upon, to happen"
    "accidō, accidere, accidī, accāsus" "to fall upon, to happen"
@@ -1244,6 +1256,14 @@
    "adventū" "arrival, approach"
    "adventus" "arrival, approach"
    "adventus, adventūs" "arrival, approach"
+
+   "adverbia" "adverbs"
+   "adverbium" "adverb"
+   "adverbiī" "adverb"
+   "adverbiīs" "adverb"
+   "adverbiō" "adverb"
+   "adverbiōrum" "adverb"
+   "adverbium, adverbiī" "adverb"
 
    "adversa" "opposite, hostile"
    "adversus" "opposite, hostile"
@@ -1566,6 +1586,7 @@
    "āmīserat" "he had lost, dismissed"
    "āmīsit" "he lost, dismissed"
    "āmissīs" "having been lost, dismissed"
+   "āmittit" "he lost, dismissed"
    "āmittere" "to lose, to dismiss"
    "āmittō, āmittere, āmīsī, āmissus" "to lose, to dismiss"
    
@@ -1581,7 +1602,18 @@
    "amor" "love"
    "amōre" "with love"
    "amōrem" "love"
+   "amōrum" "of loves"
    "amor, amōris" "love"
+
+   "amphibrachibus" "amphibrachs, metricial feet that is short-long-short"
+   "amphibrachy" "amphibrach, a metricial foot that is short-long-short"
+   "amphibrachyn" "amphibrach, a metricial foot that is short-long-short"
+   "amphibrachys" "amphibrach, a metricial foot that is short-long-short"
+   "amphibrachyos" "amphibrach, a metricial foot that is short-long-short"
+   "amphibrachys, amphibrachyos" "amphibrach, a metricial foot that is short-long-short"
+
+   "amphimacrus" "amphimacer, a metrical foot that is long-short-long"
+   "amphimacrus, amphimacrī" "amphimacer, a metrical foot that is long-short-long"
    
    "amphoram" "two-handled earthenware jug"
    "amphora, amphorae" "two-handled earthenware jug"
@@ -1600,6 +1632,23 @@
    
    "anachōrita, anachōritae" "hermit, anchorite"
    "anachōritārum" "of anchorites, of hermits"
+
+   "analogia" "analogy, similarity"
+   "analogiae" "analogy, similarity"
+   "analogiam" "analogy, similarity"
+   "analogiārum" "of analogies, similarities"
+   "analogiās" "analogies, similarities"
+   "analogiīs" "analogies, similarities"
+   "analogia, analogiae" "analogy, similarity"
+
+   "anapaestus" "anapest, a metrical foot of short, short, long"
+   "anapaestī" "of an anapest, a metrical foot of short, short, long"
+   "anapaestīs" "anapests, metrical feet of short, short, long"
+   "anapaestō" "anapest, a metrical foot of short, short, long"
+   "anapaestōrum" "of anapests, metrical feet of short, short, long"
+   "anapaestōs" "anapests, metrical feet of short, short, long"
+   "anapaestum" "anapest, a metrical foot of short, short, long"
+   "anapaestus, anapaestī" "anapest, a metrical foot of short, short, long"
 
    "ancorās" "anchors"
    "ancorīs" "anchors"
@@ -1655,6 +1704,7 @@
    "animae" "soul, mind, life"
    "animīs" "souls, minds, lives"
 
+   "animal" "animal"
    "animālia" "animals"
    "animal, animālis" "animal"
    
@@ -1691,6 +1741,11 @@
    "antecēdēbat" "he was preceeding"
    "antecēdēbant" "they were preceeding"
    "antecēdō, antecēdere, antecessī, antecessum" "to precede"
+
+   "antepaenultimus" "second-to-last"
+   "antepaenultima" "second-to-last"
+   "antepaenultimum" "second-to-last"
+   "antepaenultimus, antepaenultima, antepaenultimum" "second-to-last"
    
    "anteriōrēs" "earlier, previous, former"
    "anteriōribus" "earlier, previous, former"
@@ -1746,11 +1801,31 @@
 
    "appellābat" "he was calling, he was naming"
    "appellābātur" "he was being called"
+   "appellant" "they called"
    "appellantur" "they are called"
+   "appellatur" "they are called"
    "appellātī" "having been called"
    "appellātus" "having been called"
    "appellāvit" "he called, he named"
    "appellō, appellāre, appellāvī, appellātus" "to call, to name"
+
+   "appellātiō" "name, pronunciation"
+   "appellātiōnis" "name, pronunciation"
+   "appellātiōne"  "name, pronunciation"
+   "appellātiōnem" "name, pronunciation"
+   "appellātiōnēs" "names, pronunciations"
+   "appellātiōnum" "of names, pronunciations"
+   "appellātiōnibus" "names, pronunciations"
+   "appellātiō, appellātiōnis" "name, pronunciation"
+
+   "appellātīva" "appellative, common (noun)"
+   "appellātīvōrum" "of appellatives, common (nouns)"
+   "appellātīvus, appellātīva, appellātīvum" "appellative, common (noun)"
+
+   "appendicēs" "supplements, additions"
+   "appendicis" "supplement, addition"
+   "appendix"   "supplement, addition"
+   "appendix, appendicis" "supplement, addition"
 
    "appetītus" "appetite"
    "appetītus, appetītūs" "appetite"
