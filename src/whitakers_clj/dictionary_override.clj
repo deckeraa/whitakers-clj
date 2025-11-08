@@ -2830,14 +2830,16 @@
    "cētus" "large sea animal, whale, shark, dolphin"
    "cētī" "large sea animal, whale, shark, dolphin"
    "cētus, cētī" "large sea animal, whale, shark, dolphin"
+   
    "chorus" "chorus"
    "chorus, chorī" "chorus"
    "chorōs" "choirs"
+   
    "Chrīstō" "Christ"
-   "chrīste" "annointed one, Christ"
-   "chrīstī" "annointed one, Christ"
-   "chrīstum" "annointed one, Christ"
-   "chrīstus" "annointed one, Christ"
+   "chrīste" "Christ"
+   "chrīstī" "Christ"
+   "chrīstum" "Christ"
+   "chrīstus" "Christ"
    "Chrīstus, Chrīstī" "Christ"
 
    "chrīstiānī" "Christians"
@@ -9662,6 +9664,7 @@
    "persequēbātur" "he was following"
    "persequendōs" "following"
    "persequētur" "he will follow"
+   "persequuntur" "they follow"
    "persequor, persequī, persecūtus sum" "to follow (deponent)"
    
    "persevērō, persevērāre, persevērāvī, persevērātus" "to persevere"
