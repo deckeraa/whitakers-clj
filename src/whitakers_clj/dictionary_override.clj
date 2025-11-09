@@ -606,6 +606,7 @@
    "octāvus, octāvī" "octave, 8th"
    "octāvum" "octave, 8th"
    "octāvus" "octave, 8th"
+   "octōbrī" "October"
    "ōlim" "one day, once upon a time"
    "omnīnō" "entirely, altogether"
    "operātus" "operātus + est = was performed"
@@ -4565,6 +4566,7 @@
    "diserta" "skilled in speaking"
    "disertus, diserta, disertum" "skilled in speaking"
 
+   "dispersērunt" "they spread out"
    "dispersōs" "spread out"
    "dispersus, dispersa, dispersum" "spread out"
 
@@ -4579,6 +4581,10 @@
    "dissentīrent" "they were disagreeing"
    "dissentīre" "to disagree"
    "dissentiō, dissentīre, dissēnsī, dissēnsus" "to disagree"
+
+   "dissipāvissent" "they had scattered, dispersed"
+   "dissipāre" "to scatter, disperse"
+   "dissipō, dissipāre, dissipāvī, dissipātus" "to scatter, disperse"
 
    "distat" "it stands apart, it is distant"
    "distō, distāre, -, -" "to stand apart, be distant"
@@ -5080,6 +5086,7 @@
    "Eurōpa, Eurōpae" "Europe"
 
    "ēvāsit" "he avoided, he escaped"
+   "ēvādere" "to avoid, to escape"
    "ēvādō, ēvādere, ēvāsī, ēvāsus" "to avoid, to escape"
 
    "ēvānuit" "it vanished"
@@ -5374,6 +5381,7 @@
    "fēcisset" "he (might) have had made"
    "faciendae" "doing, making"
    "fac" "do! make!"
+   "fēcerant" "they had made, done"
 
    "facile" "easy"
    "facilius" "easier"
@@ -5979,6 +5987,7 @@
 
    "gaudēns" "rejoicing"
    "gaudet" "he rejoices"
+   "gavīsus" "having been rejoiced"
    "gaudeō, gaudēre, gavīsus sum" "to rejoice"
 
    "gaza" "treasury"
@@ -6652,6 +6661,7 @@
 
    "incendia" "fires"
    "incendiī" "fire"
+   "incendiō" "fire"
    "incendium" "fire"
    "incendium, incendiī" "fire"
    
@@ -7470,6 +7480,7 @@
    "lassō" "tired, weary"
    "lassus, lassa, lassum" "tired, weary"
 
+   "latēbant" "they were laying hidden"
    "latēret" "he lay hidden, lurked"
    "latet" "he lies hidden, he lurks"
    "latuit" "it lay hidden, it lurked"
@@ -7886,6 +7897,7 @@
 
    "mandāta" "having been entrusted"
    "mandāverat" "he had entrusted"
+   "mandāvit" "he commanded"
    "mandāre" "to entrust"
    "mandō, mandāre, mandāvī, mandātus" "to entrust"
    
@@ -8056,6 +8068,7 @@
    "mēnsis" "month"
    "mēnsis, mēnsis" "month"
    "mēnsum" "of months"
+   "mēnse" "month"
    
    "mēnsūra" "measure"
    "mēnsūram" "measure"
@@ -8322,6 +8335,7 @@
    "mōnstrō, mōnstrāre, mōnstrāvī, mōnstrātus" "to point out"
 
    "montānās" "mountainous"
+   "montānīs" "mountainous"
    "montānus, montāna, montānum" "mountainous"
    
    "mōns, montis" "mountain"
@@ -9676,6 +9690,7 @@
    "persecūtiō, persecūtiōnis" "pursuit"
 
    "persequendum" "pursuing"
+   "persequentēs" "following"
    "persequēbātur" "he was following"
    "persequendōs" "following"
    "persequētur" "he will follow"
@@ -10077,6 +10092,10 @@
    "praeceptōrum" "of orders, directions, precepts"
    "praeceptum" "order, direction, precept"
    "praeceptum, praeceptī" "order, direction, precept"
+
+   "praecipitābant" "they were casting down"
+   "praecipitāre" "to cast down"
+   "praecipitō, praecipitāre, praecipitāvī, praecipitātus" "to cast down"
 
    "praecipuae" "particular, special"
    "praecipuam" "particular, special"
