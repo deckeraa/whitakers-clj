@@ -160,6 +160,7 @@
    "Catuvolcō" "Catuvolcus, king of the Eburones with Ambiorix (ablative or dative case)"
    "Catuvolcus" "Catuvolcus, king of the Eburones with Ambiorix (nominative case)"
    "cāusāliter" "causally"
+   "cautē" "cautiously"
    "celebrāte" "Celebrate!"
    "celeriter" "quickly"
    "cepsitāvit" "he stumbled; singular perfect from cespitō, cespitāre, cespitāvi, cespitas"
@@ -1756,7 +1757,8 @@
    "anteriōribus" "earlier, previous, former"
    "anterior, anterior, anterius" "earlier, previous, former"
 
-   "antīqua" "of the ancient"
+   "antīqua" "ancient"
+   "antīquam" "ancient"
    "antīquī" "of the ancient"
    "antīquō" "ancient"
    "antīquus, antīqua -um, antīquior -or -us, antīquissimus -a -um" "antique"
@@ -3029,9 +3031,10 @@
    "cōgitāre" "to think"
    "cōgitāvit" "he thought"
    "cōgitō, cōgitāre, cōgitāvī, cōgitātus" "to think"
-   
+
+   "cōgitātiō" "thought"
    "cōgitātiōnēs" "thoughts"
-   "cōgitātiō, cōgitātiōnis" "thinking"
+   "cōgitātiō, cōgitātiōnis" "thought, thinking"
    
    "cōgnitor" "advocate, attorney, witness"
    "cōgnitor, cōgnitōris" "advocate, attorney, witness"
@@ -4809,6 +4812,7 @@
    "dūcet" "you will lead"
    "dūcendam" "leading"
    "ductus" "having been lead"
+   "dūcī" "to be lead"
    "dūcō, dūcere, dūxī, ductus" "to lead"
    
    "ductor" "leader"
@@ -5558,6 +5562,10 @@
    "fidēlibus" "faithful persons, confidants"
    "fidēlis" "faithful person, confidant"
    "fidēlis, fidēlis" "faithful person, confidant"
+
+   "fidēlitās" "faithfulness, fidelity"
+   "fidēlitātem" "faithfulness, fidelity"
+   "fidēlitās, fidēlitātis" "faithfulness, fidelity"
 
    "fidem" "faith"
    "fidēs" "faith"
@@ -10557,6 +10565,9 @@
    "proximīs" "neighbor"
    "proximus" "neighbor"
    "proximus, proximī" "neighbor"
+
+   "prūdentissimōs" "very prudent, competent"
+   "prūdēns, prūdentis (gen.), prūdentior -or -us, prūdentissimus -a -um" "prudent, competent"
    
    "psallēbant" "they were singing a Psalm"
    "psallendī" "singing a Psalm"
@@ -12596,6 +12607,7 @@
    "tantus, tanta, tantum" "so much, so great, this many"
 
    "tetigī" "I touched"
+   "tetigit" "he touched"
    "tangere" "to touch, to strike"
    "tangō, tangere, tetigī, tāctus" "to touch, to strike"
 
@@ -12859,6 +12871,7 @@
    "trānsactīs" "having been accomplished"
    "trānsigō, trānsigere, trānsēgī, trānsactum" "to stab, to pierce, to accomplish"
 
+   "trānsfretantēs" "passing over, ferrying"
    "trānsfretāret" "he passed over, ferried"
    "trānsfretāvērunt" "they passed over, ferried"
    "trānsfretāvit" "he passed over the sea, ferried"
