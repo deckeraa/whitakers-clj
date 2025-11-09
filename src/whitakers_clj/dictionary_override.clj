@@ -521,6 +521,7 @@
    "manē" "morning"
    "mānsī" "I remained; singular 1st person perfect from maneō, manēre, mānsī, mānsus"
    "martir" "martyr, one who dies for their faith"
+   "martirizāvērunt" "they were marytred; 3rd person plural perfecte from martyrizō, martyrizāre"
    "Massiliam" "Marseille, a city in southern France"
    "maximē" "greatly"
    "mē" "to me, accusative from ego"
@@ -1247,6 +1248,9 @@
 
    "adscīscunt" "they admit, approve, associate"
    "adscīscere" "to admit, to approve, to associate"
+
+   "adūnāvērunt" "united, brought together"
+   "adūnō, adūnāre, adūnāvī, adūnātus" "to unite, bring together"
 
    "adveniēns" "arriving"
    "advenīre" "to arrive"
@@ -3132,6 +3136,7 @@
    "columnātam" "supported by pillers"
    "columnātus, columnāta, columnātum" "supported by pillers"
 
+   "combūrerent" "they burned up"
    "combūrentēs" "burning up"
    "combūrunt" "they burn up"
    "combūrere" "to burn up"
@@ -3207,6 +3212,7 @@
 
    "comparābat" "he compared, prepared"
    "comparāvī" "I prepared, compared"
+   "comparāvit" "he prepared, compared"
    "comparāre" "I prepare, compare"
    "comparātis" "you prepare, compare"
    "comparō, comparāre, comparāvī, comparātus" "to compare"
@@ -3327,6 +3333,10 @@
    "concordātus" "having been agreed"
    "concordāre" "to harmonize, agree"
    "concordō, concordāre, concordāvī, concordātus" "to harmonize, agree"
+
+   "concremāvit" "it burned together"
+   "concremāre" "to burn together"
+   "concremō, concremāre, concremāvī, concremātus" "to burn together"
 
    "condemnō, condemnāre, condemnāvī, condemnātus" "to condemn"
    "condemnābitur" "he will be condemned"
@@ -7228,7 +7238,7 @@
    "irrumpere" "to invade, penetrate"
    "irrumpō, irrumpere, irrūpī, irruptus" "to invade, penetrate"
 
-   "Irruentēs" "forcing their way in"
+   "irruentēs" "forcing their way in"
    "irruerant" "they had forced their way in"
    "irruerat" "it had forced its way in"
    "irruet" "it will rush in"
@@ -7835,10 +7845,6 @@
    "magnitūdinis" "magnitude, greatness"
    "magnitūdō, magnitūdinis" "magnitude, greatness"
 
-   "martyriī"  "of martyrdom"
-   "martyrium" "martyrdom"
-   "martyrium, martyriī" "martyrdom"
-   
    "maxima" "biggest"
    "maximās" "biggest"
    "maximī" "biggest"
@@ -7948,6 +7954,10 @@
    "marmor" "marble"
    "marmor, marmoris" "marble"
 
+   "martyriī"  "of martyrdom"
+   "martyrium" "martyrdom"
+   "martyrium, martyriī" "martyrdom"
+   
    "masculus" "male"
    "masculum" "male"
    "masculus, masculī" "male"
@@ -8772,6 +8782,7 @@
    "nūditās, nūditātis" "nudity, nakedness"
    
    "nūda" "naked"
+   "nūdōs" "naked"
    "nūdus" "naked"
    "nūdus, nūda, nūdum" "naked"
 
@@ -8897,6 +8908,10 @@
    "obumbrāvit" "it overshadowed, it darkened"
    "obumbrāvisset" "he (might) have had overshadowed"
    "obumbrō, obumbrāre, obumbrāvī, obumbrātus" "to overshadow, to darken"
+
+   "obviāvērunt" "they opposed, resisted"
+   "obviāre" "to oppose, resist"
+   "obviō, obviāre, obviāvī, obviātus" "to oppose, resist"
    
    "ōceanī" "ocean"
    "ōceanō" "ocean"
@@ -9752,6 +9767,9 @@
    
    "petrōsa" "rocky places"
    "petrōsum, petrōsi" "rocky place"
+
+   "petrus" "Peter"
+   "Petrus, Petrī" "Peter"
 
    "philosophus" "philosopher"
    "philosophus, philosophī" "philosopher"
@@ -10909,6 +10927,9 @@
    "refectōrium" "dining room, refectory"
    "refectōrium, refectōriī" "dining room, refectory"
    
+   "refrēnāre" "to restrain, curb, check"
+   "refrēnō, refrēnāre, refrēnāvī, refrēnātus" "to restrain, curb, check"
+   
    "refrīgerium" "cooling, consolation"
    "refrīgerium, refrīgeriī" "cooling, consolation"
    "refulsit" "it shone"
@@ -11387,6 +11408,7 @@
    "sacer, sacra, sacrum" "sacred"
    
    "sacerdōs" "priest"
+   "sacerdōtem" "priest"
    "sacerdōtēs" "priests"
    "sacerdōtibus" "priests"
    "sacerdōs, sacerdōtis" "priest"
