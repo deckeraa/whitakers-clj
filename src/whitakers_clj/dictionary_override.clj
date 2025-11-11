@@ -327,6 +327,7 @@
    "Garumna"  "The Garonne, a river running in modern-day France and Spain"
    "Garumnam" "The Garonne, a river running in modern-day France and Spain"
    "gāius" "Gāius, a Roman name"
+   "Geōrgiī" "of George, singular masculine genitive from Geōrgius, Geōrgiī"
    "germānī" "Germans"
    "germānīs" "Germans"
    "Germānīs" "Germans"
@@ -780,6 +781,7 @@
    "sabīnō" "Sabīnus, a Roman name"
    "saepe" "often"
    "saepius" "more often"
+   "sagāciter" "cleverly"
    "Samarobrīva" "A town in Gallia (nominative)"
    "Samarobrīvā" "A town in Gallia (ablative)"
    "Samarobrīvae" "A town in Gallia (locative)"
@@ -1859,9 +1861,12 @@
    
    "appendentibus" "hanging"
    "appendō, appendere, appendī, appēnsus" "to hang"
+   
    "appōnere" "to place, to set before"
    "apposuit" "he placed, he set before"
    "appōnō, appōnere, apposuī, appositus" "to place, to set before"
+
+   "apprehendēns" "seizing"
    "apprehendit" "he seizes, he seized"
    "apprehendērunt" "they seized"
    "apprehendō, apprehendere, apprehendī, apprehēnsus" "to seize, to grasp"
@@ -3604,6 +3609,7 @@
    
    "cōnstantīus" "Constantius, son of Constantine"
 
+   "cōnstantīnopolī" "in or of Constantinople (genitive or locative case)"
    "cōnstantīnopolim" "Constantinople"
    "cōnstantīnopolis" "Constantinople"
 
@@ -4959,6 +4965,7 @@
    "ēlēctiō, ēlēctiōnis" "choice, selection"
    
    "elemosina" "alms"
+   "elemosinam" "alms"
    "elemosina, elemosinae" "alms"
    "elemosyna, elemosynae" "alms"
    
@@ -5063,6 +5070,9 @@
    "ēripuit" "he rescued, he snatched away"
    "ēripere" "to rescue, to snatch away"
    "ēripiō, ēripere, ēripuī, ēreptus" "to rescue, to snatch away"
+
+   "ērogāre" "to pay out, expend"
+   "ērogō, ērogāre, ērogāvī, ērogātus" "to pay out, expend"
    
    "errantēs" "wandering, erroring"
    "errat" "he wanders, errs"
@@ -6629,12 +6639,14 @@
 
    "imperātor" "commander"
    "imperātōre" "commander"
+   "imperātōrem" "commander"
    "imperātōrēs" "commander"
    "imperātōrī" "commander"
    "imperātōribus" "commanders"
    "imperātor, imperātōris" "commander"
    
    "imperat" "he commands"
+   "imperābat" "he was commanding"
    "imperāre" "to command"
    "imperāverat" "he had commanded"
    "imperāvisset" "he (might) have had commanded"
@@ -7007,6 +7019,7 @@
    "īnsertō, īnsertāre, īnsertāvī, īnsertātus" "to insert, to introduce"
 
    "īnsidiās" "ambushes, plots"
+   "īnsidiīs" "ambushes, plots"
    "īnsidia, īnsidiae" "ambush, plot"
 
    "īnsignī"  "distinguished"
@@ -7430,6 +7443,7 @@
    
    "īvisset" "he (might) have gone"
 
+   "iuvante" "helping"
    "iūvit" "he helped"
    "iuvāre" "to help"
    "iuvō, iuvāre, iūvī, iūtus" "to help"
@@ -8307,6 +8321,7 @@
    "missus, missūs" "throwing, dispatch"
 
    "missīs" "having been sent"
+   "mittēbat" "he was sending"
    "mittēbant" "they were sending"
    "mittēbantur" "they were being sent"
    "mittēmus" "we will send"
@@ -8580,7 +8595,8 @@
    "nātiōne" "race, tribe, nation"
    "nātiōnibus" "race, tribe, nation"
    "nātiō, nātiōnis" "race, tribe, nation"
-   
+
+   "nātāle" "birthday"
    "nātālem" "birthday"
    "nātālis" "birthday"
    "nātālis, nātālis" "birthday"
@@ -9305,6 +9321,10 @@
    "palātium" "palace, large residence"
    "palātiī"  "palaces, large residences"
    "palātium, palātiī" "palace, large residence"
+
+   "palea" "straw, chaff"
+   "paleās" "straw, chaff"
+   "palea, paleae" "straw, chaff"
    
    "pānibus" "bread"
    "pānis" "bread"
@@ -10721,6 +10741,7 @@
    "putābat" "he was thinking"
    "putābant" "they were thinking"
    "putantēs" "thinking"
+   "putārent" "they might think"
    "putāre" "to think"
    "putō, putāre, putāvī, putātus" "to think"
 
@@ -12495,6 +12516,7 @@
    "superātō" "having been overcome"
    "superātus" "having been overcome"
    "superāvisset" "he (might) have overcome"
+   "superāvit" "he overcame"
    "superārī" "to be overcome"
    "superō, superāre, superāvī, superātus" "to overcome"
 
