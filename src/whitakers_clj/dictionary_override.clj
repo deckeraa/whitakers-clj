@@ -1505,6 +1505,10 @@
    "aliēnum" "strange, unfamiliar"
    "aliēnus, aliēna -um, aliēnior -or -us, alienissimus -a -um" "strange, unfamiliar"
 
+   "alimentōrum" "of food, nourishment, sustenance"
+   "alimentum" "food, nourishment, sustenance"
+   "alimentum, alimentī" "food, nourishment, sustenance"
+
    "aliōrum" "of others"
    "alium" "other"
    "aliud" "other"
@@ -3196,6 +3200,7 @@
    "comitēs" "comrade"
    "comitī" "comrade"
    "comitibus" "comrades"
+   "comitis" "comrade's"
    "comes, comitis" "comrade"
 
    "coēmērunt" "they bought"
@@ -3472,6 +3477,7 @@
    "cōnfortābat" "he was comforting, he was strengthening"
    "cōnfortābant" "they were comforting, strengthening"
    "cōnfortāminī" "you are being comforted/strengthened"
+   "cōnfortāns" "comforting, strengthening"
    "cōnfortāre" "to comfort, to strengthen"
    "cōnfortāvit" "he comforted, he strengthened"
    "cōnfortō, cōnfortāre, cōnfortāvī, cōnfortātus" "to comfort, to strengthen"
@@ -4307,6 +4313,10 @@
 
    "dēpositīs" "deposits, trusts"
    "dēpositum, dēpositī" "deposit, trust"
+
+   "dēpraedārentur" "they might plunder"
+   "dēpraedārī" "to plunder, pillage"
+   "dēpraedor, dēpraedārī, dēpraedātus" "to plunder, pillage"
    
    "dēprecantēs" "praying"
    "dēpreco, dēprecāre, dēprecāvī, dēprecātus" "to pray"
@@ -4918,6 +4928,7 @@
    "edāx, edācis (gen.), edācior -or -us, edācissimus -a -um" "greedy, gluttonous, voracious, destructive"
 
    "edēbat" "he was eating"
+   "edendum" "eating"
    "edere" "to eat"
    "ēdērunt" "they ate"
    "edimus" "we eat"
@@ -5287,6 +5298,7 @@
    "expectō" "I await, I expect"
    "expectō, expectāre, expectāvī, expectātus" "to await, to expect"
    "expectantēs" "expecting"
+   "expectāvērunt" "they awaited"
 
    "expedītiō" "expedition, campaign"
    "expedītiōne" "expedition, campaign"
@@ -5490,6 +5502,10 @@
 
    "fāmōsum" "famed"
    "fāmōsus, fāmōsa, fāmōsum" "famed"
+
+   "famulātum" "obedience, servitude"
+   "famulātus" "obedience, servitude"
+   "famulātus, famulātūs" "obedience, servitude"
    
    "famulī" "servant, companion"
    "famulō" "servant, companion"
