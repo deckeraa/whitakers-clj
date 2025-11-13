@@ -978,6 +978,7 @@
    "utrum" "whether"
    "vae" "woe"
    "valdē" "very"
+   "vehementer" "vehemently"
    "vel" "or"
    "vēlōciter" "quickly"
    "velut" "same as, for example"
@@ -10732,6 +10733,7 @@
    "pugnārent" "they (might) have been fighting"
    "pugnātum" "having been fought"
    "pugnat" "he fights"
+   "pugnandī" "of fighting"
    "pugnō, pugnāre, pugnāvī, pugnātus" "to fight"
 
    "pulchra" "beautiful"
@@ -11177,6 +11179,7 @@
    "remanēbunt" "they will remain"
    "remānserat" "he had remained"
    "remānsērunt" "they remained"
+   "remānserit" "they remained"
    "remaneō, remanēre, remānsī, remānsus" "to remain"
 
    "remeāvit" "he returned"
@@ -11996,6 +11999,9 @@
    "siccōs" "dry, thirsty"
    "siccus, sicca, siccum" "dry, thirsty"
 
+   "siciliam" "Sicily"
+   "Sicilia, Siciliae" "Sicily"
+
    "sicera"  "a type of alcoholic beverage"
    "siceram" "a type of alcoholic beverage"
    "sicera, sicerae" "a type of alcoholic beverage"
@@ -12160,11 +12166,15 @@
    
    "sonābant" "they were making sounds"
    "sonant" "they make a sound"
+   "sonet" "it sounds"
+   "sonō, sonāre, sonāvī, sonatus" "to make a sound"
+   
    "sonitus" "sound"
    "sonitūs" "sound"
    "sonitum" "sound"
    "sonitus, sonitūs" "sound"
-   "sono, sonare, sonavi, sonatus" "to make a sound"
+
+   "sonum" "sound"
    "sonus" "sound"
    "sonus, sonī" "sound"
    
@@ -13290,6 +13300,7 @@
    
    "utra" "either"
    "utram" "either"
+   "utrās" "either"
    
    "utrēs" "bag/bottle made of skin/hide"
    "uter, utris" "bag/bottle made of skin/hide"
@@ -13455,6 +13466,7 @@
    "venientēs" "coming"
    "veniat" "he came"
    "veniō, venīre, vēnī, ventus" "to come"
+   "vēnisse" "to have come"
 
    "venia" "indulgence, kindness"
    "veniam" "indulgence, kindness"
