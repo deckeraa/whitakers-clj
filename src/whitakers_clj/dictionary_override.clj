@@ -3494,6 +3494,9 @@
    "congregātiōne" "congregation"
    "congregātiō, congregātiōnis" "congregation"
 
+   "congrua" "suitable, fit"
+   "congruus, congrua, congruum" "suitable, fit"
+
    "coniēcerant" "they had thrown"
    "conicere" "to throw"
    "coniciō, conicere, coniēcī, coniectus" "to throw"
@@ -3921,6 +3924,7 @@
    "crūdus, crūda, crūdum" "raw"
 
    "crucem" "cross"
+   "crucēs" "crosses"
    "crux" "cross"
    "crux, crucis" "cross"
    "crucibus" "crosses"
@@ -4703,6 +4707,7 @@
    "dēfertur" "it is being transferred"
    "dētulērunt" "they transferred"
    "dēferrent" "they transferred"
+   "dēferat" "he transfers"
    "dēferō, dēferre, dētulī, dēlātus" "to bring down, to transfer"
    
    "dīmidium" "half"
@@ -4749,6 +4754,10 @@
    "dolōre" "pain, sorrow"
    "dolōrī" "to pain, sorrow"
    "dolor, dolōris" "pain, sorrow"
+
+   "dolēbat" "he was sorrying, grieving, feeling pain"
+   "dolēre" "to sorry, grieve, feel pain"
+   "doleō, dolēre, doluī, dolitus" "to sorry, grieve, feel pain"
 
    "dolōsa" "crafty, cunning"
    "dolōsī" "crafty, cunning"
@@ -6756,6 +6765,7 @@
    "incipiēbant" "they were starting"
    "incipiō, incipere, incēpī, inceptus" "to start"
    "incīsa" "having been cut"
+   "incīdī" "to be cut"
    "incīdō, incīdere, incīdī, incīsus" "to cut into"
 
    "incitāta" "having been incited"
@@ -6990,6 +7000,7 @@
    "innectere" "to tie, fasten"
    "innectō, innectere, innexuī, innexus" "to tie, fasten"
 
+   "innumerābilem" "countless"
    "innumerābilēs" "countless"
    "innumerābilia" "countless"
    "innumerābilis" "countless"
@@ -7011,6 +7022,7 @@
    "inquiam, -, -" "to say"
 
    "inquīrendō" "examining, inquiring"
+   "inquīrere" "to examine, inquire"
    "inquīrō, inquīrere, inquīsīvī, inquīsītus" "to examine, inquire"
 
    "inquīsītiō" "inquiry"
