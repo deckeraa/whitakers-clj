@@ -6421,6 +6421,9 @@
    "homō" "person"
    "homō, hominis" "person"
 
+   "honestāvit" "he honored, dignified"
+   "honestō, honestāre, honestāvī, honestātum" "to honor, dignify"
+
    "honore" "honor"
    "honorem" "honor"
    "honor, honōris" "honor"
@@ -6781,6 +6784,8 @@
    "incipiēbat" "he was starting"
    "incipiēbant" "they were starting"
    "incipiō, incipere, incēpī, inceptus" "to start"
+   "incipiendum" "starting"
+   
    "incīsa" "having been cut"
    "incīdī" "to be cut"
    "incīdō, incīdere, incīdī, incīsus" "to cut into"
@@ -8432,6 +8437,7 @@
    "monastērium" "monastery"
    "monastērium, monastēriī" "monastery"
 
+   "monēns" "warning"
    "monente" "warning"
    "monēre" "to warn"
    "moneō, monēre, monuī, monitus" "to warn"
@@ -12541,6 +12547,7 @@
    "sufficiō, sufficere, suffēcī, suffectus" "to suffice"
    "sufficit" "it suffices"
    "sufficiēns" "sufficing"
+   "sufficeret" "it might suffice"
    
    "sufflantium" "inflating"
    "sufflō, sufflāre, sufflāvī, sufflātus" "inflating"
@@ -13007,6 +13014,7 @@
    "trānsfretantēs" "passing over, ferrying"
    "trānsfretāret" "he passed over, ferried"
    "trānsfretāvērunt" "they passed over, ferried"
+   "trānsfretāssent" "they might have crossed over, ferried"
    "trānsfretāvit" "he passed over the sea, ferried"
    "trānsfretō, trānsfretāre, trānsfretāvī, trānsfretātus" "to pass over the sea, to ferry"
 
@@ -13393,6 +13401,7 @@
    "validō" "strong, healthy"
    "validus, valida, validum" "strong, healthy"
 
+   "valle" "valley"
    "vallem" "valley"
    "vallis" "valley"
    "vallis, vallis" "valley"
