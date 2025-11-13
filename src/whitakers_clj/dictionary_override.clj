@@ -7316,6 +7316,7 @@
    "eundum" "going"
    "eundī" "of going"
    "ierat" "he had gone"
+   "itūram" "going"
 
    "īra" "anger"
    "īrae" "anger"
@@ -7892,6 +7893,7 @@
    "lūcis" "light"
    "lūx, lūcis" "light"
 
+   "maerēbat" "he was mourning"
    "maerens" "mourning"
    "maereō, maerēre, -, -" "to mourn"
    "maereō, maerēre, maeruī" "to mourn"
@@ -9292,6 +9294,11 @@
    "ostendere" "to show"
    "ostendō, ostendere, ostendī, ostentus" "to show"
 
+   "ostensiō"    "presenting, showing, exhibiting"
+   "ostensiōnem" "presenting, showing, exhibiting"
+   "ostensiōnis" "presenting, showing, exhibiting"
+   "ostensiō, ostensiōnis" "presenting, showing, exhibiting"
+
    "os" "bone"
    "ossa" "bones"
    "ossibus" "bones"
@@ -9330,6 +9337,7 @@
    "paenitentiam" "penitence, repentance"
    "paenitentia, paenitentiae" "penitence, repentance"
 
+   "pāgānōrum" "of peasants, villagers, rustics"
    "pāgāna"  "peasant, villager, rustic"
    "pāgānī"  "peasant, villager, rustic"
    "pāgānīs" "peasant, villager, rustic"
@@ -9351,6 +9359,9 @@
    "palea" "straw, chaff"
    "paleās" "straw, chaff"
    "palea, paleae" "straw, chaff"
+
+   "pallium" "cloak"
+   "pallium, palliī" "cloak"
    
    "pānibus" "bread"
    "pānis" "bread"
@@ -10020,6 +10031,7 @@
 
    "pōns" "bridge"
    "pontem" "bridge"
+   "pontis" "of the bridge"
    "pōns, pontis" "bridge"
 
    "pontifex" "high priest, Pope"
@@ -10083,6 +10095,7 @@
    "portāvērunt" "they carried"
    "portāvit" "he carried"
    "portō" "I carry"
+   "portet" "it might carry"
    "portō, portāre, portāvī, portātum" "to carry, to bring"
    
    "portū" "harbor, port"
@@ -10345,6 +10358,7 @@
    "pretiō" "price"
    "pretium, pretiī" "price"
 
+   "pretiosissimum" "most precious"
    "pretiōsa" "precious"
    "pretiōsī" "precious"
    "pretiōsus, pretiōsa -um, pretiōsior -or -us, pretiōsissimus -a -um" "precious"
