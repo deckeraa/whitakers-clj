@@ -451,6 +451,7 @@
    "indūtiomarī" "Indūtiomārus, one of the chiefs of the Treviri"
    "indūtiomārus" "Indūtiomārus, one of the chiefs of the Treviri"
    "inferōs" "Hades, plural masculine accusative from īnferus, īnfera, īnferum"
+   "inibī" "in that place"
    "iniussū" "without an order (ablative)"
    "inlūxit" "he began to shine; from inlūcēscō, inlūcēscere, inlūxī, -"
    "innocenter" "innocently"
@@ -989,7 +990,7 @@
    "vergēbat" "it was laying, inclining, sloping"
    "vergō, vergere, -, -" "to lay, to incline, to slope"
       
-   "vērō" "truly, even so, still"
+   "vērō" "and, truly, even so, still"
    "Verucloetius" "A Helvetic legate"
    "vespertīnāle" "Vespers. This word isn't in any of my dictionaries but the meaning is clear."
    "vestra" "your"
@@ -2249,6 +2250,7 @@
    "babylōniae" "Babylon"
    "Babylōnia, Babylōniae" "Babylon"
 
+   "baiulant" "they bear, carry"
    "bāiulāre" "to carry, to bear"
    "bāiulō, bāiulāre, bāiulāvī, bāiulātus" "to carry, to bear"
    
@@ -2314,6 +2316,9 @@
 
    "bellicōsum" "warlike"
    "bellicōsus, bellicōsa -um, bellicōsior -or -us, bellicōsissimus -a -um" "warlike"
+
+   "bellipotēns" "mighty in war"
+   "bellipotēns, (gen.), bellipotentis" "mighty in war"
 
    "bella" "battles, wars"
    "bellum" "battle, war"
@@ -3237,6 +3242,7 @@
    "commorātur" "he dwells"
    "commoro, commorare, commoravi, commoratus" "to dwell on"
 
+   "commōtus" "having been agitated"
    "commovet" "it agitates"
    "commoveō, commovēre, commōvī, commōtus" "to agitate"
 
@@ -3346,6 +3352,7 @@
    "conceptus" "having been conceived"
    "concipiō, concipere, concēpī, conceptus" "to conceive"
 
+   "conclāmant" "they cry out"
    "conclāmāvērunt" "they cried out"
    "conclāmō, conclāmāre, conclāmāvī, conclāmātus" "to cry out"
 
@@ -3374,6 +3381,9 @@
    "concremāvit" "it burned together"
    "concremāre" "to burn together"
    "concremō, concremāre, concremāvī, concremātus" "to burn together"
+
+   "concurrere" "to run together, concur"
+   "concurrō, concurrere, concurrī, concursus" "to run together, concur"
 
    "condemnō, condemnāre, condemnāvī, condemnātus" "to condemn"
    "condemnābitur" "he will be condemned"
@@ -7244,6 +7254,9 @@
    "investīgābilis" "searchable"
    "investīgābilis, investīgābilis, investigabile" "searchable"
 
+   "invictus" "unconquered"
+   "invictus, invicta, invictum" "unconquered"
+
    "invidet" "he envies, is jealous"
    "invideō, invidēre, invīdī, invīsus" "to envy, be jealous"
 
@@ -7298,6 +7311,7 @@
 
    "īrāta" "angry"
    "īrātī" "angry"
+   "īrātum" "angry"
    "īrātus" "angry"
    "īrātus, īrāta, īrātum" "angry"
 
@@ -9513,6 +9527,7 @@
 
    "pauper" "poor"
    "pauperem" "poor"
+   "pauperibus" "poor"
    "pauperum" "poor"
    "pauper, pauperis (gen.), pauperior -or -us, pauperrimus -a -um" "poor"
 
@@ -9758,7 +9773,9 @@
    "persequendum" "pursuing"
    "persequentēs" "following"
    "persequēbātur" "he was following"
+   "persequendō"  "following"
    "persequendōs" "following"
+   "persequēns"   "following"
    "persequētur" "he will follow"
    "persequuntur" "they follow"
    "persequor, persequī, persecūtus sum" "to follow (deponent)"
@@ -10249,7 +10266,9 @@
    "praepositō" "advantageous thing"
    "praepositum, praeposit" "advantageous thing"
    "praesentāvimus" "we presented"
+   "praesentāvit" "he presented"
    "praesentō, praesentāre, praesentāvī, praesentātus" "to present"
+   
    "praesēns" "present"
    "praesēns, (gen.), praesentis" "present"
    
@@ -12754,7 +12773,8 @@
 
    "tenerrimē" "very tenderly"
    "tener, tenera -um, tenerior -or -us, tenerrimus -a -um" "soft, tender, delicate"
-   
+
+   "tentōria" "tents"
    "tentōrium" "tent"
    "tentōriō" "tent"
    "tentōriī" "tent"
