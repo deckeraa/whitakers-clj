@@ -131,6 +131,7 @@
    "boiōs" "the Boii, who live across the Rhine from the Helvetii"
    "Bonifacius" "Saint Boniface, AD 675-754"
    "Boamundus" "Bohemond"
+   "Boamundī" "of Bohemond"
    "bovēs" "cows; plural masc. or fem. nom. or acc. from bōs, bovis"
    "Brāchium" "the Bosporus; from Brāchium Sānctī Georgīī"
    "brāchium" "the Bosporus; from Brāchium Sānctī Georgīī"
@@ -871,6 +872,7 @@
    "siquidem" "however, accordingly, since, if only. In Medieval Latin, synonym of autem."
    "sita" "sita est = is located; idiomatic usage of past passive participle of sinō, sinere, sīvī, situs"
    "sīve" "or, what if"
+   "sollemniter" "solemnly"
    "sōlum" "only, just, barely, merely"
    "sotiātur" "it is joined; 3rd person singular present passive from a variant spelling of sociāre"
    "speciāliter" "specifically, individually; adverb from speciālis, speciāle"
@@ -907,6 +909,8 @@
    "Syon" "Zion"
    "Synai" "Sinai"
    "Tamesis" "Thames river"
+   "Tancredus" "Tancred, Prince of Galilee (1075–1112) (nominative case)"
+   "Tancredum" "Tancred, Prince of Galilee (1075–1112) (accusative case)"
    "Tasgetī" "Tasgetius, a chief of the Carnutes (genitive case)"
    "Tasgetiī" "Tasgetius, a chief of the Carnutes (genitive case)"
    "Tasgetius" "Tasgetius, a chief of the Carnutes"
@@ -1046,6 +1050,7 @@
    "abdō, abdere, abdidī, abditus" "to hide, to remove"
 
    "abit" "you depart"
+   "abīre" "to depart"
    "abeō, abīre, abiī, abitus" "to depart"
 
    "abigere" "to drive away"
@@ -1548,6 +1553,10 @@
    "alterum" "the other"
    "alter, altera, alterum" "the other"
 
+   "altercātiō" "dispute"
+   "altercātiōnem" "dispute"
+   "altercātiō, altercātiōnis" "dispute"
+
    "alternē" "alternatively"
    "alternus, alterna, alternum" "alternative"
    
@@ -1878,7 +1887,7 @@
 
    "apprehendēns" "seizing"
    "apprehendit" "he seizes, he seized"
-   "apprehendēbāmus" "they were seizing"
+   "apprehendēbāmus" "we were seizing"
    "apprehendērunt" "they seized"
    "apprehendō, apprehendere, apprehendī, apprehēnsus" "to seize, to grasp"
    
@@ -4562,6 +4571,7 @@
    "dīluvium, dīluviī" "flood, destruction"
 
    "dīmicābat" "he fought"
+   "dīmicantēs" "fighting"
    "dīmicāvērunt" "they fought"
    "dīmicent" "they fight"
    "dīmicō, dīmicāre, dīmicāvī, dīmicātus" "to fight"
@@ -5572,6 +5582,9 @@
 
    "fēnō" "hay"
    "fēnum, fēnī" "hay"
+
+   "fēria" "festival, holiday"
+   "fēria, fēriae" "festival, holiday"
    
    "tulērunt" "they brought"
    "tulissent" "they (might) have had brought"
@@ -6690,12 +6703,13 @@
    "impedīmentum" "impediment, hindrance, heavy baggage"
    "impedīmentum, impedīmentī" "impediment, hindrance, heavy baggage"
 
-   "imperātor" "commander"
-   "imperātōre" "commander"
-   "imperātōrem" "commander"
-   "imperātōrēs" "commander"
-   "imperātōrī" "commander"
-   "imperātōribus" "commanders"
+   "imperātor" "emperor, commander"
+   "imperātōre" "emperor, commander"
+   "imperātōrem" "emperor, commander"
+   "imperātōrēs" "emperor, commander"
+   "imperātōrī" "emperor, commander"
+   "imperātōribus" "emperors, commanders"
+   "imperātōris" "emperor's"
    "imperātor, imperātōris" "commander"
    
    "imperat" "he commands"
@@ -10857,6 +10871,7 @@
    "quaeritis" "you are seeking"
    "quaesīvistī" "you sought"
    "quaerāmus" "let us seek"
+   "quaesīvimus" "we sought"
    "quaerō, quaerere, quaesīvī, quaesītus" "to seek, to ask for"
 
    "quaestōre"  "quaestor, treasurers"
@@ -12549,6 +12564,10 @@
    "successōribus" "successors"
    "successor" "successor"
    "successor, successōris" "successor"
+
+   "succubuit" "it succumbed, collapsed"
+   "succumbere" "to succumb, collapse"
+   "succumbō, succumbere, succubuī, succubitus" "to succumb, collapse"
 
    "succurreret" "he brought aid"
    "succurrere" "to bring aid"
