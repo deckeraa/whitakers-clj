@@ -1105,6 +1105,10 @@
    "accelerāret" "he was speeding up"
    "accelerō, accelerāre, accelerāvī, accelerātus" "to speed up"
 
+   "accēnsō" "having been lit on fire"
+   "accendere" "to light on fire"
+   "accendō, accendere, accendī, accēnsus" "to light on fire"
+
    "accentū" "accent, intonation, accentuation"
    "accentus" "accent, intonation, accentuation"
    "accentus, accentūs" "accent, intonation, accentuation"
@@ -1874,6 +1878,7 @@
 
    "apprehendēns" "seizing"
    "apprehendit" "he seizes, he seized"
+   "apprehendēbāmus" "they were seizing"
    "apprehendērunt" "they seized"
    "apprehendō, apprehendere, apprehendī, apprehēnsus" "to seize, to grasp"
    
@@ -2099,6 +2104,9 @@
    "asportābant" "they were carrying away"
    "asportārent" "they might carry away"
    "asportō, asportāre, asportāvī, asportātus" "to carry away"
+
+   "assentīre" "to assent, agree"
+   "assentiō, assentīre, assēnsī, assēnsus" "to assent, agree"
 
    "asseruit" "he alleged, claimed, defended"
    "asserō, asserere, asseruī, assertus" "to allege, claim, defend"
@@ -2788,6 +2796,7 @@
    "celebrētis" "you (might) have been celebrating"
    "celebrāre" "to celebrate"
    "celebrāvērunt" "they celebrated"
+   "celebrāvimus" "we celebrated"
    "celebrāvisset" "he (might) have had celebrated"
    "celebrāvissent" "they (might) have had celebrated"
    "celebrō, celebrāre, celebrāvī, celebrātus" "to celebrate"
@@ -3187,6 +3196,7 @@
    "combūrentēs" "burning up"
    "combūrunt" "they burn up"
    "combūrere" "to burn up"
+   "combussimus" "we burned up"
    "combussit" "it burned up"
    "combūrō, combūrere, combussī, combustus" "to burn up"
    
@@ -5253,6 +5263,7 @@
    "exivērunt" "they came out, they went out"
    "exīssent" "they (might) have came out"
    "exierant" "they had gone out"
+   "exeuntēs" "going out"
    
    "exilīvit" "he went out"
    "exiliō, exilīre, exilīvī, -" "to go out"
@@ -6357,6 +6368,9 @@
    "heremitam" "hermit"
    "heremita, heremitae" "hermit"
 
+   "hēreticōrum" "of heretics"
+   "hēreticus, hēretica, hēreticum" "heretic"
+
    "hesternō" "yesterday's"
    "hesternus, hesterna, hesternum" "yesterday's"
 
@@ -7227,6 +7241,7 @@
    "intrāvērunt" "they entered"
    "intrāvit" "he entered"
    "intrantēs" "entering"
+   "intrāvimus" "we entered"
    "intrō, intrāre, intrāvī, intrātus" "to enter"
 
    "intrōgressī" "having entered"
@@ -7280,6 +7295,7 @@
    "inveniuntur" "they are discovered"
    "invenītur" "it is found"
    "invenīrī" "to be found"
+   "inveniēbāmus" "we were finding"
    "inveniō, invenīre, invēnī, inventum" "to find"
 
    "invertitur" "it is changed, turned upside down"
@@ -9756,6 +9772,7 @@
 
    "peregrīnus" "traveler"
    "peregrīnī" "travelers"
+   "peregrīnōs" "pilgrims, travelers"
    "peregrīnus, peregrīnī" "traveler"
 
    "perītia"  "skill, experience"
@@ -9878,6 +9895,7 @@
    "perventum" "having been reached"
    "perventūrōs" "arriving (in the future)"
    "perveniās" "you arrive"
+   "pervenīmus" "we arrived"
 
    "pedum" "of feet"
    "pedibus" "feet"
@@ -10008,6 +10026,10 @@
    "plēnus" "full"
    "plēnus, plēna -um, plēnior -or -us, plēnissimus -a -um" "full"
 
+   "plēnitūdinem" "fullness, abundance, plenitude"
+   "plēnitūdō" "fullness, abundance, plenitude"
+   "plēnitūdō, plēnitūdinis" "fullness, abundance, plenitude"
+
    "plōrābant" "they were crying"
    "plōrō, plōrāre, plōrāvī, plōrātus" "to cry"
    
@@ -10087,6 +10109,9 @@
    "populantur" "it is ravaged, devastated"
    "populāre" "to ravage, devastate"
    "populō, populāre, populāvī, populātus" "to ravage, devastate"
+
+   "populārī" "to ravage, devastate"
+   "populor, populārī, populātus" "to ravage, devastate"
    
    "positae" "having been put"
    "posuistī" "you placed"
