@@ -6596,6 +6596,9 @@
    "īdibus" "ides"
    "īdūs, īduum" "ides"
 
+   "iēiūniī" "of the fast day"
+   "jejunium, jejuni(i)" "fast day"
+
    "iēiūnus" "fasting"
    "iēiūnōs" "fasting"
    "jējūnus, jējūna -um, jējūnior -or -us, jējūnissimus -a -um" "fasting, hungry"
@@ -6777,6 +6780,9 @@
 
    "impulsū" "shock, impact"
    "impulsus, impulsūs" "shock, impact"
+
+   "impūnītōs" "unpunished"
+   "impūnītus, impūnīta -um, impūnītior -or -us, impūnītissimus -a -um" "unpunished"
    
    "inaequālitās" "inequality"
    "inaequālitās, inaequālitātis" "inequality"
@@ -7786,6 +7792,10 @@
 
    "liceat" "it (might) be permitted"
 
+   "ligātōs" "having been tied, bound"
+   "ligāre" "to tie, bind"
+   "ligō, ligāre, ligāvī, ligātus" "to tie, bind"
+
    "ligātūram" "ligature, binding"
    "ligātūra, ligātūrae" "ligature, binding"
 
@@ -7851,6 +7861,7 @@
    "locābat" "he stationed"
    "locāvit" "he stationed"
    "locāta" "having been stationed"
+   "locātī" "having been stationed"
    "locāre" "to station"
    "locō, locāre, locāvī, locātus" "to station"
    
@@ -8353,6 +8364,7 @@
    "mīrificus, mīrifica, mīrificum" "amazing, wonderful"
    
    "miser" "miserable"
+   "miserī" "miserable"
    "miser, misera -um, miserior -or -us, miserrimus -a -um" "miserable"
    "misera" "miserable"
 
@@ -8669,6 +8681,7 @@
 
    "natābat" "he was swimming"
    "natābant" "they were swimming"
+   "natandō" "swimming"
    "natantium" "swimming"
    "natāvit" "he swam"
    "natō, natāre, natāvī, natātus" "to swim"
@@ -8794,6 +8807,7 @@
    "nepōs, nepōtis" "grandson"
 
    "nequībat" "he was unable"
+   "nequīmus" "we are unable"
    "nequeō, nequīre, nequivī(iī), nequitus" "to be unable"
 
    "nescīmus" "we do not know"
@@ -9815,6 +9829,7 @@
    "permīscēre" "to mix together"
    "permīsceō, permīscēre, permīscuī, permīxtum" "to mix together"
 
+   "permīsit" "he allowed, permitted"
    "permittam" "I will permit"
    "permitte" "permit! allow!"
    "permittō, permittere, permīsī, permissus" "to permit, to allow"
@@ -10604,6 +10619,7 @@
    "prohibeō, prohibēre, prohibuī, prohibitus" "to prevent, to restrain"
    
    "prōiēcit" "he threw down"
+   "prōiectus" "having been thrown down"
    "prōicere" "to throw down"
    "prōiciunt" "they throw down"
    "prōiciō, prōicere, prōiēcī, prōiectus" "to throw down"
