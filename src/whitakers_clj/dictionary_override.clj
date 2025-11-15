@@ -699,6 +699,7 @@
    "Puisātiō" "Eurardus dē Puisātiō = Everard III of Le Puiset"
    "pulsātō" "having been hit; perfect passive dative or ablative participle from pulsō, pulsāre, pulsāvī, pulsātus"
    "propter" "because of, near"
+   "prudenter" "prudently"
    "quā" "what; singular female ablative of qui"
    "quae" "who; plural female nom. or neuter nom. or acc. of quis"
    "quam" "how? how much?"
@@ -767,6 +768,7 @@
    "recordātus, recordātūs" "rememberance, recollection"
    "reddite" "Return! Plural imperated from reddere."
    "rēmigēs" "oars, oarmen; plural masculine nominative or accusative from rēmex, rēmigēs"
+   "repente" "suddenly, unexpectedly"
    "resurrēctiō, resurrēctiōnis" "resurrection"
    "resurrēctiōne" "resurrection"
    "retrō" "behind, backwards"
@@ -824,6 +826,7 @@
    "scrībō, scrībere, scrīpsī, scrīptus" "to write"
    "se" "himself"
    "sēcum" "with oneself"
+   "sēcūrē" "safely, securly"
    "sēcrētum" "secret; singular neuter nominative or accusative from sēcrētum, sēcrētī"
    "sectātus" "sectātus + est = he ran after, he sought out"
    "secundō" "second"
@@ -1396,6 +1399,9 @@
    "aggrederētur" "they were attacking"
    "aggredio, aggredere, aggressī, aggressus" "to attack"
 
+   "aggredī" "to attack"
+   "aggredior, aggredī, aggressus" "to attack"
+
    "aggregātō" "group together!"
    "aggregō, aggregāre, aggregāvī, aggregātus" "to group, to flock together"
 
@@ -1889,6 +1895,7 @@
    "apprehendit" "he seizes, he seized"
    "apprehendēbāmus" "we were seizing"
    "apprehendērunt" "they seized"
+   "apprehendere" "to seize, to grasp"
    "apprehendō, apprehendere, apprehendī, apprehēnsus" "to seize, to grasp"
    
    "appropinquāre" "to approach"
@@ -4208,6 +4215,7 @@
    "dēdūcerēmus" "we had lead down, escorted, removed"
    "dēdūcere" "to escort, to remove"
    "dēducta" "having been escorted, removed"
+   "dēdūceret" "he carried away"
    "dēdūcō, dēdūcere, dēdūxī, dēductus" "to escort, to remove"
 
    "dederit" "he will give"
@@ -4739,6 +4747,7 @@
    "dētulērunt" "they transferred"
    "dēferrent" "they transferred"
    "dēferat" "he transfers"
+   "dēferentēs" "transferring"
    "dēferō, dēferre, dētulī, dēlātus" "to bring down, to transfer"
    
    "dīmidium" "half"
@@ -5674,6 +5683,9 @@
    "fideī" "faith"
    "fidē" "faith"
    "fidēs, fideī" "faith"
+
+   "fīdūcia" "trust, confidence, courage"
+   "fīdūcia, fīdūciae" "trust, confidence, courage"
    
    "fīgite" "fasten! fix!"
    "fīxam" "having been fixed, having been fastened"
@@ -5883,6 +5895,7 @@
    "fortis, forte, fortior -or -us, fortissimus -a -um" "strong"
 
    "fortissima" "very strong"
+   "fortissimam" "very strong"
    "fortissimī" "very strong"
    "fortissimus" "very strong"
    
@@ -6331,6 +6344,7 @@
    "habitātiōne" "dwelling"
    "habitātiō, habitātiōnis" "dwelling"
    "habitātōre" "dweller"
+   "habitātōrēs" "dwellers"
    "habitātōribus" "dwellers"
    "habitātor, habitātōris" "dweller"
    
@@ -7509,6 +7523,9 @@
    "iussū" "order, command, decree"
    "iussus" "order, command, decree"
    "iussus, iussūs" "order, command, decree"
+
+   "iūstitia" "justice, fairness"
+   "iūstitia, iūstitiae" "justice, fairness"
 
    "iūsta" "just, righteous"
    "iūstō" "just, righteous"
@@ -10748,6 +10765,7 @@
    "proximus" "neighbor"
    "proximus, proximī" "neighbor"
 
+   "prūdēns" "prudent, competent"
    "prūdentissimōs" "very prudent, competent"
    "prūdēns, prūdentis (gen.), prūdentior -or -us, prūdentissimus -a -um" "prudent, competent"
    
@@ -12005,6 +12023,7 @@
    "sēcūta" "having been followed"
    "sēcūtae" "having been followed"
    "sequitur" "he follows"
+   "sequendō" "following"
    "sequor, sequī, sēcūtus sum" "to follow"
 
    "Sēquana" "The Seine River"
@@ -12149,6 +12168,9 @@
 
    "sinite" "allow! permit!"
    "sinō, sinere, sīvī, situs" "to allow, to permit"
+   "sinere" "to allow, to permit"
+   "sinerent" "they allowed"
+   
    "sim" "I (might) be"
    "sint" "they (might) be"
    "sīs" "you (might) be"
@@ -12655,6 +12677,7 @@
    "superātus" "having been overcome"
    "superāvisset" "he (might) have overcome"
    "superāvit" "he overcame"
+   "superāvērunt" "they overcame"
    "superārī" "to be overcome"
    "superō, superāre, superāvī, superātus" "to overcome"
 
@@ -13095,6 +13118,7 @@
    "trānseuntium" "crossing"
    "trānsitūrum" "will be crossing over"
    "trānsīret" "he crossed over"
+   "trānsīrēmus" "we crossed over"
    "trānseō, trānsīre, trānsivi(iī), trānsitus" "to go over, to cross"
 
    "trānsēgit" "he stabbed, accomplished"
@@ -13552,6 +13576,7 @@
    "veniat" "he came"
    "veniō, venīre, vēnī, ventus" "to come"
    "vēnisse" "to have come"
+   "venīrēmus" "we came"
 
    "venia" "indulgence, kindness"
    "veniam" "indulgence, kindness"
@@ -13925,6 +13950,8 @@
    "vocātus" "having been called"
    "vocātī" "having been called"
    "vocāta" "having been called"
+   "vocāre" "to call, to summon"
+   "vocant" "they call"
    "vocō, vocāre, vocāvī, vocātus" "to call, to summon"
 
    "vōciferātus" "having been yelled"
