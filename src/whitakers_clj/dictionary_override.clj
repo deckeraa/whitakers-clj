@@ -130,6 +130,7 @@
    "bis" "twice"
    "boiōs" "the Boii, who live across the Rhine from the Helvetii"
    "Bonifacius" "Saint Boniface, AD 675-754"
+   "Boamundum" "Bohemond"
    "Boamundus" "Bohemond"
    "Boamundī" "of Bohemond"
    "bovēs" "cows; plural masc. or fem. nom. or acc. from bōs, bovis"
@@ -323,7 +324,8 @@
    "francīs" "the Franks"
    "francōrum" "of the Franks"
    "francōs" "the Franks"
-   "frēnum" "bridal; ornamental necklace"
+   "fraudulenter" "fraudulently, deceitfully; dishonestly; falsely;"
+   "frēnum" "bridle; ornamental necklace"
    "Frīdēshlar" "Fritzlar, Germany"
    "frūstrā" "futile"
    "fuerint" "they will have been; 3rd person plural future perfect from esse"
@@ -369,6 +371,7 @@
    "heu" "Hey! oh! (interjection)"
    "hiberniae" "of Ireland (genitive case)"
    "hibernensium" "of the Irish (plural genitive)"
+   "honorabiliter" "honorably"
    "hōs" "these; plural masculine accusative from hic, haec, hoc"
    "Hungāriae" "Hungary"
    "Hybernia" "Ireland (nominative case)"
@@ -811,6 +814,7 @@
    "sānctum" "holy, saint"
    "sānctissimam" "most holy"
    "sapienter" "wisely"
+   "sat" "enough"
    "satis" "enough"
    "Saxonēs" "The Saxons"
    "Saxōnia" "Saxony"
@@ -1830,6 +1834,10 @@
    "ānxietātis" "anxiety"
    "ānxietās, ānxietātis" "anxiety"
 
+   "anxiēns" "worrying"
+   "anxiāre" "to worry"
+   "anxiō, anxiāre, anxiāvī, anxiātus" "to worry"
+
    "apertā"  "having been opened"
    "apertō"  "having been opened"
    "apertum" "having been opened"
@@ -2503,6 +2511,10 @@
    "būbalus" "antelope, gazelle, wild ox, buffalo"
    "būbalus, būbalī" "antelope, gazelle, wild ox, buffalo"
 
+   "bulliens" "boiling with indignation, bubbling"
+   "bullīre" "to boil (with indignation), bubble, boil"
+   "bulliō, bullīre, bullīvī, bullītus" "to boil (with indignation), bubble, boil"
+
    "burgō" "suburb"
    "burgus, burgī" "suburb"
    
@@ -2592,6 +2604,7 @@
    "cālīgō" "fog, mist"
    "cālīgō, cālīginis" "fog, mist"
 
+   "callidē" "cleverly"
    "callidus" "clever, crafty"
    "callidus, callida -um, callidior -or -us, callidissimus -a -um" "clever, crafty"
 
@@ -3103,6 +3116,7 @@
    "cōgere" "to collect, to force"
    "cōgō, cōgere, coēgī, coāctus" "to collect, to force"
 
+   "cōgitābat" "he was thinkingg"
    "cōgitat" "he thinks"
    "cōgitāre" "to think"
    "cōgitāvit" "he thought"
@@ -3346,6 +3360,7 @@
    "compositō" "having been ordered"
    "compositus, composita, compositum" "ordered"
 
+   "comprehenderet" "he might catch"
    "comprehenderant" "they had caught"
    "comprehēnsōs" "having been seized"
    "comprehendere" "to catch"
@@ -5299,6 +5314,7 @@
    "exīssent" "they (might) have came out"
    "exierant" "they had gone out"
    "exeuntēs" "going out"
+   "exībat" "he was going out"
    
    "exilīvit" "he went out"
    "exiliō, exilīre, exilīvī, -" "to go out"
@@ -5706,6 +5722,7 @@
    "fīgite" "fasten! fix!"
    "fīxam" "having been fixed, having been fastened"
    "fīxērunt" "they set up, they fixed"
+   "fīximus" "we fixed"
    "fīxit" "he fastened"
    "fīgō, fīgere, fīxī, fīxus" "to fasten, to fix"
 
@@ -9032,6 +9049,7 @@
    "nurus, nurūs" "young woman, daughter-in-law"
    
    "nūtrīmentō" "nourishment"
+   "nūtrīmentīs" "nourishments"
    "nūtrīmentum, nūtrīmentī" "nourishment"
 
    "nūtrit" "it nourishes"
@@ -9487,6 +9505,10 @@
    "pāpa" "father, bishop, pope"
    "pāpā" "father, bishop, pope"
    "pāpa, pāpae" "father, bishop, pope"
+
+   "pāpiliō" "tent"
+   "pāpiliōnēs" "tents"
+   "pāpiliō, pāpiliōnis" "tent"
 
    "paradigmate" "example, pattern"
    "paradigma, paradigmatis" "example, pattern"
@@ -10658,6 +10680,7 @@
    "prōiciunt" "they throw down"
    "prōiciō, prōicere, prōiēcī, prōiectus" "to throw down"
 
+   "prōmīserat" "he had promised"
    "prōmīsērunt" "they promised"
    "prōmīsit" "he promised"
    "prōmittēbant" "they were promising"
@@ -11089,6 +11112,7 @@
    "reddō, reddere, reddidī, redditus" "to return, to render"
    "reddētur" "to be returned"
    "reddidit" "he returned"
+   "reddī" "to be returned"
 
    "redēmptiō" "redemption"
    "redēmptiōne" "redemption"
@@ -12977,6 +13001,7 @@
    "tetendit" "he stretched, he extended"
    "tetendērunt" "they stretched, they extended"
    "tendēbant" "they were stretching"
+   "tetendimus" "we stretched out, extended"
    "tendere" "to stretch, to extend"
    "tendō, tendere, tetendī, tentus" "to stretch, to extend"
    
