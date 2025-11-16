@@ -206,6 +206,9 @@
    "contrā" "against, away from, facing"
    "convocātis" "you call together; 2nd person plural present from convocō, convocāre, convocāvī, convocātus"
    "cōram" "in the presence of"
+   "cūrpalātium" "palace minister (cūrpalātius, accusative case)"
+   "cūrpalātius" "palace minister (cūrpalātius, nominative case)"
+   "Cōrpalātius" "palace minister (cūrpalātius, nominative case)"
    "corporāliter" "bodily, physically, corporeally"
    "cotīdiē" "daily"
    "cottīdiē" "daily"
@@ -781,6 +784,7 @@
    "rubicunditātis" "redness. This word did not appear in any dictionaries I consulted, but the meaning is clear from the context. It appears to be a variant of rubicundus -a -um, meaning red, ruddy, or rubicund."
    "rūrsum" "backwards, on the flipside"
    "rūrsus" "backwards, on the flipside"
+   "Rusam" "Ρούσιον, modern-day Keşan, Turkey, which lies about 140 miles from Constantinople"
    "Ryeuall" "Rievaulx, a village about 9 miles from Byland Abbey."
    "sabīnō" "Sabīnus, a Roman name"
    "saepe" "often"
@@ -1908,6 +1912,7 @@
    "appropinquāvisset" "he (might) have had approached"
    "appropinquāvissent" "they (might) have had approached"
    "appropinquāvit" "he approached"
+   "appropinquante" "approaching"
 
    "aptārī" "to be adapted, to be fit in"
    "aptāre" "to adapt, to fit in"
@@ -3445,6 +3450,7 @@
    "conductam" "having been assembled"
    "condūxit" "he assembled"
    "condūcēbant" "they were assembling"
+   "condūceret" "they might assemble"
    "condūcere" "to assemble"
    "condūcō, condūcere, condūxī, conductus" "to assemble"
 
@@ -3857,7 +3863,8 @@
    "corpore" "body, flesh"
    "corporis" "body, flesh"
    "corpus, corporis" "body, flesh"
-   
+
+   "corporālibus" "physical, corporeal"
    "corporālī" "physical, corporeal"
    "corporālis, corporālis, corporāle" "physical, corporeal"
    
@@ -4747,6 +4754,7 @@
    "dētulērunt" "they transferred"
    "dēferrent" "they transferred"
    "dēferat" "he transfers"
+   "dēferēns" "transferring"
    "dēferentēs" "transferring"
    "dēferō, dēferre, dētulī, dēlātus" "to bring down, to transfer"
    
@@ -13926,6 +13934,7 @@
    "vīvunt" "they live"
    "vīvō" "I live"
    "vīxit" "he lived"
+   "vīveret" "he might live"
    "vīvō, vīvere, vīxī, vīctus" "to live"
 
    "vīvī" "living"
