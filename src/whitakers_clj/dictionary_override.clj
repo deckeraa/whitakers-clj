@@ -238,6 +238,7 @@
    "Dēsīderius" "King Desiderius, final King of the Lombards (720-786)"
    "dēsuper" "above"
    "dēterius" "worse, unfavorably"
+   "dēvōtissimē" "very faithfully, devoutedly"
    "dīligenter" "diligently"
    "diūtius" "for a longer time"
    "dīvīnitus" "divinely, of heaven (adverb)"
@@ -553,6 +554,7 @@
    "minimē" "barely, no, not"
    "minus" "less"
    "mixtim" "mixedly, in a mixed manner (adverb)"
+   "modeste" "modestly, in a disciplined manner"
    "modicum" "a little; singular neuter nominative or accusative from modicum, modica"
    "mox" "soon"
    "muliebriter" "womanly (adverb from muliebris, muliebre)"
@@ -631,6 +633,7 @@
    "ōlim" "one day, once upon a time"
    "omnīnō" "entirely, altogether"
    "operātus" "operātus + est = was performed"
+   "optime" "very, rightly, best"
    "ōrā" "pray! singular imperative from ōrō, ōrāre, ōrāvī, ōrātus"
    "ōrāte" "pray! plural imperative from ōrō, ōrāre, ōrāvī, ōrātus"
    "Orc" "The Orkney Isles, located off the northern coast of Scotland"
@@ -4348,6 +4351,7 @@
    "dēpositīs" "deposits, trusts"
    "dēpositum, dēpositī" "deposit, trust"
 
+   "dēpraedāta" "having been plundered"
    "dēpraedārentur" "they might plunder"
    "dēpraedārī" "to plunder, pillage"
    "dēpraedor, dēpraedārī, dēpraedātus" "to plunder, pillage"
@@ -4602,6 +4606,7 @@
    "dīmissa" "having been sent away"
    "dīmissō" "having been sent away"
    "dīmissus" "having been sent away"
+   "dīmīsit" "he sent away"
 
    "dīra" "ominous, dreadful"
    "dīrās" "ominous, dreadful"
@@ -5059,6 +5064,9 @@
 
    "ēlucubrābō" "I will burn the midnight oil"
    "ēlucubrō, ēlucubrāre, ēlucubrāvī, ēlucubrātus" "to burn the midnight oil"
+
+   "emere" "to buy"
+   "emō, emere, ēmī, ēmptum" "to buy"
 
    "ēmergunt" "they emerge, appear"
    "ēmergere" "to emerge, appear"
@@ -6224,6 +6232,7 @@
    "gradūs" "step"
    "gradus, gradūs" "step"
 
+   "graecōrum" "of the Greeks"
    "graecīs" "Greek"
    "Graecus, Graecī" "Greek"
    
