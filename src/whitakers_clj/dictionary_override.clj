@@ -522,6 +522,7 @@
    "lemannus" "Lake Geneva"
    "Leviathan" "Leviathan, a sea monster mentioned in Job 40:25."
    "leviathan" "Leviathan, a sea monster mentioned in Job 40:25."
+   "libenter" "willingly, gladly, freely"
    "licet" "allow"
    "locūtus" "locūtus est = he spoke"
    "Langōbardī" "the Lombards"
@@ -620,6 +621,7 @@
    "Nōviomāgum" "Nijmegen, a city in the modern-day Netherlands (accusative case)"
    "noviter" "recently"
    "numquam" "never"
+   "nunquam" "never"
    "numquid" "is it possible?"
    "nunc" "now"
    "nūper" "recently"
@@ -6616,7 +6618,8 @@
 
    "humidam" "humid, wet, moist"
    "humidus, humida, humidum" "humid, wet, moist"
-   
+
+   "humiliāvērunt" "they humiliated"
    "humiliāre" "to humble, to abase, to humililate"
    "humiliō, humiliāre, humiliāvī, humiliātus" "to humble, to abase, to humililate"
    "humilitās, humilitātis" "humility, insignificance, commonplaceness"
@@ -7580,6 +7583,7 @@
 
    "iūrāvit" "he swore"
    "iūrent" "they swear"
+   "iūrāret" "he might swear"
    "iūrāre" "to swear"
    "iūrō, iūrāre, iūrāvī, iūrātus" "to swear"
 
@@ -8865,6 +8869,7 @@
    "necessārius, necessāria, necessārium" "necessary"
    
    "necessitās" "necessity"
+   "necessitāte" "necessity"
    "necessitātis" "necessity"
    "necessitātem" "necessity"
    "necessitās, necessitātis" "necessity"
@@ -8987,6 +8992,7 @@
 
    "nōluērunt" "they didn't want"
    "nōlēmus" "we won't want"
+   "nōlentēs" "not wanting"
    "nōlō" "I don't want"
    "nōluit" "he didn't want"
    "nōlō, nōlle, nōluī, -" "to not want"
@@ -10505,6 +10511,7 @@
    "praetereuntibus" "passing by"
    "praeterīre" "to pass by"
    "praeterita" "being passed by"
+   "preterīret" "he might pass by"
    "praetereō, praeterīre, praeterivī(iī), praeteritus" "to pass by"
 
    "praeterfluit" "it flows past"
@@ -13008,6 +13015,7 @@
    "tenendae" "holding"
    "tenuēre" "they held, alternative spelling of tenuērunt"
    "teneō, tenēre, tenuī, tentus" "to hold, to keep"
+   "tenēret" "he might hold"
    
    "tenebrōsus" "dark"
    "tenebrōsus, tenebrōsa, tenebrōsum" "dark"
@@ -13097,6 +13105,7 @@
    "timenda" "to be feared"
    "timentēs" "fearing"
    "timeās" "you fear"
+   "timēbat" "he was fearing"
    "timēre" "to fear"
    "timeō, timēre, timuī, -" "to fear"
    
@@ -13438,6 +13447,9 @@
    "ulteriōrī" "farther, last"
    "ulterius" "farther, last"
    "-, -, ulterior -or -us, ultimus -a -um" "farthest, last"
+
+   "ultimum" "the utmost, greatest, end"
+   "ultimum, ultimī" "the utmost, greatest, end"
 
    "ultiō" "vengeance, revenge"
    "ultiō, ultiōnis" "vengeance, revenge"
@@ -14095,6 +14107,7 @@
    "volens" "wanting"
    "velle" "to want"
    "volō, velle, voluī, -" "to want"
+   "volentēs" "willing"
    
    "vōcem" "voice"
    "vōx" "voice"
