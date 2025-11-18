@@ -1882,6 +1882,7 @@
    "appellābātur" "he was being called"
    "appellant" "they called"
    "appellantur" "they are called"
+   "appellārētur" "it was called"
    "appellatur" "they are called"
    "appellātī" "having been called"
    "appellātus" "having been called"
@@ -2218,6 +2219,7 @@
    "abstulisset" "he (might) have carried away"
    "abstulērunt" "they carried away"
    "auferēbant" "they were carrying away"
+   "auferre" "to carry away, to remove"
    "auferō, auferre, abstulī, ablātus" "to carry away, to remove"
 
    "aufugit" "he flees"
@@ -2950,6 +2952,7 @@
 
    "chrīstiānī" "Christians"
    "chrīstiānōrum" "of Christians"
+   "chrīstiānōs" "Christians"
    "chrīstiānus, chrīstiānī" "Christian"
 
    "cibāre" "to feed"
@@ -3328,7 +3331,7 @@
    "compāruit" "it appeared, came in sight"
    "compāreō, compārēre, compāruī, compāritus" "to appear, come in sight"
 
-   "compulsī" "having been complelled"
+   "compulsī" "having been compelled"
    "compellere" "to compel"
    "compellō, compellere, compulī, compulsus" "to compel"
 
@@ -3800,6 +3803,8 @@
    "continuus, continua, continuum" "continuous"
    
    "contrīstātus" "being saddened"
+   "contrīstārī" "to be saddened"
+   "contrīstāre" "to sadden"
    "contrīstō, contrīstāre, contrīstāvī, contrīstātus" "to sadden"
 
    "contrōversia" "dispute"
@@ -3809,6 +3814,10 @@
 
    "contumēliīs" "insults"
    "contumēlia, contumēliae" "insults"
+
+   "conturbārī" "to be confused"
+   "conturbāre" "to confuse"
+   "conturbō, conturbāre, conturbāvī, conturbātus" "to confuse"
 
    "convēnerant" "they had come together"
    "conveniant" "they (might) meet together"
@@ -5552,6 +5561,7 @@
    "fac" "do! make!"
    "fēcerant" "they had made, done"
    "factūrī" "having been done"
+   "factūrum" "doing"
 
    "facile" "easy"
    "facilius" "easier"
@@ -5747,6 +5757,7 @@
    "fidēs, fideī" "faith"
 
    "fīdūcia" "trust, confidence, courage"
+   "fīdūciam" "trust, confidence, courage"
    "fīdūcia, fīdūciae" "trust, confidence, courage"
    
    "fīgite" "fasten! fix!"
