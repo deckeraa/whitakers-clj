@@ -130,6 +130,7 @@
    "bis" "twice"
    "boiōs" "the Boii, who live across the Rhine from the Helvetii"
    "Bonifacius" "Saint Boniface, AD 675-754"
+   "Boamundō" "Bohemond"
    "Boamundum" "Bohemond"
    "Boamundus" "Bohemond"
    "Boamundī" "of Bohemond"
@@ -1818,6 +1819,10 @@
    "anteriōribus" "earlier, previous, former"
    "anterior, anterior, anterius" "earlier, previous, former"
 
+   "antiochīa" "Antioch (city in Roman Syria/modern Turkey)"
+   "Antiochīa" "Antioch (city in Roman Syria/modern Turkey)"
+   "Antiochīa, Antiochīae" "Antioch (city in Roman Syria/modern Turkey)"
+
    "antīqua" "ancient"
    "antīquam" "ancient"
    "antīquī" "of the ancient"
@@ -3115,6 +3120,7 @@
    "cōgeret" "he collected, forced"
    "coēgērunt" "they collected, they forced"
    "coācta" "having been forced"
+   "coāctī" "having been forced"
    "coāctūrōs" "to be assembled, to be forced"
    "cōgere" "to collect, to force"
    "cōgō, cōgere, coēgī, coāctus" "to collect, to force"
@@ -3319,6 +3325,10 @@
 
    "compāruit" "it appeared, came in sight"
    "compāreō, compārēre, compāruī, compāritus" "to appear, come in sight"
+
+   "compulsī" "having been complelled"
+   "compellere" "to compel"
+   "compellō, compellere, compulī, compulsus" "to compel"
 
    "compendiī" "compendium, abstract, saving"
    "compendiō" "compendium, abstract, saving"
@@ -4522,6 +4532,7 @@
    "dictam" "having been said"
    "dīxisse" "to have said"
    "dīxerō" "I will have said"
+   "dīcent" "they will say"
    "dīcō, dīcere, dīxī, dictus" "to say"
 
    "dictābat" "he was saying"
@@ -4957,6 +4968,7 @@
    "duplicem" "double"
 
    "dūra" "hard"
+   "dūrī" "hard"
    "dūrior" "harder"
    "dūrius" "harder"
    "dūrum" "hard"
@@ -5051,6 +5063,10 @@
    "ēgredī" "to go out, to egress"
    "ēgressum" "having gone out"
    "ēgredior, ēgredī, ēgressus sum" "to go out, to egress"
+
+   "ēiēcerat" "he had cast out"
+   "ēicere" "to cast out"
+   "ēiciō, ēicere, ēiēcī, ēiectus" "to cast out"
    
    "eius" "his, hers, its"
 
@@ -5443,6 +5459,11 @@
    "extendō, extendere, extendī, extentus" "to extend"
    "extendō, extendere, extendī, extensus" "to extend"
 
+   "extēnsiō"   "extension, stretching"
+   "extēnsiōne" "extension, stretching"
+   "extēnsiōnis" "extension, stretching"
+   "extēnsiō, extēnsiōnis" "extension, stretching"
+
    "externīs" "outside, foreign"
    "externus, externa, externum" "outside, foreign"
 
@@ -5528,6 +5549,7 @@
    "faciendae" "doing, making"
    "fac" "do! make!"
    "fēcerant" "they had made, done"
+   "factūrī" "having been done"
 
    "facile" "easy"
    "facilius" "easier"
@@ -5931,6 +5953,7 @@
    "fortiōrēs" "stronger"
    "fortis" "strong"
    "fortissimē" "very strong"
+   "fortissimō" "very strong"
    "fortis, forte, fortior -or -us, fortissimus -a -um" "strong"
 
    "fortissima" "very strong"
