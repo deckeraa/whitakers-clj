@@ -317,6 +317,7 @@
    "forās" "outside (adverb)"
    "foret" "he (might) have been; subjunctive imperfect from esse"
    "forīs" "outside (adverb)"
+   "forsitan" "maybe"
    "fortasse" "maybe, perhaps"
    "forte" "by chance"
    "fortiter" "strongly (adverb from fortis, forte)"
@@ -712,6 +713,7 @@
    "quā" "what; singular female ablative of qui"
    "quae" "who; plural female nom. or neuter nom. or acc. of quis"
    "quam" "how? how much?"
+   "quemadmodum" "how"
    "quamdiū" "as long as"
    "quamquam" "though, on the other hand"
    "quamvīs" "as much, as much as one wants, however"
@@ -973,6 +975,7 @@
    "Turnō" "Turnus, a king of the Rutuli killed by Aeneas (ablative or dative case)"
    "ubī" "where, when if"
    "ubicumque" "everywhere"
+   "ūllātenus" "up to this point"
    "ultrā" "beyond, further"
    "ultrō" "beyond, further"
    "umquam" "ever"
@@ -3544,6 +3547,7 @@
    "congregāre" "to congregate, gather"
    "congregārī" "to be gathered"
    "congregāta" "having been gathered"
+   "congregātī" "having been gathered"
    "congregātōs" "having been gathered"
    "congregantur" "they are gathered"
    "congregō, congregāre, congregāvī, congregātus" "to congregate, gather"
@@ -3640,6 +3644,7 @@
 
    "cōnsilia"  "plans, advice, councils"
    "cōnsiliī"  "of plans, of advice, of councils"
+   "cōnsiliīs" "plans, advice, councils"
    "cōnsiliō"  "plan, advice, council"
    "cōnsilium" "plan, advice, council"
    "cōnsilium, cōnsiliī" "plan, advice, council"
@@ -4164,6 +4169,7 @@
    "dēbēs" "you should"
    "dēbet" "he should"
    "dēbētis" "you should"
+   "dēbērent" "they should"
    "dēbēre" "to owe, to ought"
    "dēbeō, dēbēre, dēbuī, dēbitus" "to owe, to ought"
    
@@ -6499,6 +6505,9 @@
    "honestāvit" "he honored, dignified"
    "honestō, honestāre, honestāvī, honestātum" "to honor, dignify"
 
+   "honestissimum" "very honest, distinguished, worthy"
+   "honestus, honesta -um, honestior -or -us, honestissimus -a -um" "honest, distinguished, worthy"
+
    "honore" "honor"
    "honorem" "honor"
    "honor, honōris" "honor"
@@ -6532,6 +6541,8 @@
    "hortātus" "encouragement, exhortation"
    "hortātus, hortātūs" "encouragement, exhortation"
 
+   "hospitārī" "to be lodged"
+   "hospitātō"  "having been lodged"
    "hospitātus" "having been lodged"
    "hospitāre" "to offer hospitality, to lodge"
    "hospitō, hospitāre, hospitāvī, hospitātus" "to offer hospitality, to lodge"
@@ -6942,6 +6953,9 @@
    "indīgnātus" "having been scorned"
    "indīgnor, indīgnārī, indīgnātus sum" "deem unworthy, scorn"
 
+   "indignī" "indignant"
+   "indignus, indigna -um, indignior -or -us, indignissimus -a -um" "indignant"
+
    "inductus" "having been inducted"
    "indūcere" "to induct"
    "indūcō, indūcere, indūxī, inductus" "to induct"
@@ -7034,6 +7048,9 @@
    "ingemuit" "he sighed"
    "ingemō, ingemere, ingemuī, ingemitus" "to sigh"
 
+   "ingeniōsīs" "clever, ingenious, apt"
+   "ingeniōsus, ingeniōsa -um, ingeniōsior -or -us, ingeniōsissimus -a -um" "clever, ingenious, apt"
+
    "ingenitum" "implanted, endangered"
    "ingenitus, ingenita, ingenitum" "implanted, endangered"
    
@@ -7089,6 +7106,7 @@
    "iniūria, iniūriae" "wrong, offense, injury"
    
    "iniūste" "unjust"
+   "iniūstum" "unjust"
    "injūstus, injūsta, injūstum" "unjust"
    
    "inlaesus" "unharmed"
@@ -7356,6 +7374,7 @@
    "invenit" "he finds, he found"
    "inventī" "having been found"
    "inveniātis" "you might find"
+   "inventa"  "having been found"
    "inventae" "having been found"
    "inventum" "having been found"
    "inventus" "having had found"
@@ -7538,6 +7557,7 @@
 
    "iūrāvit" "he swore"
    "iūrent" "they swear"
+   "iūrāre" "to swear"
    "iūrō, iūrāre, iūrāvī, iūrātus" "to swear"
 
    "iūreiūrandō" "oath"
@@ -8079,6 +8099,9 @@
 
    "maleficiō" "crime, misdeed"
    "maleficium, maleficiī" "crime, misdeed"
+
+   "malīgnus" "wicked, malignant"
+   "malīgnus, malīgna, malīgnum" "wicked, malignant"
 
    "malitiae" "malice"
    "malitia, malitiae" "malice"
@@ -8911,6 +8934,7 @@
    "nocēret" "he (might) have harmed"
    "nocērī" "to be harmed"
    "nocuit" "he harmed"
+   "nocendī" "harming"
    "nocēre" "to harm"
    "noceō, nocēre, nocuī, nocitus" "to harm"
 
@@ -10547,6 +10571,10 @@
    "prīstinī" "previous"
    "prīstinus, prīstina, prīstinum" "previous"
 
+   "prīvārentur" "they were deprived"
+   "prīvāre" "to deprive"
+   "prīvō, prīvāre, prīvāvī, prīvātum" "to deprive"
+
    "prīvāta" "private"
    "prīvātus, prīvāta, prīvātum" "private"
 
@@ -10671,6 +10699,7 @@
    "prohibent" "they prevent, they restrain"
    "prohibuit" "he prevented, he restrained"
    "prohibērent" "they (might) have been preventing"
+   "prohibuērunt" "they prevented, restrained"
    "prohibēre" "to prevent, to restrain"
    "prohibeō, prohibēre, prohibuī, prohibitus" "to prevent, to restrain"
    
@@ -11076,6 +11105,7 @@
    "recēperat" "he had received"
    "recēpimus" "we received"
    "recēpit" "he received"
+   "recipī" "to be received"
    "recipere" "to receive"
    "recipiō, recipere, recēpī, receptus" "to receive"
    
@@ -11359,6 +11389,7 @@
    "reperītur" "it is discovered, found"
    "reperiuntur" "they are discovered"
    "reperiētur" "will be discovered, found out"
+   "repperērunt" "they discovered, found out"
    "reperiō, reperīre, repperī, repertus" "to discover, find out"
 
    "repetendus" "demanding back, returning"
@@ -11472,6 +11503,7 @@
    "revēlābō" "I will reveal"
    "revēlāre" "to reveal"
    "revēlēs" "you reveal"
+   "revēlante" "revealing"
    
    "revēlātiō" "revelation"
    "revēlātiōnem" "revelation"
@@ -11865,6 +11897,10 @@
    "scēptrum" "scepter"
    "scēptrī" "scepter"
    "scēptrum, scēptrī" "scepter"
+
+   "schēma" "plan, figure, form, posture"
+   "schēmatibus" "plans, figures, forms, postures"
+   "schēma, schēmatis" "plan, figure, form, posture"
    
    "sciō" "I know"
    "sciēbat" "he was knowing"
@@ -11909,6 +11945,9 @@
    "sēcēdit" "he withdraws"
    "sēcēdere" "to withdraw"
    "sēcēdō, sēcēdere, sēcessī, sēcessus" "to withdraw"
+
+   "sēcrētō" "secret"
+   "sēcrētus, sēcrēta -um, sēcrētior -or -us, sēcrētissimus" "secret"
    
    "sēcrēta" "secrets"
    "sēcrētīs" "secrets"
@@ -13033,6 +13072,7 @@
    "timuērunt" "they feared"
    "timuistis" "you feared"
    "timenda" "to be feared"
+   "timentēs" "fearing"
    "timeās" "you fear"
    "timēre" "to fear"
    "timeō, timēre, timuī, -" "to fear"
