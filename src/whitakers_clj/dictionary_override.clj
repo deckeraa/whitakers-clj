@@ -1759,6 +1759,7 @@
    "angustus" "small space, narrow passage, being boxed in"
 
    "angusta" "narrow"
+   "angustam" "narrow"
    "angustior" "narrower"
    "angustius" "narrower"
    "angustus, angusta -um, angustior -or -us, angustissimus -a -um" "narrow"
@@ -1853,8 +1854,10 @@
    "apertā"  "having been opened"
    "apertō"  "having been opened"
    "apertum" "having been opened"
+   "aperīre" "to open"
    "aperiō, aperīre, aperuī, apertus" "to open"
    "aperiēs" "you will open"
+   "aperīrent" "they might open"
 
    "apum" "of bees"
    "apis, apis" "bee"
@@ -2790,6 +2793,9 @@
    "castrōrum" "of forts"
    "castrum" "fort"
    "castrum, castrī" "fort"
+
+   "castramētātī" "encamped"
+   "castramētor, castramētārī, castramētātus sum" "to encamp"
 
    "cāsum" "fall, downward movement"
    "cāsus" "fall, downward movement"
