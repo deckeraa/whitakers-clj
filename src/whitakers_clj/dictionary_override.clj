@@ -272,6 +272,7 @@
    "ex" "out of, from"
    "ecce" "Look! Behold!"
    "Egidīō" "Raimundus comes dē Sānctō Egidīō = Raymond of Saint-Gilles"
+   "Egidīī" "Egidīī: comes dē Sānctō Egidīō = Raymond of Saint-Gilles"
    "eī" "to him, her, or it; singular dative from is, ea, id"
    "eōs" "to them; plural masculine accusative from is, ea, id"
    "eius" "his/her/its"
@@ -928,6 +929,7 @@
    "Syon" "Zion"
    "Synai" "Sinai"
    "Tamesis" "Thames river"
+   "Tancredō" "Tancred, Prince of Galilee (1075–1112) (dative or ablative case)"
    "Tancredus" "Tancred, Prince of Galilee (1075–1112) (nominative case)"
    "Tancredum" "Tancred, Prince of Galilee (1075–1112) (accusative case)"
    "Tasgetī" "Tasgetius, a chief of the Carnutes (genitive case)"
@@ -8158,6 +8160,7 @@
    "mamillās" "breasts"
    "mamilla, mamillae" "breast"
 
+   "mandābat" "he was entrusting"
    "mandāta" "having been entrusted"
    "mandāverat" "he had entrusted"
    "mandāvit" "he commanded"
@@ -9851,6 +9854,7 @@
    "percutiō, percutere, percussī, percussus" "to strike, to beat"
    "percutientēs" "striking, beating"
 
+   "perditā"  "lost"
    "perditum" "lost"
    "perdō, perdere, perdidī, perditus" "to lose"
    
@@ -9920,6 +9924,7 @@
 
    "peregrīnus" "traveler"
    "peregrīnī" "travelers"
+   "peregrīnōrum" "of pilgrims, travelers"
    "peregrīnōs" "pilgrims, travelers"
    "peregrīnus, peregrīnī" "traveler"
 
@@ -9951,6 +9956,7 @@
 
    "permīsit" "he allowed, permitted"
    "permittam" "I will permit"
+   "permitteret" "he might permit"
    "permitte" "permit! allow!"
    "permittō, permittere, permīsī, permissus" "to permit, to allow"
 
@@ -10741,6 +10747,7 @@
    "prohibuit" "he prevented, he restrained"
    "prohibērent" "they (might) have been preventing"
    "prohibuērunt" "they prevented, restrained"
+   "prohibēret" "he might prevent, restrain"
    "prohibēre" "to prevent, to restrain"
    "prohibeō, prohibēre, prohibuī, prohibitus" "to prevent, to restrain"
    
@@ -11513,6 +11520,10 @@
    "restāret" "he stayed behind, remained"
    "restāre" "to stay behind, to remain"
    "restō, restāre, restitī, -" "to stay behind, to remain"
+
+   "restaurāret" "he might restore, rebuild"
+   "restaurāre" "to restore, to rebuild"
+   "restaurō, restaurāre, restaurāvī, restaurātus" "to restore, to rebuild"
    
    "resurrēctiōnis" "resurrection"
    "resurrēctiōnem" "resurrection"
@@ -11996,6 +12007,10 @@
 
    "sectābātur" "he was running after, he was hunting out"
    "sector, sectārī, sectātus sum" "to run after, to hunt out"
+
+   "sēcūritās"   "security, safety"
+   "sēcūritātem" "security, safety"
+   "sēcūritās, sēcūritātis" "security, safety"
 
    "sēcūrī" "untroubled, carefree"
    "sēcūrōs" "untroubled, carefree"
@@ -13953,6 +13968,10 @@
    "vindicandum" "vindicating"
    "vindicāvit" "he vindicated, avenged"
    "vindicō, vindicāre, vindicāvī, vindicātus" "to vindicate, avenge"
+
+   "vindicta"  "protection, revenge, punishment"
+   "vindictam" "protection, revenge, punishment"
+   "vindicta, vindictae" "protection, revenge, punishment"
 
    "vīnī" "wine"
    "vīnum" "wine"
