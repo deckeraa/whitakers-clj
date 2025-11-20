@@ -345,7 +345,7 @@
    "germānōs" "Germans"
    "Germānōs" "Germans"
    "gesta" "deeds, acts"
-   "Godefridus" "Godfrey of Bouillon (~1060-1100 AD), first rule of the Kingdom of Jerusalem"
+   "Godefridus" "Godfrey of Bouillon (~1060-1100 AD), first ruler of the Kingdom of Jerusalem"
    "Goliae" "of Goliath, the Philistine giant that David slew; from Golias, Goliae."
    "gravissimē" "very gravely"
    "Grifa" "griffin, a lion-eagle hybrid; from grifa, grifae"
@@ -3495,6 +3495,7 @@
    "condūxit" "he assembled"
    "condūcēbant" "they were assembling"
    "condūceret" "they might assemble"
+   "condūcī" "to be assembled"
    "condūcere" "to assemble"
    "condūcō, condūcere, condūxī, conductus" "to assemble"
 
@@ -4382,6 +4383,10 @@
    "dēmorābantur" "they were dwelling, they were delaying"
    "dēmorārī" "to detain, to delay, to dwell"
    "dēmoror, dēmorārī, dēmorātus sum" "to detain, to delay, to dwell"
+
+   "dēnāriīs" "denarii. A denarius is a type of coin"
+   "dēnārius" "denarius. A denarius is a type of coin"
+   "dēnārius, dēnāriī" "denarius. A denarius is a type of coin"
 
    "dēnsissimīs" "very dense"
    "dēnsus, dēnsa -um, dēnsior -or -us, dēnsissimus -a -um" "dense"
