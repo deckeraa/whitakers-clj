@@ -6280,6 +6280,11 @@
    "gigans" "giant"
    "gigantis" "giant"
    "gigans, gigantis" "giant"
+
+   "gladiīs" "swords"
+   "gladius" "sword"
+   "gladius, gladiī" "sword"
+   
    "globus" "ball, globe"
    "globus, globī" "ball, globe"
    "glōria" "glory, fame, honor"
@@ -6781,6 +6786,7 @@
    
    "immēnsae" "immense, boundless"
    "immēnsa"  "immense, boundless"
+   "immēnsam"  "immense, boundless"
    "immēnsīs" "immense, boundless"
    "immēnsus, immēnsa, immēnsum" "immense, boundless"
    
@@ -6931,6 +6937,7 @@
    
    "incīsa" "having been cut"
    "incīdī" "to be cut"
+   "incīdissent" "they had cut into"
    "incīdō, incīdere, incīdī, incīsus" "to cut into"
 
    "incitāta" "having been incited"
@@ -7612,6 +7619,7 @@
    "iūrō, iūrāre, iūrāvī, iūrātus" "to swear"
 
    "iūreiūrandō" "oath"
+   "iūsiūrandum" "oath"
    "iūsiūrandum, iūrisiūrandī" "oath"
 
    "iūra" "laws, rights, justice"
@@ -7925,6 +7933,9 @@
    "lignātōribus" "woodcutter"
    "lignātor, lignātōris" "woodcutter"
 
+   "līgneās" "wooden"
+   "ligneus, lignea, ligneum" "wooden"
+
    "ligna" "wood"
    "lignīs" "wood"
    "lignum" "wood"
@@ -8175,6 +8186,7 @@
    "mandāta" "having been entrusted"
    "mandāverat" "he had entrusted"
    "mandāvit" "he commanded"
+   "mandārent" "they might entrusted"
    "mandāre" "to entrust"
    "mandō, mandāre, mandāvī, mandātus" "to entrust"
    
@@ -8424,6 +8436,7 @@
    "mīlitum" "of soldiers"
    "mīles, mīlitis" "soldier"
 
+   "mīlitia"  "military"
    "mīlitiae" "military"
    "mīlitia, mīlitiae" "military"
    
@@ -8614,6 +8627,7 @@
    "mōnstrātur" "it is pointed out"
    "mōnstrō, mōnstrāre, mōnstrāvī, mōnstrātus" "to point out"
 
+   "montanam" "mountainous"
    "montānās" "mountainous"
    "montānīs" "mountainous"
    "montānus, montāna, montānum" "mountainous"
@@ -9698,7 +9712,12 @@
 
    "patet" "it lies open"
    "patēbant" "they stood open, they lied open"
+   "patēret" "it was lying open"
    "pateō, patēre, patuī, -" "to stand open, to extend, to lie open"
+
+   "patefacta" "having been opened, revealed"
+   "patefacere" "to open, reveal"
+   "patefaciō, patefacere, patefēcī, patefactum" "to open, reveal"
    
    "pater" "father"
    "pater, patris" "father"
@@ -9935,6 +9954,7 @@
 
    "peregrīnus" "traveler"
    "peregrīnī" "travelers"
+   "peregrīnīs" "travelers"
    "peregrīnōrum" "of pilgrims, travelers"
    "peregrīnōs" "pilgrims, travelers"
    "peregrīnus, peregrīnī" "traveler"
