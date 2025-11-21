@@ -184,6 +184,7 @@
    "circā" "around, about, concerning"
    "circiter" "near, close, about"
    "circum" "about, around, near"
+   "circumquaque" "on every side; all around"
    "citissimē" "very swiftly"
    "citō" "quickly"
    "clam" "secretly, stealthily, without the knowledge of"
@@ -516,6 +517,7 @@
    "Kyarragi" "A region in western Ireland"
    "lacum" "lake; singular masculine accusative from lacus, lacūs."
    "lātē" "widely; adverb from lātus, -a, -um"
+   "latenter" "secretly, privately; in concealment, without being seen/perceived;"
    "Latobrigīs" "Latobrigi, neighbors to the Helvetii"
    "Lāvīniam" "Lavinia, the wife of Aeneas"
    "Lemanno" "Lake Geneva"
@@ -585,6 +587,7 @@
    "nēminem" "no one (accusative cas)"
    "neque" "not, not either"
    "nēquiter" "wickedly"
+   "Nīcēam" "Nicea"
    "Nicēnam" "Nicea"
    "nihil" "not at all"
    "nimia" "too much"
@@ -789,6 +792,7 @@
    "retrō" "behind, backwards"
    "reversa" "reversa + est = it returned"
    "reversus" "reversus + est = he returned"
+   "Richardus" "Richardus dē Prīncipātū = Richard of the Principality a.k.a. Richard of Salerno"
    "rīvulum" "rivulet, small brook"
    "rīvulus, rīvulī" "rivulet, small brook"
    "rōmānī" "Romans"
@@ -1001,6 +1005,7 @@
    "utcumque" "as soon as, by any means"
    "utcunque" "as soon as, by any means"
    "utrimque" "both sides"
+   "utrinque" "both sides"
    "utrum" "whether"
    "vae" "woe"
    "valdē" "very"
@@ -1418,6 +1423,7 @@
    "aggrederētur" "they were attacking"
    "aggredio, aggredere, aggressī, aggressus" "to attack"
 
+   "aggredimur" "he attacks"
    "aggredī" "to attack"
    "aggredior, aggredī, aggressus" "to attack"
 
@@ -1941,6 +1947,10 @@
    "appropinquāvit" "he approached"
    "appropinquante" "approaching"
 
+   "approximent" "they might approach"
+   "approximāre" "to approach"
+   "approximō, approximāre, approximāvī, approximātus" "to approach"
+
    "aptārī" "to be adapted, to be fit in"
    "aptāre" "to adapt, to fit in"
    "aptō, aptāre, aptāvī, aptātus" "to adapt, to fit in"
@@ -2054,6 +2064,7 @@
    "armāmentum, armāmentī" "equipment"
 
    "armārī" "to be armed, to be rigged"
+   "armātus" "having been armed"
    "armāvit" "he armed, he rigged"
    "armō, armāre, armāvī, armātus" "to arm, to rig"
 
@@ -2119,6 +2130,11 @@
    "ascendērunt" "they had ascended"
    "ascensum" "ascent"
    "ascensus, ascensūs" "ascent"
+
+   "ascēnsiō"    "ascent"
+   "ascēnsiōnem" "ascent"
+   "ascēnsiōnis" "ascent"
+   "ascēnsiō, ascēnsiōnis" "ascent"
 
    "asellus" "small ass"
    "asellus, asellī" "small ass"
@@ -2710,6 +2726,7 @@
    
    "capita" "head"
    "capitī" "head"
+   "capitibus" "heads"
    "capitis" "head"
    "caput" "head"
    "caput, capitis" "head"
@@ -2911,6 +2928,7 @@
 
    "certā" "certain"
    "certō" "certain"
+   "certum" "certain"
    "certus, certa, certum" "certain"
    
    "certāmine" "contest, struggle"
@@ -8150,6 +8168,10 @@
    
    "māiestās, māiestātis" "majesty"
    "māiestātem" "majesty"
+
+   "maiī" "of May"
+   "Maiī" "of May"
+   "Maius, Maia, Maium" "May"
    
    "maledīcitis" "you curse"
    "maledictus" "cursing"
@@ -8959,6 +8981,10 @@
 
    "necis" "death, slaughter"
    "nex, necis" "death, slaughter"
+
+   "nīcomediam" "Nicomedia"
+   "Nīcomedia" "Nicomedia"
+   "Nīcomedia, Nīcomediae" "Nicomedia"
 
    "nīdus" "nest"
    "nīdus, nīdī" "nest"
@@ -12043,6 +12069,10 @@
    "sēcūritātem" "security, safety"
    "sēcūritās, sēcūritātis" "security, safety"
 
+   "secūribus" "axes"
+   "secūris" "axe"
+   "secūris, secūris" "axe"
+
    "sēcūrī" "untroubled, carefree"
    "sēcūrōs" "untroubled, carefree"
    "sēcūrus, sēcūra, sēcūrum" "untroubled, carefree"
@@ -12626,6 +12656,7 @@
    "stāre" "to stand, to remain"
    "stetisset" "he (might) have had stood"
    "stetissent" "they (might) have had stood"
+   "stāret" "it might stand"
    "stō, stāre, stetī, status" "to stand, to remain"
 
    "statūra" "stature"
@@ -12634,6 +12665,10 @@
    "statūra, statūrae" "stature"
    "statū" "state, status"
    "status, statūs" "state, status"
+
+   "stīpitēs" "posts"
+   "stīpes" "post"
+   "stīpes, stīpitis" "post"
 
    "strāge"  "overthrow, destruction"
    "strāgem" "overthrow, destruction"
@@ -13477,6 +13512,9 @@
    "tyrannus" "tyrant"
    "tyrannus, tyrannī" "tyrant"
 
+   "ūbertās" "abundance, plenty"
+   "ūbertās, ūbertātis" "abundance, plenty"
+
    "ulcīscendī" "avenging, punishing"
    "ulcīscor, ulcīscī, ultus sum" "to avenge, punish"
 
@@ -13719,6 +13757,7 @@
    "vēlum, vēlī" "sail, cloth"
 
    "vēndēbant" "they were selling"
+   "vēnderētur" "was being sold"
    "vēndere" "to sell"
    "vēndō, vēndere, vēndidī, vēnditus" "to sell"
    
