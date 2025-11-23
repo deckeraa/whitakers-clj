@@ -3828,7 +3828,8 @@
    "continuē" "continually"
    "continuī" "continually"
    "continuus, continua, continuum" "continuous"
-   
+
+   "contrīstābit" "he will sadden"
    "contrīstātus" "being saddened"
    "contrīstārī" "to be saddened"
    "contrīstāre" "to sadden"
@@ -4037,6 +4038,7 @@
    "crucem" "cross"
    "crucēs" "crosses"
    "crux" "cross"
+   "crucis" "cross's"
    "crux, crucis" "cross"
    "crucibus" "crosses"
 
@@ -4448,8 +4450,10 @@
 
    "dēscendentēs" "descending"
    "dēscenderant" "they had descended"
+   "dēscendērunt" "they descended"
    "dēscendisse" "to have descended"
    "dēscendit" "he descended"
+   "dēscendere" "to descend"
    "dēscendō, dēscendere, dēscendī, dēscēnsus" "to descend"
 
    "dēserta" "deserts"
@@ -4994,6 +4998,7 @@
    "ductus" "having been lead"
    "dūcī" "to be lead"
    "dūcō, dūcere, dūxī, ductus" "to lead"
+   "dūcerent" "they might lead"
    
    "ductor" "leader"
    "ductor, ductōris" "leader"
@@ -5530,7 +5535,10 @@
    "exul, exulis" "exile, wanderer"
    
    "exultābant" "they were exulting, they were rejoicing"
+   "exultantēs" "exulting"
+   "exultāre" "to exult, to rejoice"
    "exultō, exultāre, exultāvī, exultātus" "to exult, to rejoice"
+   
    "exultatiōne" "exultation"
    "exultatiō, exultatiōnis" "exultation"
    "exūritur" "it is burned"
