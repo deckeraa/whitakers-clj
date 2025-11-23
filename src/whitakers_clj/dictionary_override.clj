@@ -5954,6 +5954,7 @@
 
    "fōdērunt" "they dug"
    "fodere" "to dig"
+   "foderēmus" "we were digging"
    "fodiēbant" "they were digging"
    "fodite" "dig!"
    "fodiō, fodere, fōdī, fossus" "to dig"
@@ -6162,6 +6163,10 @@
    "fultī" "having been supported"
    "fultum" "having been supported"
    "fulciō, fulcīre, fulsī, fultus" "to prop up, support"
+
+   "fulgēbat" "it was flashing, shining, glowing"
+   "fulgēre" "to flash, shine, glow"
+   "fulgeō, fulgēre, fulsī, -" "to flash, shine, glow"
    
    "fūmōsus" "smoky"
    "fūmōsus, fūmōsa, fūmōsum" "smoky"
@@ -6225,6 +6230,7 @@
    "gaudium, gaudiī" "joy, delight"
 
    "gaudēns" "rejoicing"
+   "gaudentēs" "rejoicing"
    "gaudet" "he rejoices"
    "gavīsus" "having been rejoiced"
    "gaudeō, gaudēre, gavīsus sum" "to rejoice"
@@ -7285,6 +7291,10 @@
    "īnstitit" "he pursued, he threatened"
    "īnstō, īnstāre, īnstitī, -" "to pursue, to threaten"
 
+   "īnstrūmenta" "instruments, tools"
+   "īnstrūmentum" "instrument, tool"
+   "īnstrūmentum, īnstrūmentī" "instrument, tool"
+
    "īnsuēfactōs" "accustomed, well-trained"
    "īnsuēfactus, īnsuēfacta, īnsuēfactum" "accustomed, well-trained"
    
@@ -7415,6 +7425,10 @@
 
    "intrōgressī" "having entered"
    "intrōgredior, intrōgredī, intrōgressus sum" "to enter"
+
+   "introeant" "they might go in, invade"
+   "introīre" "to go in, invade"
+   "introeō, introīre, introivi(iī), introitus" "to go in, invade"
    
    "introitus" "entrance"
    "introitum" "entrance"
