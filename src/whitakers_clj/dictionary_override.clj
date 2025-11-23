@@ -777,6 +777,7 @@
    "quondam" "sometimes"
    "quot" "how many?"
    "quotiēns" "how many times?"
+   "quotquot" "however many"
    "Raimundus" "Raymond"
    "Rainoldus" "a leader of the crusaders chosen by the Lombards and Longobards"
    "raptim" "quickly, hastily"
@@ -7978,6 +7979,7 @@
 
    "ligna" "wood"
    "lignīs" "wood"
+   "lignōrum" "of wood"
    "lignum" "wood"
    "lignum, lignī" "wood"
 
@@ -8820,6 +8822,9 @@
    "mūnere" "gift"
    "mūnera" "gifts"
    "mūnus, mūneris" "gift"
+
+   "mūrālēs" "walled"
+   "mūrālis, mūrālis, mūrāle" "walled"
 
    "mūrō" "city wall"
    "mūrīs" "city walls"
@@ -10357,6 +10362,7 @@
    "portiō, portiōnis" "share, part, portion"
    
    "portīs" "gates"
+   "porta" "gate"
    "portam" "gate"
    "porta, portae" "door, entrance"
 
@@ -10421,6 +10427,7 @@
    "potuistī" "you were able"
    "potuisse" "to have been able"
    "potes" "you can"
+   "possēmus" "they might have been able"
 
    "posteriōrēs" "following, next"
    "posteriōrem" "following, next"
@@ -10833,6 +10840,7 @@
    "prōiēcit" "he threw down"
    "prōiectus" "having been thrown down"
    "prōicere" "to throw down"
+   "prōiciēbant" "they were throwing down"
    "prōiciunt" "they throw down"
    "prōiciō, prōicere, prōiēcī, prōiectus" "to throw down"
 
@@ -10927,6 +10935,10 @@
    "prosternēbantur" "they were being stricken down"
    "prostrāverat" "he had struck down"
    "prosternō, prosternere, prostrāvī, prostrātus" "to prostrate"
+
+   "prōtēctus" "having been covered, protected"
+   "prōtegere" "to cover, protect"
+   "prōtegō, prōtegere, prōtēxī, prōtēctus" "to cover, protect"
 
    "prōvectae" "having been carried forward"
    "prōvehō, prōvehere, prōvēxī, prōvectus" "to carry forward, to sail"
@@ -13171,6 +13183,10 @@
    "terrēnum" "land, ground"
    "terrēnum, terrēnī" "land, ground"
 
+   "terrēnīs" "earthly"
+   "terrēnus, terrēna, terrēnum" "earthly"
+
+   "terrērentur" "they were being frightened"
    "territa" "having been frightened"
    "terruit" "he frightened"
    "terrēre" "to frighten"
@@ -13294,6 +13310,7 @@
    "trāditor, trāditōris" "traitor"
    
    "trahēbat" "he was drawing, he was dragging"
+   "trahentēs" "drawing, dragging"
    "trahit" "he draws, drags"
    "trahitur" "it is drawn"
    "trahuntur" "they are drawn, dragged"
@@ -13508,6 +13525,7 @@
    "turpissima" "ugly, nasty, repulsive, shameful"
    "turpis, turpe, turpior -or -us, turpissimus -a -um" "ugly, nasty, repulsive, shameful"
 
+   "turrēs" "towers"
    "turrim" "tower"
    "turris" "tower"
    "turris, turris" "tower"
