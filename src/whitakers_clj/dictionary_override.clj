@@ -94,6 +94,7 @@
    "aptota" "indeclinable, from άπτωτος"
    "aptoton" "indeclinable, from άπτωτος"
    "apud" "at, by, near"
+   "arbalistae" "crossbowmen; plural feminine nominative from arbalista, arbalistae"
    "Ariovistus" "A German king"
    "Ariovistī" "Ariovistus, a German King (genitive case)"
    "ariovistī" "Ariovistus, a German King (genitive case)"
@@ -4325,6 +4326,7 @@
    "dēfenderet" "he was defending"
    "dēfendistī" "you defended"
    "dēfendō" "I defend"
+   "dēfendant" "they might defend"
    "dēfendō, dēfendere, dēfendī, dēfēnsus" "to defend"
       
    "dēficiō, dēficere, dēfēcī, dēfectus" "to run short, to lack"
@@ -7741,6 +7743,7 @@
 
    "laederet" "he struck, wounded"
    "laeseris" "you will strike"
+   "laedere" "to strike, to wound"
    "laedō, laedere, laesī, laesus" "to strike, to wound"
    
    "laetī" "happy"
@@ -8831,6 +8834,7 @@
    "mūrōs" "city walls"
    "mūrum" "city wall"
    "mūrus" "city wall"
+   "mūrī" "of the city wall"
    "mūrus, mūrī" "city wall"
    
    "mustō" "must (new wine)"
@@ -11612,6 +11616,7 @@
    "restāre" "to stay behind, to remain"
    "restō, restāre, restitī, -" "to stay behind, to remain"
 
+   "restaurāvērunt" "they restored, rebuilt"
    "restaurāret" "he might restore, rebuild"
    "restaurāre" "to restore, to rebuild"
    "restaurō, restaurāre, restaurāvī, restaurātus" "to restore, to rebuild"
