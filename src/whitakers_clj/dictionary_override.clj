@@ -310,6 +310,7 @@
    "factū" "to be done, supine of facere"
    "fēlīciter" "happily"
    "ferē" "nearly, almost, about"
+   "festīnanter" "hastily, quickly"
    "fīant" "they might do; 3rd person plural subjunctive present from faciō, facere, fēcī, factus"
    "fidēliter" "faithfully"
    "fīdūciāliter" "confidently"
@@ -1499,6 +1500,7 @@
    "afferrī" "to be brought"
    "allāta" "having been carried"
    "allātīs" "having been carried"
+   "afferēbant" "they were bringing in"
    "afferō, afferre, attulī, allātus" "to carry"
    
    "āla, ālae" "wing"
@@ -2218,6 +2220,7 @@
    "ausam" "having been dared"
    "audente" "daring"
    "audērent" "they had dared"
+   "audēret" "he might dare"
    "audēre" "to dare"
    "audeō, audēre, ausus sum" "to dare"
 
@@ -3829,6 +3832,7 @@
    "continuōs" "continuous"
    "continuē" "continually"
    "continuī" "continually"
+   "continuō" "continually"
    "continuus, continua, continuum" "continuous"
 
    "contrīstābit" "he will sadden"
@@ -4582,6 +4586,7 @@
    "dīxisse" "to have said"
    "dīxerō" "I will have said"
    "dīcent" "they will say"
+   "dictūrōs" "saying"
    "dīcō, dīcere, dīxī, dictus" "to say"
 
    "dictābat" "he was saying"
@@ -5387,6 +5392,7 @@
    "exierant" "they had gone out"
    "exeuntēs" "going out"
    "exībat" "he was going out"
+   "exībant" "they were going out"
    
    "exilīvit" "he went out"
    "exiliō, exilīre, exilīvī, -" "to go out"
@@ -10407,6 +10413,10 @@
    "possidēbātur" "it was being possessed"
    "possideō, possidēre, possēdī, possessus" "to possess, to own, to seize, to occupy"
 
+   "postēs" "posts, doorposts"
+   "postis" "post, doorpost"
+   "postis, postis" "post, doorpost"
+
    "postumus" "late, particularly of a child born after a father's death"
    "postumus, postuma, postumum" "late, particularly of a child born after a father's death"
 
@@ -11906,6 +11916,10 @@
    "sagittābant" "they were shooting arrows"
    "sagittante" "shooting arrows"
    "sagittō, sagittāre, sagittāvī, sagittātus" "to shoot arrows"
+
+   "sagittāriī" "archers"
+   "sagittārius" "archer"
+   "sagittārius, sagittāriī" "archer"
    
    "sagus" "sage"
    "sagī" "sage"
@@ -12792,6 +12806,7 @@
    "subiūnxit" "he subdued, he joined"
    "subiungō, subiungere, subiūnxī, subiūnctus" "he subdued, he joined"
 
+   "submīsērunt" "they submitted"
    "submittēbat" "he was submitting"
    "submittō, submittere, submīsī, submissus" "to submit"
 
@@ -12874,6 +12889,11 @@
    
    "sufflantium" "inflating"
    "sufflō, sufflāre, sufflāvī, sufflātus" "inflating"
+
+   "suffodiant" "they might undermine, dig under"
+   "suffodī" "to be undermined, dug under"
+   "suffodere" "to undermine, dig under"
+   "suffodiō, suffodere, suffōdī, suffossus" "to undermine, dig under"
 
    "suxī" "I sucked"
    "sūgō, sūgere, suxī, suctus" "to suck, to imbibe"
@@ -13835,6 +13855,7 @@
    "veniō, venīre, vēnī, ventus" "to come"
    "vēnisse" "to have come"
    "venīrēmus" "we came"
+   "veniente" "coming"
 
    "venia" "indulgence, kindness"
    "veniam" "indulgence, kindness"
