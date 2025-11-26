@@ -3076,6 +3076,7 @@
 
    "clāmāverō" "I will have shouted"
    "clāmābant" "they were shouting out"
+   "clāmantēs" "shouting"
    "clāmāre" "to shout"
    "clāmāvit" "he shouted"
    "clāmō, clāmāre, clāmāvī, clāmātus" "to shout"
@@ -4178,6 +4179,9 @@
    "daemōnibus" "demons"
    "daemōnum" "of demons"
    "daemōn, daemōnis" "demon"
+
+   "daemoniaca" "demonic"
+   "daemoniacus, daemoniaca, daemoniacum" "demonic"
    
    "dalmaticīs" "deacon's vestmests"
    "dalmatica"  "deacon's vestmests"
@@ -5532,6 +5536,7 @@
    "extenderit" "he will have extended"
    "extendō, extendere, extendī, extentus" "to extend"
    "extendō, extendere, extendī, extensus" "to extend"
+   "extendant" "they might extend"
 
    "extēnsiō"   "extension, stretching"
    "extēnsiōne" "extension, stretching"
@@ -6253,6 +6258,9 @@
    
    "gallōrum" "of chickens, of roosters"
    "gallus, gallī" "chicken, rooster"
+
+   "garrīre" "to chatter, jabber"
+   "garriō, garrīre, garrīvī, garritus" "to chatter, jabber"
 
    "gaudium" "joy, delight"
    "gaudiō" "joy, delight"
@@ -7574,6 +7582,7 @@
    "eundī" "of going"
    "ierat" "he had gone"
    "itūram" "going"
+   "eant" "they might go"
 
    "īra" "anger"
    "īrae" "anger"
@@ -7593,6 +7602,7 @@
 
    "irruentēs" "forcing their way in"
    "irruerant" "they had forced their way in"
+   "irruērunt" "they rushed in"
    "irruerat" "it had forced its way in"
    "irruet" "it will rush in"
    "irruit" "it rushes, it rushed"
@@ -9926,6 +9936,7 @@
    "pedem" "foot"
    "pedēs" "feet"
 
+   "peditēs" "foot soldiers"
    "peditum" "of foot soldiers"
    "pedes, peditis" "foot soldier"
 
@@ -10504,8 +10515,10 @@
    "posteriōribus" "after"
    "postrēmōs" "very last"
    "posterus, postera -um, posterior -or -us, postrēmus -a -um" "following, next"
+   
    "potestās" "power"
    "potestātem" "power"
+   "potestātī" "power"
    "potestās, potestātis" "power"
    
    "postulābat" "he was asking for"
@@ -11301,6 +11314,7 @@
    "recēdit" "it recedes"
    "recēdite" "withdraw!"
    "recesserit" "it will have withdrawn"
+   "recessimus" "we withdrew"
    "recessit" "he withdrew"
    "recēdō, recēdere, recessī, recessus" "to recede, to withdraw"
 
@@ -11356,6 +11370,7 @@
    "reddī" "to be returned"
    "redderent" "they might return"
    "reddidērunt" "they returned"
+   "reddita" "having been returned"
 
    "redēmptiō" "redemption"
    "redēmptiōne" "redemption"
@@ -12805,6 +12820,8 @@
    "strepitū"  "din, noise, clashing, sound"
    "strepitus" "din, noise, clashing, sound"
    "strepitus, strepitūs" "din, noise, clashing, sound"
+
+   "strīdō, strīdere, strīdī" "to hiss, squeak, whistle"
 
    "studeāmus" "we study, are eager for"
    "studēre" "to study, be eager for"
