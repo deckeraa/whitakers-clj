@@ -9530,6 +9530,7 @@
    "ōrdō, ōrdinis" "order"
    "ōrdine" "order"
 
+   "ōrdinātae" "having been set in order"
    "ōrdināvit" "he ordained, set in order"
    "ōrdinātī" "having been set in order, ordained"
    "ōrdinō, ōrdināre, ōrdināvī, ōrdinātus" "to set in order, ordain"
@@ -10308,6 +10309,7 @@
    "plēnitūdō, plēnitūdinis" "fullness, abundance, plenitude"
 
    "plōrābant" "they were crying"
+   "plōrantēs" "crying"
    "plōrō, plōrāre, plōrāvī, plōrātus" "to cry"
    
    "plumbī"  "lead"
@@ -10911,6 +10913,7 @@
    "prōpellō, prōpellere, prōpulī, prōpulsus" "to drive, to defeat"
 
    "properāns" "hurrying"
+   "properantēs" "hurrying"
    "properāverat" "he hurried"
    "properāvērunt" "they hurried"
    "properet" "he hurries"
@@ -12984,7 +12987,8 @@
    "superfuerant" "they had survived, been left over"
    "supersum, superesse, superfuī, superfutūrus" "to be left over, to remain, to survive"
    "supersunt" "they are left over, they remain"
-   
+
+   "superveniente" "overcoming"
    "supervēnerit" "you will have overcome"
    "supervēnerant" "they had overcame"
    "superveniō, supervenīre, supervēnī, superventus" "to overcome"
@@ -14099,6 +14103,7 @@
    "vidēns" "seeing"
    "vidēret" "he saw"
    "videās" "you may see"
+   "videntēs" "seeing"
    
    "vigiliam" "vigil, watch"
    "vigiliārum" "vigil, watch"
