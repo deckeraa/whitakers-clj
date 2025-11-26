@@ -1205,6 +1205,7 @@
    "addūxit" "he lead, he persuaded"
    "addūcere" "to lead, to persuade"
    "addūxērunt" "they lead, persuaded"
+   "addūcī" "to be led, persuaded"
    "addūcō, addūcere, addūxī, adductus" "to lead, to persuade"
 
    "adeptus" "having been gained, overtaking"
@@ -3171,6 +3172,7 @@
    "cōgitō, cōgitāre, cōgitāvī, cōgitātus" "to think"
 
    "cōgitātiō" "thought"
+   "cōgitātiōne"  "thought"
    "cōgitātiōnēs" "thoughts"
    "cōgitātiō, cōgitātiōnis" "thought, thinking"
    
@@ -5102,7 +5104,8 @@
    "effūgit" "he fled"
    "effugere" "to flee, escape"
    "effugiō, effugere, effūgī, effugitūrus" "to flee, escape"
-   
+
+   "effūsus" "having been poured out"
    "effundō, effundere, effūdī, effūsus" "to pour out"
    "effūdisset" "he (might) have had poured out"
    "effūdissent" "they (might) have had poured out"
@@ -5706,6 +5709,7 @@
    "fēlīcitātis" "happiness, fruitfulness"
    "fēlīcitās, fēlīcitātis" "happiness, fruitfulness"
 
+   "felicēs" "happy"
    "fēlīcī" "happy"
    "fēlīx"  "happy"
    "fēlīx, fēlīcis (gen.), fēlīcior -or -us, fēlīcissimus -a -um" "happy"
@@ -7200,6 +7204,7 @@
    "inīquitās" "iniquity"
    "inīquitātem" "iniquity"
 
+   "inīquā"  "unjust"
    "inīquum" "unjust"
    "inīquus" "unjust"
    "inīquus, inīqua -um, inīquior -or -us, inīquissimus -a -um" "unjust"
@@ -13374,7 +13379,7 @@
    "trahit" "he draws, drags"
    "trahitur" "it is drawn"
    "trahuntur" "they are drawn, dragged"
-   "traherent" "he might draw, drag"
+   "traherent" "they might draw, drag"
    "traheret" "he might draw, drag"
    "trahere" "to draw, to drag"
    "trahō, trahere, trāxī, tractus" "to draw, to drag"
