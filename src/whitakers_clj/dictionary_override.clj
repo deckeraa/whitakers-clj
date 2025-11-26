@@ -188,6 +188,7 @@
    "circumquaque" "on every side; all around"
    "citissimē" "very swiftly"
    "citō" "quickly"
+   "Civītōt" "Civetot, modern-day Altinova, Turkey"
    "clam" "secretly, stealthily, without the knowledge of"
    "clāmāte" "shout: plural imperative from clāmāre"
    "clementer" "gently, leniently; adverb from clēmēns"
@@ -984,6 +985,8 @@
    "Turcōs" "the Turks"
    "Turcus" "the Turk"
    "Turcī" "of the Turk"
+   "Turcopōlīs" "Turcopoles (ablative case): a Turkic group allied with Byzantium. Turcopolis comes from the Greek 'Sons of Turks' τουρκόπουλοι = Τοῦρκος + πουλος"
+   "Turcopūlōs" "Turcopoles (accusative case): a Turkic group allied with Byzantium. Turcopolis comes from the Greek 'Sons of Turks' τουρκόπουλοι = Τοῦρκος + πουλος"
    "Turnō" "Turnus, a king of the Rutuli killed by Aeneas (ablative or dative case)"
    "ubī" "where, when if"
    "ubicumque" "everywhere"
@@ -3195,6 +3198,7 @@
    "cōgnōvissent" "they (might) have had recognized, learned"
    "cōgnōvit" "he learned"
    "cōgnōvī" "I learned"
+   "cognōvērunt" "they learned"
    "cōgnōscere" "to recognize, to learn, to inquire, to know"
    "cōgnōscō, cōgnōscere, cōgnōvī, cōgnitum" "to recognize, to learn, to inquire, to know"
 
@@ -3514,6 +3518,7 @@
    "condere" "to build, to found"
    "condō, condere, condidī, conditus" "to build, to found"
 
+   "conductae" "having been assembled"
    "conductam" "having been assembled"
    "condūxit" "he assembled"
    "condūcēbant" "they were assembling"
@@ -4671,6 +4676,10 @@
    "dīligentia" "diligence"
    "dīligentia, dīligentiae" "diligence"
 
+   "dīlūculō"  "daybreak, dawn"
+   "dīlūculum" "daybreak, dawn"
+   "dīlūculum, dīlūculī" "daybreak, dawn"
+
    "dīluviō" "flood, destruction"
    "dīluvium" "flood, destruction"
    "dīluvium, dīluviī" "flood, destruction"
@@ -4857,6 +4866,7 @@
 
    "dabatur" "he was being given"
    "dabantur" "they were being given"
+   "dabant" "they were giving"
    "dabō" "I will give"
    "dedī" "I gave"
    "dare" "to give"
@@ -6104,7 +6114,8 @@
    "frīgus, frīgoris" "cold"
    "frīgus" "cold"
    "frīgoris" "cold"
-   
+
+   "fronte"  "forehead, front"
    "frontem" "forehead, front"
    "frōns, frontis" "forehead, front"
    
@@ -6238,6 +6249,7 @@
    "gaudiō" "joy, delight"
    "gaudium, gaudiī" "joy, delight"
 
+   "gaudēbant" "they were rejoicing"
    "gaudēns" "rejoicing"
    "gaudentēs" "rejoicing"
    "gaudet" "he rejoices"
@@ -6330,6 +6342,7 @@
    "globus, globī" "ball, globe"
    "glōria" "glory, fame, honor"
    "glōriae" "glory, fame, honor"
+   "glōriam" "glory, fame, honor"
    "glōria, glōriae" "glory, fame, honor"
 
    "glorificābant" "they were glorifying"
@@ -6509,6 +6522,7 @@
    "herba" "grass, herb"
    "herbā" "grass, herb"
    "herbae" "grass, herb"
+   "herbam" "grass, herb"
    "herbārum" "grass, herbs"
    "herba, herbae" "grass, herb"
    "herbīs" "herbs, grass"
@@ -6777,6 +6791,7 @@
    
    "īgnōrābant" "they were ignoring"
    "īgnōrāmus" "we ignore, we do not know"
+   "ignōrantēs" "not knowing"
    "īgnōrō" "I do not know"
    "īgnōrāre" "to ignore"
    "īgnōrō, īgnōrāre, īgnōrāvī, īgnōrātus" "to ignore"
@@ -6829,6 +6844,7 @@
    "immēnsa"  "immense, boundless"
    "immēnsam"  "immense, boundless"
    "immēnsīs" "immense, boundless"
+   "immēnsus" "immense, boundless"
    "immēnsus, immēnsa, immēnsum" "immense, boundless"
    
    "imminet" "it threatens, it is imminent"
@@ -7596,6 +7612,7 @@
    "iubēbat" "he was commanding"
    "iubente" "commanding"
    "iubet" "he commands"
+   "iubēret" "he might command"
    "iussit" "he commanded"
    "iussērunt" "they commanded"
    "iubeō, iubēre, iussī, iussus" "to command"
@@ -7745,6 +7762,7 @@
 
    "lacus" "lake"
    "lacū" "lake"
+   "lacuī" "lake"
    "lacus, lacūs" "lake"
 
    "laederet" "he struck, wounded"
@@ -7768,6 +7786,10 @@
    "lāïcōs" "laymen"
    "lāïcus" "layman"
    "lāïcus, lāïcī" "layman"
+
+   "lāmentantēs" "lamenting"
+   "lāmentāre" "to lament"
+   "lāmentō, lāmentāre, lāmentāvī, lāmentātus" "to lament"
    
    "lampadēs" "lamps"
    "lampas, lampadis" "lamp"
@@ -8493,6 +8515,7 @@
 
    "mīlitia"  "military"
    "mīlitiae" "military"
+   "mīlitiam" "military"
    "mīlitia, mīlitiae" "military"
    
    "milium" "millet"
@@ -8798,6 +8821,7 @@
    "multō" "many"
    "multōrum" "many"
    "multōs" "many"
+   "plūra" "more"
    "plūrēs" "more"
    "plūribus" "more"
    "plūrima" "very many"
@@ -9176,6 +9200,9 @@
    "nūllus" "no, none, not any"
    "nūllus, nūlla, nūllum (gen -ius)" "no, none, not any"
 
+   "numerāre" "to number, count"
+   "numerō, numerāre, numerāvī, numerātus" "to number, count"
+
    "numerōsās" "numerous"
    "numerōsus" "numerous"
    "numerōsus, numerōsa -um, numerōsior -or -us, numerōsissimus -a -um" "numerous"
@@ -9252,6 +9279,7 @@
    "obsēdit" "he besieged"
    "obsidēre" "to besiege"
    "obsēdērunt" "they besieged"
+   "obsessa"  "having been besieged"
    "obsessīs" "having been besieged"
    "obsideō, obsidēre, obsēdī, obsessus" "to besiege"
    
@@ -11106,6 +11134,7 @@
    "putābant" "they were thinking"
    "putantēs" "thinking"
    "putārent" "they might think"
+   "putō" "I think"
    "putāre" "to think"
    "putō, putāre, putāvī, putātus" "to think"
 
@@ -12382,6 +12411,7 @@
    "silva" "forest"
    "silvam" "forest"
    "silvārum" "of forests"
+   "silvās" "forests"
    "silvīs" "forests"
    "silva, silvae" "forest"
 
@@ -13086,6 +13116,7 @@
    "tanta" "so much, so great, this many"
    "tantī" "so much, so great, this many"
    "tantō" "so much, so great, this many"
+   "tantam" "so much, so great, this many"
    "tantum" "so much, so great, this many"
    "tantus, tanta, tantum" "so much, so great, this many"
 
@@ -13339,6 +13370,8 @@
    "trahit" "he draws, drags"
    "trahitur" "it is drawn"
    "trahuntur" "they are drawn, dragged"
+   "traherent" "he might draw, drag"
+   "traheret" "he might draw, drag"
    "trahere" "to draw, to drag"
    "trahō, trahere, trāxī, tractus" "to draw, to drag"
 
