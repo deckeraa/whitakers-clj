@@ -627,6 +627,7 @@
    "nōtum" "known; singular neuter nom. or acc. perfect passive participle of gnōscō, gnōscere, nōvī, nōtus"
    "Nōviomāgum" "Nijmegen, a city in the modern-day Netherlands (accusative case)"
    "noviter" "recently"
+   "nūllātenus" "no way"
    "numquam" "never"
    "nunquam" "never"
    "numquid" "is it possible?"
@@ -645,6 +646,7 @@
    "octāvus" "octave, 8th"
    "octōbrī" "October"
    "ōlim" "one day, once upon a time"
+   "omnimodō" "by any means"
    "omnīnō" "entirely, altogether"
    "operātus" "operātus + est = was performed"
    "optime" "very, rightly, best"
@@ -9311,6 +9313,10 @@
    "obtestātus" "having been implored"
    "obtestor, obtestārī, obtestātus sum" "to implore"
 
+   "obstācula" "obstacles, hindrances"
+   "obstāculum" "obstacle, hindrance"
+   "obstāculum, obstāculī" "obstacle, hindrance"
+
    "obstāre" "to oppose"
    "obstō, obstāre, obstitī, obstātus" "to oppose"
 
@@ -9877,6 +9883,7 @@
    "pauper" "poor"
    "pauperem" "poor"
    "pauperibus" "poor"
+   "pauperrimā" "very poor"
    "pauperum" "poor"
    "pauper, pauperis (gen.), pauperior -or -us, pauperrimus -a -um" "poor"
 
@@ -11298,6 +11305,7 @@
    
    "recēpistī" "you received"
    "receptās" "having been received"
+   "receptī"  "having been received"
    "receptīs" "having been received"
    "receptōs" "having been received"
    "recēpērunt" "they received, they kept back"
@@ -11342,6 +11350,8 @@
    "reddētur" "to be returned"
    "reddidit" "he returned"
    "reddī" "to be returned"
+   "redderent" "they might return"
+   "reddidērunt" "they returned"
 
    "redēmptiō" "redemption"
    "redēmptiōne" "redemption"
@@ -12770,6 +12780,10 @@
    "stīpes" "post"
    "stīpes, stīpitis" "post"
 
+   "stola" "robe"
+   "stolam" "robe"
+   "stola, stolae" "robe"
+
    "strāge"  "overthrow, destruction"
    "strāgem" "overthrow, destruction"
    "strāgēs" "overthrow, destruction"
@@ -12880,6 +12894,7 @@
    
    "substantia" "substance"
    "substantiā" "substance"
+   "substantiīs" "substances"
    "substantia, substantiae" "substance"
 
    "subtrahit" "he carries off"
@@ -13529,6 +13544,10 @@
    
    "trium" "three"
 
+   "triumphantēs" "celebrating, rejoicing"
+   "triumphāre" "to celebrate, rejoice"
+   "triumphō, triumphāre, triumphāvī, triumphātus" "to celebrate, rejoice"
+
    "triumphō" "triumph"
    "triumphus, triumphī" "triumph"
 
@@ -14153,6 +14172,7 @@
    "vinculum" "chain"
    "vinculum, vinculī" "chain"
 
+   "vindicā" "vindicate!"
    "vindicandum" "vindicating"
    "vindicāvit" "he vindicated, avenged"
    "vindicō, vindicāre, vindicāvī, vindicātus" "to vindicate, avenge"
