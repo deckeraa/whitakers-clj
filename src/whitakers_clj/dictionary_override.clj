@@ -4312,6 +4312,7 @@
    "dēdūcere" "to escort, to remove"
    "dēducta" "having been escorted, removed"
    "dēdūceret" "he carried away"
+   "dēductīs" "having been led away"
    "dēdūcō, dēdūcere, dēdūxī, dēductus" "to escort, to remove"
 
    "dederit" "he will give"
@@ -5145,6 +5146,7 @@
    "ēlēctiō, ēlēctiōnis" "choice, selection"
    
    "elemosina" "alms"
+   "elemosinās" "alms"
    "elemosinam" "alms"
    "elemosina, elemosinae" "alms"
    "elemosyna, elemosynae" "alms"
@@ -5254,6 +5256,7 @@
    "ēripere" "to rescue, to snatch away"
    "ēripiō, ēripere, ēripuī, ēreptus" "to rescue, to snatch away"
 
+   "ērogārī" "to be paid out, expended"
    "ērogāre" "to pay out, expend"
    "ērogō, ērogāre, ērogāvī, ērogātus" "to pay out, expend"
    
@@ -8301,6 +8304,7 @@
    "manentēs" "remaining"
    "manēret" "it remained"
    "mānsisse" "to have remained"
+   "mānsimus" "we remained"
    
    "manifestāvit" "he revealed"
    "manifestō, manifestāre, manifestāvī, manifestātus" "to reveal"
