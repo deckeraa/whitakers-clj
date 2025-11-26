@@ -565,6 +565,7 @@
    "mīlia" "one thousand"
    "minimē" "barely, no, not"
    "minus" "less"
+   "mīrābiliter" "marvelously"
    "mixtim" "mixedly, in a mixed manner (adverb)"
    "modeste" "modestly, in a disciplined manner"
    "modicum" "a little; singular neuter nominative or accusative from modicum, modica"
@@ -3040,6 +3041,10 @@
    "circumī" "go around!"
    "circumeō, circumīre, circumivi(iī), circumitus" "to go around"
 
+   "circumcingentēs" "surrounding, encircling"
+   "circumcingere" "to surround, encircle"
+   "circumcingō, circumcingere, circumcinxī, circumcinctus" "to surround, encircle"
+
    "circumsistēbant" "they were surrounding"
    "circumsistō, circumsistere, circumstitī, circumstatus" "to surround"
 
@@ -4338,6 +4343,7 @@
    "dēsum, dēesse, dēfuī, dēfutūrus" "to lack"
    
    "dēfendēbat" "he was defending"
+   "dēfendentēs" "defending"
    "dēfendēs" "you will defend"
    "defendet" "he will defend"
    "dēfendere" "to defend"
@@ -4694,6 +4700,7 @@
    "dīluvium, dīluviī" "flood, destruction"
 
    "dīmicābat" "he fought"
+   "dīmicandō" "fighting"
    "dīmicantēs" "fighting"
    "dīmicāvērunt" "they fought"
    "dīmicent" "they fight"
@@ -5725,6 +5732,7 @@
    "fēlīx, fēlīcis (gen.), fēlīcior -or -us, fēlīcissimus -a -um" "happy"
 
    "fēmina"  "woman, wife"
+   "fēminae" "woman, wife"
    "fēminam" "woman, wife"
    "fēminās" "woman, wives"
    "fēmina, fēminae" "woman, wife"
@@ -6754,6 +6762,9 @@
    "iēcērunt" "they threw"
    "iactāre" "to throw"
    "iactō, iactāre, iactāvī, iactātus" "to throw"
+
+   "iaculandō" "throwing"
+   "iaculor, iaculārī, iaculātum" "to throw"
 
    "iactus" "throwing, casting, hurling"
    "iactus, iactūs" "throwing, casting, hurling"
@@ -9058,6 +9069,7 @@
 
    "nequībat" "he was unable"
    "nequīmus" "we are unable"
+   "nequīvimus" "we were unable"
    "nequeō, nequīre, nequivī(iī), nequitus" "to be unable"
 
    "nescīmus" "we do not know"
@@ -10038,6 +10050,10 @@
    "perfacile"  "very easy"
    "perfacilis, perfacile" "very easy"
 
+   "pertulimus" "we carried, suffered"
+   "perferre" "to carry, suffer"
+   "perferō, perferre, pertulī, perlātus" "to carry, suffer"
+
    "perficiendum" "completing"
    "perfēcissent" "they (might) have had finished"
    "perfectīs" "having been accomplished"
@@ -10849,6 +10865,10 @@
    "prōdūcere" "to lead forward"
    "prōdūcō, prōdūcere, prōdūxī, prōductus" "to lead forward"
 
+   "proeliātōribus" "fighters"
+   "proeliātor" "fighter"
+   "proeliātor, proeliātōris" "fighter"
+
    "proeliantur" "they fight"
    "proeliārī" "to fight"
    "proelior, proeliārī, proeliātus" "to fight"
@@ -11116,6 +11136,7 @@
    "pugnāre" "to fight"
    "pugnandum" "fighting"
    "pugnāns" "fighting"
+   "pugnantēs" "fighting"
    "pugnārent" "they (might) have been fighting"
    "pugnātum" "having been fought"
    "pugnat" "he fights"
@@ -11466,6 +11487,8 @@
    "refrīgerium, refrīgeriī" "cooling, consolation"
    "refulsit" "it shone"
    "refulgeō, refulgēre, refulsī, -" "to shine"
+
+   "refugiō"  "refuge"
    "refugium" "refuge"
    "refugium, refugiī" "refuge"
 
@@ -11989,6 +12012,7 @@
    "sagitta, sagittae" "arrow"
 
    "sagittābant" "they were shooting arrows"
+   "sagittandō" "shooting arrows"
    "sagittante" "shooting arrows"
    "sagittō, sagittāre, sagittāvī, sagittātus" "to shoot arrows"
 
@@ -12662,6 +12686,10 @@
    "spēs" "hope"
    "spēs, speī" "hope"
 
+   "spīculandō" "throwing darts of javelins"
+   "spīculāre" "to throw a dart or javelin"
+   "spīculō, spīculāre, spīculāvī, spīculātus" "to throw a dart or javelin"
+
    "spīneam" "thorny"
    "spīneum" "thorny"
    "spīneus, spīnea, spīneum" "thorny"
@@ -12963,6 +12991,9 @@
    "suēscere" "to become accustomed"
    "suēscō, suēscere, suēvī, suētus" "to become accustomed"
 
+   "sufferre" "to bear, endure, suffer"
+   "sufferō, sufferre, sustulī, sublātus" "to bear, endure, suffer"
+
    "sufficient" "they will suffice"
    "sufficiat" "it (might) suffice"
    "sufficiō, sufficere, suffēcī, suffectus" "to suffice"
@@ -13171,6 +13202,7 @@
    "tantī" "so much, so great, this many"
    "tantō" "so much, so great, this many"
    "tantam" "so much, so great, this many"
+   "tantōrum" "so much, so great, this many"
    "tantum" "so much, so great, this many"
    "tantus, tanta, tantum" "so much, so great, this many"
 
