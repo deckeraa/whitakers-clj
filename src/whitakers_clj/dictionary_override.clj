@@ -7862,6 +7862,9 @@
    "latere" "side"
    "latus" "side"
    "latus, lateris" "side"
+
+   "laudābilis" "praiseworthy"
+   "laudābilis, laudābilis, laudābile" "praiseworthy"
    
    "laudā" "praise!"
    "laudābant" "they were praising"
@@ -8267,6 +8270,7 @@
    "mandābat" "he was entrusting"
    "mandāta" "having been entrusted"
    "mandāverat" "he had entrusted"
+   "mandāvērunt" "they entrusted"
    "mandāvit" "he commanded"
    "mandārent" "they might entrusted"
    "mandāre" "to entrust"
@@ -8768,6 +8772,7 @@
 
    "mortua" "dead"
    "mortuae" "dead"
+   "mortuī" "dead"
    "mortuō" "dead"
    "mortuōs" "dead"
    "mortuus" "dead"
@@ -9096,6 +9101,10 @@
    "nocendī" "harming"
    "nocēre" "to harm"
    "noceō, nocēre, nocuī, nocitus" "to harm"
+
+   "nocumenta" "harms"
+   "nocumentum" "harm"
+   "nocumentum, nocumentī" "harm"
 
    "nōmina" "names"
    "nōmine" "name"
