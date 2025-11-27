@@ -943,6 +943,7 @@
    "Syon" "Zion"
    "Synai" "Sinai"
    "Tamesis" "Thames river"
+   "Tancredī" "of Tancred, Prince of Galilee (1075–1112) (genitive case)"
    "Tancredō" "Tancred, Prince of Galilee (1075–1112) (dative or ablative case)"
    "Tancredus" "Tancred, Prince of Galilee (1075–1112) (nominative case)"
    "Tancredum" "Tancred, Prince of Galilee (1075–1112) (accusative case)"
@@ -1187,6 +1188,7 @@
    "acceptum" "having been received"
    "accēpisset" "he had received"
    "acciperent" "they received"
+   "accēpimus" "we received"
    
    "ācrius" "harsher"
    "acerrimus" "very keen, harsh"
@@ -2065,6 +2067,7 @@
    
    "argentī" "silver"
    "argentō" "silver"
+   "argentum" "silver"
    "argentum, argentī" "silver"
 
    "āriditās"   "dryness, drought"
@@ -2103,7 +2106,8 @@
    "armum, armī" "weapon"
 
    "arma" "weapons"
-   
+
+   "arripuērunt" "they took hold of, snatched"
    "arripuit" "he took hold of, he snatched"
    "arripere" "to take hold of, to snatch, to arrest"
    "arripiō, arripere, arripuī, arreptus" "to take hold of, to snatch, to arrest"
@@ -2672,6 +2676,10 @@
    "calōre" "warmth, heat"
    "calōrem" "warmth, heat"
    "calor, calōris" "warmth, heat"
+
+   "camēlōs" "camels"
+   "camēlus" "camel"
+   "camēlus, camēlī" "camels"
 
    "camera"  "room"
    "camerae" "room"
@@ -6695,6 +6703,7 @@
    "honorem" "honor"
    "honor, honōris" "honor"
 
+   "honōrābilēs" "honorable"
    "honōrābilis" "honorable"
    "honōrābilis, honōrābilis, honōrābile" "honorable"
    
@@ -7075,6 +7084,7 @@
    "incīsa" "having been cut"
    "incīdī" "to be cut"
    "incīdissent" "they had cut into"
+   "incīdere" "to cut into"
    "incīdō, incīdere, incīdī, incīsus" "to cut into"
 
    "incitāta" "having been incited"
