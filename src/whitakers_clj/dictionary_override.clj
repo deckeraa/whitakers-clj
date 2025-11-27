@@ -1035,6 +1035,7 @@
       
    "vērō" "and, truly, even so, still"
    "Verucloetius" "A Helvetic legate"
+   "vērumtamen" "but certainly"
    "vespertīnāle" "Vespers. This word isn't in any of my dictionaries but the meaning is clear."
    "vestra" "your"
    "vestrae" "your"
@@ -10954,6 +10955,7 @@
    "prohibēbant" "they were preventing, restraining"
    "prohibent" "they prevent, they restrain"
    "prohibuit" "he prevented, he restrained"
+   "prohibentēs" "preventing, restraining"
    "prohibērent" "they (might) have been preventing"
    "prohibuērunt" "they prevented, restrained"
    "prohibēret" "he might prevent, restrain"
@@ -11040,6 +11042,7 @@
    "prōrumperet" "it was rushing forth"
    "prōrumpō, prōrumpere, prōrūpī, prōruptus" "to rush forth, to break out"
 
+   "prōsecūtus" "having been followed"
    "prōsequī" "to escort, to pursue"
    
    "prosper" "favorable"
@@ -14000,6 +14003,7 @@
    "vēnisse" "to have come"
    "venīrēmus" "we came"
    "veniente" "coming"
+   "veniant" "they might come"
 
    "venia" "indulgence, kindness"
    "veniam" "indulgence, kindness"
