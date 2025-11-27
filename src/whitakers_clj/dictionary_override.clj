@@ -349,6 +349,7 @@
    "germānōs" "Germans"
    "Germānōs" "Germans"
    "gesta" "deeds, acts"
+   "Godefridō" "Godfrey of Bouillon (~1060-1100 AD), first ruler of the Kingdom of Jerusalem (dative or ablative case)"
    "Godefridus" "Godfrey of Bouillon (~1060-1100 AD), first ruler of the Kingdom of Jerusalem"
    "Goliae" "of Goliath, the Philistine giant that David slew; from Golias, Goliae."
    "gravissimē" "very gravely"
@@ -692,6 +693,7 @@
    "plēbī" "to the common people; singular masculine accusative from plēbs, plēbis"
    "plērum" "most of the time"
    "plūs" "more, from mūltus"
+   "Podiēnsī" "of Le Puy Cathedral, in Auvergne, France (dative or ablative case)"
    "Podiēnsis" "of Le Puy Cathedral, in Auvergne, France"
    "porrō" "farther, further, also"
    "post" "behind, after, since"
@@ -728,7 +730,7 @@
    "quam" "how? how much?"
    "quemadmodum" "how"
    "quamdiū" "as long as"
-   "quamquam" "though, on the other hand"
+   "quamquam" "although"
    "quamvīs" "as much, as much as one wants, however"
    "quanta" "how much?"
    "quāpropter" "that's why"
@@ -2222,6 +2224,7 @@
    "auctus, auctūs" "growth, increase"
 
    "audācis" "bold, daring"
+   "audāx" "bold, daring"
    "audāx, audācis (gen.), audācior -or -us, audācissimus -a -um" "bold, daring"
 
    "ausam" "having been dared"
@@ -4025,6 +4028,7 @@
    "crēdidistī" "you believed"
    "crēdis" "you believe"
    "crēdō" "I believe"
+   "crēdēbāmus" "we were believing"
    "crēdendum" "believing"
    "crēdentēs" "believing"
    "crēdere" "to believe"
@@ -4412,6 +4416,10 @@
    "dēligitur" "it is chosen"
    "dēligere" "to choose, to select"
    "dēligō, dēligere, dēlēgī, dēlēctus" "to choose, to select"
+
+   "dēlūdentēs" "deceiving"
+   "dēlūdere" "to deceive"
+   "dēlūdō, dēlūdere, dēlūsī, dēlūsus" "to deceive"
 
    "dēmēns" "having been taken away"
    "dēmō, dēmere, dēmpsī, dēmptus" "to take away"
