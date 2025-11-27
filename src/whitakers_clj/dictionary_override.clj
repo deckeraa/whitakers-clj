@@ -5154,6 +5154,9 @@
    "ēgressum" "having gone out"
    "ēgredior, ēgredī, ēgressus sum" "to go out, to egress"
 
+   "ēgregiō" "excellent, honorable"
+   "ēgregius, ēgregia, ēgregium" "excellent, honorable"
+
    "ēiēcerat" "he had cast out"
    "ēicere" "to cast out"
    "ēiciō, ēicere, ēiēcī, ēiectus" "to cast out"
@@ -5269,6 +5272,7 @@
    "ērigēns" "raising, building"
    "ērēctīs" "to be raised, to be built"
    "ērēxit" "he raised, he built"
+   "ērigere" "to raise, to build"
    "ērigō, ērigere, ērēxī, ērēctus" "to raise, to build"
 
    "ēripuit" "he rescued, he snatched away"
@@ -5666,6 +5670,7 @@
 
    "fallāx" "deceitful, misleading"
    "fallācibus" "deceitful, misleading"
+   "fallācium" "deceitful, misleading"
    "fallāx, fallācis (gen.), fallācior -or -us, fallācissimus -a -um" "deceitful, misleading"
 
    "fallam" "I will deceive"
@@ -5803,6 +5808,7 @@
    "festīnāre" "to hasten, to hurry"
    "festīnāvit" "he hastened, he hurried"
    "festīnāvissent" "they (might) have had hastened"
+   "festīnent" "they might hasten"
 
    "festīnus" "swift, fast, hastening"
    "festīnus, festīna, festīnum" "swift, fast, hastening"
@@ -6647,6 +6653,7 @@
    "honestāvit" "he honored, dignified"
    "honestō, honestāre, honestāvī, honestātum" "to honor, dignify"
 
+   "honestissimō" "very honest, distinguished, worthy"
    "honestissimum" "very honest, distinguished, worthy"
    "honestus, honesta -um, honestior -or -us, honestissimus -a -um" "honest, distinguished, worthy"
 
@@ -7044,6 +7051,9 @@
    "inclīnābat" "he inclined"
    "inclīnāvit" "he inclined"
    "inclīnō, inclīnāre, inclīnāvī, inclīnātus" "to incline"
+
+   "inclitō" "famous"
+   "inclitus, inclita -um, inclitior -or -us, inclitissimus -a -um" "famous"
    
    "incōgnitum" "unknown, untested"
    "incōgnitōrum" "unknown, untested"
@@ -8156,6 +8166,9 @@
    "lūciō"  "fish, pike fish"
    "lūcium" "fish, pike fish"
    "lūcius, lūciī" "fish, pike fish"
+
+   "luctārī" "to struggle"
+   "luctor, luctārī, luctātum" "to struggle"
 
    "lūctū" "grief, sorrow"
    "lūctus, lūctūs" "grief, sorrow"
