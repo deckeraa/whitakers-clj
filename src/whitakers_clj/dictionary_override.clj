@@ -3259,6 +3259,7 @@
    "colligō, colligere, collēgī, collēctus" "to collect, to assemble"
 
    "colle" "hill"
+   "collēs" "hills"
    "collibus" "hills"
    "collis" "hill"
    "collis, collis" "hill"
@@ -3792,6 +3793,7 @@
 
    "cōnsulat" "he (might) consult"
    "cōnsulendī" "of consulting"
+   "cōnsulentēs" "consulting"
    "cōnsuluit" "he consulted"
    "cōnsulere" "to consult"
    "cōnsulō, cōnsulere, cōnsuluī, cōnsultus" "to consult"
@@ -4830,6 +4832,7 @@
    "dīversus, dīversa, dīversum" "diverse"
 
    "dīves" "rich"
+   "dīvitēs" "rich"
    "dīvitī" "rich"
    "dīvitis" "rich"
    "dīves, dīvitis (gen.), dīvitior -or -us, dīvitissimus -a -um" "rich"
@@ -5117,6 +5120,7 @@
 
    "efficere" "to achieve, produce"
    "effēcit" "he achieved, produced"
+   "effectī" "having been achieved, produced"
    "efficiunt" "they achieve, produce"
    "efficiō, efficere, effēcī, effectus" "to achieve, produce"
    
@@ -5211,6 +5215,9 @@
    "ēmittentēs" "sending out"
    "ēmittit" "he sends"
    "ēmittō, ēmittere, ēmīsī, ēmissus" "to send out"
+
+   "ēnumerāre" "to count up, enumerate"
+   "ēnumerō, ēnumerāre, ēnumerāvī, ēnumerātus" "to count up, enumerate"
    
    "eō" "I go"
    "eōdem" "the same"
@@ -5221,12 +5228,12 @@
    "episcopālem" "episcopal, of a bishop"
    "episcopālis, episcopālis, episcopāle" "episcopal, of a bishop"
 
-   "episcopī" "overseer, bishop"
+   "episcopī" "bishop"
    "episcopīs" "bishops"
-   "episcopō" "overseer, bishop"
-   "episcopum" "overseer, bishop"
-   "episcopus" "overseer, bishop"
-   "episcopus, episcopī" "overseer, bishop"
+   "episcopō" "bishop"
+   "episcopum" "bishop"
+   "episcopus" "bishop"
+   "episcopus, episcopī" "bishop"
 
    "equestrī" "knight"
    "equestribus" "knights"
@@ -5391,6 +5398,9 @@
 
    "excellentius" "more excellent"
    "excellēns, excellentis (gen.), excellentior -or -us, excellentissimus -a -um" "excellent"
+
+   "excommūnicātā" "having been excommunicated"
+   "excommūnicō, excommūnicāre, excommūnicāvī, excommūnicātus" "to excommunicate"
 
    "excubāre" "to lie in the open, to keep watch"
    "excubō, excubāre, excubuī, excubitus" "to lie in the open, to keep watch"
