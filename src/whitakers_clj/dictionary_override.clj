@@ -1189,6 +1189,7 @@
    "acciperent" "they received"
    
    "ācrius" "harsher"
+   "acerrimus" "very keen, harsh"
    "ācer, ācris -e, ācrior -or -us, ācerrimus -a -um" "harsh"
 
    "acervī" "heap, pile, stack"
@@ -1196,6 +1197,7 @@
 
    "aciē" "battle line"
    "aciem" "sharpness, battle line"
+   "aciēs" "battle line"
    "aciēs, aciēī" "battle line"
 
    "adfuērunt" "they were present"
@@ -1998,6 +2000,7 @@
    "Aquītāniae" "Aquitaniae, a province in western France"
    "Aquītānia, Aquītāniae" "Aquitaniae, a province in western France"
 
+   "arabēs" "Arabs"
    "arabum" "of the Arabs"
    "Arabs, Arabis" "Arab"
 
@@ -2378,6 +2381,7 @@
    "barba, barbae" "beard"
 
    "barbara" "barbarous"
+   "barbarae" "barbarous"
    "barbarōrum" "of the barbarous"
    "barbarīs" "barbarous"
    "barbarus" "barbarous"
@@ -3050,6 +3054,7 @@
    "circumī" "go around!"
    "circumeō, circumīre, circumivi(iī), circumitus" "to go around"
 
+   "circumcingēns"   "surrounding, encircling"
    "circumcingentēs" "surrounding, encircling"
    "circumcingere" "to surround, encircle"
    "circumcingō, circumcingere, circumcinxī, circumcinctus" "to surround, encircle"
@@ -3390,6 +3395,7 @@
    "compellere" "to compel"
    "compellō, compellere, compulī, compulsus" "to compel"
 
+   "compendia" "compendium, abstract, saving"
    "compendiī" "compendium, abstract, saving"
    "compendiō" "compendium, abstract, saving"
    "compendium" "compendium, abstract, saving"
@@ -4575,6 +4581,9 @@
    
    "dēvorātōrem" "devourer, glutton"
    "dēvorātor, dēvorātōris" "devourer, glutton"
+
+   "dextera" "right hand, right side"
+   "dextera, dexterae" "right hand, right side"
 
    "dextra" "right hand, right side"
    "dextram" "right hand, right side"
@@ -6679,11 +6688,15 @@
 
    "honestissimō" "very honest, distinguished, worthy"
    "honestissimum" "very honest, distinguished, worthy"
+   "honestissimus" "very honest, distinguished, worthy"
    "honestus, honesta -um, honestior -or -us, honestissimus -a -um" "honest, distinguished, worthy"
 
    "honore" "honor"
    "honorem" "honor"
    "honor, honōris" "honor"
+
+   "honōrābilis" "honorable"
+   "honōrābilis, honōrābilis, honōrābile" "honorable"
    
    "hōram" "hour, time"
    "hōra" "hour, time"
