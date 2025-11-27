@@ -833,6 +833,7 @@
    "sānctum" "holy, saint"
    "sānctissimam" "most holy"
    "sapienter" "wisely"
+   "Saracēnōrum" "of Saracenes, muslims"
    "sat" "enough"
    "satis" "enough"
    "Saxonēs" "The Saxons"
@@ -987,6 +988,7 @@
    "Turcam" "the Turk"
    "Turcās" "the Turks"
    "Turcīs" "the Turks"
+   "Turcōrum" "of the Turks"
    "Turcōs" "the Turks"
    "Turcus" "the Turk"
    "Turcī" "of the Turk"
@@ -1995,6 +1997,9 @@
    "aquītānia"  "Aquitaniae, a province in western France"
    "Aquītāniae" "Aquitaniae, a province in western France"
    "Aquītānia, Aquītāniae" "Aquitaniae, a province in western France"
+
+   "arabum" "of the Arabs"
+   "Arabs, Arabis" "Arab"
 
    "arāta" "having been plowed, having been cultivated"
    "arāre" "to plow, to cultivate"
@@ -5467,6 +5472,10 @@
    "exitus" "departure"
    "exitus, exitūs" "departure"
 
+   "exorta" "having come out, appeared"
+   "exorīrī" "to come out, appear"
+   "exorior, exorīrī, exortum" "to come out, appear"
+
    "exōrsus" "beginning, commencement"
    "exōrsus, exōrsūs" "beginning, commencement"
 
@@ -6326,6 +6335,10 @@
    "generāle" "general"
    "generālis" "general"
    "generālis, generālis, generāle" "general"
+
+   "generātiōne" "generation"
+   "generātiō" "generation"
+   "generātiō, generātiōnis" "generation"
 
    "genuit" "he begot"
    "genitus" "having been born"
@@ -7925,6 +7938,7 @@
    "laudābant" "they were praising"
    "laudābunt" "they will praise"
    "laudāmus" "we praise"
+   "laudantēs" "praising"
    "laudāte" "praise!"
    "laudāvērunt" "they praised"
    "laudēs" "praises"
@@ -10355,6 +10369,9 @@
    "plāgae" "coast"
    "plāgam" "coast"
    "plāga, plāgae" "coast"
+
+   "plāna" "flat, clear, even, easy"
+   "plānus, plāna -um, planior -or -us, planissimus -a -um" "flat, clear, even, easy"
    
    "plānctus" "beating, wailing, lamentation"
    "plānctūs" "beating, wailing, lamentation"
@@ -12246,6 +12263,7 @@
    
    "sēcrēta" "secrets"
    "sēcrētīs" "secrets"
+   "sēcrētus" "secret"
    "sēcrētum, sēcrētī" "secret"
 
    "sectābātur" "he was running after, he was hunting out"
@@ -13797,6 +13815,9 @@
    "undās" "waves"
    "unda, undae" "waves"
 
+   "ūnanimēs" "acting in accord; sharing a single purpose"
+   "ūnanimis, ūnanimis, ūnanime" "acting in accord; sharing a single purpose"
+
    "ūnxit" "he anointed"
    "ungō, ungere, unxī, unctus" "to anoint"
    
@@ -13921,6 +13942,7 @@
 
    "valle" "valley"
    "vallem" "valley"
+   "vallēs" "valleys"
    "vallis" "valley"
    "vallis, vallis" "valley"
 
