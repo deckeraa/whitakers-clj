@@ -7089,7 +7089,8 @@
    "inclīnāvit" "he inclined"
    "inclīnō, inclīnāre, inclīnāvī, inclīnātus" "to incline"
 
-   "inclitō" "famous"
+   "inclitō"  "famous"
+   "inclitus" "famous"
    "inclitus, inclita -um, inclitior -or -us, inclitissimus -a -um" "famous"
    
    "incōgnitum" "unknown, untested"
@@ -7114,6 +7115,9 @@
    "incrēdibilī" "incredible"
    "incrēdibilis" "incredible"
    "incrēdibilis, incrēdibilis, incrēdibile" "incredible"
+
+   "incrēdulus" "incredulous, unbelieving"
+   "incrēdulus, incrēdula, incrēdulum" "incredulous, unbelieving"
 
    "incursiō" "onrush, attack"
    "incursiōne" "onrush, attack"
@@ -9006,6 +9010,7 @@
    "natō, natāre, natāvī, natātus" "to swim"
 
    "nātiōne" "race, tribe, nation"
+   "nātiōnēs" "races, tribes, nations"
    "nātiōnibus" "race, tribe, nation"
    "nātiō, nātiōnis" "race, tribe, nation"
 
@@ -12591,6 +12596,7 @@
    "sīs" "you (might) be"
    "sit" "he (might) be"
 
+   "sinistrā" "left-hand"
    "sinistralem" "left-hand"
    "sinistram" "left-hand"
    "sinistra, sinistrae" "left-hand"
@@ -14049,6 +14055,7 @@
    "venīrēmus" "we came"
    "veniente" "coming"
    "veniant" "they might come"
+   "venientibus" "coming"
 
    "venia" "indulgence, kindness"
    "veniam" "indulgence, kindness"
