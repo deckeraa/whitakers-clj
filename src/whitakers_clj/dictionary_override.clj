@@ -245,6 +245,7 @@
    "dēterius" "worse, unfavorably"
    "dēvōtissimē" "very faithfully, devoutedly"
    "dīligenter" "diligently"
+   "diū" "for a long time"
    "diūtius" "for a longer time"
    "dīvīnitus" "divinely, of heaven (adverb)"
    "dōnec" "while, as long as, until"
@@ -312,6 +313,7 @@
    "fēlīciter" "happily"
    "ferē" "nearly, almost, about"
    "festīnanter" "hastily, quickly"
+   "festīne" "swiftly"
    "fīant" "they might do; 3rd person plural subjunctive present from faciō, facere, fēcī, factus"
    "fidēliter" "faithfully"
    "fīdūciāliter" "confidently"
@@ -531,6 +533,7 @@
    "leviathan" "Leviathan, a sea monster mentioned in Job 40:25."
    "libenter" "willingly, gladly, freely"
    "licet" "allow"
+   "licuit" "allowed"
    "locūtus" "locūtus est = he spoke"
    "Langōbardī" "the Lombards"
    "Langōbardīs" "the Lombards"
@@ -7289,6 +7292,7 @@
 
    "inimīcī" "enemy"
    "inimīcō" "enemy"
+   "inimīcōrum" "of enemies"
    "inimīcōs" "enemies"
    "inimīcus" "enemy"
    "inimīcus, inimīcī" "enemy"
@@ -8711,6 +8715,9 @@
    "misericordiae" "pity, compassion, mercy"
    "misericordia, misericordiae" "pity, compassion, mercy"
    "misericordiam" "pity, compassion, mercy"
+
+   "misericors" "merciful"
+   "misericors, (gen.), misericordis" "merciful"
    
    "mīsērunt" "they sent"
    "mīsit" "he sent"
