@@ -603,6 +603,7 @@
    "nihil" "not at all"
    "nimia" "too much"
    "nimiae" "too much"
+   "nimiō" "too much"
    "nīmīrum" "certainly"
    "nimis" "too much, extremely"
    "nisī" "if not, unless"
@@ -806,6 +807,7 @@
    "resurrēctiō, resurrēctiōnis" "resurrection"
    "resurrēctiōne" "resurrection"
    "retrō" "behind, backwards"
+   "retrōrsum" "behind, backwards"
    "reversa" "reversa + est = it returned"
    "reversus" "reversus + est = he returned"
    "Richardus" "Richardus dē Prīncipātū = Richard of the Principality a.k.a. Richard of Salerno"
@@ -918,6 +920,7 @@
    "Solimānī" "of Kilij Arslan a.k.a. Suleiman II, Seljuk sultan of Rûm and leader of the Turkish forces in Anatolia during the first crusade; son of Suleiman I"
    "sollemniter" "solemnly"
    "sōlum" "only, just, barely, merely"
+   "sōlummodo" "only, just, merely, barely, alone"
    "sotiātur" "it is joined; 3rd person singular present passive from a variant spelling of sociāre"
    "speciāliter" "specifically, individually; adverb from speciālis, speciāle"
    "spontāneē" "spontaneously"
@@ -2256,6 +2259,7 @@
    "audente" "daring"
    "audērent" "they had dared"
    "audēret" "he might dare"
+   "audeat" "he might dare"
    "audēre" "to dare"
    "audeō, audēre, ausus sum" "to dare"
 
@@ -4588,6 +4592,7 @@
    "deus" "god"
    "deus, deī" "god, diety"
 
+   "dēvastābant" "they were devastating, ravaging"
    "dēvāstantēs" "devastating, ravaging"
    "dēvāstāre" "to devastate, ravage"
    "dēvāstō, dēvāstāre, dēvāstāvī, dēvāstātus" "to devastate, ravage"
@@ -4595,6 +4600,7 @@
    "dēvēnit" "he came to"
    "dēveniō, dēvenīre, dēvēnī, dēventus" "to come to"
 
+   "dēvīcimus" "we conquered entirely"
    "dēvictī" "having been conquered entirely"
    "dēvictōs" "having been conquered entirely"
    "dēvincere" "to conquer entirely"
@@ -5958,6 +5964,7 @@
 
    "ficta" "having been molded, having been created"
    "fingēns" "molding, forming, creating"
+   "fingentēs" "feigning, deceiving"
    "fingunt" "they mold, form, create"
    "fingentum" "having been molded, created"
    "fīnxērunt" "they molded, created"
@@ -7339,6 +7346,7 @@
    "inīquitās" "iniquity"
    "inīquitātem" "iniquity"
 
+   "inīquissimōs" "must unjust"
    "inīquā"  "unjust"
    "inīquum" "unjust"
    "inīquus" "unjust"
@@ -8959,6 +8967,10 @@
    "mulieribus" "women"
    "mulieris" "woman"
    "mulier, mulieris" "woman"
+
+   "mūlōs" "mules"
+   "mūlus" "mule"
+   "mūlus, mūlī" "mule"
 
    "multiplicāta" "having been multiplied"
    "multiplicātī" "having been multiplied"
@@ -10685,6 +10697,7 @@
    "potest" "he can"
    "potestis" "you can"
    "potuerant" "they had been able to"
+   "potuerint" "they will have been able to"
 
    "potentēs" "mighty"
    "potentiōrēs" "more powerful"
@@ -11336,6 +11349,8 @@
    "putābat" "he was thinking"
    "putābant" "they were thinking"
    "putantēs" "thinking"
+   "putārem" "I was thinking"
+   "putāret" "he might think"
    "putārent" "they might think"
    "putō" "I think"
    "putāre" "to think"
@@ -11837,6 +11852,10 @@
 
    "resonābant" "they were resounding"
    "resonō, resonāre, resonāvī, resonātus" "to resound"
+
+   "respiciēns" "looking back"
+   "respicere" "to look back"
+   "respiciō, respicere, respēxī, respectus" "to look back"
    
    "respīrantem" "breathing"
    "respīrō, respīrāre, respīrāvī, respīrātus" "to breathe"
@@ -13060,6 +13079,9 @@
    "subācta" "having been subjugated, conquered"
    "subāctum" "having been subjugated, conquered"
    "subigō, subigere, subēgī, subāctus" "to subjugate, conquer"
+
+   "subitāneum" "suddenly"
+   "subitāneus, subitānea, subitāneum" "suddenly"
 
    "subiugat" "he subjugates"
    "subjugō, subjugāre, subjugāvī, subjugātus" "to subjugate"
@@ -14563,6 +14585,8 @@
    "volō, velle, voluī, -" "to want"
    "volentēs" "willing"
    "voluissent" "they had wanted"
+   "vellētis" "you might have wished"
+   "voluissem" "I had wished"
    
    "vōcem" "voice"
    "vōx" "voice"
