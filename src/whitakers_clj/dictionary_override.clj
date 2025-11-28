@@ -10058,6 +10058,9 @@
    "pausētis" "you (might) pause"
    "pausō, pausāre, pausāvī, pausātus" "to pause"
 
+   "paventēs" "being frightened"
+   "paveō, pavēre, pāvī, -" "to be frightened"
+
    "pavīmentī" "floor, pavement, tiling"
    "pavīmentum" "floor, pavement, tiling"
    "pavīmentō" "floor, pavement, tiling"
@@ -10274,6 +10277,7 @@
    "permīsit" "he allowed, permitted"
    "permittam" "I will permit"
    "permitteret" "he might permit"
+   "permittite" "permit! allow!"
    "permitte" "permit! allow!"
    "permittō, permittere, permīsī, permissus" "to permit, to allow"
 
@@ -11798,6 +11802,7 @@
    "reperiuntur" "they are discovered"
    "reperiētur" "will be discovered, found out"
    "repperērunt" "they discovered, found out"
+   "reperīre" "to discover, find out"
    "reperiō, reperīre, repperī, repertus" "to discover, find out"
 
    "repetendus" "demanding back, returning"
@@ -12883,6 +12888,7 @@
    "splendōre" "splendor, brightness"
    "splendor, splendōris" "splendor, brightness"
 
+   "spoliābant" "they were plundering"
    "spoliātā" "having been plundered"
    "spoliātus" "having been plundered"
    "spoliō, spoliāre, spoliāvī, spoliātus" "to plunder"
