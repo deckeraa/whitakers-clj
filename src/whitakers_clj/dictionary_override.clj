@@ -2145,6 +2145,7 @@
    "ascendentibus" "ascending"
    "ascendēns" "ascending"
    "ascendente" "ascending"
+   "ascendentem" "ascending"
    "ascendentēs" "ascending"
    "ascendere" "to ascend"
    "ascendimus" "we ascend"
@@ -5982,6 +5983,7 @@
    "fīrmō, fīrmāre, fīrmāvī, fīrmātus" "to harden, confirm"
 
    "fīrma" "firm"
+   "fīrmī" "firm"
    "fīrmissimōs" "very firm"
    "fīrmus, fīrma -um, fīrmior -or -us, fīrmissimus -a -um" "firm"
 
@@ -6457,6 +6459,7 @@
    "gradus, gradūs" "step"
 
    "graecōrum" "of the Greeks"
+   "graecōs" "Greeks"
    "graecīs" "Greek"
    "Graecus, Graecī" "Greek"
    
@@ -7272,6 +7275,7 @@
    "ingemuit" "he sighed"
    "ingemō, ingemere, ingemuī, ingemitus" "to sigh"
 
+   "ingeniōsissimōs" "very clever, ingenious, apt"
    "ingeniōsīs" "clever, ingenious, apt"
    "ingeniōsus, ingeniōsa -um, ingeniōsior -or -us, ingeniōsissimus -a -um" "clever, ingenious, apt"
 
@@ -8648,6 +8652,9 @@
    "mīlibus" "miles"
    "mīlle, mīlle" "mile"
 
+   "minīs" "ambushes"
+   "mina, minae" "ambush"
+
    "minābat" "he was pushing"
    "minō, mināre, mināvī, minātus" "to push, to impel"
    "minimae" "very small"
@@ -8766,6 +8773,7 @@
    "mittunt" "they send"
    "mittuntur" "they are being sent"
    "mittente" "sending"
+   "mittentem" "sending"
    "mitteret" "he was sending"
    "mittere" "to send"
    "mittō, mittere, mīsī, missus" "to send"
