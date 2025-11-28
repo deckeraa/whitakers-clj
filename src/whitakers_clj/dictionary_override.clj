@@ -596,6 +596,7 @@
    "nēminem" "no one (accusative cas)"
    "neque" "not, not either"
    "nēquiter" "wickedly"
+   "Nīcēa" "Nicea"
    "Nīcēam" "Nicea"
    "Nicēnam" "Nicea"
    "nihil" "not at all"
@@ -912,6 +913,8 @@
    "siquidem" "however, accordingly, since, if only. In Medieval Latin, synonym of autem."
    "sita" "sita est = is located; idiomatic usage of past passive participle of sinō, sinere, sīvī, situs"
    "sīve" "or, what if"
+   "Solimānus" "Kilij Arslan a.k.a. Suleiman II, Seljuk sultan of Rûm and leader of the Turkish forces in Anatolia during the first crusade; son of Suleiman I"
+   "Solimānī" "of Kilij Arslan a.k.a. Suleiman II, Seljuk sultan of Rûm and leader of the Turkish forces in Anatolia during the first crusade; son of Suleiman I"
    "sollemniter" "solemnly"
    "sōlum" "only, just, barely, merely"
    "sotiātur" "it is joined; 3rd person singular present passive from a variant spelling of sociāre"
@@ -3024,6 +3027,7 @@
    "chrīstiānus, chrīstiānī" "Christian"
 
    "chrīstiānitāte" "Christianity, Christendom"
+   "chrīstiānitātis" "of Christianity, Christendom"
    "chrīstiānitās, chrīstiānitātis" "Christianity, Christendom"
 
    "cibāre" "to feed"
@@ -4587,6 +4591,10 @@
 
    "dēvēnit" "he came to"
    "dēveniō, dēvenīre, dēvēnī, dēventus" "to come to"
+
+   "dēvictī" "having been conquered entirely"
+   "dēvincere" "to conquer entirely"
+   "dēvincō, dēvincere, dēvīcī, dēvictus" "to conquer entirely"
    
    "dēvorat" "he devours"
    "dēvoret" "he (may) devour"
@@ -6250,6 +6258,8 @@
    "fugiēbat" "he was fleeing"
    "fugiendō" "fleeing"
    "fugiēns" "fleeing"
+   "fugientēs" "fleeing"
+   "fugis" "you flee"
    "fugit" "he flees, he fled"
    "fugite" "flee"
    "fugientum" "fleeing"
@@ -6395,6 +6405,7 @@
    "gēns, gentis" "people, clan, nation"
 
    "gentīlī" "heathen, pagan"
+   "gentīlibus" "heathens, pagans"
    "gentīlis" "heathen, pagan"
    "gentīlis, gentīlis" "heathen, pagan"
    
@@ -7231,6 +7242,7 @@
    
    "īnfēlīx" "unhappy"
    "īnfēlīcem" "unhappy"
+   "īnfēlīcior" "unhappier"
    "īnfēlīcissimam" "very unhappy"
    "īnfēlīcissimus" "very unhappy"
    "īnfēlīx, īnfēlīcis (gen.), īnfēlīcior -or -us, īnfēlīcissimus -a -um" "unhappy"
@@ -13683,6 +13695,10 @@
    "trecentī" "three hundred"
    "trecentīs" "three hundred"
    "trecentī -ae -a, trecentesimus -a -um, trecenī -ae -a, trecentie (n)s" "three hundred"
+
+   "tremefactus" "having been caused to tremble"
+   "tremefacere" "to cause to tremble"
+   "tremefaciō, tremefacere, tremefēcī, tremefactus" "to cause to tremble"
 
    "trepidōs" "agitated, nervous"
    "trepidus, trepida, trepidum" "agitated, nervous"
