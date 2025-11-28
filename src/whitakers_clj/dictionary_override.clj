@@ -582,6 +582,7 @@
    "nam" "yes, truly"
    "Nammeius" "Numeius, a Helvetic legate"
    "namque" "for and in fact, on the other hand"
+   "nātūrāliter" "naturally, normally, inherently, by nature"
    "nātūra, nātūrae" "nature, quality"
    "nātūram" "nature, quality"
    "nautor" "sailer; singular masculine nominative from nautor, nautōris. This is a medieval Latin term that is not found in many dictionaries."
@@ -684,6 +685,7 @@
    "paululum" "a little"
    "pēne" "almost; alternate spelling of paene"
    "per" "through"
+   "perfectē" "perfectly"
    "perfīnītis" "You finished; 2nd person plural present from perfīnīre"
    "perfīnīta" "perfīnīta + est: it has been finished"
    "petulanter" "impudently, adverb from petulāns"
@@ -837,6 +839,7 @@
    "sānctissimam" "most holy"
    "sapienter" "wisely"
    "Saracēnōrum" "of Saracenes, muslims"
+   "Saracēnōs" "Saracenes, muslims"
    "sat" "enough"
    "satis" "enough"
    "Saxonēs" "The Saxons"
@@ -12129,6 +12132,7 @@
    
    "sagitta" "arrow"
    "sagittae" "arrows"
+   "sagittārum" "of arrows"
    "sagittās" "arrows"
    "sagittīs" "arrows"
    "sagitta, sagittae" "arrow"
@@ -13455,6 +13459,7 @@
 
    "terrērentur" "they were being frightened"
    "territa" "having been frightened"
+   "terruērunt" "they frightened"
    "terruit" "he frightened"
    "terrēre" "to frighten"
    "terreō, terrēre, terruī, territus" "to frighten"
@@ -13705,6 +13710,7 @@
    "triduāna, triduānae" "three days"
    
    "trīnitās" "Trinity"
+   "trīnitāte" "Trinity"
    "trīnitātem" "Trinity"
    "trīnitātī" "Trinity"
    "trīnitātis" "Trinity"
@@ -14003,6 +14009,7 @@
    "vādere" "to go, to walk"
    "vādō, vādere, vāsī, -" "to go, to walk"
 
+   "valēbunt" "they will be healthy, able, strong"
    "valentēs" "being healthy, able, strong"
    "valuit" "he was healthy, able, strong"
    "valērent" "they were healthy, able, strong"
@@ -14530,6 +14537,7 @@
    "velle" "to want"
    "volō, velle, voluī, -" "to want"
    "volentēs" "willing"
+   "voluissent" "they had wanted"
    
    "vōcem" "voice"
    "vōx" "voice"
