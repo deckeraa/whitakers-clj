@@ -521,6 +521,7 @@
    "kal" "Abbreviation for kalendae, the first day of the month"
    "Karolus" "Charlemagne"
    "Kyarragi" "A region in western Ireland"
+   "lacrimābiliter" "woefully, with tears (adverb)"
    "lacum" "lake; singular masculine accusative from lacus, lacūs."
    "lātē" "widely; adverb from lātus, -a, -um"
    "latenter" "secretly, privately; in concealment, without being seen/perceived;"
@@ -2279,6 +2280,7 @@
    "abstulisset" "he (might) have carried away"
    "abstulērunt" "they carried away"
    "auferēbant" "they were carrying away"
+   "auferrētis" "carry yourselves away"
    "auferre" "to carry away, to remove"
    "auferō, auferre, abstulī, ablātus" "to carry away, to remove"
 
@@ -2967,6 +2969,7 @@
    "centuriōnēs" "centurions"
    "centuriō, centuriōnis" "centurion"
 
+   "cernentēs" "seeing, discerning"
    "cernentibus" "discerning"
    "cernitur" "it is discerned"
    "cernō, cernere, crēvī, crētus" "to sift, to see, to discern, to decide"
@@ -4593,6 +4596,7 @@
    "dēveniō, dēvenīre, dēvēnī, dēventus" "to come to"
 
    "dēvictī" "having been conquered entirely"
+   "dēvictōs" "having been conquered entirely"
    "dēvincere" "to conquer entirely"
    "dēvincō, dēvincere, dēvīcī, dēvictus" "to conquer entirely"
    
@@ -5059,7 +5063,8 @@
    "dormīvit" "he slept"
    "dormīre" "to sleep"
    "dormiō, dormīre, dormīvī, dormītus" "to sleep"
-   
+
+   "dorsa"  "back"
    "dorsum" "back"
    "dorsō" "back"
    "dorsum, dorsī" "back"
@@ -5391,8 +5396,10 @@
    "eurōpam" "Europe"
    "Eurōpa, Eurōpae" "Europe"
 
+   "ēvādet" "he will escape"
    "ēvāsisset" "he might have had escaped"
    "ēvāsit" "he avoided, he escaped"
+   "ēvāserīmus" "we had escaped"
    "ēvādere" "to avoid, to escape"
    "ēvādō, ēvādere, ēvāsī, ēvāsus" "to avoid, to escape"
 
@@ -5525,6 +5532,7 @@
    "exōsus" "hateful or hated"
    "exōsus, exōsa, exōsum" "hateful or hated"
 
+   "expandērunt" "they spread out, expanded"
    "expandite" "spread out! expand!"
    "expandō, expandere, expandī, expānsus" "to spread out, expand"
    
@@ -6581,6 +6589,7 @@
    "habēbunt" "they will have"
    "habuī" "I had"
    "habētur" "it is had"
+   "habuissem" "I might have had"
    "habeō, habēre, habuī, habitus" "to have"
 
    "habitābam" "I was living"
