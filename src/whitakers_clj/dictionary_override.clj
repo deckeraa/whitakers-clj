@@ -8899,6 +8899,7 @@
    "mortua" "dead"
    "mortuae" "dead"
    "mortuī" "dead"
+   "mortuīs" "dead"
    "mortuō" "dead"
    "mortuōs" "dead"
    "mortuus" "dead"
@@ -10662,6 +10663,7 @@
    "potuerant" "they had been able to"
 
    "potentēs" "mighty"
+   "potentiōrēs" "more powerful"
    "potentissimī" "very mighty"
    "potentissimōs" "very mighty"
    "potēns, potentis (gen.), potentior -or -us, potentissimus -a -um" "powerful, mighty"
@@ -11187,6 +11189,10 @@
    "proximus" "neighbor"
    "proximus, proximī" "neighbor"
 
+   "prūdentia"  "knowledge, skillfulness, foresight"
+   "prūdentiam" "knowledge, skillfulness, foresight"
+   "prūdentia, prūdentiae" "knowledge, skillfulness, foresight"
+
    "prūdēns" "prudent, competent"
    "prūdentissimōs" "very prudent, competent"
    "prūdēns, prūdentis (gen.), prūdentior -or -us, prūdentissimus -a -um" "prudent, competent"
@@ -11478,7 +11484,8 @@
    
    "rēctitūdinis" "straightness, rectitude"
    "rēctitūdō, rēctitūdinis" "straightness, rectitude"
-   
+
+   "rēctā" "straight, proper, correct"
    "rēctō" "straight, proper, correct"
    "rēctus, rēcta -um, rēctior -or -us, rēctissimus -a -um" "straight, proper, correct"
 
@@ -11839,6 +11846,10 @@
    "restaurāret" "he might restore, rebuild"
    "restaurāre" "to restore, to rebuild"
    "restaurō, restaurāre, restaurāvī, restaurātus" "to restore, to rebuild"
+
+   "resurgentem" "rising again"
+   "resurgere" "to rise again, to lift oneself"
+   "resurgō, resurgere, resurrēxī, resurrēctus" "to rise again, to lift oneself"
    
    "resurrēctiōnis" "resurrection"
    "resurrēctiōnem" "resurrection"
