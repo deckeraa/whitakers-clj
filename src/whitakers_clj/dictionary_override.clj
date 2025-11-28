@@ -2243,6 +2243,7 @@
    "audāx" "bold, daring"
    "audāx, audācis (gen.), audācior -or -us, audācissimus -a -um" "bold, daring"
 
+   "audēbit" "he will dare"
    "ausam" "having been dared"
    "audente" "daring"
    "audērent" "they had dared"
@@ -2959,6 +2960,7 @@
    "centuriōnēs" "centurions"
    "centuriō, centuriōnis" "centurion"
 
+   "cernentibus" "discerning"
    "cernitur" "it is discerned"
    "cernō, cernere, crēvī, crētus" "to sift, to see, to discern, to decide"
 
@@ -3016,6 +3018,9 @@
    "chrīstiānōrum" "of Christians"
    "chrīstiānōs" "Christians"
    "chrīstiānus, chrīstiānī" "Christian"
+
+   "chrīstiānitāte" "Christianity, Christendom"
+   "chrīstiānitās, chrīstiānitātis" "Christianity, Christendom"
 
    "cibāre" "to feed"
    "cibō, cibāre, cibāvī, cibātus" "to feed"
@@ -4051,6 +4056,7 @@
    "crēdidī" "I believed, I entrusted"
    "crēdidit" "he believed"
    "crēdidistī" "you believed"
+   "crēdidissent" "they had believed"
    "crēdis" "you believe"
    "crēdō" "I believe"
    "crēdēbāmus" "we were believing"
@@ -4515,6 +4521,9 @@
    "dēscendit" "he descended"
    "dēscendere" "to descend"
    "dēscendō, dēscendere, dēscendī, dēscēnsus" "to descend"
+
+   "dēscrībere" "to describe"
+   "dēscrībō, dēscrībere, dēscrīpsī, dēscrīptus" "to describe"
 
    "dēserta" "deserts"
    "dēsertum, dēsertī" "desert"

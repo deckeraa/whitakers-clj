@@ -686,7 +686,7 @@
         ;; _ (println args-to-passthrough)
         result (sh "./bin/words" temp-file-name
                    :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER)
-        _ (println (:out result))
+        ;; _ (println (:out result))
         parsed (parse-sections (:out result) {:condense-entries? true})
         freqs (word-frequency parsed)]
     ;; (println "Output from shell command:")
