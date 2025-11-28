@@ -5370,6 +5370,7 @@
    "eurōpam" "Europe"
    "Eurōpa, Eurōpae" "Europe"
 
+   "ēvāsisset" "he might have had escaped"
    "ēvāsit" "he avoided, he escaped"
    "ēvādere" "to avoid, to escape"
    "ēvādō, ēvādere, ēvāsī, ēvāsus" "to avoid, to escape"
@@ -8746,6 +8747,7 @@
    "missus, missūs" "throwing, dispatch"
 
    "missīs" "having been sent"
+   "mīsisset" "he might have sent"
    "mittēbat" "he was sending"
    "mittēbant" "they were sending"
    "mittēbantur" "they were being sent"
@@ -10111,6 +10113,10 @@
    
    "perdūcat" "you (might) lead through"
    "perdūcō, perdūcere, perdūxī, perductus" "to lead through, to guide"
+
+   "perdūrāvit" "he endured"
+   "perdūrāre" "to endure"
+   "perdūrō, perdūrāre, perdūrāvī, perdūrātus" "to ensure"
    
    "peregrīnātiō" "travel, pilgrimage"
    "peregrīnātiōnis" "travel, pilgrimage"
@@ -10192,6 +10198,7 @@
    "pereat" "may it perish"
    "perivērunt" "they perished"
    "perīvit" "he perished"
+   "perīre" "to perish"
    "pereō, perīre, perivī(iī), peritus" "to perish"
    
    "perlustrābant" "they were wandering through"
@@ -10244,6 +10251,7 @@
    "persecūtiōnēs" "pursuits"
    "persecūtiō, persecūtiōnis" "pursuit"
 
+   "persecūtī" "having followed"
    "persequendum" "pursuing"
    "persequentēs" "following"
    "persequēbātur" "he was following"
@@ -12807,6 +12815,7 @@
    "spoliātus" "having been plundered"
    "spoliō, spoliāre, spoliāvī, spoliātus" "to plunder"
 
+   "spolia" "spoil, booty"
    "spoliī" "spoil, booty"
    "spoliīs" "spoils, booty"
    "spolium" "spoil, booty"
