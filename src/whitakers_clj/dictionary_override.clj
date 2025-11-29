@@ -159,6 +159,8 @@
    "Caiphā" "Ablative of Caiphas, a high priest involved with the crucifixion of Christ."
    "candida" "bright, white, clean; singular feminine nominative from candidus, candida, candidum"
    "cantāte" "Sing! Plural imperative from cantāre"
+   "Cappadocia" "Cappadocia, a region in modern-day eastern Turkey"
+   "Cappadociae" "of Cappadocia, a region in modern-day eastern Turkey"
    "carnūtēs" "A Celtic tribe of Gallia Lugdunensis (nominative or accusative)"
    "carnūtibus" "A Celtic tribe of Gallia Lugdunensis (dative or ablative)"
    "Carolomannus" "Carloman, son of Pepin the Short and co-ruler of the Frankish kingdom with Charlemagne"
@@ -176,6 +178,7 @@
    "celebrāte" "Celebrate!"
    "celeriter" "quickly"
    "cepsitāvit" "he stumbled; singular perfect from cespitō, cespitāre, cespitāvi, cespitas"
+   "Cesaream" "Caesarea (accusative case)"
    "Chrīstō" "Christ"
    "cibō" "food; singular masculine ablative from cibum cibum, cibī"
    "cicerōnem" "Cicerō (accusative case)"
@@ -309,6 +312,7 @@
    "expedītior" "freer, more unburdened"
    "expedītius" "freer, more unburdened"
    "explētis" "You fill; 2nd person plural present from expleō, explēre, explēvī, explētus"
+   "extemplō" "immediately"
    "extrā" "outside of, beyond"
    "fabricātus" "having been made; masuline nominative past passive participle from fabricō, fabricāre, fabricāvī, fabricātus"
    "facillimē" "very easily"
@@ -379,6 +383,7 @@
    "helī" "Eli, Old Testament high priest."
    "Helī" "Eli, Old Testament high priest."
    "herī" "yesterday"
+   "Hermeniōrum" "Of Armenia"
    "Hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
    "hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
    "Hassī" "Hesse, a region in Germany"
@@ -1355,6 +1360,7 @@
    "adūnō, adūnāre, adūnāvī, adūnātus" "to unite, bring together"
 
    "adveniēns" "arriving"
+   "advenientibus" "arriving"
    "advenīre" "to arrive"
    "adveniō, advenīre, advēnī, adventus" "to arrive"
    
@@ -1425,6 +1431,7 @@
    "aestus, aestūs" "heat"
    "aestuābat" "it was boiling"
    "aestuāns" "boiling"
+   "aestuantēs" "boiling"
    "aestuāre" "to boil, to be agitated"
    "aestuō, aestuāre, aestuāvī, aestuātus" "to boil, to be agitated"
 
@@ -3546,6 +3553,7 @@
    "concēderet" "he (might) have been allowing"
    "concēdet" "he will allow, concede"
    "concēdendum" "allowing"
+   "concessērunt" "they conceded, allowed"
    "concēdō, concēdere, concessī, concessus" "to concede, to allow"
    
    "concēpit" "she conceived"
@@ -5025,6 +5033,7 @@
    "doctrīna, doctrīnae" "doctrine, teaching, instruction"
 
    "doctissimō" "very learned, knowledgeable"
+   "doctissimus" "very learned, knowledgeable"
    "doctus" "learned, knowledgeable"
 
    "dogma" "doctrine, dogma"
@@ -5654,6 +5663,7 @@
 
    "expugnātam" "having been assaulted, stormed, conquered"
    "expugnandam" "assaulting, storming, conquering"
+   "expugnāret" "he assulted, stormed, conquered"
    "expugnāre" "to assault, to storm, to conquer"
    "expugnō, expugnāre, expugnāvī, expugnātus" "to assault, to storm, to conquer"
 
@@ -12821,6 +12831,7 @@
    "sitēs" "thirsts"
 
    "sitiēbant" "they were thirsting"
+   "sitientēs" "thirsting"
    "sitiō, sitīre, sitīvī, sitītus" "to thirst"
 
    "sociābat" "it was allying"
