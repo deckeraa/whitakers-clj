@@ -117,6 +117,7 @@
    "autem" "but, however, moreover"
    "avēs" "birds; plural feminine nominative or accusative from avis, avis"
    "avium" "of birds; plural feminine genitive from avis, avis"
+   "Balduīnō" "Baldwin"
    "Balduīnus" "Baldwin"
    "bari" "Bari, a large city on the eastern coast of Italy"
    "Barim" "Bari, a large city on the eastern coast of Italy (accusative case)"
@@ -221,8 +222,8 @@
    "cottīdiē" "daily"
    "cottae" "Cotta, a Roman cognomen (genitive or dative case)"
    "crās" "tomorrow"
-   "cui" "who; singular dative from quis"
-   "cuius" "whose; singular genitive from quis"
+   "cui" "to whom; singular dative from quī"
+   "cuius" "whose; singular genitive from quī"
    "cultum" "cult, civilization; singular masculine accusative from cultus, cultūs"
    "cum" "with"
    "cumque" "and with"
@@ -1625,6 +1626,9 @@
    "alterum" "the other"
    "alter, altera, alterum" "the other"
 
+   "altercābātur" "he was disputing"
+   "altercor, altercārī, altercātus" "to dispute"
+
    "altercātiō" "dispute"
    "altercātiōnem" "dispute"
    "altercātiō, altercātiōnis" "dispute"
@@ -2775,6 +2779,7 @@
    "caper" "he-goat"
    "caper, caprī" "he-goat"
 
+   "capiat" "let him take"
    "capiēbant" "they were taking"
    "capiēmus" "we will take"
    "capiendōs" "seizing"
@@ -4584,6 +4589,7 @@
    "dēserta" "deserts"
    "dēsertum, dēsertī" "desert"
 
+   "dēsīderant" "they desire"
    "dēsīderāret" "he desired"
    "dēsīderāre" "to desire"
    "dēsīderō, dēsīderāre, dēsīderāvī, dēsīderātus" "to desire"
@@ -5018,6 +5024,7 @@
    "doctrīnae" "doctrine, teaching, instruction"
    "doctrīna, doctrīnae" "doctrine, teaching, instruction"
 
+   "doctissimō" "very learned, knowledgeable"
    "doctus" "learned, knowledgeable"
 
    "dogma" "doctrine, dogma"
@@ -5049,6 +5056,8 @@
    "domō, domāre, domuī, domitus" "to subdue, tame"
 
    "dominābantur" "he was being mastered"
+   "dominārī" "to be mastered"
+   "domināre" "to master"
    "dominō, domināre, domināvī, dominātus" "to master"
 
    "dominātū" "rule, mastery, tyranny"
@@ -5148,6 +5157,7 @@
    "ductor" "leader"
    "ductor, ductōris" "leader"
 
+   "duae" "two"
    "duābus" "two"
    "duōrum" "two"
    "duās" "two"
@@ -5631,6 +5641,9 @@
    "explōrāret" "he was exploring, investigating"
    "explōrāvisset" "he had explored"
    "explōrō, explōrāre, explōrāvī, explōrātus" "to explore, to investigate"
+
+   "expoliāre" "to plunder"
+   "expoliō, expoliāre, expoliāvī, expoliātus" "to plunder"
    
    "exposuimus" "we explained"
    "expōnō, expōnere, exposuī, expositus" "to explain"
@@ -6626,6 +6639,7 @@
    "gȳrus, gȳrī" "circle, ring, circuit, course"
    
    "habeam" "I (might) have"
+   "habeat" "let him have"
    "habeant" "let them have"
    "habēbat" "he had"
    "habēbant" "they had"
@@ -7655,6 +7669,7 @@
    "intrāvit" "he entered"
    "intrantēs" "entering"
    "intrāvimus" "we entered"
+   "intrēmus" "let us enter"
    "intrō, intrāre, intrāvī, intrātus" "to enter"
 
    "intrōgressī" "having entered"
@@ -8256,6 +8271,7 @@
    "limite" "limit"
    "līmes, līmitis" "limit"
 
+   "lītigābat" "he quarrelled"
    "lītigābant" "they quarrelled"
    "lītigō, lītigāre, lītigāvī, lītigātus" "to quarrel"
 
@@ -9275,6 +9291,7 @@
    "nequībat" "he was unable"
    "nequīmus" "we are unable"
    "nequīvimus" "we were unable"
+   "nequīvit" "he was unable"
    "nequeō, nequīre, nequivī(iī), nequitus" "to be unable"
 
    "nescīmus" "we do not know"
@@ -9366,6 +9383,7 @@
    "nōluērunt" "they didn't want"
    "nōlēmus" "we won't want"
    "nōlentēs" "not wanting"
+   "nōlēns" "not wanting"
    "nōlō" "I don't want"
    "nōluit" "he didn't want"
    "nōlō, nōlle, nōluī, -" "to not want"
@@ -9552,6 +9570,7 @@
    "obstāculum" "obstacle, hindrance"
    "obstāculum, obstāculī" "obstacle, hindrance"
 
+   "obstāns" "opposing"
    "obstāre" "to oppose"
    "obstō, obstāre, obstitī, obstātus" "to oppose"
 
@@ -9732,6 +9751,7 @@
    "oppugnātiōnis" "assault, attack"
    "oppugnātiō, oppugnātiōnis" "assault, attack"
 
+   "optimae" "very good"
    "optimam" "very good"
    "optimīs" "very good"
 
@@ -9821,6 +9841,7 @@
    "ōrāvit" "he prayed"
    "ōrō, ōrāre, ōrāvī, ōrātus" "to pray"
 
+   "orta" "having arisen"
    "ortae" "having arisen"
    "ortī" "having arisen"
    "oriuntur" "they originate, they arise"
@@ -10475,6 +10496,7 @@
    "petīvissent" "they (might) have had asked"
    "peteret" "he was asking for"
    "petere" "to ask for"
+   "petimus" "we ask for"
    "petō, petere, petīvī, petītus" "to ask for"
 
    "petītiō" "petition"
@@ -12984,6 +13006,7 @@
    "spoliābant" "they were plundering"
    "spoliātā" "having been plundered"
    "spoliātus" "having been plundered"
+   "spoliēmus" "let us plunder"
    "spoliō, spoliāre, spoliāvī, spoliātus" "to plunder"
 
    "spolia" "spoil, booty"
@@ -13713,6 +13736,7 @@
 
    "trādēbātur" "he was handed over"
    "trādita" "having been handed over"
+   "trāditae" "having been handed over"
    "trādiderat" "he had handed over"
    "trādidit" "he handed over"
    "trādidimus" "we handed over"
