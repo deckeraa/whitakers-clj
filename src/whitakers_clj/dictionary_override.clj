@@ -13231,6 +13231,7 @@
    "superāvisset" "he (might) have overcome"
    "superāvit" "he overcame"
    "superāvērunt" "they overcame"
+   "superāvimus" "we overcame"
    "superārī" "to be overcome"
    "superō, superāre, superāvī, superātus" "to overcome"
 
@@ -13573,6 +13574,8 @@
    
    "tintinnābulum" "bell"
    "tintinnābulum, tintinnābulī" "bell"
+
+   "tollēbant" "they were taking up"
    "tollat" "he (might) lift up"
    "tollant" "they (might) lift up"
    "sublāta" "having been lifted up"
@@ -13904,6 +13907,7 @@
    "ūtilitātem" "usefulness, utility, profit, advantage"
    "ūtilitās, ūtilitātis" "usefulness, utility, profit, advantage"
 
+   "ūtilia" "useful"
    "ūtile" "useful"
    "ūtilis, ūtilis, ūtile" "useful"
 
@@ -14170,6 +14174,7 @@
    "veniente" "coming"
    "veniant" "they might come"
    "venientibus" "coming"
+   "veniēbāmus" "we were coming"
 
    "venia" "indulgence, kindness"
    "veniam" "indulgence, kindness"
