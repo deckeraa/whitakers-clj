@@ -2600,6 +2600,10 @@
    "būtȳrum" "butter"
    "būtȳrō" "butter"
    "būtȳrum, būtȳrī" "butter"
+
+   "caballōrum" "of horses"
+   "caballus" "horse"
+   "caballus, caballī" "horse"
    
    "cācabus" "cooking pot"
    "cācabum" "cooking pot"
@@ -2753,6 +2757,10 @@
    "cantum" "song"
    "cantus" "song"
    "cantus, cantūs" "song"
+
+   "caprī" "he-goats"
+   "caper" "he-goat"
+   "caper, caprī" "he-goat"
 
    "capiēbant" "they were taking"
    "capiēmus" "we will take"
@@ -3193,6 +3201,10 @@
    "coagulātae" "having been coagulated"
    "coagulātum" "having been coagulated"
    "coagulō, coagulāre, coagulāvī, coagulātus" "to coagulate, to curdle"
+
+   "coartābant" "it was hemming in"
+   "coartāre" "to hem in"
+   "coartō, coartāre, coartāvī, coartātus" "to hem in"
 
    "coelī" "heaven"
    "coelum" "heaven"
@@ -5403,6 +5415,7 @@
    "Eurōpa, Eurōpae" "Europe"
 
    "ēvādet" "he will escape"
+   "ēvāsimus" "we escaped"
    "ēvāsisset" "he might have had escaped"
    "ēvāsit" "he avoided, he escaped"
    "ēvāserīmus" "we had escaped"
@@ -5505,6 +5518,7 @@
    "exeuntēs" "going out"
    "exībat" "he was going out"
    "exībant" "they were going out"
+   "exīvimus" "we went out"
    
    "exilīvit" "he went out"
    "exiliō, exilīre, exilīvī, -" "to go out"
@@ -6221,6 +6235,10 @@
    "frequenter" "frequently"
    "fretō" "strait, channel"
    "fretum, fretī" "strait, channel"
+
+   "fricantēs" "rubbing"
+   "fricāre" "to rub"
+   "fricō, fricāre, fricuī, frictus" "to rub"
 
    "frīgidum" "cold"
    "frīgidum, frīgidī" "cold"
