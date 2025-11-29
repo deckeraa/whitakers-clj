@@ -566,11 +566,13 @@
     (str word ": " definition " infinitive")
     (str word ": " definition " "
          (when-let [v (:person selected-opt)]
-           (pretty-person v)) " "
+           (if (not (= v 0))
+             (pretty-person v)
+             "")) " "
          (name* (:number selected-opt) abbreviate?)
          (name* (:tense selected-opt) abbreviate?)
          (name* (:voice selected-opt) abbreviate?)
-         (when (#{:subjunctive :imperative} (:mood selected-opt))
+         (when (#{:subjunctive :imperative :infinitive} (:mood selected-opt))
            (str (name (:mood selected-opt)) " "))
          "from " dict-entry)))
 
@@ -582,6 +584,7 @@
         dict-entry (or (macronized-words (:dictionary-entry parsed-word))
                        (:dictionary-entry parsed-word))
         abbreviate? false]
+    (println parsed-word)
     (if (dictionary-override word)
       (str word ": " (dictionary-override word))
       (case (or (:part-of-speech selected-opt) (:part-of-speech parsed-word))

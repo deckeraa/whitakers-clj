@@ -5027,7 +5027,7 @@
    "dabit" "he will give"
    "darētur" "he was being given"
    "dederat" "he had given"
-   "dō, dare, dedī, datum" "to give (irregular)"
+   "dō, dare, dedī, datus" "to give (irregular)"
 
    "docēbant" "they were teaching"
    "docent" "they teach"
@@ -7761,7 +7761,7 @@
    "invenīrī" "to be found"
    "inveniēbāmus" "we were finding"
    "invenientēs" "finding"
-   "inveniō, invenīre, invēnī, inventum" "to find"
+   "inveniō, invenīre, invēnī, inventus" "to find"
 
    "invertitur" "it is changed, turned upside down"
    "invertō, invertere, invertī, inversus" "to change, turn upside down"
