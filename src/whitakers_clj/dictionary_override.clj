@@ -273,6 +273,7 @@
    "eam" "her; singular feminine accusative from is, ea, id"
    "eārum" "their; plural feminine genitive from is, ea, id"
    "eās" "their; plural feminine accusative from is, ea, id"
+   "ebdomadās" "weeks"
    "eīs" "to them; plural dative or ablative from is, ea, id"
    "Euboniā" "The Isle of Man, an island between Great Britain and Ireland."
    "euboniā" "The Isle of Man, an island between Great Britain and Ireland."
@@ -767,6 +768,7 @@
    "quid" "who; singular neuter nom. or acc. of quis"
    "quidem" "indeed, at last"
    "quīn" "even, in fact"
+   "quīngēntīs" "500"
    "quintum" "fifth"
    "quīnquāgintā" "fifty"
    "quinque" "five"
@@ -1885,6 +1887,8 @@
 
    "antiochīa" "Antioch (city in Roman Syria/modern Turkey)"
    "Antiochīa" "Antioch (city in Roman Syria/modern Turkey)"
+   "antiochīae" "of Antioch (city in Roman Syria/modern Turkey)"
+   "antiochīam" "Antioch (city in Roman Syria/modern Turkey)"
    "Antiochīa, Antiochīae" "Antioch (city in Roman Syria/modern Turkey)"
 
    "antīqua" "ancient"
@@ -4861,6 +4865,7 @@
    "discēdit" "he departs"
    "discēdendum" "departing"
    "discessērunt" "they departed"
+   "discessissent" "they had departed"
    "discēdere" "to depart"
    "discēdō, discēdere, discessī, discessus" "to depart"
 
@@ -5991,6 +5996,7 @@
    "fidēlis, fidēlis" "faithful person, confidant"
 
    "fidēlitās" "faithfulness, fidelity"
+   "fidēlitāte"  "faithfulness, fidelity"
    "fidēlitātem" "faithfulness, fidelity"
    "fidēlitās, fidēlitātis" "faithfulness, fidelity"
 
@@ -8139,6 +8145,7 @@
    "lectulus, lectulī" "bed, coach"
 
    "lēgandum" "sending as an envoy"
+   "lēgāre" "to send as an envoy"
    "lēgō, lēgāre, lēgāvī, lēgātus" "to send as an envoy"
 
    "lēgātiōne" "legate, embassy"
@@ -9557,6 +9564,7 @@
    "obsideret" "they besieged"
    "obsēdit" "he besieged"
    "obsidēre" "to besiege"
+   "obsēderant" "they had besieged"
    "obsēdērunt" "they besieged"
    "obsessa"  "having been besieged"
    "obsessīs" "having been besieged"
@@ -9567,8 +9575,12 @@
    "obsidum" "of hostages"
    "obses, obsidis" "hostage"
 
-   "obsidiōne" "seige"
-   "obsidiō, obsidiōnis" "seige"
+   "obsessiō" "siege"
+   "obsessiōne" "siege"
+   "obsessiō, obsessiōnis" "siege"
+
+   "obsidiōne" "siege"
+   "obsidiō, obsidiōnis" "siege"
 
    "obsistere" "to oppose, resist, withstand"
    "obsistō, obsistere, obstitī, obstitus" "to oppose, resist, withstand"
@@ -10835,6 +10847,7 @@
 
    "praecēdunt" "they proceed, they excel"
    "praecessit" "he proceeded, excelled"
+   "praecēderent" "they had proceeded, excelled"
    "praecēdere" "to proceed, to excel"
    "praecēdō, praecēdere, praecessī, praecessus" "to proceed, to excel"
    
@@ -10926,7 +10939,8 @@
 
    "praemonuit" "he forewarned"
    "praemoneō, praemonēre, praemonuī, praemonitus" "to forewarn"
-   
+
+   "praeparābant" "they were preparing"
    "praeparantur" "being prepared"
    "praeparāvīt" "he prepared"
    "praeparandās" "preparing"
@@ -11648,6 +11662,7 @@
    "rēctō" "straight, proper, correct"
    "rēctus, rēcta -um, rēctior -or -us, rēctissimus -a -um" "straight, proper, correct"
 
+   "recuperātī" "having regained"
    "recuperanda" "to be regained"
    "recuperō, recuperāre, recuperāvī, recuperātus" "to regain"
 
@@ -13360,6 +13375,7 @@
    "superātus" "having been overcome"
    "superāvisset" "he (might) have overcome"
    "superāvit" "he overcame"
+   "superāverant" "they had overcome"
    "superāvērunt" "they overcame"
    "superāvimus" "we overcame"
    "superārī" "to be overcome"
@@ -14020,6 +14036,9 @@
    "tyrannus" "tyrant"
    "tyrannus, tyrannī" "tyrant"
 
+   "ūberrimam" "very fruitful, fertile"
+   "ūber, ūberis (gen.), ūberior -or -us, ūberrimus -a -um" "fruitful, fertile"
+
    "ūbertās" "abundance, plenty"
    "ūbertās, ūbertātis" "abundance, plenty"
 
@@ -14447,6 +14466,10 @@
    "viam" "road"
    "viīs" "roads"
    "via, viae" "road"
+
+   "vicecomes" "vice-count"
+   "vicecomitem" "vice-count"
+   "vicecomes, vicecomitis" "vice-count"
 
    "vīcēsimō" "twentieth"
    "vīcēsimus, vīcēsima, vīcēsimum" "twentieth"
