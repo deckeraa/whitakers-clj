@@ -13958,6 +13958,7 @@
    "trīstis" "sad"
    "trīstis, trīstis, trīste" "sad"
 
+   "trīstitia" "sadness"
    "trīstitiam" "sadness"
    "trīstitia, trīstitiae" "sadness"
    
@@ -14324,6 +14325,7 @@
    "vēlum, vēlī" "sail, cloth"
 
    "vēndēbant" "they were selling"
+   "vēndentēs" "selling"
    "vēnderētur" "was being sold"
    "vēndere" "to sell"
    "vēndō, vēndere, vēndidī, vēnditus" "to sell"
