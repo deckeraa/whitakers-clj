@@ -1579,6 +1579,7 @@
    "aliēnum" "strange, unfamiliar"
    "aliēnus, aliēna -um, aliēnior -or -us, alienissimus -a -um" "strange, unfamiliar"
 
+   "alimentīs" "food, nourishment, sustenance"
    "alimentōrum" "of food, nourishment, sustenance"
    "alimentum" "food, nourishment, sustenance"
    "alimentum, alimentī" "food, nourishment, sustenance"
@@ -1703,6 +1704,7 @@
    "āmittō, āmittere, āmīsī, āmissus" "to lose, to dismiss"
    
    "ammonēbat" "he was admonishing, he was advising"
+   "ammōnēbant" "they were admonishing, they were advising"
    "ammonēre" "to admonish, to advise"
    "ammoneō, ammonēre, ammonuī, ammonitus" "to admonish, to advise"
 
@@ -1975,6 +1977,7 @@
    "appropinquābant" "they approached"
    "appropinquant" "they approach"
    "appropinquāvērunt" "they had approached"
+   "appropinquāvimus" "we had approached"
    "appropinquāvissem" "I (might) have had approached"
    "appropinquāvisset" "he (might) have had approached"
    "appropinquāvissent" "they (might) have had approached"
@@ -2054,6 +2057,9 @@
    "archiepiscopus" "archbishop"
    "archiepiscopīs" "archbishops"
    "archiepiscopus, archiepiscopī" "archbishop"
+
+   "arcus" "bow"
+   "arcus, arcūs" "bow"
 
    "ārdēbant" "they were burning"
    "ārdēns" "burning"
@@ -3025,6 +3031,10 @@
    "cētus" "large sea animal, whale, shark, dolphin"
    "cētī" "large sea animal, whale, shark, dolphin"
    "cētus, cētī" "large sea animal, whale, shark, dolphin"
+
+   "chorda" "string"
+   "chordae" "string's"
+   "chorda, chordae" "string"
    
    "chorus" "chorus"
    "chorus, chorī" "chorus"
@@ -3673,7 +3683,8 @@
    "congregātōs" "having been gathered"
    "congregantur" "they are gathered"
    "congregō, congregāre, congregāvī, congregātus" "to congregate, gather"
-   
+
+   "congregātiō"   "congregation"
    "congregātiōne" "congregation"
    "congregātiō, congregātiōnis" "congregation"
 
@@ -4217,6 +4228,10 @@
 
    "currus" "chariot"
    "currus, currūs" "chariot"
+
+   "cursor" "runner, racer"
+   "cursōrēs" "runners, racers"
+   "cursor, cursōris" "runner, racer"
    
    "cursūs" "course"
    "cursū" "course"
