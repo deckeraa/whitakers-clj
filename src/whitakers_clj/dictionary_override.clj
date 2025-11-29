@@ -740,6 +740,7 @@
    "quā" "what; singular female ablative of qui"
    "quae" "who; plural female nom. or neuter nom. or acc. of quis"
    "quam" "how? how much?"
+   "quātinus" "how long, how far"
    "quemadmodum" "how"
    "quamdiū" "as long as"
    "quamquam" "although"
@@ -8732,6 +8733,7 @@
    
    "mīles" "soldier"
    "mīlite" "soldier"
+   "mīlitem" "soldier"
    "mīlitēs" "soldiers"
    "mīlitis" "of a soldier"
    "mīlitibus" "soldiers"
@@ -9513,6 +9515,10 @@
 
    "obrizō" "refined (gold)"
    "obrizus, obriza, obrizum" "refined (gold)"
+
+   "obscūritās"  "darkness, lowliness, meanness"
+   "obscūritāte" "darkness, lowliness, meanness"
+   "obscūritās, obscūritātis" "darkness, lowliness, meanness"
    
    "obsequium" "allegiance, obedience"
    "obsequium, obsequiī" "allegiance, obedience"
@@ -11569,6 +11575,7 @@
    "recēdās" "you (might) recede, withdraw"
    "recēde" "recede! withdraw!"
    "recēdēbant" "they were receding, they were withdrawing"
+   "recēdunt" "they withdraw"
    "recēdit" "it recedes"
    "recēdite" "withdraw!"
    "recesserit" "it will have withdrawn"
@@ -12798,6 +12805,11 @@
    "sociāta" "having been allied"
    "sociāre" "to ally"
    "sociō, sociāre, sociāvī, sociātus" "to ally"
+
+   "societās" "society, fellowship"
+   "societāte" "society, fellowship"
+   "societātem" "society, fellowship"
+   "societās, societātis" "society, fellowship"
    
    "sociō" "associate, companion"
    "sociīs" "associates, companions"
@@ -13392,6 +13404,7 @@
    "suscipiēbant" "they were undertaking"
    "suscēpistī" "you undertook"
    "suscēperat" "he undertook"
+   "suscipere" "to undertake"
    "suscipiō, suscipere, suscēpī, susceptus" "to undertake"
 
    "suscitāns" "awakening, stirring up"
@@ -13820,6 +13833,7 @@
    "trecentīs" "three hundred"
    "trecentī -ae -a, trecentesimus -a -um, trecenī -ae -a, trecentie (n)s" "three hundred"
 
+   "tremefactī"  "having been caused to tremble"
    "tremefactus" "having been caused to tremble"
    "tremefacere" "to cause to tremble"
    "tremefaciō, tremefacere, tremefēcī, tremefactus" "to cause to tremble"
