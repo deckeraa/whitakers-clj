@@ -743,6 +743,7 @@
    "Puisātiō" "Eurardus dē Puisātiō = Everard III of Le Puiset"
    "pulsātō" "having been hit; perfect passive dative or ablative participle from pulsō, pulsāre, pulsāvī, pulsātus"
    "propter" "because of, near"
+   "prout" "as, just as, exactly as"
    "prudenter" "prudently"
    "quā" "what; singular female ablative of qui"
    "quae" "who; plural female nom. or neuter nom. or acc. of quis"
@@ -10890,6 +10891,7 @@
    "praeceptum" "order, direction, precept"
    "praeceptum, praeceptī" "order, direction, precept"
 
+   "praecipitābat" "he was casting down"
    "praecipitābant" "they were casting down"
    "praecipitāre" "to cast down"
    "praecipitō, praecipitāre, praecipitāvī, praecipitātus" "to cast down"
@@ -10952,6 +10954,9 @@
    "praefēcerat" "he had put in command"
    "praefēcit" "he put in command"
    "praeficiō, praeficere, praefēcī, praefectus" "to place in command"
+
+   "praeīre" "to go before, precede, dictate"
+   "praeeō, praeīre, praeivī(iī), praeitus" "to go before, precede, dictate"
 
    "praemissō" "having been sent ahead"
    "praemissum" "having been sent ahead"
@@ -11913,6 +11918,7 @@
    "remānserat" "he had remained"
    "remānsērunt" "they remained"
    "remānserit" "they remained"
+   "remānsimus" "we remained"
    "remaneō, remanēre, remānsī, remānsus" "to remain"
 
    "remeāvit" "he returned"
