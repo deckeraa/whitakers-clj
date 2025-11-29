@@ -3228,6 +3228,9 @@
    "clientēs" "clients"
    "cliēns, clientis" "client"
 
+   "clipeōs" "shields"
+   "clipeus, clipeī" "shield"
+
    "coāctū" "compulsion"
    "coāctus" "compulsion"
    "coāctus, coāctūs" "compulsion"
@@ -4539,6 +4542,7 @@
    "dēmoror, dēmorārī, dēmorātus sum" "to detain, to delay, to dwell"
 
    "dēnāriīs" "denarii. A denarius is a type of coin"
+   "dēnāriōs" "denarii. A denarius is a type of coin"
    "dēnārius" "denarius. A denarius is a type of coin"
    "dēnārius, dēnāriī" "denarius. A denarius is a type of coin"
 
@@ -4695,6 +4699,7 @@
    "diabolus" "devil, demon"
    "diabolus, diabolī" "devil, demon"
 
+   "diabolicam" "diabolic, devilish"
    "diabolicum" "diabolic, devilish"
    "diabolicus, diabolica, diabolicum" "diabolic, devilish"
 
@@ -5149,6 +5154,7 @@
    "dubium, dubiī" "doubt"
 
    "dubitāns" "hesitating, doubting"
+   "dubitantēs" "hesitating, doubting"
    "dubitāret" "he hesitated, doubted"
    "dubitō, dubitāre, dubitāvī, dubitātus" "to doubt, hesitate"
 
@@ -5927,6 +5933,10 @@
    "ferēns" "bringing, bearing"
    "ferēbant" "they were bringing, bearing"
 
+   "feriēbant" "they were hitting, striking, killing"
+   "ferīre" "to hit, strike, kill"
+   "feriō, ferīre, -, -" "to hit, strike, kill"
+
    "ferōcēs" "wild, bold, defiant"
    "ferōciter" "ferociously, wildly, defiantly"
    "ferōx" "wild, bold, defiant"
@@ -6426,6 +6436,10 @@
    "futūra" "future"
    "futūrō" "future"
    "futūrus, futūra, futūrum" "future"
+
+   "galea" "helmet"
+   "galeīs" "helmets"
+   "galea, galeae" "helmet"
 
    "gallī" "Gaul"
    "gallīs" "Gaul"
@@ -8358,6 +8372,10 @@
    "loquī" "to speak, to say"
    "loquor, loquī, locūtus sum" "to speak, to say"
 
+   "lōrīca" "coat of mail"
+   "lōrīcās" "coats of mail"
+   "lōrīca, lōrīcae" "coat of mail"
+
    "lōrīs" "whips, lashes"
    "lōrum" "whip, lash, leather strap, bridle"
    "lōrum, lōrī" "whip, lash, leather strap, bridle"
@@ -9306,6 +9324,7 @@
    "nepōs, nepōtis" "grandson"
 
    "nequībat" "he was unable"
+   "nequībant" "they were unable"
    "nequīmus" "we are unable"
    "nequīvimus" "we were unable"
    "nequīvit" "he was unable"
@@ -9775,6 +9794,7 @@
 
    "optimae" "very good"
    "optimam" "very good"
+   "optimās" "very good"
    "optimīs" "very good"
 
    "opera" "works, deeds"
@@ -10103,6 +10123,7 @@
    "pāstum" "pasture, fodder, food"
 
    "patet" "it lies open"
+   "patēbat" "it stood open, it lied open"
    "patēbant" "they stood open, they lied open"
    "patēret" "it was lying open"
    "pateō, patēre, patuī, -" "to stand open, to extend, to lie open"
