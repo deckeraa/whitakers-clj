@@ -13173,6 +13173,7 @@
    "subversiō" "overthrow, destruction"
    "subversiō, subversiōnis" "overthrow, destruction"
 
+   "succēdēbant" "they were climbing"
    "succēdere" "to climb, to succeed"
    "succēdō, succēdere, successī, successus" "to climb, to succeed"
    
@@ -14158,6 +14159,10 @@
    "vehēbantur" "was being carried"
    "vehendārum" "of carrying"
    "vehō, vehere, vēxī, vectus" "to carry"
+
+   "vellentēs" "uprooting"
+   "vellere" "to uproot"
+   "vellō, vellere, vellī, vulsus" "to uproot"
    
    "vēlōcissimō" "very quickly"
    "vēlōx" "quick"
@@ -14566,6 +14571,7 @@
    "vīvō" "I live"
    "vīxit" "he lived"
    "vīveret" "he might live"
+   "vīvēbāmus" "we were living"
    "vīvō, vīvere, vīxī, vīctus" "to live"
 
    "vīvī" "living"
