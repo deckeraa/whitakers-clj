@@ -9943,6 +9943,7 @@
    "pāgāna"  "peasant, villager, rustic"
    "pāgānī"  "peasant, villager, rustic"
    "pāgānīs" "peasant, villager, rustic"
+   "pāgānōs" "peasant, villager, rustic"
    "pāgānus" "peasant, villager, rustic"
    "pāgānus, pāgānī" "peasant, villager, rustic"
 
@@ -10433,6 +10434,7 @@
    "persecūtiō, persecūtiōnis" "pursuit"
 
    "persecūtī" "having followed"
+   "persecūtus" "having followed"
    "persequendum" "pursuing"
    "persequentēs" "following"
    "persequēbātur" "he was following"
@@ -13378,6 +13380,7 @@
    "superāverant" "they had overcome"
    "superāvērunt" "they overcame"
    "superāvimus" "we overcame"
+   "superāsse" "to have overcome"
    "superārī" "to be overcome"
    "superō, superāre, superāvī, superātus" "to overcome"
 
