@@ -81,6 +81,7 @@
    "ambiorigem" "Ambiorix, king of the Eburones with Catuvolcus (accusative case)"
    "ambrōnum" "of the Ambrones, a tribe of Denmark"
    "amen" "amen, truly, verily"
+   "amīcissimē" "friendly"
    "an" "or? rather?"
    "angariī" "The Angarians, a Saxon tribe"
    "Annā" "Ablative of Annas, a high priest involved with the crucifixion of Christ."
@@ -1208,7 +1209,8 @@
    "accēpimus" "we received"
    
    "ācrius" "harsher"
-   "acerrimus" "very keen, harsh"
+   "ācerrimum" "very keen, harsh"
+   "ācerrimus" "very keen, harsh"
    "ācer, ācris -e, ācrior -or -us, ācerrimus -a -um" "harsh"
 
    "acervī" "heap, pile, stack"
@@ -2879,7 +2881,8 @@
    "castrum" "fort"
    "castrum, castrī" "fort"
 
-   "castramētātī" "encamped"
+   "castramētātī"  "encamped"
+   "castramētātus" "encamped"
    "castramētor, castramētārī, castramētātus sum" "to encamp"
 
    "cāsum" "fall, downward movement"
@@ -4223,6 +4226,7 @@
 
    "currēbat" "he ran"
    "cucurrērunt" "they ran"
+   "currite" "run!"
    "currere" "to run"
    "currō, currere, cucurrī, cursus" "to run"
    
@@ -4520,6 +4524,10 @@
    "dēnārius" "denarius. A denarius is a type of coin"
    "dēnārius, dēnāriī" "denarius. A denarius is a type of coin"
 
+   "dēnegō" "I deny, refuse"
+   "dēnegāre" "to deny, refuse"
+   "dēnegō, dēnegāre, dēnegāvī, dēnegātus" "to deny, refuse"
+
    "dēnsissimīs" "very dense"
    "dēnsus, dēnsa -um, dēnsior -or -us, dēnsissimus -a -um" "dense"
 
@@ -4542,7 +4550,8 @@
    "dēpraedārentur" "they might plunder"
    "dēpraedārī" "to plunder, pillage"
    "dēpraedor, dēpraedārī, dēpraedātus" "to plunder, pillage"
-   
+
+   "dēprecāns" "praying"
    "dēprecantēs" "praying"
    "dēpreco, dēprecāre, dēprecāvī, dēprecātus" "to pray"
    "dēprecor" "I prayed"
@@ -4760,6 +4769,7 @@
    "dignitātem" "worth, honor, esteem, rank"
    "dignitātis" "worth, honor, esteem, rank"
 
+   "dīgnārētur" "he deemed worthy"
    "dīgnatus" "having been deemed worthy"
    "dīgnata" "having been deemed worthy"
    "dīgnō, dīgnāre, dīgnavī, dīgnatus" "to deem worthy, to deign"
@@ -5247,7 +5257,8 @@
    "ēgressum" "having gone out"
    "ēgredior, ēgredī, ēgressus sum" "to go out, to egress"
 
-   "ēgregiō" "excellent, honorable"
+   "ēgregiō"  "excellent, honorable"
+   "ēgregius" "excellent, honorable"
    "ēgregius, ēgregia, ēgregium" "excellent, honorable"
 
    "ēiēcerat" "he had cast out"
@@ -5604,6 +5615,10 @@
    "expendere" "to pay, to pay a penalty"
    "expēnsīs" "having been paid"
    "expendō, expendere, expendī, expēnsus" "to pay, to pay a penalty"
+
+   "expergēfactī" "having been awoken"
+   "expergēfacere" "to awaken"
+   "expergēfaciō, expergēfacere, expergēfēcī, expergēfactus" "to awaken"
 
    "experīmentum" "test, experiment, experience"
    "experīmentum, experīmentī" "test, experiment, experience"
@@ -6582,6 +6597,7 @@
    "gregātī" "having been assembled"
    "gregō, gregāre, gregāvī, gregātus" "to assemble"
 
+   "gressū" "stepping, going, way"
    "gressus" "stepping, going, way"
    "gressus, gressūs" "stepping, going, way"
 
@@ -7707,6 +7723,7 @@
    "investīgābilis, investīgābilis, investigabile" "searchable"
 
    "invictus" "unconquered"
+   "invictissimī" "most unconquered"
    "invictus, invicta, invictum" "unconquered"
 
    "invidet" "he envies, is jealous"
@@ -8306,6 +8323,10 @@
    "locūtī" "having been spoken"
    "loquī" "to speak, to say"
    "loquor, loquī, locūtus sum" "to speak, to say"
+
+   "lōrīs" "whips, lashes"
+   "lōrum" "whip, lash, leather strap, bridle"
+   "lōrum, lōrī" "whip, lash, leather strap, bridle"
 
    "lūcidissimus" "very bright, very clear"
    "lūcidissimum" "very bright, very clear"
@@ -11354,6 +11375,7 @@
    "pugnātum" "having been fought"
    "pugnat" "he fights"
    "pugnandī" "of fighting"
+   "pugnantibus" "fighting"
    "pugnō, pugnāre, pugnāvī, pugnātus" "to fight"
 
    "pulchra" "beautiful"
