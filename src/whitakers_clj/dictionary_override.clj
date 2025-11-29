@@ -571,6 +571,7 @@
    "minimē" "barely, no, not"
    "minus" "less"
    "mīrābiliter" "marvelously"
+   "miserrimē" "miserably"
    "mixtim" "mixedly, in a mixed manner (adverb)"
    "modeste" "modestly, in a disciplined manner"
    "modicum" "a little; singular neuter nominative or accusative from modicum, modica"
@@ -7112,6 +7113,9 @@
    "inaequālitās" "inequality"
    "inaequālitās, inaequālitātis" "inequality"
 
+   "inaquōsam" "waterless"
+   "inaquōsus, inaquōsa, inaquōsum" "waterless"
+
    "incarnātiōne" "incarnation"
    "incarnātiō, incarnātiōnis" "incarnation"
 
@@ -7347,6 +7351,7 @@
    "ingressus" "entrance"
    "ingressus, ingressūs" "entrance"
 
+   "inhabitābilem" "uninhabitable"
    "inhabitābilis" "uninhabitable"
    "inhabitābilis, inhabitābilis, inhabitābile" "uninhabitable"
 
@@ -10138,8 +10143,15 @@
    
    "penetrāvit" "he entered, he penetrated"
    "penetrō, penetrāre, penetrāvī, penetrātus" "to enter, to penetrate"
+
+   "penitus" "inner, inward"
+   "penitus, penita, penitum" "inner, inward"
+   
    "pentēcostē, pentēcostēs" "Pentecost"
    "pentēcostēn" "Pentecost"
+
+   "pēnūria" "want, need, scarcity"
+   "pēnūria, pēnūriae" "want, need, scarcity"
 
    "perāctī" "having been carried through"
    "perāctīs" "having been carried through"
@@ -10336,6 +10348,7 @@
    "persequēns"   "following"
    "persequētur" "he will follow"
    "persequuntur" "they follow"
+   "persequēbāmur" "we were following"
    "persequor, persequī, persecūtus sum" "to follow (deponent)"
    
    "persevērō, persevērāre, persevērāvī, persevērātus" "to persevere"
@@ -12876,6 +12889,10 @@
    
    "spēs" "hope"
    "spēs, speī" "hope"
+
+   "spīca"  "head of grain"
+   "spīcās" "heads of grain"
+   "spīca, spīcae" "heads of grain"
 
    "spīculandō" "throwing darts of javelins"
    "spīculāre" "to throw a dart or javelin"
