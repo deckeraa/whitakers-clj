@@ -5296,6 +5296,7 @@
    "ēmīsimus" "we sent out"
    "ēmīsisset" "he (might) have had sent out"
    "ēmīsit" "he sent"
+   "ēmissa" "having been sent out"
    "ēmissīs" "having been sent out"
    "ēmittentēs" "sending out"
    "ēmittit" "he sends"
@@ -5586,6 +5587,7 @@
    "expectō, expectāre, expectāvī, expectātus" "to await, to expect"
    "expectantēs" "expecting"
    "expectāvērunt" "they awaited"
+   "exspectāns" "waiting"
 
    "expedītiō" "expedition, campaign"
    "expedītiōne" "expedition, campaign"
@@ -6305,6 +6307,7 @@
    "fūgērunt" "they fled"
    "fugiāmus" "we might have fled"
    "fugiēbat" "he was fleeing"
+   "fugiēbant" "they were fleeing"
    "fugiendō" "fleeing"
    "fugiēns" "fleeing"
    "fugientēs" "fleeing"
@@ -7691,6 +7694,7 @@
    "invenītur" "it is found"
    "invenīrī" "to be found"
    "inveniēbāmus" "we were finding"
+   "invenientēs" "finding"
    "inveniō, invenīre, invēnī, inventum" "to find"
 
    "invertitur" "it is changed, turned upside down"
@@ -9698,6 +9702,7 @@
    "oppugnātiōnis" "assault, attack"
    "oppugnātiō, oppugnātiōnis" "assault, attack"
 
+   "optimam" "very good"
    "optimīs" "very good"
 
    "opera" "works, deeds"
@@ -10548,6 +10553,7 @@
    "plēnae" "full"
    "plēnam" "full"
    "plēnās" "full"
+   "plēnōs" "full"
    "plēnum" "full"
    "plēnus" "full"
    "plēnus, plēna -um, plēnior -or -us, plēnissimus -a -um" "full"
@@ -13100,6 +13106,7 @@
    "stylō" "stylus, stake"
    "stylus, stylī" "stylus, stake"
 
+   "suādēbant" "they were persuading"
    "suādente" "persuading"
    "suādentem" "persuading"
    "suādeō, suādēre, suāsī, suāsus" "to persuade"
@@ -13108,6 +13115,7 @@
    "suāvis, suāve, suāvior -or -us, suāvissimus -a -um" "sweet"
    "suāvitās, suāvitātis" "sweetness, pleasantness"
    "suāvitāte" "sweetness, pleasantness"
+   
    "subcinerīciīs" "baked under ashes"
    "subcinericius, subcinericia, subcinericium" "baked under ashes"
 
