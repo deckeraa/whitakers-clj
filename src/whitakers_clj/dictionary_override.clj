@@ -4457,6 +4457,7 @@
    "dēfectiō, dēfectiōnis" "defection, revolt"
 
    "dēerit" "it will lack"
+   "dēerat" "it lacked"
    "dēerant" "they lacked"
    "dēfuit" "he lacked"
    "dēesset" "he lacked"
@@ -7718,6 +7719,7 @@
    "intrantēs" "entering"
    "intrāvimus" "we entered"
    "intrēmus" "let us enter"
+   "intrāret" "he might enter"
    "intrō, intrāre, intrāvī, intrātus" "to enter"
 
    "intrōgressī" "having entered"
@@ -8005,6 +8007,7 @@
    "iuvāre" "to help"
    "iuvō, iuvāre, iūvī, iūtus" "to help"
 
+   "kalendās" "calends, first day of the month"
    "kalendīs" "calends, first day of the month"
    "Kalenda, Kalendae" "calends, first day of the month"
    
@@ -9461,6 +9464,11 @@
 
    "novem" "nine"
 
+   "Novembris" "of November"
+   "novembris" "of November"
+   "November, Novembris, Novembre" "November"
+   "november, novembris, novembre" "November"
+
    "nova" "new, inexperienced"
    "novī" "new, inexperienced"
    "novissimē" "very new, very inexperienced"
@@ -9600,6 +9608,7 @@
    "observō, observāre, observāvī, observātus" "to observe, to watch"
 
    "obsideret" "they besieged"
+   "obsēdimus" "we besieged"
    "obsēdit" "he besieged"
    "obsidēre" "to besiege"
    "obsēderant" "they had besieged"
@@ -9607,6 +9616,7 @@
    "obsessa"  "having been besieged"
    "obsessīs" "having been besieged"
    "obsideō, obsidēre, obsēdī, obsessus" "to besiege"
+   "obsīdendī" "besieging, blockading"
    
    "obsidēs" "hostages"
    "obsidibus" "hostages"
@@ -9781,6 +9791,9 @@
    "oneris" "burden"
    "onus" "burden"
    "onus, oneris" "burden"
+
+   "onustōs" "laden"
+   "onustus, onusta, onustum" "laden"
 
    "operuit" "he covered"
    "operiō, operīre, operuī, opertus" "to cover"
@@ -10775,6 +10788,7 @@
    "portīs" "gates"
    "porta" "gate"
    "portam" "gate"
+   "portās" "gates"
    "porta, portae" "door, entrance"
 
    "portārius" "doorkeeper"
@@ -13433,6 +13447,7 @@
    "superāvimus" "we overcame"
    "superāsse" "to have overcome"
    "superārī" "to be overcome"
+   "superantēs" "overcoming"
    "superō, superāre, superāvī, superātus" "to overcome"
 
    "superbia" "pride, haughtiness, arrogance"
@@ -14651,6 +14666,7 @@
    "vindicta, vindictae" "protection, revenge, punishment"
 
    "vīnī" "wine"
+   "vīnō" "wine"
    "vīnum" "wine"
    "vīnum, vīnī" "wine"
 
