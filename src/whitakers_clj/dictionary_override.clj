@@ -3242,7 +3242,8 @@
    "coagulātum" "having been coagulated"
    "coagulō, coagulāre, coagulāvī, coagulātus" "to coagulate, to curdle"
 
-   "coartābant" "it was hemming in"
+   "coartābat" "it was hemming in"
+   "coartābant" "they were hemming in"
    "coartāre" "to hem in"
    "coartō, coartāre, coartāvī, coartātus" "to hem in"
 
@@ -3259,6 +3260,7 @@
    "coepit" "he started"
    "coeperat" "he had started"
    "coepisse" "to have started"
+   "coepissēmus" "we had started"
 
    "coēgit" "he collected, he forced"
    "cōgerent" "they (might) have collected, forced"
@@ -3851,6 +3853,9 @@
    "cōnstantīnopolim" "Constantinople"
    "cōnstantīnopolis" "Constantinople"
 
+   "cōnsternātī" "having been confounded, terrified"
+   "cōnsternō, cōnsternāre, cōnsternāvī, cōnsternātus" "to confound, terrify"
+
    "cōnstituerant" "they had planned"
    "cōnstituērunt" "they planned"
    "cōnstituī" "I planned"
@@ -4099,11 +4104,13 @@
    "crassum" "fat"
    "crassī"  "fat"
    "crassum, crassī" "fat"
-   
+
+   "crāstinā" "tomorrow"
    "crāstinae" "tomorrow"
    "crāstinō" "tomorrow"
    "crāstinum" "tomorrow"
    "crāstinus, crāstina, crāstinum" "tomorrow"
+   
    "creātōrī" "creator"
    "creātōris" "creator"
    "creātor, creātōris" "creator"
