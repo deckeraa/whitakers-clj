@@ -557,7 +557,7 @@
      (if abbreviate?
        (str (or (abbreviations k) (name k)) " ")
        (str (name k) " "))
-     " ")))
+     "")))
 
 (defn format-verb [word definition dict-entry selected-opt abbreviate?]
   (if (nil? (or (:person selected-opt)
@@ -567,8 +567,8 @@
     (str word ": " definition " "
          (when-let [v (:person selected-opt)]
            (if (not (= v 0))
-             (pretty-person v)
-             "")) " "
+             (str (pretty-person v) " ")
+             ""))
          (name* (:number selected-opt) abbreviate?)
          (name* (:tense selected-opt) abbreviate?)
          (name* (:voice selected-opt) abbreviate?)
@@ -584,7 +584,6 @@
         dict-entry (or (macronized-words (:dictionary-entry parsed-word))
                        (:dictionary-entry parsed-word))
         abbreviate? false]
-    (println parsed-word)
     (if (dictionary-override word)
       (str word ": " (dictionary-override word))
       (case (or (:part-of-speech selected-opt) (:part-of-speech parsed-word))
