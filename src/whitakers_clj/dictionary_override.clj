@@ -384,6 +384,7 @@
    "helī" "Eli, Old Testament high priest."
    "Helī" "Eli, Old Testament high priest."
    "herī" "yesterday"
+   "Hermeniī" "Armenians"
    "Hermeniōrum" "Of Armenia"
    "Hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
    "hērōde" "Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."
@@ -479,6 +480,7 @@
    "indūtiomarī" "Indūtiomārus, one of the chiefs of the Treviri"
    "indūtiomārus" "Indūtiomārus, one of the chiefs of the Treviri"
    "inferōs" "Hades, plural masculine accusative from īnferus, īnfera, īnferum"
+   "ingeniōsē" "cleverly, ingeniously"
    "inibī" "in that place"
    "iniussū" "without an order (ablative)"
    "inlūxit" "he began to shine; from inlūcēscō, inlūcēscere, inlūxī, -"
@@ -3242,6 +3244,9 @@
    "coagulātum" "having been coagulated"
    "coagulō, coagulāre, coagulāvī, coagulātus" "to coagulate, to curdle"
 
+   "coangustāre" "to cramp, narrow"
+   "coangustō, coangustāre, coangustāvī, coangustātus" "to cramp, narrow"
+
    "coartābat" "it was hemming in"
    "coartābant" "they were hemming in"
    "coartāre" "to hem in"
@@ -5250,6 +5255,7 @@
    "edō, edere, ēdī, ēsus" "to eat"
 
    "ēdocta" "having been taught thoroughly"
+   "ēdoctī" "having been taught thoroughly"
    "ēdoceō, ēdocēre, ēdocuī, ēdoctus" "to teach thoroughly"
 
    "ēductōs" "having been lead out"
@@ -5479,6 +5485,9 @@
    "esseda" "two-wheeled chariots"
    "essedīs" "two-wheeled chariots"
    "essedum, essedī" "two-wheeled chariot"
+
+   "essentia" "essence, being"
+   "essentia, essentiae" "essence, being"
    
    "ēsuriē" "hunger"
    "ēsuriēs, ēsuriēī" "hunger"
@@ -6274,6 +6283,7 @@
 
    "fovea" "pit, pitfall"
    "foveae" "pit, pitfall"
+   "foveās" "pits, pitfalls"
    "fovea, foveae" "pit, pitfall"
 
    "frāctiōnem" "breaking"
@@ -7788,6 +7798,10 @@
    "investīgābilis" "searchable"
    "investīgābilis, investīgābilis, investigabile" "searchable"
 
+   "investīgābant" "they were investigating, searching"
+   "investīgāre" "to investigate, search"
+   "investīgō, investīgāre, investīgāvī, investīgātus" "to investigate, search"
+
    "invictus" "unconquered"
    "invictissimī" "most unconquered"
    "invictus, invicta, invictum" "unconquered"
@@ -8107,6 +8121,7 @@
    "lassus, lassa, lassum" "tired, weary"
 
    "latēbant" "they were laying hidden"
+   "latentēs" "laying hidden, lurking"
    "latēret" "he lay hidden, lurked"
    "latet" "he lies hidden, he lurks"
    "latuit" "it lay hidden, it lurked"
@@ -9737,6 +9752,9 @@
    "odor" "odor, scent"
    "odōre" "odor, scent"
    "odor, odōris" "odor, scent"
+
+   "offendere" "to offend, annoy"
+   "offendō, offendere, offendī, offēnsus" "to offend, annoy"
 
    "obtulit" "he offered, presented"
    "offerebant" "they were offering"
@@ -14635,7 +14653,7 @@
    "vigilandum" "waking up"
    "vigilantēs" "keeping watch, waking up"
    "vigilāre" "to wake up"
-   "vigilō, vigilāre, vigilāvī, vigilātum" "to be awake, to watch for"
+   "vigilō, vigilāre, vigilāvī, vigilātus" "to be awake, to watch for"
 
    "vīlī" "cheap, worthless"
    "vīlis, vīlis, vīle" "cheap, worthless"
