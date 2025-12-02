@@ -9960,6 +9960,7 @@
    "ostendant" "they show"
    "ostendātur" "he (might) be being shown"
    "ostendit" "he shows, he showed"
+   "ostendentēs" "showing"
    "ostendet" "you will show"
    "ostenditur" "it is shown"
    "ostendunt" "they show"
@@ -11609,6 +11610,10 @@
    "quālis" "of such a kind"
    "quālis, quālis, quāle" "of such a kind"
 
+   "quālitās" "quality, property"
+   "quālitātem" "quality, property"
+   "quālitās, quālitātis" "quality, property"
+
    "questiō" "complaint"
    "questiōnis" "complaint"
    "questiō, questiōnis" "complaint"
@@ -11834,8 +11839,13 @@
    "refēcit" "he refreshed, he rebuilt"
    "reficiendās" "restoring, refreshing"
 
+   "refertās" "having been filled up, stuffed full"
+   "refercīre" "to fill up, stuff full"
+   "referciō, refercīre, refersī, refertus" "to fill up, stuff full"
+
    "rettulērunt" "they brought back, reported"
    "referēns" "bringing back, reporting"
+   "referēbant" "they were bringing back"
    "referrentur" "they (might) be being reported"
    "referre" "to bring back, to report"
    "refert" "he brings back"
@@ -14682,6 +14692,10 @@
    "vindicta"  "protection, revenge, punishment"
    "vindictam" "protection, revenge, punishment"
    "vindicta, vindictae" "protection, revenge, punishment"
+
+   "vīnea" "vineyard"
+   "vīneās" "vineyards"
+   "vīnea, vīneae" "vineyard"
 
    "vīnī" "wine"
    "vīnō" "wine"
