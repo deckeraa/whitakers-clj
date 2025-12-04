@@ -5205,6 +5205,7 @@
    "dūcī" "to be lead"
    "dūcō, dūcere, dūxī, ductus" "to lead"
    "dūcerent" "they might lead"
+   "ductī" "having been lead"
    
    "ductor" "leader"
    "ductor, ductōris" "leader"
@@ -5696,6 +5697,7 @@
    "expertus, expertūs" "expert"
 
    "explōrāret" "he was exploring, investigating"
+   "explōrārent" "they were exploring, investigating"
    "explōrāvisset" "he had explored"
    "explōrō, explōrāre, explōrāvī, explōrātus" "to explore, to investigate"
 
@@ -5852,6 +5854,7 @@
    "fēcerant" "they had made, done"
    "factūrī" "having been done"
    "factūrum" "doing"
+   "fierent" "it might be happening"
 
    "facile" "easy"
    "facilius" "easier"
@@ -7481,6 +7484,7 @@
    "inhabitō, inhabitāre, inhabitāvī, inhabitātus" "to inhabit"
 
    "inimīcī" "enemy"
+   "inimīcīs" "enemies"
    "inimīcō" "enemy"
    "inimīcōrum" "of enemies"
    "inimīcōs" "enemies"
@@ -7933,7 +7937,8 @@
 
    "iūmentōrum" "of baggage animals"
    "iūmentum, iūmentī" "baggage animal"
-   
+
+   "iūnctī" "having been joined"
    "iūnctum" "connected, joined"
    "iūnctam" "connected, joined"
    "iūnctās" "connected, joined"
@@ -9685,6 +9690,7 @@
    "obumbrāvisset" "he (might) have had overshadowed"
    "obumbrō, obumbrāre, obumbrāvī, obumbrātus" "to overshadow, to darken"
 
+   "obviant" "they oppose, resist"
    "obviāvērunt" "they opposed, resisted"
    "obviāre" "to oppose, resist"
    "obviō, obviāre, obviāvī, obviātus" "to oppose, resist"
@@ -9720,6 +9726,10 @@
    "occīsiōnem" "massacre, slaughter, murder"
    "occīsiōnis" "massacre, slaughter, murder"
    "occīsiō, occīsiōnis" "massacre, slaughter, murder"
+
+   "occubuit" "she laid dead"
+   "occubāre" "to lie dead"
+   "occubō, occubāre, occubuī, occubitus" "to lie dead"
 
    "occultābant" "they were hiding"
    "occultāverant" "they had hidden"
@@ -12039,6 +12049,7 @@
    "reperiuntur" "they are discovered"
    "reperiētur" "will be discovered, found out"
    "repperērunt" "they discovered, found out"
+   "repertō" "having been discovered"
    "reperīre" "to discover, find out"
    "reperiō, reperīre, repperī, repertus" "to discover, find out"
 
