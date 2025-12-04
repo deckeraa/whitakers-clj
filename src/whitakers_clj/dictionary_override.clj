@@ -824,6 +824,7 @@
    "resurrēctiō, resurrēctiōnis" "resurrection"
    "resurrēctiōne" "resurrection"
    "retrō" "behind, backwards"
+   "retrōgredientibus" "stepping backwards; plural ablative variant spelling from retrōgradientibus"
    "retrōrsum" "behind, backwards"
    "reversa" "reversa + est = it returned"
    "reversus" "reversus + est = he returned"
@@ -2195,11 +2196,13 @@
    "ascende" "ascend!"
    "ascendite" "ascend!"
    "ascendēbat" "he was ascending"
+   "ascendēbant" "they were ascending"
    "ascendissem" "I (might) have had ascended"
    "ascendissent" "he (might) have had ascended"
    "ascendendum" "ascending"
    "ascendō, ascendere, ascendī, ascēnsus" "to ascend"
    "ascendērunt" "they had ascended"
+   
    "ascensum" "ascent"
    "ascensus, ascensūs" "ascent"
 
@@ -2262,6 +2265,9 @@
 
    "atavus" "ancestor"
    "atavus, atavī" "ancestor"
+
+   "āthlēta" "athlete"
+   "āthlēta, āthlētae" "athlete"
 
    "attingēbat" "they were touching"
    "attingit" "it touches, it borders"
@@ -2655,7 +2661,8 @@
    
    "caecitāte" "blindness"
    "caecitās, caecitātis" "blindness"
-   
+
+   "caderent" "they might fall"
    "cecidit" "he fell"
    "cecidēre" "they fell"
    "cecidērunt" "they fell"
@@ -2809,6 +2816,7 @@
    "cēpit" "he took"
    "cēpissent" "they had taken hold"
    "captam" "having been taken"
+   "captī"  "having been taken"
    "capiō, capere, cēpī, captus" "to seize, to take hold"
 
    "capillī" "hair"
@@ -3976,6 +3984,8 @@
    "contumēliīs" "insults"
    "contumēlia, contumēliae" "insults"
 
+   "conturbābat" "he was confusing"
+   "conturbābant" "they were confusing"
    "conturbārī" "to be confused"
    "conturbāre" "to confuse"
    "conturbō, conturbāre, conturbāvī, conturbātus" "to confuse"
@@ -5078,6 +5088,7 @@
    "dolor, dolōris" "pain, sorrow"
 
    "dolēbat" "he was sorrying, grieving, feeling pain"
+   "doluērunt" "they were sorrying, grieving"
    "dolēre" "to sorry, grieve, feel pain"
    "doleō, dolēre, doluī, dolitus" "to sorry, grieve, feel pain"
 
@@ -10688,6 +10699,10 @@
    "planta" "sole"
    "plantās" "soles"
    "planta, plantae" "sole"
+
+   "platēa"  "street, courtyard, open space"
+   "platēam" "street, courtyard, open space"
+   "platēa, platēae" "street, courtyard, open space"
 
    "plēbis" "common people"
    "plēbs" "common people"
