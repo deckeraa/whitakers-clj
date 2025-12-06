@@ -2891,6 +2891,7 @@
    "carrus" "four-wheeled wagon"
    "carrus, carrī" "four-wheeled wagon"
 
+   "cāra" "beloved"
    "cārissimī" "beloved"
    "cārus, cāra -um, cārior -or -us, cārissimus -a -um" "beloved, dear"
 
@@ -3277,6 +3278,7 @@
    "coepī, coepisse, coepī, coeptus" "to start"
    "coepit" "he started"
    "coeperat" "he had started"
+   "coeperant" "they had started"
    "coepisse" "to have started"
    "coepissēmus" "we had started"
 
@@ -4083,6 +4085,7 @@
    "corpora" "bodies, flesh"
    "corpore" "body, flesh"
    "corporis" "body, flesh"
+   "corporum" "of the bodies"
    "corpus, corporis" "body, flesh"
 
    "corporālibus" "physical, corporeal"
@@ -6172,6 +6175,7 @@
    "flātiō" "blowing"
    "flātiō, flātiōnēs" "blowing"
 
+   "flandrensī" "Flemish; from Flanders (ablative case)"
    "flandrensis" "Flemish; from Flanders"
 
    "flātū" "blowing, breathing, haughtiness"
@@ -6260,6 +6264,11 @@
    "forcipe" "tongs, forceps"
    "forcipem" "tongs, forceps"
    "forceps, forcipis" "tongs, forceps"
+
+   "formīdō" "fear, alarm, dread"
+   "formīdine" "fear, alarm, dread"
+   "formīdinis" "fear, alarm, dread"
+   "formīdō, formīdinis" "fear, alarm, dread"
 
    "fōrmāverint" "they will have formed"
    "fōrmāre" "to form"
