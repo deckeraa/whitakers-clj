@@ -2273,6 +2273,9 @@
    "attingit" "it touches, it borders"
    "attingō, attingere, attigī, attāctus" "to touch, to border on, to reach"
 
+   "attrahere" "to draw, attract"
+   "attrahō, attrahere, attrāxī, attractus" "to draw, attract"
+
    "aucta" "increased"
    "auctus, aucta, auctum" "increased"
 
@@ -2298,6 +2301,8 @@
    "audērent" "they had dared"
    "audēret" "he might dare"
    "audeat" "he might dare"
+   "audēbāmus" "we were daring"
+   "audēbat" "he was daring"
    "audēre" "to dare"
    "audeō, audēre, ausus sum" "to dare"
 
@@ -7834,7 +7839,7 @@
    "invītus, invīta, invītum" "unwilling"
 
    "invītēmus" "we invite"
-   "invītābō" "you will invite"
+   "invītābō" "I will invite"
    "invītāret" "he invited"
    "invītātī" "having been invited"
    "invītāvit" "he invited"
