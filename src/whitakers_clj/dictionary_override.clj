@@ -6898,6 +6898,7 @@
    "honestāvit" "he honored, dignified"
    "honestō, honestāre, honestāvī, honestātum" "to honor, dignify"
 
+   "honestum" "honest, distinguished, worthy"
    "honestissimō" "very honest, distinguished, worthy"
    "honestissimum" "very honest, distinguished, worthy"
    "honestissimus" "very honest, distinguished, worthy"
@@ -9208,6 +9209,7 @@
 
    "mūnīta" "fortified"
    "mūnītam" "fortified"
+   "mūnītō"  "fortified"
    "mūnītum" "fortified"
    "mūnītus, mūnīta, mūnītum" "fortified"
 
@@ -9602,7 +9604,8 @@
 
    "nurus" "young woman, daughter-in-law"
    "nurus, nurūs" "young woman, daughter-in-law"
-   
+
+   "nūtrīmenta" "nourishments"
    "nūtrīmentō" "nourishment"
    "nūtrīmentīs" "nourishments"
    "nūtrīmentum, nūtrīmentī" "nourishment"
@@ -9933,7 +9936,9 @@
    "ōrdō, ōrdinis" "order"
    "ōrdine" "order"
 
+   "ōrdinandō" "setting in order"
    "ōrdinātae" "having been set in order"
+   "ōrdināvērunt" "they ordained, set in order"
    "ōrdināvit" "he ordained, set in order"
    "ōrdinātī" "having been set in order, ordained"
    "ōrdinō, ōrdināre, ōrdināvī, ōrdinātus" "to set in order, ordain"
@@ -10915,6 +10920,8 @@
    "potuisse" "to have been able"
    "potes" "you can"
    "possēmus" "they might have been able"
+   "possīmus" "we might be able"
+   "poterāmus" "we were able"
 
    "posteriōrēs" "following, next"
    "posteriōrem" "following, next"
@@ -11482,6 +11489,7 @@
    "prūdentia, prūdentiae" "knowledge, skillfulness, foresight"
 
    "prūdēns" "prudent, competent"
+   "prūdentissimī"  "very prudent, competent"
    "prūdentissimōs" "very prudent, competent"
    "prūdēns, prūdentis (gen.), prūdentior -or -us, prūdentissimus -a -um" "prudent, competent"
    
@@ -11961,6 +11969,7 @@
    "rēgnārent" "they reigned"
    "rēgnantibus" "reigning"
    "rēgnat" "he reigns"
+   "regerent" "they might have ruled"
    "rēgnāre" "to reign"
    "rēgnō, rēgnāre, rēgnāvī, rēgnātus" "to reign"
 
