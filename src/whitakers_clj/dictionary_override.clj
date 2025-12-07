@@ -52,6 +52,7 @@
    "Airde" "An Irish man"
    "Alamannī" "the Alamanni, a confederation of Germanic tribes"
    "Alamannōrum" "of the Alamanni, a confederation of Germanic tribes"
+   "aleph" "Aleppo"
    "aliam" "other, another; singular feminine accusative from alius, alia, aliud"
    "alicui" "to anyone; singular dative from aliqui"
    "aliōquī" "also"
@@ -231,6 +232,7 @@
    "cum" "with"
    "cumque" "and with"
    "cūr" "why"
+   "damascō" "Damascus (ablative case)"
    "Danihelem" "Daniel, the Old Testament prophet"
    "David" "David, the king of Israel that slew Goliath."
    "dē" "of, from, away from, down from"
@@ -398,6 +400,7 @@
    "Hybernia" "Ireland (nominative case)"
    "Hyberniae" "of Ireland (genitive case)"
    "iamdūdum" "long ago"
+   "iamiam" "already, now"
    "iamiamque" "at this very moment"
    "iānuatōrem" "door-keeper; singular masculine accusative from iānuatōr, iānuatōris. This word was not in any dictionary I consulted; yet the meaning is clear from the root word iānua"
    "idcircō" "for that reason"
@@ -860,6 +863,7 @@
    "sānctum" "holy, saint"
    "sānctissimam" "most holy"
    "sapienter" "wisely"
+   "Saracēnī" "Saracenes, muslims"
    "Saracēnōrum" "of Saracenes, muslims"
    "Saracēnōs" "Saracenes, muslims"
    "sat" "enough"
@@ -934,6 +938,7 @@
    "siquidem" "however, accordingly, since, if only. In Medieval Latin, synonym of autem."
    "sita" "sita est = is located; idiomatic usage of past passive participle of sinō, sinere, sīvī, situs"
    "sīve" "or, what if"
+   "solempnitātibus" "solemnities, festivals; plural feminine dative or ablative from sollemnitās, sollemnitātis"
    "Solimānus" "Kilij Arslan a.k.a. Suleiman II, Seljuk sultan of Rûm and leader of the Turkish forces in Anatolia during the first crusade; son of Suleiman I"
    "Solimānī" "of Kilij Arslan a.k.a. Suleiman II, Seljuk sultan of Rûm and leader of the Turkish forces in Anatolia during the first crusade; son of Suleiman I"
    "sollemniter" "solemnly"
@@ -1123,6 +1128,7 @@
    "abdita" "having been hidden, removed"
    "abdō, abdere, abdidī, abditus" "to hide, to remove"
 
+   "abiērunt" "they departed"
    "abit" "you depart"
    "abīre" "to depart"
    "abeō, abīre, abiī, abitus" "to depart"
@@ -2416,6 +2422,7 @@
    "babylōniae" "Babylon"
    "Babylōnia, Babylōniae" "Babylon"
 
+   "baiulābat" "he bore, carried"
    "baiulant" "they bear, carry"
    "bāiulāre" "to carry, to bear"
    "bāiulō, bāiulāre, bāiulāvī, bāiulātus" "to carry, to bear"
@@ -4257,6 +4264,7 @@
    "cūnctus, cūncta, cūnctum" "all, whole"
 
    "cupiēns" "desiring"
+   "cupientēs" "desiring"
    "cupīvērunt" "they desired"
    "cupiō, cupere, cupīvī, cupītus" "to desire"
 
@@ -6631,6 +6639,7 @@
    "glorificō, glorificāre, glorificāvī, glorificātus" "to glorify"
 
    "glōriōsa" "glorious"
+   "glōriōsissimae" "very glorious"
    "glōriōsus, glōriōsa -um, glōriōsior -or -us, glōriōsissimus -a -um" "glorious"
 
    "gradieris" "you will walk"
@@ -7888,6 +7897,7 @@
 
    "īra" "anger"
    "īrae" "anger"
+   "īram" "anger"
    "īra, īrae" "anger"
 
    "īrāta" "angry"
@@ -8195,6 +8205,7 @@
    "laudāvērunt" "they praised"
    "laudēs" "praises"
    "laudibus" "praises"
+   "laudāvimus" "we praised"
    "laudō, laudāre, laudāvī, laudātus" "to praise"
 
    "laude" "praise"
@@ -8483,6 +8494,7 @@
    "lūminaribus" "windows"
 
    "lūna" "moon, month"
+   "lūnae" "of the moon, month"
    "lūna, lūnae" "moon, month"
 
    "lueret" "he paid, fined, expiated"
@@ -8542,6 +8554,7 @@
    
    "magnificāns" "esteeming greatly"
    "magnificābant" "they were esteeming greatly"
+   "magnificāvimus" "we esteemed greatly"
    "magnificō, magnificāre, magnificāvī, magnificātus" "to esteem greatly"
    
    "maior" "bigger"
@@ -10403,6 +10416,10 @@
    "perditā"  "lost"
    "perditum" "lost"
    "perdō, perdere, perdidī, perditus" "to lose"
+
+   "perditiō" "ruin, destruction"
+   "perditiōnis" "ruin, destruction"
+   "perditiō, perditiōnis" "ruin, destruction"
    
    "perdūcat" "you (might) lead through"
    "perdūcō, perdūcere, perdūxī, perductus" "to lead through, to guide"
@@ -11931,6 +11948,11 @@
    "rēgiīs" "royal palaces, courts"
    "rēgia, rēgiae" "royal palace, court"
 
+   "regimen" "control, steering"
+   "regimine" "control, steering"
+   "regiminis" "control, steering"
+   "regimen, regiminis" "control, steering"
+
    "rēgīna" "queen"
    "rēgīnam" "queen"
    "rēgīna, rēgīnae" "queen"
@@ -12025,6 +12047,7 @@
    "remanēret" "he (might) have been remaining"
    "remānsit" "he remained"
    "remanēbunt" "they will remain"
+   "remānserant" "they had remained"
    "remānserat" "he had remained"
    "remānsērunt" "they remained"
    "remānserit" "they remained"
@@ -12537,6 +12560,7 @@
    "sanguinum" "of blood"
    "sanguis, sanguinis" "blood"
 
+   "sānī" "healthy, sound"
    "sānus" "healthy, sound"
    "sānōs" "healthy, sound"
    "sānē" "healthfully, soundly"
@@ -13244,6 +13268,7 @@
 
    "statuī" "I decided"
    "statuit" "he decided"
+   "statuērunt" "they decided"
    "statuō, statuere, statuī, statūtus" "to decide, establish"
 
    "stercus" "dung"
@@ -13266,6 +13291,7 @@
    
    "stīpendia" "stipend, supplies"
    "stīpendiō" "tribute, stipend, supplies"
+   "stīpendium" "stipend, supplies"
    "stīpendium, stīpendiī" "stipend, supplies"
    
    "stābat" "he was standing"
@@ -13674,6 +13700,7 @@
    "tantī" "so much, so great, this many"
    "tantō" "so much, so great, this many"
    "tantam" "so much, so great, this many"
+   "tantās" "so much, so great, this many"
    "tantōrum" "so much, so great, this many"
    "tantum" "so much, so great, this many"
    "tantus, tanta, tantum" "so much, so great, this many"
@@ -14067,7 +14094,14 @@
    "trīnitātis" "Trinity"
    "trīnitās, trīnitātis" "Trinity"
 
+   "trīnum" "triple"
+   "trīnus, trīna, trīnum" "triple"
+
    "triplex" "triple"
+
+   "tripudiō" "dance, favorable omen"
+   "tripudium" "dance, favorable omen"
+   "tripudium, tripudī" "dance, favorable omen"
    
    "trīstēs" "sad"
    "tristia" "sad"
@@ -14166,6 +14200,7 @@
    "tūtum, tūtī" "safety"
 
    "tūtē" "safely"
+   "tūtī" "safe"
    "tūtior" "safer"
    "tūtiōrēs" "safer"
    "tūtissima" "very safe"
