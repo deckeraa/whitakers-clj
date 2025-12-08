@@ -573,6 +573,7 @@
    "Marchīsī" "of the Marquis"
    "martir" "martyr, one who dies for their faith"
    "martirizāvērunt" "they were marytred; 3rd person plural perfecte from martyrizō, martyrizāre"
+   "Martis" "March"
    "Massiliam" "Marseille, a city in southern France"
    "maximē" "greatly"
    "mē" "to me, accusative from ego"
@@ -1693,6 +1694,7 @@
    "amāverās" "you had loved"
    "amō, amāre, amāvī, amātus" "to love"
 
+   "amārā"  "bitter, harsh"
    "amārīs" "bitter, harsh"
    "amārus, amāra, amārum" "bitter, harsh"
 
@@ -3662,6 +3664,7 @@
    "condūxit" "he assembled"
    "condūcēbant" "they were assembling"
    "condūceret" "they might assemble"
+   "condūcentem" "assembling"
    "condūcī" "to be assembled"
    "condūcere" "to assemble"
    "condūcō, condūcere, condūxī, conductus" "to assemble"
@@ -6183,7 +6186,8 @@
    "flātiō" "blowing"
    "flātiō, flātiōnēs" "blowing"
 
-   "flandrensī" "Flemish; from Flanders (ablative case)"
+   "flandrēnsem" "Flemish; from Flanders"
+   "flandrensī" "Flemish; from Flanders"
    "flandrensis" "Flemish; from Flanders"
 
    "flātū" "blowing, breathing, haughtiness"
@@ -7519,6 +7523,7 @@
    "inīquitās" "iniquity"
    "inīquitātem" "iniquity"
 
+   "inīquissimī"  "must unjust"
    "inīquissimōs" "must unjust"
    "inīquā"  "unjust"
    "inīquum" "unjust"
@@ -7799,6 +7804,7 @@
 
    "invāsērunt" "they invaded"
    "invāsit" "he invaded"
+   "invāsissent" "they might have had invaded"
    "invādere" "to invade"
    "invādō, invādere, invāsī, invāsus" "to invade"
 
@@ -8103,6 +8109,11 @@
    "laeseris" "you will strike"
    "laedere" "to strike, to wound"
    "laedō, laedere, laesī, laesus" "to strike, to wound"
+
+   "laesiō" "hurt, harm, injury"
+   "laesiōnem" "hurt, harm, injury"
+   "laesiōnis" "hurt, harm, injury"
+   "laesiō, laesiōnis" "hurt, harm, injury"
    
    "laetī" "happy"
    "laetus" "happy"
@@ -8128,7 +8139,8 @@
    "lampadēs" "lamps"
    "lampas, lampadis" "lamp"
    "lampadibus" "lamps"
-   
+
+   "languidior" "weaker, feebler"
    "languor" "faintness, languor, feebleness"
    "languor, languōris" "faintness, languor, feebleness"
 
@@ -8569,6 +8581,7 @@
    "magnitūdō, magnitūdinis" "magnitude, greatness"
 
    "maxima" "biggest"
+   "maximam" "biggest"
    "maximās" "biggest"
    "maximī" "biggest"
    "maximīs" "biggest"
@@ -9688,6 +9701,7 @@
    "obsessiōne" "siege"
    "obsessiō, obsessiōnis" "siege"
 
+   "obsidiō" "siege"
    "obsidiōne" "siege"
    "obsidiō, obsidiōnis" "siege"
 
@@ -10331,6 +10345,7 @@
    "pedēs" "feet"
 
    "peditēs" "foot soldiers"
+   "peditibus" "foot soldiers"
    "peditum" "of foot soldiers"
    "pedes, peditis" "foot soldier"
 
@@ -10413,6 +10428,7 @@
    "percutiō, percutere, percussī, percussus" "to strike, to beat"
    "percutientēs" "striking, beating"
 
+   "perdidit" "he lost"
    "perditā"  "lost"
    "perditum" "lost"
    "perdō, perdere, perdidī, perditus" "to lose"
@@ -12637,6 +12653,7 @@
    "sciēbat" "he was knowing"
    "sciēns" "knowing"
    "sciente" "knowing"
+   "scientēs" "knowing"
    "scit" "he knows"
    "scīvit" "he knew"
    "scīre" "to know"
@@ -12772,6 +12789,7 @@
    
    "senī" "old man"
    "senem" "old man"
+   "senēs" "elders"
    "senex" "old person, elder"
    "senex, senis" "old person, elder"
    
