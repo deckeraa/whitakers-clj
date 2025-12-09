@@ -1712,6 +1712,7 @@
    "ambulāns" "walking"
    "ambulāre" "to walk"
    "ambulat" "he walks"
+   "ambulant" "they walk"
    "ambulāvit" "he walked"
    "ambulandī" "walking"
    "ambulō, ambulāre, ambulāvī, ambulātus" "to walk"
@@ -1795,6 +1796,12 @@
    "anapaestōs" "anapests, metrical feet of short, short, long"
    "anapaestum" "anapest, a metrical foot of short, short, long"
    "anapaestus, anapaestī" "anapest, a metrical foot of short, short, long"
+
+   "ancilla" "maid-servant"
+   "ancillae" "maid-servant's"
+   "ancillās" "maid-servants"
+   "ancillīs" "maid-servants"
+   "ancilla, ancillae" "maid-servant"
 
    "ancorās" "anchors"
    "ancorīs" "anchors"
@@ -1934,6 +1941,9 @@
    "aperiō, aperīre, aperuī, apertus" "to open"
    "aperiēs" "you will open"
    "aperīrent" "they might open"
+   "aperit" "he opens"
+   "aperī" "open!"
+   "aperītur" "it is opened"
 
    "apum" "of bees"
    "apis, apis" "bee"
@@ -2276,6 +2286,10 @@
 
    "āthlēta" "athlete"
    "āthlēta, āthlētae" "athlete"
+
+   "ātriō" "atrium"
+   "ātrium" "atrium"
+   "ātrium, ātrī" "atrium"
 
    "attingēbat" "they were touching"
    "attingit" "it touches, it borders"
