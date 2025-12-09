@@ -12540,7 +12540,9 @@
    "sabbatō" "Sabbath"
    "sabbatum, sabbatī" "Sabbath"
 
+   "saccīs" "sacks, bags, wallets"
    "saccō"  "sack, bag, wallet"
+   "saccōs" "sacks, bags, wallets"
    "saccum" "sack, bag, wallet"
    "saccus" "sack, bag, wallet"
    "saccus, saccī" "sack, bag, wallet"
@@ -12647,6 +12649,10 @@
 
    "salūtiferum" "health-bringing"
    "salūtifer, salūtifera, salūtiferum" "health-bringing"
+
+   "salvē" "be well!"
+   "salvēte" "be well!"
+   "salveō, salvēre, -, -" "to be well"
 
    "salvī" "healthy, safe"
    "salvam" "healthy, safe"
@@ -13261,6 +13267,10 @@
 
    "speculātōria" "for spying or scouting"
    "speculātōrius, speculātōria, speculātōrium" "for spying or scouting"
+
+   "speculō" "mirror"
+   "speculum" "mirror"
+   "speculum, speculī" "mirror"
    
    "spēlunca" "cave"
    "spēluncae" "cave"
@@ -13650,6 +13660,7 @@
    "sūmptō" "having been taken up"
    "sūmptūrum" "to be undertaken"
    "sūmēns" "taking up"
+   "sūmit" "he takes up"
    "sūmō, sūmere, sūmpsī, sūmptus" "to take up"
    
    "sumus" "we are"
@@ -13919,6 +13930,11 @@
 
    "teris" "you rub, you wear out"
    "terō, terere, trīvī, trītus" "to rub, to wear out"
+
+   "tergē" "wipe dry!"
+   "terget" "he wipes dry"
+   "tergēre" "to wipe dry"
+   "tergeō, tergēre, tersī, tersus" "to wipe dry"
 
    "terga" "back"
    "tergī" "back"
@@ -14496,7 +14512,8 @@
    "vaccae" "cows"
    "vaccās" "cows"
    "vacca, vaccae" "cow"
-   
+
+   "vacua" "empty, vacant"
    "vacuam" "empty, vacant"
    "vacuum" "empty, vacant"
    "vacuus, vacua, vacuum" "empty, vacant"
@@ -14703,6 +14720,7 @@
    "versūtus, versūta, versūtum" "crafty, cunning"
 
    "vertērunt" "they turned"
+   "vertit" "he turns"
    "vertitur" "he is turned"
    "versī" "having been turned"
    "vertere" "to turn, to change"
@@ -14850,6 +14868,7 @@
    "vidēret" "he saw"
    "videās" "you may see"
    "videntēs" "seeing"
+   "vident" "they see"
    
    "vigiliam" "vigil, watch"
    "vigiliārum" "vigil, watch"
