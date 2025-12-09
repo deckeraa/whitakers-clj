@@ -1688,6 +1688,7 @@
    "amantissimī" "most loving"
    "amāns, amantis (gen.), amantior -or -us, amantissimus -a -um" "loving"
 
+   "amat" "he loves"
    "amāre" "to love"
    "amāret" "he loved"
    "amāvit" "he loved"
@@ -7788,6 +7789,8 @@
    "interrogāvit" "he asked"
    "interrogāre" "to ask"
    "interrogāret" "he asked"
+   "interrogat" "he asks"
+   "interrogant" "they ask"
    "interrogō, interrogāre, interrogāvī, interrogātus" "to ask"
    "interveniente" "come between, intervene"
 
@@ -8044,6 +8047,11 @@
    "iugum" "yoke"
    "iugum, iugī" "yoke"
 
+   "iūlia" "Julia"
+   "iūliae" "Julia's"
+   "Jūlia, Jūliae" "Julia"
+
+   "iūlium" "Julius"
    "iūlius" "Julius"
    "Julius, Juli" "Julius"
    
@@ -8137,8 +8145,12 @@
    "lacessendum" "provoking"
    "lacessō, lacessere, lacessīvī, lacessītus" "to provoke"
    
-   "lacrima, lacrimae" "tear"
+   "lacrimae" "tears"
+   "lacrimārum" "of tears"
    "lacrimās" "tears"
+   "lacrima, lacrimae" "tear"
+
+   "lacrimat" "he cries"
    "lacrimāre" "to cry"
    "lacrimō, lacrimāre, lacrimāvī, lacrimātus" "to cry"
 
@@ -8156,7 +8168,9 @@
    "laesiōnem" "hurt, harm, injury"
    "laesiōnis" "hurt, harm, injury"
    "laesiō, laesiōnis" "hurt, harm, injury"
-   
+
+   "laeta" "happy"
+   "laetae" "happy"
    "laetī" "happy"
    "laetus" "happy"
    "laetus, laeta -um, laetior -or -us, laetissimus -a -um" "happy"
@@ -8277,6 +8291,10 @@
    "lavō, lavāre, lāvī, lautus" "to wash"
    
    "laxāte" "loosen! relax!"
+
+   "lectīca" "litter, sedan"
+   "lectīcam" "litter, sedan"
+   "lectīca, lectīcae" "litter, sedan"
 
    "lēctor" "reader"
    "lēctor, lēctōris" "reader"
