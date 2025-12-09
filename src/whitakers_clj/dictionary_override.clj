@@ -10784,6 +10784,11 @@
    "pīlīs"  "hairs"
    "pīlus, pīlī" "hair"
 
+   "pira" "pears"
+   "pirōrum" "of pears"
+   "pirum" "pear"
+   "pirum, pirī" "pear"
+
    "piscārī" "to fish"
    "piscor, piscārī, piscātus" "to fish"
 
@@ -10854,6 +10859,7 @@
    "plēnae" "full"
    "plēnam" "full"
    "plēnās" "full"
+   "plēnī" "full"
    "plēnōs" "full"
    "plēnum" "full"
    "plēnus" "full"
@@ -10971,6 +10977,7 @@
    "portantēs" "carrying, bringing"
    "portāre" "to carry"
    "portat" "he carries"
+   "portant" "they carry"
    "portābat" "he was carrying"
    "portābant" "they were carrying"
    "portandās" "carrying"
@@ -10981,6 +10988,8 @@
    "portō" "I carry"
    "portet" "it might carry"
    "portō, portāre, portāvī, portātum" "to carry, to bring"
+   "portantur" "they are carried"
+   "portatur" "it is carried"
    
    "portū" "harbor, port"
    "portum" "harbor, port"
