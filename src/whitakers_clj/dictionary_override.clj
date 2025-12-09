@@ -992,6 +992,8 @@
    "syra" "Syra"
    "Syra" "Syra"
    "syram" "Syra (accusative case)"
+   "syre" "O, Syra (vocative case)"
+   "syrī" "of Syrus (genitive case)"
    "syrum" "Syrus"
    "syrus" "Syrus (accusative case)"
    "Tamesis" "Thames river"
@@ -1067,6 +1069,7 @@
    "ūnusquisque" "each one"
    "ūnīuscuiusque" "of each one; genitive from ūnusquisque"
    "Ursus" "Ursus"
+   "ursus" "Ursus"
    "ūsque" "until, all the way, up until"
    "ūsum" "have been being used, singular neuter nominative perfect participle from ūtor, ūtī, ūsum (dep.)"
    "ut" "so that"
@@ -1311,6 +1314,7 @@
    "adimplēre" "to fill up, to fulfill"
    "adimpleō, adimplēre, adimplēvī, adimplētum" "to fill up, to fulfill"
 
+   "adit" "he goes to"
    "adiēns" "approaching, visiting"
    "adīvit" "he approached, visited"
    "adeō, adīre, adivī(iī), aditus" "to approach, visit"
@@ -1389,6 +1393,7 @@
    "adūnāvērunt" "united, brought together"
    "adūnō, adūnāre, adūnāvī, adūnātus" "to unite, bring together"
 
+   "advenit" "he comes to"
    "adveniēns" "arriving"
    "advenientibus" "arriving"
    "advenīre" "to arrive"
@@ -13216,7 +13221,8 @@
    
    "sōlstitium" "solstice, heat of summer"
    "sōlstitium, sōlstitiī" "solstice, heat of summer"
-   
+
+   "sōla" "alone"
    "sōlus" "alone"
    "sōlus, sōla, sōlum (gen -ius)" "alone"
 
