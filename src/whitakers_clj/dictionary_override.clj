@@ -2907,6 +2907,7 @@
 
    "carpere" "to pluck, to pick"
    "carperet" "he plucked"
+   "carpit" "he picks"
    "carpō, carpere, carpsī, carptus" "to pluck, to pick"
 
    "carrī" "four-wheeled wagon"
@@ -3241,6 +3242,7 @@
    "clausum" "having been closed"
    "claudere" "to close"
    "claudō, claudere, clausī, clausus" "to close"
+   "claudē" "close!"
 
    "clāvandum" "batting"
    "clāvāre" "to bat"
@@ -4237,6 +4239,11 @@
    "crystallī" "crystal"
    "crystallō" "crystal"
    "crystallus, crystallī" "crystals"
+
+   "cubiculī" "room"
+   "cubiculō" "room"
+   "cubiculum" "room"
+   "cubiculum, cubiculī" "room"
    
    "cubitīs" "cubits"
    "cubitus, cubitī" "cubit"
@@ -4310,9 +4317,12 @@
 
    "currēbat" "he ran"
    "cucurrērunt" "they ran"
+   "currit" "he runs"
+   "currunt" "they run"
    "currite" "run!"
    "currere" "to run"
    "currō, currere, cucurrī, cursus" "to run"
+   "curre" "run!"
    
    "curricula" "race, course of action, course of heavenly body"
    "curriculum, curriculī" "race, course of action, course of heavenly body"
@@ -4933,6 +4943,7 @@
 
    "discēdit" "he departs"
    "discēdendum" "departing"
+   "discēdunt" "they depart"
    "discessērunt" "they departed"
    "discessissent" "they had departed"
    "discēdere" "to depart"
@@ -5651,6 +5662,8 @@
    "exībat" "he was going out"
    "exībant" "they were going out"
    "exīvimus" "we went out"
+   "exeunt" "they go out"
+   "exit" "he goes out"
    
    "exilīvit" "he went out"
    "exiliō, exilīre, exilīvī, -" "to go out"
@@ -6299,6 +6312,11 @@
    "fōrmāverint" "they will have formed"
    "fōrmāre" "to form"
    "fōrmō, fōrmāre, fōrmāvī, fōrmātus" "to form"
+
+   "fōrmōsa"  "beautiful, formly"
+   "fōrmōsum" "beautiful, formly"
+   "fōrmōsus" "beautiful, formly"
+   "fōrmōsus, fōrmōsa -um, fōrmōsior -or -us, fōrmōsissimus -a -um" "beautiful, formly"
    
    "formidāre" "to dread"
    "formidō, formidāre, formidāvī, formidātus" "to dread"
@@ -6967,6 +6985,11 @@
    "hortātū" "encouragement, exhortation"
    "hortātus" "encouragement, exhortation"
    "hortātus, hortātūs" "encouragement, exhortation"
+
+   "hortō"  "garden"
+   "hortum" "garden"
+   "hortus" "garden"
+   "hortus, hortī" "garden"
 
    "hospitārī" "to be lodged"
    "hospitātō"  "having been lodged"
