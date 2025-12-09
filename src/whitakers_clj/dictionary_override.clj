@@ -11633,6 +11633,7 @@
    "pūblicus, pūblica, pūblicum" "public"
 
    "puella" "girl"
+   "puellae" "girl's"
    "puellam" "girl"
    "puella, puellae" "girl"
    
@@ -11684,6 +11685,8 @@
    "pulsum" "pulse, stroke"
    "pulsus, pulsūs" "pulse, stroke"
 
+   "pulsat" "he hits"
+   "pulsant" "they hit"
    "pulsāvērunt" "they hit"
    "pulsāvit" "he hit"
    "pulsā" "having been hit"
@@ -12469,6 +12472,12 @@
    "rōmānicae" "Romanic"
    "rōmānicō" "Romanic"
    "rōmānicus, rōmānica, rōmānicum" "Romanic"
+
+   "rosa" "rose"
+   "rosam" "rose"
+   "rosārum" "of roses"
+   "rosās" "roses"
+   "rosa, rosae" "rose"
 
    "rota" "wheel"
    "rotārum" "of wheels"
