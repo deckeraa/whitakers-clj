@@ -9338,6 +9338,10 @@
    "nārrāvit" "he told"
    "nārrāre" "to narrate, to tell about"
    "nārrō, nārrāre, nārrāvī, nārrātus" "to narrate, to tell about"
+
+   "nāsum" "nose"
+   "nāsus" "nose"
+   "nāsus, nāsī" "nose"
    
    "nātū" "birth"
    "nātus" "having been born"
@@ -10075,7 +10079,9 @@
    "ōs, ōris" "mouth"
    "ōscula" "kisses"
    "ōsculō" "kiss"
+   "ōsculum" "kiss"
    "ōsculum, ōsculī" "kiss"
+   
    "ōsculābantur" "they were kissing"
    "ōsculantibus" "kissing"
    "ōsculārētur" "he (might) have been kissing"
@@ -10110,6 +10116,10 @@
    "ōstium" "door"
    "ōstium, ōstiī" "door"
    "ōstium, ōsti(ī)" "door"
+
+   "ōstiāriō"  "doorman"
+   "ōstiārius" "doorman"
+   "ōstiārius, ōstiāriī" "doorman"
 
    "ovāns" "rejoicing"
    "ovāre" "to rejoice"
@@ -10232,6 +10242,7 @@
    "pariō, parere, peperī, partus" "to give birth"
 
    "pārēns" "obeying"
+   "pāret" "he obeys"
    "pāruerant" "they had obeyed"
    "pāreō, pārēre, pāruī, pāritūrus" "to obey"
 
@@ -10575,6 +10586,10 @@
    "peregrīnōrum" "of pilgrims, travelers"
    "peregrīnōs" "pilgrims, travelers"
    "peregrīnus, peregrīnī" "traveler"
+
+   "peristȳlō"  "indoor courtyard surrounded by columns"
+   "peristȳlum" "indoor courtyard surrounded by columns"
+   "peristȳlum, peristȳlī" "indoor courtyard surrounded by columns"
 
    "perītia"  "skill, experience"
    "perītiae" "skill, experience"
