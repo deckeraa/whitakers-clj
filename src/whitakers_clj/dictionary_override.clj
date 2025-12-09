@@ -7457,6 +7457,11 @@
    "inertem" "weak, unskillful"
    "iners, inertis (gen.), inertior -or -us, inertissimus -a -um" "weak, unskillful"
 
+   "inest" "it is in"
+   "insunt" "they are in"
+   "īnesse" "to be in"
+   "īnsum, īnesse, īnfuī, īnfutūrus" "to be in"
+
    "īnfāns" "infant"
    "īnfantem" "infant"
    "īnfantum" "infant"
