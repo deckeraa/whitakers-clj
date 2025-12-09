@@ -12540,6 +12540,8 @@
    "sabbatō" "Sabbath"
    "sabbatum, sabbatī" "Sabbath"
 
+   "saccō"  "sack, bag, wallet"
+   "saccum" "sack, bag, wallet"
    "saccus" "sack, bag, wallet"
    "saccus, saccī" "sack, bag, wallet"
 
@@ -12630,7 +12632,11 @@
    "salūtārium" "salutary, redeeming"
    "salūtāris, 	salūtāre" "salutary, redeeming"
 
+   "salūtat" "he greets"
+   "salūtant" "they greet"
    "salūtārent" "they greeted"
+   "salūtātur" "he is greeted"
+   "salūtāntur" "they are greeted"
    "salūtātis" "you salute, you greet"
    "salūtāvit" "he saluted, he greeted"
    "salūtō, salūtāre, salūtāvī, salūtātus" "to salute, to greet"
