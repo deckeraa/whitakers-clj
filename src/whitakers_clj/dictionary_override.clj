@@ -962,7 +962,7 @@
    "strictum" "narrow, strict, tight"
    "stultē" "stupidly, foolishly; adverb from stultus, stulta, stultum"
    "sua" "her/its; sing. fem. nom. or abl. or neuter nom. or acc. from suus"
-   "suae" "her; singular feminine gen. or dat. or pluraul feminine nom. or voc. from suus"
+   "suae" "her; singular feminine gen. or dat. or plural feminine nom. or voc. from suus"
    "suam" "her; singular feminine acc. from suus"
    "suārum" "of theirs; plural feminine genitive from suus"
    "sub" "below, under"
@@ -1563,6 +1563,7 @@
    "agendō" "conducting, acting, doing"
    "ēgērunt" "they conducted, acted"
    "āctūrōs" "to be conducted"
+   "age" "go! do!"
    "agere" "to conduct, to act"
    "agō, agere, ēgī, āctus" "to conduct, to act"
    
@@ -2892,6 +2893,7 @@
    "capsīs" "cylindrical container for books"
 
    "captīvitāte" "captivity"
+   "captīvitātem" "captivity"
    "captīvitās, captīvitātis" "captivity"
 
    "captīvōs" "captives"
@@ -3339,7 +3341,8 @@
    "cōgere" "to collect, to force"
    "cōgō, cōgere, coēgī, coāctus" "to collect, to force"
 
-   "cōgitābat" "he was thinkingg"
+   "cōgitābat" "he was thinking"
+   "cōgitāns" "thinking"
    "cōgitat" "he thinks"
    "cōgitāre" "to think"
    "cōgitāvit" "he thought"
@@ -5103,6 +5106,7 @@
    "dēferat" "he transfers"
    "dēferēns" "transferring"
    "dēferentēs" "transferring"
+   "dēferrī" "to be transferred"
    "dēferō, dēferre, dētulī, dēlātus" "to bring down, to transfer"
    
    "dīmidium" "half"
@@ -5274,6 +5278,7 @@
    "ductī" "having been lead"
    
    "ductor" "leader"
+   "ductōre" "leader"
    "ductor, ductōris" "leader"
 
    "duae" "two"
@@ -5524,6 +5529,7 @@
    
    "errantēs" "wandering, erroring"
    "errat" "he wanders, errs"
+   "errāre" "to wander, to go astray"
    "errō, errāre, errāvī, errātus" "to wander, to go astray"
 
    "error"  "error, wandering, deception"
@@ -5748,6 +5754,9 @@
    "expedītum" "free, unburdened"
    "expedītus, expedīta -um, expedītior -or -us, expedītissimus -a -um" "free, unburdened"
 
+   "expendiō" "spoils, plunder"
+   "expendium, expendiī" "spoils, plunder"
+
    "expendit" "he pays, he paid"
    "expendere" "to pay, to pay a penalty"
    "expēnsīs" "having been paid"
@@ -5807,6 +5816,8 @@
    "exsisto, exsistere, exstiti, -" "to exist, appear, become"
 
    "exspectāvit" "he waited"
+   "exspectat" "he awaits"
+   "exspectant" "they await"
    "exspectāre" "to wait"
    "exspectō, exspectāre, exspectāvī, exspectātus" "to wait"
 
@@ -8699,6 +8710,10 @@
 
    "male" "in an evil manner (adverb)"
    "malus, mala -um, pejor -or -us, -" "evil"
+
+   "mālōrum" "of apples"
+   "mālum" "apple"
+   "mālum, mālī" "apple"
 
    "malvam" "mallow plant"
    "malva, malvae" "mallow plant"
@@ -12423,6 +12438,10 @@
    "Rhodanus, Rhodanī" "The Rhone"
    "rhodanus, Rhodanī" "The Rhone"
 
+   "rīdet" "he laughs"
+   "rīdēre" "to laugh"
+   "rīdeō, rīdēre, rīsī, rīsus" "to laugh"
+
    "rigor" "rigor, roughness"
    "rigōrem" "rigor, roughness"
    "rigōris" "rigor, roughness"
@@ -13824,6 +13843,7 @@
    "tacendī" "of being silent"
    "tacendum" "being silent"
    "tacēre" "to be silent"
+   "tacet" "he is silent"
    "tacuit" "he was silent"
    "taceō, tacēre, tacuī, tacitus" "to be silent"
 
