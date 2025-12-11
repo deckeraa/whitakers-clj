@@ -1071,6 +1071,7 @@
    "Ursus" "Ursus"
    "ursus" "Ursus"
    "ūsque" "until, all the way, up until"
+   "usquequo" "until"
    "ūsum" "have been being used, singular neuter nominative perfect participle from ūtor, ūtī, ūsum (dep.)"
    "ut" "so that"
    "utcumque" "as soon as, by any means"
@@ -9984,6 +9985,7 @@
    "onus" "burden"
    "onus, oneris" "burden"
 
+   "onustīs" "laden"
    "onustōs" "laden"
    "onustus, onusta, onustum" "laden"
 
@@ -10348,6 +10350,7 @@
    "pasta, pastae" "paste"
    
    "pāstōre" "shepherd, pastor"
+   "pāstōrem" "shepherd, pastor"
    "pāstor, pāstōris" "shepherd, pastor"
    
    "pāstū" "pasture, fodder, food"
@@ -12905,6 +12908,10 @@
    "sēditiōnis" "sedition, treason"
    "sēditiō, sēditiōnis" "sedition, treason"
 
+   "sēgregātōs" "having been separated"
+   
+   "sēgregō, sēgregāre, sēgregāvī, sēgregātus" "to separate"
+
    "sēiūnctās" "having been separated"
    "sēiungō, sēiungere, sēiūnxī, sēiūnctus" "to separate, exclude"
 
@@ -13251,6 +13258,7 @@
    "sōlstitium, sōlstitiī" "solstice, heat of summer"
 
    "sōla" "alone"
+   "sōlōs" "alone"
    "sōlus" "alone"
    "sōlus, sōla, sōlum (gen -ius)" "alone"
 
@@ -14566,6 +14574,8 @@
 
    "vacua" "empty, vacant"
    "vacuam" "empty, vacant"
+   "vacuī"  "empty, vacant"
+   "vacuīs" "empty, vacant"
    "vacuum" "empty, vacant"
    "vacuus, vacua, vacuum" "empty, vacant"
 
