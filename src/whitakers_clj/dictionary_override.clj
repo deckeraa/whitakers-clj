@@ -1149,6 +1149,7 @@
    "abdita" "having been hidden, removed"
    "abdō, abdere, abdidī, abditus" "to hide, to remove"
 
+   "abībant" "they were departing"
    "abiērunt" "they departed"
    "abit" "you depart"
    "abīre" "to depart"
@@ -1630,6 +1631,7 @@
    "aliēnum" "strange, unfamiliar"
    "aliēnus, aliēna -um, aliēnior -or -us, alienissimus -a -um" "strange, unfamiliar"
 
+   "alimenta" "food, nourishment, sustenance"
    "alimentīs" "food, nourishment, sustenance"
    "alimentōrum" "of food, nourishment, sustenance"
    "alimentum" "food, nourishment, sustenance"
@@ -2032,6 +2034,10 @@
    "apposuit" "he placed, he set before"
    "appōnō, appōnere, apposuī, appositus" "to place, to set before"
 
+   "appreciābantur" "they were valuing, purchasing"
+   "appreciāre" "to value, purchase"
+   "appreciō, appreciāre, appreciāvī, appreciātus" "to value, purchase"
+
    "apprehendēns" "seizing"
    "apprehendit" "he seizes, he seized"
    "apprehendēbāmus" "we were seizing"
@@ -2256,6 +2262,7 @@
    "asellus" "small ass"
    "asellus, asellī" "small ass"
 
+   "asinī" "of an ass"
    "asinō" "ass"
    "asinōs" "asses"
    "asinus" "ass"
@@ -14602,6 +14609,7 @@
    "valēbunt" "they will be healthy, able, strong"
    "valentēs" "being healthy, able, strong"
    "valuit" "he was healthy, able, strong"
+   "valēret" "he might have been healthy, able, strong"
    "valērent" "they were healthy, able, strong"
    "valeātis" "you are healthy, able, strong"
    "valeō, valēre, valuī, valitūrus" "to be healthy, able, strong"
@@ -14942,11 +14950,13 @@
    "vigilāvit" "he woke up"
    "vigilandī" "of waking up"
    "vigilandum" "waking up"
+   "vigilant" "they keep watch"
    "vigilantēs" "keeping watch, waking up"
    "vigilāre" "to wake up"
    "vigilō, vigilāre, vigilāvī, vigilātus" "to be awake, to watch for"
 
    "vīlī" "cheap, worthless"
+   "vīlissima" "most cheap, worthless"
    "vīlis, vīlis, vīle" "cheap, worthless"
 
    "vīlla"  "farm, villa"
