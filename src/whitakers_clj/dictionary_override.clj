@@ -7420,6 +7420,10 @@
    "incrēdulus" "incredulous, unbelieving"
    "incrēdulus, incrēdula, incrēdulum" "incredulous, unbelieving"
 
+   "increpāvit" "he exhorted"
+   "increpāre" "to exort"
+   "increpō, increpāre, increpāvī, increpitus" "to exort"
+
    "incursiō" "onrush, attack"
    "incursiōne" "onrush, attack"
    "incursiō, incursiōnis" "onrush, attack"
@@ -7912,6 +7916,9 @@
    "invenīrī" "to be found"
    "inveniēbāmus" "we were finding"
    "invenientēs" "finding"
+   "invēnerant" "they had found"
+   "invēnerint" "they will have found"
+   "inveniant" "they might find"
    "inveniō, invenīre, invēnī, inventus" "to find"
 
    "invertitur" "it is changed, turned upside down"
@@ -9054,6 +9061,7 @@
    "miserī" "miserable"
    "miser, misera -um, miserior -or -us, miserrimus -a -um" "miserable"
    "misera" "miserable"
+   "miserrima" "very miserable"
 
    "miseria"  "misfortune, suffering"
    "miseriae" "misfortune, suffering"
@@ -9115,6 +9123,7 @@
    "mittente" "sending"
    "mittentem" "sending"
    "mitteret" "he was sending"
+   "mīserant" "they had sent"
    "mittere" "to send"
    "mittō, mittere, mīsī, missus" "to send"
 
