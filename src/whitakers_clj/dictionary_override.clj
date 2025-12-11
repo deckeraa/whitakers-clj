@@ -2937,6 +2937,9 @@
    "carnis" "meat, flesh"
    "carō, carnis" "meat, flesh"
 
+   "carpentārius" "coachman, cartwright"
+   "carpentārius, carpentāriī" "coachman, cartwright"
+
    "carpere" "to pluck, to pick"
    "carperet" "he plucked"
    "carpit" "he picks"
@@ -2949,6 +2952,7 @@
 
    "cāra" "beloved"
    "cārissimī" "beloved"
+   "cārum" "beloved"
    "cārus, cāra -um, cārior -or -us, cārissimus -a -um" "beloved, dear"
 
    "casa" "house"
@@ -4137,6 +4141,9 @@
    "corōnārī" "to be crowned"
    "corōnāre" "to crown"
    "corōnō, corōnāre, corōnāvī, corōnātus" "to crown"
+
+   "corporea" "physical, corporeal"
+   "corporeus, corporea, corporeum" "physical, corporeal"
    
    "corporibus" "bodies"
    "corpus" "body, flesh"
