@@ -986,6 +986,7 @@
    "super" "above, on top of"
    "supellē̆ctilī" "furnishings"
    "suprā" "over, above, beyond, before"
+   "surānī" "Syrians"
    "sūrsum" "on top, upward"
    "Syon" "Zion"
    "Synai" "Sinai"
@@ -11337,6 +11338,7 @@
    "presbyter, presbyterī" "elder, presbyter"
    
    "pretiō" "price"
+   "pretium" "price"
    "pretium, pretiī" "price"
 
    "pretiosissimum" "most precious"
@@ -11946,6 +11948,7 @@
    "recēdit" "it recedes"
    "recēdite" "withdraw!"
    "recesserit" "it will have withdrawn"
+   "recessērunt" "they withdrew"
    "recessimus" "we withdrew"
    "recessit" "he withdrew"
    "recēdō, recēdere, recessī, recessus" "to recede, to withdraw"
@@ -12005,6 +12008,7 @@
    "redderent" "they might return"
    "reddidērunt" "they returned"
    "reddita" "having been returned"
+   "redīrent" "they might have returned"
 
    "redēmptiō" "redemption"
    "redēmptiōne" "redemption"
@@ -12795,6 +12799,8 @@
    "satisfacere" "to satisfy"
    "satisfaciō, satisfacere, satisfēcī, satisfactus" "to satisfy"
 
+   "satisfactiō, satisfactiōnis" "satisfaction, plea, explanation"
+
    "saturātī" "having been sated, saturated"
    "saturō, saturāre, saturāvī, saturātus" "to sate, saturate"
    
@@ -13248,6 +13254,10 @@
    
    "sōlemnem" "solemn"
    "sōlemnis, sōlemne, sōlemnior -or -us, sōlemnissimus -a -um" "solemn"
+
+   "solidīs" "gold coins"
+   "solidus" "a gold coin"
+   "solidus, solidī" "a gold coin"
 
    "solium" "throne"
    "soliī"  "throne"
