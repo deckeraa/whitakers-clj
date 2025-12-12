@@ -4525,6 +4525,7 @@
    "dēcrētum" "decree, decision"
    "dēcrētum, dēcrētī" "decree, decision"
 
+   "dēdecore" "disgrace, shame"
    "dēdecus" "disgrace, shame"
    "dēdecus, dēdecoris" "disgrace, shame"
 
@@ -5119,6 +5120,7 @@
    "dētulērunt" "they transferred"
    "dēferrent" "they transferred"
    "dēferat" "he transfers"
+   "dēferēbant" "they were transferring"
    "dēferēns" "transferring"
    "dēferentēs" "transferring"
    "dēferrī" "to be transferred"
@@ -5451,6 +5453,7 @@
    "ēlucubrābō" "I will burn the midnight oil"
    "ēlucubrō, ēlucubrāre, ēlucubrāvī, ēlucubrātus" "to burn the midnight oil"
 
+   "ementēs" "buying"
    "emere" "to buy"
    "emō, emere, ēmī, ēmptum" "to buy"
 
@@ -7677,6 +7680,7 @@
    "inquit" "he says, he said"
    "inquiam, -, -" "to say"
 
+   "inquīrentēs" "examining, inquiring"
    "inquīrendō" "examining, inquiring"
    "inquīrere" "to examine, inquire"
    "inquīrō, inquīrere, inquīsīvī, inquīsītus" "to examine, inquire"
@@ -9203,6 +9207,10 @@
    "mōnstrāvit" "he pointed out"
    "mōnstrātur" "it is pointed out"
    "mōnstrō, mōnstrāre, mōnstrāvī, mōnstrātus" "to point out"
+
+   "montānea"  "mountain"
+   "montāneās" "mountains"
+   "montānea, montāneae" "mountain"
 
    "montanam" "mountainous"
    "montānās" "mountainous"
