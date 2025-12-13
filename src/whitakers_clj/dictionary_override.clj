@@ -400,6 +400,7 @@
    "heu" "Hey! oh! (interjection)"
    "hiberniae" "of Ireland (genitive case)"
    "hibernensium" "of the Irish (plural genitive)"
+   "Hierosolimītānō" "Jerusalemite"
    "honorabiliter" "honorably"
    "hōs" "these; plural masculine accusative from hic, haec, hoc"
    "Hungāriae" "Hungary"
@@ -736,6 +737,7 @@
    "porrō" "farther, further, also"
    "post" "behind, after, since"
    "posteā" "thereafter, later"
+   "postmodum" "afterwards, presently, later"
    "postquam" "since, since then, after"
    "postrēmō" "finally"
    "pōtū" "drink; singular masculine ablative from pōtus, pōtūs"
@@ -1127,6 +1129,7 @@
    "vix" "barely"
    "vōbīs" "you; plural dative or ablative from tu"
    "volunt" "they want; singular 3rd person present from volō, velle, voluī (irr.)"
+   "voluntāriē" "voluntarily"
    "vōtum" "vow"
    "vult" "he wants; singular 3rd person present from volō, velle, voluī (irr.)"
    "vultis" "you want; plural 2nd person present from volō, velle, voluī (irr.)"
@@ -8157,6 +8160,7 @@
    "iūrāvit" "he swore"
    "iūrent" "they swear"
    "iūrāret" "he might swear"
+   "iūrāverit" "he might swear"
    "iūrāre" "to swear"
    "iūrō, iūrāre, iūrāvī, iūrātus" "to swear"
 
@@ -9109,6 +9113,7 @@
    "miserī" "miserable"
    "miser, misera -um, miserior -or -us, miserrimus -a -um" "miserable"
    "misera" "miserable"
+   "miseriam" "miserable"
    "miserrima" "very miserable"
 
    "miseria"  "misfortune, suffering"
@@ -9267,6 +9272,7 @@
    "mora, morae" "delay"
 
    "mōrātus" "having stayed, delayed"
+   "morāns" "staying, delaying"
    "morantur" "they stay, delay"
    "morārī" "to stay, delay"
    "moror, morārī, morātus sum" "to stay, delay"
@@ -10073,6 +10079,7 @@
    "optimam" "very good"
    "optimās" "very good"
    "optimīs" "very good"
+   "optimōs" "very good"
 
    "opera" "works, deeds"
    "opere" "work, deed"
@@ -10477,6 +10484,7 @@
    "pauper, pauperis (gen.), pauperior -or -us, pauperrimus -a -um" "poor"
 
    "paupertās"   "poverty"
+   "paupertātem" "poverty"
    "paupertātēs" "poverties"
    "paupertātis" "poverty"
    "paupertās, paupertātis" "poverty"
@@ -11973,6 +11981,7 @@
    "recēde" "recede! withdraw!"
    "recēdēbant" "they were receding, they were withdrawing"
    "recēdunt" "they withdraw"
+   "recēdet" "he will withdraw"
    "recēdit" "it recedes"
    "recēdite" "withdraw!"
    "recesserit" "it will have withdrawn"
@@ -12549,6 +12558,7 @@
    "rōborō, rōborāre, rōborāvī, rōborātus" "to strengthen"
 
    "rogābant" "they were asking"
+   "rogāvērunt" "they asked"
    "rogāre" "to ask"
    "rogō, rogāre, rogāvī, rogātus" "to ask"
    
@@ -14445,6 +14455,11 @@
    "turpiter" "ugly, unsightly"
    "turpis, turpe, turpior -or -us, turpissimus -a -um" "ugly, nasty, repulsive, shameful"
 
+   "turpitūdō"    "ugliness, foulness"
+   "turpitūdinis" "ugliness, foulness"
+   "turpitūdine"  "ugliness, foulness"
+   "turpitūdō, turpitūdinis" "ugliness, foulness"
+
    "turrēs" "towers"
    "turrim" "tower"
    "turris" "tower"
@@ -14662,6 +14677,7 @@
    "vādere" "to go, to walk"
    "vādō, vādere, vāsī, -" "to go, to walk"
 
+   "valēbat" "he will be healthy, able, strong"
    "valēbunt" "they will be healthy, able, strong"
    "valentēs" "being healthy, able, strong"
    "valuit" "he was healthy, able, strong"
@@ -15225,7 +15241,7 @@
    "volāns" "flying"
    "volāre" "to fly"
    "volāvit" "he flew"
-   
+
    "voluistis" "you wanted"
    "voluntās" "will"
    "voluntāte" "will"
