@@ -345,6 +345,7 @@
    "fortiter" "strongly (adverb from fortis, forte)"
    "francī" "the Franks"
    "franciae" "of the Franks"
+   "Francigenae" "those born of the Franks, Frankish-born"
    "francīs" "the Franks"
    "francōrum" "of the Franks"
    "francōs" "the Franks"
@@ -1918,6 +1919,10 @@
    "annonam" "yearly income"
    "annōnā" "yearly income"
    "annōna, annōnae" "yearly income"
+
+   "annuit" "he agreed"
+   "annuere" "to agree"
+   "annuō, annuere, annuī, annūtus" "to agree"
 
    "annulum" "ring"
    "annulus" "ring"
@@ -3870,7 +3875,9 @@
    "cōnscrībō, cōnscrībere, cōnscrīpsī, cōnscrīptus" "to write down"
 
    "cōnsēnsit" "he was in agreement"
+   "cōnsentiam" "he is in agreement"
    "cōnsentiat" "he is in agreement"
+   "cōnsentiet" "he will be in agreement"
    "cōnsentīret" "they were in agreement"
    "cōnsēnsum" "having been in agreements"
    "cōnsentīre" "to be in agreement"
@@ -4045,6 +4052,9 @@
    "continuī" "continually"
    "continuō" "continually"
    "continuus, continua, continuum" "continuous"
+
+   "contrāriī" "opposite"
+   "contrārium, contrāriī" "opposite"
 
    "contrīstābit" "he will sadden"
    "contrīstātus" "being saddened"
@@ -4639,6 +4649,10 @@
    "dēligitur" "it is chosen"
    "dēligere" "to choose, to select"
    "dēligō, dēligere, dēlēgī, dēlēctus" "to choose, to select"
+
+   "dēlictīs" "having been failed, offended"
+   "dēlinquere" "to fail, offend"
+   "dēlinquō, dēlinquere, dēlīquī, dēlictus" "to fail, offend"
 
    "dēlūdentēs" "deceiving"
    "dēlūdere" "to deceive"
