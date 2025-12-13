@@ -344,6 +344,7 @@
    "forte" "by chance"
    "fortiter" "strongly (adverb from fortis, forte)"
    "francī" "the Franks"
+   "franciae" "of the Franks"
    "francīs" "the Franks"
    "francōrum" "of the Franks"
    "francōs" "the Franks"
@@ -1130,6 +1131,7 @@
    "vultis" "you want; plural 2nd person present from volō, velle, voluī (irr.)"
    "Westfalhōs" "Westphalians, members of a Saxon tribe"
    "Westfalōs" "Westphalians, members of a Saxon tribe"
+   "Willelmus" "Wilhelm or William"
    "Wisuram" "The River Weser, the second longest river in Germany"
    "X" "ten"
    "XVIII" "eighteen"
@@ -1643,6 +1645,9 @@
    "aliud" "other"
    "alius" "other"
    "alius, alia, aliud" "other"
+
+   "alloquēns" "addressing, speaking to"
+   "alloquor, alloquī, allocūtus sum" "to address, to speak to"
 
    "alluit" "it flows, bathes"
    "alluō, alluere, alluī, -" "to flow, to bathe"
@@ -5555,6 +5560,7 @@
    "errōre" "error, wandering, deception"
    "error, errōris" "error, wandering, deception"
 
+   "ērubēscendō" "being ashamed, blushing"
    "ērubēscere" "to be ashamed, to blush"
    "ērubēscō, ērubēscere, ērubuī, -" "to be ashamed, to blush"
 
@@ -6526,6 +6532,7 @@
    "fugit" "he flees, he fled"
    "fugite" "flee"
    "fugientum" "fleeing"
+   "fūgistī" "you fled"
    "fugiō, fugere, fūgī, fugitus" "to flee, to avoid"
 
    "fuerit" "it will have been"
@@ -7117,6 +7124,10 @@
    "hymnus" "hymn"
    "hymnum" "hymn"
    "hymnus, hymnī" "hymn"
+
+   "iacuit" "he layed"
+   "jaceō, jacēre, jacuī, jacitūs" "to lay"
+   "iaceō, iacēre, iacuī, iacitūs" "to lay"
    
    "iacendō" "laying"
    "iacentem" "laying"
@@ -7517,6 +7528,9 @@
    "insunt" "they are in"
    "īnesse" "to be in"
    "īnsum, īnesse, īnfuī, īnfutūrus" "to be in"
+
+   "īnfāmia" "reproach, dishonor, bad reputation"
+   "īnfāmia, īnfāmiae" "reproach, dishonor, bad reputation"
 
    "īnfāns" "infant"
    "īnfantem" "infant"
@@ -12823,6 +12837,7 @@
    "scelere" "crime"
    "sceleris" "crime"
    "scelerum" "of crimes"
+   "scelus" "crime"
    "scelus, sceleris" "crime"
 
    "scēptra" "scepters"
@@ -13701,6 +13716,7 @@
    "suēscere" "to become accustomed"
    "suēscō, suēscere, suēvī, suētus" "to become accustomed"
 
+   "suffert" "he bears, endures, suffers"
    "sufferre" "to bear, endure, suffer"
    "sufferō, sufferre, sustulī, sublātus" "to bear, endure, suffer"
 
@@ -14412,6 +14428,7 @@
    "turpī" "ugly, filthy"
    "turpius" "uglier"
    "turpissima" "ugly, nasty, repulsive, shameful"
+   "turpiter" "ugly, unsightly"
    "turpis, turpe, turpior -or -us, turpissimus -a -um" "ugly, nasty, repulsive, shameful"
 
    "turrēs" "towers"
@@ -15183,6 +15200,7 @@
    "voluissent" "they had wanted"
    "vellētis" "you might have wished"
    "voluissem" "I had wished"
+   "voluistī" "you wanted"
    
    "vōcem" "voice"
    "vōx" "voice"
