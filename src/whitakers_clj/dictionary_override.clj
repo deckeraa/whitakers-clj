@@ -10728,6 +10728,10 @@
    "perītiae" "skill, experience"
    "perītiam" "skill, experience"
    "perītia, perītiae" "skill, experience"
+
+   "periūriō" "false oath, perjury"
+   "periūrium" "false oath, perjury"
+   "periūrium, periūriī" "false oath, perjury"
    
    "pereat" "may it perish"
    "perivērunt" "they perished"
@@ -12072,6 +12076,7 @@
    "reddidērunt" "they returned"
    "reddita" "having been returned"
    "redīrent" "they might have returned"
+   "redībō" "I will return"
 
    "redēmptiō" "redemption"
    "redēmptiōne" "redemption"
@@ -13734,6 +13739,7 @@
    "subversiō" "overthrow, destruction"
    "subversiō, subversiōnis" "overthrow, destruction"
 
+   "succēdit" "he climbed, succeeded"
    "succēdēbant" "they were climbing"
    "succēdere" "to climb, to succeed"
    "succēdō, succēdere, successī, successus" "to climb, to succeed"
@@ -14168,6 +14174,7 @@
    "timentēs" "fearing"
    "timeās" "you fear"
    "timēbat" "he was fearing"
+   "timuisse" "to have feared"
    "timēre" "to fear"
    "timeō, timēre, timuī, -" "to fear"
    
@@ -14781,6 +14788,7 @@
    "vēlum, vēlī" "sail, cloth"
 
    "vēndēbant" "they were selling"
+   "vēndendum" "selling"
    "vēndentēs" "selling"
    "vēnderētur" "was being sold"
    "vēndere" "to sell"
