@@ -2336,6 +2336,10 @@
    "ātrium" "atrium"
    "ātrium, ātrī" "atrium"
 
+   "attendam" "I will attend"
+   "attendere" "to attend"
+   "attendō, attendere, attendī, attentus" "to attend"
+
    "attingēbat" "they were touching"
    "attingit" "it touches, it borders"
    "attingō, attingere, attigī, attāctus" "to touch, to border on, to reach"
@@ -2973,6 +2977,10 @@
    "casae" "house"
    "casam" "house"
    "casa, casae" "house"
+
+   "cāseīs" "cheeses"
+   "cāseus" "cheese"
+   "cāseus, cāseī" "cheese"
 
    "cassō" "hollow, vain, useless"
    "cassus, cassa, cassum" "hollow, vain, useless"
@@ -5226,7 +5234,9 @@
    "dominātus, dominātūs" "rule, mastery, tyranny"
    
    "domestica" "domestic"
+   "domesticī" "domestic"
    "domesticus, domestica, domesticum" "domestic"
+   
    "domine" "lord, master"
    "dominī" "of the lord"
    "dominō" "lord"
@@ -5298,6 +5308,8 @@
    "dubitāns" "hesitating, doubting"
    "dubitantēs" "hesitating, doubting"
    "dubitāret" "he hesitated, doubted"
+   "dubitātiōne" "hesitating, doubting"
+   "dubitāre" "to doubt, hesitate"
    "dubitō, dubitāre, dubitāvī, dubitātus" "to doubt, hesitate"
 
    "dūcēns" "leading"
