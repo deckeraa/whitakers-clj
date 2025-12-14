@@ -1557,7 +1557,8 @@
    "agnum" "lamb"
    "agnō" "lamb"
    "agnus, agnī" "lamb"
-   
+
+   "agant" "they might be doing"
    "ēgimus" "we conducted, we acted"
    "agit" "I act, I conduct"
    "agitis" "you act, you conduct"
@@ -2117,6 +2118,9 @@
 
    "ārās" "altars, refuges"
    "āra, ārae" "altar, refuge"
+
+   "arbiter" "eye-witness, judge"
+   "arbiter, arbitrī" "eye-witness, judge"
 
    "arbitriī" "will, arbitration"
    "arbitriō" "will, arbitration"
@@ -3121,7 +3125,8 @@
    "certō" "certain"
    "certum" "certain"
    "certus, certa, certum" "certain"
-   
+
+   "certāminum" "of contest, struggle"
    "certāmine" "contest, struggle"
    "certāmen, certāminis" "contest, struggle"
 
@@ -5121,6 +5126,7 @@
    "dīvīsa" "having been divided"
    "dīvīsae" "having been divided"
    "dīvīsērunt" "they divided"
+   "dīvīsōs" "having been divided"
    "dīvīsī" "having been divided"
    "dīvīsit" "he divided"
    "dīvidō, dīvidere, dīvīsī, dīvīsus" "to divide"
@@ -5831,6 +5837,10 @@
    "expertus" "expert"
    "expertūs" "expert"
    "expertus, expertūs" "expert"
+
+   "explōrātor" "scout, explorer"
+   "explōrātōrēs" "scouts, explorers"
+   "explōrātor, explōrātōris" "scout, explorer"
 
    "explōrāret" "he was exploring, investigating"
    "explōrārent" "they were exploring, investigating"
@@ -7174,6 +7184,7 @@
 
    "iacuit" "he layed"
    "jaceō, jacēre, jacuī, jacitūs" "to lay"
+   "iacēre" "to lay"
    "iaceō, iacēre, iacuī, iacitūs" "to lay"
    
    "iacendō" "laying"
@@ -8752,6 +8763,9 @@
    "magnificābant" "they were esteeming greatly"
    "magnificāvimus" "we esteemed greatly"
    "magnificō, magnificāre, magnificāvī, magnificātus" "to esteem greatly"
+
+   "māgnificus" "magnificent"
+   "māgnificus, māgnifica -um, māgnificentior -or -us, māgnificentissimus -a -u" "magnificent"
    
    "maior" "bigger"
    "maiōrem" "bigger"
@@ -11755,6 +11769,7 @@
 
    "prūdēns" "prudent, competent"
    "prūdentissimī"  "very prudent, competent"
+   "prūdentissimīs" "very prudent, competent"
    "prūdentissimōs" "very prudent, competent"
    "prūdēns, prūdentis (gen.), prūdentior -or -us, prūdentissimus -a -um" "prudent, competent"
    
@@ -12056,6 +12071,10 @@
    "reconciliāta" "having been reconciled"
    "reconciliātī" "having been reconciled"
    "reconciliō, reconciliāre, reconciliāvī, reconciliātus" "to reconcile"
+
+   "reconditae" "having been hidden, concealed, put away"
+   "recondere" "to hide, conceal, put away"
+   "recondō, recondere, recondidī, reconditus" "to hide, conceal, put away"
    
    "rēctitūdinis" "straightness, rectitude"
    "rēctitūdō, rēctitūdinis" "straightness, rectitude"
@@ -13437,6 +13456,10 @@
    "spectāre" "to observe, to consider"
    "spectō, spectāre, spectāvī, spectātus" "to observe, to consider"
 
+   "speculātor" "spy, scout"
+   "speculātōrēs" "spies, scouts"
+   "speculātor, speculātōris" "spy, scout"
+
    "speculātōria" "for spying or scouting"
    "speculātōrius, speculātōria, speculātōrium" "for spying or scouting"
 
@@ -14102,6 +14125,7 @@
    "tentōrium" "tent"
    "tentōriō" "tent"
    "tentōriī" "tent"
+   "tentōriīs" "tents"
    "tentōrium, tentōriī" "tent"
 
    "teris" "you rub, you wear out"
