@@ -6013,6 +6013,10 @@
    "fallere" "to deceive"
    "fallō, fallere, fefellī, falsus" "to deceive"
 
+   "falsa" "untruths, deceits, lies"
+   "falsum" "untruth, deceit, lie"
+   "falsum, falsī" "untruth, deceit, lie"
+
    "fāma" "fame, rumor"
    "famulentus" "rumor, reputation"
    "fāma, fāmae" "fame, rumor"
@@ -6046,6 +6050,9 @@
    "fānum" "temple"
    "fānī" "temple"
    "fānum, fānī" "temple"
+
+   "farīna" "flour, meal, ground corn"
+   "farīna, farīnae" "flour, meal, ground corn"
    
    "fasciculum" "small bundle"
    "fasciculus, fasciculī" "small bundle"
@@ -7052,6 +7059,10 @@
    "hōrīs" "hours, times"
    "hōra, hōrae" "hour, time"
 
+   "hordeō" "barley"
+   "hordeum" "barley"
+   "hordeum, hordeī" "barley"
+
    "hōrologiō" "clock"
    "hōrologium" "clock"
    "hōrologium, hōrologiī" "clock"
@@ -7434,6 +7445,7 @@
    "incīsa" "having been cut"
    "incīdī" "to be cut"
    "incīdissent" "they had cut into"
+   "incīdisse" "to have cut into"
    "incīdere" "to cut into"
    "incīdō, incīdere, incīdī, incīsus" "to cut into"
 
@@ -8171,6 +8183,7 @@
 
    "iūrāvit" "he swore"
    "iūrent" "they swear"
+   "iūrābō" "I will swear"
    "iūrāret" "he might swear"
    "iūrāverit" "he might swear"
    "iūrāre" "to swear"
@@ -10054,6 +10067,7 @@
    "onus" "burden"
    "onus, oneris" "burden"
 
+   "onustās" "laden"
    "onustīs" "laden"
    "onustōs" "laden"
    "onustus, onusta, onustum" "laden"
