@@ -3975,6 +3975,10 @@
    "cōnstitūta" "arrangements, agreements"
    "cōnstitūtum, cōnstitūtī" "arrangement, agreement"
 
+   "cōnstringēbant" "they were binding together"
+   "cōnstringere" "to bind together"
+   "cōnstringō, cōnstringere, cōnstrīnxī, cōnstrictus" "to bind together"
+
    "cōnstrūcta" "having been constructed"
    "cōnstruō, cōnstruere, cōnstrūxī, cōnstrūctus" "to construct"
 
@@ -4274,7 +4278,8 @@
    "crīmina" "judicial decisions, verdicts"
    "crīminis" "judicial decision, verdict"
    "crīmen, crīminis" "judicial decision, verdict"
-   
+
+   "cruciābat" "it was torturing"
    "cruciātibus" "tortures"
    "cruciātus, cruciātūs" "tortures"
    "cruciāre" "to torment, to crucify"
@@ -5988,6 +5993,7 @@
    "factūrī" "having been done"
    "factūrum" "doing"
    "fierent" "it might be happening"
+   "faciēmus" "we will make"
 
    "facile" "easy"
    "facilius" "easier"
@@ -7091,6 +7097,7 @@
    "hortus, hortī" "garden"
 
    "hospitārī" "to be lodged"
+   "hospitātī"  "having been lodged"
    "hospitātō"  "having been lodged"
    "hospitātus" "having been lodged"
    "hospitāre" "to offer hospitality, to lodge"
@@ -7565,6 +7572,7 @@
    "inertem" "weak, unskillful"
    "iners, inertis (gen.), inertior -or -us, inertissimus -a -um" "weak, unskillful"
 
+   "inerat" "it was in"
    "inest" "it is in"
    "insunt" "they are in"
    "īnesse" "to be in"
@@ -9108,6 +9116,7 @@
 
    "minuī" "I diminished"
    "minuitur" "to be diminished"
+   "minūta" "having been diminished"
    "minuere" "to diminish"
    "minuō, minuere, minuī, minūtus" "to diminish"
    
@@ -10862,6 +10871,7 @@
    "pēs, pedis" "foot"
    
    "pessimīs" "worst"
+   "pessimōrum" "of the worst"
    "pessimum" "worst"
    "pessimus" "worst"
    "pessimō" "worst"
@@ -11940,7 +11950,8 @@
    "quīndecim" "fifteen"
    "quīndecim, quīndecimus -a -um, quīndeci -ae -a, quīndecie (n)s" "fifteen"
 
-   "quīvit" "he was ableo"
+   "quībit" "he will be able"
+   "quīvit" "he was able"
    "quīre" "to be able"
    "queō, quīre, quivī(iī), quitus" "to be able"
 
@@ -12297,6 +12308,7 @@
    "remānsērunt" "they remained"
    "remānserit" "they remained"
    "remānsimus" "we remained"
+   "remaneat" "he might remain"
    "remaneō, remanēre, remānsī, remānsus" "to remain"
 
    "remeāvit" "he returned"
@@ -13756,6 +13768,7 @@
    "succumbō, succumbere, succubuī, succubitus" "to succumb, collapse"
 
    "succurreret" "he brought aid"
+   "succursus" "having been brought aid"
    "succurrere" "to bring aid"
    "succurrō, succurrere, succurrī, succursus" "to bring aid"
    
@@ -14710,6 +14723,7 @@
    "vādere" "to go, to walk"
    "vādō, vādere, vāsī, -" "to go, to walk"
 
+   "valeāmus" "we might be healthy, able, strong"
    "valēbat" "he will be healthy, able, strong"
    "valēbunt" "they will be healthy, able, strong"
    "valentēs" "being healthy, able, strong"
