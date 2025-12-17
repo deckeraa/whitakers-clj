@@ -1017,7 +1017,7 @@
    "Tarsum" "Tarsus, a city in modern-day Turkey. During the Roman Empire, Tarsus was the capital of Cilicia."
    "temere" "without design, thoughtlessly"
    "tantae" "of such"
-   "tē" "to you, accusative from tu"
+   "tē" "you, accusative from tu"
    "tēcum" "with you (tē + cum)"
    "terra, terrae" "land"
    "terram" "land"
@@ -3891,7 +3891,7 @@
    "cōnscrībō, cōnscrībere, cōnscrīpsī, cōnscrīptus" "to write down"
 
    "cōnsēnsit" "he was in agreement"
-   "cōnsentiam" "he is in agreement"
+   "cōnsentiam" "I will be in agreement"
    "cōnsentiat" "he is in agreement"
    "cōnsentiet" "he will be in agreement"
    "cōnsentīret" "they were in agreement"
@@ -14748,7 +14748,7 @@
    "vādō, vādere, vāsī, -" "to go, to walk"
 
    "valeāmus" "we might be healthy, able, strong"
-   "valēbat" "he will be healthy, able, strong"
+   "valēbat" "he was healthy, able, strong"
    "valēbunt" "they will be healthy, able, strong"
    "valentēs" "being healthy, able, strong"
    "valuit" "he was healthy, able, strong"
