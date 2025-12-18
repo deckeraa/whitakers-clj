@@ -25,6 +25,7 @@
    "Abraham" "Abraham, the Old Testament patriarch"
    "absit" "forbid it! May it be absent!"
    "Achardus" "Achard, Castellan of Montmerie"
+   "adūnātim" "together; adverb from adūnāre, which means to unite or join"
    "aemilia" "Aemilia"
    "aemiliae" "of Aemilia"
    "albānōrum" "of the people of Alba Longa"
@@ -205,6 +206,7 @@
    "Cosdras" "Codrus, the last King of Athens (r. ca 1089-1068 BC)"
    "Cosdrī" "of Codrus, the last King of Athens (r. ca 1089-1068 BC)"
    "coepērunt" "they started; from coepī, coepisse, coepī, coeptum"
+   "cōminus" "in close-quarters combat, hand-to-hand (alternative form of comminus)"
    "commendātīs" "you commend; 2nd person plural present from commendāre"
    "commodē" "suitably"
    "commorantur" "they dwell, 3rd person present of commoror, commorārī, commorātum (dep.)"
@@ -1453,6 +1455,7 @@
    
    "āēr" "air"
    "āēr, āeris" "air"
+   "āerem" "air"
    "āeris" "air"
 
    "aere" "copper"
@@ -3048,6 +3051,7 @@
    "cavēte" "Beware!"
    "caveō, cavēre, cāvī, cautus" "to beware"
 
+   "cēderent" "they might yield"
    "cēdēs" "you will yield"
    "cēdō, cēdere, cessī, cessus" "to yield"
    
@@ -3278,6 +3282,9 @@
    "clāmāre" "to shout"
    "clāmāvit" "he shouted"
    "clāmō, clāmāre, clāmāvī, clāmātus" "to shout"
+
+   "clāmor" "shouting, noise"
+   "clāmor, clāmōris" "shouting, noise"
 
    "clāruit" "he became bright, loud"
    "clāruērunt" "they became bright, loud"
