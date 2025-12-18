@@ -6800,6 +6800,7 @@
    "gradieris" "you will walk"
    "gradior, gradi, gressus sum" "to walk, to step"
    "gradiēbantur" "they were walking"
+   "gradiēbātur" "he was stepping"
 
    "gradū" "step"
    "gradum" "step"
@@ -7303,6 +7304,7 @@
    "imāgō, imāginis" "image"
 
    "imber" "rain"
+   "imbrēs" "rain"
    "imber, imbris" "rain"
    
    "immaculātam" "unblemished, immaculate"
@@ -8156,6 +8158,7 @@
    "iūmentum, iūmentī" "baggage animal"
 
    "iūnctī" "having been joined"
+   "iūnctīs" "having been joined"
    "iūnctum" "connected, joined"
    "iūnctam" "connected, joined"
    "iūnctās" "connected, joined"
@@ -9887,6 +9890,10 @@
 
    "oblīviō, oblīviōnis" "forgetfulness"
    "oblīviōnem" "forgetfulness"
+
+   "obnūbilābant" "they were obscuring, clouding"
+   "obnubilāre" "to obscure, cloud"
+   "obnubilō, obnubilāre, obnubilāvī, obnubilātus" "to obscure, cloud"
    
    "oboedientiam" "obedience"
    "oboedientia, oboedientiae" "obedience"
@@ -11562,6 +11569,7 @@
    "proeliātor" "fighter"
    "proeliātor, proeliātōris" "fighter"
 
+   "proeliābantur" "they were fighting"
    "proeliantur" "they fight"
    "proeliārī" "to fight"
    "proelior, proeliārī, proeliātus" "to fight"
@@ -11717,6 +11725,7 @@
    "prōsequī" "to escort, to pursue"
    
    "prosper" "favorable"
+   "prosperē" "favorably"
    "prosper, prospera, prosperum" "favorable"
    "prospera" "favorable, prosperous"
    "prosperō" "favorable, prosperous"
@@ -12433,6 +12442,7 @@
    "resēdisset" "he (might) have had sat down"
    "resēdissent" "they (might) have had sat down"
 
+   "resonābat" "he was resounding"
    "resonābant" "they were resounding"
    "resonō, resonāre, resonāvī, resonātus" "to resound"
 
@@ -14060,6 +14070,7 @@
    "tellūs, tellūris" "earth, territory"
 
    "tēla" "spears"
+   "tēlōrum" "of spears"
    "tēlum, tēlī" "spear"
 
    "tēmō" "pole, wagon"
