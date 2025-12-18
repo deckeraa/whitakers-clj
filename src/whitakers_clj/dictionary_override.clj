@@ -485,6 +485,7 @@
    "immō" "of course, certainly, to the contrary"
    "immolātīs" "having been burned; ablative perfect passive participle from immolō, immolāre, immolāvī, immolātus"
    "implēte" "fill! plural imperative from impleō, implēre, implēvī, implētus"
+   "imprōvidē" "suddenly"
    "in" "into (with accusative), in (with ablative)"
    "inaequaliter" "unequally"
    "inde" "from there, since"
@@ -5594,6 +5595,7 @@
    "erit" "he will be"
    "eritis" "you will be"
    "erō" "I will be"
+   "estō" "be! (in the future)"
    "estōte" "be! (in the future)"
    "essent" "they (might) have been"
    "estis" "you (all) are"
@@ -7433,6 +7435,8 @@
 
    "improba" "bad"
    "improbus, improba, improbum" "bad"
+
+   "imprōvidus, imprōvida, imprōvidum" "sudden"
 
    "imprōvīsō" "unexpected"
    "imprōvīsus, imprōvīsa, imprōvīsum" "unexpected"
@@ -13560,6 +13564,9 @@
    "spīritālibus" "spiritual"
    "spīritālis" "spiritual"
    "spīritālis, spīritālis, spīritāle" "spiritual"
+
+   "spīrituāle" "spiritual"
+   "spīrituālis, spīrituālis, spīrituāle" "spiritual"
    
    "spissitūdō, spissitūdinis" "density, consistency, thickness"
    "spissitūdine" "density, consistency, thickness"
@@ -15328,6 +15335,10 @@
    "volātū" "flying, flight"
    "volātus" "flying, flight"
    "volātus, volātūs" "flying, flight"
+
+   "volitārent" "he might have been flying"
+   "volitāre" "to fly"
+   "volitō, volitāre, volitāvī, volitātus" "to fly"
 
    "volābat" "he was flying"
    "volō, volāre, volāvī, volātus" "to fly"
