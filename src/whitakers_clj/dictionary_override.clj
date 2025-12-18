@@ -1262,6 +1262,7 @@
    "accēpimus" "we received"
    
    "ācrius" "harsher"
+   "ācer" "harsh"
    "ācerrimum" "very keen, harsh"
    "ācerrimus" "very keen, harsh"
    "ācer, ācris -e, ācrior -or -us, ācerrimus -a -um" "harsh"
@@ -1961,6 +1962,7 @@
    "antīquam" "ancient"
    "antīquī" "of the ancient"
    "antīquō" "ancient"
+   "antīquōrum" "of the ancients"
    "antīquus, antīqua -um, antīquior -or -us, antīquissimus -a -um" "antique"
 
    "antistes" "overseer"
@@ -2952,6 +2954,7 @@
    "carmen" "song, poem, prayer"
    "carmen, carminis" "song, poem, prayer"
 
+   "carnāle" "fleshly"
    "carnālem" "fleshly"
    "carnālis, carnālis, carnāle" "fleshly"
    
@@ -3052,6 +3055,10 @@
    "cavē" "Beware!"
    "cavēte" "Beware!"
    "caveō, cavēre, cāvī, cautus" "to beware"
+
+   "caverna"  "cave, cavern"
+   "cavernīs" "caves, caverns"
+   "caverna, cavernae" "cave, cavern"
 
    "cēderent" "they might yield"
    "cēdēs" "you will yield"
@@ -4965,6 +4972,10 @@
    
    "dīgnum" "worthy, appropriate"
    "dīgnus, dīgna, dīgnum" "worthy, appropriate"
+
+   "dīlaniāns" "tearing to pieces"
+   "dīlaniāre" "to tear to pieces"
+   "dīlaniō, dīlaniāre, dīlaniāvī, dīlaniātus" "to tear to pieces"
 
    "dīlāpsōs" "having broken down, flowed out"
    "dīlābor, dīlābī, dīlāpsus sum" "to break down, flow out"
