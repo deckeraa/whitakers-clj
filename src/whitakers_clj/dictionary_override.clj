@@ -1932,6 +1932,7 @@
    "annōnā" "yearly income"
    "annōna, annōnae" "yearly income"
 
+   "annuente" "agreeing"
    "annuit" "he agreed"
    "annuere" "to agree"
    "annuō, annuere, annuī, annūtus" "to agree"
@@ -2243,6 +2244,7 @@
    "artificēs" "artist, actor"
    "artifex, artificis" "artist, actor"
 
+   "arta" "close, narrow"
    "artōs" "close, narrow"
    "artus, arta -um, artior -or -us, artissimus -a -um" "close, narrow"
 
@@ -4824,6 +4826,10 @@
    "dētrīmentī" "harm, detriment"
    "dētrīmentō" "harm, detriment"
    "dētrīmentum, dētrīmentī" "harm, detriment"
+
+   "dētruncāvērunt" "they cut off, behead"
+   "dētruncāre" "to cut off, behead"
+   "dētruncō, dētruncāre, dētruncāvī, dētruncātus" "to cut off, behead"
    
    "deum" "god"
    "deus" "god"
@@ -5189,6 +5195,7 @@
    "dēferēns" "transferring"
    "dēferentēs" "transferring"
    "dēferrī" "to be transferred"
+   "dēlātum" "having been transferred"
    "dēferō, dēferre, dētulī, dēlātus" "to bring down, to transfer"
    
    "dīmidium" "half"
@@ -5735,6 +5742,7 @@
    "excommūnicātā" "having been excommunicated"
    "excommūnicō, excommūnicāre, excommūnicāvī, excommūnicātus" "to excommunicate"
 
+   "excubavērunt" "they laid in the open, kept watch"
    "excubāre" "to lie in the open, to keep watch"
    "excubō, excubāre, excubuī, excubitus" "to lie in the open, to keep watch"
 
@@ -7082,6 +7090,7 @@
    "honestāvit" "he honored, dignified"
    "honestō, honestāre, honestāvī, honestātum" "to honor, dignify"
 
+   "honestē" "honestly, distinguishedly, worthily"
    "honestum" "honest, distinguished, worthy"
    "honestissimō" "very honest, distinguished, worthy"
    "honestissimum" "very honest, distinguished, worthy"
@@ -10697,6 +10706,7 @@
    "percutiō, percutere, percussī, percussus" "to strike, to beat"
    "percutientēs" "striking, beating"
 
+   "perdidisse" "to have lost"
    "perdidit" "he lost"
    "perditā"  "lost"
    "perditum" "lost"
@@ -13578,6 +13588,7 @@
    "spoliābant" "they were plundering"
    "spoliātā" "having been plundered"
    "spoliātus" "having been plundered"
+   "spoliāvērunt" "they plundered"
    "spoliēmus" "let us plunder"
    "spoliō, spoliāre, spoliāvī, spoliātus" "to plunder"
 
@@ -13736,6 +13747,10 @@
    "stultum" "foolish, stupid"
    "stultus" "foolish, stupid"
    "stultus, stulta, stultum" "foolish, stupid"
+
+   "stupefactī" "having been made senseless, stupified"
+   "stupefacere" "to make senseless, stupefy"
+   "stupefaciō, stupefacere, stupefēcī, stupefactus" "to make senseless, stupefy"
 
    "stylō" "stylus, stake"
    "stylus, stylī" "stylus, stake"
@@ -15336,7 +15351,7 @@
    "volātus" "flying, flight"
    "volātus, volātūs" "flying, flight"
 
-   "volitārent" "he might have been flying"
+   "volitārent" "they might have been flying"
    "volitāre" "to fly"
    "volitō, volitāre, volitāvī, volitātus" "to fly"
 
