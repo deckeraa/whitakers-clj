@@ -86,6 +86,7 @@
    "ambrōnum" "of the Ambrones, a tribe of Denmark"
    "amen" "amen, truly, verily"
    "amīcissimē" "friendly"
+   "ammirātī" "emirs, leaders, admirals; loanword from Arabic"
    "an" "or? rather?"
    "angariī" "The Angarians, a Saxon tribe"
    "Annā" "Ablative of Annas, a high priest involved with the crucifixion of Christ."
@@ -6113,6 +6114,10 @@
    "fatīgābat" "it was wearying"
    "fatīgāre" "to grow weary, to fatigue"
    "fatīgō, fatīgāre, fatīgāvī, fatīgātum" "to grow weary, to fatigue"
+
+   "favente" "favoring"
+   "favēre" "to favor"
+   "faveō, favēre, fāvī, fautus" "to favor"
    
    "favilla" "ember"
    "favilla, favillae" "ember"
@@ -7265,6 +7270,7 @@
    "īdōlum, īdōlī" "idol"
 
    "īdibus" "ides"
+   "īdūs" "ides"
    "īdūs, īduum" "ides"
 
    "iēiūniī" "of the fast day"
@@ -7365,6 +7371,9 @@
    
    "immolātiōne" "sacrifice"
    "immolātiō, immolātiōnis" "sacrifice"
+
+   "immortālia" "immortal"
+   "immortālis, immortālis, immortāle" "immortal"
 
    "impar" "unequal"
    "impar, (gen.), imparis" "unequal"
@@ -9367,6 +9376,7 @@
    "morārī" "to stay, delay"
    "moror, morārī, morātus sum" "to stay, delay"
 
+   "mortuōrum" "of the dead"
    "moriēris" "you will die"
    "moritur" "he dies"
    "moriēmur" "he will die"
@@ -11610,6 +11620,7 @@
 
    "proeliābantur" "they were fighting"
    "proeliantur" "they fight"
+   "proeliātī" "fighting"
    "proeliārī" "to fight"
    "proelior, proeliārī, proeliātus" "to fight"
 
