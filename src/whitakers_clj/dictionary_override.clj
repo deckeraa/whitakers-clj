@@ -498,6 +498,7 @@
    "inlūxit" "he began to shine; from inlūcēscō, inlūcēscere, inlūxī, -"
    "innocenter" "innocently"
    "inquantum" "insofar as"
+   "īnsimul" "together, simultaneously"
    "īnstanter" "upcomingly, menacingly (adverb)"
    "īnstar" "as big as"
    "intentē" "intently, attentively"
@@ -695,6 +696,7 @@
    "ōrāte" "pray! plural imperative from ōrō, ōrāre, ōrāvī, ōrātus"
    "Orc" "The Orkney Isles, located off the northern coast of Scotland"
    "Orcades" "The Orkney Isles, located off the northern coast of Scotland"
+   "ōrdinātim" "in order, succession"
    "Otrentum" "Otranto, a city on the eastern coast of Italy"
    "orgetorīgis" "Orgetorix, a Helvetic aristocrat (genitive case)."
    "Orgetorīgis" "Orgetorix, a Helvetic aristocrat (genitive case)."
@@ -11479,6 +11481,7 @@
    "prīncipī"  "first man, prince"
    "prīncipis" "first man, prince"
    "prīncipibus" "princes"
+   "prīncipum" "of first men, princes"
    "prīnceps, prīncipis" "first man, prince"
 
    "prīncipiō"  "beginning, origin"
