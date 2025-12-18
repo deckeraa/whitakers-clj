@@ -5021,6 +5021,7 @@
    "dīrigis" "you align, you direct"
    "dīrigit" "he aligns, he directs"
    "dīrigēbat" "he was aligning/directing"
+   "dīrigeret" "he might direct"
    "dīrigite" "arrange! direct!"
    "dīrēxerit" "he will have aligned, directed"
    "dīrēctus" "having been directed"
