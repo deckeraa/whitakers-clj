@@ -848,6 +848,7 @@
    "retrō" "behind, backwards"
    "retrōgredientibus" "stepping backwards; plural ablative variant spelling from retrōgradientibus"
    "retrōrsum" "behind, backwards"
+   "rēvērā" "actually, in fact"
    "reversa" "reversa + est = it returned"
    "reversus" "reversus + est = he returned"
    "Richardus" "Richardus dē Prīncipātū = Richard of the Principality a.k.a. Richard of Salerno"
@@ -5778,6 +5779,7 @@
    "exīvimus" "we went out"
    "exeunt" "they go out"
    "exit" "he goes out"
+   "exiēns" "going out"
    
    "exilīvit" "he went out"
    "exiliō, exilīre, exilīvī, -" "to go out"
@@ -6066,6 +6068,7 @@
    "familiāris" "servant, familiar friend"
    "familiāris, familiāris" "servant, familiar friend"
 
+   "famem" "hunger"
    "famēs" "hunger"
    "famēs, famis" "hunger"
    "famē" "hunger"
@@ -6871,6 +6874,7 @@
    "grege" "flock"
    "gregem" "flock"
    "gregēs" "flocks"
+   "gregum" "of flocks"
    "grex, gregis" "flock"
 
    "gregātī" "having been assembled"
@@ -7835,6 +7839,7 @@
    "īnstitūtiōne" "instruction, education, arrangement"
    "īnstitūtiō, īnstitūtiōnis" "instruction, education, arrangement"
 
+   "īnstābat" "he was pursuing"
    "īnstitit" "he pursued, he threatened"
    "īnstō, īnstāre, īnstitī, -" "to pursue, to threaten"
 
@@ -9472,6 +9477,7 @@
    "mūnītam" "fortified"
    "mūnītō"  "fortified"
    "mūnītum" "fortified"
+   "mūnītus" "fortified"
    "mūnītus, mūnīta, mūnītum" "fortified"
 
    "mūnere" "gift"
@@ -10594,6 +10600,10 @@
    "pectora" "chests"
    "pectore" "chest"
    "pectus, pectoris" "chest"
+
+   "pecus" "a single herd animal, sheep"
+   "pecudum" "of herd animals, sheep"
+   "pecus, pecudis" "a single herd animal, sheep"
    
    "pede" "foot"
    "pedem" "foot"
@@ -10830,6 +10840,7 @@
    "perpendō, perpendere, perpendī, perpēnsus" "to weigh carefully"
 
    "perpessae" "having endured"
+   "perpessus" "having endured"
    "perpetior, perpetī, perpessus" "to endure"
 
    "perpetua" "perpetual"
@@ -11796,6 +11807,7 @@
 
    "prūdentia"  "knowledge, skillfulness, foresight"
    "prūdentiam" "knowledge, skillfulness, foresight"
+   "prūdentium" "of knowledge, skillfulness, foresight"
    "prūdentia, prūdentiae" "knowledge, skillfulness, foresight"
 
    "prūdēns" "prudent, competent"
@@ -12716,6 +12728,9 @@
 
    "rūfus" "red, ruddy"
    "rūfus, rūfa -um, rūfior -or -us, rūfissimus -a -um" "red, ruddy"
+
+   "rūgiēns" "bellowing, roaring"
+   "rūgiō, rūgīre, rūgīvī, rūgītus" "to bellow, roar"
    
    "ruīna" "collapse, ruin, destruction"
    "ruīna, ruīnae" "collapse, ruin, destruction"
@@ -12966,7 +12981,8 @@
    "schēma" "plan, figure, form, posture"
    "schēmatibus" "plans, figures, forms, postures"
    "schēma, schēmatis" "plan, figure, form, posture"
-   
+
+   "sciās" "you might know"
    "sciō" "I know"
    "sciēbat" "he was knowing"
    "sciēns" "knowing"
@@ -13354,6 +13370,7 @@
    "sitēs" "thirsts"
 
    "sitiēbant" "they were thirsting"
+   "sitiēns" "thirsting"
    "sitientēs" "thirsting"
    "sitiō, sitīre, sitīvī, sitītus" "to thirst"
 
