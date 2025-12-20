@@ -4851,6 +4851,7 @@
 
    "dēvīcimus" "we conquered entirely"
    "dēvictī" "having been conquered entirely"
+   "dēvictīs" "having been conquered entirely"
    "dēvictōs" "having been conquered entirely"
    "dēvincere" "to conquer entirely"
    "dēvincō, dēvincere, dēvīcī, dēvictus" "to conquer entirely"
@@ -5796,6 +5797,7 @@
    "exeunt" "they go out"
    "exit" "he goes out"
    "exiēns" "going out"
+   "exierint" "they might have gone out"
    
    "exilīvit" "he went out"
    "exiliō, exilīre, exilīvī, -" "to go out"
@@ -8009,6 +8011,7 @@
    "intrōgressī" "having entered"
    "intrōgredior, intrōgredī, intrōgressus sum" "to enter"
 
+   "introiērunt" "they had gone in, invaded"
    "introeant" "they might go in, invade"
    "introīre" "to go in, invade"
    "introeō, introīre, introivi(iī), introitus" "to go in, invade"
@@ -8089,6 +8092,10 @@
 
    "invidiā" "envy, spite"
    "invidia, invidiae" "envy, spite"
+
+   "invigilantēs" "staying awake, watching diligently"
+   "invigilāre" "to stay awake, watch diligently"
+   "invigilō, invigilāre, invigilāvī, invigilātus" "to stay awake, watch diligently"
 
    "invīsibilis" "invisible"
    "invīsibil, (gen.), invīsibilis" "invisible"
@@ -8459,6 +8466,7 @@
    "laudābant" "they were praising"
    "laudābunt" "they will praise"
    "laudāmus" "we praise"
+   "laudant" "they praise"
    "laudantēs" "praising"
    "laudāte" "praise!"
    "laudāvērunt" "they praised"
@@ -9497,6 +9505,8 @@
    "mūnīminis" "defence, fortification, rampart"
    "mūnīmen, mūnīminis" "defence, fortification, rampart"
 
+   "mūniam" "he might fortify"
+   "mūniant" "they might fortify"
    "mūnīvit" "he fortified"
    "mūnīre" "to fortify"
    "mūniō, mūnīre, mūnīvī, mūnītus" "to fortify"
@@ -10683,6 +10693,7 @@
    "perāctī" "having been carried through"
    "perāctīs" "having been carried through"
    "perāctō" "being carried through"
+   "peragant" "they might carry through"
    "peragere" "to carry through, to complete"
    "peragendum" "completing"
    "perēgērunt" "they completed"
@@ -10725,6 +10736,7 @@
    "perdidit" "he lost"
    "perditā"  "lost"
    "perditum" "lost"
+   "perdāmus" "we might be losing"
    "perdō, perdere, perdidī, perditus" "to lose"
 
    "perditiō" "ruin, destruction"
@@ -11268,6 +11280,7 @@
    "possēmus" "they might have been able"
    "possīmus" "we might be able"
    "poterāmus" "we were able"
+   "poterimus" "we will be able"
 
    "posteriōrēs" "following, next"
    "posteriōrem" "following, next"
@@ -13264,6 +13277,7 @@
    "sērus, sēra -um, sērior -or -us, sērissimus -a -um" "late"
 
    "servābat" "he was watchinig over, he was guarding, he was preserving"
+   "servābō" "I will watch over, guard, preserve"
    "servāre" "to watch over, to guard, to preserve, to save"
    "servō" "I watch over, guard"
    "servāvissent" "they had watched over"
@@ -14354,6 +14368,7 @@
 
    "tractāns" "hauling, dragging, handling, discussing"
    "tractāre" "to haul, to drag, to handle, to discuss"
+   "tractārent" "they might have been hauling, dragging, handling"
    "tractō, tractāre, tractāvī, tractātum" "to haul, to drag, to handle, to discuss"
 
    "trādēbātur" "he was handed over"
@@ -14822,6 +14837,7 @@
    
    "vagor, vagārā, vagātus sum" "to wander, to roam"
    "vagāmur" "we wander"
+   "vagantēs" "wandering"
    "vagantur" "they wander"
    "vagārentur" "they (might) have wandered"
 
