@@ -1583,6 +1583,7 @@
    "ēgērunt" "they conducted, acted"
    "āctūrōs" "to be conducted"
    "age" "go! do!"
+   "agente" "doing, acting"
    "agere" "to conduct, to act"
    "agō, agere, ēgī, āctus" "to conduct, to act"
    
@@ -3917,6 +3918,7 @@
    "cōnsentiet" "he will be in agreement"
    "cōnsentīret" "they were in agreement"
    "cōnsēnsum" "having been in agreements"
+   "cōnsēnsērunt" "they were in agreement"
    "cōnsentīre" "to be in agreement"
 
    "cōnsecūtīs" "having been followed"
@@ -4002,6 +4004,7 @@
    "cōnstitūtum, cōnstitūtī" "arrangement, agreement"
 
    "cōnstringēbant" "they were binding together"
+   "cōnstringerent" "they might have bound"
    "cōnstringere" "to bind together"
    "cōnstringō, cōnstringere, cōnstrīnxī, cōnstrictus" "to bind together"
 
@@ -4630,6 +4633,7 @@
    "dēfendistī" "you defended"
    "dēfendō" "I defend"
    "dēfendant" "they might defend"
+   "dēfendendum" "defending"
    "dēfendō, dēfendere, dēfendī, dēfēnsus" "to defend"
       
    "dēficiō, dēficere, dēfēcī, dēfectus" "to run short, to lack"
@@ -4710,6 +4714,7 @@
    "dēmōnstrātum" "having been demonstrated"
    "dēmōnstrāveram" "I had demonstrated"
    "dēmōnstrāvērunt" "they had demonstrated"
+   "dēmōnstrārēmus" "they might have been demonstrating"
    "dēmōnstrāre" "to demonstrate"
    "dēmōnstrō, dēmōnstrāre, dēmōnstrāvī, dēmōnstrātus" "to demonstrate"
    
