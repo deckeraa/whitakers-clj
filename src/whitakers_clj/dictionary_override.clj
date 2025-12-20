@@ -232,6 +232,7 @@
    "cottīdiē" "daily"
    "cottae" "Cotta, a Roman cognomen (genitive or dative case)"
    "crās" "tomorrow"
+   "crūdēliter" "crudely"
    "cui" "to whom; singular dative from quī"
    "cuius" "whose; singular genitive from quī"
    "cultum" "cult, civilization; singular masculine accusative from cultus, cultūs"
@@ -3255,6 +3256,7 @@
    "circumī" "go around!"
    "circumeō, circumīre, circumivi(iī), circumitus" "to go around"
 
+   "circumcingendō"  "surrounding, encircling"
    "circumcingēns"   "surrounding, encircling"
    "circumcingentēs" "surrounding, encircling"
    "circumcingere" "to surround, encircle"
@@ -3302,6 +3304,7 @@
    "clāmō, clāmāre, clāmāvī, clāmātus" "to shout"
 
    "clāmor" "shouting, noise"
+   "clāmōre" "shouting, noise"
    "clāmor, clāmōris" "shouting, noise"
 
    "clāruit" "he became bright, loud"
@@ -3770,6 +3773,7 @@
    "condūcēbant" "they were assembling"
    "condūceret" "they might assemble"
    "condūcentem" "assembling"
+   "condūcentēs" "assembling"
    "condūcī" "to be assembled"
    "condūcere" "to assemble"
    "condūcō, condūcere, condūxī, conductus" "to assemble"
@@ -4286,6 +4290,7 @@
    "crēdidit" "he believed"
    "crēdidistī" "you believed"
    "crēdidissent" "they had believed"
+   "crēdimus" "we believe"
    "crēdis" "you believe"
    "crēdō" "I believe"
    "crēdēbāmus" "we were believing"
