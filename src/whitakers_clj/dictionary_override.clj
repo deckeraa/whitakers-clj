@@ -12128,7 +12128,8 @@
    "rapuit" "he seized, pillaged"
    "rapere" "to seize, to pillage"
    "rapiō, rapere, rapuī, raptus" "to seize, to pillage"
-   
+
+   "rapidī" "quick"
    "rapidissimō" "very quick"
    "rapidō" "quick"
    "rapidus, rapida -um, rapidior -or -us, rapidissimus -a -um" "quick"
@@ -12536,6 +12537,9 @@
    "reportāre" "to report"
    "reportō, reportāre, reportāvī, reportātus" "to report"
 
+   "rēptāre" "to move slowly, crawl"
+   "rēptō, rēptāre, rēptāvī, rēptātum" "to move slowly, crawl"
+
    "repūgnandī" "fighting back"
    "repūgnō, repūgnāre, repūgnāvī, repūgnātus" "to fight back"
    
@@ -12816,6 +12820,7 @@
    "rubricātīs" "red, reddened"
    "rubricātus, rubricāta, rubricātum" "red, reddened"
 
+   "rubea" "red"
    "rubō" "red"
    "rubrum" "red"
    "ruber, rubra, rubrum" "red"
@@ -13213,6 +13218,7 @@
    "sēmitās" "footpath"
    "sēmita, sēmitae" "footpath"
 
+   "sempiternum" "everlasting, eternal"
    "sempiternus" "everlasting, eternal"
    "sempiternīs" "everlasting, eternal"
    "sempiternus, sempiterna, sempiternum" "everlasting, eternal"
@@ -13604,6 +13610,7 @@
 
    "spectat" "he observes, he considers"
    "spectant" "they observe, they consider"
+   "spectantēs" "observing, considering"
    "spectāre" "to observe, to consider"
    "spectō, spectāre, spectāvī, spectātus" "to observe, to consider"
 
@@ -13700,8 +13707,10 @@
    "spōnsī" "groom"
    "spōnsō" "groom"
    "spōnsus, spōnsī" "groom"
-   
+
+   "spontāneī" "spontaneous"
    "spontāneus, spontānea, spontāneum" "spontaneous"
+   
    "sportam" "basket"
    "sporta, sportae" "basket"
    
@@ -13774,6 +13783,7 @@
    "stābat" "he was standing"
    "stābant" "they were standing"
    "stantem" "standing"
+   "stantibus" "standing"
    "stāre" "to stand, to remain"
    "stetisset" "he (might) have had stood"
    "stetissent" "they (might) have had stood"
@@ -14201,6 +14211,7 @@
    "tardus, tarda -um, tardior -or -us, tardissimus -a -um" "slow"
 
    "tēctus" "having been covered"
+   "tegēbant" "they were covering, hiding"
    "tegit" "it covers, hides"
    "tegitur" "it is covered, hidden"
    "tegō, tegere, tēxī, tēctus" "to cover, hide"
@@ -15515,6 +15526,7 @@
    "vōtum, vōtī" "vow"
 
    "vulnerandō" "wounding"
+   "vulnerātus" "having been wounded"
    "vulnerāre" "to wound"
    "vulnerō, vulnerāre, vulnerāvī, vulnerātus" "to wound"
    
