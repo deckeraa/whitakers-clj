@@ -3322,6 +3322,7 @@
 
    "clāriōra" "clearer"
    "clāritās" "clarity, brightness"
+   "clāritātem" "clarity, brightness"
    "clāritātis" "clarity, brightness"
    "clāritāte" "clarity, brightness"
    "clāritās, clāritātis" "clarity, brightness"
@@ -4681,6 +4682,7 @@
 
    "dēiēcerat" "he had thrown down, overthrew"
    "dēiēcērunt" "they threw down, overthrew"
+   "dēicientēs" "throwing down"
    "dēiciet" "he will overthrow"
    "dēicerentur" "they (might) have been throwing down"
    "dēicere" "to throw down"
@@ -4902,6 +4904,7 @@
    "dextra, dextrae" "right hand, right side"
    
    "diabolī"  "devil, demon"
+   "diabolō"  "devil, demon"
    "diabolum" "devil, demon"
    "diabolus" "devil, demon"
    "diabolus, diabolī" "devil, demon"
@@ -6144,6 +6147,10 @@
    "fatīgābat" "it was wearying"
    "fatīgāre" "to grow weary, to fatigue"
    "fatīgō, fatīgāre, fatīgāvī, fatīgātum" "to grow weary, to fatigue"
+
+   "fāta" "fates"
+   "fātum" "fate"
+   "fātum, fātī" "fate"
 
    "favente" "favoring"
    "favēre" "to favor"
