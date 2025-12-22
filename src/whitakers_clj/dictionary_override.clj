@@ -9366,6 +9366,9 @@
    "mōlīminis" "exertion, effort, endeavour"
    "mōlīmen, mōlīminis" "exertion, effort, endeavour"
 
+   "mōlīrētur" "it (might) set in motion"
+   "mōlior, mōlīrī, mōlītus" "to set in motion"
+
    "molliōris" "softer"
    "mollis, mollis, molle" "soft"
    
@@ -9749,6 +9752,7 @@
    "nequībat" "he was unable"
    "nequībant" "they were unable"
    "nequīmus" "we are unable"
+   "nequīvērunt" "they were unable"
    "nequīvimus" "we were unable"
    "nequīvit" "he was unable"
    "nequeō, nequīre, nequivī(iī), nequitus" "to be unable"
@@ -10117,6 +10121,9 @@
    "occultō" "secrecy"
    "occultum" "secrecy"
    "occultum, occultī" "secrecy"
+
+   "occultē" "secretly"
+   "occultus, occulta -um, occultior -or -us, occultissimus -a -um" "secret"
 
    "occupāret" "he (might) have seized"
    "occupātō" "attack!"
@@ -11164,7 +11171,9 @@
    "plumbum, plumbī" "lead"
    
    "pluvium, pluviī" "basin"
+   
    "pluviā" "rainy"
+   "pluviae" "rainy"
    "pluvius, pluvia, pluvium" "rainy"
 
    "podagra" "gout (inflamed swellings) in the feet"
@@ -11188,6 +11197,10 @@
    
    "polluantur" "they (might) be polluted"
    "polluō, polluere, polluī, pollūtus" "to pollute"
+
+   "polum" "pole, sky"
+   "polus" "pole, sky"
+   "polus, polī" "pole, sky"
    
    "pōma" "fruit, grapes"
    "pōmīs" "fruits, grapes"
