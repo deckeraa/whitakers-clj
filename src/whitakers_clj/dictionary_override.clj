@@ -6187,6 +6187,7 @@
    
    "fenestra" "window"
    "fenestram" "window"
+   "fenestrās" "windows"
    "fenestra, fenestrae" "window"
 
    "fēnō" "hay"
@@ -6431,6 +6432,7 @@
    "fluentēs" "flowing"
    "fluit" "it flows"
    "fluunt" "they flow"
+   "fluere" "to flow"
    "fluō, fluere, flūxī, flūxus" "to flow"
 
    "flūctus" "wave, billow, turbulence"
@@ -6804,6 +6806,7 @@
    "gentem" "people, clan, nation"
    "gentēs" "peoples, clans, nations"
    "gentibus" "peoples, clans, nations"
+   "gentium" "of the people, clan, nation"
    "gentis" "of the people, clan, nation"
    "gēns, gentis" "people, clan, nation"
 
@@ -7263,6 +7266,7 @@
    "hymnus, hymnī" "hymn"
 
    "iacuit" "he layed"
+   "iaciēbant" "they were throwing"
    "jaceō, jacēre, jacuī, jacitūs" "to lay"
    "iacēre" "to lay"
    "iaceō, iacēre, iacuī, iacitūs" "to lay"
@@ -7457,6 +7461,7 @@
 
    "impulit" "he impelled, he urged on"
    "impulsī" "having been impelled"
+   "impellentēs" "impelling"
    "impellere" "to impel"
    "impellō, impellere, impulī, impulsus" "to impel"
    
@@ -7692,6 +7697,7 @@
    
    "īnfēlīx" "unhappy"
    "īnfēlīcem" "unhappy"
+   "īnfēlīcēs" "unhappy"
    "īnfēlīcior" "unhappier"
    "īnfēlīcissimam" "very unhappy"
    "īnfēlīcissimus" "very unhappy"
@@ -7978,6 +7984,7 @@
    "interior, interior, interius" "inner, interior, middle"
 
    "interitū" "ruin"
+   "interitum" "ruin"
    "interitus" "ruin"
    "interitus, interitūs" "ruin"
 
@@ -8132,6 +8139,7 @@
    "invīsibilis" "invisible"
    "invīsibil, (gen.), invīsibilis" "invisible"
 
+   "invītī"  "unwilling"
    "invītōs" "unwilling"
    "invītus, invīta, invītum" "unwilling"
 
@@ -9208,6 +9216,7 @@
    "mingō, mingere, mīnxī, mīnctus" "to make water"
    
    "ministrī" "ministers"
+   "ministrīs" "ministers"
    "minister" "servant, waiter"
    "minister, ministrī" "servant, waiter"
    
