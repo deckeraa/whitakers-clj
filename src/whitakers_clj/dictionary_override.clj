@@ -41,6 +41,7 @@
    "aditum" "approach, access; singular masculine accusative from aditus, aditūs"
    "admīrātī" "admīrātī + sunt = were admired"
    "admīrātus" "admīrātus + est = was admired"
+   "adiūtōrium" "adiūtōrium: help, support; plural neuter nominative or accusative from adiūtōrium, adiūtōriī"
    "admodum" "very"
    "Aduatucī" "The Aduatucī, a Germanic tribe (nominative case)"
    "Aduatucīs" "The Aduatucī, a Germanic tribe (dative or ablative case)"
@@ -212,6 +213,7 @@
    "commodē" "suitably"
    "commorantur" "they dwell, 3rd person present of commoror, commorārī, commorātum (dep.)"
    "complicātum" "folded up, rolled up; singular neuter accusative past passive participle from complicāre"
+   "concordābilī" "unified, agreeably; singular ablative from concordābilis, concordābilis, concordābile"
    "cōnfestim" "immediately"
    "cōnsīderāte" "consider! plural imperative from cōnsīderō, cōnsīderāre, cōnsīderāvī, cōnsīderātus"
    "cōnstanter" "constantly"
@@ -892,6 +894,7 @@
    "Saracēnōrum" "of Saracenes, muslims"
    "Saracēnōs" "Saracenes, muslims"
    "sat" "enough"
+   "Sathānae" "Satan (genitive or dative case)"
    "satis" "enough"
    "Saxonēs" "The Saxons"
    "Saxōnia" "Saxony"
@@ -1713,6 +1716,7 @@
    "altitūdō, altitūdinis" "height, depth"
    
    "alta" "height"
+   "altae" "high"
    "altās" "high"
    "altō" "height"
    "altum" "height"
@@ -1884,7 +1888,8 @@
    "angustiam" "small space, narrow passage, being boxed in"
    "angustia" "small space, narrow passage, being boxed in"
    "angustia, angustiae" "small space, narrow passage, being boxed in"
-   
+
+   "angustī" "small space, narrow passage, being boxed in"
    "angustōs" "small space, narrow passage, being boxed in"
    "angustum" "small space, narrow passage, being boxed in"
    "angustum, angustī" "small space, narrow passage, being boxed in"
@@ -3208,6 +3213,9 @@
    "chrīstiānitātis" "of Christianity, Christendom"
    "chrīstiānitās, chrīstiānitātis" "Christianity, Christendom"
 
+   "chrīstiānae" "Christian"
+   "Chrīstiānus, Chrīstiāna -um, Chrīstiānior -or -us, Chrīstiānissimus -a -um" "Christian"
+
    "cibāre" "to feed"
    "cibō, cibāre, cibāvī, cibātus" "to feed"
 
@@ -3799,6 +3807,7 @@
    "cōnficiō, cōnficere, cōnfēcī, cōnfectus" "to complete"
 
    "cōnfīdēns" "trusting, believing"
+   "cōnfīdentēs" "trusting, believing"
    "cōnfīdat" "he (might) trust"
    "cōnfīdēbant" "they were trusting, believing"
    "cōnfīdō, cōnfīdere, cōnfīsus sum" "to trust, believe"
@@ -4629,6 +4638,7 @@
    "dēerant" "they lacked"
    "dēfuit" "he lacked"
    "dēesset" "he lacked"
+   "dēessent" "they lacked"
    "dēesse" "to lack"
    "dēsum, dēesse, dēfuī, dēfutūrus" "to lack"
    
@@ -4638,6 +4648,7 @@
    "defendet" "he will defend"
    "dēfendere" "to defend"
    "dēfenderet" "he was defending"
+   "dēfendis" "you defend"
    "dēfendistī" "you defended"
    "dēfendō" "I defend"
    "dēfendant" "they might defend"
@@ -4722,7 +4733,7 @@
    "dēmōnstrātum" "having been demonstrated"
    "dēmōnstrāveram" "I had demonstrated"
    "dēmōnstrāvērunt" "they had demonstrated"
-   "dēmōnstrārēmus" "they might have been demonstrating"
+   "dēmōnstrārēmus" "we might have been demonstrating"
    "dēmōnstrāre" "to demonstrate"
    "dēmōnstrō, dēmōnstrāre, dēmōnstrāvī, dēmōnstrātus" "to demonstrate"
    
@@ -4841,6 +4852,7 @@
    "dētrīmentō" "harm, detriment"
    "dētrīmentum, dētrīmentī" "harm, detriment"
 
+   "dētruncandō" "cutting off, beheading"
    "dētruncāvērunt" "they cut off, behead"
    "dētruncāre" "to cut off, behead"
    "dētruncō, dētruncāre, dētruncāvī, dētruncātus" "to cut off, behead"
@@ -5860,6 +5872,9 @@
    "exspectāns" "waiting"
    "expectandō" "waiting"
 
+   "expedīre" "to disengage, loose, set free"
+   "expediō, expedīre, expedīvī, expedītus" "to disengage, loose, set free"
+
    "expedītiō" "expedition, campaign"
    "expedītiōne" "expedition, campaign"
    "expedītiō, expedītiōnis" "expedition, campaign"
@@ -6183,6 +6198,7 @@
    "ferēbāntur" "they were brought"
    "fertur" "it is brought"
    "ferēns" "bringing, bearing"
+   "ferentēs" "bringing, bearing"
    "ferēbant" "they were bringing, bearing"
 
    "feriēbant" "they were hitting, striking, killing"
@@ -8044,6 +8060,7 @@
    "inūtilis, inūtilis, inūtile" "useless"
 
    "invāsērunt" "they invaded"
+   "invāsimus" "we attacked, invaded"
    "invāsit" "he invaded"
    "invāsissent" "they might have had invaded"
    "invādere" "to invade"
@@ -8120,6 +8137,8 @@
    
    "invocant" "they invoked"
    "invocās" "you invoke"
+   "invocātō" "having been invoked"
+   "invocāre" "to invoke"
    "invocō, invocāre, invocāvī, invocātus" "to invoke"
    
    "iocantem" "jesting"
@@ -8832,6 +8851,7 @@
    "magnāle, magnālis" "mighty work, mighty deed"
    
    "magnificāns" "esteeming greatly"
+   "magnificantēs" "esteeming greatly"
    "magnificābant" "they were esteeming greatly"
    "magnificāvimus" "we esteemed greatly"
    "magnificō, magnificāre, magnificāvī, magnificātus" "to esteem greatly"
@@ -9363,6 +9383,7 @@
    "mōnstrō, mōnstrāre, mōnstrāvī, mōnstrātus" "to point out"
 
    "montānea"  "mountain"
+   "montāneam" "mountain"
    "montāneās" "mountains"
    "montānea, montāneae" "mountain"
 
@@ -9513,7 +9534,7 @@
    "mūnīminis" "defence, fortification, rampart"
    "mūnīmen, mūnīminis" "defence, fortification, rampart"
 
-   "mūniam" "he might fortify"
+   "mūniam" "I will fortify"
    "mūniant" "they might fortify"
    "mūnīvit" "he fortified"
    "mūnīre" "to fortify"
@@ -13763,6 +13784,7 @@
    "strepitus" "din, noise, clashing, sound"
    "strepitus, strepitūs" "din, noise, clashing, sound"
 
+   "strīdere" "to hiss, squeak, whistle"
    "strīdō, strīdere, strīdī" "to hiss, squeak, whistle"
 
    "studeāmus" "we study, are eager for"
@@ -14220,6 +14242,7 @@
    "tenuēre" "they held, alternative spelling of tenuērunt"
    "teneō, tenēre, tenuī, tentus" "to hold, to keep"
    "tenēret" "he might hold"
+   "tenuerant" "they had had"
    
    "tenebrōsus" "dark"
    "tenebrōsus, tenebrōsa, tenebrōsum" "dark"
@@ -14559,6 +14582,7 @@
    
    "trium" "three"
 
+   "triumphābant" "they were celebrating, rejoicing"
    "triumphantēs" "celebrating, rejoicing"
    "triumphāre" "to celebrate, rejoice"
    "triumphō, triumphāre, triumphāvī, triumphātus" "to celebrate, rejoice"
@@ -14916,6 +14940,10 @@
    "vectīgal" "tax, tribute, revenue"
    "vectīgal, vectīgālis" "tax, tribute, revenue"
 
+   "vehemēns" "vehement, passionate, furious"
+   "vehementissimō" "very vehement, passionate, furious"
+   "vehemēns, vehementis (gen.), vehementior -or -us, vehementissimus -a -um" "vehement, passionate, furious"
+
    "vehēbantur" "was being carried"
    "vehendārum" "of carrying"
    "vehō, vehere, vēxī, vectus" "to carry"
@@ -15054,8 +15082,11 @@
    "vertice" "head, top, peak"
    "verticem" "head, top, peak"
    "vertex, verticis" "head, top, peak"
+
+   "vērī" "of the true"
    "vērum" "true"
    "vērus, vēra -um, vērior -or -us, vērissimus -a -um" "true"
+   
    "vesperā" "evening"
    "vesperam" "evening"
    "vesperās" "evening"
@@ -15453,6 +15484,10 @@
    "vōtīs" "vows"
    "vōtum" "vow"
    "vōtum, vōtī" "vow"
+
+   "vulnerandō" "wounding"
+   "vulnerāre" "to wound"
+   "vulnerō, vulnerāre, vulnerāvī, vulnerātus" "to wound"
    
    "vulneribus" "wounds"
    "vulnus" "wound"
