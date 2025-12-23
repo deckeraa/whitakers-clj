@@ -10234,6 +10234,7 @@
    "onerāta" "having been burdened"
    "onerātis" "you load, you burden"
    "onerāvērunt" "they loaded"
+   "onerāverant" "they had loaded"
    "onerāvit" "he loaded"
    "onerō, onerāre, onerāvī, onerātus" "to load, to burden"
 
@@ -10481,6 +10482,7 @@
    "paleās" "straw, chaff"
    "palea, paleae" "straw, chaff"
 
+   "pallia" "cloaks"
    "pallium" "cloak"
    "pallium, palliī" "cloak"
    
@@ -13317,6 +13319,7 @@
    "septimānā" "week"
    "septimāna, septimānae" "week"
 
+   "sepulchra" "graves"
    "sepulchrī" "grave"
    "sepulchrum" "grave"
    "sepulchrum, sepulchrī" "grave"
@@ -14505,6 +14508,7 @@
    "traherent" "they might draw, drag"
    "traheret" "he might draw, drag"
    "trahere" "to draw, to drag"
+   "trahī" "to be drawn, dragged"
    "trahō, trahere, trāxī, tractus" "to draw, to drag"
 
    "trāiēcerat" "they had transferred, transported"
@@ -14685,6 +14689,10 @@
    "tuendam" "looking at, protecting"
    "tueor, tuērī, tuitus sum" "to look at, protect"
 
+   "tumba" "tomb"
+   "tumbās" "tombs"
+   "tumba, tumbae" "tomb"
+
    "tumēbant" "they were swelling up"
    "tumeō, tumēre, -, -" "to be swollen, puffed up"
 
@@ -14808,6 +14816,9 @@
 
    "ultiō" "vengeance, revenge"
    "ultiō, ultiōnis" "vengeance, revenge"
+
+   "ululāre" "to howl, bark"
+   "ululō, ululāre, ululāvī, ululātus" "to howl, bark"
    
    "ululantem" "howling"
    "ululātum" "howling"
