@@ -87,6 +87,7 @@
    "ambrōnum" "of the Ambrones, a tribe of Denmark"
    "amen" "amen, truly, verily"
    "amīcissimē" "friendly"
+   "ammiralīī" "of the emirs, leaders, admirals; loanword from Arabic"
    "ammirātī" "emirs, leaders, admirals; loanword from Arabic"
    "an" "or? rather?"
    "angariī" "The Angarians, a Saxon tribe"
@@ -801,6 +802,7 @@
    "quid" "who; singular neuter nom. or acc. from quī"
    "quidem" "indeed, at last"
    "quīn" "even, in fact"
+   "quīngentī" "500"
    "quīngēntīs" "500"
    "quintum" "fifth"
    "quīnquāgintā" "fifty"
@@ -2400,6 +2402,7 @@
    "audeat" "he might dare"
    "audēbāmus" "we were daring"
    "audēbat" "he was daring"
+   "audēbant" "they were daring"
    "audēre" "to dare"
    "audeō, audēre, ausus sum" "to dare"
 
@@ -3302,6 +3305,7 @@
    "clādēs, clādis" "ruins, destruction, defeat"
 
    "clāmitābat" "he was yelling"
+   "clāmitāre" "to yell"
    "clāmitō, clāmitāre, clāmitāvī, clāmitātus" "to yell"
 
    "clāmāverō" "I will have shouted"
@@ -4644,6 +4648,7 @@
    "dēsum, dēesse, dēfuī, dēfutūrus" "to lack"
    
    "dēfendēbat" "he was defending"
+   "dēfendēbant" "they were defending"
    "dēfendentēs" "defending"
    "dēfendēs" "you will defend"
    "defendet" "he will defend"
@@ -6515,6 +6520,7 @@
    "fortēs" "strong"
    "fortī" "strong"
    "fortior" "stronger"
+   "fortiōrum" "of the stronger"
    "fortiōrēs" "stronger"
    "fortis" "strong"
    "fortissimē" "very strong"
@@ -9706,6 +9712,7 @@
    "necesse" "necessary"
    "necesse, undeclined" "necessary"
 
+   "necessāriae" "necessary"
    "necessāriō" "necessary"
    "necessārius, necessāria, necessārium" "necessary"
    
@@ -11697,6 +11704,7 @@
    "proeliābantur" "they were fighting"
    "proeliantur" "they fight"
    "proeliātī" "fighting"
+   "proeliandō" "fighting"
    "proeliārī" "to fight"
    "proelior, proeliārī, proeliātus" "to fight"
 
@@ -11979,6 +11987,7 @@
    "pugnātum" "having been fought"
    "pugnat" "he fights"
    "pugnandī" "of fighting"
+   "pugnandō" "fighting"
    "pugnantibus" "fighting"
    "pugnō, pugnāre, pugnāvī, pugnātus" "to fight"
 
@@ -12322,6 +12331,7 @@
    "reficiantur" "they (might) be refreshed"
    "refēcit" "he refreshed, he rebuilt"
    "reficiendās" "restoring, refreshing"
+   "refectī" "having been refreshed"
 
    "refertās" "having been filled up, stuffed full"
    "refercīre" "to fill up, stuff full"
@@ -14853,6 +14863,7 @@
    "utra" "either"
    "utram" "either"
    "utrās" "either"
+   "utrōs" "either"
    
    "utrēs" "bag/bottle made of skin/hide"
    "uter, utris" "bag/bottle made of skin/hide"
@@ -14931,6 +14942,7 @@
    "valēret" "he might have been healthy, able, strong"
    "valērent" "they were healthy, able, strong"
    "valeātis" "you are healthy, able, strong"
+   "valuērunt" "they were able"
    "valeō, valēre, valuī, valitūrus" "to be healthy, able, strong"
 
    "valida" "strong, healthy"
