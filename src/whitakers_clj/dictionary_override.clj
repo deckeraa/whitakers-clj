@@ -6286,9 +6286,13 @@
 
    "fēstōs" "festive"
    "fēstus, fēsta, fēstum" "festive"
+
+   "fētentia" "stinking, smelling bad"
+   "fēteō, fētēre, -, -" "to stink, smell bad"
    
    "fētor" "stench, foulness"
    "fētor, fētōris" "stench, foulness"
+   
    "fīat" "may it be"
    "fībulās" "brace, brooch, clasp"
    "fībula, fībulae" "brace, brooch, clasp"
@@ -6431,7 +6435,8 @@
    "flexīs" "having been bent, flexed"
    "flectere" "to bend"
    "flectō, flectere, flēxī, flexum" "to bend"
-   
+
+   "flēre" "to cry"
    "fleō, flēre, flēvī, flētus" "to cry"
    "flētū" "weeping"
 
@@ -6560,10 +6565,11 @@
    "fossam" "ditch, moat"
    "fossa, fossae" "ditch, moat"
 
-   "fovea" "pit, pitfall"
-   "foveae" "pit, pitfall"
-   "foveās" "pits, pitfalls"
-   "fovea, foveae" "pit, pitfall"
+   "fovea" "pit"
+   "foveae" "pit"
+   "foveam" "pit"
+   "foveās" "pits"
+   "fovea, foveae" "pit"
 
    "frāctiōnem" "breaking"
    "frāctiō, frāctiōnis" "breaking"
@@ -6579,6 +6585,8 @@
    "frāctae" "having been broken"
    "frāctīs" "having been broken"
    "frēgit" "he broke, he shattered, he crushed"
+   "frangī" "to be broken"
+   "frangere" "to break, to shatter, to crush"
    "frangō, frangere, frēgī, frāctus" "to break, to shatter, to crush"
    
    "frāter" "brother"
@@ -7250,6 +7258,7 @@
    "hūmānus, hūmāna -um, hūmānior -or -us, hūmānissimus -a -um" "human, cultured, refined"
 
    "humātus" "having been buried"
+   "humāvissent" "they had buried"
    "humāre" "to bury"
    "humō, humāre, humāvī, humātus" "to bury"
 
@@ -9846,6 +9855,7 @@
 
    "nōminat" "it names"
    "nōminābātur" "he was named, called"
+   "nōmināre" "to name"
    "nōminō, nōmināre, nōmināvī, nōminātus" "to name"
    
    "noster" "our"
@@ -9963,6 +9973,9 @@
    "numerum" "number, division, troop"
    "numerus" "number, division, troop"
    "numerus, numerī" "number, division, troop"
+
+   "nūnciīs" "messengers"
+   "nūncius, nūnci(i)" "messenger"
 
    "nūntiātum" "having been announced"
    "nūntiāvērunt" "they announced"
