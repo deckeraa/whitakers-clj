@@ -617,6 +617,7 @@
    "mixtim" "mixedly, in a mixed manner (adverb)"
    "modeste" "modestly, in a disciplined manner"
    "modicum" "a little; singular neuter nominative or accusative from modicum, modica"
+   "montāneās" "mountains; plural feminine accusative from montāneā, montāneae"
    "mox" "soon"
    "muliebriter" "womanly (adverb from muliebris, muliebre)"
    "multipliciter" "numerously"
@@ -2376,6 +2377,7 @@
    "attendere" "to attend"
    "attendō, attendere, attendī, attentus" "to attend"
 
+   "attigerit" "he might have touched, bordered, reached"
    "attingēbat" "they were touching"
    "attingit" "it touches, it borders"
    "attingō, attingere, attigī, attāctus" "to touch, to border on, to reach"
@@ -3742,6 +3744,7 @@
    "conclūdō, conclūdere, conclūsī, conclūsus" "to conclude"
 
    "conciliātūrum" "to win, to procure, to unite"
+   "conciliāvērunt" "they won, procured, united"
    "conciliō" "I win"
    "conciliāre" "to win, to procure, to unite"
    "conciliō, conciliāre, conciliāvī, conciliātus" "to win, to procure, to unite"
