@@ -87,7 +87,8 @@
    "ambrōnum" "of the Ambrones, a tribe of Denmark"
    "amen" "amen, truly, verily"
    "amīcissimē" "friendly"
-   "ammiralīī" "of the emirs, leaders, admirals; loanword from Arabic"
+   "Ammiraliī" "of the emirs, leaders, admirals; loanword from Arabic"
+   "ammiraliī" "of the emirs, leaders, admirals; loanword from Arabic"
    "ammirātī" "emirs, leaders, admirals; loanword from Arabic"
    "an" "or? rather?"
    "angariī" "The Angarians, a Saxon tribe"
@@ -112,7 +113,7 @@
    "Ascanius" "Ascanius, legendary king of Alba Longa, son of Aeneas (ablative or dative case)"
    "asportāte" "take away! Plural imperative from asportō, asportāre, asportāvī, asportātus"
    "assāte" "Roast! Bake! Broil! Plural imperative from assō, assāre, assāvī, assātus"
-   "assiduē" "permanently"
+   "assiduē" "permanently" 
    "at" "and"
    "atque" "and"
    "Atrebās" "An Atrebatian. The Atrebates were a tribe in Gallia Belgica."
@@ -1737,7 +1738,8 @@
    "alumnum" "nursling, pupil, foster-son"
    "alumnus" "nursling, pupil, foster-son"
    "alumnus, alumnī" "nursling, pupil, foster-son"
-   
+
+   "alveō" "cavity, trough"
    "alveum" "cavity, trough"
    "alveus, alveī" "cavity, trough"
    
@@ -2451,6 +2453,7 @@
    "aulaeum, aulaeī" "canopy, curtain"
 
    "auream" "golden"
+   "aureōs" "golden"
    "aureum" "golden"
    "aureus, aurea, aureum" "golden"
    
@@ -2759,6 +2762,7 @@
    "cacūmen, cacūminis" "peak, extremity"
    
    "cadāver" "corpse"
+   "cadāvera" "corpses"
    "cadāvere" "corpse"
    "cadāver, cadāveris" "corpse"
 
@@ -2811,6 +2815,7 @@
    "caesaris" "Caesar"
    "Caesar, Caesaris" "Caesar"
 
+   "caesa" "slaughters"
    "caesīs" "slaughter"
    "caesum, caesī" "slaughter"
 
@@ -4769,6 +4774,10 @@
    "dēnūntiāre" "to foretell, to give notice"
    "dēnūntiō, dēnūntiāre, dēnūntiāvī, dēnūntiātus" "to foretell, to give notice"
 
+   "dēportāvērunt" "they carried down"
+   "dēportāre" "to carry down"
+   "dēportō, dēportāre, dēportāvī, dēportātus" "to carry down"
+
    "dēposcit" "he asked for, requested, demanded"
    "dēpōscere" "to demand, require, challenge"
    "dēpōscō, dēpōscere, dēpopōscī, -" "to demand, require, challenge"
@@ -5282,6 +5291,7 @@
    "dolor, dolōris" "pain, sorrow"
 
    "dolēbat" "he was sorrying, grieving, feeling pain"
+   "dolentēs" "sorrying, grieving"
    "doluērunt" "they were sorrying, grieving"
    "dolēre" "to sorry, grieve, feel pain"
    "doleō, dolēre, doluī, dolitus" "to sorry, grieve, feel pain"
@@ -5526,6 +5536,7 @@
    "ēgregius, ēgregia, ēgregium" "excellent, honorable"
 
    "ēiēcerat" "he had cast out"
+   "ēiēcērunt" "they cast out"
    "ēicere" "to cast out"
    "ēiciō, ēicere, ēiēcī, ēiectus" "to cast out"
    
@@ -6251,6 +6262,7 @@
    
    "fēstī" "festive"
    "festīnābant" "they were hastening"
+   "festīnantēs" "hastening"
    "festīnāre" "to hasten, to hurry"
    "festīnāvit" "he hastened, he hurried"
    "festīnāvissent" "they (might) have had hastened"
