@@ -139,6 +139,7 @@
    "bifāriē" "in two ways, variant spelling of bifāriam"
    "bifāriam" "in two ways"
    "bis" "twice"
+   "bisantēōs" "Coins of a type common in the Byzantine Empire called bisanteus."
    "boiōs" "the Boii, who live across the Rhine from the Helvetii"
    "Bonifacius" "Saint Boniface, AD 675-754"
    "Boamundō" "Bohemond"
@@ -300,7 +301,7 @@
    "Egidīō" "Raimundus comes dē Sānctō Egidīō = Raymond of Saint-Gilles"
    "Egidīī" "Egidīī: comes dē Sānctō Egidīō = Raymond of Saint-Gilles"
    "eī" "to him, her, or it; singular dative from is, ea, id"
-   "eōs" "to them; plural masculine accusative from is, ea, id"
+   "eōs" "them; plural masculine accusative from is, ea, id"
    "eius" "his/her/its"
    "ēiusmodī" "of this sort"
    "ēgressa" "having gone out; singular nominative perfect passive participle from ēgredior, ēgredī, ēgressum (deponent)"
@@ -308,7 +309,7 @@
    "ēgressus" "ēgressus + est = he went out"
    "ēn" "behold!"
    "enim" "for, truly, really, indeed"
-   "eōrum" "their; plural masc. or neuter. genitive"
+   "eōrum" "their; plural masculine or neuter genitive"
    "Ercī" "Erc, Bishop of Slane (-513 A.D.)"
    "Ercō" "Erc, Bishop of Slane (-513 A.D.)"
    "Ērēsburg" "a Saxon refuge castle near modern-day Obermarsberg"
@@ -1215,6 +1216,10 @@
    "abstinentiae" "abstinence, self-restraint"
    "abstinentia, abstinentiae" "abstinence, self-restraint"
 
+   "abstrāximus" "we dragged away"
+   "abstrahere" "to drag away"
+   "abstrahō, abstrahere, abstrāxī, abstractus" "to drag away"
+
    "abundantia"  "abundance, plentifulness"
    "abundantiam" "abundance, plentifulness"
    "abundantia, abundantiae" "abundance, plentifulness"
@@ -1765,6 +1770,7 @@
    "ambitus" "edge, orbit, circuit"
    "ambitus, ambitūs" "edge, orbit, circuit"
 
+   "ambulābāmus" "we were walking"
    "ambulābat" "he was walking"
    "ambulābant" "they were walking"
    "ambulantibus" "walking"
@@ -7169,6 +7175,7 @@
    "honestissimus" "very honest, distinguished, worthy"
    "honestus, honesta -um, honestior -or -us, honestissimus -a -um" "honest, distinguished, worthy"
 
+   "honor"  "honor"
    "honore" "honor"
    "honorem" "honor"
    "honor, honōris" "honor"
@@ -9801,7 +9808,9 @@
    "nīdus" "nest"
    "nīdus, nīdī" "nest"
 
+   "nihilī" "nothing"
    "nihilō" "nothing"
+   "nihilum" "nothing"
    "nihilum, nihilī" "nothing"
 
    "nimiam" "too much, superabundance"
@@ -12299,6 +12308,7 @@
    "redēmptōrem" "redeemer"
    "redēmptor, redēmptōris" "redeemer"
 
+   "redācta"  "having been driven back"
    "redāctam" "having been driven back"
    "redigere" "to drive back, to render"
    "redigō, redigere, redēgī, redāctus" "to drive back, to render"
@@ -14704,6 +14714,7 @@
    "tumultus, tumultūs" "uproar"
 
    "tumulī" "mound, hill"
+   "tumulīs" "mounds, hills"
    "tumulō" "mound, hill"
    "tumulum" "mound, hill"
    "tumulus" "mound, hill"
