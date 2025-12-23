@@ -4262,6 +4262,10 @@
    "corripere" "to grasp, shorten, hasten"
    "corripiō, corripere, corripuī, correptus" "to grasp, shorten, hasten"
 
+   "corrōborārem" "I strengthened, fortified"
+   "corrōborāre" "to strengthen, fortify"
+   "corrōborō, corrōborāre, corrōborāvī, corrōborātus" "to strengthen, fortify"
+
    "corruit" "he ccollapsed, destroyed"
    "corruērunt" "they collapsed"
    "corruere" "to collapse"
@@ -5574,6 +5578,7 @@
    "ēlēctīs" "having been chosen"
    "ēlēgit" "he chose"
    "ēlēgērunt" "they chose"
+   "ēligāmus" "let us choose"
    "ēligere" "to choose"
    "ēligō, ēligere, ēlēgī, ēlēctus" "to choose"
 
@@ -6633,7 +6638,11 @@
    
    "frequentātur" "it is crowded, it is frequented"
    "frequentō, frequentāre, frequentāvī, frequentātus" "to crowd, to frequent"
+
+   "frequentius" "more frequently"
    "frequenter" "frequently"
+   "frequēns, frequentis (gen.), frequentior -or -us, frequentissimus -a -um" "frequent"
+   
    "fretō" "strait, channel"
    "fretum, fretī" "strait, channel"
 
