@@ -7599,6 +7599,7 @@
    "incipiendum" "starting"
    
    "incīsa" "having been cut"
+   "incīsae" "having been cut"
    "incīdī" "to be cut"
    "incīdissent" "they had cut into"
    "incīdisse" "to have cut into"
@@ -9034,6 +9035,10 @@
    "manūs" "hand"
    "manuum" "of hands"
    "manus, manūs" "hand"
+
+   "marca" "mark, a weight of coin that in the 11th century was about 8 ounces"
+   "marcās" "marks, a weight of coin that in the 11th century was about 8 ounces"
+   "marca, marcae" "mark, a weight of coin that in the 11th century was about 8 ounces"
    
    "mare" "sea"
    "maria" "seas"
@@ -11774,6 +11779,7 @@
 
    "prōferunt" "they bring forward"
    "prōferte" "bring forward!"
+   "prōtulit" "he brought forward"
    "prōferre" "to bring forward"
    "prōferō, prōferre, prōtulī, prōlātus" "to bring forward"
    
@@ -11788,6 +11794,9 @@
    "proficīscēminī" "you will set out"
    "proficīscendum" "setting out"
    "proficīscantur" "they (might) set out"
+
+   "prōficuī" "beneficial, advantageous"
+   "prōficuus, prōficua, prōficuum" "beneficial, advantageous"
 
    "professa" "haved professed"
    "profiteor, profitērī, professus sum" "to profess, declare"
@@ -11813,6 +11822,7 @@
    "prōgressus" "having advanced"
    "prōgredior, prōgredī, prōgressus sum" "to advance, to go forward"
 
+   "prohibeat" "it might prevent, restrain"
    "prohibēbant" "they were preventing, restraining"
    "prohibent" "they prevent, they restrain"
    "prohibuit" "he prevented, he restrained"
@@ -11820,6 +11830,7 @@
    "prohibērent" "they (might) have been preventing"
    "prohibuērunt" "they prevented, restrained"
    "prohibēret" "he might prevent, restrain"
+   "prohibitae" "having been prevented, restrained"
    "prohibēre" "to prevent, to restrain"
    "prohibeō, prohibēre, prohibuī, prohibitus" "to prevent, to restrain"
    
@@ -12827,6 +12838,9 @@
    
    "rōborō, rōborāre, rōborāvī, rōborātus" "to strengthen"
 
+   "rōbustē" "strongly"
+   "rōbustus, rōbusta -um, rōbustior -or -us, rōbustissimus -a -um" "strong, oaken"
+
    "rogābant" "they were asking"
    "rogāvērunt" "they asked"
    "rogāre" "to ask"
@@ -12972,6 +12986,9 @@
    "saeculō" "age, generation"
    "saeculōrum" "of ages, generations"
    "saeculum, saeculī" "age, generation"
+
+   "saevīre" "to rage, act violently"
+   "saeviō, saevīre, saeviī, saevītus" "to rage, act violently"
 
    "saevus" "furious"
    "saevus, saeva -um, saevior -or -us, saevissimus -a -um" "furious"
@@ -13250,6 +13267,9 @@
    "sēditiōnis" "sedition, treason"
    "sēditiō, sēditiōnis" "sedition, treason"
 
+   "sēdulē" "diligently"
+   "sēdulus, sēdula, sēdulum" "diligent"
+
    "sēgregātōs" "having been separated"
    
    "sēgregō, sēgregāre, sēgregāvī, sēgregātus" "to separate"
@@ -13273,6 +13293,7 @@
    "sēminō, sēmināre, sēmināvī, sēminātus" "to plant, to sow"
    
    "sēmita" "footpath"
+   "sēmitae" "footpaths"
    "sēmitam" "footpath"
    "sēmitās" "footpath"
    "sēmita, sēmitae" "footpath"
@@ -13757,6 +13778,7 @@
    "spondent" "they promise"
    "spondentēs" "promising"
    "spospondērunt" "they promised"
+   "spopondērunt" "they promised"
    "spondēre" "to promise"
    "spondeō, spondēre, spopondī, spōnsus" "to promise"
 
