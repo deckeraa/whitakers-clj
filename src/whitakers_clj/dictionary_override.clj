@@ -618,6 +618,7 @@
    "modeste" "modestly, in a disciplined manner"
    "modicum" "a little; singular neuter nominative or accusative from modicum, modica"
    "montāneās" "mountains; plural feminine accusative from montāneā, montāneae"
+   "montaneīs" "mountains; plural feminine dative or ablative from montāneā, montāneae"
    "mox" "soon"
    "muliebriter" "womanly (adverb from muliebris, muliebre)"
    "multipliciter" "numerously"
@@ -1075,7 +1076,7 @@
    "Turcopōlīs" "Turcopoles (ablative case): a Turkic group allied with Byzantium. Turcopolis comes from the Greek 'Sons of Turks' τουρκόπουλοι = Τοῦρκος + πουλος"
    "Turcopūlōs" "Turcopoles (accusative case): a Turkic group allied with Byzantium. Turcopolis comes from the Greek 'Sons of Turks' τουρκόπουλοι = Τοῦρκος + πουλος"
    "Turnō" "Turnus, a king of the Rutuli killed by Aeneas (ablative or dative case)"
-   "ubī" "where, when if"
+   "ubī" "where"
    "ubicumque" "everywhere"
    "ūllātenus" "up to this point"
    "ultrā" "beyond, further"
@@ -1415,6 +1416,10 @@
    "adpropinquāvērunt" "they had had approached"
    "adpropinquārent" "they (might) have had approached"
    "adpropinquō, adpropinquāre, adpropinquāvī, adpropinquātus" "to approached"
+
+   "adquiēvit" "he rested, relaxed"
+   "adquiēscere" "to rest, relax"
+   "adquiēscō, adquiēscere, adquiēvī, adquiētus" "to rest, relax"
 
    "adscendissent" "they (might) have had climbed"
    "adscendere" "to climb"
@@ -2435,6 +2440,7 @@
    "audītus, audītūs" "listening, hearing"
    
    "abstulisset" "he (might) have carried away"
+   "abstulit" "he carried away"
    "abstulērunt" "they carried away"
    "auferēbant" "they were carrying away"
    "auferrētis" "carry yourselves away"
@@ -2928,6 +2934,7 @@
    "capit" "he takes"
    "capite" "take!"
    "capere" "to seize, to take hold"
+   "capta" "having been seized"
    "captus" "having been seized"
    "captūrōs" "having been taken"
    "cēpērunt" "they took"
@@ -4635,6 +4642,7 @@
    "dēditiōnis" "surrender, capitulation"
    "dēditiō, dēditiōnis" "surrender, capitulation"
 
+   "dēdūcēbat" "he escorted, removed"
    "dēdūcēbant" "they escorted, removed"
    "dēdūxit" "he escorted, he removed"
    "dēdūcunt" "they lead down, escort, remove"
@@ -7182,6 +7190,7 @@
 
    "honestē" "honestly, distinguishedly, worthily"
    "honestum" "honest, distinguished, worthy"
+   "honestissimīs" "very honest, distinguished, worthy"
    "honestissimō" "very honest, distinguished, worthy"
    "honestissimum" "very honest, distinguished, worthy"
    "honestissimus" "very honest, distinguished, worthy"
