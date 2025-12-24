@@ -90,6 +90,7 @@
    "Ammiraliī" "of the emirs, leaders, admirals; loanword from Arabic"
    "ammiraliī" "of the emirs, leaders, admirals; loanword from Arabic"
    "ammirātī" "emirs, leaders, admirals; loanword from Arabic"
+   "ammirātus" "emir, leader, admiral; loanword from Arabic"
    "an" "or? rather?"
    "angariī" "The Angarians, a Saxon tribe"
    "Annā" "Ablative of Annas, a high priest involved with the crucifixion of Christ."
@@ -1678,6 +1679,9 @@
    "alimentum" "food, nourishment, sustenance"
    "alimentum, alimentī" "food, nourishment, sustenance"
 
+   "aliquantulum" "little, small"
+   "aliquantulus, aliquantula, aliquantulum" "little, small"
+
    "aliōrum" "of others"
    "alium" "other"
    "aliud" "other"
@@ -3235,6 +3239,7 @@
    "chrīstiānus, chrīstiānī" "Christian"
 
    "chrīstiānitāte" "Christianity, Christendom"
+   "chrīstiānitātem" "Christianity, Christendom"
    "chrīstiānitātis" "of Christianity, Christendom"
    "chrīstiānitās, chrīstiānitātis" "Christianity, Christendom"
 
@@ -3387,6 +3392,7 @@
    "clēricālis, clēricālis, clēricāle" "clericaly, priestly"
 
    "clēricōrum" "clerics"
+   "clēricus" "cleric"
    "clēricus, clēricī" "cleric"
 
    "clērō" "clergy"
@@ -4500,6 +4506,7 @@
    "custōdiendum" "guarding"
    "custōdīrent" "they were guarding"
    "custōdīvit" "he guarded"
+   "custōdiō" "I guard, watch over"
    "custōdiō, custōdīre, custōdīvī, custōdītus" "to guard, to watch over"
    "custōdīte" "guard!"
 
@@ -5207,6 +5214,7 @@
    "dīversus, dīversa, dīversum" "diverse"
 
    "dīves" "rich"
+   "dīvitēm" "rich"
    "dīvitēs" "rich"
    "dīvitī" "rich"
    "dīvitis" "rich"
@@ -5615,6 +5623,9 @@
    "ēmittentēs" "sending out"
    "ēmittit" "he sends"
    "ēmittō, ēmittere, ēmīsī, ēmissus" "to send out"
+
+   "ēnārrāre" "to describe"
+   "ēnārrō, ēnārrāre, ēnārrāvī, ēnārrātus" "to describe"
 
    "ēnumerāre" "to count up, enumerate"
    "ēnumerō, ēnumerāre, ēnumerāvī, ēnumerātus" "to count up, enumerate"
