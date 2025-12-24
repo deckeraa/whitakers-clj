@@ -1011,6 +1011,8 @@
    "supellē̆ctilī" "furnishings"
    "suprā" "over, above, beyond, before"
    "surānī" "Syrians"
+   "surānōrum" "of Syrians"
+   "Surānōrum" "of Syrians"
    "sūrsum" "on top, upward"
    "Syon" "Zion"
    "Synai" "Sinai"
@@ -7609,6 +7611,7 @@
    
    "incīsa" "having been cut"
    "incīsae" "having been cut"
+   "incīsās" "having been cut"
    "incīdī" "to be cut"
    "incīdissent" "they had cut into"
    "incīdisse" "to have cut into"
@@ -10246,6 +10249,9 @@
 
    "ogdoade" "eight, eight-year cycle; singular feminine ablative from ogdoas, ogdoadis"
    "ogdoas, ogdoadis" "eight, eight-year cycle"
+
+   "oleum" "olive oil"
+   "oleum, oleī" "olive oil"
    
    "ōlla" "pot, jar"
    "ōlla, ōllae" "pot, jar"
@@ -11840,6 +11846,7 @@
    "prohibuērunt" "they prevented, restrained"
    "prohibēret" "he might prevent, restrain"
    "prohibitae" "having been prevented, restrained"
+   "prohibitās" "having been prevented, restrained"
    "prohibēre" "to prevent, to restrain"
    "prohibeō, prohibēre, prohibuī, prohibitus" "to prevent, to restrain"
    
@@ -13437,6 +13444,7 @@
    "servāvissent" "they had watched over"
    "servō, servāre, servāvī, servātus" "to watch over, to guard, to preserve, to save"
 
+   "servientibus" "having been served"
    "serviet" "you will serve"
    "serviō, servīre, servīvī, servītus" "to serve"
 
