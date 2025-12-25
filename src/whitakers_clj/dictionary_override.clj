@@ -4798,6 +4798,7 @@
    "dēnārius, dēnāriī" "denarius. A denarius is a type of coin"
 
    "dēnegō" "I deny, refuse"
+   "dēnegāvērunt" "they denied, refused"
    "dēnegāre" "to deny, refuse"
    "dēnegō, dēnegāre, dēnegāvī, dēnegātus" "to deny, refuse"
 
@@ -5110,6 +5111,7 @@
    "dīmīsistis" "you sent away"
    "dīmitte" "dismiss! send away!"
    "dīmittite" "dismiss! send away!"
+   "dīmittētur" "it might be sent away"
    "dīmittere" "to dismiss, to send away"
    "dīmittō, dīmittere, dīmīsī, dīmissus" "to dismiss, to send away"
    "dīmissa" "having been sent away"
@@ -5605,6 +5607,7 @@
    "ēlēgit" "he chose"
    "ēlēgērunt" "they chose"
    "ēligāmus" "let us choose"
+   "ēligat" "let him choose"
    "ēligere" "to choose"
    "ēligō, ēligere, ēlēgī, ēlēctus" "to choose"
 
@@ -7066,6 +7069,7 @@
    "habuī" "I had"
    "habētur" "it is had"
    "habuissem" "I might have had"
+   "habeāmus" "let us have"
    "habeō, habēre, habuī, habitus" "to have"
 
    "habitābam" "I was living"
@@ -7799,6 +7803,7 @@
    "intulissent" "they (might) have carried, imported"
    "illāta" "having been brought in"
    "illātīs" "having been brought in"
+   "intulit" "he carried, imported"
    "īnferō, īnferre, intulī, illātus" "to carry, import"
 
    "īnfēstō" "unsafe, dangerous, hostile"
@@ -7830,6 +7835,10 @@
 
    "ingenitum" "implanted, endangered"
    "ingenitus, ingenita, ingenitum" "implanted, endangered"
+
+   "ingeniō" "talent, innate quality"
+   "ingenium" "talent, innate quality"
+   "ingenium, ingeniī" "talent, innate quality"
    
    "ingēns" "huge, enormous"
    "ingentem" "huge, enormous"
@@ -8131,7 +8140,8 @@
    "introeant" "they might go in, invade"
    "introīre" "to go in, invade"
    "introeō, introīre, introivi(iī), introitus" "to go in, invade"
-   
+
+   "introitū"  "entrance"
    "introitus" "entrance"
    "introitum" "entrance"
    "introitus, introitūs" "entrance"
@@ -8238,6 +8248,7 @@
    "iocārī" "to jest"
    "iocor, iocārī, iocātus" "to jest"
 
+   "iocunda" "pleasant, jocund"
    "iocundō" "pleasant, jocund"
    "iōcundum" "pleasant, jocund"
    "iōcundus" "pleasant, jocund"
@@ -9315,6 +9326,7 @@
    "ministrō, ministrāre, ministrāvī, ministrātus" "to serve, to attend to"
    
    "minor" "smaller"
+   "minōrēs" "smaller"
    "parva" "small"
    "parvissimum" "smallest"
    "parvus" "small"
