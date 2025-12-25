@@ -502,6 +502,7 @@
    "indūtiomarī" "Indūtiomārus, one of the chiefs of the Treviri"
    "indūtiomārus" "Indūtiomārus, one of the chiefs of the Treviri"
    "inferōs" "Hades, plural masculine accusative from īnferus, īnfera, īnferum"
+   "īnfrā" "below"
    "ingeniōsē" "cleverly, ingeniously"
    "inibī" "in that place"
    "iniussū" "without an order (ablative)"
@@ -1423,6 +1424,9 @@
    "adquiēvit" "he rested, relaxed"
    "adquiēscere" "to rest, relax"
    "adquiēscō, adquiēscere, adquiēvī, adquiētus" "to rest, relax"
+
+   "adquīrere" "to obtain; alternative spelling from acquirō" 
+   "adquīrō, adquīrere, adquīsīvī, adquīsītum" "to obtain; alternative spelling from acquirō" 
 
    "adscendissent" "they (might) have had climbed"
    "adscendere" "to climb"
@@ -8496,6 +8500,7 @@
 
    "lāïcōs" "laymen"
    "lāïcus" "layman"
+   "lāicus" "layman"
    "lāïcus, lāïcī" "layman"
 
    "lāmentantēs" "lamenting"
@@ -8701,6 +8706,7 @@
    "līberō, līberāre, līberāvī, līberātus" "to liberate"
 
    "līberī" "free"
+   "līberius" "free"
    "līberō" "free"
    "līberōs" "free, children"
    "līberum" "free"
@@ -9824,6 +9830,7 @@
    "nepōtis" "grandson"
    "nepōs, nepōtis" "grandson"
 
+   "nequeō" "I am unable"
    "nequībat" "he was unable"
    "nequībant" "they were unable"
    "nequīmus" "we are unable"
@@ -11872,15 +11879,19 @@
    "prōmīsērunt" "they promised"
    "prōmīsit" "he promised"
    "prōmittēbant" "they were promising"
+   "prōmittēbat" "he was promising"
+   "prōmittō" "I promise"
    "prōmissa" "having been promised"
    "prōmissam" "having been promised"
    "prōmittō, prōmittere, prōmīsī, prōmissus" "to promise"
 
    "prōmontoria" "peak, headland, cape, promontory"
    "prōmontorium, prōmontoriī" "peak, headland, cape, promontory"
-   
+
+   "prōmissiōnibus" "promises"
    "prōmissum" "promise"
    "prōmissum, prōmissī" "promise"
+   
    "prōnus" "prone, sloped"
    "prōnus, prōna, prōnum" "prone, sloped"
 
@@ -12087,6 +12098,7 @@
    "pulsum" "pulse, stroke"
    "pulsus, pulsūs" "pulse, stroke"
 
+   "pulsābat" "he was hitting"
    "pulsat" "he hits"
    "pulsant" "they hit"
    "pulsāvērunt" "they hit"
@@ -12299,6 +12311,7 @@
    "recēpimus" "we received"
    "recēpit" "he received"
    "recipī" "to be received"
+   "reciperet" "he might receive"
    "recipere" "to receive"
    "recipiō, recipere, recēpī, receptus" "to receive"
    
@@ -12307,6 +12320,10 @@
    
    "reciprocābant" "they were going back and forth"
    "reciprocō, reciprocāre, reciprocāvī, reciprocātus" "to go back and forth"
+
+   "recolligam" "I will recover, collect"
+   "recolligere" "to recover, collect"
+   "recolligō, recolligere, recollēgī, recollēctus" "to recover, collect"
 
    "reconciliāta" "having been reconciled"
    "reconciliātī" "having been reconciled"
