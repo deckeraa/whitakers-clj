@@ -1385,6 +1385,7 @@
    "adiuvābō" "I will help"
    "adiūverat" "he had helped"
    "adiuvante" "helping"
+   "adiuvet" "may he help"
    "adiūvit" "he helped"
    "adiuvāre" "to help"
    "adiuvō, adiuvāre, adiūvī, adiūtus" "to help"
@@ -4316,6 +4317,7 @@
    "costātam" "ribbed"
    "costātus, costāta, costātum" "ribbed"
 
+   "cotīdiānā"  "every day"
    "cōtīdiānīs" "every day"
    "cōtīdiānō"  "every day"
    "cōtīdiānus, cōtīdiāna, cōtīdiānum" "every day"
@@ -4596,6 +4598,7 @@
    "dēbet" "he should"
    "dēbētis" "you should"
    "dēbērent" "they should"
+   "dēbēret" "he should"
    "dēbēre" "to owe, to ought"
    "dēbeō, dēbēre, dēbuī, dēbitus" "to owe, to ought"
    
@@ -4845,6 +4848,7 @@
    "dēprecātiōnum" "of deprecations"
    "dēprecāvisset" "they (might) have had prayed"
    "dēprecābātur" "they were praying"
+   "dēprecārī" "to be prayed"
 
    "dēpressōs" "having been suppressed"
    "dēprimere" "to suppress"
@@ -5205,6 +5209,10 @@
    "dissentīrent" "they were disagreeing"
    "dissentīre" "to disagree"
    "dissentiō, dissentīre, dissēnsī, dissēnsus" "to disagree"
+
+   "dissimulāns" "concealing, disguising, hiding"
+   "dissimulāre" "to conceal, disguise, hide"
+   "dissimulō, dissimulāre, dissimulāvī, dissimulātus" "to conceal, disguise, hide"
 
    "dissipāvissent" "they had scattered, dispersed"
    "dissipāre" "to scatter, disperse"
@@ -7341,6 +7349,7 @@
 
    "humilem" "humble, small"
    "humilēs" "humble, small"
+   "humillimā" "very humble"
    "humiliter" "humbly"
    "humilis, humile, humilior -or -us, humillimus -a -um" "humble, small"
 
@@ -11193,6 +11202,9 @@
    "pietāte" "dutiful conduct, piety"
    "pietātem" "dutiful conduct, piety"
    "pietās, pietātis" "dutiful conduct, piety"
+
+   "pignus" "pledge, security, hostage"
+   "pignus, pignoris" "pledge, security, hostage"
 
    "pilae" "ball"
    "pila, pilae" "ball"
