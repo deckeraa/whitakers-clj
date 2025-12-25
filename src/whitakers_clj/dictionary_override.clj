@@ -623,6 +623,7 @@
    "mixtim" "mixedly, in a mixed manner (adverb)"
    "modeste" "modestly, in a disciplined manner"
    "modicum" "a little; singular neuter nominative or accusative from modicum, modica"
+   "montāneam" "mountain; singular feminine accusative from montāneā, montāneae"
    "montāneās" "mountains; plural feminine accusative from montāneā, montāneae"
    "montaneīs" "mountains; plural feminine dative or ablative from montāneā, montāneae"
    "mox" "soon"
@@ -5477,6 +5478,9 @@
    "ductōre" "leader"
    "ductor, ductōris" "leader"
 
+   "dulcia" "pleasant, charming, flattering"
+   "dulcis, dulce, dulcior -or -us, dulcissimus -a -um" "pleasant, charming, flattering"
+
    "duae" "two"
    "duābus" "two"
    "duōrum" "two"
@@ -5717,6 +5721,7 @@
    "estis" "you (all) are"
    "fore" "to be"
 
+   "ērēctā" "having been raised"
    "ērigēns" "raising, building"
    "ērēctīs" "to be raised, to be built"
    "ērēxit" "he raised, he built"
@@ -7410,6 +7415,9 @@
    "īdōlīs" "idols"
    "īdōlum, īdōlī" "idol"
 
+   "idōneum" "suitable"
+   "idōneus, idōnea, idōneum" "suitable"
+
    "īdibus" "ides"
    "īdūs" "ides"
    "īdūs, īduum" "ides"
@@ -8051,6 +8059,10 @@
    "intende" "hold out! stretch! exert!"
    "intendere" "to hold out; to stretch, to exert"
    "intendō, intendere, intendī, intentus" "hold out; stretch, strain, exert"
+
+   "intentiō" "intention, purpose"
+   "intentiōne" "intention, purpose"
+   "intentiō, intentiōnis" "intention, purpose"
 
    "interclūsīs" "having been blockaded"
    "interclūdere" "to blockade"
