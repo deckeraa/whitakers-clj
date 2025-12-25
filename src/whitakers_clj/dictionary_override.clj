@@ -1659,6 +1659,7 @@
    
    "alia" "other"
    "aliae" "other"
+   "aliārum" "others"
    "aliās" "others"
    "aliōs" "others"
    "aliī" "others"
@@ -4193,6 +4194,7 @@
    "conveniō, convenīre, convēnī, conventus" "to meet, to come together"
 
    "conventiō" "agreement, meeting of people"
+   "conventiōnem" "agreement, meeting of people"
    "conventiō, conventiōnis" "agreement, meeting of people"
    
    "conversātiōne" "intimacy, acquaintance, way of life, monastic life"
@@ -5398,6 +5400,7 @@
    "domus, domūs" "house"
 
    "dōnābant" "they were giving"
+   "dōnāmus" "we are giving"
    "dōnāvit" "he gave"
    "dōnātus" "having been given"
    "dōnō, dōnāre, dōnāvī, dōnātus" "to give"
@@ -6889,6 +6892,7 @@
    "gentīlī" "heathen, pagan"
    "gentīlibus" "heathens, pagans"
    "gentīlis" "heathen, pagan"
+   "gentīlium" "of heathens, pagans"
    "gentīlis, gentīlis" "heathen, pagan"
    
    "genu" "knee"
@@ -8703,6 +8707,9 @@
    "libellum" "little book"
    "libellus" "little book"
    "libellus, libellī" "little book"
+
+   "libentī" "willing, cheerful, glad"
+   "libēns, libentis (gen.), libentior -or -us, libentissimus -a -um" "willing, cheerful, glad"
 
    "liber" "book"
    "librī" "book"
