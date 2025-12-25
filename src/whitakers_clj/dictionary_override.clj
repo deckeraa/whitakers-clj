@@ -93,6 +93,9 @@
    "ammirātus" "emir, leader, admiral; loanword from Arabic"
    "an" "or? rather?"
    "angariī" "The Angarians, a Saxon tribe"
+   "Angulānī" "Aghlabids (North African muslims)"
+   "Angulānōrum" "of Aghlabids (North African muslims)"
+   "angulānōrum" "of Aghlabids (North African muslims)"
    "Annā" "Ablative of Annas, a high priest involved with the crucifixion of Christ."
    "annōn" "Was it not? Can it be that? Expects positive answer."
    "ante" "before, in front, forwards"
@@ -126,6 +129,7 @@
    "autem" "but, however, moreover"
    "avēs" "birds; plural feminine nominative or accusative from avis, avis"
    "avium" "of birds; plural feminine genitive from avis, avis"
+   "Azimītārum" "of the Armenians (according to Hagenmeyer (p. 297, note 19)). The name stems from the Greek άζυμος, which means unleavened, and refers to the Armenian's practice of using unleavened bread in the Eucharist."
    "Balduīnō" "Baldwin"
    "Balduīnus" "Baldwin"
    "bari" "Bari, a large city on the eastern coast of Italy"
@@ -733,6 +737,7 @@
    "patī" "to suffer; present active infinitive from patior, patī, passus"
    "Patriciī" "of Saint Patrick"
    "paulātim" "little by little"
+   "pūblicānōrum" "of Paulicans, a Armenian sect considered heretical by the Catholic Church"
    "Pūblicānōrum" "of Paulicans, a Armenian sect considered heretical by the Catholic Church"
    "paululum" "a little"
    "pēne" "almost; alternate spelling of paene"
@@ -965,6 +970,7 @@
    "Simeōnis" "Of Simeon"
    "similiter" "similarly"
    "simul" "at the same time as"
+   "sīn" "but if, if on the contrary"
    "sine" "without"
    "singulāriter" "singularly, solitary, peerless; adverb from singulāris, singulāre"
    "sinistrali" "left, singular feminine ablative from sinistra, sinistrae"
@@ -9638,6 +9644,7 @@
    "plūrēs" "more"
    "plūribus" "more"
    "plūrima" "very many"
+   "plūrimārum" "of very many"
    "plūrimās" "very many"
    "plūrimum" "very many"
    "plūrimī" "very many"
@@ -9733,6 +9740,7 @@
    "nātiōne" "race, tribe, nation"
    "nātiōnēs" "races, tribes, nations"
    "nātiōnibus" "race, tribe, nation"
+   "nātiōnum" "of races, tribes, nations"
    "nātiō, nātiōnis" "race, tribe, nation"
 
    "nātāle" "birthday"
@@ -12389,6 +12397,7 @@
    "reddita" "having been returned"
    "redīrent" "they might have returned"
    "redībō" "I will return"
+   "reddēmus" "we will return"
 
    "redēmptiō" "redemption"
    "redēmptiōne" "redemption"
@@ -14448,6 +14457,9 @@
 
    "tenerrimē" "very tenderly"
    "tener, tenera -um, tenerior -or -us, tenerrimus -a -um" "soft, tender, delicate"
+
+   "tenōre" "course, tenor"
+   "tenor, tenōris" "course, tenor"
 
    "tentōria" "tents"
    "tentōrium" "tent"
