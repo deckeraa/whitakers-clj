@@ -9835,6 +9835,7 @@
    "negōtiātor, negōtiātōris" "merchant, trader"
 
    "nēmine" "no one"
+   "nēminī" "no one"
    "nēmō" "no one"
    "nēmō, nēminis" "no one"
    
@@ -10766,6 +10767,7 @@
    "pauper, pauperis (gen.), pauperior -or -us, pauperrimus -a -um" "poor"
 
    "paupertās"   "poverty"
+   "paupertāte"  "poverty"
    "paupertātem" "poverty"
    "paupertātēs" "poverties"
    "paupertātis" "poverty"
@@ -13291,6 +13293,7 @@
 
    "sēcūrī" "untroubled, carefree"
    "sēcūrōs" "untroubled, carefree"
+   "sēcūrus" "untroubled, carefree"
    "sēcūrus, sēcūra, sēcūrum" "untroubled, carefree"
    
    "secunda" "second"
@@ -14052,6 +14055,7 @@
    "submoveō, submovēre, submōvī, submōtus" "to drive off"
    
    "subrīsit" "he smiled"
+   "subrīdēre" "to smile"
    "subrīdeō, subrīdēre, subrīsī, subrīsus" "to smile"
 
    "subrogātur" "he is elected, picked as a substitute"
@@ -14089,6 +14093,7 @@
 
    "succēdit" "he climbed, succeeded"
    "succēdēbant" "they were climbing"
+   "succēdat" "we might succeed"
    "succēdere" "to climb, to succeed"
    "succēdō, succēdere, successī, successus" "to climb, to succeed"
    
