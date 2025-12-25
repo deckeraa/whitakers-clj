@@ -1474,7 +1474,8 @@
 
    "aegyptiī" "Egyptian"
    "Aegyptius, Aegyptiī" "Egyptian"
-
+   
+   "aequālem" "equal"
    "aequālī" "equal"
    "aequālis" "equal"
    "aequālis, aequāle, aequālior -or -us, aequālissimus -a -um" "equal"
@@ -3743,6 +3744,7 @@
    
    "concedit" "he concedes, he allows"
    "concessit" "he conceded, he allowed"
+   "concēdāmus" "we might allow"
    "concēdātis" "you (might) allow, concede"
    "concēderet" "he (might) have been allowing"
    "concēdet" "he will allow, concede"
@@ -3776,6 +3778,8 @@
    "concitō, concitāre, concitāvī, concitātus" "to agitate"
 
    "concorditer" "like-mindedly (adverb)"
+
+   "concordī" "like-mindedly"
 
    "concordātus" "having been agreed"
    "concordāre" "to harmonize, agree"
