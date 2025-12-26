@@ -455,9 +455,9 @@
    "hās" "this; plural feminine accusative of hic, haec, hoc"
    "hic" "this; singular masculine nominative of hic, haec, hoc"
    "hinc" "from here"
-   "hī" "to these; plural masculine nominative of hic, haec, hoc"
-   "hīs" "to these; plural masculine dative or ablative of hic, haec, hoc"
-   "huic" "to this; singular dative of hic, haec, hoc"
+   "hī" "these; plural masculine nominative of hic, haec, hoc"
+   "hīs" "these; plural masculine dative or ablative of hic, haec, hoc"
+   "huic" "this; singular dative of hic, haec, hoc"
    "huius" "of this; singular genitive of hic, haec, hoc"
    "hunc" "this; singular masculine accusative of hic, haec, hoc"
    "hierusalem" "Jerusalem"
@@ -497,6 +497,7 @@
    "illūc" "over there"
    "immō" "of course, certainly, to the contrary"
    "immolātīs" "having been burned; ablative perfect passive participle from immolō, immolāre, immolāvī, immolātus"
+   "imperātor" "emperor; singular masculine nominative from imperātor, imperātōris"
    "implēte" "fill! plural imperative from impleō, implēre, implēvī, implētus"
    "imprōvidē" "suddenly"
    "in" "into (with accusative), in (with ablative)"
@@ -751,6 +752,7 @@
    "pigritārētur" "he tarried, was slothful; 3rd person singular subjunctive imperfect from pigritor"
    "Pīlātō" "Ablative of Pontius Pilate, the Roman official involved with the crucifixion of Christ."
    "pīlātō" "Ablative of Pontius Pilate, the Roman official involved with the crucifixion of Christ."
+   "Pirus" "A soldier charged with keeping watch over three towers during the siege of Antioch."
    "pīsōne" "Lucius Piso, consul in 58 BC"
    "plēbem" "common people; singular masculine accusative from plēbs, plēbis"
    "plēbī" "to the common people; singular masculine accusative from plēbs, plēbis"
@@ -8284,7 +8286,7 @@
    "iōcundum" "pleasant, jocund"
    "iōcundus" "pleasant, jocund"
    "iōcunditāte" "pleasant, jocund"
-   "iōcundus, jōcunda -um, jōcundior -or -us, jōcundissimus -a -um" "pleasant, jocund"
+   "iōcundus, iōcunda -um, iōcundior -or -us, iōcundissimus -a -um" "pleasant, jocund"
    
    "itūrus" "will be going"
    "īvit" "he went"
@@ -10094,6 +10096,7 @@
    "nūntiō, nūntiāre, nūntiāvī, nūntiātus" "to announce"
 
    "nūntiīs" "messages, news"
+   "nūntiō" "message, news"
    "nūntium, nūntiī" "message, news"
 
    "nūntiōs" "messengers"
@@ -11184,6 +11187,7 @@
    "petō, petere, petīvī, petītus" "to ask for"
 
    "petītiō" "petition"
+   "petītiōne" "petition"
    "petītiōnēs" "petitions"
    "petītiō, petītiōnis" "petition"
    
@@ -14133,7 +14137,7 @@
 
    "succēdit" "he climbed, succeeded"
    "succēdēbant" "they were climbing"
-   "succēdat" "we might succeed"
+   "succēdat" "it might succeed"
    "succēdere" "to climb, to succeed"
    "succēdō, succēdere, successī, successus" "to climb, to succeed"
    
