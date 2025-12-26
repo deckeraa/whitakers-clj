@@ -804,6 +804,7 @@
    "quātinus" "how long, how far"
    "quemadmodum" "how"
    "quamdiū" "as long as"
+   "quamobrem" "why, for what reason? Derived from quam ob rem."
    "quamquam" "although"
    "quamvīs" "as much, as much as one wants, however"
    "quanta" "how much?"
@@ -10179,6 +10180,8 @@
    
    "obsequium" "allegiance, obedience"
    "obsequium, obsequiī" "allegiance, obedience"
+
+   "observābat" "he was watching"
    "observāre" "to observe, to watch"
    "observāte" "watch!"
    "observō, observāre, observāvī, observātus" "to observe, to watch"
@@ -10839,6 +10842,7 @@
    "pausō, pausāre, pausāvī, pausātus" "to pause"
 
    "paventēs" "being frightened"
+   "pavēre" "to be frightened"
    "paveō, pavēre, pāvī, -" "to be frightened"
 
    "pavīmentī" "floor, pavement, tiling"
@@ -13278,6 +13282,9 @@
    "saxa" "rocks"
    "saxō" "rock"
    "saxum, saxī" "rock"
+
+   "scālam" "ladder"
+   "scāla, scālae" "ladder"
 
    "scaphās" "light boats, skiffs"
    "scapha, scaphae" "light boat, skiff"
