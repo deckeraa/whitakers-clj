@@ -587,6 +587,7 @@
    "Langōbardōs" "the Lombards"
    "Longobardī" "the Lombards"
    "Longobardōs" "the Lombards"
+   "Longobardus" "Lombard"
    "Lombardī" "the Lombards"
    "Lombardōs" "the Lombards"
    "Machumāriam" "a certain mosque, according to Hagenmeyer (p. 276, note 7)"
@@ -3798,6 +3799,10 @@
 
    "concorditer" "like-mindedly (adverb)"
 
+   "concordiā" "union, agreement, harmony"
+   "concordia, concordiae" "union, agreement, harmony"
+
+   
    "concordī" "like-mindedly"
 
    "concordātus" "having been agreed"
@@ -4501,6 +4506,7 @@
    "cūris, cūris" "spear"
 
    "currēbat" "he ran"
+   "cucurrit" "he ran"
    "cucurrērunt" "they ran"
    "currit" "he runs"
    "currunt" "they run"
@@ -7677,6 +7683,7 @@
    "incīdī" "to be cut"
    "incīdissent" "they had cut into"
    "incīdisse" "to have cut into"
+   "incīderent" "they might have cut into"
    "incīdere" "to cut into"
    "incīdō, incīdere, incīdī, incīsus" "to cut into"
 
@@ -8786,6 +8793,7 @@
 
    "liceat" "it (might) be permitted"
 
+   "ligāta" "having been tied, bound"
    "ligātōs" "having been tied, bound"
    "ligāre" "to tie, bind"
    "ligō, ligāre, ligāvī, ligātus" "to tie, bind"
@@ -9293,6 +9301,9 @@
    "mereō, merēre, meruī, meritus" "to earn, to deserve"
    "meritī" "merited"
    "meritō" "merited"
+
+   "merulās" "crenellations (battlements of a castle wall), blackbird"
+   "merula, merulae" "crenellations (battlements of a castle wall), blackbird"
    
    "metallī" "metal"
    "metallum, metallī" "metal"
