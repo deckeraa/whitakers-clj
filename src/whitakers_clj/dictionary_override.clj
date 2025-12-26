@@ -260,6 +260,7 @@
    "decimum" "tenth"
    "dehinc" "from now on, from this place"
    "deinceps" "successively, thereafter"
+   "dein" "after; alterative spelling from deinde"
    "deinde" "after"
    "dēlia" "Dēlia"
    "dēlicātīs" "delicate, plural dative or ablative dēlicātus, -a, -um"
@@ -267,6 +268,7 @@
    "dēmorātī" "dēmorātī + sunt = they were detained"
    "dēnāriōrum" "of denarii"
    "dēnique" "finally"
+   "deorsum" "downwards, below"
    "Dēsīderius" "King Desiderius, final King of the Lombards (720-786)"
    "dēsuper" "above"
    "dēterius" "worse, unfavorably"
@@ -557,6 +559,7 @@
    "itūrī" "to be gone to. future active participle from eō, īre, iī, itum"
    "iudam" "Judas Iscariot"
    "iudas" "Judas Iscariot"
+   "iussit" "he commanded; 3rd person singular perfect from iubeō, iubēre, iussī, iussus"
    "iuxtā" "near, nearly"
    "judas" "Judas Iscariot"
    "kal" "Abbreviation for kalendae, the first day of the month"
@@ -590,7 +593,7 @@
    "magis" "rather, more"
    "magnopere" "much, very, urgently"
    "mala" "evil, bad"
-   "malam" "evil, bad"
+   "malam" "evil, bad; singular feminine accusative from malus -a -um"
    "malī" "evil, bad"
    "malīs" "evil, bad"
    "malō" "evil, bad"
@@ -661,6 +664,7 @@
    "nimis" "too much, extremely"
    "nisī" "if not, unless"
    "nōbīs" "us; singular dative or ablative from ego"
+   "nocte" "singular feminine ablative from nox, noctis"
    "noctū" "at night"
    "Noe" "Noah, who repopulated the earth after the Flood"
    "nōlī" "be unwilling! imperative singular of nōlō, nōlle, nōluī (irr.)"
@@ -752,6 +756,7 @@
    "pigritārētur" "he tarried, was slothful; 3rd person singular subjunctive imperfect from pigritor"
    "Pīlātō" "Ablative of Pontius Pilate, the Roman official involved with the crucifixion of Christ."
    "pīlātō" "Ablative of Pontius Pilate, the Roman official involved with the crucifixion of Christ."
+   "pirus" "A soldier charged with keeping watch over three towers during the siege of Antioch."
    "Pirus" "A soldier charged with keeping watch over three towers during the siege of Antioch."
    "pīsōne" "Lucius Piso, consul in 58 BC"
    "plēbem" "common people; singular masculine accusative from plēbs, plēbis"
@@ -1053,7 +1058,7 @@
    "tē" "you, accusative from tu"
    "tēcum" "with you (tē + cum)"
    "terra, terrae" "land"
-   "terram" "land"
+   "terram" "land; singular feminine accusative from terra, terrae"
    "Theophaniam" "Theophany a.k.a. Epiphany, a feast celebrated soon after Christmas that commemorates the visit of the Magi, the baptism of Christ, and the wedding at Cana."
    "tibi" "to you, singular dative of tu"
    "Ticinēnsum" "residents of Pavia a.k.a. Ticinum, capital of the Kingdom of the Lombards from 572 to 774."
@@ -1806,6 +1811,7 @@
    "ambulāre" "to walk"
    "ambulat" "he walks"
    "ambulant" "they walk"
+   "ambulāvērunt" "they walked"
    "ambulāvit" "he walked"
    "ambulandī" "walking"
    "ambulō, ambulāre, ambulāvī, ambulātus" "to walk"
@@ -2502,6 +2508,7 @@
    "aurīga, aurīgae" "charioteer"
    
    "aurōra" "dawn, sunrise"
+   "aurōram" "dawn, sunrise"
    "aurōra, aurōrae" "dawn, sunrise"
 
    "aurō" "gold"
@@ -3641,6 +3648,7 @@
    "commodus, commoda -um, commodior -or -us, commodissimus -a -um" "suitable, convenient"
 
    "commonēbant" "they were reminding, remembering, warning"
+   "commonēret" "he might have reminded, remembered, warned"
    "commonēre" "to remind, to remember, to warn"
    "commoneō, commonēre, commonuī, commonitus" "to remind, to remember, to warn"
    
@@ -4365,7 +4373,7 @@
    "crēdendum" "believing"
    "crēdentēs" "believing"
    "crēdere" "to believe"
-   "crēdō, crēdere, crēdidī, crēditum" "to believe"
+   "crēdō, crēdere, crēdidī, crēditus" "to believe"
 
    "cremārētur" "he (might) have been burning"
    "cremāre" "to burn"
@@ -4521,6 +4529,7 @@
    "custōdia, custōdiae" "protection"
    
    "custōdiēbam" "I was guarding"
+   "cūstōdiēbat" "he was guarding"
    "custōdīre" "to guard, to watch over"
    "custōdiunt" "they guard"
    "custōdiēbant" "they were guarding"
@@ -5687,7 +5696,8 @@
    "equitātū"  "cavalry"
    "equitātus" "cavalry"
    "equitātus, equitātūs" "cavalry"
-   
+
+   "equitāvērunt" "they rode on horseback"
    "equitāvit" "he rode on horseback"
    "equitāre" "to ride on horseback"
    "equitō, equitāre, equitāvī, equitātus" "to ride on horseback"
@@ -8302,6 +8312,7 @@
    "eundum" "going"
    "eundī" "of going"
    "ierat" "he had gone"
+   "itūra" "going"
    "itūram" "going"
    "eant" "they might go"
 
@@ -10454,6 +10465,7 @@
    "ōrdine" "order"
 
    "ōrdinandō" "setting in order"
+   "ōrdināta" "having been set in order"
    "ōrdinātae" "having been set in order"
    "ōrdināvērunt" "they ordained, set in order"
    "ōrdināvit" "he ordained, set in order"
@@ -11576,6 +11588,9 @@
    "praeclārus, praeclāra, praeclārum" "very bright, remarkable"
    "praeclārum" "very bright, remarkable"
 
+   "praecō" "herald, crier"
+   "praecō, praecōnis" "herald, crier"
+
    "praede" "surety, bondsman"
    "praes" "surety, bondsman"
    "praes, praedis" "surety, bondsman"
@@ -11647,6 +11662,7 @@
    "praeparāvērunt" "they prepared"
    "praeparāvisset" "he (might) have had prepared"
    "praeparāvissent" "they (might) have had prepared"
+   "praeparāret" "he (might) have prepared"
    "praeparō, praeparāre, praeparāvī, praeparātus" "to prepare"
 
    "praepediēbat" "he was hindering, shackling, fettering"
@@ -12854,6 +12870,7 @@
    "revertit" "he returned"
    "revertiminī" "you return"
    "revertar" "I will return"
+   "revertātur" "it might have returned"
    "reversī" "returned"
    "revertam" "I will return"
    "revertere" "to return"
@@ -13340,6 +13357,7 @@
    "secūris, secūris" "axe"
 
    "sēcūrī" "untroubled, carefree"
+   "sēcūrior" "more securely, untroubled, carefree"
    "sēcūrōs" "untroubled, carefree"
    "sēcūrus" "untroubled, carefree"
    "sēcūrus, sēcūra, sēcūrum" "untroubled, carefree"
@@ -13539,6 +13557,7 @@
    "servāvissent" "they had watched over"
    "servō, servāre, servāvī, servātus" "to watch over, to guard, to preserve, to save"
 
+   "servientem" "having been served"
    "servientibus" "having been served"
    "serviet" "you will serve"
    "serviō, servīre, servīvī, servītus" "to serve"
@@ -14205,6 +14224,9 @@
    "summitās, summitātis" "summit, top"
    "summitāte" "summit, top"
 
+   "summovēre" "to remove, drive off, expel"
+   "summoveō, summovēre, summōvī, summōtus" "to remove, drive off, expel"
+
    "summa" "highest, greatest"
    "summīs" "highest, greatest"
    "summō" "highest, greatest"
@@ -14652,6 +14674,7 @@
    "trādiderant" "they had handed over"
    "trādidērunt" "they had handed over"
    "trāderet" "he handed over"
+   "trādētur" "it will be handed over"
    "trādere" "to hand over"
    "trādō, trādere, trādidī, trāditus" "to hand over"
 
@@ -15124,7 +15147,8 @@
 
    "vagus" "vagrant"
    "vagus, vagī" "vagrant"
-   
+
+   "vadat" "let it go, advance, hurry"
    "vāde" "go!"
    "vādō" "I go"
    "vādit" "he goes"
@@ -15475,7 +15499,9 @@
    "videās" "you may see"
    "videntēs" "seeing"
    "vident" "they see"
-   
+
+   "vigil" "vigil, sentry, watch"
+   "vigil, vigilis" "vigil, sentry, watch"
    "vigiliam" "vigil, watch"
    "vigiliārum" "vigil, watch"
    "vigiliās" "vigil, watch"
