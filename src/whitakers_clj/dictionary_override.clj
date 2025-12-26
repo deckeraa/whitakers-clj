@@ -11502,6 +11502,7 @@
    "posterus, postera -um, posterior -or -us, postrēmus -a -um" "following, next"
    
    "potestās" "power"
+   "potestāte" "power"
    "potestātem" "power"
    "potestātī" "power"
    "potestās, potestātis" "power"
@@ -11671,7 +11672,8 @@
 
    "praestiterō" "I will have surpassed"
    "praestō, praestāre, praestitī, praestātum" "to excel, to surpass"
-   
+
+   "praestōlāns" "standing ready"
    "praestōlor" "I stand ready"
    "praestōlor, praestōlārī, praestōlātus sum" "to stand ready"
 
@@ -11941,6 +11943,7 @@
    "prōmīsit" "he promised"
    "prōmittēbant" "they were promising"
    "prōmittēbat" "he was promising"
+   "prōmittendō" "promising"
    "prōmittō" "I promise"
    "prōmissa" "having been promised"
    "prōmissam" "having been promised"
@@ -12372,6 +12375,7 @@
    "recēpimus" "we received"
    "recēpit" "he received"
    "recipī" "to be received"
+   "recipiam" "I might receive"
    "reciperet" "he might receive"
    "recipere" "to receive"
    "recipiō, recipere, recēpī, receptus" "to receive"
