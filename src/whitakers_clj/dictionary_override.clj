@@ -145,6 +145,7 @@
    "bifāriam" "in two ways"
    "bis" "twice"
    "bisantēōs" "Coins of a type common in the Byzantine Empire called bisanteus."
+   "bizantēīs" "Coins of a type common in the Byzantine Empire called bisanteus."
    "boiōs" "the Boii, who live across the Rhine from the Helvetii"
    "Bonifacius" "Saint Boniface, AD 675-754"
    "Boamundō" "Bohemond"
@@ -737,6 +738,7 @@
    "pārentēs" "parents"
    "pārentibus" "parents (ablative or dative case)"
    "pariter" "equally, together"
+   "parte" "part; singular feminine ablative from pars, partis"
    "parumper" "briefly"
    "passus" "passus + est = to have suffered"
    "passī" "passī + est = they suffered"
@@ -2126,6 +2128,10 @@
    "apprehendērunt" "they seized"
    "apprehendere" "to seize, to grasp"
    "apprehendō, apprehendere, apprehendī, apprehēnsus" "to seize, to grasp"
+
+   "appretiāvērunt" "they valued, appraised"
+   "appretiāre" "to value, appraise"
+   "appretiō, appretiāre, appretiāvī, appretiātus" "to value, appraise"
    
    "appropinquāre" "to approach"
    "appropinquō, appropinquāre, appropinquāvī, appropinquātus" "to approach"
@@ -5823,6 +5829,7 @@
    "ēvāsisset" "he might have had escaped"
    "ēvāsit" "he avoided, he escaped"
    "ēvāserīmus" "we had escaped"
+   "ēvāsērunt" "they escaped"
    "ēvādere" "to avoid, to escape"
    "ēvādō, ēvādere, ēvāsī, ēvāsus" "to avoid, to escape"
 
@@ -6252,6 +6259,7 @@
    "fateor, fatērī, fassus sum" "to admit, to confess (deponent)"
 
    "fatīgābat" "it was wearying"
+   "fatīgātī" "having been wearied, fatigued"
    "fatīgāre" "to grow weary, to fatigue"
    "fatīgō, fatīgāre, fatīgāvī, fatīgātum" "to grow weary, to fatigue"
 
@@ -6764,6 +6772,7 @@
    "fuērunt" "they were"
 
    "fuga" "flight, escape"
+   "fugae" "flight, escape"
    "fugam" "flight, escape"
    "fuga, fugae" "flight, escape"
 
@@ -6771,6 +6780,7 @@
    "fugārunt" "they routed, chased away"
    "fugāvērunt" "they routed, chased away"
    "fugātus" "having been routed, chased away"
+   "fūgerant" "they had routed, chased away"
    "fugāre" "to rout, to chase away"
    "fugō, fugāre, fugāvī, fugātus" "to rout, to chase away"
 
@@ -8794,6 +8804,7 @@
    "līber, lībera, līberum" "free"
 
    "lībertāte" "liberty"
+   "lībertātem" "liberty"
    "lībertās, lībertātis" "liberty"
    
    "lībra, lībrae" "pound (of weight)"
