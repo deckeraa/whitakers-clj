@@ -328,7 +328,7 @@
    "etenim" "as a matter of fact"
    "etsī" "even so"
    "eugē" "Hey-o! (An untranslatable interjection)"
-   "eum" "to him; singular masculine accusative from is, ea, id"
+   "eum" "him; singular masculine accusative from is, ea, id"
    "Eurardus" "Everard III of Le Puiset"
    "exceptā" "except"
    "exceptō" "except"
@@ -473,7 +473,7 @@
    "Iascōniī" "of Jasconius (the sea creature); singular masculine genitive from Iascōnius"
    "Iascōnius" "Jasconius, a large sea creature"
    "Iascōniō" "dative or ablative of Jasconius, a large sea creature"
-   "ibī" "there, then"
+   "ibi" "there"
    "ibīdem" "in the same place"
    "id" "it"
    "Iēsū" "Jesus, ablative singular of Iēsūs"
@@ -629,7 +629,7 @@
    "mixtim" "mixedly, in a mixed manner (adverb)"
    "modeste" "modestly, in a disciplined manner"
    "modicum" "a little; singular neuter nominative or accusative from modicum, modica"
-   "montaneae" "of the mountain; singular feminine genitive from montāneā, montāneae"
+   "montāneae" "of the mountain; singular feminine genitive from montāneā, montāneae"
    "montāneam" "mountain; singular feminine accusative from montāneā, montāneae"
    "montāneās" "mountains; plural feminine accusative from montāneā, montāneae"
    "montaneīs" "mountains; plural feminine dative or ablative from montāneā, montāneae"
@@ -843,7 +843,7 @@
    "quōmodo" "how, by which means"
    "quoniam" "after"
    "quōrum" "of whom; plural masc or neut. genitive from quī"
-   "quōs" "who; plural masculine accusative from quī"
+   "quōs" "whom; plural masculine accusative from quī"
    "quoūsque" "how far? until when?"
    "quadrāgintā" "40"
    "quaerere" "to seek"
@@ -2817,6 +2817,7 @@
    "cadāver" "corpse"
    "cadāvera" "corpses"
    "cadāvere" "corpse"
+   "cadāveribus" "corpses"
    "cadāver, cadāveris" "corpse"
 
    "caecōs" "blind"
@@ -3522,7 +3523,7 @@
    "cōgnōvī" "I learned"
    "cognōvērunt" "they learned"
    "cōgnōscere" "to recognize, to learn, to inquire, to know"
-   "cōgnōscō, cōgnōscere, cōgnōvī, cōgnitum" "to recognize, to learn, to inquire, to know"
+   "cōgnōscō, cōgnōscere, cōgnōvī, cōgnitus" "to recognize, to learn, to inquire, to know"
 
    "cohaerent" "they stick together"
    "cohaereō, cohaerēre, cohaesī, cohaesus" "to stick together"
@@ -6262,7 +6263,7 @@
    "fatīgābat" "it was wearying"
    "fatīgātī" "having been wearied, fatigued"
    "fatīgāre" "to grow weary, to fatigue"
-   "fatīgō, fatīgāre, fatīgāvī, fatīgātum" "to grow weary, to fatigue"
+   "fatīgō, fatīgāre, fatīgāvī, fatīgātus" "to grow weary, to fatigue"
 
    "fāta" "fates"
    "fātum" "fate"
@@ -6391,6 +6392,7 @@
    "fēteō, fētēre, -, -" "to stink, smell bad"
    
    "fētor" "stench, foulness"
+   "fetōribus" "stenches, foulness"
    "fētor, fētōris" "stench, foulness"
    
    "fīat" "may it be"
@@ -8203,6 +8205,7 @@
    "intrāvimus" "we entered"
    "intrēmus" "let us enter"
    "intrāret" "he might enter"
+   "intrante" "entering"
    "intrō, intrāre, intrāvī, intrātus" "to enter"
 
    "intrōgressī" "having entered"
@@ -9966,6 +9969,7 @@
    "nihilum, nihilī" "nothing"
 
    "nimiam" "too much, superabundance"
+   "nimiīs" "too much, superabundance"
    "nimium" "too much, superabundance"
    "nimium, nimiī" "too much, superabundance"
 
@@ -11347,6 +11351,7 @@
    "planta, plantae" "sole"
 
    "platēa"  "street, courtyard, open space"
+   "platēae" "streets, courtyards, open spaces"
    "platēam" "street, courtyard, open space"
    "platēa, platēae" "street, courtyard, open space"
 
