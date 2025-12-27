@@ -2332,10 +2332,11 @@
    "ascendēbat" "he was ascending"
    "ascendēbant" "they were ascending"
    "ascendissem" "I (might) have had ascended"
-   "ascendissent" "he (might) have had ascended"
+   "ascendissent" "they (might) have had ascended"
    "ascendendum" "ascending"
    "ascendō, ascendere, ascendī, ascēnsus" "to ascend"
    "ascendērunt" "they had ascended"
+   "ascēnsus" "having been ascended"
    
    "ascensum" "ascent"
    "ascensus, ascensūs" "ascent"
@@ -3361,6 +3362,7 @@
    "clāmitō, clāmitāre, clāmitāvī, clāmitātus" "to yell"
 
    "clāmāverō" "I will have shouted"
+   "clāmābāmus" "we were shouting"
    "clāmābant" "they were shouting out"
    "clāmantēs" "shouting"
    "clāmāre" "to shout"
@@ -3393,6 +3395,7 @@
    "classe" "ship, fleet"
    "classis, classis" "ship, fleet"
 
+   "clausa" "having been closed"
    "clausīs" "having been closed"
    "claudit" "he closes"
    "clausum" "having been closed"
@@ -4509,6 +4512,7 @@
    "currēbat" "he ran"
    "cucurrit" "he ran"
    "cucurrērunt" "they ran"
+   "cucurrimus" "we ran"
    "currit" "he runs"
    "currunt" "they run"
    "currite" "run!"
@@ -6666,9 +6670,13 @@
    "fragmentī" "fragment"
    "fragmentīs" "fragments"
 
+   "fragor" "breaking, shattering"
+   "fragor, fragōris" "breaking, shattering"
+
    "fragrāntiam" "fragrance"
    "fragrāntoia, fragrānciae" "fragrance"
 
+   "frāctā" "having been broken"
    "frāctae" "having been broken"
    "frāctīs" "having been broken"
    "frēgit" "he broke, he shattered, he crushed"
@@ -7268,6 +7276,7 @@
    "honorem" "honor"
    "honor, honōris" "honor"
 
+   "honōrābile" "honorable"
    "honōrābilēs" "honorable"
    "honōrābilis" "honorable"
    "honōrābilis, honōrābilis, honōrābile" "honorable"
@@ -13376,6 +13385,7 @@
 
    "sēcūrī" "untroubled, carefree"
    "sēcūrior" "more securely, untroubled, carefree"
+   "sēcūrō" "secure, untroubled, carefree"
    "sēcūrōs" "untroubled, carefree"
    "sēcūrus" "untroubled, carefree"
    "sēcūrus, sēcūra, sēcūrum" "untroubled, carefree"
@@ -14016,6 +14026,7 @@
    "stantem" "standing"
    "stantibus" "standing"
    "stāre" "to stand, to remain"
+   "stās" "you stand"
    "stetisset" "he (might) have had stood"
    "stetissent" "they (might) have had stood"
    "stāret" "it might stand"
@@ -14620,6 +14631,7 @@
    "timuērunt" "they feared"
    "timuistis" "you feared"
    "timenda" "to be feared"
+   "timēns" "fearing"
    "timentēs" "fearing"
    "timeās" "you fear"
    "timēbat" "he was fearing"
