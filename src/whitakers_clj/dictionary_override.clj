@@ -629,6 +629,7 @@
    "mixtim" "mixedly, in a mixed manner (adverb)"
    "modeste" "modestly, in a disciplined manner"
    "modicum" "a little; singular neuter nominative or accusative from modicum, modica"
+   "montaneae" "of the mountain; singular feminine genitive from montāneā, montāneae"
    "montāneam" "mountain; singular feminine accusative from montāneā, montāneae"
    "montāneās" "mountains; plural feminine accusative from montāneā, montāneae"
    "montaneīs" "mountains; plural feminine dative or ablative from montāneā, montāneae"
@@ -9324,6 +9325,7 @@
    "mereō, merēre, meruī, meritus" "to earn, to deserve"
    "meritī" "merited"
    "meritō" "merited"
+   "merērentur" "they merited"
 
    "merulās" "crenellations (battlements of a castle wall), blackbird"
    "merula, merulae" "crenellations (battlements of a castle wall), blackbird"
@@ -13088,6 +13090,7 @@
    "ruō, ruere, ruī, rūtus" "to fall down"
 
    "rūmor" "rumor"
+   "rūmōrem" "rumor"
    "rūmōris" "rumor"
    "rūmor, rūmōris" "rumor"
 
@@ -14079,6 +14082,9 @@
 
    "strēnua" "brisk, vigorous"
    "strēnuus, strēnua, strēnuum" "brisk, vigorous"
+
+   "strepere" "to resound, make a harsh noise"
+   "strepō, strepere, strepuī, strepitus" "to resound, make a harsh noise"
    
    "strepitantibus" "making a harsh noise"
 
@@ -14909,6 +14915,10 @@
    
    "trophaeō" "sign, trophy"
    "trophaeum" "sign, trophy"
+
+   "truncāvērunt" "they maimed, mutilated"
+   "truncāre" "to maim, mutilate"
+   "truncō, truncāre, truncāvī, truncātus" "to maim, mutilate"
    
    "tu" "you"
    "tua" "you"
@@ -15197,6 +15207,10 @@
    "vagantur" "they wander"
    "vagārentur" "they (might) have wandered"
 
+   "vāgīna" "scabbard, sheath"
+   "vāgīnam" "scabbard, sheath"
+   "vāgīna, vāgīnae" "scabbard, sheath"
+
    "vagus" "vagrant"
    "vagus, vagī" "vagrant"
 
@@ -15268,6 +15282,7 @@
 
    "vehemēns" "vehement, passionate, furious"
    "vehementissimō" "very vehement, passionate, furious"
+   "vehementissimum" "very vehement, passionate, furious"
    "vehemēns, vehementis (gen.), vehementior -or -us, vehementissimus -a -um" "vehement, passionate, furious"
 
    "vehēbantur" "was being carried"
