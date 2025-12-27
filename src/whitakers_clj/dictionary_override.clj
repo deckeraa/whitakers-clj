@@ -7712,7 +7712,8 @@
    "inclitō"  "famous"
    "inclitus" "famous"
    "inclitus, inclita -um, inclitior -or -us, inclitissimus -a -um" "famous"
-   
+
+   "incognita" "unknown, untested"
    "incōgnitum" "unknown, untested"
    "incōgnitōrum" "unknown, untested"
    "incōgnitus, incōgnita, incōgnitum" "unknown, untested"
@@ -8258,6 +8259,7 @@
    "invēnerant" "they had found"
    "invēnerint" "they will have found"
    "inveniant" "they might find"
+   "inveniēbant" "they were finding"
    "inveniō, invenīre, invēnī, inventus" "to find"
 
    "invertitur" "it is changed, turned upside down"
@@ -9626,6 +9628,9 @@
    "mordēre" "to bite"
    "mordeō, mordēre, momordī, morsus" "to bite"
 
+   "mortālem" "mortal"
+   "mortālis, mortālis, mortāle" "mortal"
+
    "mortālitās" "mortality"
    "mortālitās, mortālitātis" "mortality"
 
@@ -10635,6 +10640,9 @@
    "pallia" "cloaks"
    "pallium" "cloak"
    "pallium, palliī" "cloak"
+
+   "palpandō" "touching"
+   "palpō, palpāre, palpāvī, palpātus" "to touching"
    
    "pānibus" "bread"
    "pānis" "bread"
@@ -13073,6 +13081,7 @@
    "rūmor, rūmōris" "rumor"
 
    "rumpit" "he breaks, destroys"
+   "rupta" "having been broken, destroyed"
    "ruptūrōs" "to be breaking, destroying"
    "rumpere" "to break, destroy"
    "rumpō, rumpere, rūpī, ruptus" "to break, destroy"
@@ -13292,6 +13301,7 @@
    "saxō" "rock"
    "saxum, saxī" "rock"
 
+   "scāla" "ladder"
    "scālam" "ladder"
    "scāla, scālae" "ladder"
 
@@ -14964,6 +14974,7 @@
    "turpitūdō, turpitūdinis" "ugliness, foulness"
 
    "turrēs" "towers"
+   "turribus" "towers"
    "turrim" "tower"
    "turris" "tower"
    "turris, turris" "tower"
