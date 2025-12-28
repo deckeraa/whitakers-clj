@@ -2030,6 +2030,9 @@
    "antiochīam" "Antioch (city in Roman Syria/modern Turkey)"
    "Antiochīa, Antiochīae" "Antioch (city in Roman Syria/modern Turkey)"
 
+   "antiochēnam" "Antiochian"
+   "Antiochēnus, Antiochēna, Antiochēnum" "Antiochian"
+
    "antīqua" "ancient"
    "antīquam" "ancient"
    "antīquī" "of the ancient"
@@ -2076,6 +2079,7 @@
    "apostolus, apostolī" "apostle"
 
    "apostolicae" "the Pope (medieval usage), bishop, apostle"
+   "Apostolicō" "the Pope (medieval usage), bishop, apostle"
    "apostolicus" "the Pope (medieval usage), bishop, apostle"
    "apostolicus, apostolicī" "the Pope (medieval usage), bishop, apostle"
 
@@ -2191,6 +2195,7 @@
    "Aquītāniae" "Aquitaniae, a province in western France"
    "Aquītānia, Aquītāniae" "Aquitaniae, a province in western France"
 
+   "arabās" "Arabs"
    "arabēs" "Arabs"
    "arabum" "of the Arabs"
    "Arabs, Arabis" "Arab"
@@ -2901,6 +2906,9 @@
    "cālīgō" "fog, mist"
    "cālīgō, cālīginis" "fog, mist"
 
+   "calīphā" "caliph, loanword from Arabic"
+   "calīpha, calīphae" "caliph, loanword from Arabic"
+
    "callidē" "cleverly"
    "callidus" "clever, crafty"
    "callidus, callida -um, callidior -or -us, callidissimus -a -um" "clever, crafty"
@@ -3574,6 +3582,7 @@
    "colligit" "he collects, he assembles"
    "colligitur" "is assembled"
    "collēctōs" "having been collected, assembled"
+   "collēctum" "having been collected, assembled"
    "colligō, colligere, collēgī, collēctus" "to collect, to assemble"
 
    "colle" "hill"
