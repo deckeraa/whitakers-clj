@@ -255,6 +255,8 @@
    "cumque" "and with"
    "cūr" "why"
    "Curbaram" "Qiwam al-Dawla Kerbogha, Turkish leader of Mosul"
+   "Curtōs" "Kurds"
+   "damascī" "of Damascus (genitive case)"
    "damascō" "Damascus (ablative case)"
    "Danihelem" "Daniel, the Old Testament prophet"
    "David" "David, the king of Israel that slew Goliath."
@@ -1002,6 +1004,7 @@
    "siquidem" "however, accordingly, since, if only. In Medieval Latin, synonym of autem."
    "sita" "sita est = is located; idiomatic usage of past passive participle of sinō, sinere, sīvī, situs"
    "sīve" "or, what if"
+   "soldānī" "of the Sultan; singular masculine genitive variant spelling from soldanus, soldanī"
    "Soldānī" "of the Sultan; singular masculine genitive variant spelling from soldanus, soldanī"
    "solempnitātibus" "solemnities, festivals; plural feminine dative or ablative from sollemnitās, sollemnitātis"
    "Solimānus" "Kilij Arslan a.k.a. Suleiman II, Seljuk sultan of Rûm and leader of the Turkish forces in Anatolia during the first crusade; son of Suleiman I"
@@ -2079,7 +2082,7 @@
    "apostolus, apostolī" "apostle"
 
    "apostolicae" "the Pope (medieval usage), bishop, apostle"
-   "Apostolicō" "the Pope (medieval usage), bishop, apostle"
+   "apostolicō" "the Pope (medieval usage), bishop, apostle"
    "apostolicus" "the Pope (medieval usage), bishop, apostle"
    "apostolicus, apostolicī" "the Pope (medieval usage), bishop, apostle"
 
@@ -11177,6 +11180,9 @@
    "perpetuae" "perpetual"
    "perpetuum" "perpetual"
    "perpetuus, perpetua, perpetuum" "perpetual"
+
+   "persiae" "Persian"
+   "Persia, Persiae" "Persian"
    
    "persecūtiō" "pursuit"
    "persecūtiōnēs" "pursuits"
@@ -15513,6 +15519,7 @@
    "vexillum, vexillī" "flag, banner"
    
    "via" "road"
+   "viae" "road"
    "viam" "road"
    "viīs" "roads"
    "via, viae" "road"
