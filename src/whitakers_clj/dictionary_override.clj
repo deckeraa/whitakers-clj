@@ -5274,6 +5274,7 @@
    "distīllō, distīllāre, distīllāvī, distīllātus" "to drip"
 
    "dītāvit" "he enriched"
+   "dītāret" "he might have enriched"
    "dītāre" "to enrich"
    "dītō, dītāre, dītāvī, dītātus" "to enrich"
    
@@ -7587,9 +7588,11 @@
    "impar, (gen.), imparis" "unequal"
 
    "impedītōs" "burdened"
+   "impedītum" "burdened"
    "impedītus, impedīta, impedītum" "burdened"
 
    "impendēbat" "they were expending"
+   "impendēret" "he might have expended"
    "impendere" "to expend"
    "impendō, impendere, impendī, impēnsus" "to expend"
 
@@ -7710,6 +7713,7 @@
    "inchoāre" "to begin, to set going, to establish"
    "inchoāvimus" "we had started"
    "inchoāvisset" "he (might) have had started"
+   "inchoāvit" "he started"
    "inchoō, inchoāre, inchoāvī, inchoātus" "to begin, to set going, to establish"
    "incipere" "to start"
    "incipiēns" "starting"
@@ -8008,6 +8012,7 @@
    "innumerābilis" "countless"
    "innumerābilis, innumerābilis, innumerābile" "countless"
 
+   "innumerās" "countless"
    "innumerīs" "countless"
    "innumerōs" "countless"
    "innumerus" "countless"
@@ -8927,6 +8932,7 @@
    "longitūdō, longitūdinis" "length, longitude"
 
    "longa" "long, far"
+   "longae" "long, far"
    "longārum" "long, far"
    "longās" "long, far"
    "longīs" "long, far"
@@ -10235,6 +10241,7 @@
    "observāte" "watch!"
    "observō, observāre, observāvī, observātus" "to observe, to watch"
 
+   "obsīdēbat" "he was besieging"
    "obsideret" "they besieged"
    "obsēdimus" "we besieged"
    "obsēdit" "he besieged"
@@ -10461,6 +10468,7 @@
    "oppidum" "town"
    "oppidum, oppidī" "town"
 
+   "opportūnō" "opportune, suitable"
    "opportūnissimō" "very opportune, a suitable time"
    "opportūnus, opportūna -um, opportūnior -or -us, opportūnissimus -a -um" "opportune, a suitable time"
 
