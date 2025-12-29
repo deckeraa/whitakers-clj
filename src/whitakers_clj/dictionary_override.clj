@@ -1058,6 +1058,7 @@
    "syram" "Syra (accusative case)"
    "syre" "O, Syra (vocative case)"
    "syrī" "of Syrus (genitive case)"
+   "syriae" "of Syria"
    "syrum" "Syrus"
    "syrus" "Syrus (accusative case)"
    "Tamesis" "Thames river"
@@ -11660,6 +11661,7 @@
    "pōtus, pōtūs" "drink, drinking"
 
    "precantēs" "praying"
+   "precor" "I pray"
    "precor, precārī, precātus sum" "to pray"
 
    "praecēdunt" "they proceed, they excel"
@@ -13080,6 +13082,7 @@
    "rōbustus, rōbusta -um, rōbustior -or -us, rōbustissimus -a -um" "strong, oaken"
 
    "rogābant" "they were asking"
+   "rogāns" "asking"
    "rogāvērunt" "they asked"
    "rogāre" "to ask"
    "rogō, rogāre, rogāvī, rogātus" "to ask"
@@ -14297,6 +14300,7 @@
    "succumbere" "to succumb, collapse"
    "succumbō, succumbere, succubuī, succubitus" "to succumb, collapse"
 
+   "succurrās" "you might bring aid"
    "succurreret" "he brought aid"
    "succursus" "having been brought aid"
    "succurrere" "to bring aid"
@@ -14397,6 +14401,7 @@
    "superficiēs" "top, surface"
    "superficiēs, superficiēī" "top, surface"
 
+   "superest" "he survives, is left over"
    "superessent" "they had survived, been left over"
    "superfuerant" "they had survived, been left over"
    "supersum, superesse, superfuī, superfutūrus" "to be left over, to remain, to survive"
@@ -14619,6 +14624,7 @@
    "tenēbunt" "they will hold"
    "tenenda" "holding"
    "tenendae" "holding"
+   "tenent" "they hold"
    "tenuēre" "they held, alternative spelling of tenuērunt"
    "teneō, tenēre, tenuī, tentus" "to hold, to keep"
    "tenēret" "he might hold"
@@ -15191,6 +15197,7 @@
    "urbem" "city"
    "urbēs" "cities"
    "urbs" "city"
+   "urbī" "city"
    "urbis" "city"
    "urbibus" "cities"
    "urbs, urbis" "city"
