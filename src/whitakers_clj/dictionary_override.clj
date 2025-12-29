@@ -97,6 +97,7 @@
    "Angulānī" "Aghlabids (North African muslims)"
    "Angulānōrum" "of Aghlabids (North African muslims)"
    "angulānōrum" "of Aghlabids (North African muslims)"
+   "Agulānī" "Aghlabids (North African muslims)"
    "Agulānōs" "Aghlabids (North African muslims)"
    "Annā" "Ablative of Annas, a high priest involved with the crucifixion of Christ."
    "annōn" "Was it not? Can it be that? Expects positive answer."
@@ -186,6 +187,7 @@
    "carolō" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
    "carolum" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
    "carolus" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
+   "Cassiānus" "Yağısıyan, the Turkish governor of Antioch"
    "cassium" "Lucius Cassius Longinus (c. 151 - 107 BC), a consul who was killed at the Battle of Burdigala"
    "cāsū" "accidentally, by chance (adverb)"
    "Catamantaloedis" "Catamantaledes (one of the Sequani)"
@@ -239,6 +241,7 @@
    "cōram" "in the presence of"
    "Corrozānam" "Khorasan, a region in modern-day Iran"
    "Corrozānum" "Khorasan, a region in modern-day Iran"
+   "Corrozānī" "of Khorasan, a region in modern-day Iran"
    "cūrpalātium" "palace minister (cūrpalātius, accusative case)"
    "cūrpalātius" "palace minister (cūrpalātius, nominative case)"
    "Cōrpalātius" "palace minister (cūrpalātius, nominative case)"
@@ -964,6 +967,7 @@
    "sēdecim" "16"
    "semetipsum" "he himself"
    "semper" "always"
+   "Sensadolus" "Shams al-Dawla, the son of Yağısıyan, governor of Antioch"
    "sēparātim" "separately, apart"
    "sēpe" "often; variant spelling of saepe"
    "septem" "seven"
@@ -1706,6 +1710,7 @@
    
    "aliēnāvit" "he alienated"
    "aliēnārī" "to be alienated"
+   "aliēnāre" "to alienate, to give up"
    "aliēnō, aliēnāre, aliēnāvī, aliēnātus" "to alienate, to give up"
 
    "aliēnum" "strange, unfamiliar"
@@ -2034,6 +2039,7 @@
    "Antiochīa, Antiochīae" "Antioch (city in Roman Syria/modern Turkey)"
 
    "antiochēnam" "Antiochian"
+   "antiochēnō" "Antiochian"
    "Antiochēnus, Antiochēna, Antiochēnum" "Antiochian"
 
    "antīqua" "ancient"
@@ -3574,6 +3580,8 @@
    "collēctiō, collēctiōnis" "collection"
    "collēctiōne" "collection"
 
+   "collēgium, collēgiī" "company, brotherhood, guild"
+
    "collīdunt" "they collide"
    "collīdō, collīdere, collīsī, collīsus" "to collide"
 
@@ -4277,6 +4285,7 @@
    "cooperta" "covered"
    "coopertae" "covered"
    "coopertam" "covered"
+   "coopertī" "covered"
    "coopertus" "covered"
    "cooperuit" "he covered"
    "cooperiō, cooperīre, cooperuī, coopertus" "to cover"
@@ -4512,6 +4521,7 @@
 
    "cupiēns" "desiring"
    "cupientēs" "desiring"
+   "cupiunt" "they desire"
    "cupīvērunt" "they desired"
    "cupiō, cupere, cupīvī, cupītus" "to desire"
 
@@ -5249,6 +5259,10 @@
    "dispersērunt" "they spread out"
    "dispersōs" "spread out"
    "dispersus, dispersa, dispersum" "spread out"
+
+   "dispergendum" "spreading out"
+   "dispergere" "to spread out"
+   "dispergō, dispergere, dispersī, dispersus" "to spread out"
 
    "dispositīs" "having been arranged, distributed"
    "disposuit" "he arranged, distributed"
@@ -6007,6 +6021,7 @@
    "expectārent" "they awaited"
    "expectāvimus" "we awaited, we expected"
    "expectō" "I await, I expect"
+   "exspectō" "I await, I expect"
    "expectō, expectāre, expectāvī, expectātus" "to await, to expect"
    "expectantēs" "expecting"
    "expectāvērunt" "they awaited"
@@ -7011,6 +7026,7 @@
    "gigans, gigantis" "giant"
 
    "gladiīs" "swords"
+   "gladiōs" "swords"
    "gladius" "sword"
    "gladius, gladiī" "sword"
    
