@@ -3580,6 +3580,7 @@
    "collēctiō, collēctiōnis" "collection"
    "collēctiōne" "collection"
 
+   "collēgium" "company, brotherhood, guild"
    "collēgium, collēgiī" "company, brotherhood, guild"
 
    "collīdunt" "they collide"
@@ -8170,6 +8171,7 @@
    "interfectī" "having been killed"
    "interficiendī" "killing"
    "interficerētur" "he killed"
+   "interficiant" "they might kill"
    "interficiāris" "you kill"
    "interficere" "to kill"
    "interficiō, interficere, interfēcī, interfectus" "to kill"
@@ -8329,6 +8331,7 @@
    "investīgō, investīgāre, investīgāvī, investīgātus" "to investigate, search"
 
    "invictus" "unconquered"
+   "invictissime" "unconquered"
    "invictissimī" "most unconquered"
    "invictus, invicta, invictum" "unconquered"
 
@@ -8644,6 +8647,9 @@
    "lampadēs" "lamps"
    "lampas, lampadis" "lamp"
    "lampadibus" "lamps"
+
+   "lanceās" "lances, long spears"
+   "lancea, lanceae" "lance, long spear"
 
    "languidior" "weaker, feebler"
    "languor" "faintness, languor, feebleness"
@@ -10080,6 +10086,7 @@
    "nocturnīs" "nocturnal"
    "nocturnus, nocturna, nocturnum" "nocturnal"
 
+   "nōlēbant" "they were not wanting"
    "nōluērunt" "they didn't want"
    "nōlēmus" "we won't want"
    "nōlentēs" "not wanting"
@@ -10269,6 +10276,7 @@
    "obsēdērunt" "they besieged"
    "obsessa"  "having been besieged"
    "obsessīs" "having been besieged"
+   "obsident" "they besiege"
    "obsideō, obsidēre, obsēdī, obsessus" "to besiege"
    "obsīdendī" "besieging, blockading"
    
@@ -10283,6 +10291,7 @@
 
    "obsidiō" "siege"
    "obsidiōne" "siege"
+   "obsidiōnem" "siege"
    "obsidiō, obsidiōnis" "siege"
 
    "obsistere" "to oppose, resist, withstand"
@@ -10862,6 +10871,10 @@
 
    "paternās" "paternal"
    "paternus, paterna, paternum" "paternal"
+
+   "patrāvēre" "they accomplished"
+   "patrāre" "to accomplish"
+   "patrō, patrāre, patrāvī, patrātus" "to accomplish"
 
    "patriās" "fatherly, ancestral"
    "patriō" "fatherly, ancestral"
