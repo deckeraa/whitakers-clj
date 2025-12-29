@@ -240,6 +240,7 @@
    "contrā" "against, away from, facing"
    "convocātis" "you call together; 2nd person plural present from convocō, convocāre, convocāvī, convocātus"
    "cōram" "in the presence of"
+   "Corrozānae" "of Khorasan, a region in modern-day Iran"
    "Corrozānam" "Khorasan, a region in modern-day Iran"
    "Corrozānum" "Khorasan, a region in modern-day Iran"
    "Corrozānī" "of Khorasan, a region in modern-day Iran"
@@ -2253,6 +2254,7 @@
    "archiepiscopīs" "archbishops"
    "archiepiscopus, archiepiscopī" "archbishop"
 
+   "arcum" "bow"
    "arcus" "bow"
    "arcus, arcūs" "bow"
 
@@ -2512,6 +2514,7 @@
    
    "abstulisset" "he (might) have carried away"
    "abstulit" "he carried away"
+   "abstulērant" "they had carried away"
    "abstulērunt" "they carried away"
    "auferēbant" "they were carrying away"
    "auferrētis" "carry yourselves away"
@@ -2672,6 +2675,7 @@
    "bellātōrēs" "fighters"
    "bellātor, bellātōris" "fighters"
 
+   "bellica" "warlike"
    "bellicōsum" "warlike"
    "bellicōsus, bellicōsa -um, bellicōsior -or -us, bellicōsissimus -a -um" "warlike"
 
@@ -3929,6 +3933,7 @@
    "cōnfīdentēs" "trusting, believing"
    "cōnfīdat" "he (might) trust"
    "cōnfīdēbant" "they were trusting, believing"
+   "cōnfīdunt" "they trust, believeo"
    "cōnfīdō, cōnfīdere, cōnfīsus sum" "to trust, believe"
    
    "confinibus" "bordering"
