@@ -3686,6 +3686,7 @@
 
    "commīsit" "he entrusted, connected"
    "commissa" "having been committed"
+   "committe" "entrust!"
    "committendum" "to entrust, connect"
    "committō, committere, commīsī, commissus" "to entrust, connect"
 
@@ -4578,6 +4579,7 @@
 
    "custōdia" "protection"
    "custōdiae" "protection"
+   "custōdiam" "protection"
    "custōdia, custōdiae" "protection"
    
    "custōdiēbam" "I was guarding"
@@ -6081,7 +6083,8 @@
 
    "expugnātam" "having been assaulted, stormed, conquered"
    "expugnandam" "assaulting, storming, conquering"
-   "expugnāret" "he assulted, stormed, conquered"
+   "expugnāret" "he assaulted, stormed, conquered"
+   "expugāvērunt" "they assaulted, stormed, conquered"
    "expugnāre" "to assault, to storm, to conquer"
    "expugnō, expugnāre, expugnāvī, expugnātus" "to assault, to storm, to conquer"
 
@@ -6384,6 +6387,7 @@
    
    "ferreae" "made of iron"
    "ferreās" "made of iron"
+   "ferreīs" "made of iron"
    "ferreōs" "made of iron"
    "ferreus, ferrea, ferreum" "made of iron"
    
@@ -7312,6 +7316,9 @@
    "hominibus" "persons, men"
    "homō" "person"
    "homō, hominis" "person"
+
+   "hominium" "homage; variant spelling from homāgium or homināticum"
+   "homāgium, homāgiī" "homage, vassaldom"
 
    "honestāvit" "he honored, dignified"
    "honestō, honestāre, honestāvī, honestātum" "to honor, dignify"
