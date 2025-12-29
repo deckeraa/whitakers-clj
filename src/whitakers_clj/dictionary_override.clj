@@ -8272,6 +8272,7 @@
    "intrēmus" "let us enter"
    "intrāret" "he might enter"
    "intrante" "entering"
+   "intrēs" "you might enter"
    "intrō, intrāre, intrāvī, intrātus" "to enter"
 
    "intrōgressī" "having entered"
@@ -8990,6 +8991,7 @@
    "longius" "longer, farther"
    "longiorem" "longer, farther"
    "longissime" "very long"
+   "longissimō" "very long"
    "longus, longa -um, longior -or -us, longissimus -a -um" "long, far"
 
    "longinquā" "long, prolonged"
@@ -9591,6 +9593,7 @@
    "mittere" "to send"
    "mittō, mittere, mīsī, missus" "to send"
 
+   "mītem" "soft, mild, gentle"
    "mītī" "soft, mild, gentle"
    "mītis, mīte, mītior -or -us, mītissimus -a -um" "soft, mild, gentle"
    
@@ -9718,6 +9721,7 @@
    "mordeō, mordēre, momordī, morsus" "to bite"
 
    "mortālem" "mortal"
+   "mortālī"  "mortal"
    "mortālis, mortālis, mortāle" "mortal"
 
    "mortālitās" "mortality"
@@ -9745,6 +9749,7 @@
    "movērētur" "they (might) have been moving"
    "movētur" "he was moved"
    "mōta" "having been moved"
+   "mōtō" "having been moved"
    "movēns" "moving"
    "movēre" "to move"
    "moveō, movēre, mōvī, mōtus" "to move"
@@ -10117,6 +10122,7 @@
    "nōlēns" "not wanting"
    "nōlō" "I don't want"
    "nōluit" "he didn't want"
+   "nōllem" "I might not have wanted"
    "nōlō, nōlle, nōluī, -" "to not want"
 
    "nōnāgēnāriīs" "ninety years"
@@ -10264,6 +10270,7 @@
    
    "obēdiāmus" "let us obey"
    "obēdientem" "obeying"
+   "obēdīre" "to obey"
    "obēdiō, obēdīre, obēdīvī, obēdītus" "to obey"
 
    "oblīviō, oblīviōnis" "forgetfulness"
@@ -10703,6 +10710,9 @@
 
    "pācātī" "having been pacified, subdued"
    "pācō, pācāre, pācāvī, pācātus" "to pacify, subdue"
+
+   "pācificum" "making or tending to make peace"
+   "pācificus, pācifica, pācificum" "making or tending to make peace"
 
    "paenitentia" "penitence, repentance"
    "paenitentiam" "penitence, repentance"
