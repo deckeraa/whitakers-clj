@@ -87,8 +87,9 @@
    "ambrōnum" "of the Ambrones, a tribe of Denmark"
    "amen" "amen, truly, verily"
    "amīcissimē" "friendly"
-   "Ammiraliī" "of the emirs, leaders, admirals; loanword from Arabic"
-   "ammiraliī" "of the emirs, leaders, admirals; loanword from Arabic"
+   "Ammiraliī" "of the emir, leader, admiral; loanword from Arabic"
+   "ammiraliī" "of the emir, leader, admiral; loanword from Arabic"
+   "ammiralium" "emir, leader, admiral; loanword from Arabic (accusative case)"
    "ammiralius" "emir, leader, admiral; loanword from Arabic"
    "ammirātī" "emirs, leaders, admirals; loanword from Arabic"
    "ammirātus" "emir, leader, admiral; loanword from Arabic"
@@ -342,6 +343,9 @@
    "Eurardus" "Everard III of Le Puiset"
    "exceptā" "except"
    "exceptō" "except"
+   "exercitū" "army; singular masculine ablative from exercitus, exercitūs"
+   "exercitum" "army; singular masculine accusative from exercitus, exercitūs"
+   "exercitus" "army; singular masculine nominative from exercitus, exercitūs"
    "expectāte" "Await! plural imperative from expectō, expectāre, expectāvī, expectātus"
    "expedītīs" "lightly-armed soldiers; dative or ablative case"
    "expedītior" "freer, more unburdened"
@@ -352,7 +356,7 @@
    "fabricātus" "having been made; masuline nominative past passive participle from fabricō, fabricāre, fabricāvī, fabricātus"
    "facillimē" "very easily"
    "factū" "to be done, supine of facere"
-   "farreum" "Farreum: The Pōns Farreus extended over the Orontes River, colloquially called the Far. The name is not related to ferreum (iron), although several manuscripts spell it that way."
+   "farreum" "The Pōns Farreus extended over the Orontes River, colloquially called the Far. The name is not related to ferreum (iron), although several manuscripts spell it that way."
    "fēlīciter" "happily"
    "ferē" "nearly, almost, about"
    "festīnanter" "hastily, quickly"
@@ -2280,6 +2284,10 @@
    "argentō" "silver"
    "argentum" "silver"
    "argentum, argentī" "silver"
+
+   "arguās" "you might argue, charge"
+   "arguere" "to argue, charge"
+   "arguō, arguere, arguī, argūtus" "to argue, charge"
 
    "āriditās"   "dryness, drought"
    "āriditātis" "dryness, drought"
@@ -5669,6 +5677,7 @@
    "ēgregius, ēgregia, ēgregium" "excellent, honorable"
 
    "ēiēcerat" "he had cast out"
+   "ēiēcerint" "they will have cast out"
    "ēiēcērunt" "they cast out"
    "ēicere" "to cast out"
    "ēiciō, ēicere, ēiēcī, ēiectus" "to cast out"
@@ -6448,6 +6457,9 @@
    "fidēlis" "faithful person, confidant"
    "fidēlis, fidēlis" "faithful person, confidant"
 
+   "fidēlissimum" "most faithful"
+   "fidēlis, fidēle, fidēlior -or -us, fidēlissimus -a -um" "faithful"
+
    "fidēlitās" "faithfulness, fidelity"
    "fidēlitāte"  "faithfulness, fidelity"
    "fidēlitātem" "faithfulness, fidelity"
@@ -6688,6 +6700,7 @@
    "fortis" "strong"
    "fortissimē" "very strong"
    "fortissimō" "very strong"
+   "fortissimum" "very strong"
    "fortis, forte, fortior -or -us, fortissimus -a -um" "strong"
 
    "fortissima" "very strong"
