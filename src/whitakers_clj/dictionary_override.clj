@@ -352,6 +352,7 @@
    "fabricātus" "having been made; masuline nominative past passive participle from fabricō, fabricāre, fabricāvī, fabricātus"
    "facillimē" "very easily"
    "factū" "to be done, supine of facere"
+   "farreum" "Farreum: The Pōns Farreus extended over the Orontes River, colloquially called the Far. The name is not related to ferreum (iron), although several manuscripts spell it that way."
    "fēlīciter" "happily"
    "ferē" "nearly, almost, about"
    "festīnanter" "hastily, quickly"
@@ -8878,6 +8879,7 @@
 
    "ligāta" "having been tied, bound"
    "ligātōs" "having been tied, bound"
+   "ligātum" "having been tied, bound"
    "ligāre" "to tie, bind"
    "ligō, ligāre, ligāvī, ligātus" "to tie, bind"
 
@@ -9105,6 +9107,7 @@
    "māgnificus, māgnifica -um, māgnificentior -or -us, māgnificentissimus -a -u" "magnificent"
    
    "maior" "bigger"
+   "maiōre" "bigger"
    "maiōrem" "bigger"
    "maiōrēs" "bigger"
    "maiōribus" "bigger"
@@ -11711,6 +11714,14 @@
    "praecō" "herald, crier"
    "praecō, praecōnis" "herald, crier"
 
+   "praecurrērunt" "they ran before"
+   "praecurrere" "to run before"
+   "praecurrō, praecurrere, praecurrī, praecursus" "to run before"
+
+   "praecursor" "forerunner, vanguard, spy"
+   "praecursōrēs" "forerunners, vanguards, spies"
+   "praecursor, praecursōris" "forerunner, vanguard, spy"
+
    "praede" "surety, bondsman"
    "praes" "surety, bondsman"
    "praes, praedis" "surety, bondsman"
@@ -12028,6 +12039,7 @@
    "proficīscantur" "they (might) set out"
 
    "prōficuī" "beneficial, advantageous"
+   "prōficuō" "beneficial, advantageous"
    "prōficuus, prōficua, prōficuum" "beneficial, advantageous"
 
    "professa" "haved professed"
@@ -14307,6 +14319,7 @@
    "succumbere" "to succumb, collapse"
    "succumbō, succumbere, succubuī, succubitus" "to succumb, collapse"
 
+   "succurram" "I will bring aid"
    "succurrās" "you might bring aid"
    "succurreret" "he brought aid"
    "succursus" "having been brought aid"
@@ -14811,6 +14824,7 @@
    "trādidērunt" "they had handed over"
    "trāderet" "he handed over"
    "trādētur" "it will be handed over"
+   "trāde" "hand over!"
    "trādere" "to hand over"
    "trādō, trādere, trādidī, trāditus" "to hand over"
 
@@ -15620,6 +15634,7 @@
    "vīdī" "I saw"
    "videō, vidēre, vīdī, vīsus" "to see"
    "videāmus" "we (might) see"
+   "vidēbis" "you will see"
    "vidēbitis" "you will see"
    "vidēbunt" "they will see"
    "vidēmus" "we see"
