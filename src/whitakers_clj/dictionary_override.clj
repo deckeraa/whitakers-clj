@@ -12252,9 +12252,11 @@
    "prūdentia, prūdentiae" "knowledge, skillfulness, foresight"
 
    "prūdēns" "prudent, competent"
+   "prūdentem" "prudent, competent"
    "prūdentissimī"  "very prudent, competent"
    "prūdentissimīs" "very prudent, competent"
    "prūdentissimōs" "very prudent, competent"
+   "prūdentissimum" "very prudent, competent"
    "prūdēns, prūdentis (gen.), prūdentior -or -us, prūdentissimus -a -um" "prudent, competent"
    
    "psallēbant" "they were singing a Psalm"
@@ -12540,6 +12542,7 @@
    "receptās" "having been received"
    "receptī"  "having been received"
    "receptīs" "having been received"
+   "receptō" "having been received"
    "receptōs" "having been received"
    "recēpērunt" "they received, they kept back"
    "recēperat" "he had received"
@@ -13716,6 +13719,7 @@
    "servābat" "he was watchinig over, he was guarding, he was preserving"
    "servābō" "I will watch over, guard, preserve"
    "servāre" "to watch over, to guard, to preserve, to save"
+   "servēs" "you might guard, watch over"
    "servō" "I watch over, guard"
    "servāvissent" "they had watched over"
    "servō, servāre, servāvī, servātus" "to watch over, to guard, to preserve, to save"
@@ -14173,6 +14177,10 @@
    "statūra, statūrae" "stature"
    "statū" "state, status"
    "status, statūs" "state, status"
+
+   "stimulō" "goad, prick, incitement, stimulus"
+   "stimulus" "goad, prick, incitement, stimulus"
+   "stimulus, stimulī" "goad, prick, incitement, stimulus"
 
    "stīpitēs" "posts"
    "stīpes" "post"
@@ -14835,6 +14843,7 @@
    "tractārent" "they might have been hauling, dragging, handling"
    "tractō, tractāre, tractāvī, tractātum" "to haul, to drag, to handle, to discuss"
 
+   "trādam" "I might hand over"
    "trādēbātur" "he was handed over"
    "trādita" "having been handed over"
    "trāditae" "having been handed over"
@@ -15490,9 +15499,11 @@
    "vēre" "spring"
    "vēris" "spring"
    "vēr, vēris" "spring"
-   
+
+   "vērācem" "true"
    "vērāx" "true"
    "vērāx, vērācis (gen.), vērācior -or -us, vērācissimus -a -um" "true"
+   
    "verberibus" "lashes, whips, rods"
    "verber, verberis" "lash, whip, rod"
    
@@ -15714,6 +15725,7 @@
    "vīllās" "farm, villa"
    "vīlla, vīllae" "farm, villa"
 
+   "vīcerint" "they will have conquered"
    "vincēbantur" "they were conquered"
    "vīctī" "having been conquered"
    "vincere" "to conquer"
