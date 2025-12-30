@@ -4107,6 +4107,7 @@
    "cōnsortiō" "fellowship"
    "cōnsortiō, cōnsortiōnis" "fellowship"
 
+   "cōnspectum" "having bbeen observed"
    "cōnspēxerant" "they had observed"
    "cōnspēxerat" "he had observed"
    "cōnspiciēbant" "they were observing"
@@ -4829,6 +4830,7 @@
 
    "dēlēbuntur" "they will be erased"
    "dēlērentur" "it was erased"
+   "dēlēre" "to erase"
    "dēleō, dēlēre, dēlēvī, dēlētus" "to erase"
 
    "dēlīberandum" "deliberating"
@@ -5743,6 +5745,10 @@
 
    "ēnārrāre" "to describe"
    "ēnārrō, ēnārrāre, ēnārrāvī, ēnārrātus" "to describe"
+
+   "ēnsem" "sword"
+   "ēnsis" "sword"
+   "ēnsis, ēnsis" "sword"
 
    "ēnumerāre" "to count up, enumerate"
    "ēnumerō, ēnumerāre, ēnumerāvī, ēnumerātus" "to count up, enumerate"
@@ -8305,6 +8311,7 @@
    "inūsitātō" "unusual"
    "inūsitātus, inūsitāta -um, inūsitātior -or -us, inūsitātissimus -a -um" "unusual"
 
+   "inūtilem" "useless"
    "inūtilēs" "useless"
    "inūtilis, inūtilis, inūtile" "useless"
 
@@ -8676,6 +8683,7 @@
    "lampas, lampadis" "lamp"
    "lampadibus" "lamps"
 
+   "lanceam" "lances, long spears"
    "lanceās" "lances, long spears"
    "lancea, lanceae" "lance, long spear"
 
@@ -8910,6 +8918,7 @@
    "lignātor, lignātōris" "woodcutter"
 
    "līgneās" "wooden"
+   "ligneum" "wooden"
    "ligneus, lignea, ligneum" "wooden"
 
    "ligna" "wood"
@@ -10059,8 +10068,9 @@
    "nitet" "it shines, glitters, thrives"
    "niteō, nitēre, nituī, -" "to shine, glitter, thrive"
 
-   "nitidīs" "shining, brought"
-   "nitidus, nitida, nitidum" "shining, brought"
+   "nitida" "shining, bright"
+   "nitidīs" "shining, bright"
+   "nitidus, nitida, nitidum" "shining, bright"
 
    "nīsōs" "having advanced, pressed upon"
    "nītor, nītī, nīsus sum" "to advance, press upon"
@@ -12140,6 +12150,7 @@
    "prōpalō, prōpalāre, prōpalāvī, prōpalātus" "to make visible, to manifest"
 
    "prōpellī" "to be driven, to be defeated"
+   "prōpulērunt" "they drove, defeated"
    "prōpellere" "to drive, to defeat"
    "prōpellō, prōpellere, prōpulī, prōpulsus" "to drive, to defeat"
 
@@ -12313,6 +12324,7 @@
    
    "pugna" "fight"
    "pugnae" "fight"
+   "pugnam" "fight"
    "pugna, pugnae" "fight"
 
    "pugnābat" "he was fighting"
@@ -12384,6 +12396,7 @@
 
    "putābat" "he was thinking"
    "putābant" "they were thinking"
+   "putant" "they think"
    "putantēs" "thinking"
    "putārem" "I was thinking"
    "putāret" "he might think"
@@ -13188,6 +13201,10 @@
    "rubō" "red"
    "rubrum" "red"
    "ruber, rubra, rubrum" "red"
+
+   "rūbīgō" "rust"
+   "rūbīgine" "rust"
+   "rūbīgō, rūbīginis" "rust"
    
    "rubus" "thorn bush"
    "rubum" "thorn bush"
@@ -14611,6 +14628,7 @@
    "tardum" "slow"
    "tardus, tarda -um, tardior -or -us, tardissimus -a -um" "slow"
 
+   "tēctum" "having been covered"
    "tēctus" "having been covered"
    "tegēbant" "they were covering, hiding"
    "tegit" "it covers, hides"
@@ -14766,6 +14784,9 @@
 
    "testimōniō" "witness, evidence"
    "testimōnium, testimōniī" "witness, evidence"
+
+   "tēterrimum" "very foul, ugly"
+   "tēter, tētra -um, tētrior -or -us, tēterrimus -a -um" "foul, ugly"
 
    "textūra" "weaving, texture"
    "textūra, textūrae" "weaving, texture"
@@ -15722,6 +15743,7 @@
 
    "vīlī" "cheap, worthless"
    "vīlissima" "most cheap, worthless"
+   "vīlissimum" "most cheap, worthless"
    "vīlis, vīlis, vīle" "cheap, worthless"
 
    "vīlla"  "farm, villa"
