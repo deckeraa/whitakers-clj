@@ -830,8 +830,8 @@
    "propter" "because of, near"
    "prout" "as, just as, exactly as"
    "prudenter" "prudently"
-   "quā" "what; singular female ablative of qui"
-   "quae" "who; plural female nom. or neuter nom. or acc. from quī"
+   "quā" "what; singular feminine ablative of qui"
+   "quae" "who; plural feminine nom. or neuter nom. or acc. from quī"
    "quam" "how? how much?"
    "quātinus" "how long, how far"
    "quemadmodum" "how"
@@ -844,8 +844,8 @@
    "quārē" "by what mean?"
    "quārtum" "for the fourth time"
    "quārtus" "fourth"
-   "quārum" "what; plural female genitive from quī"
-   "quās" "who; plural female accusative from quī"
+   "quārum" "what; plural feminine genitive from quī"
+   "quās" "who; plural feminine accusative from quī"
    "quattuor" "4"
    "que" "and"
    "quem" "what, singular masculine accusative from quī"
@@ -1024,7 +1024,7 @@
    "sinum" "pocket, fold; singular masculine accusative from sinus, sinūs"
    "siquidem" "however, accordingly, since, if only. In Medieval Latin, synonym of autem."
    "sita" "sita est = is located; idiomatic usage of past passive participle of sinō, sinere, sīvī, situs"
-   "sīve" "or, what if"
+   "sīve" "or"
    "soldānī" "of the Sultan; singular masculine genitive variant spelling from soldanus, soldanī"
    "Soldānī" "of the Sultan; singular masculine genitive variant spelling from soldanus, soldanī"
    "soldānō" "to the Sultan; singular masculine dative variant spelling from soldanus, soldanī"
@@ -1472,6 +1472,10 @@
 
    "adolēscentem" "young man"
    "adolēscēns, adolēscentis" "young man"
+
+   "adoptiō" "adoption"
+   "adoptiōnis" "adoption"
+   "adoptiō, adoptiōnis" "adoption"
 
    "adōrābunt" "they will adore, they will pray to"
    "adōrāvit" "he adored, he prayed to"
@@ -2109,6 +2113,7 @@
    "apis, apis" "bee"
    
    "apostolī" "apostle"
+   "apostolum" "apostle"
    "apostolus" "apostle"
    "apostolō" "apostle"
    "apostolōrum" "of apostles"
@@ -4287,6 +4292,9 @@
    "continuō" "continually"
    "continuus, continua, continuum" "continuous"
 
+   "contrādīcere" "to contradict, speak against"
+   "contrādīcō, contrādīcere, contrādīxī, contrādictus" "to contradict, speak against"
+
    "contrāriī" "opposite"
    "contrārium, contrāriī" "opposite"
 
@@ -5151,6 +5159,7 @@
    "dīxerō" "I will have said"
    "dīcent" "they will say"
    "dictūrōs" "saying"
+   "dīcendō" "saying"
    "dīcō, dīcere, dīxī, dictus" "to say"
 
    "dictābat" "he was saying"
@@ -7347,11 +7356,15 @@
    
    "hērēditātem" "inheritance"
    "hērēditāte" "inheritance"
+   "hērēditātēs" "inheritance"
    "hērēditās, hērēditātis" "inheritance"
    
    "heremita" "hermit"
    "heremitam" "hermit"
    "heremita, heremitae" "hermit"
+
+   "hērēdēs" "heirs"
+   "hērēs, hērēdis" "heir"
 
    "hēreticōrum" "of heretics"
    "hēreticus, hēretica, hēreticum" "heretic"
