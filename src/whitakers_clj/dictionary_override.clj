@@ -11957,6 +11957,7 @@
    "praeparāvīt" "he prepared"
    "praeparandās" "preparing"
    "praeparāte" "prepare!"
+   "preparātī" "having been prepared"
    "praeparāre" "to prepare"
    "praeparāvērunt" "they prepared"
    "praeparāvisset" "he (might) have had prepared"
@@ -12271,6 +12272,10 @@
 
    "prōmontoria" "peak, headland, cape, promontory"
    "prōmontorium, prōmontoriī" "peak, headland, cape, promontory"
+
+   "prōmissiō" "promise"
+   "prōmissiōnis" "of promise"
+   "prōmissiō, prōmissiōnis" "promise"
 
    "prōmissiōnibus" "promises"
    "prōmissum" "promise"
@@ -12973,6 +12978,10 @@
 
    "reprōmissiō, reprōmissiōnis" "promise"
    "reprōmissiōnis" "promise"
+
+   "reprōmissās" "having been promised"
+   "reprōmittere" "to promise"
+   "reprōmittō, reprōmittere, reprōmīsī, reprōmissum" "to promise"
    
    "rē" "thing"
    "rēbus" "things"
@@ -14333,6 +14342,7 @@
    
    "stābat" "he was standing"
    "stābant" "they were standing"
+   "stābit" "he will stand"
    "stantem" "standing"
    "stantibus" "standing"
    "stāre" "to stand, to remain"
@@ -14569,7 +14579,8 @@
    "sulcābat" "it was furrowing, it was plowing"
    "sulcantem" "furrowing"
    "sulcō, sulcāre, sulcāvī, sulcātus" "to furrow, to plow"
-   
+
+   "erunt" "they will be"
    "sum" "I am"
    "sum, esse, fuī, futūrus" "to be (irregular)"
    "summitās, summitātis" "summit, top"
@@ -14898,6 +14909,7 @@
    "tergō" "back"
    "tergum, tergī" "back"
 
+   "terminī" "end, boundary, limit"
    "terminōs" "ends, boundaries, limits"
    "terminus" "end, boundary, limit"
    "terminus, terminī" "end, boundary, limit"
