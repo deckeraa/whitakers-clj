@@ -93,6 +93,7 @@
    "ammiralius" "emir, leader, admiral; loanword from Arabic"
    "ammirātī" "emirs, leaders, admirals; loanword from Arabic"
    "ammirātus" "emir, leader, admiral; loanword from Arabic"
+   "āmodo" "from now on"
    "an" "or? rather?"
    "angariī" "The Angarians, a Saxon tribe"
    "Angulānī" "Aghlabids (North African muslims)"
@@ -111,6 +112,7 @@
    "aptota" "indeclinable, from άπτωτος"
    "aptoton" "indeclinable, from άπτωτος"
    "apud" "at, by, near"
+   "Āpūliam" "Apulia, a region in eastern Italy; singular feminine accusative from Āpulia, Āpuliae"
    "arbalistae" "crossbowmen; plural feminine nominative from arbalista, arbalistae"
    "Ariovistus" "A German king"
    "Ariovistī" "Ariovistus, a German King (genitive case)"
@@ -176,6 +178,7 @@
    "Brittannīcō" "Britannic (dative case)"
    "brittannīcō" "Britannic (dative case)"
    "Brittannicīs" "Britannic (ablative case)"
+   "bulgariam" "Bulgaria (accusative case)"
    "Caiphā" "Ablative of Caiphas, a high priest involved with the crucifixion of Christ."
    "candida" "bright, white, clean; singular feminine nominative from candidus, candida, candidum"
    "cantāte" "Sing! Plural imperative from cantāre"
@@ -200,6 +203,7 @@
    "celeriter" "quickly"
    "cepsitāvit" "he stumbled; singular perfect from cespitō, cespitāre, cespitāvi, cespitas"
    "Cesaream" "Caesarea (accusative case)"
+   "ceu" "as, like, in the same way"
    "Chrīstō" "Christ"
    "cibō" "food; singular masculine ablative from cibum cibum, cibī"
    "cicerōnem" "Cicerō (accusative case)"
@@ -610,6 +614,7 @@
    "Longobardus" "Lombard"
    "Lombardī" "the Lombards"
    "Lombardōs" "the Lombards"
+   "Machomet" "Mohammed, founder of the religion of Islam"
    "Machumāriam" "a certain mosque, according to Hagenmeyer (p. 276, note 7)"
    "magis" "rather, more"
    "magnopere" "much, very, urgently"
@@ -1345,6 +1350,10 @@
    "aciem" "sharpness, battle line"
    "aciēs" "battle line"
    "aciēs, aciēī" "battle line"
+
+   "acquīsīverō" "I will have acquired, obtained"
+   "acquīrere" "to acquire, obtain"
+   "acquīrō, acquīrere, acquīsīvī, acquīsītus" "to acquire, obtain"
 
    "adfuērunt" "they were present"
    "adfuit" "he was present"
@@ -3853,6 +3862,7 @@
    "conclāmō, conclāmāre, conclāmāvī, conclāmātus" "to cry out"
 
    "conclūsīs" "having been concluded"
+   "conclūsōs" "having been concluded"
    "conclūsit" "he concluded"
    "conclūdō, conclūdere, conclūsī, conclūsus" "to conclude"
 
@@ -4779,6 +4789,7 @@
    "dēducta" "having been escorted, removed"
    "dēdūceret" "he carried away"
    "dēductīs" "having been led away"
+   "dēdūcī" "to be removed, escorted, led away"
    "dēdūcō, dēdūcere, dēdūxī, dēductus" "to escort, to remove"
 
    "dederit" "he will give"
