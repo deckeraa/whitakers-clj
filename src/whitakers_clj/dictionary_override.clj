@@ -7300,6 +7300,10 @@
    "haeresēs" "heresies"
    "haeresis, haeresis" "heresy"
 
+   "haesitet" "it might hesitate"
+   "haesitāre" "to hesitate"
+   "haesitō, haesitāre, haesitāvī, haesitātus" "to hesitate"
+
    "Helvētiī" "Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.)"
    "helvētiī" "Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.)"
    "Helvētiīs" "Helvetii, members of a Gallic tribe (plural dat. or abl.)"
@@ -8041,6 +8045,7 @@
 
    "ingeniōsissimōs" "very clever, ingenious, apt"
    "ingeniōsīs" "clever, ingenious, apt"
+   "ingeniōsus" "clever, ingenious, apt"
    "ingeniōsus, ingeniōsa -um, ingeniōsior -or -us, ingeniōsissimus -a -um" "clever, ingenious, apt"
 
    "ingenitum" "implanted, endangered"
@@ -8418,6 +8423,7 @@
    "invēnerint" "they will have found"
    "inveniant" "they might find"
    "inveniēbant" "they were finding"
+   "inveniātur" "it will be found"
    "inveniō, invenīre, invēnī, inventus" "to find"
 
    "invertitur" "it is changed, turned upside down"
@@ -10380,6 +10386,10 @@
    "obscūritās"  "darkness, lowliness, meanness"
    "obscūritāte" "darkness, lowliness, meanness"
    "obscūritās, obscūritātis" "darkness, lowliness, meanness"
+
+   "obsecrō" "I entreat, beseech, pray"
+   "obsecrāre" "to entreat, beseech, pray"
+   "obsecrō, obsecrāre, obsecrāvī, obsecrātus" "to entreat, beseech, pray"
    
    "obsequium" "allegiance, obedience"
    "obsequium, obsequiī" "allegiance, obedience"
@@ -12357,6 +12367,7 @@
 
    "prūdēns" "prudent, competent"
    "prūdentem" "prudent, competent"
+   "prūdentēs" "prudent, competent"
    "prūdentissimī"  "very prudent, competent"
    "prūdentissimīs" "very prudent, competent"
    "prūdentissimōs" "very prudent, competent"
@@ -15683,6 +15694,7 @@
    "verticem" "head, top, peak"
    "vertex, verticis" "head, top, peak"
 
+   "vēra" "true"
    "vērī" "of the true"
    "vērum" "true"
    "vērus, vēra -um, vērior -or -us, vērissimus -a -um" "true"
@@ -15771,6 +15783,7 @@
    "victima, victimae" "sacrificial victim"
 
    "victor" "victor"
+   "victōre" "victor"
    "victōrēs" "victors"
    "victor, victōris" "victor"
 
