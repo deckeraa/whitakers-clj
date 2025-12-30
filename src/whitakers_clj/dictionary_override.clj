@@ -4287,6 +4287,10 @@
    "contrāriī" "opposite"
    "contrārium, contrāriī" "opposite"
 
+   "contremīscunt" "they tremble"
+   "contremīscere" "to tremble"
+   "contremīscō, contremīscere, contremuī, -" "to tremble"
+
    "contrīstābit" "he will sadden"
    "contrīstātus" "being saddened"
    "contrīstārī" "to be saddened"
@@ -5165,6 +5169,10 @@
    "diem" "day"
    "diērum" "days"
    "diēs, diēī" "day"
+
+   "diffāmāta" "having been defamed"
+   "diffāmāre" "to defame, slander"
+   "diffāmō, diffāmāre, diffāmāvī, diffāmātus" "to defame, slander"
 
    "differunt" "they delay, they differ"
    "differre" "to delay, to differ"
@@ -6917,8 +6925,10 @@
    "fugis" "you flee"
    "fugit" "he flees, he fled"
    "fugite" "flee"
+   "fugientem" "fleeing"
    "fugientum" "fleeing"
    "fūgistī" "you fled"
+   "fugiunt" "they fled"
    "fugiō, fugere, fūgī, fugitus" "to flee, to avoid"
 
    "fuerit" "it will have been"
@@ -6971,6 +6981,7 @@
    "furcae" "fork"
    "furca, furcae" "fork"
 
+   "furōrem" "frenzy, rage, madness"
    "furor" "frenzy, rage, madness"
    "furor, furōris" "frenzy, rage, madness"
    
