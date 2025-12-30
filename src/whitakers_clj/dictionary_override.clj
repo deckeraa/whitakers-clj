@@ -1351,6 +1351,10 @@
    "aciēs" "battle line"
    "aciēs, aciēī" "battle line"
 
+   "acquiēscās" "you might rest, relax"
+   "acquiēscere" "to rest, relax"
+   "acquiēscō, acquiēscere, acquiēvī, acquiētus" "to rest, relax"
+   
    "acquīsīverō" "I will have acquired, obtained"
    "acquīrere" "to acquire, obtain"
    "acquīrō, acquīrere, acquīsīvī, acquīsītus" "to acquire, obtain"
@@ -2520,6 +2524,8 @@
    "audīvissent" "they (might) have had heard"
    "audīvit" "he heard"
    "audītā" "having been heard"
+   "audiō" "I hear"
+   "audīvī" "I heard"
    "audiō, audīre, audīvī, audītum" "to hear"
 
    "audītō" "having been heard"
@@ -2794,6 +2800,10 @@
    "optima" "best"
    "optimum" "best"
    "bonus, bona -um, melior -or -us, optimus -a -um" "good"
+
+   "bonitās" "goodness"
+   "bonitātem" "goodness"
+   "bonitās, bonitātis" "goodness"
 
    "boreālis, boreālis, boreāle" "northern"
    "boreālī" "northern"
@@ -3115,6 +3125,7 @@
    "carrus, carrī" "four-wheeled wagon"
 
    "cāra" "beloved"
+   "cārissime" "O beloved"
    "cārissimī" "beloved"
    "cārum" "beloved"
    "cārus, cāra -um, cārior -or -us, cārissimus -a -um" "beloved, dear"
@@ -3337,6 +3348,7 @@
    "chrīstiānitātis" "of Christianity, Christendom"
    "chrīstiānitās, chrīstiānitātis" "Christianity, Christendom"
 
+   "chrīstiāna" "Christian"
    "chrīstiānae" "Christian"
    "Chrīstiānus, Chrīstiāna -um, Chrīstiānior -or -us, Chrīstiānissimus -a -um" "Christian"
 
@@ -3723,8 +3735,10 @@
 
    "commīsit" "he entrusted, connected"
    "commissa" "having been committed"
+   "committās" "you might commit"
    "committe" "entrust!"
    "committendum" "to entrust, connect"
+   "committere" "to entrust, connect"
    "committō, committere, commīsī, commissus" "to entrust, connect"
 
    "commodus, commoda -um, commodior -or -us, commodissimus -a -um" "suitable, convenient"
@@ -4235,6 +4249,9 @@
    "contendere" "to hasten, to contend"
    "contendit" "he hastened, he contended"
    "contendō, contendere, contendī, contentus" "to hasten, to contend"
+
+   "contestor" "I call to witness"
+   "contestor, contestārī, contestātus" "to call to witness"
 
    "contiguōs" "bordering, neighboring, contiguous"
    "contiguus, contigua, contiguum" "bordering, neighboring, contiguous"
