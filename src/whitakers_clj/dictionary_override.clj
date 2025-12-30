@@ -11404,6 +11404,10 @@
    "petrus" "Peter"
    "Petrus, Petrī" "Peter"
 
+   "petulantia" "impudence, freakishness, carelessness"
+   "petulantiam" "impudence, freakishness, carelessness"
+   "petulantia, petulantiae" "impudence, freakishness, carelessness"
+
    "philosophus" "philosopher"
    "philosophus, philosophī" "philosopher"
 
@@ -11913,6 +11917,10 @@
    "praeterfluit" "it flows past"
    "praeterfluere" "to flow past"
 
+   "praevaleant" "they might prevail"
+   "praevalēre" "to prevail"
+   "praevaleō, praevalēre, praevaluī" "to prevail"
+
    "praevertitur" "it is anticipated"
    "praevertere" "to anticipate"
    "praevertō, praevertere, praevertī, praeversus" "to anticipate"
@@ -12404,6 +12412,7 @@
    "puppim" "stern, poop (of a ship)"
    "puppis, puppis" "stern, poop (of a ship)"
 
+   "pūrgāta" "having been cleansed"
    "pūrgārī" "to be cleansed"
    "pūrgō, pūrgāre, pūrgāvī, pūrgātus" "to cleanse"
    
