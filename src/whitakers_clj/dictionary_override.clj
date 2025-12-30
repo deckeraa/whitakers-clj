@@ -984,6 +984,7 @@
    "septimō" "seventh"
    "septingentōs" "700"
    "septuāgintā" "70"
+   "sermōcinent" "they might converse, discuss; 3rd person plural subjunctive present variant spelling from sermōcinor, sermōcinārī, sermōcinātus"
    "sēsē" "himself"
    "seu" "or, what if"
    "sex" "six"
@@ -1018,6 +1019,7 @@
    "sīve" "or, what if"
    "soldānī" "of the Sultan; singular masculine genitive variant spelling from soldanus, soldanī"
    "Soldānī" "of the Sultan; singular masculine genitive variant spelling from soldanus, soldanī"
+   "soldānō" "to the Sultan; singular masculine dative variant spelling from soldanus, soldanī"
    "solempnitātibus" "solemnities, festivals; plural feminine dative or ablative from sollemnitās, sollemnitātis"
    "Solimānus" "Kilij Arslan a.k.a. Suleiman II, Seljuk sultan of Rûm and leader of the Turkish forces in Anatolia during the first crusade; son of Suleiman I"
    "Solimānī" "of Kilij Arslan a.k.a. Suleiman II, Seljuk sultan of Rûm and leader of the Turkish forces in Anatolia during the first crusade; son of Suleiman I"
@@ -1087,6 +1089,7 @@
    "tantae" "of such"
    "tē" "you, accusative from tu"
    "tēcum" "with you (tē + cum)"
+   "ter" "three times"
    "terra, terrae" "land"
    "terram" "land; singular feminine accusative from terra, terrae"
    "Theophaniam" "Theophany a.k.a. Epiphany, a feast celebrated soon after Christmas that commemorates the visit of the Magi, the baptism of Christ, and the wedding at Cana."
@@ -12419,6 +12422,7 @@
    "pūrificātiōne" "purification"
    "pūrificātiō, pūrificātiōnis" "purification"
 
+   "pūrissimum" "very clean, pure"
    "pūrō" "clean, pure"
    "pūrus, pūra -um, pūrior -or -us, pūrissimus -a -um" "clean, pure"
    
@@ -13474,6 +13478,7 @@
    "satietāte" "sufficiency, abundance"
    "satietās, satietātis" "sufficiency, abundance"
 
+   "satisfaciant" "they might satisfy"
    "satisfēcerit" "he will have satisfied"
    "satisfacere" "to satisfy"
    "satisfaciō, satisfacere, satisfēcī, satisfactus" "to satisfy"
@@ -14576,6 +14581,7 @@
    "susciperet" "he undertook"
    "suscēpit" "he undertook, he supported"
    "susceptī" "having been undertaken"
+   "suscipiant" "they might undertake"
    "suscipit" "he undertakes"
    "suscipiēbant" "they were undertaking"
    "suscēpistī" "you undertook"
@@ -15552,7 +15558,7 @@
    "ventitāret" "he was coming regularly"
    "ventitāre" "to come regularly"
    "ventitō, ventitāre, ventitāvī, ventitātus" "to come regularly"
-   
+   "ventribus" "bellies, abdomens"
    "ventre" "belly, abdomen"
    "venter, ventris" "belly, abdomen"
    
