@@ -58,6 +58,7 @@
    "Alamannōrum" "of the Alamanni, a confederation of Germanic tribes"
    "aleph" "Aleppo"
    "aliam" "other, another; singular feminine accusative from alius, alia, aliud"
+   "alibī" "elsewhere"
    "alicui" "to anyone; singular dative from aliqui"
    "aliōquī" "also"
    "aliōquīn" "also"
@@ -89,6 +90,7 @@
    "amīcissimē" "friendly"
    "Ammiraliī" "of the emir, leader, admiral; loanword from Arabic"
    "ammiraliī" "of the emir, leader, admiral; loanword from Arabic"
+   "ammiraliōs" "emirs, leaders, admirals; loanword from Arabic (accusative case)"
    "ammiralium" "emir, leader, admiral; loanword from Arabic (accusative case)"
    "ammiralius" "emir, leader, admiral; loanword from Arabic"
    "ammirātī" "emirs, leaders, admirals; loanword from Arabic"
@@ -334,6 +336,7 @@
    "ēgressus" "ēgressus + est = he went out"
    "ēn" "behold!"
    "enim" "for, truly, really, indeed"
+   "enimvērō" "the fact is"
    "eōrum" "their; plural masculine or neuter genitive"
    "Ercī" "Erc, Bishop of Slane (-513 A.D.)"
    "Ercō" "Erc, Bishop of Slane (-513 A.D.)"
@@ -1999,7 +2002,7 @@
    "anima" "soul, mind, life"
    "animam" "soul, mind, life"
    "animās" "souls, minds, lives"
-   "animō" "soul, mind, live"
+   "animō" "soul, mind, life"
    "animōs" "souls, minds, lives"
    "anima, animae" "soul, mind, life"
    "animae" "soul, mind, life"
@@ -4307,6 +4310,7 @@
 
    "conturbābat" "he was confusing"
    "conturbābant" "they were confusing"
+   "conturbat" "he confuses"
    "conturbārī" "to be confused"
    "conturbāre" "to confuse"
    "conturbō, conturbāre, conturbāvī, conturbātus" "to confuse"
@@ -4832,7 +4836,8 @@
    "dēessent" "they lacked"
    "dēesse" "to lack"
    "dēsum, dēesse, dēfuī, dēfutūrus" "to lack"
-   
+
+   "dēfendit" "he defends"
    "dēfendēbat" "he was defending"
    "dēfendēbant" "they were defending"
    "dēfendentēs" "defending"
@@ -5356,6 +5361,7 @@
    "dissimulāre" "to conceal, disguise, hide"
    "dissimulō, dissimulāre, dissimulāvī, dissimulātus" "to conceal, disguise, hide"
 
+   "dissipā" "scatter! disperse!"
    "dissipāvissent" "they had scattered, dispersed"
    "dissipāre" "to scatter, disperse"
    "dissipō, dissipāre, dissipāvī, dissipātus" "to scatter, disperse"
@@ -5622,6 +5628,7 @@
    "ductor, ductōris" "leader"
 
    "dulcia" "pleasant, charming, flattering"
+   "dulcissime" "pleasant, charming, flattering"
    "dulcis, dulce, dulcior -or -us, dulcissimus -a -um" "pleasant, charming, flattering"
 
    "duae" "two"
@@ -5710,6 +5717,7 @@
    "effugiō, effugere, effūgī, effugitūrus" "to flee, escape"
 
    "effūsus" "having been poured out"
+   "effunde" "pour out!"
    "effundō, effundere, effūdī, effūsus" "to pour out"
    "effūdisset" "he (might) have had poured out"
    "effūdissent" "they (might) have had poured out"
