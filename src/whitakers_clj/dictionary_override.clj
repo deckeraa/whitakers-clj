@@ -12792,6 +12792,7 @@
    "refugium" "refuge"
    "refugium, refugiī" "refuge"
 
+   "rēgālem" "royal"
    "rēgālī" "regal, royal"
    "rēgālia" "regal, royal"
    "rēgāle, rēgālis" "regal, royal"
@@ -14366,6 +14367,9 @@
    "subāctum" "having been subjugated, conquered"
    "subigō, subigere, subēgī, subāctus" "to subjugate, conquer"
 
+   "subīre" "to undergo, endure"
+   "subeō, subīre, subivī(iī), subitus" "to undergo, endure"
+
    "subitāneum" "suddenly"
    "subitāneus, subitānea, subitāneum" "suddenly"
 
@@ -14554,6 +14558,7 @@
 
    "superiōribus" "higher"
    "superiōre" "higher, being above"
+   "superiōrem" "higher, being above"
    "superiōrēs" "higher"
    "suprēmīs" "highest"
    "superus, supera -um, superior -or -us, suprēmus -a -um" "upper, being above"
@@ -14593,6 +14598,9 @@
    "surget" "he will lift"
    "surrēxērunt" "they raised up"
    "surgō, surgere, surrēxī, surrēctus" "to rise, to lift"
+
+   "suriam" "Syria"
+   "Suria, Suriae" "Syria"
    
    "suscepta" "having been undertaken"
    "suscipe" "undertake!"
@@ -14643,6 +14651,9 @@
 
    "synodus" "synod (a religious council)"
    "synodus, synodī" "synod (a religious council)"
+
+   "syria" "Syria"
+   "Syria, Syriae" "Syria"
    
    "tabula" "tablet"
    "tabulā" "tablet"
@@ -14768,6 +14779,7 @@
    "teneō, tenēre, tenuī, tentus" "to hold, to keep"
    "tenēret" "he might hold"
    "tenuerant" "they had had"
+   "teneō" "I hold, keep"
    
    "tenebrōsus" "dark"
    "tenebrōsus, tenebrōsa, tenebrōsum" "dark"
