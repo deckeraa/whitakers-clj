@@ -2513,7 +2513,8 @@
    "audītō" "having been heard"
    "audītus" "listening, hearing"
    "audītus, audītūs" "listening, hearing"
-   
+
+   "abstulimus" "we carried away"
    "abstulisset" "he (might) have carried away"
    "abstulit" "he carried away"
    "abstulērant" "they had carried away"
@@ -6985,6 +6986,7 @@
    "gaudēns" "rejoicing"
    "gaudentēs" "rejoicing"
    "gaudet" "he rejoices"
+   "gavīsī" "having been rejoiced"
    "gavīsus" "having been rejoiced"
    "gaudeō, gaudēre, gavīsus sum" "to rejoice"
 
@@ -7686,6 +7688,7 @@
    "imperāverat" "he had commanded"
    "imperāvisset" "he (might) have had commanded"
    "imperāvit" "he commanded"
+   "imperent" "they might command"
    "imperō, imperāre, imperāvī, imperātus" "to command"
 
    "imperītī" "unfamiliar, unskilled"
@@ -8845,6 +8848,7 @@
    "legiō, legiōnis" "legion"
 
    "legēbantur" "they were being read"
+   "legendae" "reading"
    "legendum" "reading"
    "lēgistī" "you read"
    "legitur" "is read"
@@ -9106,6 +9110,10 @@
    "lūx" "light"
    "lūcis" "light"
    "lūx, lūcis" "light"
+
+   "luxuria"  "luxury"
+   "luxuriam" "luxury"
+   "luxuria, luxuriae" "luxury"
 
    "maerēbat" "he was mourning"
    "maerens" "mourning"
@@ -9475,6 +9483,7 @@
    "mīlite" "soldier"
    "mīlitem" "soldier"
    "mīlitēs" "soldiers"
+   "mīlitī" "soldier"
    "mīlitis" "of a soldier"
    "mīlitibus" "soldiers"
    "mīlitum" "of soldiers"
@@ -10163,6 +10172,10 @@
 
    "notanda" "writing, observing"
    "notō, notāre, notāvī, notātus" "to write, to observe"
+
+   "notārium" "stenographer, person who writes down another's dictation"
+   "notārius" "stenographer, person who writes down another's dictation"
+   "notārius, notāriī" "stenographer, person who writes down another's dictation"
 
    "nōta" "known"
    "nōtīs" "known"
@@ -11162,6 +11175,7 @@
 
    "perficiendum" "completing"
    "perfēcissent" "they (might) have had finished"
+   "perfecta" "having been accomplished"
    "perfectīs" "having been accomplished"
    "perficere" "to finish, to accomplish"
    "perficiō, perficere, perfēcī, perfectus" "to finish, to accomplish"
