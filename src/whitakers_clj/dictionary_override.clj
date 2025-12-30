@@ -7873,6 +7873,9 @@
    "incurvō, incurvāre, incurvāvī, incurvātus" "to make crooked, to bend"
    "incurvātae" "being curved"
 
+   "indiam" "India"
+   "India, Indiae" "India"
+
    "indicā" "show! indicate!"
    "indicātam" "having been indicated, shown"
    "indicātum" "having been indicated, shown"
@@ -8590,6 +8593,7 @@
    "iūrābō" "I will swear"
    "iūrāret" "he might swear"
    "iūrāverit" "he might swear"
+   "iūrō" "I swear"
    "iūrāre" "to swear"
    "iūrō, iūrāre, iūrāvī, iūrātus" "to swear"
 
@@ -12247,6 +12251,9 @@
    "prōpugnātōris" "champion"
    "prōpugnātōre" "champion"
    "prōpugnātor, prōpugnātōris" "champion"
+
+   "prōpulsāre" "to drive back, repel, avert"
+   "prōpulsō, prōpulsāre, prōpulsāvī, prōpulsātus" "to drive back, repel, avert"
    
    "prōra" "prow"
    "prōra, prōrae" "prow"
@@ -12715,6 +12722,7 @@
    "redeuntem" "returning"
    "rediēns" "returning"
    "rediēre" "they returned"
+   "reditūrus" "to be returned"
    "redeō, redīre, redivī(iī), reditus" "to return, to go back"
 
    "reditiōnis" "return"
