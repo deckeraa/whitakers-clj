@@ -244,6 +244,7 @@
    "Corrozānam" "Khorasan, a region in modern-day Iran"
    "Corrozānum" "Khorasan, a region in modern-day Iran"
    "Corrozānī" "of Khorasan, a region in modern-day Iran"
+   "Corrozāniā" "Khorasan, a region in modern-day Iran (ablative case)"
    "cūrpalātium" "palace minister (cūrpalātius, accusative case)"
    "cūrpalātius" "palace minister (cūrpalātius, nominative case)"
    "Cōrpalātius" "palace minister (cūrpalātius, nominative case)"
@@ -379,6 +380,7 @@
    "fortiter" "strongly (adverb from fortis, forte)"
    "francī" "the Franks"
    "franciae" "of the Franks"
+   "Francigena" "those born of the Franks, Frankish-born"
    "Francigenae" "those born of the Franks, Frankish-born"
    "francīs" "the Franks"
    "francōrum" "of the Franks"
@@ -753,7 +755,7 @@
    "palam" "openly, publicly"
    "parce" "Pardon! Forgive! Singular imperative from parcō, parcere, pepercī, parsum"
    "parem" "equal, sing. masc. or fem. acc. from pār"
-   "pārentēs" "parents"
+   "pārentēs" "parents; plural masculine nominative or accusative from pārentēs, pārentium (which only has plural forms)"
    "pārentibus" "parents (ablative or dative case)"
    "pariter" "equally, together"
    "parte" "part; singular feminine ablative from pars, partis"
@@ -2930,6 +2932,7 @@
    "cālīgō, cālīginis" "fog, mist"
 
    "calīphā" "caliph, loanword from Arabic"
+   "calīphae" "caliph's, loanword from Arabic"
    "calīpha, calīphae" "caliph, loanword from Arabic"
 
    "callidē" "cleverly"
@@ -3292,6 +3295,10 @@
    "cētī" "large sea animal, whale, shark, dolphin"
    "cētus, cētī" "large sea animal, whale, shark, dolphin"
 
+   "charta" "sheet of papyrus"
+   "chartās" "sheets of papyrus"
+   "charta, chartae" "sheet of papyrus"
+
    "chorda" "string"
    "chordae" "string's"
    "chorda, chordae" "string"
@@ -3579,6 +3586,10 @@
    "coicere" "to throw, to guess"
    "coicī" "to be thrown together, to be guessed"
    "coiciō, coicere, coiēcī, coiectus" "to throw, to guess"
+
+   "cōlāta" "having been filtered, strained"
+   "cōlāre" "to filter, strain"
+   "cōlō, cōlāre, cōlāvī, cōlātus" "to filter, strain"
 
    "colēbant" "they were worshiping"
    "coluit" "he worshipped"
@@ -3933,7 +3944,7 @@
    "cōnfīdentēs" "trusting, believing"
    "cōnfīdat" "he (might) trust"
    "cōnfīdēbant" "they were trusting, believing"
-   "cōnfīdunt" "they trust, believeo"
+   "cōnfīdunt" "they trust, believe"
    "cōnfīdō, cōnfīdere, cōnfīsus sum" "to trust, believe"
    
    "confinibus" "bordering"
@@ -3978,6 +3989,10 @@
    "cōnfugit" "he flees"
    "cōnfūgit" "he fled"
    "cōnfugiō, cōnfugere, cōnfūgī, cōnfugitūrus" "to flee"
+
+   "congaudeant" "they might rejoice together"
+   "congaudēre" "to rejoice together"
+   "congaudeō, congaudēre, congavīsus" "to rejoice together"
 
    "congregāvit" "he gathered"
    "congregāre" "to congregate, gather"
@@ -4107,7 +4122,7 @@
    "cōnsortiō" "fellowship"
    "cōnsortiō, cōnsortiōnis" "fellowship"
 
-   "cōnspectum" "having bbeen observed"
+   "cōnspectum" "having been observed"
    "cōnspēxerant" "they had observed"
    "cōnspēxerat" "he had observed"
    "cōnspiciēbant" "they were observing"
@@ -5238,6 +5253,7 @@
    "discēdere" "to depart"
    "discēdō, discēdere, discessī, discessus" "to depart"
 
+   "dīscant" "they might learn"
    "didicit" "he learned"
    "dīsceret" "he might learn"
    "dīscō, dīscere, didicī, dīscitus" "to learn"
@@ -5404,6 +5420,7 @@
    "dabit" "he will give"
    "darētur" "he was being given"
    "dederat" "he had given"
+   "dent" "they might give"
    "dō, dare, dedī, datus" "to give (irregular)"
 
    "docēbant" "they were teaching"
@@ -8683,7 +8700,7 @@
    "lampas, lampadis" "lamp"
    "lampadibus" "lamps"
 
-   "lanceam" "lances, long spears"
+   "lanceam" "lance, long spear"
    "lanceās" "lances, long spears"
    "lancea, lanceae" "lance, long spear"
 
