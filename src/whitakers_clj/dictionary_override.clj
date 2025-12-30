@@ -6459,6 +6459,7 @@
    "feriō, ferīre, -, -" "to hit, strike, kill"
 
    "ferōcēs" "wild, bold, defiant"
+   "ferōcī" "wild, bold, defiant"
    "ferōciter" "ferociously, wildly, defiantly"
    "ferōx" "wild, bold, defiant"
    "ferōx, (gen.), ferōcis" "wild, bold, defiant"
@@ -6988,6 +6989,10 @@
    
    "furcae" "fork"
    "furca, furcae" "fork"
+
+   "furiīs" "frenzies, furies"
+   "furia" "frenzy, fury"
+   "furia, furiae" "frenzy, fury"
 
    "furōrem" "frenzy, rage, madness"
    "furor" "frenzy, rage, madness"
@@ -8170,6 +8175,9 @@
    "inquīsītiōnis" "inquiry"
    "inquīsītiō, inquīsītiōnis" "inquiry"
 
+   "īnsānīs" "insane, insanities"
+   "īnsānus, īnsāna -um, īnsānior -or -us, īnsānissimus -a -um" "insane"
+
    "īnscius" "ignorant, unknown"
    "īnscius, īnscia, īnscium" "ignorant, unknown"
 
@@ -8476,6 +8484,7 @@
    "invocant" "they invoked"
    "invocās" "you invoke"
    "invocātō" "having been invoked"
+   "invocāvērunt" "they invoked"
    "invocāre" "to invoke"
    "invocō, invocāre, invocāvī, invocātus" "to invoke"
    
@@ -8728,6 +8737,7 @@
    "laederet" "he struck, wounded"
    "laeseris" "you will strike"
    "laedere" "to strike, to wound"
+   "laedī" "to be struck, wounded"
    "laedō, laedere, laesī, laesus" "to strike, to wound"
 
    "laesiō" "hurt, harm, injury"
@@ -9385,6 +9395,9 @@
 
    "māteriēs" "material, substance"
    "māteriēs, māteriēī" "material, substance"
+
+   "māterna" "motherly"
+   "māternus, māterna, māternum" "motherly"
 
    "mātrimōnium" "marriage"
    "mātrimōniō" "marriage"
