@@ -9763,6 +9763,7 @@
    "monastērium" "monastery"
    "monastērium, monastēriī" "monastery"
 
+   "monita" "warnings, having been warned"
    "monēns" "warning"
    "monente" "warning"
    "monēre" "to warn"
@@ -10136,6 +10137,7 @@
    "nequīvērunt" "they were unable"
    "nequīvimus" "we were unable"
    "nequīvit" "he was unable"
+   "nequeunt" "they are unable"
    "nequeō, nequīre, nequivī(iī), nequitus" "to be unable"
 
    "nescīmus" "we do not know"
@@ -10279,7 +10281,8 @@
    "novitāte" "novelty"
    "novitātis" "novelty"
    "novitās, novitātis" "novelty"
-   
+
+   "nōvērunt" "they learned, knew"
    "nōvistī" "you learned"
    "nōvimus" "we learned"
    "nōscō, nōscere, nōvī, nōtus" "to learn"
@@ -10998,7 +11001,8 @@
 
    "pasta" "paste"
    "pasta, pastae" "paste"
-   
+
+   "pāstor" "shepherd, pastor"
    "pāstōre" "shepherd, pastor"
    "pāstōrem" "shepherd, pastor"
    "pāstor, pāstōris" "shepherd, pastor"
@@ -11338,6 +11342,7 @@
    "permīsit" "he allowed, permitted"
    "permittam" "I will permit"
    "permitteret" "he might permit"
+   "permittit" "he permits"
    "permittite" "permit! allow!"
    "permitte" "permit! allow!"
    "permittō, permittere, permīsī, permissus" "to permit, to allow"
@@ -12285,6 +12290,7 @@
 
    "prophēta"   "prophet"
    "prophētā"   "prophet"
+   "prophētae" "prophets"
    "prophētam"  "prophet"
    "prophētia"  "prophet"
    "prophētiae" "prophet"
