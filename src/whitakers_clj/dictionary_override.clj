@@ -12350,6 +12350,10 @@
    "prostrāverat" "he had struck down"
    "prosternō, prosternere, prostrāvī, prostrātus" "to prostrate"
 
+   "prōtēctiō" "protection"
+   "prōtēctiōne" "protection"
+   "prōtēctiō, prōtēctiōnis" "protection"
+
    "prōtēctus" "having been covered, protected"
    "prōtegere" "to cover, protect"
    "prōtegō, prōtegere, prōtēxī, prōtēctus" "to cover, protect"
@@ -12833,6 +12837,7 @@
    "referēbant" "they were bringing back"
    "referrentur" "they (might) be being reported"
    "referre" "to bring back, to report"
+   "refers" "you bring back, report"
    "refert" "he brings back"
    "referō, referre, rettulī, relātus" "to bring back, to report"
 
@@ -15525,6 +15530,7 @@
    "valēret" "he might have been healthy, able, strong"
    "valērent" "they were healthy, able, strong"
    "valeātis" "you are healthy, able, strong"
+   "valent" "they are able"
    "valuērunt" "they were able"
    "valeō, valēre, valuī, valitūrus" "to be healthy, able, strong"
 
@@ -15883,6 +15889,7 @@
    "vigilandum" "waking up"
    "vigilant" "they keep watch"
    "vigilantēs" "keeping watch, waking up"
+   "vigilat" "he keeps watch"
    "vigilāre" "to wake up"
    "vigilō, vigilāre, vigilāvī, vigilātus" "to be awake, to watch for"
 
