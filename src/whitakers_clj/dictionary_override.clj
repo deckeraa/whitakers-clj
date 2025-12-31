@@ -355,6 +355,7 @@
    "exercitū" "army; singular masculine ablative from exercitus, exercitūs"
    "exercitum" "army; singular masculine accusative from exercitus, exercitūs"
    "exercitus" "army; singular masculine nominative from exercitus, exercitūs"
+   "exerta" "having been stretched out, brought forth; singular feminine nominative past passive participle from exere, a variant spelling of exserō"
    "expectāte" "Await! plural imperative from expectō, expectāre, expectāvī, expectātus"
    "expedītīs" "lightly-armed soldiers; dative or ablative case"
    "expedītior" "freer, more unburdened"
@@ -11422,6 +11423,7 @@
    "persequētur" "he will follow"
    "persequuntur" "they follow"
    "persequēbāmur" "we were following"
+   "persecūtūrī" "following (in the future)"
    "persequor, persequī, persecūtus sum" "to follow (deponent)"
    
    "persevērō, persevērāre, persevērāvī, persevērātus" "to persevere"
@@ -14490,6 +14492,7 @@
    "subīre" "to undergo, endure"
    "subeō, subīre, subivī(iī), subitus" "to undergo, endure"
 
+   "subitāneā" "suddenly"
    "subitāneum" "suddenly"
    "subitāneus, subitānea, subitāneum" "suddenly"
 
@@ -15010,6 +15013,7 @@
    "timentēs" "fearing"
    "timeās" "you fear"
    "timēbat" "he was fearing"
+   "timeō" "I fear"
    "timuisse" "to have feared"
    "timēre" "to fear"
    "timeō, timēre, timuī, -" "to fear"
@@ -15958,6 +15962,7 @@
    "vīcerint" "they will have conquered"
    "vincēbantur" "they were conquered"
    "vīctī" "having been conquered"
+   "vincent" "they will conquer"
    "vincere" "to conquer"
    "vincō, vincere, vīcī, victus" "to conquer"
 
