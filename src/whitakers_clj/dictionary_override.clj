@@ -14204,6 +14204,10 @@
    "soror" "sister"
    "soror, sorōris" "sister"
 
+   "sortēs" "lots (for casting), fates"
+   "sors" "lot (for casting), fate"
+   "sors, sortis" "lot (for casting), fate"
+
    "spargō, spargere, sparsī, sparsus" "to scatter, to sprinkle"
    "sparsa" "having been scattered"
    
@@ -14232,6 +14236,9 @@
    "speculātor" "spy, scout"
    "speculātōrēs" "spies, scouts"
    "speculātor, speculātōris" "spy, scout"
+
+   "speculandō" "exploring, spying"
+   "speculor, speculārī, speculātus sum" "to explore, spy"
 
    "speculātōria" "for spying or scouting"
    "speculātōrius, speculātōria, speculātōrium" "for spying or scouting"
@@ -15991,6 +15998,7 @@
    "vincēbantur" "they were conquered"
    "vīctī" "having been conquered"
    "vincent" "they will conquer"
+   "vīctūra" "conquering"
    "vincere" "to conquer"
    "vincō, vincere, vīcī, victus" "to conquer"
 
@@ -16187,6 +16195,10 @@
    "vellētis" "you might have wished"
    "voluissem" "I had wished"
    "voluistī" "you wanted"
+
+   "voluminibus" "books, volumes"
+   "volūmen" "book, volume"
+   "volūmen, volūminis" "book, volume"
    
    "vōcem" "voice"
    "vōx" "voice"
