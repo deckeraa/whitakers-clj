@@ -3136,6 +3136,7 @@
    "carrus, carrī" "four-wheeled wagon"
 
    "cāra" "beloved"
+   "cārissima" "beloved"
    "cārissime" "O beloved"
    "cārissimī" "beloved"
    "cārum" "beloved"
@@ -7865,6 +7866,8 @@
    "inchoāvisset" "he (might) have had started"
    "inchoāvit" "he started"
    "inchoō, inchoāre, inchoāvī, inchoātus" "to begin, to set going, to establish"
+
+   "incēperis" "you might have started"
    "incipere" "to start"
    "incipiēns" "starting"
    "incipiēbat" "he was starting"
@@ -8179,6 +8182,7 @@
    "inprimis" "you imprint, stamp"
    "inprimō, inprimere, inpressī, inpressus" "to imprint, stamp"
 
+   "inquam" "I say"
    "inquit" "he says, he said"
    "inquiam, -, -" "to say"
 
@@ -8368,6 +8372,7 @@
    "intexō, intexere, intexuī, intextum" "to weave into, embroider"
 
    "intima" "inmost"
+   "intimīs" "inmost"
    "intimus, intima, intimum" "inmost"
    
    "intrābis" "you will enter"
@@ -8621,6 +8626,8 @@
    "jūstus, jūsta -um, jūstior -or -us, jūstissimus -a -um" "just"
 
    "iūdicābat" "he was judging, he was deciding"
+   "iūdicat" "he judges"
+   "iūdicet" "he (might) judge"
    "iūdicāvērunt" "they judged"
    "iūdicāvit" "he judged"
    "iūdicāre" "to judge"
@@ -9344,7 +9351,8 @@
    "manēret" "it remained"
    "mānsisse" "to have remained"
    "mānsimus" "we remained"
-   
+
+   "manifēsta" "having been revealed"
    "manifestāvit" "he revealed"
    "manifestō, manifestāre, manifestāvī, manifestātus" "to reveal"
    
@@ -9415,6 +9423,7 @@
    "māteriēs, māteriēī" "material, substance"
 
    "māterna" "motherly"
+   "māternīs" "motherly"
    "māternus, māterna, māternum" "motherly"
 
    "mātrimōnium" "marriage"
@@ -9831,6 +9840,7 @@
    "moriēris" "you will die"
    "moritur" "he dies"
    "moriēmur" "he will die"
+   "moritūrus" "dying (in the future)"
    "morior, morī, mortuus sum" "to die"
    
    "mors, mortis" "death"
@@ -10584,6 +10594,7 @@
    "odōre" "odor, scent"
    "odor, odōris" "odor, scent"
 
+   "offendentem" "offending, annoying"
    "offendere" "to offend, annoy"
    "offendō, offendere, offendī, offēnsus" "to offend, annoy"
 
@@ -11121,6 +11132,7 @@
    "pavīmentum, pavīmentī" "floor, pavement, tiling"
    
    "pavor" "fear, trembling"
+   "pavōre" "fear, trembling"
    "pavor, pavōris" "fear, trembling"
    
    "peccātōrī" "sinner"
