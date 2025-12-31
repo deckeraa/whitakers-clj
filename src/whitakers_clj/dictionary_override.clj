@@ -11619,6 +11619,10 @@
 
    "plancum" "eagle"
    "plancus, plancī" "eagle"
+
+   "planēta" "planet"
+   "planētās" "planets"
+   "planēta, planētae" "planet"
    
    "plānitia" "plain"
    "plānitiae" "plain"
@@ -12530,6 +12534,7 @@
    "pugnō, pugnāre, pugnāvī, pugnātus" "to fight"
 
    "pulchra" "beautiful"
+   "pulcherrimā" "very beautiful"
    "pulcherrimam" "very beautiful"
    "pulcher, pulchra -um, pulchrior -or -us, pulcherrimus -a -um" "beautiful"
 
@@ -12981,6 +12986,7 @@
    "rēgnantibus" "reigning"
    "rēgnat" "he reigns"
    "regerent" "they might have ruled"
+   "rēgnātūra" "reigning"
    "rēgnāre" "to reign"
    "rēgnō, rēgnāre, rēgnāvī, rēgnātus" "to reign"
 
@@ -13046,6 +13052,7 @@
    "remānserit" "they remained"
    "remānsimus" "we remained"
    "remaneat" "he might remain"
+   "remaneam" "I might remain"
    "remaneō, remanēre, remānsī, remānsus" "to remain"
 
    "remeāvit" "he returned"
@@ -13150,6 +13157,7 @@
    "resonābant" "they were resounding"
    "resonō, resonāre, resonāvī, resonātus" "to resound"
 
+   "respēxī" "I looked back, considered"
    "respiciēns" "looking back"
    "respicere" "to look back"
    "respiciō, respicere, respēxī, respectus" "to look back"
@@ -13307,6 +13315,9 @@
    "rigōrem" "rigor, roughness"
    "rigōris" "rigor, roughness"
    "rigor, rigōris" "rigor, roughness"
+
+   "rīmandō" "searching, exploring"
+   "rīmor, rīmārī, rīmātus sum" "so search, explore"
    
    "rīpa" "bank, shore"
    "rīpam" "bank, shore"
