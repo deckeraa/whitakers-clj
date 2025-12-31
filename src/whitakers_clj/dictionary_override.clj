@@ -11243,10 +11243,12 @@
    "percutiō, percutere, percussī, percussus" "to strike, to beat"
    "percutientēs" "striking, beating"
 
+   "perdēs" "you will lose"
    "perdidisse" "to have lost"
    "perdidit" "he lost"
    "perditā"  "lost"
    "perditum" "lost"
+   "perditūrus" "losing (in the future)"
    "perdāmus" "we might be losing"
    "perdō, perdere, perdidī, perditus" "to lose"
 
@@ -11997,6 +11999,7 @@
    
    "praesentia, praesentiae" "present time"
    "praesentiam" "present time"
+   "praesentiarum" "of present times"
 
    "praesidium" "defence"
    "praesidiī" "defence"
@@ -12535,6 +12538,10 @@
    "pūnicīs" "Carthaginian"
    "Pūnicus, Pūnica, Pūnicum" "Carthaginian"
 
+   "pūnit" "he punishes"
+   "pūnīre" "to punish"
+   "pūniō, pūnīre, pūnīvī, pūnītus" "to punish"
+
    "puppim" "stern, poop (of a ship)"
    "puppis, puppis" "stern, poop (of a ship)"
 
@@ -12591,6 +12598,7 @@
    "quaesīvistī" "you sought"
    "quaerāmus" "let us seek"
    "quaesīvimus" "we sought"
+   "quaesō" "I seek, ask for"
    "quaerō, quaerere, quaesīvī, quaesītus" "to seek, to ask for"
 
    "quaestōre"  "quaestor, treasurers"
@@ -13174,6 +13182,7 @@
    "retinenda" "retaining"
    "retinēbant" "they were holding back, they were retaining"
    "retinent" "they hold back, retain"
+   "retinet" "they hold back, retain"
    "retineō, retinēre, retinuī, retentus" "they were holding back, they were retaining"
 
    "retractantēs" "withdrawing"
