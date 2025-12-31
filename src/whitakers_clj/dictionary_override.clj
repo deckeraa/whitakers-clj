@@ -1843,6 +1843,7 @@
    "amāret" "he loved"
    "amāvit" "he loved"
    "amāverās" "you had loved"
+   "amet" "he might love"
    "amō, amāre, amāvī, amātus" "to love"
 
    "amārā"  "bitter, harsh"
@@ -1885,6 +1886,7 @@
    "āmīserat" "he had lost, dismissed"
    "āmīsit" "he lost, dismissed"
    "āmissīs" "having been lost, dismissed"
+   "āmittēs" "you will lose"
    "āmittit" "he lost, dismissed"
    "āmittere" "to lose, to dismiss"
    "āmittō, āmittere, āmīsī, āmissus" "to lose, to dismiss"
@@ -3050,6 +3052,7 @@
    "capere" "to seize, to take hold"
    "capta" "having been seized"
    "captus" "having been seized"
+   "captūrī" "having been taken"
    "captūrōs" "having been taken"
    "cēpērunt" "they took"
    "cēpimus" "we took"
@@ -5507,6 +5510,7 @@
    "dolor, dolōris" "pain, sorrow"
 
    "dolēbat" "he was sorrying, grieving, feeling pain"
+   "dolēns" "sorrying, grieving"
    "dolentēs" "sorrying, grieving"
    "doluērunt" "they were sorrying, grieving"
    "dolēre" "to sorry, grieve, feel pain"
@@ -5988,6 +5992,7 @@
 
    "ēvertit" "he overturned, destroyed"
    "ēvertere" "to overturn, destroy"
+   "ēverteris" "you will have overturned, destroyed"
    "ēvertō, ēvertere, ēvertī, ēversus" "to overturn, destroy"
    
    "ēvigilāns" "awakening"
