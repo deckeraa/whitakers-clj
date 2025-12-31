@@ -871,7 +871,7 @@
    "quod" "what; singular neuter nom. or acc. of qui"
    "quō" "what; singular ablative from quī"
    "quōmodo" "how, by which means"
-   "quoniam" "after"
+   "quoniam" "since, after"
    "quōrum" "of whom; plural masc or neut. genitive from quī"
    "quōs" "whom; plural masculine accusative from quī"
    "quoūsque" "how far? until when?"
@@ -2464,6 +2464,10 @@
    "assūmptiōne" "assumption, taking, receiving"
    "assūmptiō, assūmptiōnis" "assumption, taking, receiving"
 
+   "astra" "stars"
+   "astrum" "star"
+   "astrum, astrī" "star"
+
    "astūtus" "astute, sly"
    "astūtus, astūta -um, astūtior -or -us, astūtissimus -a -um" "astute, sly"
 
@@ -2915,6 +2919,7 @@
    "caelī" "heaven, sky"
    "caelīs" "heavens, skies"
    "caelō" "heaven, sky"
+   "caelōrum" "of the heavens, skies"
    "caelus" "heaven, sky"
    "caelus, caelī" "heaven, sky"
 
@@ -5091,6 +5096,7 @@
    "dēvictī" "having been conquered entirely"
    "dēvictīs" "having been conquered entirely"
    "dēvictōs" "having been conquered entirely"
+   "dēvictūra" "conquering entirely"
    "dēvincere" "to conquer entirely"
    "dēvincō, dēvincere, dēvīcī, dēvictus" "to conquer entirely"
    
@@ -5986,6 +5992,7 @@
    "ēvēnit" "it happened"
    "ēvenīret" "it (might) have been happening"
    "ēvēnerit" "it happened"
+   "ēventūra" "happening"
    "ēvenīre" "to happen"
    "ēveniō, ēvenīre, ēvēnī, ēventus" "to happen"
 
@@ -9216,6 +9223,9 @@
    "maereō, maerēre, -, -" "to mourn"
    "maereō, maerēre, maeruī" "to mourn"
 
+   "maesta" "sad, mournful"
+   "maestus, maesta -um, maestior -or -us, maestissimus -a -um" "sad, mournful"
+
    "magus" "magician"
    "magī" "magician"
    "magum" "magician"
@@ -10736,6 +10746,10 @@
    "ōrātōrium" "oratory, building for prayer"
    "ōrātōrium, ōrātōriī" "oratory, building for prayer"
 
+   "orbāta" "having been deprived"
+   "orbāre" "to deprive, bereave of parents"
+   "orbō, orbāre, orbāvī, orbātus" "to deprive, bereave of parents"
+
    "orbem" "sphere, orbit, circle, ring"
    "orbis" "sphere, orbit, circle, ring"
    "orbis, orbis" "sphere, orbit, circle, ring"
@@ -10880,6 +10894,9 @@
    "pāgānōs" "peasant, villager, rustic"
    "pāgānus" "peasant, villager, rustic"
    "pāgānus, pāgānī" "peasant, villager, rustic"
+
+   "pāginā" "written page"
+   "pāgina, pāginae" "written page"
 
    "pāgōs" "district, region"
    "pāgum" "district, region"
@@ -13184,7 +13201,7 @@
    "retinenda" "retaining"
    "retinēbant" "they were holding back, they were retaining"
    "retinent" "they hold back, retain"
-   "retinet" "they hold back, retain"
+   "retinet" "he holds back, retains"
    "retineō, retinēre, retinuī, retentus" "they were holding back, they were retaining"
 
    "retractantēs" "withdrawing"
