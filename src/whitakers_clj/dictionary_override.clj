@@ -1638,6 +1638,8 @@
    "agitō, agitāre, agitāvī, agitātus" "to act, to put in motion"
    "āgnita" "having been recognized, having been acknowledged"
    "agnōscerētur" "it was acknowledged"
+   "āgnōscis" "you recognize, realize, acknowledge"
+   "āgnōscō" "I recognize, realize, acknowledge"
    "āgnōscō, āgnōscere, āgnōvī, āgnitus" "to recognize, to realize, to acknowledge"
    "āgnōvit" "he recognized, he realized"
 
@@ -2905,6 +2907,7 @@
    "caecitās, caecitātis" "blindness"
 
    "caderent" "they might fall"
+   "cecidī" "I fell"
    "cecidit" "he fell"
    "cecidēre" "they fell"
    "cecidērunt" "they fell"
@@ -3296,6 +3299,7 @@
    "cernentēs" "seeing, discerning"
    "cernentibus" "discerning"
    "cernitur" "it is discerned"
+   "cernō" "I see, discern"
    "cernō, cernere, crēvī, crētus" "to sift, to see, to discern, to decide"
 
    "certā" "certain"
@@ -4675,6 +4679,7 @@
    "cūstōdiēbat" "he was guarding"
    "custōdīre" "to guard, to watch over"
    "custōdiunt" "they guard"
+   "cūstōdiēbāmus" "we were guarding"
    "custōdiēbant" "they were guarding"
    "custōdiendum" "guarding"
    "custōdīrent" "they were guarding"
@@ -5531,6 +5536,7 @@
    "dolēbat" "he was sorrying, grieving, feeling pain"
    "dolēns" "sorrying, grieving"
    "dolentēs" "sorrying, grieving"
+   "dolentibus" "sorrying, grieving"
    "doluērunt" "they were sorrying, grieving"
    "dolēre" "to sorry, grieve, feel pain"
    "doleō, dolēre, doluī, dolitus" "to sorry, grieve, feel pain"
@@ -7115,6 +7121,9 @@
    "genetricis" "mother, ancestress"
    "genetrīx, genetricis" "mother, ancestress"
 
+   "genitrice" "mother, ancestress"
+   "genitrīx, genitricis" "mother, ancestress"
+
    "genāva" "Geneva, a city in Gaul"
    "genāvam" "Geneva, a city in Gaul"
    "genāva, genēvae" "Geneva, a city in Gaul"
@@ -7605,6 +7614,8 @@
    "iacuit" "he layed"
    "iaciēbant" "they were throwing"
    "jaceō, jacēre, jacuī, jacitūs" "to lay"
+
+   "iacērem" "I was laying"
    "iacēre" "to lay"
    "iaceō, iacēre, iacuī, iacitūs" "to lay"
    
@@ -8295,6 +8306,7 @@
    
    "integer" "whole, intact, untouched"
    "integer, integra -um, integrior -or -us, integerrimus -a -um" "whole, intact, untouched"
+   "integra"  "whole, intact, untouched"
    "integrōs" "whole, intact, untouched"
    "integrum" "whole, intact, untouched"
 
@@ -9357,6 +9369,7 @@
    "mandō, mandāre, mandāvī, mandātus" "to entrust"
 
    "mandūcant" "they eat"
+   "mandūcārēmus" "we were chewing"
    "mandūcāvī" "I chewed, I ate"
    "mandūcō, mandūcāre, mandūcāvī, mandūcātus" "to chew, to eat"
    
@@ -9444,6 +9457,7 @@
    "māter" "mother"
    "mātre" "mother"
    "mātrem" "mother"
+   "mātris" "mother"
    "māter, mātris" "mother"
 
    "māteria" "matter"
@@ -12151,6 +12165,7 @@
    "prīncipātus, prīncipātūs" "sovereignty, empire"
    
    "prīnceps"  "first man, prince"
+   "prīncipe"  "first man, prince"
    "prīncipem" "first man, prince"
    "prīncipēs" "first men, chiefs"
    "prīncipī"  "first man, prince"
