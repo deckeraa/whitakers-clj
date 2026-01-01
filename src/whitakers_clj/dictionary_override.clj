@@ -317,7 +317,7 @@
    "eārum" "their; plural feminine genitive from is, ea, id"
    "eās" "their; plural feminine accusative from is, ea, id"
    "ebdomadās" "weeks"
-   "eīs" "to them; plural dative or ablative from is, ea, id"
+   "eīs" "them; plural dative or ablative from is, ea, id"
    "Euboniā" "The Isle of Man, an island between Great Britain and Ireland."
    "euboniā" "The Isle of Man, an island between Great Britain and Ireland."
    "euboniam" "The Isle of Man, an island between Great Britain and Ireland (accusative case)."
@@ -5079,7 +5079,8 @@
    "dētruncāvērunt" "they cut off, behead"
    "dētruncāre" "to cut off, behead"
    "dētruncō, dētruncāre, dētruncāvī, dētruncātus" "to cut off, behead"
-   
+
+   "diī" "gods"
    "deum" "god"
    "deus" "god"
    "deus, deī" "god, diety"
@@ -7933,6 +7934,7 @@
    "incrēdibilis" "incredible"
    "incrēdibilis, incrēdibilis, incrēdibile" "incredible"
 
+   "incrēdula" "incredulous, unbelieving"
    "incrēdulus" "incredulous, unbelieving"
    "incrēdulus, incrēdula, incrēdulum" "incredulous, unbelieving"
 
@@ -9002,6 +9004,7 @@
    "līberā" "liberate!"
    "līberābit" "he will liberate"
    "līberandī" "liberating"
+   "līberant" "they liberate"
    "līberātus" "having been liberated"
    "līberāvistī" "you liberated"
    "līberāvit" "he liberated"
@@ -9337,7 +9340,8 @@
    "mandārent" "they might entrusted"
    "mandāre" "to entrust"
    "mandō, mandāre, mandāvī, mandātus" "to entrust"
-   
+
+   "mandūcant" "they eat"
    "mandūcāvī" "I chewed, I ate"
    "mandūcō, mandūcāre, mandūcāvī, mandūcātus" "to chew, to eat"
    
@@ -9575,6 +9579,7 @@
    "metus" "fear"
    "metus, metūs" "fear"
 
+   "metuenda" "fearing"
    "metuit" "he feared"
    "metuere" "to fear"
    "metuō, metuere, metuī, metūtus" "to fear"
@@ -9874,6 +9879,7 @@
    "mordeō, mordēre, momordī, morsus" "to bite"
 
    "mortālem" "mortal"
+   "mortālēs" "mortals"
    "mortālī"  "mortal"
    "mortālis, mortālis, mortāle" "mortal"
 
@@ -11755,6 +11761,10 @@
 
    "porcarius" "swineherd"
    "porcarius, porcariī" "swineherd"
+
+   "porcōs" "pigs"
+   "porcus" "pig"
+   "porcus, porcī" "pig"
    
    "portiō" "share, part, portion"
    "portiō, portiōnis" "share, part, portion"
@@ -12063,7 +12073,7 @@
    "praevertitur" "it is anticipated"
    "praevertere" "to anticipate"
    "praevertō, praevertere, praevertī, praeversus" "to anticipate"
-   
+   "prandiō"  "breakfast, meal"
    "prandium" "breakfast, meal"
    "prandium, prandiī" "breakfast, meal"
 
@@ -12216,6 +12226,7 @@
    "proeliābantur" "they were fighting"
    "proeliantur" "they fight"
    "proeliātī" "fighting"
+   "proeliandī" "of fighting"
    "proeliandō" "fighting"
    "proeliārī" "to fight"
    "proelior, proeliārī, proeliātus" "to fight"
@@ -13165,6 +13176,7 @@
    "respīrantem" "breathing"
    "respīrō, respīrāre, respīrāvī, respīrātus" "to breathe"
 
+   "respondēns" "responding"
    "respondeō" "I respond"
    "respondet" "he responds"
    "respondēbat" "he was responding"
