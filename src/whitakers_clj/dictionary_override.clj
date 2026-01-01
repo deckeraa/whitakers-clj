@@ -5271,6 +5271,7 @@
    "dīlātō, dīlātāre, dīlātāvī, dīlātātus" "to expand, prolong"
 
    "dīlēctiōne" "love"
+   "dīlēctiōnem" "love"
    "dīlēctiō, dīlēctiōnis" "love"
    
    "dīlēxī" "I loved"
@@ -11439,6 +11440,7 @@
    "permīscēre" "to mix together"
    "permīsceō, permīscēre, permīscuī, permīxtum" "to mix together"
 
+   "permīsī"  "I allowed, permitted"
    "permīsit" "he allowed, permitted"
    "permittam" "I will permit"
    "permitteret" "he might permit"
@@ -12123,6 +12125,9 @@
 
    "prāta" "meadows"
    "prātum, prātī" "meadow"
+
+   "prāvīs" "evil, crooked, wrong"
+   "pravus, prava, pravum" "evil, crooked, wrong"
 
    "premantur" "they are being overwhelmed"
    "premī" "to be pressed, to be overwhelmed"
