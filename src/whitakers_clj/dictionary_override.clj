@@ -1445,6 +1445,7 @@
    "adiūverat" "he had helped"
    "adiuvante" "helping"
    "adiuvet" "may he help"
+   "adiūvī" "I helped"
    "adiūvit" "he helped"
    "adiuvāre" "to help"
    "adiuvō, adiuvāre, adiūvī, adiūtus" "to help"
@@ -3362,6 +3363,7 @@
    "Chrīstus, Chrīstī" "Christ"
 
    "chrīstiānī" "Christians"
+   "chrīstiānīs" "Christians"
    "chrīstiānōrum" "of Christians"
    "chrīstiānōs" "Christians"
    "chrīstiānus, chrīstiānī" "Christian"
@@ -3961,8 +3963,12 @@
    "condere" "to build, to found"
    "condō, condere, condidī, conditus" "to build, to found"
 
+   "condoluī" "I condoled, sympathized"
+   "condoleō, condolēre, condoluī, condolītus" "to condole, sympathize"
+
    "conductae" "having been assembled"
    "conductam" "having been assembled"
+   "condūxī" "I assembled, led"
    "condūxit" "he assembled"
    "condūcēbant" "they were assembling"
    "condūceret" "they might assemble"
