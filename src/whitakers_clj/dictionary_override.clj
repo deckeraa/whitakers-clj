@@ -1387,6 +1387,7 @@
    "adipīscor, adipīscī, adeptum" "to gain, to obtain, to overtake"
 
    "adlātō" "having been brought to"
+   "adferrentur" "they might be brought"
    "adferō, adferre, adtulī, adlātus" "to bring to"
 
    "adficiēbantur" "they were being equipped, they were being affected"
@@ -1447,6 +1448,7 @@
    "adiuvet" "may he help"
    "adiūvī" "I helped"
    "adiūvit" "he helped"
+   "adiuvāret" "he might help"
    "adiuvāre" "to help"
    "adiuvō, adiuvāre, adiūvī, adiūtus" "to help"
 
@@ -1777,6 +1779,9 @@
    "alligāvissent" "they (might) have had tied"
    "alligāvit" "he tied"
    "alligō, alligāre, alligāvī, alligātus" "to bind, to tie"
+
+   "alma" "nourishing"
+   "almus, alma, almum" "nourishing"
 
    "alpīnārum" "Alpine"
    "Alpīnārum" "Alpine"
@@ -4521,6 +4526,8 @@
    "crēdēbāmus" "we were believing"
    "crēdendum" "believing"
    "crēdentēs" "believing"
+   "crēdātis" "you might believe"
+   "crēditis" "you believe"
    "crēdere" "to believe"
    "crēdō, crēdere, crēdidī, crēditus" "to believe"
 
@@ -6013,6 +6020,7 @@
    "ēvānuit" "it vanished"
    "ēvānēscō, ēvānēscere, ēvānuī, -" "to vanish"
 
+   "ēvangelia" "gospels"
    "ēvangeliō" "gospel"
    "ēvangelium" "gospel"
    "ēvangelium, ēvangeliī" "gospel"
@@ -6227,6 +6235,7 @@
 
    "expulsae" "having been driven out"
    "expulsī" "having been driven out"
+   "expulsīs" "having been driven out"
    "expulissent" "they had expelled"
    "expulsum" "having been driven out"
    "expulsus" "having been driven out"
@@ -8036,7 +8045,8 @@
    "inēbriātī" "having been made drunk"
    "inēbriāre" "to make drunk"
    "inēbriō, inēbriāre, inēbriāvī, inēbriātus" "to make drunk"
-   
+
+   "ineffābilia" "ineffable"
    "ineffābilis" "ineffable"
    "ineffābilis, ineffābilis, ineffābile" "ineffable"
 
@@ -10728,7 +10738,7 @@
    "oportere" "it is right/proper/necessary"
    "oportet, oportere, oportuit, -" "it is right/proper/necessary"
 
-   "oportunō" "opportune"
+   "oportūnō" "opportune"
    "oportunissimō" "very opportune"
    "oportūnus, oportūna -um, oportunior -or -us, oportunissimus -a -um" "opportune"
 
@@ -12127,7 +12137,7 @@
    "prātum, prātī" "meadow"
 
    "prāvīs" "evil, crooked, wrong"
-   "pravus, prava, pravum" "evil, crooked, wrong"
+   "prāvus, prāva, prāvum" "evil, crooked, wrong"
 
    "premantur" "they are being overwhelmed"
    "premī" "to be pressed, to be overwhelmed"
@@ -14709,8 +14719,10 @@
    "sulcō, sulcāre, sulcāvī, sulcātus" "to furrow, to plow"
 
    "erunt" "they will be"
+   "fuerō" "I will have been"
    "sum" "I am"
    "sum, esse, fuī, futūrus" "to be (irregular)"
+   
    "summitās, summitātis" "summit, top"
    "summitāte" "summit, top"
 
