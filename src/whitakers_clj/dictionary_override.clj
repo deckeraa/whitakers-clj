@@ -1356,6 +1356,7 @@
    "aciēs, aciēī" "battle line"
 
    "acquiēscās" "you might rest, relax"
+   "acquiēsceret" "he might rest, relax"
    "acquiēscere" "to rest, relax"
    "acquiēscō, acquiēscere, acquiēvī, acquiētus" "to rest, relax"
    
@@ -5049,6 +5050,10 @@
    "desiluit" "he jumped down"
    "desiliunt" "they jump down"
    "desiliō, desilīre, desiluī, desultus" "to jump down"
+
+   "dēsinam" "I will stop, leave off"
+   "dēsinere" "to stop, leave off"
+   "dēsinō, dēsinere, dēsīvī, dēsitus" "to stop, leave off"
 
    "dēspērāta" "desperate"
    "dēspērātus, dēspērāta, dēspērātum" "desperate"
@@ -9227,6 +9232,7 @@
    "maereō, maerēre, maeruī" "to mourn"
 
    "maesta" "sad, mournful"
+   "maestissima" "very sad, mournful"
    "maestus, maesta -um, maestior -or -us, maestissimus -a -um" "sad, mournful"
 
    "magus" "magician"
@@ -10721,6 +10727,10 @@
    "opus" "work, deed"
    "opus, operis" "work, deed"
 
+   "oppressiō" "pressing down, overthrow"
+   "oppressiōne" "pressing down, overthrow"
+   "oppressiō, oppressiōnis" "pressing down, overthrow"
+
    "oppressī" "having been oppressed"
    "oppressīs" "having been oppressed"
    "oppressus" "having been oppressed"
@@ -10983,6 +10993,7 @@
    "parāvērunt" "they prepared"
    "parat" "he prepares"
    "parent" "they prepare"
+   "parāvimus" "we prepared"
 
    "pepercit" "he spared, saved"
    "parcere" "to spare, to save"
