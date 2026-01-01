@@ -3706,6 +3706,7 @@
    "combūrentēs" "burning up"
    "combūrunt" "they burn up"
    "combūrere" "to burn up"
+   "combussērunt" "they had burned up"
    "combussimus" "we burned up"
    "combussit" "it burned up"
    "combūrō, combūrere, combussī, combustus" "to burn up"
@@ -4947,6 +4948,10 @@
    "dēmersī" "I submerged, I sank"
    "dēmergō, dēmergere, dēmersī, dēmersus" "to submerge, to sink"
 
+   "dēmissī" "having dropped, slipped out"
+   "dēmittere" "to drop, slip out"
+   "dēmittō, dēmittere, dēmīsī, dēmissus" "to drop, slip out"
+
    "dēmōnstrat" "he demonstrates"
    "dēmōnstrātum" "having been demonstrated"
    "dēmōnstrāveram" "I had demonstrated"
@@ -5676,6 +5681,10 @@
    "dūrius" "harder"
    "dūrum" "hard"
    "dūrus, dūra -um, dūrior -or -us, dūrissimus -a -um" "hard"
+
+   "dūrāverat" "it had endured"
+   "dūrāre" "to harden, endure"
+   "dūrō, dūrāre, dūrāvī, dūrātus" "to harden, endure"
 
    "duce" "leader"
    "ducem" "leader"
@@ -10081,6 +10090,10 @@
    "naufragiō" "shipwreck"
    "naufragium" "shipwreck"
    "naufragium, naufragiī" "shipwreck"
+
+   "nautīs" "sailors"
+   "nauta" "sailor"
+   "nauta, nautae" "sailor"
 
    "nāve" "boat"
    "nāvem" "boat"
@@ -14730,6 +14743,7 @@
    "supersum, superesse, superfuī, superfutūrus" "to be left over, to remain, to survive"
    "supersunt" "they are left over, they remain"
 
+   "supervenientēs" "overcoming"
    "superveniente" "overcoming"
    "supervēnerit" "you will have overcome"
    "supervēnerant" "they had overcame"
