@@ -9792,6 +9792,7 @@
    "mittentem" "sending"
    "mitteret" "he was sending"
    "mīserant" "they had sent"
+   "mittam" "I might send"
    "mittere" "to send"
    "mittō, mittere, mīsī, missus" "to send"
 
@@ -12368,6 +12369,7 @@
    
    "prōiēcit" "he threw down"
    "prōiectus" "having been thrown down"
+   "prōicite" "throw down!"
    "prōicere" "to throw down"
    "prōiciēbant" "they were throwing down"
    "prōiciunt" "they throw down"
@@ -13246,6 +13248,10 @@
    "respondit" "he responded"
    "respondēre" "to respond"
    "respondeō, respondēre, respondī, respōnsus" "to respond"
+
+   "responsoria" "responsory, a chant or anthem recited after a reading in a church service"
+   "responsorium" "responsories, chants or anthems recited after a reading in a church service"
+   "responsoria, responsoriae" "responsory, a chant or anthem recited after a reading in a church service"
    
    "respōnsum" "response"
    "respōnsum, respōnsī" "response"
@@ -13432,6 +13438,7 @@
 
    "rogābant" "they were asking"
    "rogāns" "asking"
+   "rogantēs" "asking"
    "rogāvērunt" "they asked"
    "rogāre" "to ask"
    "rogō, rogāre, rogāvī, rogātus" "to ask"
@@ -13741,6 +13748,9 @@
    "scāla" "ladder"
    "scālam" "ladder"
    "scāla, scālae" "ladder"
+
+   "scandere" "to climb, ascend"
+   "scandō, scandere, scandī, scānsus" "to climb, ascend"
 
    "scaphās" "light boats, skiffs"
    "scapha, scaphae" "light boat, skiff"
@@ -15320,6 +15330,7 @@
    "trepidus, trepida, trepidum" "agitated, nervous"
 
    "trībulātiō" "distress, trouble, tribulation"
+   "trībulātiōne" "distress, trouble, tribulation"
    "trībulātiōnis" "distress, trouble, tribulation"
    "trībulātiō, trībulātiōnis" "distress, trouble, tribulation"
    
@@ -15502,6 +15513,7 @@
    "ūllīus" "of any"
    "ūlla" "any"
    "ūllae" "any"
+   "ūllam" "any"
    "ūllum" "any"
    "ūllus" "any"
    "ūllō" "any"
@@ -15876,7 +15888,8 @@
    "versiculō" "verse, poetic line"
    "versiculum" "verse, poetic line"
    "versiculus, versiculī" "verse, poetic line"
-   
+
+   "versū" "verse, poetic line"
    "versum" "verse, poetic line"
    "versus" "verse, poetic line"
    "versus, versūs" "verse, poetic line"
