@@ -13221,6 +13221,7 @@
    "respondēbat" "he was responding"
    "respondēbant" "they were responding"
    "respondērunt" "they responded"
+   "respondī" "I responded"
    "respondit" "he responded"
    "respondēre" "to respond"
    "respondeō, respondēre, respondī, respōnsus" "to respond"
@@ -14624,7 +14625,8 @@
    "subvectat" "he conveys"
    "subvectāre" "to convey"
    "subvectō, subvectāre, subvectāvī, subvectātus" "to convey"
-   
+
+   "subvenīret" "they might bring aid"
    "subvenit" "he brings aid"
    "subvēnit" "he brought aid"
    "subveniō, subvenīre, subvēnī, subventus" "to bring aid"
@@ -15334,6 +15336,7 @@
    
    "trīstēs" "sad"
    "tristia" "sad"
+   "trīstibus" "sad"
    "trīstis" "sad"
    "trīstis, trīstis, trīste" "sad"
 
@@ -16124,6 +16127,7 @@
    "vīs, vīs" "strength, power"
    
    "vīsitābō" "I will visit"
+   "vīsiōne"  "vision"
    "vīsiōnem" "vision"
    "vīsiō, vīsiōnis" "vision"
 
