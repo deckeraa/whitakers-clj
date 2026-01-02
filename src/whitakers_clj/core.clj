@@ -498,6 +498,7 @@
 
 (defn parsed-word->word [parsed-word]
   ;; TODO this should really be handled already by parsed-word...
+  ;; UPDATE TODO: it's now available as (:parsed-word parsed-word), but this function is used to assoc that in in the main function. Other uses of this function could be discontinued.
   (let [selected-opt (first (:options parsed-word))
         sectioned-word (:sectioned-word selected-opt)
         un-sectioned-word (if sectioned-word
@@ -676,6 +677,10 @@
       (clojure.string/replace #"\n" " ")
       (clojure.string/replace #"\(" "")
       (clojure.string/replace #"\)" "")
+      (clojure.string/replace #":" "")
+      (clojure.string/replace #";" "")
+      (clojure.string/replace #"," "")
+      (clojure.string/replace #"\." "")
       ))
 
 (defn avg-sentence-length [text]
@@ -688,9 +693,33 @@
 (defn words-not-found-in-dictionary [parsed]
   (sort (distinct (remove #(dictionary %) (map parsed-word->word parsed)))))
 
+(defn warn-about-potentially-misparsed-words [parsed]
+  (when-let [potential-errors
+             (filter (fn [parsed-word]
+                       (not (= (clojure.string/lower-case
+                                (remove-macrons (:parsed-word parsed-word)))
+                               (clojure.string/lower-case
+                                (remove-macrons (:original-word parsed-word))))))
+                     parsed)]
+    (println "Potentially mis-parsed words: "
+             (map (fn [parsed-word]
+                    (str (:original-word parsed-word)
+                         "=>"
+                         (:parsed-word parsed-word)))
+                  potential-errors))))
+
 ;; Whitaker's Words must be run as ./bin/words from the project folder,
 ;; otherwise it says "There is no INFLECTS.SEC file."
 (def PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER "../whitakers-words")
+
+(defn run-whitakers-words-piecemeal-on-words [words]
+  (map (fn [word]
+         {:original-word word
+          :parsing-result
+          (:out
+           (sh "./bin/words" (remove-macrons word)
+               :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER))})
+       words))
 
 (defn -main [& args]
   (let [latin-text (if (and (= 1 (count args))
@@ -698,33 +727,43 @@
                      (slurp (first args))
                      (clojure.string/join " " args))
         latin-text (remove-troublesome-puncuation latin-text)
-        original-words (clojure.string/split latin-text #" ")
-        args-to-passthrough (-> latin-text remove-macrons)
-        _ (println args-to-passthrough)
-        number-of-words (count original-words)
-        uuid (random-uuid)
-        temp-file-name (str uuid ".txt")
-        full-file-name (str PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER "/" temp-file-name)
-        _ (spit full-file-name args-to-passthrough)
+        original-words (remove empty?
+                               (clojure.string/split latin-text #" "))
+        ;; args-to-passthrough (-> latin-text remove-macrons)
         ;; _ (println args-to-passthrough)
-        result (sh "./bin/words" temp-file-name
-                   :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER)
+        number-of-words (count original-words)
+        ;; uuid (random-uuid)
+        ;; temp-file-name (str uuid ".txt")
+        ;; full-file-name (str PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER "/" temp-file-name)
+        ;; _ (spit full-file-name args-to-passthrough)
+        ;; _ (println args-to-passthrough)
+        ;; result (sh "./bin/words" temp-file-name
+        ;;            :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER)
         ;; _ (println "==" (:out result))
-
-        parsed (parse-sections
-                ;; result-zipped-with-original-words
-                (:out result)
-                {:condense-entries? true})
+        results (run-whitakers-words-piecemeal-on-words original-words)
+        parsed (map (fn [word-result]
+                      ;;(assoc)
+                      (as->
+                       (parse-sections
+                        (:parsing-result word-result)
+                        {:condense-entries? true}) $
+                       (first $)
+                       (assoc $ :original-word (:original-word word-result))
+                       (assoc $ :parsed-word (parsed-word->word $))
+))
+                    results)
         ;; now zip up the original word into parsed
-        parsed
-        (map (fn [parsed-word original-word]
-               (assoc parsed-word :original-word original-word)
-               ;; (println "=> " parsed-word)
-               ;; (println "==> " original-word)
-               ;; parsed-word
-               )
-             parsed
-             original-words)
+        ;; parsed
+        ;; (map (fn [parsed-word original-word]
+        ;;        (as-> parsed-word $
+        ;;          (assoc $ :original-word original-word)
+        ;;          (assoc $ :parsed-word (parsed-word->word $)))
+        ;;        ;; (println "=> " parsed-word)
+        ;;        ;; (println "==> " original-word)
+        ;;        ;; parsed-word
+        ;;        )
+        ;;      parsed
+        ;;      original-words)
         ;; _ (println "===>" result-zipped-with-original-words)
         freqs (word-frequency parsed)]
     ;; (println "Output from shell command:")
@@ -738,6 +777,8 @@
     (println "\n")
     (println (words-not-found-in-dictionary parsed))
     (println (count (words-not-found-in-dictionary parsed)))
+    ;;
+    (warn-about-potentially-misparsed-words parsed)
     ;; (pprint freqs)
     (println "\n")
     (println (count freqs) "unique words," number-of-words "words total. Unique"
