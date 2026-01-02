@@ -11995,6 +11995,7 @@
    "praecipiō, praecipere, praecēpī, praeceptus" "to order"
    "praecēpit" "he ordered"
    "praeceperat" "he had ordered"
+   "praecēpī" "I ordered"
 
    "praeceps"    "steep place"
    "praecipitī"  "steep place"
@@ -12388,6 +12389,7 @@
    "prōgredior, prōgredī, prōgressus sum" "to advance, to go forward"
 
    "prohibeat" "it might prevent, restrain"
+   "prohibēbat" "he was preventing, restraining"
    "prohibēbant" "they were preventing, restraining"
    "prohibent" "they prevent, they restrain"
    "prohibuit" "he prevented, he restrained"
@@ -14799,7 +14801,8 @@
    
    "sumus" "we are"
    "sunt" "they are"
-   
+
+   "superābitur" "it will be overcome"
    "superat" "he overcomes"
    "superātī" "having been overcome"
    "superātis" "you overcome"
@@ -14842,6 +14845,7 @@
    "superiōre" "higher, being above"
    "superiōrem" "higher, being above"
    "superiōrēs" "higher"
+   "superius" "higher"
    "suprēmīs" "highest"
    "superus, supera -um, superior -or -us, suprēmus -a -um" "upper, being above"
 
@@ -14875,6 +14879,7 @@
    
    "surgite" "raise! lift! get up!"
    "surrēxit" "he raised up"
+   "surge" "raise! lift! get up!"
    "surgēbat" "he was lifting up"
    "surgentem" "raising"
    "surget" "he will lift"
@@ -15170,6 +15175,7 @@
    "timēns" "fearing"
    "timentēs" "fearing"
    "timeās" "you fear"
+   "timeat" "it might fear"
    "timēbat" "he was fearing"
    "timeō" "I fear"
    "timuisse" "to have feared"
@@ -15893,6 +15899,7 @@
    "vēr, vēris" "spring"
 
    "vērācem" "true"
+   "vērācissimum" "very true"
    "vērāx" "true"
    "vērāx, vērācis (gen.), vērācior -or -us, vērācissimus -a -um" "true"
    
@@ -16127,7 +16134,9 @@
    "vincēbantur" "they were conquered"
    "vīctī" "having been conquered"
    "vincent" "they will conquer"
+   "vincentur" "they will be conquered"
    "vīctūra" "conquering"
+   "vīctūrī" "conquering"
    "vincere" "to conquer"
    "vincō, vincere, vīcī, victus" "to conquer"
 
