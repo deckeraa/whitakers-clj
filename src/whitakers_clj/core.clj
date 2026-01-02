@@ -576,8 +576,26 @@
            (str (name (:mood selected-opt)) " "))
          "from " dict-entry)))
 
+(defn select-ablative-opt-if-nominative-not-present [parsed-word]
+  (when (empty? (filter (fn [opt]
+                          (= :nominative (:case opt)))
+                        (:options parsed-word)))
+    (first (filter (fn [opt] (= :ablative (:case opt)))
+                   (:options parsed-word)))))
+
+(defn select-opt [parsed-word]
+  (if (= :noun (:part-of-speech parsed-word))
+    (or ;; noun-specific handling
+     ;; prefer ablative case if available 
+     (select-ablative-opt-if-nominative-not-present parsed-word)
+     (first (:options parsed-word))
+     )
+    (first (:options parsed-word)) ;; default
+    )
+  )
+
 (defn conjugated-definition [parsed-word]
-  (let [selected-opt (first (:options parsed-word))
+  (let [selected-opt (select-opt parsed-word) ;; (first (:options parsed-word))
         word (parsed-word->word parsed-word)
         definition (or (dictionary word) (:definition parsed-word))
         definition (append-character-if-needed definition \;)
