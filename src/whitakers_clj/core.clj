@@ -533,7 +533,11 @@
                    "super.atis" "superātis" "occup.atis" "occupātis" "perturb.atis" "perturbātis"
                    "prodi.ret" "prōdīret" "libert.ate" "lībertāte" "denari.orum" "dēnāriōrum"
                    "fabric.atis" "fabricātus" "possid.ebatur" "possidēbātur" "lac.um" "lacum" "clam.ate" "clāmāte" "modic.um" "modicum" "prophet.am" "prophētam" "sicer.am" "siceram" "av.um" "avum" "irat.us" "īrātus" "peper.it" "peperit" "compert.um" "compertum" "t.ui" "tuī" "ablat.a" "ablāta" "dux.ere" "dūxēre" "utr.um" "utrum" "veni.te" "venīte" "narr.ate" "nārrātē" "separ.ate" "sēparāte" "sc.it" "scit" "repl.etis" "replētīs"
-                   } word) word)]
+                   } word) word)
+        ;; word (or (when (clojure.string/includes? word ".")
+        ;;       (:original-word parsed-word))
+        ;;     word)
+        ]
     word))
 
 (def abbreviations
@@ -741,16 +745,18 @@
         ;;            :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER)
         ;; _ (println "==" (:out result))
         results (run-whitakers-words-piecemeal-on-words original-words)
+        ;; _ (prn results)
+        ;; _ (println results)
         parsed (map (fn [word-result]
                       ;;(assoc)
                       (as->
-                       (parse-sections
-                        (:parsing-result word-result)
-                        {:condense-entries? true}) $
-                       (first $)
-                       (assoc $ :original-word (:original-word word-result))
-                       (assoc $ :parsed-word (parsed-word->word $))
-))
+                          (parse-sections
+                           (:parsing-result word-result)
+                           {:condense-entries? true}) $
+                          (first $)
+                          (assoc $ :original-word (:original-word word-result))
+                          (assoc $ :parsed-word (parsed-word->word $))
+                          ))
                     results)
         ;; now zip up the original word into parsed
         ;; parsed
@@ -767,7 +773,7 @@
         ;; _ (println "===>" result-zipped-with-original-words)
         freqs (word-frequency parsed)]
     ;; (println "Output from shell command:")
-    (pprint parsed)
+    ;; (pprint parsed)
     (println "\n")
     ;; (pprint (printed-vocabulary parsed))
     (println "Doubly-completed vocab")
