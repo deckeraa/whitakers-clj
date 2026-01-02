@@ -412,6 +412,7 @@
    "germānōs" "Germans"
    "Germānōs" "Germans"
    "gesta" "deeds, acts"
+   "glōriantur" "they glory; 3rd person plural present active from glōrior, glōriārī, glōriātus"
    "Godefridī" "of Godfrey of Bouillon (~1060-1100 AD), first ruler of the Kingdom of Jerusalem (genitive case)"
    "Godefridō" "Godfrey of Bouillon (~1060-1100 AD), first ruler of the Kingdom of Jerusalem (dative or ablative case)"
    "Godefridus" "Godfrey of Bouillon (~1060-1100 AD), first ruler of the Kingdom of Jerusalem"
@@ -3612,6 +3613,7 @@
    "cōgnitīs" "having been recognized"
    "cōgnitō" "having been recognized"
    "cōgnōscat" "they recognize, know"
+   "cōgnōscant" "they recognize, know"
    "cōgnōscō" "I recognize, I know"
    "cōgnōscis" "you recognize"
    "cōgnōscitis" "you recognize, you know"
@@ -5392,6 +5394,7 @@
    "dispersōs" "spread out"
    "dispersus, dispersa, dispersum" "spread out"
 
+   "disperge" "scatter!"
    "dispergendum" "spreading out"
    "dispergere" "to spread out"
    "dispergō, dispergere, dispersī, dispersus" "to spread out"
@@ -12605,6 +12608,7 @@
    "pugnandī" "of fighting"
    "pugnandō" "fighting"
    "pugnantibus" "fighting"
+   "pugnet" "let him fight"
    "pugnō, pugnāre, pugnāvī, pugnātus" "to fight"
 
    "pulchra" "beautiful"
