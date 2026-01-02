@@ -1573,6 +1573,10 @@
    "aes" "copper"
    "aes, aeris" "copper"
 
+   "aestimābat" "he was judging"
+   "aestimāre" "to value, estimate, judge"
+   "aestimō, aestimāre, aestimāvī, aestimātus" "to value, estimate, judge"
+
    "aestimātiō" "valuation, estimation"
    "aestimātiōne" "valuation, estimation"
    "aestimātiōnis" "valuation, estimation"
@@ -1643,6 +1647,7 @@
    "agitāre" "to act, to put in motion"
    "agitō, agitāre, agitāvī, agitātus" "to act, to put in motion"
    "āgnita" "having been recognized, having been acknowledged"
+   "agnōscās" "you might recognize"
    "agnōscerētur" "it was acknowledged"
    "āgnōscis" "you recognize, realize, acknowledge"
    "āgnōscō" "I recognize, realize, acknowledge"
@@ -1691,6 +1696,7 @@
    "āctūrōs" "to be conducted"
    "age" "go! do!"
    "agente" "doing, acting"
+   "agis" "you do"
    "agere" "to conduct, to act"
    "agō, agere, ēgī, āctus" "to conduct, to act"
    
