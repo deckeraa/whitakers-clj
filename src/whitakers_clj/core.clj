@@ -697,8 +697,11 @@
                             (.exists (io/file (first args))))
                      (slurp (first args))
                      (clojure.string/join " " args))
-        args-to-passthrough (-> latin-text remove-macrons remove-troublesome-puncuation)
-        number-of-words (count (clojure.string/split args-to-passthrough #" "))
+        latin-text (remove-troublesome-puncuation latin-text)
+        original-words (clojure.string/split latin-text #" ")
+        args-to-passthrough (-> latin-text remove-macrons)
+        _ (println args-to-passthrough)
+        number-of-words (count original-words)
         uuid (random-uuid)
         temp-file-name (str uuid ".txt")
         full-file-name (str PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER "/" temp-file-name)
@@ -706,11 +709,26 @@
         ;; _ (println args-to-passthrough)
         result (sh "./bin/words" temp-file-name
                    :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER)
-        ;; _ (println (:out result))
-        parsed (parse-sections (:out result) {:condense-entries? true})
+        ;; _ (println "==" (:out result))
+
+        parsed (parse-sections
+                ;; result-zipped-with-original-words
+                (:out result)
+                {:condense-entries? true})
+        ;; now zip up the original word into parsed
+        parsed
+        (map (fn [parsed-word original-word]
+               (assoc parsed-word :original-word original-word)
+               ;; (println "=> " parsed-word)
+               ;; (println "==> " original-word)
+               ;; parsed-word
+               )
+             parsed
+             original-words)
+        ;; _ (println "===>" result-zipped-with-original-words)
         freqs (word-frequency parsed)]
     ;; (println "Output from shell command:")
-    ;; (pprint parsed)
+    (pprint parsed)
     (println "\n")
     ;; (pprint (printed-vocabulary parsed))
     (println "Doubly-completed vocab")

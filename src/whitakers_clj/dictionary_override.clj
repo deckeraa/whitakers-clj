@@ -242,6 +242,7 @@
    "cōnsummāta" "finished, consummated; singular feminine nom. or abl. or plural neuter nom. or acc. from cōnsummātus, cōnsummāta, cōnsummātum"
    "cōnsummātō" "finished, consummated; singular masculine or neuter dative or ablative from cōnsummātus, cōnsummāta, cōnsummātum"
    "contentus" "content, satisfied, eager, from contentus, contenta, contentum"
+   "contere" "grind! exhaust!; singular imperative from conterō, conterere, contrīvī, contrītus"
    "continenter" "continually"
    "contrā" "against, away from, facing"
    "convocātis" "you call together; 2nd person plural present from convocō, convocāre, convocāvī, convocātus"
