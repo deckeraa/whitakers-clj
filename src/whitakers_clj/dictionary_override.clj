@@ -97,6 +97,8 @@
    "ammirātus" "emir, leader, admiral; loanword from Arabic"
    "āmodo" "from now on"
    "an" "or? rather?"
+   "andreās" "Andrew"
+   "Andreās" "Andrew"
    "angariī" "The Angarians, a Saxon tribe"
    "Angulānī" "Aghlabids (North African muslims)"
    "Angulānōrum" "of Aghlabids (North African muslims)"
@@ -2822,6 +2824,7 @@
    "blandus, blanda -um, blandior -or -us, blandissimus -a -um" "flattering"
    
    "bona" "good"
+   "bone" "good"
    "boni" "good"
    "bonīs" "good"
    "bonō" "good"
@@ -4525,6 +4528,7 @@
    "crēbrēscere" "to become widespread, to become frequent"
    "crēbrēscō, crēbrēscere, crēbruī, -" "to become widespread, to become frequent"
 
+   "crēdiderit" "he will have believed"
    "crēdidērunt" "they believed"
    "crēdidī" "I believed, I entrusted"
    "crēdidit" "he believed"
@@ -8448,8 +8452,10 @@
    "intrābant" "they were entering"
    "intrandī" "entering"
    "intrāre" "to enter"
+   "intrārēmus" "we might be entering"
    "intrantibus" "entering"
    "intrat" "it enters"
+   "intrāveris" "you might have entered"
    "intrāvērunt" "they entered"
    "intrāvit" "he entered"
    "intrantēs" "entering"
@@ -8866,6 +8872,7 @@
    "lampas, lampadis" "lamp"
    "lampadibus" "lamps"
 
+   "lancea"  "lance, long spear"
    "lanceam" "lance, long spear"
    "lanceās" "lances, long spears"
    "lancea, lanceae" "lance, long spear"
@@ -11156,6 +11163,9 @@
    "paternās" "paternal"
    "paternus, paterna, paternum" "paternal"
 
+   "patibulō" "fork-shaped yoke"
+   "patibulum, patibulī" "fork-shaped yoke"
+
    "patrāvēre" "they accomplished"
    "patrāre" "to accomplish"
    "patrō, patrāre, patrāvī, patrātus" "to accomplish"
@@ -11611,6 +11621,7 @@
    "petrōsa" "rocky places"
    "petrōsum, petrōsi" "rocky place"
 
+   "petrī" "of Peter"
    "petrō" "Peter"
    "petrus" "Peter"
    "Petrus, Petrī" "Peter"
@@ -12875,6 +12886,7 @@
    "reconciliātī" "having been reconciled"
    "reconciliō, reconciliāre, reconciliāvī, reconciliātus" "to reconcile"
 
+   "recondita" "having been hidden, concealed, put away"
    "reconditae" "having been hidden, concealed, put away"
    "recondere" "to hide, conceal, put away"
    "recondō, recondere, recondidī, reconditus" "to hide, conceal, put away"
@@ -15713,6 +15725,7 @@
 
    "vadat" "let it go, advance, hurry"
    "vāde" "go!"
+   "vādēns" "going"
    "vādō" "I go"
    "vādit" "he goes"
    "vādunt" "they go"
@@ -16071,6 +16084,7 @@
    "videās" "you may see"
    "videntēs" "seeing"
    "vident" "they see"
+   "vīsum" "to have been seen"
 
    "vigil" "vigil, sentry, watch"
    "vigil, vigilis" "vigil, sentry, watch"
