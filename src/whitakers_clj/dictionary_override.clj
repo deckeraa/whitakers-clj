@@ -446,6 +446,7 @@
    "heu" "Hey! oh! (interjection)"
    "hiberniae" "of Ireland (genitive case)"
    "hibernensium" "of the Irish (plural genitive)"
+   "Hierosolymītānō" "Jerusalemite"
    "Hierosolimītānō" "Jerusalemite"
    "Hierosolymītānus" "Jerusalemite"
    "honorabiliter" "honorably"
@@ -6312,6 +6313,7 @@
    
    "exultābant" "they were exulting, they were rejoicing"
    "exultantēs" "exulting"
+   "exsultāvit" "he exulted"
    "exultāre" "to exult, to rejoice"
    "exultō, exultāre, exultāvī, exultātus" "to exult, to rejoice"
    
@@ -8725,9 +8727,12 @@
    "iūrent" "they swear"
    "iūrābō" "I will swear"
    "iūrāret" "he might swear"
+   "iūrārent" "they might swear"
    "iūrāverit" "he might swear"
    "iūrō" "I swear"
    "iūrāre" "to swear"
+   "iūrāsse" "to have sworn"
+   "iūrāvisse" "to have sworn"
    "iūrō, iūrāre, iūrāvī, iūrātus" "to swear"
 
    "iūreiūrandō" "oath"
@@ -12828,6 +12833,7 @@
    "recessērunt" "they withdrew"
    "recessimus" "we withdrew"
    "recessit" "he withdrew"
+   "recessūrus" "withdrawing"
    "recēdō, recēdere, recessī, recessus" "to recede, to withdraw"
 
    "receptum" "engagement, obligation"
