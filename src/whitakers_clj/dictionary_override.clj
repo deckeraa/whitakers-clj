@@ -2157,6 +2157,7 @@
    "appāreō, appārēre, appāruī, appāritus" "to appear" ;; no past perfect participle?
    "appāruērunt" "they appeared"
    "appāruit" "he appeared"
+   "appāruerat" "he had appeared"
 
    "appellābat" "he was calling, he was naming"
    "appellābātur" "he was being called"
@@ -2569,6 +2570,7 @@
 
    "abstulimus" "we carried away"
    "abstulisset" "he (might) have carried away"
+   "abstulistī" "you carried away"
    "abstulit" "he carried away"
    "abstulērant" "they had carried away"
    "abstulērunt" "they carried away"
@@ -4528,6 +4530,7 @@
    "crēbrēscere" "to become widespread, to become frequent"
    "crēbrēscō, crēbrēscere, crēbruī, -" "to become widespread, to become frequent"
 
+   "crēdēbat" "he was believing"
    "crēdiderit" "he will have believed"
    "crēdidērunt" "they believed"
    "crēdidī" "I believed, I entrusted"
@@ -4540,6 +4543,7 @@
    "crēdēbāmus" "we were believing"
    "crēdendum" "believing"
    "crēdentēs" "believing"
+   "crēdat" "he might believe"
    "crēdātis" "you might believe"
    "crēditis" "you believe"
    "crēdere" "to believe"
@@ -5945,6 +5949,7 @@
    "erō" "I will be"
    "estō" "be! (in the future)"
    "estōte" "be! (in the future)"
+   "essēmus" "we might have been"
    "essent" "they (might) have been"
    "estis" "you (all) are"
    "fore" "to be"
@@ -9399,6 +9404,7 @@
    "mamilla, mamillae" "breast"
 
    "mandābat" "he was entrusting"
+   "mandābit" "he will entrust"
    "mandāta" "having been entrusted"
    "mandāverat" "he had entrusted"
    "mandāvērunt" "they entrusted"
@@ -11880,6 +11886,7 @@
    "portō, portāre, portāvī, portātum" "to carry, to bring"
    "portantur" "they are carried"
    "portatur" "it is carried"
+   "portāverit" "he will have carried"
    
    "portū" "harbor, port"
    "portum" "harbor, port"
