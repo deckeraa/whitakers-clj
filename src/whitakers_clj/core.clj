@@ -696,8 +696,11 @@
          num-periods
          1))))
 
+;; (defn words-not-found-in-dictionary [parsed]
+;;   (sort (distinct (remove #(dictionary %) (map parsed-word->word parsed)))))
+
 (defn words-not-found-in-dictionary [parsed]
-  (sort (distinct (remove #(dictionary %) (map parsed-word->word parsed)))))
+  (sort (distinct (map :original-word (remove #(dictionary (:parsed-word %)) parsed)))))
 
 (defn warn-about-potentially-misparsed-words [parsed]
   (when-let [potential-errors
@@ -707,12 +710,13 @@
                                (clojure.string/lower-case
                                 (remove-macrons (:original-word parsed-word))))))
                      parsed)]
-    (println "Potentially mis-parsed words: "
-             (map (fn [parsed-word]
-                    (str (:original-word parsed-word)
-                         "=>"
-                         (:parsed-word parsed-word)))
-                  potential-errors))))
+    (println "Potentially mis-parsed words: ")
+    (doall (map (fn [parsed-word]
+               (println
+                (str (:original-word parsed-word)
+                     "=>"
+                     (:parsed-word parsed-word))))
+             potential-errors))))
 
 ;; Whitaker's Words must be run as ./bin/words from the project folder,
 ;; otherwise it says "There is no INFLECTS.SEC file."
