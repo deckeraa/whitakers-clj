@@ -7182,6 +7182,7 @@
    "gentis" "of the people, clan, nation"
    "gēns, gentis" "people, clan, nation"
 
+   "gentīlēs" "heathens, pagans"
    "gentīlī" "heathen, pagan"
    "gentīlibus" "heathens, pagans"
    "gentīlis" "heathen, pagan"
@@ -7408,6 +7409,10 @@
    "haesitet" "it might hesitate"
    "haesitāre" "to hesitate"
    "haesitō, haesitāre, haesitāvī, haesitātus" "to hesitate"
+
+   "hastae" "spears"
+   "hastīs" "spears"
+   "hasta, hastae" "spear"
 
    "Helvētiī" "Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.)"
    "helvētiī" "Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.)"
@@ -7980,6 +7985,10 @@
    "inclitus" "famous"
    "inclitus, inclita -um, inclitior -or -us, inclitissimus -a -um" "famous"
 
+   "inclūserint" "they will have shut up"
+   "inclūdere" "to shut up, enclose"
+   "inclūdō, inclūdere, inclūsī, inclūsus" "to shut up, enclose"
+
    "incognita" "unknown, untested"
    "incōgnitum" "unknown, untested"
    "incōgnitōrum" "unknown, untested"
@@ -8518,6 +8527,10 @@
    "invalēscēbant" "they were strengthening"
    "invalēscere" "to strengthen"
    "invalēscō, invalēscere, invaluī, -" "to strengthen"
+
+   "invāsiō" "attack, invasion"
+   "invāsiōne" "attack, invasion"
+   "invāsiō, invāsiōnis" "attack, invasion"
    
    "invēnērunt" "they found"
    "invēnī" "I found"
@@ -9443,6 +9456,7 @@
    "maneat" "he remains"
    "maneant" "they remain"
    "manēbunt" "they will remain"
+   "manentem" "remaining"
    "manentēs" "remaining"
    "manēret" "it remained"
    "mānsisse" "to have remained"
