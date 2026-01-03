@@ -363,6 +363,7 @@
    "expedītīs" "lightly-armed soldiers; dative or ablative case"
    "expedītior" "freer, more unburdened"
    "expedītius" "freer, more unburdened"
+   "expergīsciminī" "you awaken; 2nd person plural present active from expergīscor, expergīscī, experrectus"
    "explētis" "You fill; 2nd person plural present from expleō, explēre, explēvī, explētus"
    "extemplō" "immediately"
    "extrā" "outside of, beyond"
@@ -453,6 +454,7 @@
    "Hierosolymītānus" "Jerusalemite"
    "honorabiliter" "honorably"
    "hōs" "these; plural masculine accusative from hic, haec, hoc"
+   "Hugō" "Hugh"
    "Hungāriae" "Hungary"
    "Hybernia" "Ireland (nominative case)"
    "Hyberniae" "of Ireland (genitive case)"
@@ -480,6 +482,7 @@
    "Irminsul" "the name of an idol, or type of idol that the Saxons worshipped"
    "Isuardus" "Isoard"
    "Iūram" "Mount Jura"
+   "gosfridī" "of Godfrey"
    "gravitātis" "gravity, weight, importance; singular feminine genitive from gravitās, gravitātis"
    "gravitāte" "gravity, weight, importance; singular feminine ablative from gravitās, gravitātis"
    "gravitātem" "gravity, weight, importance; singular feminine accusative from gravitās, gravitātis"
@@ -962,6 +965,7 @@
    "Saxōnibus" "The Saxons"
    "Saxōnicus" "Saxon"
    "Saxōnum" "of the Saxons"
+   "Scabiōsō" "Godefridus dē Monte Scabiōsō = Godfrey of Montescaglioso (a town in Italy)"
    "scalta" "an unknown type of plant. Ablative plural from scalta, scaltae."
    "scaltae" "an unknown type of plant. Ablative plural from scalta, scaltae."
    "scaltās" "an unknown type of plant. Accusative plural from scalta, scaltae."
@@ -3567,6 +3571,7 @@
    "coagulātum" "having been coagulated"
    "coagulō, coagulāre, coagulāvī, coagulātus" "to coagulate, to curdle"
 
+   "coangustābant" "they were cramping, narrowing"
    "coangustāre" "to cramp, narrow"
    "coangustō, coangustāre, coangustāvī, coangustātus" "to cramp, narrow"
 
@@ -5121,6 +5126,7 @@
    "dētrīmentō" "harm, detriment"
    "dētrīmentum, dētrīmentī" "harm, detriment"
 
+   "dētruncātae" "having been beheaded"
    "dētruncandō" "cutting off, beheading"
    "dētruncāvērunt" "they cut off, behead"
    "dētruncāre" "to cut off, behead"
@@ -6219,6 +6225,8 @@
    "expergēfactī" "having been awoken"
    "expergēfacere" "to awaken"
    "expergēfaciō, expergēfacere, expergēfēcī, expergēfactus" "to awaken"
+
+   "expergīscor, expergīscī, experrectum" "to awaken"
 
    "experīmentum" "test, experiment, experience"
    "experīmentum, experīmentī" "test, experiment, experience"
@@ -11883,7 +11891,7 @@
    "portāvit" "he carried"
    "portō" "I carry"
    "portet" "it might carry"
-   "portō, portāre, portāvī, portātum" "to carry, to bring"
+   "portō, portāre, portāvī, portātus" "to carry, to bring"
    "portantur" "they are carried"
    "portatur" "it is carried"
    "portāverit" "he will have carried"
@@ -16334,6 +16342,7 @@
    "vellētis" "you might have wished"
    "voluissem" "I had wished"
    "voluistī" "you wanted"
+   "voluerint" "they might have wanted"
 
    "voluminibus" "books, volumes"
    "volūmen" "book, volume"
