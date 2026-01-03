@@ -9317,6 +9317,10 @@
    "maereō, maerēre, -, -" "to mourn"
    "maereō, maerēre, maeruī" "to mourn"
 
+   "maeror" "mourning, lamentation"
+   "maerōre" "mourning, lamentation"
+   "maeror, maerōris" "mourning, lamentation"
+
    "maesta" "sad, mournful"
    "maestissima" "very sad, mournful"
    "maestus, maesta -um, maestior -or -us, maestissimus -a -um" "sad, mournful"
@@ -10284,6 +10288,7 @@
    "nequīvimus" "we were unable"
    "nequīvit" "he was unable"
    "nequeunt" "they are unable"
+   "nequīrent" "they might have been unable"
    "nequeō, nequīre, nequivī(iī), nequitus" "to be unable"
 
    "nescīmus" "we do not know"
@@ -12575,6 +12580,7 @@
    "proxima" "next, nearest"
    "proximam" "next, nearest"
    "proximī"  "next, nearest"
+   "proximō"  "next, nearest"
    "proximum" "next, nearest"
    "proximus, proxima, proximum" "next, nearest"
 
@@ -13292,6 +13298,7 @@
 
    "respēxī" "I looked back, considered"
    "respiciēns" "looking back"
+   "respicit" "he looked back"
    "respicere" "to look back"
    "respiciō, respicere, respēxī, respectus" "to look back"
    
@@ -14535,6 +14542,7 @@
    "sternēbant" "they were spreading, laying out"
    "sternentibus" "spreading, laying out"
    "sternunt" "they spread out, laid out"
+   "strāverit" "he will have laid out"
    "sternere" "to spread, to lay out"
    "sternō, sternere, strāvī, strātus" "to spread, to lay out"
    
@@ -15537,6 +15545,7 @@
    "turpitūdō, turpitūdinis" "ugliness, foulness"
 
    "turrēs" "towers"
+   "turrī" "tower"
    "turribus" "towers"
    "turrim" "tower"
    "turris" "tower"
@@ -16155,6 +16164,7 @@
    "vīcerint" "they will have conquered"
    "vincēbantur" "they were conquered"
    "vīctī" "having been conquered"
+   "vincendī" "conquering"
    "vincent" "they will conquer"
    "vincentur" "they will be conquered"
    "vīctūra" "conquering"
@@ -16273,6 +16283,9 @@
    "vitulōs" "calves"
    "vitulum" "calf"
    "vitulus, vitulī" "calf"
+
+   "vīvificāre" "to bring to life"
+   "vīvificō, vīvificāre, vīvificāvī, vīvificātus" "to bring to life"
    
    "vīvēbam" "I was living"
    "vīvēbat" "he was living"
@@ -16397,6 +16410,7 @@
    "vōtum, vōtī" "vow"
 
    "vulnerandō" "wounding"
+   "vulnerātī"  "having been wounded"
    "vulnerātus" "having been wounded"
    "vulnerāre" "to wound"
    "vulnerō, vulnerāre, vulnerāvī, vulnerātus" "to wound"
