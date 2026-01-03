@@ -157,6 +157,7 @@
    "bis" "twice"
    "bisantēōs" "Coins of a type common in the Byzantine Empire called bisanteus."
    "bizantēīs" "Coins of a type common in the Byzantine Empire called bisanteus."
+   "bisantīō" "Coins of a type common in the Byzantine Empire called bisanteus."
    "boiōs" "the Boii, who live across the Rhine from the Helvetii"
    "Bonifacius" "Saint Boniface, AD 675-754"
    "Boamundō" "Bohemond"
@@ -706,7 +707,7 @@
    "nimis" "too much, extremely"
    "nisī" "if not, unless"
    "nōbīs" "us; singular dative or ablative from ego"
-   "nocte" "singular feminine ablative from nox, noctis"
+   "nocte" "night; singular feminine ablative from nox, noctis"
    "noctū" "at night"
    "Noe" "Noah, who repopulated the earth after the Flood"
    "nōlī" "be unwilling! imperative singular of nōlō, nōlle, nōluī (irr.)"
@@ -2759,7 +2760,7 @@
    "bellōrum" "of battles, wars"
    "bellum, bellī" "battle, war"
 
-   "bellābant" "they were wagin war"
+   "bellābant" "they were waging war"
    "bellandī" "war-fighting"
    "bellāre" "to wage war"
    "bellō, bellāre, bellāvī, bellātus" "to wage war"
@@ -5961,6 +5962,9 @@
    "equum" "horse"
    "equus" "horse"
    "equus, equī" "horse"
+
+   "equīnās" "concerning horses, equine"
+   "equīnus, equīna, equīnum" "concerning horses, equine"
 
    "eques" "horseman"
    "equitēs" "horsemen"
