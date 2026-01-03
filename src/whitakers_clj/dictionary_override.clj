@@ -4557,6 +4557,7 @@
    "crēdere" "to believe"
    "crēdō, crēdere, crēdidī, crēditus" "to believe"
 
+   "cremātae" "having been burned"
    "cremārētur" "he (might) have been burning"
    "cremāre" "to burn"
    "cremō, cremāre, cremāvī, cremātus" "to burn"
@@ -5059,6 +5060,10 @@
    "dēpressōs" "having been suppressed"
    "dēprimere" "to suppress"
    "dēprimō, dēprimere, dēpressī, dēpressus" "to suppress"
+
+   "dērelīquērunt" "they abandoned"
+   "dērelinquere" "to abandon"
+   "dērelinquō, dērelinquere, dērelīquī, dērelictus" "to abandon"
 
    "deī" "god, diety"
    "deō" "god"
@@ -5637,6 +5642,7 @@
    "domī" "at home"
    "domibus" "houses"
    "domō" "house"
+   "domōrum" "of houses"
    "domōs" "houses"
    "domum" "house"
    "domus" "house"
@@ -5731,6 +5737,7 @@
    "dūrus, dūra -um, dūrior -or -us, dūrissimus -a -um" "hard"
 
    "dūrāverat" "it had endured"
+   "dūrāvit" "it endured"
    "dūrāre" "to harden, endure"
    "dūrō, dūrāre, dūrāvī, dūrātus" "to harden, endure"
 
@@ -5754,6 +5761,7 @@
    
    "ecclēsia" "church"
    "ecclēsiae" "church"
+   "ecclēsiārum" "of churches"
    "ecclēsiās" "churches"
    "ecclēsiam" "church"
    "ecclēsiīs" "churches"
@@ -6549,6 +6557,9 @@
    "feriēbant" "they were hitting, striking, killing"
    "ferīre" "to hit, strike, kill"
    "feriō, ferīre, -, -" "to hit, strike, kill"
+
+   "feritās" "wildness"
+   "feritās, feritātis" "wildness"
 
    "ferōcēs" "wild, bold, defiant"
    "ferōcī" "wild, bold, defiant"
@@ -9585,6 +9596,7 @@
 
    "mediā" "middle"
    "mediae" "middle"
+   "mediam" "middle"
    "medius" "middle"
    "medius, media, medium" "middle"
    
@@ -9850,6 +9862,7 @@
    "mitteret" "he was sending"
    "mīserant" "they had sent"
    "mittam" "I might send"
+   "mittī" "to be sent"
    "mittere" "to send"
    "mittō, mittere, mīsī, missus" "to send"
 
@@ -12936,6 +12949,7 @@
 
    "rēctā" "straight, proper, correct"
    "rēctō" "straight, proper, correct"
+   "rēctum" "straight, proper, correct"
    "rēctus, rēcta -um, rēctior -or -us, rēctissimus -a -um" "straight, proper, correct"
 
    "recuperātī" "having regained"
@@ -13115,6 +13129,7 @@
    "regitur" "is ruled"
    "regit" "he rules"
    "regentem" "reigning"
+   "regere" "to rule"
    "regō, regere, rēxī, rēctus" "to rule"
 
    "rēgnābat" "he was reigning"
@@ -15921,7 +15936,8 @@
    "ventribus" "bellies, abdomens"
    "ventre" "belly, abdomen"
    "venter, ventris" "belly, abdomen"
-   
+
+   "ventī"  "of wind"
    "ventum" "wind"
    "ventus" "wind"
    "ventō" "wind"
