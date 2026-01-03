@@ -571,6 +571,7 @@
    "ipsīs" "itself; plural dative or ablative from ipse, ipsa, ipsum"
    "ipsīus" "of itself; singular genitive from ipse, ipsa, ipsum"
    "ipsō" "itself; singular masculine or neuter ablative from ipse, ipsa, ipsum"
+   "ipsōs" "themselves; plural masculine accusative from ipse, ipsa, ipsum"
    "ipsōrum" "thereselves; plural masc. or neut. genitive from ipse, ipsa, ipsum"
    "īre" "to go; present infinitive from eō, īre, iī, itus (irregular)"
    "irriguissimōs" "very well-watered; superlative from irriguus -a -um."
@@ -617,6 +618,7 @@
    "leviathan" "Leviathan, a sea monster mentioned in Job 40:25."
    "libenter" "willingly, gladly, freely"
    "licet" "allow"
+   "licēbat" "it was allowed; 3rd person singular imperfect from licet, licēre, licuī"
    "licuit" "allowed"
    "locūtus" "locūtus est = he spoke"
    "Langōbardī" "the Lombards"
@@ -2757,6 +2759,7 @@
    "bellōrum" "of battles, wars"
    "bellum, bellī" "battle, war"
 
+   "bellābant" "they were wagin war"
    "bellandī" "war-fighting"
    "bellāre" "to wage war"
    "bellō, bellāre, bellāvī, bellātus" "to wage war"
@@ -3017,6 +3020,9 @@
    "calōre" "warmth, heat"
    "calōrem" "warmth, heat"
    "calor, calōris" "warmth, heat"
+
+   "calce" "limestone"
+   "calx, calcis" "limestone"
 
    "camēlōs" "camels"
    "camēlus" "camel"
@@ -5442,6 +5448,10 @@
    "dissentīre" "to disagree"
    "dissentiō, dissentīre, dissēnsī, dissēnsus" "to disagree"
 
+   "dissēparābat" "he was separating, dividing"
+   "dissēparāre" "to separate, divide"
+   "dissēparō, dissēparāre, dissēparāvī, dissēparātus" "to separate, divide"
+
    "dissimulāns" "concealing, disguising, hiding"
    "dissimulāre" "to conceal, disguise, hide"
    "dissimulō, dissimulāre, dissimulāvī, dissimulātus" "to conceal, disguise, hide"
@@ -7395,6 +7405,7 @@
    "habitābitis" "you will have"
    "habitandum" "living"
    "habitant" "they inhabit"
+   "habitantēs" "inhabiting"
    "habitāret" "he inhabited"
    "habitāta" "having been inhabited"
    "habitāvērunt" "they inhabited"
@@ -9328,6 +9339,10 @@
    "luxuriam" "luxury"
    "luxuria, luxuriae" "luxury"
 
+   "māchina" "military machine"
+   "māchinās" "military machines"
+   "māchina, māchinae" "military machine"
+
    "maerēbat" "he was mourning"
    "maerens" "mourning"
    "maereō, maerēre, -, -" "to mourn"
@@ -9457,6 +9472,7 @@
    "mandūcant" "they eat"
    "mandūcārēmus" "we were chewing"
    "mandūcāvī" "I chewed, I ate"
+   "mandūcāre" "to chew, to eat"
    "mandūcō, mandūcāre, mandūcāvī, mandūcātus" "to chew, to eat"
    
    "manendī" "remaining"
@@ -10600,6 +10616,7 @@
    "obsēderant" "they had besieged"
    "obsēdērunt" "they besieged"
    "obsessa"  "having been besieged"
+   "obsessī"  "having been besieged"
    "obsessīs" "having been besieged"
    "obsident" "they besiege"
    "obsideō, obsidēre, obsēdī, obsessus" "to besiege"
