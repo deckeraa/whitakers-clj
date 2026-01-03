@@ -407,6 +407,7 @@
            lines (remove #(re-matches #"ex                   PREFIX.*" %) lines)
            lines (remove #(re-matches #"- out, away from; beyond; completely;.*" %) lines)
            lines (remove #(re-matches #"di                   PREFIX.*" %) lines)
+           lines (remove #(re-matches #"dis                  PREFIX.*" %) lines)
            lines (remove #(re-matches #"- apart/asunder, in.*" %) lines)
            lines (remove #(re-matches #"PACKON.*" %) lines)
            lines (remove #(re-matches #"- together; completely.*" %) lines)
