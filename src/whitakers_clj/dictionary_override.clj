@@ -1549,6 +1549,7 @@
    "aedificābitur" "it will be built"
    "aedificārī" "to be built"
    "aedificāta" "having been built"
+   "aedificāvērunt" "they built"
    "aedificāvit" "he built"
    "aedificāre" "to build"
    "aedificō, aedificāre, aedificāvī, aedificātus" "to build"
@@ -2232,6 +2233,7 @@
    "appropinquāvissent" "they (might) have had approached"
    "appropinquāvit" "he approached"
    "appropinquante" "approaching"
+   "appropinquāns" "approaching"
 
    "approximent" "they might approach"
    "approximāre" "to approach"
