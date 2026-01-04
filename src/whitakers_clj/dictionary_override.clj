@@ -5918,6 +5918,7 @@
    "ēlēctīs" "having been chosen"
    "ēlēgit" "he chose"
    "ēlēgērunt" "they chose"
+   "ēlēgerant" "they had chosen"
    "ēligāmus" "let us choose"
    "ēligat" "let him choose"
    "ēligere" "to choose"
@@ -8230,7 +8231,8 @@
    
    "īnfīnīta" "endless, infinite"
    "īnfīnītus, īnfīnīta, īnfīnītum" "endless, infinite"
-   
+
+   "īnfirmitāte"  "infirmity, weakness"
    "īnfirmitātem" "infirmity, weakness"
    "īnfirmitātēs" "infirmities, weaknesses"
    "īnfirmitās, īnfirmitātis" "infirmity, weakness"
@@ -12253,6 +12255,7 @@
    "praestiterō" "I will have surpassed"
    "praestō, praestāre, praestitī, praestātum" "to excel, to surpass"
 
+   "praestōlābāmur" "he was standing ready"
    "praestōlāns" "standing ready"
    "praestōlor" "I stand ready"
    "praestōlor, praestōlārī, praestōlātus sum" "to stand ready"
@@ -13801,7 +13804,7 @@
    "salūtem" "health, soundness"
    "salūtī" "health, soundness"
    "salūs, salūtis" "health, soundness"
-   
+
    "salūtāris" "salutary, redeeming"
    "salūtārium" "salutary, redeeming"
    "salūtāris, 	salūtāre" "salutary, redeeming"
@@ -13819,6 +13822,7 @@
    "salūtātiōnem" "greeting"
    "salūtātiō, salūtātiōnis" "greeting"
 
+   "salūtiferō" "health-bringing"
    "salūtiferum" "health-bringing"
    "salūtifer, salūtifera, salūtiferum" "health-bringing"
 
@@ -15934,6 +15938,7 @@
    "vectīgal, vectīgālis" "tax, tribute, revenue"
 
    "vehemēns" "vehement, passionate, furious"
+   "vehementī" "vehement, passionate, furious"
    "vehementissimō" "very vehement, passionate, furious"
    "vehementissimum" "very vehement, passionate, furious"
    "vehemēns, vehementis (gen.), vehementior -or -us, vehementissimus -a -um" "vehement, passionate, furious"
