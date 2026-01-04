@@ -183,6 +183,7 @@
    "Brittannīcō" "Britannic (dative case)"
    "brittannīcō" "Britannic (dative case)"
    "Brittannicīs" "Britannic (ablative case)"
+   "būfalōrum" "of buffaloes"
    "bulgariam" "Bulgaria (accusative case)"
    "Caiphā" "Ablative of Caiphas, a high priest involved with the crucifixion of Christ."
    "candida" "bright, white, clean; singular feminine nominative from candidus, candida, candidum"
@@ -2019,6 +2020,7 @@
    
    "angustiam" "small space, narrow passage, being boxed in"
    "angustia" "small space, narrow passage, being boxed in"
+   "angustiās" "small spaces, narrow passages, being boxed in"
    "angustia, angustiae" "small space, narrow passage, being boxed in"
 
    "angustī" "small space, narrow passage, being boxed in"
@@ -2455,9 +2457,13 @@
 
    "asinī" "of an ass"
    "asinō" "ass"
+   "asinōrum" "of donkeys or asses"
    "asinōs" "asses"
    "asinus" "ass"
    "asinus, asinī" "ass"
+
+   "asinīnās" "pertaining to donkeys or asses"
+   "asinīnus, asinīna, asinīnum" "pertaining to donkeys or asses"
 
    "aspergētur" "it will be sprinkled"
    "aspergerētur" "it was sprinkled, inflicted"
@@ -2861,6 +2867,9 @@
 
    "Boreām" "the North"
    "Boreās, Boreae" "the North"
+
+   "boum" "of cows, oxen, bulls"
+   "bōs, bovis" "cow, ox, bull"
    
    "bōtrum" "grape"
    "bōtrus, bōtrī" "grape"
@@ -3025,6 +3034,7 @@
    "calce" "limestone"
    "calx, calcis" "limestone"
 
+   "camēlōrum" "of camels"
    "camēlōs" "camels"
    "camēlus" "camel"
    "camēlus, camēlī" "camels"
