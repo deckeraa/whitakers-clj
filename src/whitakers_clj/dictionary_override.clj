@@ -2127,6 +2127,7 @@
 
    "ānxietās" "anxiety"
    "ānxietātī" "anxiety"
+   "ānxietātēs" "anxiety"
    "ānxietātis" "anxiety"
    "ānxietās, ānxietātis" "anxiety"
 
@@ -3151,6 +3152,9 @@
    
    "carbōnis" "charcoal, coal"
    "carbō, carbōnis" "charcoal, coal"
+
+   "carduī" "of wild thistle, artichoke"
+   "carduus, carduī" "wild thislte, artichoke"
 
    "carērent" "they would lack"
    "carēre" "to lack"
@@ -4453,6 +4457,10 @@
    "cōpiīs" "forces"
    "cōpia, cōpiae" "forces"
 
+   "coquēbant" "they were cooking"
+   "coquere" "to cook"
+   "coquō, coquere, coxī, coctus" "to cook"
+
    "coxit" "he cooked"
    "coquitur" "it is cooked"
    "coquināre" "to cook"
@@ -4463,6 +4471,9 @@
    "corde" "heart"
    "cordī" "heart"
    "cordis" "heart"
+
+   "coria" "skins, hides"
+   "corium, coriī" "skin, hide"
    
    "coriīs" "skins, hides"
    "corius, coriī" "skin, hide"
@@ -4868,6 +4879,10 @@
    "dēclārābitur" "he will announce"
    "dēclārō, dēclārāre, dēclārāvī, dēclārātus" "to announce"
 
+   "dēcoquēbant" "they were boiling, stewing"
+   "dēcoquere" "to boil, stew"
+   "dēcoquō, dēcoquere, dēcoxī, dēcoctus" "to boil, stew"
+
    "decōra" "elegance, beauty"
    "decōris" "elegance, beauty"
    "decor, decōris" "elegance, beauty"
@@ -4973,6 +4988,7 @@
    "dēlēre" "to erase"
    "dēleō, dēlēre, dēlēvī, dēlētus" "to erase"
 
+   "dēlīberanda"  "deliberating"
    "dēlīberandum" "deliberating"
    "dēlīberāre" "to deliberate"
    "dēlīberō, dēlīberāre, dēlīberāvī, dēlīberātus" "to deliberate"
@@ -5030,6 +5046,7 @@
    "dēmoror, dēmorārī, dēmorātus sum" "to detain, to delay, to dwell"
 
    "dēnāriīs" "denarii. A denarius is a type of coin"
+   "dēnāriō" "denarii. A denarius is a type of coin"
    "dēnāriōs" "denarii. A denarius is a type of coin"
    "dēnārius" "denarius. A denarius is a type of coin"
    "dēnārius, dēnāriī" "denarius. A denarius is a type of coin"
@@ -6658,6 +6675,9 @@
    "fībulās" "brace, brooch, clasp"
    "fībula, fībulae" "brace, brooch, clasp"
 
+   "fīcī" "fig trees"
+   "fīcus,  fīcī" "fig tree"
+
    "fidēlēs" "faithful persons, confidants"
    "fidēlibus" "faithful persons, confidants"
    "fidēlis" "faithful person, confidant"
@@ -7155,6 +7175,9 @@
    "gallica" "Gallic"
    "gallicī" "Gallic"
    "Gallicus, Gallica, Gallicum" "Gallic"
+
+   "gallīnam" "hen"
+   "gallīna, gallīnae" "hen"
    
    "gallōrum" "of chickens, of roosters"
    "gallus, gallī" "chicken, rooster"
@@ -8026,6 +8049,7 @@
    "inclitus" "famous"
    "inclitus, inclita -um, inclitior -or -us, inclitissimus -a -um" "famous"
 
+   "inclūsōs" "having been shut up, enclosed"
    "inclūserint" "they will have shut up"
    "inclūdere" "to shut up, enclose"
    "inclūdō, inclūdere, inclūsī, inclūsus" "to shut up, enclose"
@@ -9275,6 +9299,7 @@
    "loquēla" "speech, utterance"
    "loquēla, loquēlae" "speech, utterance"
 
+   "loquar" "I will talk"
    "loquitur" "he talks"
    "loquēbātur" "he was talking"
    "loquendum" "talking"
@@ -9483,6 +9508,7 @@
    "mandāre" "to entrust"
    "mandō, mandāre, mandāvī, mandātus" "to entrust"
 
+   "mandūcābant" "they were chewing, eating"
    "mandūcant" "they eat"
    "mandūcārēmus" "we were chewing"
    "mandūcāvī" "I chewed, I ate"
@@ -10575,6 +10601,7 @@
    "nūtus" "command, will, pleasure"
    "nūtus, nūtūs" "command, will, pleasure"
 
+   "nucem" "nut"
    "nucēs" "nuts"
    "nux, nucis" "nut"
 
@@ -11034,6 +11061,9 @@
    "ovium" "of sheep"
    "ovis, ovis" "sheep"
 
+   "ōvum" "egg"
+   "ōvum, ōvī" "egg"
+   
    "pābula" "food, nourishment"
    "pābulī" "food, nourishment"
    "pābulum" "food, nourishment"
@@ -14192,7 +14222,8 @@
    "siccī" "dry place"
    "siccum" "dry place"
    "siccum, siccī" "dry place"
-   
+
+   "sicca"  "dry, thirsty"
    "siccōs" "dry, thirsty"
    "siccus, sicca, siccum" "dry, thirsty"
 
@@ -15265,6 +15296,7 @@
    
    "timōre" "fear"
    "timōrem" "fear"
+   "timōrēs" "fears"
    "timor, timōris" "fear"
 
    "tīncta" "having been soaked, colored, imbued"
@@ -15454,6 +15486,7 @@
 
    "trībulātiō" "distress, trouble, tribulation"
    "trībulātiōne" "distress, trouble, tribulation"
+   "trībulātiōnēs" "distresses, troubles, tribulations"
    "trībulātiōnis" "distress, trouble, tribulation"
    "trībulātiō, trībulātiōnis" "distress, trouble, tribulation"
    
@@ -15913,6 +15946,7 @@
    "vēlum, vēlī" "sail, cloth"
 
    "vēndēbant" "they were selling"
+   "vēndēbātur" "it was being sold"
    "vēndendum" "selling"
    "vēndentēs" "selling"
    "vēnderētur" "was being sold"
@@ -16309,6 +16343,9 @@
    "vītam" "life"
    "vītae" "life"
    "vīta, vītae" "life"
+
+   "vītīs" "vines"
+   "vītis, vītis" "vine"
 
    "vītāret" "they were avoiding"
    "vītāre" "to avoid"
