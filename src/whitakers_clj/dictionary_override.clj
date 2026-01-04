@@ -890,6 +890,7 @@
    "quoniam" "since, after"
    "quōrum" "of whom; plural masc or neut. genitive from quī"
    "quōs" "whom; plural masculine accusative from quī"
+   "quōsdam" "certain ones; plural masculine accusative from quīdam"
    "quoūsque" "how far? until when?"
    "quadrāgintā" "40"
    "quaerere" "to seek"
@@ -1156,6 +1157,7 @@
    "Turcopōlīs" "Turcopoles (ablative case): a Turkic group allied with Byzantium. Turcopolis comes from the Greek 'Sons of Turks' τουρκόπουλοι = Τοῦρκος + πουλος"
    "Turcopūlōs" "Turcopoles (accusative case): a Turkic group allied with Byzantium. Turcopolis comes from the Greek 'Sons of Turks' τουρκόπουλοι = Τοῦρκος + πουλος"
    "Turnō" "Turnus, a king of the Rutuli killed by Aeneas (ablative or dative case)"
+   "turpiter" "shamefully, disgracefully"
    "ubī" "where"
    "ubicumque" "everywhere"
    "ūllātenus" "up to this point"
@@ -3115,6 +3117,7 @@
    "capite" "take!"
    "capere" "to seize, to take hold"
    "capta" "having been seized"
+   "captum" "having been seized"
    "captus" "having been seized"
    "captūrī" "having been taken"
    "captūrōs" "having been taken"
@@ -5107,6 +5110,7 @@
    "dēprimere" "to suppress"
    "dēprimō, dēprimere, dēpressī, dēpressus" "to suppress"
 
+   "dērelinquēmus" "we will abandon"
    "dērelīquērunt" "they abandoned"
    "dērelinquere" "to abandon"
    "dērelinquō, dērelinquere, dērelīquī, dērelictus" "to abandon"
@@ -5390,6 +5394,7 @@
    "dīmīsērunt" "they sent away, they dismissed"
    "dīmīsī" "he sent away, he dismissed"
    "dīmīsimus" "we sent away"
+   "dīmīsistī" "you sent away"
    "dīmīsistis" "you sent away"
    "dīmitte" "dismiss! send away!"
    "dīmittite" "dismiss! send away!"
@@ -5501,6 +5506,9 @@
 
    "distat" "it stands apart, it is distant"
    "distō, distāre, -, -" "to stand apart, be distant"
+
+   "districtā" "busy, pulled in many directions"
+   "districtus, districta -um, districtior -or -us, districtissimus -a -um" "busy, pulled in many directions"
 
    "distillābat" "it was dripping"
    "distīllō, distīllāre, distīllāvī, distīllātus" "to drip"
@@ -6487,6 +6495,7 @@
    "facultās, facultātis" "means, ability"
 
    "fallāx" "deceitful, misleading"
+   "fallācia" "deceitful, misleading"
    "fallācibus" "deceitful, misleading"
    "fallācium" "deceitful, misleading"
    "fallāx, fallācis (gen.), fallācior -or -us, fallācissimus -a -um" "deceitful, misleading"
@@ -7898,6 +7907,7 @@
    "impar" "unequal"
    "impar, (gen.), imparis" "unequal"
 
+   "impedītī" "burdened"
    "impedītōs" "burdened"
    "impedītum" "burdened"
    "impedītus, impedīta, impedītum" "burdened"
@@ -9183,6 +9193,7 @@
    "līberāvistī" "you liberated"
    "līberāvit" "he liberated"
    "līberāvērunt" "they liberated"
+   "līberāre" "to liberate"
    "līberō, līberāre, līberāvī, līberātus" "to liberate"
 
    "līberī" "free"
@@ -9411,6 +9422,7 @@
 
    "maesta" "sad, mournful"
    "maestissima" "very sad, mournful"
+   "maestissimus" "very sad, mournful"
    "maestus, maesta -um, maestior -or -us, maestissimus -a -um" "sad, mournful"
 
    "magus" "magician"
@@ -10048,7 +10060,8 @@
    "mortuōrum" "of the dead"
    "moriēris" "you will die"
    "moritur" "he dies"
-   "moriēmur" "he will die"
+   "moriāmur" "we might die"
+   "moriēmur" "we will die"
    "moritūrus" "dying (in the future)"
    "morior, morī, mortuus sum" "to die"
    
@@ -10216,6 +10229,7 @@
    "nāribus" "nostrils"
    
    "nārrā" "narrate!"
+   "nārrat" "he tells, narrates"
    "nārrātē" "narrate!"
    "nārrāns" "narrating"
    "nārrāvit" "he told"
@@ -13497,7 +13511,7 @@
    "reversiō, reversiōnis" "turning back, return"
    
    "revertentēs" "returning"
-   "revertāmur" "he (might) return"
+   "revertāmur" "we (might) return"
    "revertērunt" "they returned"
    "revertī" "I returned"
    "revertit" "he returned"
