@@ -1456,7 +1456,8 @@
    "adiūrō, adiūrāre, adiūrāvī, adiūrātus" "to adjure, to swear, to charge"
    "adiūtor" "helper, assistant"
    "adiūtor, adiūtōris" "helper, assistant"
-   
+
+   "adiūtōriō" "help, support"
    "adiūtōrium" "help, support"
    "adiūtōrium, adiūtōriī" "help, support"
 
@@ -3160,6 +3161,7 @@
    "carduus, carduī" "wild thislte, artichoke"
 
    "carērent" "they would lack"
+   "cārentēs" "lacking"
    "carēre" "to lack"
    "careō, carēre, caruī, caritus" "to lack"
    
@@ -3479,6 +3481,7 @@
 
    "circumcingendō"  "surrounding, encircling"
    "circumcingēns"   "surrounding, encircling"
+   "circumcingentem" "surrounding, encircling"
    "circumcingentēs" "surrounding, encircling"
    "circumcingere" "to surround, encircle"
    "circumcingō, circumcingere, circumcinxī, circumcinctus" "to surround, encircle"
@@ -5097,6 +5100,7 @@
    "dēprecārī" "to be prayed"
 
    "dēpressōs" "having been suppressed"
+   "dēprimī" "to be suppressed"
    "dēprimere" "to suppress"
    "dēprimō, dēprimere, dēpressī, dēpressus" "to suppress"
 
@@ -6301,6 +6305,7 @@
    "explōrāvisset" "he had explored"
    "explōrō, explōrāre, explōrāvī, explōrātus" "to explore, to investigate"
 
+   "exspoliāvit" "he plundered"
    "expoliāre" "to plunder"
    "expoliō, expoliāre, expoliāvī, expoliātus" "to plunder"
    
@@ -6742,6 +6747,7 @@
    "fingunt" "they mold, form, create"
    "fingentum" "having been molded, created"
    "fīnxērunt" "they molded, created"
+   "fīnxit" "he feigned"
    "fingō, fingere, fīnxī, fictus" "to mold, to form, to create"
    
    "fīniēbat" "they were limiting, they were finishing"
@@ -8055,6 +8061,7 @@
    "inclitus" "famous"
    "inclitus, inclita -um, inclitior -or -us, inclitissimus -a -um" "famous"
 
+   "inclūsī" "having been shut up, enclosed"
    "inclūsōs" "having been shut up, enclosed"
    "inclūserint" "they will have shut up"
    "inclūdere" "to shut up, enclose"
@@ -10666,6 +10673,7 @@
    "obsessī"  "having been besieged"
    "obsessīs" "having been besieged"
    "obsident" "they besiege"
+   "obsidentem" "besieging"
    "obsideō, obsidēre, obsēdī, obsessus" "to besiege"
    "obsīdendī" "besieging, blockading"
    
