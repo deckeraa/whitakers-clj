@@ -11622,6 +11622,7 @@
    "permīsceō, permīscēre, permīscuī, permīxtum" "to mix together"
 
    "permīsī"  "I allowed, permitted"
+   "permīsistī" "you permitted"
    "permīsit" "he allowed, permitted"
    "permittam" "I will permit"
    "permitteret" "he might permit"
@@ -11857,6 +11858,9 @@
    "planēta" "planet"
    "planētās" "planets"
    "planēta, planētae" "planet"
+
+   "plangere" "to bewail, strike, beat"
+   "plangō, plangere, plānxī, plānctum" "to bewail, strike, beat"
    
    "plānitia" "plain"
    "plānitiae" "plain"
@@ -11896,6 +11900,7 @@
 
    "plōrābant" "they were crying"
    "plōrantēs" "crying"
+   "plōrāre" "to cry"
    "plōrō, plōrāre, plōrāvī, plōrātus" "to cry"
    
    "plumbī"  "lead"
@@ -14176,6 +14181,7 @@
 
    "sequātur" "he follows"
    "sequantur" "they follow"
+   "sequentem" "following"
    "sequenti" "following"
    "sequēbātur" "he was following"
    "sequerētur" "he followed"
@@ -15551,6 +15557,7 @@
    "trīnitās, trīnitātis" "Trinity"
 
    "trīnum" "triple"
+   "trīnus" "triple"
    "trīnus, trīna, trīnum" "triple"
 
    "triplex" "triple"
@@ -16108,6 +16115,7 @@
    "vēra" "true"
    "vērī" "of the true"
    "vērum" "true"
+   "vērus" "true"
    "vērus, vēra -um, vērior -or -us, vērissimus -a -um" "true"
    
    "vesperā" "evening"
