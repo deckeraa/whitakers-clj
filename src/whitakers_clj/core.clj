@@ -691,6 +691,7 @@
       (clojure.string/replace #"," "")
       (clojure.string/replace #"\." "")
       (clojure.string/replace #"\?" "")
+      (clojure.string/replace #"!" "")
       ))
 
 (defn avg-sentence-length [text]

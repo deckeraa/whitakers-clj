@@ -5254,8 +5254,8 @@
    "dīc" "say!"
    "dīcam" "I will say"
    "dīcās" "you might say"
-   "dicēbat" "he was saying"
-   "dicēbant" "they were saying"
+   "dīcēbat" "he was saying"
+   "dīcēbant" "they were saying"
    "dīcēns" "saying"
    "dīcentem" "saying"
    "dīcentēs" "saying"
@@ -11860,7 +11860,7 @@
    "planēta, planētae" "planet"
 
    "plangere" "to bewail, strike, beat"
-   "plangō, plangere, plānxī, plānctum" "to bewail, strike, beat"
+   "plangō, plangere, plānxī, plānctus" "to bewail, strike, beat"
    
    "plānitia" "plain"
    "plānitiae" "plain"
