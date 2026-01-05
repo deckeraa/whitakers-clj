@@ -9027,6 +9027,9 @@
    "lanceās" "lances, long spears"
    "lancea, lanceae" "lance, long spear"
 
+   "languentēs" "being unwell, languishing"
+   "langueō, languēre, languī" "to be unwell, languish"
+
    "languidior" "weaker, feebler"
    "languor" "faintness, languor, feebleness"
    "languor, languōris" "faintness, languor, feebleness"
@@ -10098,6 +10101,7 @@
    "moriāmur" "we might die"
    "moriar" "I will die"
    "moriēmur" "we will die"
+   "morientēs" "dying"
    "moritūrus" "dying (in the future)"
    "morior, morī, mortuus sum" "to die"
    
@@ -10423,6 +10427,9 @@
    "nepōtis" "grandson"
    "nepōs, nepōtis" "grandson"
 
+   "nēquissimus" "very good-for-nothing"
+   "nēquam" "good-for-nothing"
+
    "nequeō" "I am unable"
    "nequībat" "he was unable"
    "nequībant" "they were unable"
@@ -10531,6 +10538,7 @@
    "nōlentēs" "not wanting"
    "nōlēns" "not wanting"
    "nōlō" "I don't want"
+   "nōluissent" "they might have been unwilling"
    "nōluit" "he didn't want"
    "nōllem" "I might not have wanted"
    "nōlō, nōlle, nōluī, -" "to not want"
@@ -10637,6 +10645,7 @@
    "nūnciīs" "messengers"
    "nūncius, nūnci(i)" "messenger"
 
+   "nūntiat" "he announces"
    "nūntiātum" "having been announced"
    "nūntiāvērunt" "they announced"
    "nūntiāvit" "he announced"
@@ -11885,7 +11894,8 @@
 
    "plāna" "flat, clear, even, easy"
    "plānus, plāna -um, planior -or -us, planissimus -a -um" "flat, clear, even, easy"
-   
+
+   "plānctuī" "beating, wailing, lamentation"
    "plānctus" "beating, wailing, lamentation"
    "plānctūs" "beating, wailing, lamentation"
    "plānctus, plānctūs" "beating, wailing, lamentation"
@@ -14006,6 +14016,7 @@
    "schēma, schēmatis" "plan, figure, form, posture"
 
    "sciās" "you might know"
+   "sciātis" "you might know"
    "sciō" "I know"
    "sciēbat" "he was knowing"
    "sciēns" "knowing"
@@ -16045,6 +16056,7 @@
    "venerābilis, venerābilis, venerābile" "venerable"
    
    "vēnerat" "he had come"
+   "vēnerint" "you will have come"
    "vēnērunt" "they came"
    "vēnēre" "they came"
    "veniēbat" "he was coming"
