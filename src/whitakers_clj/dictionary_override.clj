@@ -164,6 +164,7 @@
    "Boamundō" "Bohemond"
    "Boamundum" "Bohemond"
    "Boamundus" "Bohemond"
+   "Boamunde" "Bohemond (vocative case)"
    "Boamundī" "of Bohemond"
    "Botrenthrot" "The Valley of Gülek Boğaz a.k.a. Cilician Gates, about 40 miles north of Tarsus"
    "bovēs" "cows; plural masc. or fem. nom. or acc. from bōs, bovis"
@@ -1880,6 +1881,7 @@
    "amantissimī" "most loving"
    "amāns, amantis (gen.), amantior -or -us, amantissimus -a -um" "loving"
 
+   "amābat" "he was loving"
    "amat" "he loves"
    "amāre" "to love"
    "amāret" "he loved"
@@ -1912,7 +1914,8 @@
    "ambulāvit" "he walked"
    "ambulandī" "walking"
    "ambulō, ambulāre, ambulāvī, ambulātus" "to walk"
-   
+
+   "amīce" "friend"
    "amīcī" "friend"
    "amīcīs" "friends"
    "amīcō" "friend"
@@ -3361,6 +3364,7 @@
    "cernentibus" "discerning"
    "cernitur" "it is discerned"
    "cernō" "I see, discern"
+   "cernerem" "I (might) have seen"
    "cernō, cernere, crēvī, crētus" "to sift, to see, to discern, to decide"
 
    "certā" "certain"
@@ -4228,6 +4232,9 @@
    "cōnsiliātī" "having been consulted"
    "cōnsilior, cōnsiliārī, cōnsiliātus sum" "to consult, advise"
 
+   "cōnsōlārī" "to console"
+   "cōnsōlor, cōnsōlārī, cōnsōlātum" "to console"
+
    "cōnsistendum" "taking a position, standing together"
    "cōnstitērunt" "they took a position, they stood together"
    "cōnsistō, cōnsistere, cōnstitī, cōnstitus" "to take a position, to stand together"
@@ -4906,6 +4913,9 @@
    
    "dēcrētum" "decree, decision"
    "dēcrētum, dēcrētī" "decree, decision"
+
+   "decus" "honor distinction, glory"
+   "decus, decoris" "honor distinction, glory"
 
    "dēdecore" "disgrace, shame"
    "dēdecus" "disgrace, shame"
