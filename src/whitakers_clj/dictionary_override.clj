@@ -1184,6 +1184,7 @@
    "ut" "so that"
    "utcumque" "as soon as, by any means"
    "utcunque" "as soon as, by any means"
+   "utinam" "if only"
    "utrimque" "both sides"
    "utrinque" "both sides"
    "utrum" "whether"
@@ -5048,6 +5049,7 @@
    "dēmō, dēmere, dēmpsī, dēmptus" "to take away"
 
    "dēmersī" "I submerged, I sank"
+   "dēmersus" "having been submerged, sunk"
    "dēmergō, dēmergere, dēmersī, dēmersus" "to submerge, to sink"
 
    "dēmissī" "having dropped, slipped out"
@@ -5144,6 +5146,7 @@
    "dēserta" "deserts"
    "dēsertum, dēsertī" "desert"
 
+   "dēsīderābam" "he was desiring"
    "dēsīderant" "they desire"
    "dēsīderāret" "he desired"
    "dēsīderāre" "to desire"
@@ -5337,7 +5340,8 @@
    "Diffīdēns" "distrusting"
    "diffīdēns" "distrusting"
    "diffīdō, diffīdere, diffīsus" "to distrust"
-   
+
+   "digitōs" "fingers, toes, digits"
    "digitus" "finger, toe, digit"
    "digitī"  "finger, toe, digit"
    "digitus, digitī" "finger, toe, digit"
@@ -5618,6 +5622,7 @@
    "darētur" "he was being given"
    "dederat" "he had given"
    "dent" "they might give"
+   "det" "he might give"
    "dō, dare, dedī, datus" "to give (irregular)"
 
    "docēbant" "they were teaching"
@@ -6013,6 +6018,7 @@
 
    "equī" "horse"
    "equīs" "horses"
+   "equō" "horse"
    "equōrum" "of horses"
    "equōs" "horses"
    "equum" "horse"
@@ -6629,6 +6635,7 @@
    "ferēbant" "they were bringing, bearing"
 
    "feriēbant" "they were hitting, striking, killing"
+   "ferientem" "hitting, striking, killing"
    "ferīre" "to hit, strike, kill"
    "feriō, ferīre, -, -" "to hit, strike, kill"
 
@@ -7005,8 +7012,10 @@
    "frāctā" "having been broken"
    "frāctae" "having been broken"
    "frāctīs" "having been broken"
+   "frāctō" "having been broken"
    "frēgit" "he broke, he shattered, he crushed"
    "frangī" "to be broken"
+   "frangentem" "breaking, shattering, crushing"
    "frangere" "to break, to shatter, to crush"
    "frangō, frangere, frēgī, frāctus" "to break, to shatter, to crush"
    
@@ -7337,6 +7346,7 @@
 
    "glōriōsa" "glorious"
    "glōriōsissimae" "very glorious"
+   "glōriōsissimum" "very glorious"
    "glōriōsus, glōriōsa -um, glōriōsior -or -us, glōriōsissimus -a -um" "glorious"
 
    "gradieris" "you will walk"
@@ -7627,6 +7637,7 @@
    "honestum" "honest, distinguished, worthy"
    "honestissimīs" "very honest, distinguished, worthy"
    "honestissimō" "very honest, distinguished, worthy"
+   "honestissimam" "very honest, distinguished, worthy"
    "honestissimum" "very honest, distinguished, worthy"
    "honestissimus" "very honest, distinguished, worthy"
    "honestus, honesta -um, honestior -or -us, honestissimus -a -um" "honest, distinguished, worthy"
@@ -9380,6 +9391,9 @@
    "lūdus" "school, game"
    "lūdum" "school, game"
    "lūdus, lūdī" "school, game"
+
+   "lūgubrem" "mournful"
+   "lūgubris, lūgubris, lūgubre" "mournful"
    
    "lūmen" "light"
    "lūmine" "light"
@@ -9766,6 +9780,7 @@
    "merīdiānus" "noon, southern"
 
    "meritīs" "having been earned"
+   "meruī" "I merited"
    "meruistī" "you earned"
    "mereō, merēre, meruī, meritus" "to earn, to deserve"
    "meritī" "merited"
@@ -10071,6 +10086,7 @@
    "moriēris" "you will die"
    "moritur" "he dies"
    "moriāmur" "we might die"
+   "moriar" "I will die"
    "moriēmur" "we will die"
    "moritūrus" "dying (in the future)"
    "morior, morī, mortuus sum" "to die"
@@ -10185,6 +10201,7 @@
    "mundī" "world"
    "mundō" "world"
    "mundum" "world"
+   "mundus" "world"
    "mundus, mundī" "world"
 
    "mūnīmen" "defence, fortification, rampart"
@@ -11731,6 +11748,7 @@
 
    "pervēnerat" "he had arrived"
    "pervēnērunt" "they arrived"
+   "pervēnī" "I arrived"
    "pervēnisset" "he (might) have had come"
    "pervenīre" "to come to, to arrive"
    "perveniō, pervenīre, pervēnī, perventus" "to come to, to arrive"
@@ -11909,6 +11927,7 @@
    "plēnitūdō, plēnitūdinis" "fullness, abundance, plenitude"
 
    "plōrābant" "they were crying"
+   "plōrantem" "crying"
    "plōrantēs" "crying"
    "plōrāre" "to cry"
    "plōrō, plōrāre, plōrāvī, plōrātus" "to cry"
@@ -13034,6 +13053,7 @@
    "recipī" "to be received"
    "recipiam" "I might receive"
    "reciperet" "he might receive"
+   "recēpissem" "I might have had received"
    "recipere" "to receive"
    "recipiō, recipere, recēpī, receptus" "to receive"
    
@@ -13359,6 +13379,8 @@
    "repentīna" "unexpected, sudden"
    "repentīnae" "unexpected, sudden"
    "repentīnī" "unexpected, sudden"
+   "repentīnum" "unexpected, sudden"
+   "repentīnus" "unexpected, sudden"
    "repentīnus, repentīna, repentīnum" "unexpected, sudden"
 
    "reperītur" "it is discovered, found"
@@ -14502,6 +14524,7 @@
    "spatium" "space"
    "spatium, spatiī" "space"
 
+   "speciem" "appearance, view"
    "speciēs" "appearance, view"
    "speciēs, speciēī" "appearance, view"
 
@@ -15063,6 +15086,7 @@
    "suscipiēbant" "they were undertaking"
    "suscēpistī" "you undertook"
    "suscēperat" "he undertook"
+   "suscēpisse" "to have undertaken"
    "suscipere" "to undertake"
    "suscipiō, suscipere, suscēpī, susceptus" "to undertake"
 
