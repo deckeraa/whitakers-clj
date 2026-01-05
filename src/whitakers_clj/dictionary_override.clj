@@ -63,6 +63,7 @@
    "alicui" "to anyone; singular dative from aliqui"
    "aliōquī" "also"
    "aliōquīn" "also"
+   "aliquā" "anyone"
    "aliquam" "anyone"
    "aliquandō" "some day"
    "aliquanta" "some"
@@ -1893,6 +1894,7 @@
 
    "amārā"  "bitter, harsh"
    "amārīs" "bitter, harsh"
+   "amārissimē" "very bitter, harsh"
    "amārus, amāra, amārum" "bitter, harsh"
 
    "ambītur" "it is incircled"
@@ -4034,6 +4036,7 @@
    "condoluī" "I condoled, sympathized"
    "condoleō, condolēre, condoluī, condolītus" "to condole, sympathize"
 
+   "condūcite" "assemble!"
    "conductae" "having been assembled"
    "conductam" "having been assembled"
    "condūxī" "I assembled, led"
@@ -4742,6 +4745,7 @@
    "currunt" "they run"
    "currite" "run!"
    "currere" "to run"
+   "cucurrissent" "they might have had run"
    "currō, currere, cucurrī, cursus" "to run"
    "curre" "run!"
    
@@ -5210,6 +5214,7 @@
 
    "dēvastābant" "they were devastating, ravaging"
    "dēvāstantēs" "devastating, ravaging"
+   "dēvastāte" "devastate! ravage!"
    "dēvāstāre" "to devastate, ravage"
    "dēvāstō, dēvāstāre, dēvāstāvī, dēvāstātus" "to devastate, ravage"
 
@@ -6330,6 +6335,7 @@
 
    "explōrāret" "he was exploring, investigating"
    "explōrārent" "they were exploring, investigating"
+   "explōrātē" "explore! investigate!"
    "explōrāvisset" "he had explored"
    "explōrō, explōrāre, explōrāvī, explōrātus" "to explore, to investigate"
 
@@ -8020,6 +8026,7 @@
    "imprūdentia, imprūdentiae" "ignorance"
 
    "imprūdēns" "imprudent, unwise"
+   "imprūdentī" "imprudent, unwise"
    "imprūdēns, imprūdentis (gen.), imprūdentior -or -us, imprūdentissimus -a -um" "imprudent, unwise"
 
    "impulsū" "shock, impact"
@@ -8315,6 +8322,9 @@
 
    "inhabitābant" "they inhabited"
    "inhabitō, inhabitāre, inhabitāvī, inhabitātus" "to inhabit"
+
+   "inhonestē" "dishonorably"
+   "inhonestus, inhonesta -um, inhonestior -or -us, inhonestissimus -a -um" "dishonorable"
 
    "inimīcī" "enemy"
    "inimīcīs" "enemies"
