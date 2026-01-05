@@ -5146,7 +5146,7 @@
    "dēserta" "deserts"
    "dēsertum, dēsertī" "desert"
 
-   "dēsīderābam" "he was desiring"
+   "dēsīderābam" "I was desiring"
    "dēsīderant" "they desire"
    "dēsīderāret" "he desired"
    "dēsīderāre" "to desire"
