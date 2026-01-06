@@ -309,6 +309,7 @@
    "dīvīnitus" "divinely, of heaven (adverb)"
    "dōnec" "while, as long as, until"
    "Dorensēs" "The Dorians, a Greek ethnic group invading Athens"
+   "dūdum" "since some time"
    "dum" "while, as long as, until"
    "dumnorix" "Dumnorix, an Aeduan, the brother of Divitiacus"
    "dumtaxat" "only"
@@ -1640,6 +1641,10 @@
    
    "Aethiopum" "Ethiopian, black man"
    "Aethiops, Aethiopis" "Ethiopian"
+
+   "afficiātis" "you might equip, affect, weaken"
+   "afficere" "to equip, affect, weaken"
+   "afficiō, afficere, affēcī, affectus" "to equip, affect, weaken"
 
    "afflictiō, afflictiōnis" "affliction, pain"
    "afflictiōne" "affliction, pain"
@@ -4688,6 +4693,9 @@
    "cultōrēs" "cultivators, planters, worshippers"
    "cultor" "cultivator, planter, worshippers"
    "cultor, cultōris" "cultivator, planter, worshippers"
+
+   "cultūram" "care, cultivation, husbandry"
+   "cultūra, cultūrae" "care, cultivation, husbandry"
 
    "cultū"  "cult, civilization"
    "cultus" "cult, civilization"
@@ -12913,6 +12921,7 @@
 
    "putābat" "he was thinking"
    "putābant" "they were thinking"
+   "putāmus" "we were thinking"
    "putant" "they think"
    "putantēs" "thinking"
    "putārem" "I was thinking"
@@ -13692,6 +13701,7 @@
 
    "rogābant" "they were asking"
    "rogāns" "asking"
+   "rogant" "they ask"
    "rogantēs" "asking"
    "rogāvērunt" "they asked"
    "rogāre" "to ask"
