@@ -67,6 +67,7 @@
    "aliquam" "anyone"
    "aliquandō" "some day"
    "aliquanta" "some"
+   "aliquem" "anyone; singular masculine accusative from aliquī"
    "aliqui" "anyone"
    "aliquī" "someone; plural masculine nominative from aliquis"
    "aliquid" "someone"
@@ -1137,6 +1138,7 @@
    "totidem" "as many, the same number of"
    "trecenta" "300"
    "trecentās" "300"
+   "tredecim" "13"
    "trahō, trahere, trāxī, tractum" "to draw, to drag, to haul"
    "trāxissent" "they (might) have had drawn"
    "trēverī" "Treveri, a tribe of Gallia Belgica (plural nominative)"
@@ -4177,6 +4179,10 @@
    "cōnōpēum" "canopy"
    "cōnōpēum, cōnōpēī" "canopy"
 
+   "conquassent" "they might have shaken violently"
+   "conquassāre" "to shake violently"
+   "conquassō, conquassāre, conquassāvī, conquassātus" "to shake violently"
+
    "cōnscendit" "he climbed up, mounted, got in"
    "cōnscendere" "to climb up, mount"
    "cōnscendō, cōnscendere, cōnscendī, cōnscēnsus" "to climb up, mount"
@@ -5063,6 +5069,7 @@
    "dēmōnstrat" "he demonstrates"
    "dēmōnstrātum" "having been demonstrated"
    "dēmōnstrāveram" "I had demonstrated"
+   "dēmōnstrāverat" "he had demonstrated"
    "dēmōnstrāvērunt" "they had demonstrated"
    "dēmōnstrārēmus" "we might have been demonstrating"
    "dēmōnstrāre" "to demonstrate"
@@ -5955,6 +5962,7 @@
    "ēligere" "to choose"
    "ēligō, ēligere, ēlēgī, ēlēctus" "to choose"
 
+   "ēloquiō"  "eloquence, speech, pronouncement"
    "ēloquium" "eloquence, speech, pronouncement"
    "ēloquiī"  "eloquence, speech, pronouncement"
    "ēloquium, ēloquiī" "eloquence, speech, pronouncement"
@@ -6371,6 +6379,7 @@
    "expulērunt" "they expelled"
    "expellō, expellere, expulī, expulsus" "to drive out, to expel"
 
+   "exsecrātum" "cursed, detested"
    "exsecrātus" "cursed, detested"
 
    "exsequī" "to follow"
@@ -8156,6 +8165,7 @@
    "indicātum" "having been indicated, shown"
    "indicātus" "having been indicated, shown"
    "indicāre" "to indicate, to point out, to show"
+   "indicāverat" "he had indicated, showed"
    "indicāvit" "he indicated, showed"
    "indicō, indicāre, indicāvī, indicātus" "to indicate, to point out, to show"
 
@@ -8567,6 +8577,7 @@
    "interpretor, interpretārī, interpretātus" "to interpret"
       
    "interrogāns" "asking"
+   "interrogantēs" "asking"
    "interrogās" "asking"
    "interrogābat" "he was asking"
    "interrogābant" "they were asking"
@@ -8615,6 +8626,8 @@
    "intrōgressī" "having entered"
    "intrōgredior, intrōgredī, intrōgressus sum" "to enter"
 
+   "introierint" "they might have entered, invaded"
+   "introīssent" "they might have had entered, invaded"
    "introiērunt" "they had gone in, invaded"
    "introeant" "they might go in, invade"
    "introīre" "to go in, invade"
@@ -9986,6 +9999,7 @@
    "mittente" "sending"
    "mittentem" "sending"
    "mitteret" "he was sending"
+   "mitterent" "they might have been sending"
    "mīserant" "they had sent"
    "mittam" "I might send"
    "mittī" "to be sent"
@@ -11816,6 +11830,7 @@
 
    "petrī" "of Peter"
    "petrō" "Peter"
+   "petrum" "Peter"
    "petrus" "Peter"
    "Petrus, Petrī" "Peter"
 
@@ -15028,6 +15043,7 @@
    "superbia" "pride, haughtiness, arrogance"
    "superbiae" "pride, haughtiness, arrogance"
    "superbiam" "pride, haughtiness, arrogance"
+   "superbissimē" "very haughtily"
    "superbia, superbiae" "pride, haughtiness, arrogance"
 
    "superficiēs" "top, surface"
