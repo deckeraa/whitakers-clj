@@ -804,6 +804,7 @@
    "perfectē" "perfectly"
    "perfīnītis" "You finished; 2nd person plural present from perfīnīre"
    "perfīnīta" "perfīnīta + est: it has been finished"
+   "Persīdis" "Persian (genitive case)"
    "petulanter" "impudently, adverb from petulāns"
    "Philomenam" "Philomelium a.k.a. Akşehir, a district in modern-day Turkey"
    "pictōrum" "of the Picts"
@@ -912,6 +913,7 @@
    "quicquid" "whatever"
    "quīnta" "fifth"
    "quippe" "surely, indeed, the thing is"
+   "quōcumque" "no matter where"
    "quōdam" "a certain one; ablative from quīdam"
    "quondam" "sometimes"
    "quot" "how many?"
@@ -1287,6 +1289,7 @@
    "ablātīvus, ablātīvī" "ablative"
 
    "abneget" "he denies"
+   "abnegāre" "to deny, to refuse"
    "abnegō, abnegāre, abnegāvī, abnegātus" "to deny, to refuse"
 
    "abscessit" "he left"
@@ -3238,6 +3241,7 @@
    "cassō" "hollow, vain, useless"
    "cassus, cassa, cassum" "hollow, vain, useless"
 
+   "castella"  "castles, strongholds"
    "castellīs" "castles, strongholds"
    "castellō" "castle, stronghold"
    "castellum" "castle, stronghold"
@@ -3719,6 +3723,7 @@
    "cōlō, cōlāre, cōlāvī, cōlātus" "to filter, strain"
 
    "colēbant" "they were worshiping"
+   "colitis" "you worship"
    "coluit" "he worshipped"
    "colunt" "they worship"
    "colō, colere, coluī, cultus" "to worship"
@@ -4952,6 +4957,7 @@
    "dēdūcerēmus" "we had lead down, escorted, removed"
    "dēdūcere" "to escort, to remove"
    "dēducta" "having been escorted, removed"
+   "dēductī" "having been escorted, removed"
    "dēdūceret" "he carried away"
    "dēductīs" "having been led away"
    "dēdūcī" "to be removed, escorted, led away"
@@ -5315,6 +5321,8 @@
    "dīcent" "they will say"
    "dictūrōs" "saying"
    "dīcendō" "saying"
+   "dīcimus" "we say"
+   "dīcite" "say!"
    "dīcō, dīcere, dīxī, dictus" "to say"
 
    "dictābat" "he was saying"
@@ -5632,6 +5640,7 @@
    "dabatur" "he was being given"
    "dabantur" "they were being given"
    "dabant" "they were giving"
+   "dabimus" "we will give"
    "dabō" "I will give"
    "dedī" "I gave"
    "dare" "to give"
@@ -5882,14 +5891,17 @@
    "ēdūcō, ēdūcere, ēdūxī, ēductum" "to lead out"
 
    "effēminandōs" "feminizing, emasculating"
+   "effēminātīs" "effeminate"
    "effēminō, effēmināre, effēmināvī, effēminātus" "to make effeminate, to emasculate"
 
    "efferre" "to carry out, to bury"
    "efferō, efferre, extulī, ēlātus" "to carry out, to bury"
 
    "efficere" "to achieve, produce"
+   "effēcī" "I achieved, produced"
    "effēcit" "he achieved, produced"
    "effectī" "having been achieved, produced"
+   "efficī" "to be achieved, produced"
    "efficiunt" "they achieve, produce"
    "efficiō, efficere, effēcī, effectus" "to achieve, produce"
    
@@ -8636,6 +8648,7 @@
 
    "introierint" "they might have entered, invaded"
    "introīssent" "they might have had entered, invaded"
+   "introīstis" "you intered, invaded"
    "introiērunt" "they had gone in, invaded"
    "introeant" "they might go in, invade"
    "introīre" "to go in, invade"
@@ -9760,6 +9773,7 @@
    "membrīs" "limbs, members"
 
    "memorātī" "having been remembered"
+   "memorātis" "you remember"
    "memorātum" "having been remembered"
    "memorō, memorāre, memorāvī, memorātus" "to remember"
 
@@ -10675,6 +10689,7 @@
    "nūntiāre" "to announce"
    "nūntiō, nūntiāre, nūntiāvī, nūntiātus" "to announce"
 
+   "nūntiī" "message, news"
    "nūntiīs" "messages, news"
    "nūntiō" "message, news"
    "nūntium, nūntiī" "message, news"
@@ -11020,6 +11035,10 @@
    "oppūgnāre" "to attack"
    "oppūgnō, oppūgnāre, oppūgnāvī, oppūgnātus" "to attack"
 
+   "optāmus" "we choose, wish"
+   "optāre" "to choose, wish"
+   "optō, optāre, optāvī, optātus" "to choose, wish"
+
    "ōrās" "border, edge, frontier"
    "ōra, ōrae" "border, edge, frontier"
 
@@ -11093,6 +11112,9 @@
    "ōrāre" "to pray"
    "ōrāvit" "he prayed"
    "ōrō, ōrāre, ōrāvī, ōrātus" "to pray"
+
+   "ōrnāmenta" "ornament, equipment"
+   "ōrnāmentum, ōrnāmentī" "ornament, equipment"
 
    "orta" "having arisen"
    "ortae" "having arisen"
@@ -11696,6 +11718,7 @@
    "permitteret" "he might permit"
    "permittit" "he permits"
    "permittite" "permit! allow!"
+   "permittunt" "they permit, allow"
    "permitte" "permit! allow!"
    "permittō, permittere, permīsī, permissus" "to permit, to allow"
 
@@ -12258,6 +12281,7 @@
    "praedēstināvit" "he predestined"
    "praedēstinō, praedēstināre, praedēstināvī, praedēstinātus" "to predestine"
 
+   "praedicandō"  "preaching"
    "praedicandum" "preaching"
    "praedicābat" "he preached"
    "praedicāre" "to preach"
@@ -12550,6 +12574,8 @@
    "proelium, proeliī" "battle, conflict"
 
    "profānī" "profane"
+   "profānum" "profane"
+   "profānus" "profane"
    "profānus, profāna, profānum" "profane"
 
    "profectiō" "departure, source"
@@ -13068,6 +13094,7 @@
    "recalcitrō, recalcitrāre, recalcitrāvī, recalcitrātus" "to kick back, be disobedient"
    
    "recēdās" "you (might) recede, withdraw"
+   "recēdātis" "you (might) recede, withdraw"
    "recēde" "recede! withdraw!"
    "recēdēbant" "they were receding, they were withdrawing"
    "recēdunt" "they withdraw"
@@ -16563,6 +16590,7 @@
    "volābat" "he was flying"
    "volō, volāre, volāvī, volātus" "to fly"
 
+   "volueritis" "you will have wanted"
    "voluerit" "he will have wanted"
    "vellet" "he was wanting"
    "vellent" "they (might) have been wanting"
