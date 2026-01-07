@@ -804,7 +804,7 @@
    "perfectē" "perfectly"
    "perfīnītis" "You finished; 2nd person plural present from perfīnīre"
    "perfīnīta" "perfīnīta + est: it has been finished"
-   "Persīdis" "Persian (genitive case)"
+   "persīdis" "Persian (genitive case)"
    "petulanter" "impudently, adverb from petulāns"
    "Philomenam" "Philomelium a.k.a. Akşehir, a district in modern-day Turkey"
    "pictōrum" "of the Picts"
@@ -8124,6 +8124,8 @@
    "incitātōs" "having been incited"
    "incitō, incitāre, incitāvī, incitātus" "to incite"
 
+   "inclīnus, inclīna, inclīnum" "leaning"
+
    "inclīnābat" "he inclined"
    "inclīnāvit" "he inclined"
    "inclīnō, inclīnāre, inclīnāvī, inclīnātus" "to incline"
@@ -8257,6 +8259,7 @@
    "īnfāns" "infant"
    "īnfantem" "infant"
    "īnfantum" "infant"
+   "īnfantibus" "infants"
    "īnfantium" "of infants"
    "īnfāns, īnfantis" "infant"
 
@@ -13545,6 +13548,10 @@
    
    "respōnsum" "response"
    "respōnsum, respōnsī" "response"
+
+   "respuimus" "we rejected, spewed out"
+   "respuere" "to reject, spew out"
+   "respuō, respuere, respuī, respūtus" "to reject, spew out"
    
    "restitit" "he resisted"
    "restitērunt" "they resisted"
@@ -14067,6 +14074,7 @@
    "schēmatibus" "plans, figures, forms, postures"
    "schēma, schēmatis" "plan, figure, form, posture"
 
+   "sciant" "they might know"
    "sciās" "you might know"
    "sciātis" "you might know"
    "sciō" "I know"
@@ -14205,6 +14213,7 @@
    "sēmitās" "footpath"
    "sēmita, sēmitae" "footpath"
 
+   "sempiterna"  "everlasting, eternal"
    "sempiternum" "everlasting, eternal"
    "sempiternus" "everlasting, eternal"
    "sempiternīs" "everlasting, eternal"
@@ -14340,6 +14349,7 @@
    "servientem" "having been served"
    "servientibus" "having been served"
    "serviet" "you will serve"
+   "servient" "they will serve"
    "serviō, servīre, servīvī, servītus" "to serve"
 
    "servitūte" "servitude"
