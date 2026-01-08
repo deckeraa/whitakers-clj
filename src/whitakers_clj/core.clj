@@ -430,6 +430,8 @@
            lines (remove #(re-matches #"-ed, having, having a, provided with; -able;.*" %) lines)
            lines (remove #(re-matches #"-ed, having, having a, provided with; -able;.*" %) lines)
            lines (remove #(re-matches #"quadri               PREFIX.*" %) lines)
+           lines (remove #(re-matches #"pro                  PREFIX.*" %) lines)
+           lines (remove #(re-matches #"before -, in front of -;.*" %) lines)
            lines (map clojure.string/trim lines)
            first-paragraph-options (take-while is-parsing-options-line? lines)
            lines (nthrest lines (count first-paragraph-options))
