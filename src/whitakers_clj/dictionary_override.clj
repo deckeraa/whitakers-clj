@@ -1306,6 +1306,10 @@
    
    "absentia" "absence"
    "absentia, absentiae" "absence"
+
+   "absolūtī" "having been absolved"
+   "absolvere" "to absolve"
+   "absolvō, absolvere, absolvī, absolūtus" "to absolve"
    
    "abstinentia" "abstinence, self-restraint"
    "abstinentiae" "abstinence, self-restraint"
@@ -3318,7 +3322,9 @@
    "celebrābat" "you were celebrating"
    "celebrābant" "they were celebrating"
    "celebrantem" "celebrating"
+   "celebrātīs" "having been celebrated"
    "celebrētis" "you (might) have been celebrating"
+   "celebrārī" "to be celebrated"
    "celebrāre" "to celebrate"
    "celebrāvērunt" "they celebrated"
    "celebrāvimus" "we celebrated"
@@ -3627,6 +3633,7 @@
    "coagulātum" "having been coagulated"
    "coagulō, coagulāre, coagulāvī, coagulātus" "to coagulate, to curdle"
 
+   "coangustābat" "it was cramping, narrowing"
    "coangustābant" "they were cramping, narrowing"
    "coangustāre" "to cramp, narrow"
    "coangustō, coangustāre, coangustāvī, coangustātus" "to cramp, narrow"
@@ -3868,6 +3875,10 @@
    "commūne" "common property"
    "commūnī" "common property"
    "commūne, commūnis" "common property"
+
+   "commūnicāvērunt" "they communicated"
+   "commūnicāre" "to communicate"
+   "commūnicō, commūnicāre, commūnicāvī, commūnicātus" "to communicate"
    
    "commūniōnem" "communion"
    "commūniō, commūniōnis" "communion"
@@ -4528,7 +4539,8 @@
 
    "corporea" "physical, corporeal"
    "corporeus, corporea, corporeum" "physical, corporeal"
-   
+
+   "corporī" "body, flesh"
    "corporibus" "bodies"
    "corpus" "body, flesh"
    "corpum" "body, flesh"
