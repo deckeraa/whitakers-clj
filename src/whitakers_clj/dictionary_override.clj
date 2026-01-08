@@ -4113,7 +4113,8 @@
    "cōnfirmāre" "to strengthen, to encourage"
    "cōnfirmābātur" "it was being strengthened"
    "cōnfirmō, cōnfirmāre, cōnfirmāvī, cōnfirmātus" "to strengthen, to encourage"
-   
+
+   "cōnfessī" "having confessed"
    "cōnfitēminī" "you confess"
    "cōnfiteor" "I confess"
    "cōnfitērī" "to confess"
@@ -4318,6 +4319,7 @@
    "cōnstitūta" "arrangements, agreements"
    "cōnstitūtum, cōnstitūtī" "arrangement, agreement"
 
+   "cōnstringēbat" "he was binding together"
    "cōnstringēbant" "they were binding together"
    "cōnstringerent" "they might have bound"
    "cōnstringere" "to bind together"
@@ -4673,8 +4675,14 @@
    "crux, crucis" "cross"
    "crucibus" "crosses"
 
+   "cruciābilis" "agonizing, tormenting"
+   "cruciābilis, cruciābilis, cruciābile" "agonizing, tormenting"
+
    "crucīfīxissent" "having had crucified"
    "crucīfīgō, crucīfīgere, crucīfīxī, crucīfīxus" "to crucify"
+
+   "crūdēlissima" "very cruel"
+   "crūdēlis, crūdēle, crūdēlior -or -us, crūdēlissimus -a -um" "cruel"
 
    "cruōre" "blood, gore, murder"
    "cruor" "blood, gore, murder"
@@ -5972,6 +5980,7 @@
    "elemosina" "alms"
    "elemosinās" "alms"
    "elemosinam" "alms"
+   "eleēmosynīs" "alms"
    "elemosina, elemosinae" "alms"
    "elemosyna, elemosynae" "alms"
    
@@ -7873,6 +7882,7 @@
    "iēiūniī" "of the fast day"
    "jejunium, jejuni(i)" "fast day"
 
+   "ieiūniīs" "fasting"
    "iēiūnus" "fasting"
    "iēiūnōs" "fasting"
    "jējūnus, jējūna -um, jējūnior -or -us, jējūnissimus -a -um" "fasting, hungry"
@@ -7893,7 +7903,8 @@
 
    "ignōminiōsē" "disgracefully"
    "ignōminiōsus, ignōminiōsa, ignōminiōsum" "disgraced"
-   
+
+   "īgnōrābat" "he was ignoring"
    "īgnōrābant" "they were ignoring"
    "īgnōrāmus" "we ignore, we do not know"
    "ignōrantēs" "not knowing"
@@ -9329,6 +9340,7 @@
    "lingua" "tongue, language"
    "linguā" "tongue, language"
    "linguae" "tongues, languages"
+   "linguam" "tongue, language"
    "linguās" "tongues, languages"
    "lingua, linguae" "tongue, language"
    
