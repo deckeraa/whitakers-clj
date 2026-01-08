@@ -7610,6 +7610,7 @@
    "hērēditās, hērēditātis" "inheritance"
    
    "heremita" "hermit"
+   "heremitae" "hermit"
    "heremitam" "hermit"
    "heremita, heremitae" "hermit"
 
@@ -11506,6 +11507,7 @@
    "peccātor, peccātōris" "sinner"
    
    "peccandō" "sinning"
+   "peccātīs" "having sinned"
    "peccāvī" "I sinned"
    "peccāvērunt" "they sinned"
    "peccō, peccāre, peccāvī, peccātus" "to sin"
@@ -13287,6 +13289,7 @@
 
    "rettulērunt" "they brought back, reported"
    "referēns" "bringing back, reporting"
+   "referentēs" "bringing back, reporting"
    "referēbant" "they were bringing back"
    "referrentur" "they (might) be being reported"
    "referre" "to bring back, to report"
@@ -13562,6 +13565,7 @@
    "respondēbant" "they were responding"
    "respondērunt" "they responded"
    "respondī" "I responded"
+   "respondisset" "he might have had answered"
    "respondit" "he responded"
    "respondēre" "to respond"
    "respondeō, respondēre, respondī, respōnsus" "to respond"
@@ -14010,6 +14014,7 @@
 
    "sanguine" "blood"
    "sanguinem" "blood"
+   "sanguinī" "blood"
    "sanguis" "blood"
    "sanguinum" "of blood"
    "sanguis, sanguinis" "blood"
@@ -15476,7 +15481,8 @@
    "timuisse" "to have feared"
    "timēre" "to fear"
    "timeō, timēre, timuī, -" "to fear"
-   
+
+   "timor" "fear"
    "timōre" "fear"
    "timōrem" "fear"
    "timōrēs" "fears"
@@ -15686,6 +15692,7 @@
    "tribūnus, tribūnī" "tribunes"
    
    "triduānās" "three days"
+   "trīduānīs" "three days"
    "triduānum" "three days"
    "triduānō" "three days"
    "triduānōs" "three days"
