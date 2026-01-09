@@ -1021,6 +1021,7 @@
    "sēparātim" "separately, apart"
    "sēpe" "often; variant spelling of saepe"
    "septem" "seven"
+   "septēna" "seventh"
    "septimum" "seventh"
    "septimus" "seventh"
    "septimō" "seventh"
@@ -1774,8 +1775,10 @@
    "ālārum" "of wings"
    "ālās" "wings"
 
+   "alba" "white"
    "albārum" "white"
    "albō" "white"
+   "albōs" "white"
    "albus" "white"
    "albus, alba -um, albior -or -us, albissimus -a -um" "white"
    "albī" "white"
@@ -1958,6 +1961,7 @@
    "āmissīs" "having been lost, dismissed"
    "āmittēs" "you will lose"
    "āmittit" "he lost, dismissed"
+   "āmīsisse" "to have lost"
    "āmittere" "to lose, to dismiss"
    "āmittō, āmittere, āmīsī, āmissus" "to lose, to dismiss"
    
@@ -3717,6 +3721,7 @@
    "cōgnōvit" "he learned"
    "cōgnōvī" "I learned"
    "cognōvērunt" "they learned"
+   "cognōscentēs" "recognizing"
    "cōgnōscere" "to recognize, to learn, to inquire, to know"
    "cōgnōscō, cōgnōscere, cōgnōvī, cōgnitus" "to recognize, to learn, to inquire, to know"
 
@@ -4647,6 +4652,7 @@
    "crēdat" "he might believe"
    "crēdātis" "you might believe"
    "crēditis" "you believe"
+   "crēdenda" "things to be believed"
    "crēdere" "to believe"
    "crēdō, crēdere, crēdidī, crēditus" "to believe"
 
@@ -5846,6 +5852,7 @@
    
    "ductor" "leader"
    "ductōre" "leader"
+   "ductōrēs" "leaders"
    "ductor, ductōris" "leader"
 
    "dulcia" "pleasant, charming, flattering"
@@ -7184,6 +7191,7 @@
    "fūgerat" "he fled"
    "fugere" "to flee"
    "fugeret" "he fled"
+   "fugerent" "they might have fled"
    "fūgērunt" "they fled"
    "fugiāmus" "we might have fled"
    "fugiēbat" "he was fleeing"
@@ -7718,6 +7726,7 @@
    "honorem" "honor"
    "honor, honōris" "honor"
 
+   "honōrābilia" "honorable"
    "honōrābile" "honorable"
    "honōrābilēs" "honorable"
    "honōrābilis" "honorable"
@@ -11124,6 +11133,7 @@
    "ōrdinandō" "setting in order"
    "ōrdināta" "having been set in order"
    "ōrdinātae" "having been set in order"
+   "ōrdinātās" "having been set in order"
    "ōrdināvērunt" "they ordained, set in order"
    "ōrdināvit" "he ordained, set in order"
    "ōrdinātī" "having been set in order, ordained"
@@ -15510,6 +15520,7 @@
    "timēbat" "he was fearing"
    "timeō" "I fear"
    "timuisse" "to have feared"
+   "timuit" "he feared"
    "timēre" "to fear"
    "timeō, timēre, timuī, -" "to fear"
 
