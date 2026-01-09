@@ -6119,6 +6119,7 @@
    "ērigō, ērigere, ērēxī, ērēctus" "to raise, to build"
 
    "ēripuit" "he rescued, he snatched away"
+   "ēriperet" "he might have rescued, snatched away"
    "ēripere" "to rescue, to snatch away"
    "ēripiō, ēripere, ēripuī, ēreptus" "to rescue, to snatch away"
 
@@ -11085,6 +11086,8 @@
    "ōrātiōnēs" "speeches, discourses"
    "ōrātiō, ōrātiōnis" "oration, speech, discourse"
    "ōrātiōnibus" "oration, speech, discourse"
+
+   "ōrantēs" "praying"
    "ōrāvērunt" "they prayed"
    "ōrārent" "they prayed"
    "ōrāret" "he prayed"
@@ -14785,6 +14788,7 @@
    "squālēbant" "they were dry, rough, barren"
    "squāleō, squālēre, squāluī, -" "to be dry, rough, barren"
 
+   "stabilītae"   "stability"
    "stabilitās"   "stability"
    "stabilitātem" "stability"
    "stabilitātis" "stability"
