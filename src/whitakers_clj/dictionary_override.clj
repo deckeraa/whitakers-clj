@@ -93,6 +93,7 @@
    "amīcissimē" "friendly"
    "Ammiraliī" "of the emir, leader, admiral; loanword from Arabic"
    "ammiraliī" "of the emir, leader, admiral; loanword from Arabic"
+   "ammiralīō" "emir, leader, admiral; loanword from Arabic (dative case)"
    "ammiraliōs" "emirs, leaders, admirals; loanword from Arabic (accusative case)"
    "ammiralium" "emir, leader, admiral; loanword from Arabic (accusative case)"
    "ammiralius" "emir, leader, admiral; loanword from Arabic"
@@ -732,6 +733,7 @@
    "nonnullī" "some; masculine plural nominative of nonnullus, -a, -um"
    "nōnus" "9th"
    "Noricum" "Noric; belonging to Noreia, a region in Gallia"
+   "Nortmanniae" "Norman (genitive case)"
    "Nortmannus" "Norman"
    "nōs" "us; plural nominative or accusative of ego"
    "nostrae" "our; singular feminine genitive or dative of noster"
@@ -854,6 +856,7 @@
    "propter" "because of, near"
    "prout" "as, just as, exactly as"
    "prudenter" "prudently"
+   "pulchrē" "beautifully"
    "quā" "what; singular feminine ablative of qui"
    "quae" "who; plural feminine nom. or neuter nom. or acc. from quī"
    "quam" "how? how much?"
@@ -930,6 +933,7 @@
    "recordātus" "rememberance, recollection"
    "recordātus, recordātūs" "rememberance, recollection"
    "reddite" "Return! Plural imperated from reddere."
+   "Reinaldus" "Reynold"
    "rēmigēs" "oars, oarmen; plural masculine nominative or accusative from rēmex, rēmigēs"
    "repente" "suddenly, unexpectedly"
    "resurrēctiō, resurrēctiōnis" "resurrection"
@@ -1343,6 +1347,7 @@
    "accelerāret" "he was speeding up"
    "accelerō, accelerāre, accelerāvī, accelerātus" "to speed up"
 
+   "accēnsum" "having been lit on fire"
    "accēnsō" "having been lit on fire"
    "accendere" "to light on fire"
    "accendō, accendere, accendī, accēnsus" "to light on fire"
@@ -11807,6 +11812,7 @@
    "persequētur" "he will follow"
    "persequuntur" "they follow"
    "persequēbāmur" "we were following"
+   "persequēbantur" "they were following"
    "persecūtūrī" "following (in the future)"
    "persequor, persequī, persecūtus sum" "to follow (deponent)"
    
@@ -12150,7 +12156,7 @@
    "portārius, portāriī" "doorkeeper"
 
    "portandum" "carrying"
-   "portans" "carrying"
+   "portāns" "carrying"
    "portantem" "carrying"
    "portantēs" "carrying, bringing"
    "portāre" "to carry"
@@ -12306,6 +12312,9 @@
 
    "praecō" "herald, crier"
    "praecō, praecōnis" "herald, crier"
+
+   "praeconārī" "to proclaim, to herald"
+   "praeconor, praeconārī, praeconātus" "to proclaim, to herald"
 
    "praecurrērunt" "they ran before"
    "praecurrere" "to run before"
