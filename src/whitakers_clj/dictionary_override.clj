@@ -402,6 +402,7 @@
    "franciae" "of the Franks"
    "Francigena" "those born of the Franks, Frankish-born"
    "Francigenae" "those born of the Franks, Frankish-born"
+   "Francigenīs" "those born of the Franks, Frankish-born"
    "francīs" "the Franks"
    "francōrum" "of the Franks"
    "francōs" "the Franks"
@@ -638,6 +639,7 @@
    "Lombardī" "the Lombards"
    "Lombardōs" "the Lombards"
    "Machomet" "Mohammed, founder of the religion of Islam"
+   "Machomāriam" "a certain mosque, according to Hagenmeyer (p. 276, note 7)"
    "Machumāriam" "a certain mosque, according to Hagenmeyer (p. 276, note 7)"
    "magis" "rather, more"
    "magnopere" "much, very, urgently"
@@ -919,6 +921,7 @@
    "quot" "how many?"
    "quotiēns" "how many times?"
    "quotquot" "however many"
+   "Raimundī" "of Raymond"
    "Raimundus" "Raymond"
    "Rainoldus" "a leader of the crusaders chosen by the Lombards and Longobards"
    "raptim" "quickly, hastily"
@@ -2819,6 +2822,7 @@
    "benedicta" "having been blessed"
    "benedictō" "having been blessed"
    "benedīxit" "he blessed"
+   "benedīcendō" "blessing"
    "benedīcō, benedīcere, benedīxī, benedictus" "to bless"
    "benedīxisset" "he (might) have had blessed"
    
@@ -3609,6 +3613,7 @@
    "clēricālis" "clericaly, priestly"
    "clēricālis, clēricālis, clēricāle" "clericaly, priestly"
 
+   "clēricī" "clerics"
    "clēricōrum" "clerics"
    "clēricus" "cleric"
    "clēricus, clēricī" "cleric"
@@ -4815,6 +4820,7 @@
    "cūstōdiēbāmus" "we were guarding"
    "custōdiēbant" "they were guarding"
    "custōdiendum" "guarding"
+   "custōdīret" "he was guarding"
    "custōdīrent" "they were guarding"
    "custōdīvit" "he guarded"
    "custōdiō" "I guard, watch over"
@@ -5177,6 +5183,8 @@
    "deōrum" "of gods"
    "deōs" "gods"
 
+   "dēscenderet" "he might have descended"
+   "dēscenderent" "they might have descended"
    "dēscendentēs" "descending"
    "dēscenderant" "they had descended"
    "dēscendērunt" "they descended"
@@ -8251,6 +8259,8 @@
    "indumenti" "garment, robe"
    "indumentīs" "garments, robes"
    "indūmentum, indūmentī" "garment, robe"
+   
+   "indūtī" "having dressed, put on"
    "induō, induere, induī, indūtus" "to dress, to put on"
 
    "industria" "diligence, purpose"
@@ -12128,6 +12138,7 @@
    
    "portīs" "gates"
    "porta" "gate"
+   "portae" "gates"
    "portam" "gate"
    "portās" "gates"
    "porta, portae" "door, entrance"
@@ -12795,6 +12806,7 @@
    "prōtēctiōne" "protection"
    "prōtēctiō, prōtēctiōnis" "protection"
 
+   "prōtēctī" "having been protected"
    "prōtēctus" "having been covered, protected"
    "prōtegere" "to cover, protect"
    "prōtegō, prōtegere, prōtēxī, prōtēctus" "to cover, protect"
@@ -13905,7 +13917,8 @@
    "sacrificāre" "sacrifice"
    "sacrificēmus" "we (might) sacrifice"
    "sacrificō, sacrificāre, sacrificāvī, sacrificātus" "sacrifice"
-   
+
+   "sacrās" "sacred things"
    "sacrum" "sacred thing"
    "sacrum, sacrī" "sacred thing"
 
@@ -13993,6 +14006,7 @@
 
    "salvī" "healthy, safe"
    "salvam" "healthy, safe"
+   "salvōs" "healthy, safe"
    "salvum" "healthy, safe"
    "salvus, salva, salvum" "healthy, safe"
 
@@ -14422,6 +14436,10 @@
    "sigillum" "seal"
    "sigillī" "seal"
    "sigillum, sigillī" "seal"
+
+   "signandō" "signing, signifying"
+   "sīgnāre" "to sign, signify"
+   "sīgnō, sīgnāre, sīgnāvī, sīgnātus" "to sign, signify"
 
    "significat" "it signifies"
    "significō, significāre, significāvī, significātus" "to signify"
