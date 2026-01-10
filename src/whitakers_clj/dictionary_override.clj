@@ -296,6 +296,7 @@
    "dēlia" "Dēlia"
    "dēlicātīs" "delicate, plural dative or ablative dēlicātus, -a, -um"
    "dēliciārum" "of delights, from dēliciae"
+   "Dēmētrius" "Demetrius"
    "dēmorātī" "dēmorātī + sunt = they were detained"
    "dēnāriōrum" "of denarii"
    "dēnique" "finally"
@@ -418,6 +419,7 @@
    "Garumnam" "The Garonne, a river running in modern-day France and Spain"
    "gāius" "Gāius, a Roman name"
    "Geōrgiī" "of George, singular masculine genitive from Geōrgius, Geōrgiī"
+   "Georgius" "George, singular masculine nominative from Geōrgius, Geōrgiī"
    "germānī" "Germans"
    "germānīs" "Germans"
    "Germānīs" "Germans"
@@ -668,6 +670,7 @@
    "mēcum" "with me (mē + cum)"
    "melius" "better, comparative adverb from bonus"
    "meō" "my; singular masculine or neuter dative or ablative from meus"
+   "Mercurius" "Mercury. Saint Mercury was a 3rd century warrior saint and martyr credited with killing Julian the Apostate."
    "Merloi" "Achardus dē Monte Merloi = Achard of Montmerle"
    "messala" "Marcus Messala, consul of Rome in 61 B.C."
    "mīlle" "one thousand"
@@ -808,6 +811,8 @@
    "perfectē" "perfectly"
    "perfīnītis" "You finished; 2nd person plural present from perfīnīre"
    "perfīnīta" "perfīnīta + est: it has been finished"
+   "Persae" "Persians"
+   "persae" "Persians"
    "persīdis" "Persian (genitive case)"
    "petulanter" "impudently, adverb from petulāns"
    "Philomenam" "Philomelium a.k.a. Akşehir, a district in modern-day Turkey"
@@ -1909,6 +1914,7 @@
    "amāns, amantis (gen.), amantior -or -us, amantissimus -a -um" "loving"
 
    "amābat" "he was loving"
+   "amābant" "they were loving"
    "amat" "he loves"
    "amāre" "to love"
    "amāret" "he loved"
@@ -6082,7 +6088,9 @@
    "equitātus" "cavalry"
    "equitātus, equitātūs" "cavalry"
 
+   "equitābant" "they were riding on horseback"
    "equitāvērunt" "they rode on horseback"
+   "equitāvimus" "we rode on horseback"
    "equitāvit" "he rode on horseback"
    "equitāre" "to ride on horseback"
    "equitō, equitāre, equitāvī, equitātus" "to ride on horseback"
@@ -6259,6 +6267,10 @@
 
    "excellentius" "more excellent"
    "excellēns, excellentis (gen.), excellentior -or -us, excellentissimus -a -um" "excellent"
+
+   "exclāmāvērunt" "they exclaimed, cried out"
+   "exclāmāre" "to exclaim, cry out"
+   "exclāmō, exclāmāre, exclāmāvī, exclāmātus" "to exclaim, cry out"
 
    "excommūnicātā" "having been excommunicated"
    "excommūnicō, excommūnicāre, excommūnicāvī, excommūnicātus" "to excommunicate"
@@ -6637,6 +6649,7 @@
    "fānum, fānī" "temple"
 
    "farīna" "flour, meal, ground corn"
+   "farīnam" "flour, meal, ground corn"
    "farīna, farīnae" "flour, meal, ground corn"
    
    "fasciculum" "small bundle"
@@ -8146,6 +8159,7 @@
    "inchoō, inchoāre, inchoāvī, inchoātus" "to begin, to set going, to establish"
 
    "incēperis" "you might have started"
+   "incēpimus" "we started"
    "incipere" "to start"
    "incipiēns" "starting"
    "incipiēbat" "he was starting"
@@ -8812,6 +8826,7 @@
    "invītō, invītāre, invītāvī, invītātus" "to invite"
    
    "invocant" "they invoked"
+   "invocantēs" "invoking"
    "invocās" "you invoke"
    "invocātō" "having been invoked"
    "invocāvērunt" "they invoked"
@@ -9938,6 +9953,10 @@
    "mīlitiae" "military"
    "mīlitiam" "military"
    "mīlitia, mīlitiae" "military"
+
+   "mīlitābant" "they were fighting"
+   "mīlitāre" "to fight"
+   "mīlitō, mīlitāre, mīlitāvī, mīlitātus" "to fight"
    
    "milium" "millet"
    "milium, miliī" "millet"
@@ -10318,8 +10337,9 @@
    "mūnīre" "to fortify"
    "mūniō, mūnīre, mūnīvī, mūnītus" "to fortify"
 
-   "mūnīta" "fortified"
+   "mūnīta"  "fortified"
    "mūnītam" "fortified"
+   "mūnītī"  "fortified"
    "mūnītō"  "fortified"
    "mūnītum" "fortified"
    "mūnītus" "fortified"
@@ -11824,6 +11844,7 @@
    "persequēbāmur" "we were following"
    "persequēbantur" "they were following"
    "persecūtūrī" "following (in the future)"
+   "persequī" "to follow (deponent)"
    "persequor, persequī, persecūtus sum" "to follow (deponent)"
    
    "persevērō, persevērāre, persevērāvī, persevērātus" "to persevere"
@@ -16626,6 +16647,7 @@
 
    "vīvī" "living"
    "vīvōs" "those alive"
+   "vīvum" "alive"
    "vīvus" "alive"
    "vīvus, vīva, vīvum" "alive"
 
