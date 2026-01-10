@@ -2267,6 +2267,7 @@
    "apprehendit" "he seizes, he seized"
    "apprehendēbāmus" "we were seizing"
    "apprehendērunt" "they seized"
+   "apprehēnsō" "having been seized"
    "apprehendere" "to seize, to grasp"
    "apprehendō, apprehendere, apprehendī, apprehēnsus" "to seize, to grasp"
 
@@ -2550,6 +2551,10 @@
    
    "assūmptiōne" "assumption, taking, receiving"
    "assūmptiō, assūmptiōnis" "assumption, taking, receiving"
+
+   "astābat" "he was standing by"
+   "astāre" "to stand by"
+   "astō, astāre, astitī, -" "to stand by"
 
    "astra" "stars"
    "astrum" "star"
@@ -2836,6 +2841,7 @@
    "benedīcitis" "you bless"
    "benedicta" "having been blessed"
    "benedictō" "having been blessed"
+   "benedīximus" "we blessed"
    "benedīxit" "he blessed"
    "benedīcendō" "blessing"
    "benedīcō, benedīcere, benedīxī, benedictus" "to bless"
@@ -3964,6 +3970,7 @@
 
    "comprehenderet" "he might catch"
    "comprehenderant" "they had caught"
+   "comprehendērunt" "they caught"
    "comprehēnsōs" "having been seized"
    "comprehendere" "to catch"
    "comprehendō, comprehendere, comprehendī, comprehēnsus" "to catch"
@@ -6764,6 +6771,9 @@
 
    "fessa" "tired"
    "fessus, fessa, fessum" "tired"
+
+   "festīnātiōne" "haste"
+   "festīnātiō, festīnātiōnis" "haste"
    
    "fēstī" "festive"
    "festīnābant" "they were hastening"
@@ -7572,6 +7582,7 @@
    "habitantium" "inhabiting"
    "habitāre" "to inhabit"
    "habitābat" "he was living"
+   "habitābant" "they were living"
    "habitābitis" "you will have"
    "habitandum" "living"
    "habitant" "they inhabit"
@@ -10896,6 +10907,7 @@
    "obumbrō, obumbrāre, obumbrāvī, obumbrātus" "to overshadow, to darken"
 
    "obviant" "they oppose, resist"
+   "obviantēs" "opposing, resisting"
    "obviāvērunt" "they opposed, resisted"
    "obviāre" "to oppose, resist"
    "obviō, obviāre, obviāvī, obviātus" "to oppose, resist"
@@ -11913,6 +11925,7 @@
    "pessimō" "worst"
    "pessimus, pessima, pessimum" "worst"
 
+   "petēbat" "he was asking for"
    "petēbant" "they were asking for"
    "petit" "he sought, asked for"
    "petīvīt" "he asked for"
