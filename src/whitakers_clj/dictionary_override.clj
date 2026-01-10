@@ -96,6 +96,7 @@
    "ammiralīō" "emir, leader, admiral; loanword from Arabic (dative case)"
    "ammiraliōs" "emirs, leaders, admirals; loanword from Arabic (accusative case)"
    "ammiralium" "emir, leader, admiral; loanword from Arabic (accusative case)"
+   "Ammirālius" "emir, leader, admiral; loanword from Arabic"
    "ammiralius" "emir, leader, admiral; loanword from Arabic"
    "ammirātī" "emirs, leaders, admirals; loanword from Arabic"
    "ammirātus" "emir, leader, admiral; loanword from Arabic"
@@ -914,6 +915,7 @@
    "quandō" "when, because"
    "quandōque" "whenever"
    "quantōcius" "the sooner the better (adverb)"
+   "quantōs" "how much?"
    "quantum" "how much?"
    "quantus" "how much?"
    "quantus, quanta, quantum" "how much?"
@@ -9102,6 +9104,7 @@
    "laedō, laedere, laesī, laesus" "to strike, to wound"
 
    "laesiō" "hurt, harm, injury"
+   "laesiōne"  "hurt, harm, injury"
    "laesiōnem" "hurt, harm, injury"
    "laesiōnis" "hurt, harm, injury"
    "laesiō, laesiōnis" "hurt, harm, injury"
@@ -9659,6 +9662,9 @@
 
    "malitiae" "malice"
    "malitia, malitiae" "malice"
+
+   "māluērunt" "they preferred"
+   "mālō, mālle, māluī, -" "to prefer"
    
    "malleōrum" "of hammers"
    "malleus, malleī" "hammer"
@@ -12215,6 +12221,7 @@
    "portāvit" "he carried"
    "portō" "I carry"
    "portet" "it might carry"
+   "portārī" "to be carried"
    "portō, portāre, portāvī, portātus" "to carry, to bring"
    "portantur" "they are carried"
    "portatur" "it is carried"
@@ -13234,6 +13241,9 @@
    "recolligam" "I will recover, collect"
    "recolligere" "to recover, collect"
    "recolligō, recolligere, recollēgī, recollēctus" "to recover, collect"
+
+   "recōgnōscere" "to recognize"
+   "recōgnōscō, recōgnōscere, recōgnōvī, recōgnitus" "to recognize"
 
    "reconciliāta" "having been reconciled"
    "reconciliātī" "having been reconciled"
@@ -14449,6 +14459,7 @@
    "servientibus" "having been served"
    "serviet" "you will serve"
    "servient" "they will serve"
+   "servientēs" "serving"
    "serviō, servīre, servīvī, servītus" "to serve"
 
    "servitūte" "servitude"
@@ -16393,6 +16404,7 @@
    "vexō, vexāre, vexāvī, vexātus" "to vex, to trouble"
 
    "vexilla" "flags, banners"
+   "vēxillō"  "flag, banner"
    "vexillum" "flag, banner"
    "vexillī" "flag, banner"
    "vexillum, vexillī" "flag, banner"
@@ -16489,6 +16501,7 @@
 
    "vigil" "vigil, sentry, watch"
    "vigil, vigilis" "vigil, sentry, watch"
+   "vigiliā" "vigil, watch"
    "vigiliam" "vigil, watch"
    "vigiliārum" "vigil, watch"
    "vigiliās" "vigil, watch"
