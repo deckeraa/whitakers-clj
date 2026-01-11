@@ -470,6 +470,7 @@
    "honorabiliter" "honorably"
    "hōs" "these; plural masculine accusative from hic, haec, hoc"
    "Hugō" "Hugh"
+   "Hugōnem" "Hugh (accusative case)"
    "Hungāriae" "Hungary"
    "Hybernia" "Ireland (nominative case)"
    "Hyberniae" "of Ireland (genitive case)"
@@ -2473,6 +2474,7 @@
    "arx" "citadel"
    "arx, arcis" "citadel"
 
+   "arvīs" "fields, countrysides"
    "arva" "field, country"
    "arva, arvae" "field, country"
    
@@ -4494,6 +4496,7 @@
 
    "conventiō" "agreement, meeting of people"
    "conventiōnem" "agreement, meeting of people"
+   "conventiōnēs" "agreements, meetings of people"
    "conventiō, conventiōnis" "agreement, meeting of people"
    
    "conversātiōne" "intimacy, acquaintance, way of life, monastic life"
@@ -5441,7 +5444,8 @@
    "dīgnatus" "having been deemed worthy"
    "dīgnata" "having been deemed worthy"
    "dīgnō, dīgnāre, dīgnavī, dīgnatus" "to deem worthy, to deign"
-   
+
+   "dīgnās" "worthy, appropriate"
    "dīgnum" "worthy, appropriate"
    "dīgnus, dīgna, dīgnum" "worthy, appropriate"
 
@@ -6419,6 +6423,10 @@
    "expertus" "expert"
    "expertūs" "expert"
    "expertus, expertūs" "expert"
+
+   "explēret" "he was filling out"
+   "explēre" "to fill out"
+   "expleō, explēre, explēvī, explētus" "to fill out"
 
    "explōrātor" "scout, explorer"
    "explōrātōrēs" "scouts, explorers"
@@ -7490,6 +7498,7 @@
    "grātiās" "graces"
 
    "grāta" "agreeable, thankful"
+   "grātēs" "agreeable, thankful"
    "grātum" "agreeable, thankful"
    "grātus, grāta -um, grātior -or -us, grātissimus -a -um" "agreeable, thankful"
 
@@ -10544,6 +10553,10 @@
    "nēminī" "no one"
    "nēmō" "no one"
    "nēmō, nēminis" "no one"
+
+   "nemoribus" "woods, forests"
+   "nemus" "wood, forest"
+   "nemus, nemoris" "wood, forest"
    
    "nemorōsam" "woody, shaded"
    "nemorōsus" "woody, shaded"
@@ -10614,6 +10627,7 @@
    "nōbilibus" "noble, famous, high-born"
    "nōbilis" "noble, famous, high-born"
    "nōbilissimōs" "very noble, famous, high-born"
+   "nōbilissimum" "very noble, famous, high-born"
    "nōbilissimus" "very noble, famous, high-born"
    "nōbilis, nōbilis, nōbile" "noble, famous, high-born"
 
@@ -13229,6 +13243,7 @@
    "recipiam" "I might receive"
    "reciperet" "he might receive"
    "recēpissem" "I might have had received"
+   "recipiendam" "receiving"
    "recipere" "to receive"
    "recipiō, recipere, recēpī, receptus" "to receive"
    
