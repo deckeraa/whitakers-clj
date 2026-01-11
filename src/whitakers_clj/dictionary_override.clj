@@ -1113,6 +1113,7 @@
    "surānī" "Syrians"
    "surānōrum" "of Syrians"
    "Surānōrum" "of Syrians"
+   "Suriānī" "Syrians"
    "sūrsum" "on top, upward"
    "Syon" "Zion"
    "Synai" "Sinai"
@@ -1124,6 +1125,7 @@
    "syriae" "of Syria"
    "syrum" "Syrus"
    "syrus" "Syrus (accusative case)"
+   "Talamaniā" "the name of a castle"
    "Tamesis" "Thames river"
    "Tancredī" "of Tancred, Prince of Galilee (1075–1112) (genitive case)"
    "Tancredō" "Tancred, Prince of Galilee (1075–1112) (dative or ablative case)"
@@ -3793,6 +3795,7 @@
    "colligere" "to collect, to assemble"
    "colligit" "he collects, he assembles"
    "colligitur" "is assembled"
+   "collēctō" "having been collected, assembled"
    "collēctōs" "having been collected, assembled"
    "collēctum" "having been collected, assembled"
    "colligō, colligere, collēgī, collēctus" "to collect, to assemble"
@@ -3818,6 +3821,10 @@
 
    "colloquium" "conversation, meeting"
    "colloquium, colloquiī" "conversation, meeting"
+
+   "colōnōs" "farmers, inhabitants"
+   "colōnus" "farmer, inhabitant"
+   "colōnus, colōnī" "farmer, inhabitant"
    
    "colōrem" "color"
    "colōris" "color"
@@ -4275,6 +4282,11 @@
 
    "cōnsēnsū" "consensus"
    "cōnsēnsus, cōnsēnsūs" "consensus"
+
+   "cōnservāvērunt" "they save, preserved"
+   "cōnservāre" "to save, preserve"
+   "cōnservō, cōnservāre, cōnservāvī, cōnservātus" "to save, preserve"
+   
    
    "cōnsentiō, cōnsentīre, cōnsēnsī, cōnsēnsus" "to be in agreement"
    "cōnsīderābat" "he was considering"
@@ -8742,6 +8754,7 @@
    "intrōgredior, intrōgredī, intrōgressus sum" "to enter"
 
    "introierint" "they might have entered, invaded"
+   "introiit" "he invaded, entered in"
    "introīssent" "they might have had entered, invaded"
    "introīstis" "you intered, invaded"
    "introiērunt" "they had gone in, invaded"
@@ -10346,6 +10359,7 @@
    "plūrima" "very many"
    "plūrimārum" "of very many"
    "plūrimās" "very many"
+   "plūrimōs" "very many"
    "plūrimum" "very many"
    "plūrimī" "very many"
    "multus, multa -um, -, plūrimus -a -um" "many"
@@ -13717,6 +13731,7 @@
    "retinēbant" "they were holding back, they were retaining"
    "retinent" "they hold back, retain"
    "retinet" "he holds back, retains"
+   "retinuit" "he retained, held back"
    "retineō, retinēre, retinuī, retentus" "they were holding back, they were retaining"
 
    "retractantēs" "withdrawing"
