@@ -664,6 +664,7 @@
    "mārcum" "Marcus (accusative case)"
    "mārcō" "Marcus (dative or ablative case)"
    "mārce" "O, Marcus (vocative case)"
+   "Marra" "the name of a city"
    "martir" "martyr, one who dies for their faith"
    "martirizāvērunt" "they were marytred; 3rd person plural perfecte from martyrizō, martyrizāre"
    "Martis" "March"
@@ -1630,6 +1631,7 @@
    "aes, aeris" "copper"
 
    "aestimābat" "he was judging"
+   "aestimantēs" "judging, valuing, estimating"
    "aestimāre" "to value, estimate, judge"
    "aestimō, aestimāre, aestimāvī, aestimātus" "to value, estimate, judge"
 
@@ -4612,6 +4614,7 @@
    "cornibus" "horns"
    "cornu, cornūs" "horn"
 
+   "correptī" "having been grasped, shortened, hastened"
    "correptīs" "having been grasped, shortened, hastened"
    "corripere" "to grasp, shorten, hasten"
    "corripiō, corripere, corripuī, correptus" "to grasp, shorten, hasten"
@@ -8783,6 +8786,7 @@
    "inūtilēs" "useless"
    "inūtilis, inūtilis, inūtile" "useless"
 
+   "invādēbant" "they were invading"
    "invāsērunt" "they invaded"
    "invāsimus" "we attacked, invaded"
    "invāsit" "he invaded"
@@ -13740,6 +13744,10 @@
    "retribūtiō" "retribution, recompense"
    "retribūtiō, retribūtiōnis" "retribution, recompense"
 
+   "retrōcēdentēs" "receding"
+   "retrōcēdere" "to recede"
+   "retrōcēdō, retrōcēdere, retrōcessī, retrōcessus" "to recede"
+
    "revēxit" "he carried back"
    "revehere" "to carry back"
    "revehō, revehere, revēxī, revectus" "to carry back"
@@ -14633,6 +14641,7 @@
    "sistō, sistere, stitī, status" "to stop"
    
    "sitis, sitis" "thirst"
+   "sitim" "thirst"
    "sitis" "thirst"
    "sitī" "thirst"
    "sitēs" "thirsts"
