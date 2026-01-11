@@ -355,6 +355,7 @@
    "Ercī" "Erc, Bishop of Slane (-513 A.D.)"
    "Ercō" "Erc, Bishop of Slane (-513 A.D.)"
    "Ērēsburg" "a Saxon refuge castle near modern-day Obermarsberg"
+   "ergā" "towards, opposite"
    "ergō" "therefore"
    "esse" "to be"
    "et" "and"
@@ -13384,6 +13385,7 @@
    "referēns" "bringing back, reporting"
    "referentēs" "bringing back, reporting"
    "referēbant" "they were bringing back"
+   "referimus" "we report, bring back"
    "referrentur" "they (might) be being reported"
    "referre" "to bring back, to report"
    "refers" "you bring back, report"
@@ -14336,6 +14338,9 @@
    "sēmitam" "footpath"
    "sēmitās" "footpath"
    "sēmita, sēmitae" "footpath"
+
+   "sēmivīvī" "half-alive"
+   "sēmivīvus, sēmivīva, sēmivīvum" "half-alive"
 
    "sempiterna"  "everlasting, eternal"
    "sempiternum" "everlasting, eternal"
@@ -15807,6 +15812,7 @@
    "trīnitātis" "Trinity"
    "trīnitās, trīnitātis" "Trinity"
 
+   "trīnō"  "triple"
    "trīnum" "triple"
    "trīnus" "triple"
    "trīnus, trīna, trīnum" "triple"
@@ -16172,6 +16178,7 @@
    "valle" "valley"
    "vallem" "valley"
    "vallēs" "valleys"
+   "vallibus" "valleys"
    "vallis" "valley"
    "vallis, vallis" "valley"
 
