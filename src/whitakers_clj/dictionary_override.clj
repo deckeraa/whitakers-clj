@@ -612,6 +612,7 @@
    "itūrī" "to be gone to. future active participle from eō, īre, iī, itum"
    "iudam" "Judas Iscariot"
    "iudas" "Judas Iscariot"
+   "Iūliō" "July"
    "iussit" "he commanded; 3rd person singular perfect from iubeō, iubēre, iussī, iussus"
    "iuxtā" "near, nearly"
    "judas" "Judas Iscariot"
@@ -1604,6 +1605,9 @@
    "aedificia" "buildings"
    "aedificiīs" "buildings"
    "aedificium, aedificiī" "building, structure"
+
+   "aegritūdine" "illness, sickness"
+   "aegritūdō, aegritūdinis" "illness, sickness"
 
    "aegyptiī" "Egyptian"
    "Aegyptius, Aegyptiī" "Egyptian"
@@ -10855,7 +10859,8 @@
 
    "obaudīvit" "he obeyed, listened to"
    "obaudiō, obaudīre, obaudiī, obaudītus" "to obey, to listen to"
-   
+
+   "obdormīvit" "he fell asleep"
    "obdormīvissent" "they (might) have had fallen asleep"
    "obdormiō, obdormīre, obdormīvī, obdormītus" "to fall asleep"
    
@@ -10984,6 +10989,7 @@
    "occīsus" "having been killed"
    "occīdō, occīdere, occīdī, occīsus" "to kill"
 
+   "occīsiō"    "massacre, slaughter, murder"
    "occīsiōne"  "massacre, slaughter, murder"
    "occīsiōnem" "massacre, slaughter, murder"
    "occīsiōnis" "massacre, slaughter, murder"
@@ -13298,6 +13304,9 @@
    "rēctitūdinis" "straightness, rectitude"
    "rēctitūdō, rēctitūdinis" "straightness, rectitude"
 
+   "rēctor" "leader, ruler"
+   "rēctor, rēctōris" "leader, ruler"
+
    "rēctā" "straight, proper, correct"
    "rēctō" "straight, proper, correct"
    "rēctum" "straight, proper, correct"
@@ -13642,6 +13651,7 @@
    "requiēs" "rest, repose"
    "requiēs, requiēī" "rest, repose"
    "requiēscam" "I will rest"
+   "requiēscēns" "resting"
    "requiēscite" "rest!"
    "requiēscō, requiēscere, requiēvī, requiētum" "to rest, to quiet down"
 
@@ -14689,7 +14699,8 @@
    "solium" "throne"
    "soliī"  "throne"
    "solium, soliī" "throne"
-   
+
+   "sōlemnitāte" "solemnity"
    "sollemnitātum" "of solemnities"
    "sollemnitās, sollemnitātis" "solemnity"
 
