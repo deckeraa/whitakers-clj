@@ -541,7 +541,7 @@
                    "iuss.it" "iussit" "iuss.erunt" "iussērunt" "incit.atis" "incitātis"
                    "super.atis" "superātis" "occup.atis" "occupātis" "perturb.atis" "perturbātis"
                    "prodi.ret" "prōdīret" "libert.ate" "lībertāte" "denari.orum" "dēnāriōrum"
-                   "fabric.atis" "fabricātus" "possid.ebatur" "possidēbātur" "lac.um" "lacum" "clam.ate" "clāmāte" "modic.um" "modicum" "prophet.am" "prophētam" "sicer.am" "siceram" "av.um" "avum" "irat.us" "īrātus" "peper.it" "peperit" "compert.um" "compertum" "t.ui" "tuī" "ablat.a" "ablāta" "dux.ere" "dūxēre" "utr.um" "utrum" "veni.te" "venīte" "narr.ate" "nārrātē" "separ.ate" "sēparāte" "sc.it" "scit" "repl.etis" "replētīs" "cred.itis" "crēditis" "sci.atis" "sciātis" "explor.ate" "explōrātē" "devast.ate" "dēvastāte"
+                   "fabric.atis" "fabricātus" "possid.ebatur" "possidēbātur" "lac.um" "lacum" "clam.ate" "clāmāte" "modic.um" "modicum" "prophet.am" "prophētam" "sicer.am" "siceram" "av.um" "avum" "irat.us" "īrātus" "peper.it" "peperit" "compert.um" "compertum" "t.ui" "tuī" "ablat.a" "ablāta" "dux.ere" "dūxēre" "utr.um" "utrum" "veni.te" "venīte" "narr.ate" "nārrātē" "separ.ate" "sēparāte" "sc.it" "scit" "repl.etis" "replētīs" "cred.itis" "crēditis" "sci.atis" "sciātis" "explor.ate" "explōrātē" "devast.ate" "dēvastāte" "termin.um" "terminum" "divis.i" "dīvīsī"
                    } word) word)
         ;; word (or (when (clojure.string/includes? word ".")
         ;;       (:original-word parsed-word))

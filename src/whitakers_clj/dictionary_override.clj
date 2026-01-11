@@ -1637,6 +1637,7 @@
    "aestimātiō, aestimātiōnis" "valuation, estimation"
    
    "aestīvāle" "summer"
+   "aestīvō" "summer"
    "aestīvālis, aestīvālis, aestīvāle" "summer"
 
    "aestās" "summer"
@@ -2413,6 +2414,7 @@
    "āriditāte"  "dryness, drought"
    "āriditās, āriditātis" "dryness, drought"
 
+   "ārida"  "dry"
    "āridam" "dry"
    "āridō" "dry"
    "āridōs" "dry"
@@ -2582,6 +2584,7 @@
    "ātrium, ātrī" "atrium"
 
    "attendam" "I will attend"
+   "attendendum" "attending"
    "attendere" "to attend"
    "attendō, attendere, attendī, attentus" "to attend"
 
@@ -3218,6 +3221,7 @@
 
    "carērent" "they would lack"
    "cārentēs" "lacking"
+   "cāreret" "it might have lacked"
    "carēre" "to lack"
    "careō, carēre, caruī, caritus" "to lack"
    
@@ -4496,6 +4500,7 @@
    "conveniō, convenīre, convēnī, conventus" "to meet, to come together"
 
    "conventiō" "agreement, meeting of people"
+   "conventiōne" "agreement, meeting of people"
    "conventiōnem" "agreement, meeting of people"
    "conventiōnēs" "agreements, meetings of people"
    "conventiō, conventiōnis" "agreement, meeting of people"
@@ -8150,6 +8155,7 @@
    "inaequālitās" "inequality"
    "inaequālitās, inaequālitātis" "inequality"
 
+   "inaquōsa"  "waterless"
    "inaquōsam" "waterless"
    "inaquōsus, inaquōsa, inaquōsum" "waterless"
 
@@ -11660,6 +11666,7 @@
    "perēgērunt" "they completed"
    "perēgit" "he completed"
    "perāctus" "having been completed"
+   "peragerent" "they might have completed"
    "peragō, peragere, perēgī, perāctus" "to carry through, to complete"
 
    "peragrāns" "traveling over"
@@ -13705,6 +13712,7 @@
    "reticēre" "to keep silent"
    "reticeō, reticēre, reticuī, -" "to keep silent"
 
+   "retentus" "having been retained"
    "retinenda" "retaining"
    "retinēbant" "they were holding back, they were retaining"
    "retinent" "they hold back, retain"
@@ -15509,6 +15517,7 @@
 
    "terminī" "end, boundary, limit"
    "terminōs" "ends, boundaries, limits"
+   "terminum" "end, boundary, limit"
    "terminus" "end, boundary, limit"
    "terminus, terminī" "end, boundary, limit"
    
