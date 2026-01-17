@@ -3150,6 +3150,9 @@
    "candōris" "whiteness, brightness"
    "candor, candōris" "whiteness, brightness"
 
+   "canit" "it sings"
+   "canō, canere, canī, cantātus" "to sing"
+
    "canīculus" "small dog"
    "canīculum" "small dog"
    "canīculus, canīculī" "small dog"
@@ -3199,6 +3202,7 @@
    "cēpissent" "they had taken hold"
    "captam" "having been taken"
    "captī"  "having been taken"
+   "capiunt" "they take"
    "capiō, capere, cēpī, captus" "to seize, to take hold"
 
    "capillī" "hair"
@@ -4665,6 +4669,7 @@
    "crassum" "fat"
    "crassī"  "fat"
    "crassum, crassī" "fat"
+   "crassus" "fat"
 
    "crāstinā" "tomorrow"
    "crāstinae" "tomorrow"
@@ -5904,6 +5909,7 @@
    "dūcō, dūcere, dūxī, ductus" "to lead"
    "dūcerent" "they might lead"
    "ductī" "having been lead"
+   "dūcitur" "it is drawn"
    
    "ductor" "leader"
    "ductōre" "leader"
@@ -6088,6 +6094,8 @@
 
    "ementēs" "buying"
    "emere" "to buy"
+   "emit" "he buys"
+   "emī" "to be bought"
    "emō, emere, ēmī, ēmptum" "to buy"
 
    "ēmergunt" "they emerge, appear"
@@ -6760,6 +6768,10 @@
 
    "fēnō" "hay"
    "fēnum, fēnī" "hay"
+
+   "fera" "wild, savage"
+   "ferae" "wild, savage"
+   "ferus, fera, ferum" "wild, savage"
 
    "fēria" "festival, holiday"
    "fēria, fēriae" "festival, holiday"
