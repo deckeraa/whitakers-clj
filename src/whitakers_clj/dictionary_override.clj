@@ -11518,9 +11518,12 @@
    "parturīvērunt" "they gave birth"
    "parturiō, parturīre, parturīvī, -" "to give birth, to be in labor"
 
+   "parvae" "small"
    "parvam" "small"
+   "parvās" "small"
    "parvī" "small"
    "parvīs" "small"
+   "parvō" "small"
    "parvum" "small"
    "parvus, parva, parvum" "small"
    
@@ -11978,6 +11981,7 @@
    "persuādeō, persuādēre, persuāsī, persuāsus" "to persuade"
    
    "perterritī" "being greatly frightened"
+   "perterritum" "having been greatly frightened"
    "perterritus" "having been greatly frightened"
    "perterreō, perterrēre, perterruī, perterritus" "to greatly frighten"
    
@@ -12026,6 +12030,10 @@
    "pessimus" "worst"
    "pessimō" "worst"
    "pessimus, pessima, pessimum" "worst"
+
+   "petasō" "hat"
+   "petasus" "hat"
+   "petasus, petasī" "hat"
 
    "petēbat" "he was asking for"
    "petēbant" "they were asking for"
@@ -12083,8 +12091,11 @@
    "pignus" "pledge, security, hostage"
    "pignus, pignoris" "pledge, security, hostage"
 
+   "pilā" "ball"
    "pilae" "ball"
+   "pilam" "ball"
    "pila, pilae" "ball"
+   
    "pīlō" "hair"
    "pīlōs" "hairs"
    "pīlus" "hair"
@@ -12171,7 +12182,8 @@
    "plectēns" "plaiting, twining"
    "plectere" "to plait, twine"
    "plectō, plectere, plexī, plectus" "to plait, twine"
-   
+
+   "plēna" "full"
    "plēnā" "full"
    "plēnae" "full"
    "plēnam" "full"
@@ -13047,8 +13059,10 @@
    
    "puer" "boy"
    "puerī" "boy"
+   "puerīs" "boys"
    "puerō" "boy"
    "puerōs" "boys"
+   "puerum" "boy"
    "puer, puerī" "boy"
    "puerōrum" "of boys"
 
@@ -13087,12 +13101,23 @@
    "pugnō, pugnāre, pugnāvī, pugnātus" "to fight"
 
    "pulchra" "beautiful"
+   "pulchram" "beautiful"
    "pulcherrimā" "very beautiful"
    "pulcherrimam" "very beautiful"
    "pulcher, pulchra -um, pulchrior -or -us, pulcherrimus -a -um" "beautiful"
 
    "pūlex" "flea"
    "pūlex, pūlicis" "flea"
+
+   "pullī" "younglings, animals newly born"
+   "pullīs" "younglings, animals newly born"
+   "pullōs" "younglings, animals newly born"
+   "pullus, pullī" "youngling, animal newly born"
+
+   "pulmō" "lung"
+   "pulmōnēs" "lungs"
+   "pulmōnibus" "lungs"
+   "pulmō, pulmōnis" "lung"
 
    "pulsum" "pulse, stroke"
    "pulsus, pulsūs" "pulse, stroke"
