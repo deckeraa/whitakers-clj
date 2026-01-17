@@ -7048,6 +7048,7 @@
    "flūmine" "river"
    "flūminibus" "rivers"
    "flūminis" "river"
+   "flūminum" "of rivers"
    "flūmen, flūminis" "river"
    
    "fluvium" "river"
@@ -7074,6 +7075,7 @@
    "foenum, foenī" "hay"
    
    "folia" "leaves"
+   "foliīs" "leaves"
    "folium, foliī" "leaf"
    
    "follium" "of bellows"
@@ -7407,6 +7409,7 @@
    "geminus, gemina, geminum" "double, twin"
    
    "gemmārum" "of gems"
+   "gemmās" "gems"
    "gemmīs" "gems"
    "gemma, gemmae" "gem, jewel"
 
@@ -7935,6 +7938,7 @@
    "iaciēbant" "they were throwing"
    "jaceō, jacēre, jacuī, jacitūs" "to lay"
 
+   "iacent" "they lay"
    "iacērem" "I was laying"
    "iacēre" "to lay"
    "iaceō, iacēre, iacuī, iacitūs" "to lay"
@@ -9255,6 +9259,10 @@
    "latīnōs" "Latins, of Latium"
    "Latīnus, Latīna, Latīnum" "Latin, of Latium"
 
+   "lātrat" "it barks"
+   "lātrāre" "to bark"
+   "lātrō, lātrāre, lātrāvī, lātrātus" "to bark"
+
    "latrōnum" "of plunderers, robbers, brigands"
    "latrō" "robber, brigand, plunderer"
    "latrō, latrōnis" "robber, brigand, plunderer"
@@ -9574,6 +9582,8 @@
    "lūdibrium, lūdibriī" "mockery, wantonness"
 
    "lūdēbat" "he was playing"
+   "lūdit" "he plays"
+   "lūdere" "to play"
    "lūdō, lūdere, lūsī, lūsus" "to play"
 
    "lūdō"  "school, game"
@@ -9602,6 +9612,7 @@
    "luō, luere, luī, lutus" "to pay, fine, expiate"
 
    "lupum" "wolf"
+   "lupus" "wolf"
    "lupus, lupī" "wolf"
 
    "lūstrante" "illuminating, purifying"
@@ -9810,7 +9821,9 @@
    
    "mare" "sea"
    "maria" "seas"
+   "maribus" "seas"
    "maris" "sea"
+   "marium" "of the seas"
    "mare, maris" "sea"
    "marī" "sea"
 
@@ -9954,6 +9967,7 @@
 
    "mercātor" "merchant"
    "mercātōrēs" "merchants"
+   "mercātōrum" "of merchants"
    "mercātor, mercātōris" "merchant"
 
    "mercātum" "trade, market, fair"
@@ -10338,9 +10352,11 @@
    "movent" "they move"
    "movērētur" "they (might) have been moving"
    "movētur" "he was moved"
+   "moventur" "they are moved"
    "mōta" "having been moved"
    "mōtō" "having been moved"
    "movēns" "moving"
+   "movet" "it moves"
    "movēre" "to move"
    "moveō, movēre, mōvī, mōtus" "to move"
 
@@ -10483,6 +10499,7 @@
    "natandō" "swimming"
    "natantium" "swimming"
    "natāvit" "he swam"
+   "natāre" "to swim"
    "natō, natāre, natāvī, natātus" "to swim"
 
    "nātiōne" "race, tribe, nation"
@@ -10645,6 +10662,11 @@
    "Nīcomedia" "Nicomedia"
    "Nīcomedia, Nīcomediae" "Nicomedia"
 
+   "nīdī" "nests"
+   "nīdīs" "nests"
+   "nīdō" "nest"
+   "nīdōs" "nests"
+   "nīdum" "nest"
    "nīdus" "nest"
    "nīdus, nīdī" "nest"
 
@@ -10822,6 +10844,7 @@
    "nūllus" "no, none, not any"
    "nūllus, nūlla, nūllum (gen -ius)" "no, none, not any"
 
+   "numerārī" "to be counted, numbered"
    "numerāre" "to number, count"
    "numerō, numerāre, numerāvī, numerātus" "to number, count"
 
@@ -11022,6 +11045,8 @@
    "occubāre" "to lie dead"
    "occubō, occubāre, occubuī, occubitus" "to lie dead"
 
+   "occultant" "they hide"
+   "occultantur" "they are hidden"
    "occultābant" "they were hiding"
    "occultāverant" "they had hidden"
    "occultāvērunt" "they hide"
@@ -11466,6 +11491,8 @@
    "parentum" "parents"
    "parēns, parentis" "parents"
 
+   "parit" "it gives birth (or lays eggs)"
+   "pariunt" "they gave birth (or laid eggs)"
    "peperit" "he gave birth"
    "pariō, parere, peperī, partus" "to give birth"
 
