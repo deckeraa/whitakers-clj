@@ -16957,3 +16957,37 @@
   (into {} (map (fn [v]
                   {(remove-macrons v) v})
                 (concat (keys dictionary-map) (keys dictionary-override)))))
+
+(def full-override
+  {"leōnēs" '({:options
+               [{:sectioned-word "leōnēs",
+                :stem "leōnēs",
+                :ending nil,
+                :part-of-speech :noun,
+                :declension 3,
+                :case :nominative,
+                :number :plural,
+                :gender :masculine}
+                {:sectioned-word "leōnēs",
+                :stem "leōnēs",
+                :ending nil,
+                :part-of-speech :noun,
+                :declension 3,
+                :case :accusative,
+                :number :plural,
+                :gender :masculine}
+               ],
+              :part-of-speech :noun,
+              :dictionary-entry "leō, leōnis",
+              :definition
+              "lion",
+              :dictionary-code
+               {:age nil,
+               :area nil
+               :geo nil,
+               :freq-code "A"
+               :freq-text "Very frequent, in all Elementry Latin books",
+               :source nil},
+              :original-word "leōnēs",
+              :parsed-word "leōnēs"})
+   })

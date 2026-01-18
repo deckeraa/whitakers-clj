@@ -1,6 +1,6 @@
 (ns whitakers-clj.core
   (:require [whitakers-clj.dictionary-codes :refer [parse-dictionary-code]]
-            [whitakers-clj.dictionary-override :refer [dictionary-override dictionary macronized-words]]
+            [whitakers-clj.dictionary-override :refer [dictionary-override dictionary macronized-words full-override]]
             [clojure.java.shell :refer [sh]]
             [clojure.java.io :as io])
   (:use clojure.pprint)
@@ -734,10 +734,13 @@
 (defn run-whitakers-words-piecemeal-on-words [words]
   (map (fn [word]
          {:original-word word
+          :fully-overridden? (some? (get full-override word))
           :parsing-result
-          (:out
-           (sh "./bin/words" (remove-macrons word)
-               :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER))})
+          (or
+           (get full-override word)
+           (:out
+            (sh "./bin/words" (remove-macrons word)
+                :dir PATH_TO_WHITAKERS_WORDS_ROOT_FOLDER)))})
        words))
 
 (defn -main [& args]
@@ -764,13 +767,15 @@
         ;; _ (println results)
         parsed (map (fn [word-result]
                       ;;(assoc)
-                      (as->
+                      (as-> word-result $
+                        (if (:fully-overridden? $)
+                          (:parsing-result $)
                           (parse-sections
-                           (:parsing-result word-result)
-                           {:condense-entries? true}) $
-                          (first $)
-                          (assoc $ :original-word (:original-word word-result))
-                          (assoc $ :parsed-word (parsed-word->word $))
+                           (:parsing-result $)
+                           {:condense-entries? true}))
+                        (first $)
+                        (assoc $ :original-word (:original-word word-result))
+                        (assoc $ :parsed-word (parsed-word->word $))
                           ))
                     results)
         ;; now zip up the original word into parsed
