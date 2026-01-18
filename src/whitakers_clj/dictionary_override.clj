@@ -152,6 +152,8 @@
    "Barim" "Bari, a large city on the eastern coast of Italy (accusative case)"
    "Basipila" "baseball; singular feminine nominative from basipila, basipilae"
    "basipila" "baseball; singular feminine nominative from basipila, basipilae"
+   "baubaū" "woof, bark"
+   "Baubaū" "woof, bark"
    "beccus" "An Irish prophet who died around AD 553 or 557."
    "Beccus" "An Irish prophet who died around AD 553 or 557."
    "Beccī" "of Beccus, an Irish prophet who died around AD 553 or 557. (genitive case)"
@@ -675,6 +677,7 @@
    "mēcum" "with me (mē + cum)"
    "melius" "better, comparative adverb from bonus"
    "meō" "my; singular masculine or neuter dative or ablative from meus"
+   "mercurius" "Mercury. Saint Mercury was a 3rd century warrior saint and martyr credited with killing Julian the Apostate."
    "Mercurius" "Mercury. Saint Mercury was a 3rd century warrior saint and martyr credited with killing Julian the Apostate."
    "Merloi" "Achardus dē Monte Merloi = Achard of Montmerle"
    "messala" "Marcus Messala, consul of Rome in 61 B.C."
@@ -712,6 +715,8 @@
    "necessāria" "necessities of life"
    "necessāria, necessāriōrum" "necessities of life"
    "nēminem" "no one (accusative cas)"
+   "neptūnus" "Neptune"
+   "Neptūnus" "Neptune"
    "neque" "not, not either"
    "nēquiter" "wickedly"
    "Nīcēa" "Nicea"
@@ -11373,6 +11378,7 @@
    "ovium" "of sheep"
    "ovis, ovis" "sheep"
 
+   "ōva" "eggs"
    "ōvum" "egg"
    "ōvum, ōvī" "egg"
    
@@ -15630,6 +15636,10 @@
    "tentōriīs" "tents"
    "tentōrium, tentōriī" "tent"
 
+   "tenuēs" "thin, slender, weak"
+   "tenuis" "thin, slender, weak"
+   "tenuis, tenue, tenuior -or -us, tenuissimus -a -um" "thin, slender, weak"
+
    "teris" "you rub, you wear out"
    "terō, terere, trīvī, trītus" "to rub, to wear out"
 
@@ -15683,9 +15693,6 @@
    "tetendimus" "we stretched out, extended"
    "tendere" "to stretch, to extend"
    "tendō, tendere, tetendī, tentus" "to stretch, to extend"
-   
-   "tenuēs" "thin"
-   "tenuis, tenue, tenuior -or -us, tenuissimus -a -um" "thin"
 
    "testamenti" "of a will, of a testament"
    "testāmentum, testāmentī" "will, testament"
@@ -15720,6 +15727,7 @@
    "timeās" "you fear"
    "timeat" "it might fear"
    "timēbat" "he was fearing"
+   "timent" "they fear"
    "timeō" "I fear"
    "timuisse" "to have feared"
    "timuit" "he feared"
@@ -16388,6 +16396,8 @@
    "vēndendum" "selling"
    "vēndentēs" "selling"
    "vēnderētur" "was being sold"
+   "vēndit" "he sells"
+   "vēndunt" "they sell"
    "vēndere" "to sell"
    "vēndō, vēndere, vēndidī, vēnditus" "to sell"
    
@@ -16877,7 +16887,10 @@
    "volitāre" "to fly"
    "volitō, volitāre, volitāvī, volitātus" "to fly"
 
+   "volat" "he flies"
+   "volant" "they fly"
    "volābat" "he was flying"
+   "volāre" "to fly"
    "volō, volāre, volāvī, volātus" "to fly"
 
    "volueritis" "you will have wanted"
@@ -16915,7 +16928,6 @@
    "vōcēs" "voices"
    
    "volāns" "flying"
-   "volāre" "to fly"
    "volāvit" "he flew"
 
    "voluistis" "you wanted"
