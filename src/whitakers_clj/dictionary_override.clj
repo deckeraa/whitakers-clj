@@ -10497,6 +10497,8 @@
    "natābat" "he was swimming"
    "natābant" "they were swimming"
    "natandō" "swimming"
+   "natat" "he swims"
+   "natant" "they swim"
    "natantium" "swimming"
    "natāvit" "he swam"
    "natāre" "to swim"
@@ -11563,6 +11565,8 @@
    "pāstor" "shepherd, pastor"
    "pāstōre" "shepherd, pastor"
    "pāstōrem" "shepherd, pastor"
+   "pāstōrēs" "shepherds, pastors"
+   "pāstōrum" "of shepherds, pastors"
    "pāstor, pāstōris" "shepherd, pastor"
    
    "pāstū" "pasture, fodder, food"
@@ -13200,6 +13204,7 @@
    "quaeritis" "you are seeking"
    "quaesīvistī" "you sought"
    "quaerāmus" "let us seek"
+   "quaerunt" "they seek"
    "quaesīvimus" "we sought"
    "quaesō" "I seek, ask for"
    "quaerō, quaerere, quaesīvī, quaesītus" "to seek, to ask for"
@@ -13261,8 +13266,13 @@
    "rādīcibus" "roots"
    "rādīx, rādīcis" "root"
    "rādīcēs" "roots"
+   
    "rāmī" "branches"
+   "rāmō" "branch"
+   "rāmīs" "branches"
+   "rāmōs" "branches"
    "rāmum" "branch"
+   "rāmus" "branch"
    "rāmus, rāmī" "branch"
 
    "rapuit" "he seized, pillaged"
@@ -13688,11 +13698,14 @@
    "repentīnus" "unexpected, sudden"
    "repentīnus, repentīna, repentīnum" "unexpected, sudden"
 
+   "reperit" "he finds"
+   "reperiunt" "they find"
    "reperītur" "it is discovered, found"
    "reperiuntur" "they are discovered"
    "reperiētur" "will be discovered, found out"
    "repperērunt" "they discovered, found out"
    "repertō" "having been discovered"
+   "reperīrī" "to be found"
    "reperīre" "to discover, find out"
    "reperiō, reperīre, repperī, repertus" "to discover, find out"
 
@@ -14919,6 +14932,10 @@
    "spīneum" "thorny"
    "spīneus, spīnea, spīneum" "thorny"
 
+   "spīrat" "he breathes"
+   "spīrāre" "to breath"
+   "spīrō, spīrāre, spīrāvī, spīrātus" "to breath"
+
    "spīritū"  "spirit, breath"
    "spīritum" "spirit, breath"
    "spīritus" "spirit, breath"
@@ -15453,6 +15470,7 @@
    "sustinēret" "he (might) have sustained"
    "sustinuisset" "he (might) have had sustained"
    "sustinuēre" "they sustained"
+   "sustinet" "he sustains"
    "sustineō, sustinēre, sustinuī, sustentus" "to sustain"
    "sustinuit" "he sustained"
    "sustinuerint" "they will have sustained"
@@ -16990,4 +17008,27 @@
                :source nil},
               :original-word "leōnēs",
               :parsed-word "leōnēs"})
+   "leō" '({:options
+               [{:sectioned-word "leō",
+                :stem "leō",
+                :ending nil,
+                :part-of-speech :noun,
+                :declension 3,
+                :case :nominative,
+                :number :singular,
+                :gender :masculine}
+               ],
+              :part-of-speech :noun,
+              :dictionary-entry "leō, leōnis",
+              :definition
+              "lion",
+              :dictionary-code
+               {:age nil,
+               :area nil
+               :geo nil,
+               :freq-code "A"
+               :freq-text "Very frequent, in all Elementry Latin books",
+               :source nil},
+              :original-word "leō",
+              :parsed-word "leō"})
    })
