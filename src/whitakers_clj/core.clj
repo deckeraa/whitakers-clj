@@ -281,7 +281,7 @@
                    "h.orum" "hōrum" "ips.i" "ipsī" "ips.orum" "ipsōrum" "qu.arum" "quārum"
                    "qu.orum" "quōrum" "i.is" "iīs" "h.os" "hōs" "aliqu.os" "aliquōs"
                    "e.arum" "eārum" "h.arum" "hārum" "hu.ic" "huic" "aliqu.i" "aliquī"
-                   "semetips.um" "semetipsum" "ips.os" "ipsōs" "aliqu.a" "aliquā"
+                   "semetips.um" "semetipsum" "ips.os" "ipsōs" "aliqu.a" "aliquā" "e.ae" "eae" "h.ae" "hae" "ill.ae" "illae"
                    } word) word)]
     {:options options
      :word word
@@ -541,7 +541,7 @@
                    "iuss.it" "iussit" "iuss.erunt" "iussērunt" "incit.atis" "incitātis"
                    "super.atis" "superātis" "occup.atis" "occupātis" "perturb.atis" "perturbātis"
                    "prodi.ret" "prōdīret" "libert.ate" "lībertāte" "denari.orum" "dēnāriōrum"
-                   "fabric.atis" "fabricātus" "possid.ebatur" "possidēbātur" "lac.um" "lacum" "clam.ate" "clāmāte" "modic.um" "modicum" "prophet.am" "prophētam" "sicer.am" "siceram" "av.um" "avum" "irat.us" "īrātus" "peper.it" "peperit" "compert.um" "compertum" "t.ui" "tuī" "ablat.a" "ablāta" "dux.ere" "dūxēre" "utr.um" "utrum" "veni.te" "venīte" "narr.ate" "nārrātē" "separ.ate" "sēparāte" "sc.it" "scit" "repl.etis" "replētīs" "cred.itis" "crēditis" "sci.atis" "sciātis" "explor.ate" "explōrātē" "devast.ate" "dēvastāte" "termin.um" "terminum" "divis.i" "dīvīsī" "pari.unt" "pariunt" "par.it" "parit" "accurr.it" "accurrit"
+                   "fabric.atis" "fabricātus" "possid.ebatur" "possidēbātur" "lac.um" "lacum" "clam.ate" "clāmāte" "modic.um" "modicum" "prophet.am" "prophētam" "sicer.am" "siceram" "av.um" "avum" "irat.us" "īrātus" "peper.it" "peperit" "compert.um" "compertum" "t.ui" "tuī" "ablat.a" "ablāta" "dux.ere" "dūxēre" "utr.um" "utrum" "veni.te" "venīte" "narr.ate" "nārrātē" "separ.ate" "sēparāte" "sc.it" "scit" "repl.etis" "replētīs" "cred.itis" "crēditis" "sci.atis" "sciātis" "explor.ate" "explōrātē" "devast.ate" "dēvastāte" "termin.um" "terminum" "divis.i" "dīvīsī" "pari.unt" "pariunt" "par.it" "parit" "accurr.it" "accurrit" "coll.um" "collum"
                    } word) word)
         ;; word (or (when (clojure.string/includes? word ".")
         ;;       (:original-word parsed-word))
@@ -721,10 +721,10 @@
                      parsed)]
     (println "Potentially mis-parsed words: ")
     (doall (map (fn [parsed-word]
-               (println
-                (str (:original-word parsed-word)
-                     "=>"
-                     (:parsed-word parsed-word))))
+                  (println
+                   (str (:original-word parsed-word)
+                        "=>"
+                        (:parsed-word parsed-word))))
              potential-errors))))
 
 ;; Whitaker's Words must be run as ./bin/words from the project folder,
