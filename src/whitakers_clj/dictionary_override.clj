@@ -758,6 +758,7 @@
    "nōminātim" "by name"
    "nōn" "not"
    "nōna" "ninth"
+   "nōnāgintā" "90"
    "nōnam" "the 9th"
    "nōnum" "ninth"
    "nōndum" "not yet"
@@ -781,6 +782,8 @@
    "Nōviomāgum" "Nijmegen, a city in the modern-day Netherlands (accusative case)"
    "noviter" "recently"
    "nūllātenus" "no way"
+   "num" "a word that makes a sentence into a question"
+   "Num" "a word that makes a sentence into a question"
    "numquam" "never"
    "nunquam" "never"
    "numquid" "is it possible?"
@@ -2591,6 +2594,7 @@
    "aspicit" "he looks at"
    "aspicite" "look at!"
    "aspiciunt" "they look at"
+   "aspice" "look at!"
    "aspicere" "to look at, to contemplate"
    "aspiciō, aspicere, aspēxī, aspectus" "to look at, to contemplate"
 
@@ -4393,6 +4397,7 @@
    "cōnsōlārī" "to console"
    "cōnsōlor, cōnsōlārī, cōnsōlātum" "to console"
 
+   "cōnsiste" "stand!"
    "cōnsistit" "he stands"
    "cōnsistunt" "they stand"
    "cōnsistendum" "taking a position, standing together"
@@ -9126,6 +9131,7 @@
    "iūliae" "Julia's"
    "Jūlia, Jūliae" "Julia"
 
+   "iūliī" "of Julius"
    "iūliō"  "Julius"
    "iūlium" "Julius"
    "iūlius" "Julius"
@@ -10944,6 +10950,7 @@
    "nūllus" "no, none, not any"
    "nūllus, nūlla, nūllum (gen -ius)" "no, none, not any"
 
+   "numerā" "count! number!"
    "numerat" "he counts"
    "numerārī" "to be counted, numbered"
    "numerāre" "to number, count"
@@ -12399,6 +12406,8 @@
    "positīs" "having been placed"
    "pōnitur" "it is placed"
    "pōnī" "to be placed"
+   "pōne" "place!"
+   "pōnit" "he places"
    "pōnō, pōnere, posuī, positus" "to put, to place"
 
    "populō" "peoples, populaces"
@@ -15673,6 +15682,7 @@
    "tantās" "so much, so great, this many"
    "tantōrum" "so much, so great, this many"
    "tantum" "so much, so great, this many"
+   "tantus" "so much, so great, this many"
    "tantus, tanta, tantum" "so much, so great, this many"
 
    "tetigī" "I touched"
