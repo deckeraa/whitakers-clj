@@ -341,6 +341,7 @@
    "eburōnum" "A Gallic-Germanic tribe of Gallia Belgica (genitive)"
    "ex" "out of, from"
    "ecce" "Look! Behold!"
+   "edī" "to be eaten; passive present infinitive from edō, edere, ēdī, ēsus"
    "Egidīō" "Raimundus comes dē Sānctō Egidīō = Raymond of Saint-Gilles"
    "Egidīī" "Egidīī: comes dē Sānctō Egidīō = Raymond of Saint-Gilles"
    "eī" "to him, her, or it; singular dative from is, ea, id"
@@ -768,6 +769,7 @@
    "nūper" "recently"
    "nusquam" "nowhere"
    "nūtrītōrem" "nurse; singular masculine accusative from nūtrītor, nūtrītōrēs"
+   "Ō" "O (interjection)"
    "ob" "for, because of, towards"
    "obitum" "death"
    "obvia" "in the path"
@@ -796,6 +798,7 @@
    "oriundus" "oriundus + est = was descended from"
    "Osterliudī" "Another name of the Eastphalians"
    "Ostvalōs" "Eastphalians, members of a Saxon tribe"
+   "Padus" "the Po river, which is the longest river in Italy"
    "paene" "almost"
    "palam" "openly, publicly"
    "parce" "Pardon! Forgive! Singular imperative from parcō, parcere, pepercī, parsum"
@@ -903,6 +906,7 @@
    "quīnquāgintā" "fifty"
    "quinque" "five"
    "quīntō" "for the fifth time"
+   "Quīnte" "O Quintus (vocative case)"
    "Quīntus" "Quintus, a Roman name"
    "quīntus" "Quintus, a Roman name"
    "Quīntī" "Quintus, a Roman name (genitive case)"
@@ -937,6 +941,7 @@
    "quōcumque" "no matter where"
    "quōdam" "a certain one; ablative from quīdam"
    "quondam" "sometimes"
+   "quoque" "also"
    "quot" "how many?"
    "quotiēns" "how many times?"
    "quotquot" "however many"
@@ -1404,6 +1409,10 @@
    "accēpisset" "he had received"
    "acciperent" "they received"
    "accēpimus" "we received"
+
+   "accurrit" "he runs to"
+   "accurrere" "to run to"
+   "accurrō, accurrere, accurrī, accursus" "to run to"
    
    "ācrius" "harsher"
    "ācer" "harsh"
@@ -1692,6 +1701,8 @@
    "afflīgō, afflīgere, afflīxī, afflīctus" "to strike, throw down"
 
    "africa"  "Africa"
+   "Āfrica"  "Africa"
+   "Āfricae" "of Africa"
    "africam" "Africa"
    "Africa, Africae" "Africa"
 
@@ -2662,6 +2673,7 @@
    "audītā" "having been heard"
    "audiō" "I hear"
    "audīvī" "I heard"
+   "audī" "to be heard"
    "audīrī" "to be heard"
    "audiō, audīre, audīvī, audītum" "to hear"
 
@@ -3156,6 +3168,7 @@
    "candor, candōris" "whiteness, brightness"
 
    "canit" "it sings"
+   "canere" "to sing"
    "canō, canere, canī, cantātus" "to sing"
 
    "canīculus" "small dog"
@@ -3208,6 +3221,7 @@
    "captam" "having been taken"
    "captī"  "having been taken"
    "capiunt" "they take"
+   "cape" "seize! take hold!"
    "capiō, capere, cēpī, captus" "to seize, to take hold"
 
    "capillī" "hair"
@@ -3616,6 +3630,7 @@
    "clāmāverō" "I will have shouted"
    "clāmābāmus" "we were shouting"
    "clāmābant" "they were shouting out"
+   "clāmat" "he shouts"
    "clāmantēs" "shouting"
    "clāmāre" "to shout"
    "clāmāvit" "he shouted"
@@ -5985,6 +6000,7 @@
    "edimus" "we eat"
    "edit" "he eats"
    "ēditē" "eat!"
+   "edunt" "they eat"
    "edō, edere, ēdī, ēsus" "to eat"
 
    "ēdocta" "having been taught thoroughly"
@@ -7412,7 +7428,8 @@
 
    "geminō" "double, twin"
    "geminus, gemina, geminum" "double, twin"
-   
+
+   "gemmae" "gems"
    "gemmārum" "of gems"
    "gemmās" "gems"
    "gemmīs" "gems"
@@ -7529,6 +7546,7 @@
 
    "graecōrum" "of the Greeks"
    "graecōs" "Greeks"
+   "graecī" "Greek"
    "graecīs" "Greek"
    "Graecus, Graecī" "Greek"
    
@@ -9052,6 +9070,7 @@
    "iūliae" "Julia's"
    "Jūlia, Jūliae" "Julia"
 
+   "iūliō"  "Julius"
    "iūlium" "Julius"
    "iūlius" "Julius"
    "Julius, Juli" "Julius"
@@ -9371,6 +9390,9 @@
 
    "lēnī" "gentle, calm"
    "lēnis, lēne, lēnior -or -us, lēnissimus -a -um" "gentle, calm"
+
+   "leō" "lion"
+   "leōnēs" "lions"
    
    "leprōsō" "leper"
    "leprōsōs" "lepers"
@@ -11017,6 +11039,7 @@
    
    "ōceanī" "ocean"
    "ōceanō" "ocean"
+   "ōceanus" "ocean"
    "ōceanus, ōceanī" "ocean"
    "ōceanum" "ocean"
 
@@ -12283,6 +12306,8 @@
    "posuerat" "he had put"
    "posuit" "he put"
    "positīs" "having been placed"
+   "pōnitur" "it is placed"
+   "pōnī" "to be placed"
    "pōnō, pōnere, posuī, positus" "to put, to place"
 
    "populō" "peoples, populaces"
