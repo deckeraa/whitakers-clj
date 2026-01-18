@@ -423,6 +423,7 @@
    "Garumna"  "The Garonne, a river running in modern-day France and Spain"
    "Garumnam" "The Garonne, a river running in modern-day France and Spain"
    "gāius" "Gāius, a Roman name"
+   "gemmātum" "bejeweled; singular masculine accusative from gemmātus -a -um"
    "Geōrgiī" "of George, singular masculine genitive from Geōrgius, Geōrgiī"
    "Georgius" "George, singular masculine nominative from Geōrgius, Geōrgiī"
    "germānī" "Germans"
@@ -5168,6 +5169,10 @@
    "dēicere" "to throw down"
    "dēiciō, dēicere, dēiēcī, dēiectus" "to throw down"
 
+   "dēlectantur" "they are delighted"
+   "dēlectāre" "to delight"
+   "dēlectō, dēlectāre, dēlectāvī, dēlectātus" "to delight"
+
    "dēlēbuntur" "they will be erased"
    "dēlērentur" "it was erased"
    "dēlēre" "to erase"
@@ -6141,6 +6146,8 @@
    "ementēs" "buying"
    "emere" "to buy"
    "emit" "he buys"
+   "emunt" "they buy"
+   "emuntur" "they are bought"
    "emī" "to be bought"
    "emō, emere, ēmī, ēmptum" "to buy"
 
@@ -6804,6 +6811,7 @@
    "fēmina"  "woman, wife"
    "fēminae" "woman, wife"
    "fēminam" "woman, wife"
+   "fēminārum" "of women, wives"
    "fēminās" "woman, wives"
    "fēmina, fēminae" "woman, wife"
    
@@ -7454,11 +7462,15 @@
    "geminō" "double, twin"
    "geminus, gemina, geminum" "double, twin"
 
+   "gemma" "gem"
+   "gemmā" "gem"
    "gemmae" "gems"
    "gemmārum" "of gems"
    "gemmās" "gems"
    "gemmīs" "gems"
    "gemma, gemmae" "gem, jewel"
+
+   "gemmātum" "bejeweled"
 
    "geneālogia" "genealogy"
    "geneālogiae" "genealogies"
@@ -7687,6 +7699,7 @@
    "habeāmus" "let us have"
    "habeō, habēre, habuī, habitus" "to have"
 
+   "habitat" "he lives"
    "habitābam" "I was living"
    "habitantem" "living, inhabiting"
    "habitantium" "inhabiting"
@@ -9508,9 +9521,17 @@
    "lignum" "wood"
    "lignum, lignī" "wood"
 
+   "līlia" "lilies"
+   "līlium" "lily"
+   "līlium, līliī" "lily"
+
    "līmen" "threshold, doorstep, house"
    "līmina" "thresholds, doorsteps, houses"
    "līmen, līminis" "thresholds, doorsteps, house"
+
+   "līnea" "string, thread"
+   "līneā" "string, thread"
+   "līnea, līneae" "string, thread"
 
    "lingua" "tongue, language"
    "linguā" "tongue, language"
@@ -9881,6 +9902,9 @@
 
    "margarīta" "pearl"
    "margarītae" "pearl"
+   "margarītās" "pearls"
+   "margarītārum" "of pearls"
+   "margarītīs" "pearls"
    "margarīta, margarītae" "pearl"
 
    "marīae" "of Mary"
@@ -10306,6 +10330,8 @@
    "monēre" "to warn"
    "moneō, monēre, monuī, monitus" "to warn"
 
+   "mōnstrat" "he points out"
+   "mōnstrant" "they point out"
    "mōnstrāvit" "he pointed out"
    "mōnstrātur" "it is pointed out"
    "mōnstrō, mōnstrāre, mōnstrāvī, mōnstrātus" "to point out"
@@ -10889,15 +10915,18 @@
    "nūga, nūgae" "joke, trifle"
    
    "nūlla" "no, none, not any"
+   "nūllae" "no, none, not any"
    "nūllam" "no, none, not any"
    "nūllās" "no, none, not any"
    "nūllī" "no, none, not any"
    "nūllīs" "no, none, not any"
    "nūllō" "no, none, not any"
+   "nūllōs" "no, none, not any"
    "nūllum" "no, none, not any"
    "nūllus" "no, none, not any"
    "nūllus, nūlla, nūllum (gen -ius)" "no, none, not any"
 
+   "numerat" "he counts"
    "numerārī" "to be counted, numbered"
    "numerāre" "to number, count"
    "numerō, numerāre, numerāvī, numerātus" "to number, count"
@@ -10910,6 +10939,11 @@
    "numerum" "number, division, troop"
    "numerus" "number, division, troop"
    "numerus, numerī" "number, division, troop"
+
+   "nummīs" "coins"
+   "nummōrum" "of coins"
+   "nummōs" "coins"
+   "nummus, nummī" "coin"
 
    "nūnciīs" "messengers"
    "nūncius, nūnci(i)" "messenger"
@@ -11819,6 +11853,11 @@
    "pecūnia"  "money"
    "pecūniam" "money"
    "pecūnia, pecūniae" "money"
+
+   "pecūniōsa"  "rich"
+   "pecūniōsōs" "rich"
+   "pecūniōsus" "rich"
+   "pecūniōsus, pecūniōsa, pecūniōsum" "rich"
 
    "perculit" "it struck down, overpowered"
    "percellō, percellere, perculī, perculsus" "to strike down, overpower"
@@ -13160,8 +13199,13 @@
    "pugnet" "let him fight"
    "pugnō, pugnāre, pugnāvī, pugnātus" "to fight"
 
+   "pulcher" "beautiful"
    "pulchra" "beautiful"
+   "pulchrae" "beautiful"
    "pulchram" "beautiful"
+   "pulchrī"  "beautiful"
+   "pulchrīs" "beautiful"
+   "pulchrum" "beautiful"
    "pulcherrimā" "very beautiful"
    "pulcherrimam" "very beautiful"
    "pulcher, pulchra -um, pulchrior -or -us, pulcherrimus -a -um" "beautiful"
@@ -14153,6 +14197,11 @@
    "sabbatō" "Sabbath"
    "sabbatum, sabbatī" "Sabbath"
 
+   "sacculō"  "small bag, purse"
+   "sacculum" "small bag, purse"
+   "sacculus" "small bag, purse"
+   "sacculus, sacculī" "small bag, purse"
+
    "saccīs" "sacks, bags, wallets"
    "saccō"  "sack, bag, wallet"
    "saccōs" "sacks, bags, wallets"
@@ -14678,6 +14727,11 @@
    "servum" "slave, servant"
    "servus" "slave, servant"
    "servus, servī" "slave, servant"
+
+   "sēstertiī" "sestertii, a type of coin"
+   "sēstertiīs" "sestertii, a type of coin"
+   "sēstertiōs" "sestertii, a type of coin"
+   "sēstertius, sēstertiī" "sēstertius, a type of coin"
 
    "sevērī" "severe"
    "sevērum" "severe"
@@ -15539,6 +15593,19 @@
 
    "syria" "Syria"
    "Syria, Syriae" "Syria"
+
+   "taberna"  "shop"
+   "tabernā"  "shop"
+   "tabernae" "shop"
+   "tabernam" "shop"
+   "tabernās" "shop"
+   "taberna, tabernae" "shop"
+
+   "tabernāriī" "storekeeper's"
+   "tabernāriīs" "storekeepers"
+   "tabernāriō"  "storekeeper"
+   "tabernārius" "storekeeper"
+   "tabernārius, tabernāriī" "storekeeper"
    
    "tabula" "tablet"
    "tabulā" "tablet"
