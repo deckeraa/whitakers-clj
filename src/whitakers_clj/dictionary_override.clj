@@ -17132,4 +17132,55 @@
                :ending "ī"}
               ],
              :parsed-word "pōnī"})
+   "pōnit" '({:definition "he places",
+              :part-of-speech :verb,
+              :sectioned-word "pōn.it",
+              :dictionary-code
+              {:age nil,
+               :area nil,
+               :geo nil,
+               :freq-code nil,
+               :freq-text nil,
+               :source nil},
+              :dictionary-entry "pōnō, pōnere, posuī, positus",
+              :original-word "pōnit",
+              :conjugation 3,
+              :options
+              [{:tense :present,
+                :person 3,
+                :number :singular,
+                :part-of-speech :verb,
+                :sectioned-word "pōn.it",
+                :voice :active,
+                :mood :indicative,
+                :conjugation 3,
+                :stem "pōn",
+                :ending "it"}],
+              :parsed-word "pōnit"})
+   "pōne" '({:definition "place!",
+             :part-of-speech :verb,
+             :sectioned-word "pōne",
+             :dictionary-code
+             {:age nil,
+              :area nil,
+              :geo nil,
+              :freq-code nil,
+              :freq-text nil,
+              :source nil},
+             :dictionary-entry "pōnō, pōnere, posuī, positus",
+             :original-word "pōne",
+             :conjugation 3,
+             :options
+             [{:tense :present,
+               :person nil,
+               :number nil,
+               :part-of-speech :verb,
+               :sectioned-word "pōne",
+               :voice :active,
+               :mood :imperative,
+               :conjugation 3,
+               :stem "pōn",
+               :ending "e"}
+              ],
+             :parsed-word "pōne"})
    })
