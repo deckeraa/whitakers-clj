@@ -1299,6 +1299,7 @@
    "abdita" "having been hidden, removed"
    "abdō, abdere, abdidī, abditus" "to hide, to remove"
 
+   "abeunt" "they depart"
    "abībant" "they were departing"
    "abiērunt" "they departed"
    "abit" "you depart"
@@ -1409,6 +1410,7 @@
    "accēpisset" "he had received"
    "acciperent" "they received"
    "accēpimus" "we received"
+   "accipit" "he receives"
 
    "accurrit" "he runs to"
    "accurrere" "to run to"
@@ -1491,6 +1493,7 @@
    "adimplēre" "to fill up, to fulfill"
    "adimpleō, adimplēre, adimplēvī, adimplētum" "to fill up, to fulfill"
 
+   "adeunt" "they go to"
    "adit" "he goes to"
    "adiēns" "approaching, visiting"
    "adīvit" "he approached, visited"
@@ -1978,6 +1981,9 @@
    "ambulandī" "walking"
    "ambulō, ambulāre, ambulāvī, ambulātus" "to walk"
 
+   "amīca" "friend"
+   "amīcā" "friend"
+   "amīcae" "friends"
    "amīce" "friend"
    "amīcī" "friend"
    "amīcīs" "friends"
@@ -2197,7 +2203,12 @@
    "antistitis" "overseer"
    "antistes, antistitis" "overseer"
 
+   "ānulī" "ring's"
+   "ānulīs" "rings"
    "ānulō" "ring"
+   "ānulōrum" "of rings"
+   "ānulōs" "rings"
+   "ānulum" "ring"
    "ānulus" "ring"
    "ānulus, ānulī" "ring"
 
@@ -2559,6 +2570,8 @@
    "aspiciēbant" "they were looking at"
    "aspēxit" "he looked at, contemplated"
    "aspicit" "he looks at"
+   "aspicite" "look at!"
+   "aspiciunt" "they look at"
    "aspicere" "to look at, to contemplate"
    "aspiciō, aspicere, aspēxī, aspectus" "to look at, to contemplate"
 
@@ -3863,6 +3876,10 @@
    "colloquium" "conversation, meeting"
    "colloquium, colloquiī" "conversation, meeting"
 
+   "collō"  "neck"
+   "collum" "neck"
+   "collum, collī" "neck"
+
    "colōnōs" "farmers, inhabitants"
    "colōnus" "farmer, inhabitant"
    "colōnus, colōnī" "farmer, inhabitant"
@@ -4357,6 +4374,8 @@
    "cōnsōlārī" "to console"
    "cōnsōlor, cōnsōlārī, cōnsōlātum" "to console"
 
+   "cōnsistit" "he stands"
+   "cōnsistunt" "they stand"
    "cōnsistendum" "taking a position, standing together"
    "cōnstitērunt" "they took a position, they stood together"
    "cōnsistō, cōnsistere, cōnstitī, cōnstitus" "to take a position, to stand together"
@@ -4382,6 +4401,8 @@
    "cōnspiciō, cōnspicere, cōnspēxī, cōnspectus" "to observe"
 
    "cōnstābat" "he was remaining, standing still"
+   "cōnstat" "he remains, stands still"
+   "cōnstant" "he remains, stands still"
    "cōnstō, cōnstāre, cōnstitī, cōnstātus" "to remain, stand still, exist"
 
    "cōnstantīnī" "of Constantine"
@@ -4544,6 +4565,7 @@
    "convenīre" "to meet, to come together"
    "convenīrent" "they (might) have met together"
    "convēnissent" "they had come together"
+   "convenit" "he met, came together"
    "conventa" "having come together"
    "conventum" "having come together"
    "conventūra" "to come together (in the future)"
@@ -5487,9 +5509,12 @@
    "diffīdēns" "distrusting"
    "diffīdō, diffīdere, diffīsus" "to distrust"
 
+   "digitō"  "finger, toe, digit"
    "digitōs" "fingers, toes, digits"
    "digitus" "finger, toe, digit"
    "digitī"  "finger, toe, digit"
+   "digitīs" "fingers, toes, digits"
+   "digitum" "finger, toe, digit"
    "digitus, digitī" "finger, toe, digit"
    
    "dīgnēminī" "you (might) be deemed worthy"
