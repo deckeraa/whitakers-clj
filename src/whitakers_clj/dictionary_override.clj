@@ -1337,7 +1337,7 @@
    "abeunt" "they depart"
    "abībant" "they were departing"
    "abiērunt" "they departed"
-   "abit" "you depart"
+   "abit" "he departs"
    "abī" "depart!"
    "abīre" "to depart"
    "abeō, abīre, abiī, abitus" "to depart"
@@ -1813,7 +1813,7 @@
 
    "agant" "they might be doing"
    "ēgimus" "we conducted, we acted"
-   "agit" "I act, I conduct"
+   "agit" "he acts, he conducts"
    "agitis" "you act, you conduct"
    "ēgissent" "you might have had conducted"
    "agēbat" "he drove, conducted"
