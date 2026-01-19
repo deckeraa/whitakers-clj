@@ -8895,6 +8895,8 @@
    "intrāvimus" "we entered"
    "intrēmus" "let us enter"
    "intrāret" "he might enter"
+   "intrāns"   "entering"
+   "intrantem" "entering"
    "intrante" "entering"
    "intrēs" "you might enter"
    "intrō, intrāre, intrāvī, intrātus" "to enter"
@@ -9417,10 +9419,13 @@
    "lavācrum" "bath"
    "lavācrum, lavācrī" "bath"
 
+   "lavā" "wash!"
    "lavandum" "washing"
+   "lavātur" "it is washed"
    "lavantur" "are being washed"
    "lavātis" "you wash"
    "lavandōs" "washing"
+   "lavat" "he washes"
    "lavant" "they wash"
    "lavāre" "to wash"
    "lavō, lavāre, lāvī, lautus" "to wash"
@@ -9436,6 +9441,8 @@
 
    "lectīs" "beds, coaches"
    "lectō" "bed, coach"
+   "lectum" "bed, coach"
+   "lectus" "bed, coach"
    "lectus, lectī" "bed, coach"
    
    "lectula" "bed, coach"
@@ -9520,6 +9527,7 @@
    "librīs" "books"
    "librō" "book"
    "librōs" "books"
+   "librum" "book"
    "liber, librī" "book"
    
    "līberā" "liberate!"
@@ -10091,7 +10099,8 @@
    "mēnsūrābat" "he was measuring"
    "mēnsūrandum" "measuring"
    "mēnsūrō, mēnsūrāre, mēnsūrāvī, mēnsūrātus" "to measure"
-   
+
+   "meās" "my"
    "meum" "my"
    "meus" "my"
    "mihī" "to me"
@@ -10108,6 +10117,7 @@
    "mercenāriī" "hired servant, working man"
    "mercenārius, mercenāriī" "hired servant, working man"
 
+   "mergit" "he plunges, sinks, drowns"
    "mersī" "having been plunged, sunk, drowned"
    "mergō, mergere, mersī, mersus" "to plunge, sink, drown"
    
@@ -10790,6 +10800,10 @@
    "nesciērunt" "they didn't know"
    "nesciō, nescīre, nescīvī, nescītus" "to not know"
 
+   "neuter"  "neither"
+   "neutrum" "neither"
+   "neuter, neutra, neutrum" "neither"
+
    "necis" "death, slaughter"
    "nex, necis" "death, slaughter"
 
@@ -10962,7 +10976,9 @@
    "nūditās, nūditātis" "nudity, nakedness"
    
    "nūda" "naked"
+   "nūdīs" "naked"
    "nūdōs" "naked"
+   "nūdum" "naked"
    "nūdus" "naked"
    "nūdus, nūda, nūdum" "naked"
 
@@ -11075,6 +11091,9 @@
    "obscūritās"  "darkness, lowliness, meanness"
    "obscūritāte" "darkness, lowliness, meanness"
    "obscūritās, obscūritātis" "darkness, lowliness, meanness"
+
+   "obscūra" "dark, unknown"
+   "obscūrus, obscūra -um, obscūrior -or -us, obscūrissimus -a -um" "dark, unknown"
 
    "obsecrō" "I entreat, beseech, pray"
    "obsecrāre" "to entreat, beseech, pray"
@@ -11305,6 +11324,7 @@
    "onustōs" "laden"
    "onustus, onusta, onustum" "laden"
 
+   "operītur" "it is covered"
    "operuit" "he covered"
    "operiō, operīre, operuī, opertus" "to cover"
 
