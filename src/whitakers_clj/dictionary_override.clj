@@ -12184,6 +12184,7 @@
 
    "pedum" "of feet"
    "pedibus" "feet"
+   "pēs" "foot"
    "pēs, pedis" "foot"
    
    "pessimīs" "worst"
@@ -12376,6 +12377,10 @@
    "pluviae" "rainy"
    "pluvius, pluvia, pluvium" "rainy"
 
+   "pōculō"  "cup"
+   "pōculum" "cup"
+   "pōculum, pōculī" "cup"
+
    "podagra" "gout (inflamed swellings) in the feet"
    "podagra, podagrae" "gout (inflamed swellings) in the feet"
 
@@ -12507,6 +12512,7 @@
    "portus, portūs" "harbor, port"
 
    "pōscente" "demanding"
+   "pōscit" "he asks, demands"
    "pōscō, pōscere, popōscī, -" "to demand"
 
    "positus" "position"
@@ -13325,8 +13331,10 @@
    "pūrificātiōne" "purification"
    "pūrificātiō, pūrificātiōnis" "purification"
 
+   "pūra" "clean, pure"
    "pūrissimum" "very clean, pure"
    "pūrō" "clean, pure"
+   "pūrum" "clean, pure"
    "pūrus, pūra -um, pūrior -or -us, pūrissimus -a -um" "clean, pure"
    
    "purpūreus, purpūrea, purpūreum" "purple"
@@ -13344,6 +13352,7 @@
    "putābat" "he was thinking"
    "putābant" "they were thinking"
    "putāmus" "we were thinking"
+   "putat" "he thinks"
    "putant" "they think"
    "putantēs" "thinking"
    "putārem" "I was thinking"
@@ -13410,8 +13419,10 @@
    "quiēs, quiētis" "rest, respose, quiet"
    "quiētem" "rest, respose, quiet"
 
+   "quiēta"  "quiet"
    "quiētam" "quiet"
    "quiētissimam" "very quiet"
+   "quiētus" "quiet"
    "quiētus, quiēta -um, quiētior -or -us, quiētissimus -a -um" "quiet"
 
    "quiēvit" "he rested"
@@ -13782,6 +13793,7 @@
    "relicta" "having been left behind"
    "relictīs" "leaving behind"
    "relictō" "having been left behind"
+   "relinquit" "he leaves"
    "relinquerent" "they left behind"
    "relinquō, relinquere, relīquī, relictum" "to leave behind"
 
@@ -14545,6 +14557,10 @@
    "scurrīlitās, scurrīlitātis" "buffoonery"
    "scurrīlitātem" "buffoonery"
 
+   "scūtō"  "shield"
+   "scūtum" "shield"
+   "scūtum, scūtī" "shield"
+
    "sēcēdit" "he withdraws"
    "sēcēdere" "to withdraw"
    "sēcēdō, sēcēdere, sēcessī, sēcessus" "to withdraw"
@@ -14591,6 +14607,7 @@
    "sēdērunt" "they sat"
    "sēdāvit" "he sat"
    "sedēre" "to sit"
+   "sedent" "they sit"
    "sedeō, sedēre, sēdī, sessus" "to sit"
    "sēdō, sēdāre, sēdāvī, sēdātus" "to sit"
    
@@ -14910,6 +14927,7 @@
    "sinistra, sinistrae" "left-hand"
 
    "sinistrī" "left, bad"
+   "sinistrum" "left, bad"
    "sinister, sinistra -um, sinistrior -or -us, sinistimus -a -um" "left, bad"
 
    "sistitur" "it is stopped"
@@ -15030,6 +15048,10 @@
    
    "sorbēbat" "he was drinking, he was absorbing"
    "sorbeō, sorbēre, sorbuī, sorbitus" "to drink, to absorb"
+
+   "sordida" "dirty"
+   "sordidae" "dirty"
+   "sordidus, sordida -um, sordidior -or -us, sordidissimus -a -um" "dirty"
 
    "soror" "sister"
    "soror, sorōris" "sister"
