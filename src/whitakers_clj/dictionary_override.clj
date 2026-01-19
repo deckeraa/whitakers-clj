@@ -3169,6 +3169,11 @@
    "calceāmentum" "shoe"
    "calceāmentum, calceāmentī" "shoe"
 
+   "calceōs" "shoes"
+   "calceus" "shoe"
+   "calceus, calceī" "shoe"
+
+   "calida"  "hot, warm"
    "calidum" "hot, warm"
    "calidus" "hot, warm"
    "calidus, calida -um, calidior -or -us, calidissimus -a -um" "hot, warm"
@@ -3235,6 +3240,8 @@
    "candor, candōris" "whiteness, brightness"
 
    "canit" "it sings"
+   "canēns" "singing"
+   "canentem" "singing"
    "canere" "to sing"
    "canō, canere, canī, cantātus" "to sing"
 
@@ -3293,6 +3300,7 @@
 
    "capillī" "hair"
    "capillīs" "hair"
+   "capillum" "hair"
    "capillus" "hair"
    "capillus, capillī" "hair"
    
@@ -4869,6 +4877,9 @@
    "crystallō" "crystal"
    "crystallus, crystallī" "crystals"
 
+   "cubat" "he lies"
+   "cubō, cubāre, cubuī, cubitus" "to lie"
+
    "cubiculī" "room"
    "cubiculō" "room"
    "cubiculum" "room"
@@ -5472,6 +5483,7 @@
 
    "dextra" "right hand, right side"
    "dextram" "right hand, right side"
+   "dextrum" "right hand, right side"
    "dextra, dextrae" "right hand, right side"
    
    "diabolī"  "devil, demon"
@@ -5670,6 +5682,7 @@
 
    "discēdit" "he departs"
    "discēdendum" "departing"
+   "discēdēns" "departing"
    "discēdunt" "they depart"
    "discessērunt" "they departed"
    "discessissent" "they had departed"
@@ -5889,6 +5902,7 @@
    "dolēns" "sorrying, grieving"
    "dolentēs" "sorrying, grieving"
    "dolentibus" "sorrying, grieving"
+   "dolet" "it hurts"
    "doluērunt" "they were sorrying, grieving"
    "dolēre" "to sorry, grieve, feel pain"
    "doleō, dolēre, doluī, dolitus" "to sorry, grieve, feel pain"
