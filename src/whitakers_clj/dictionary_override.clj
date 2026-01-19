@@ -293,6 +293,7 @@
    "damascō" "Damascus (ablative case)"
    "Danihelem" "Daniel, the Old Testament prophet"
    "David" "David, the king of Israel that slew Goliath."
+   "dāve" "Davus (vocative case)"
    "Dāve" "Davus (vocative case)"
    "Dāvum" "Davus (accusative case)"
    "Dāvus" "Davus"
@@ -684,6 +685,7 @@
    "manē" "morning"
    "mānsī" "I remained; singular 1st person perfect from maneō, manēre, mānsī, mānsus"
    "Marchīsī" "of the Marquis"
+   "mārcī" "of Marcus (genitive case)"
    "mārcus" "Marcus"
    "mārcum" "Marcus (accusative case)"
    "mārcō" "Marcus (dative or ablative case)"
@@ -700,6 +702,7 @@
    "mēdī" "of Medus (genitive case"
    "Mēdō" "Medus (dative or ablative case)"
    "mēdō" "Medus (dative or ablative case)"
+   "mēdum" "Medus (accusative case)"
    "Mēdus" "Medus (nominative case)"
    "mēdus" "Medus (nominative case)"
    "mē" "to me, accusative from ego"
@@ -1335,6 +1338,7 @@
    "abībant" "they were departing"
    "abiērunt" "they departed"
    "abit" "you depart"
+   "abī" "depart!"
    "abīre" "to depart"
    "abeō, abīre, abiī, abitus" "to depart"
 
@@ -1861,6 +1865,7 @@
    "albārum" "white"
    "albō" "white"
    "albōs" "white"
+   "album" "white"
    "albus" "white"
    "albus, alba -um, albior -or -us, albissimus -a -um" "white"
    "albī" "white"
@@ -5917,6 +5922,9 @@
    "dolus" "trickery, deception"
    "dolus, dolī" "trickery, deception"
 
+   "domina" "mistress"
+   "domina, dominae" "mistress"
+
    "domāret" "he subdued, tamed"
    "domāre" "to subdue, tame"
    "domō, domāre, domuī, domitus" "to subdue, tame"
@@ -6446,6 +6454,7 @@
 
    "excitat" "he wakes up"
    "excitātur" "he is being raised up"
+   "excitā" "wake up!"
    "excitō, excitāre, excitāvī, excitātus" "to wake up, to stir up, to raise, to excite"
 
    "excellentius" "more excellent"
@@ -10152,6 +10161,7 @@
 
    "mergit" "he plunges, sinks, drowns"
    "mersī" "having been plunged, sunk, drowned"
+   "merge" "plunge!"
    "mergō, mergere, mersī, mersus" "to plunge, sink, drown"
    
    "merīdiem" "mid-day"
@@ -10974,6 +10984,7 @@
    "novīs" "new, inexperienced"
    "novum" "new, inexperienced"
    "novō" "new, inexperienced"
+   "novus" "new, inexperienced"
    "novus, nova -um, novior -or -us, novissimus -a -um" "new, inexperienced"
 
    "novitāte" "novelty"
@@ -16509,6 +16520,7 @@
    "utrēs" "bag/bottle made of skin/hide"
    "uter, utris" "bag/bottle made of skin/hide"
 
+   "uter" "either"
    "utrīs" "either"
    "utrius" "either"
    "uter, utra, utrum" "either"
@@ -16596,6 +16608,7 @@
    "valentia" "being well, able"
    "valuērunt" "they were able"
    "valeō, valēre, valuī, valitūrus" "to be healthy, able, strong"
+   "valē" "be well!"
 
    "valida" "strong, healthy"
    "validō" "strong, healthy"
@@ -16730,6 +16743,8 @@
    "ventitāret" "he was coming regularly"
    "ventitāre" "to come regularly"
    "ventitō, ventitāre, ventitāvī, ventitātus" "to come regularly"
+   
+   "venter" "belly, abdomen"
    "ventribus" "bellies, abdomens"
    "ventre" "belly, abdomen"
    "venter, ventris" "belly, abdomen"
@@ -16836,6 +16851,7 @@
    "vestibus" "clothing"
    "vestis, vestis" "clothing"
 
+   "vestī" "dress! clothe!"
    "vestit" "he clothes"
    "vestītur" "it is worn"
    "vestīre" "to clothe"
