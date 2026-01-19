@@ -3037,10 +3037,10 @@
    "bovīnīs" "bovine"
    "bovīnus, bovīna, bovīnum" "bovine"
 
-   "brachia" "forearms, branches"
-   "brachiīs" "arms"
-   "brachium" "arm"
-   "brachium, brachiī" "arm"
+   "bracchia" "forearms, branches"
+   "bracchiīs" "arms"
+   "bracchium" "arm"
+   "bracchium, bracchiī" "arm"
    
    "Brendānō" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
    "Brendānus" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
@@ -15247,6 +15247,7 @@
    "stantibus" "standing"
    "stāre" "to stand, to remain"
    "stās" "you stand"
+   "stat" "he stands"
    "stetisset" "he (might) have had stood"
    "stetissent" "they (might) have had stood"
    "stāret" "it might stand"
@@ -15258,6 +15259,10 @@
    "statūra, statūrae" "stature"
    "statū" "state, status"
    "status, statūs" "state, status"
+
+   "stilum" "stylus"
+   "stilus" "stylus"
+   "stilus, stilī" "stylus"
 
    "stimulō" "goad, prick, incitement, stimulus"
    "stimulus" "goad, prick, incitement, stimulus"
@@ -15600,7 +15605,9 @@
    "surgēbat" "he was lifting up"
    "surgentem" "raising"
    "surget" "he will lift"
+   "surgit" "he gets up"
    "surrēxērunt" "they raised up"
+   "surgere" "to get up, rise, lift"
    "surgō, surgere, surrēxī, surrēctus" "to rise, to lift"
 
    "suriam" "Syria"
@@ -15676,6 +15683,7 @@
    
    "tabula" "tablet"
    "tabulā" "tablet"
+   "tabulam" "tablet"
    "tabula, tabulae" "tablet"
 
    "tacē" "be silent!"
@@ -15830,6 +15838,7 @@
 
    "tergē" "wipe dry!"
    "terget" "he wipes dry"
+   "tergēns" "wiping"
    "tergēre" "to wipe dry"
    "tergeō, tergēre, tersī, tersus" "to wipe dry"
 
@@ -15934,6 +15943,14 @@
    
    "tintinnābulum" "bell"
    "tintinnābulum, tintinnābulī" "bell"
+
+   "toga" "toga"
+   "togam" "toga"
+   "toga, togae" "toga"
+
+   "togātō"  "wearing a toga"
+   "togātus" "wearing a toga"
+   "togātus, togāta, togātum" "wearing a toga"
 
    "tollēbant" "they were taking up"
    "tollat" "he (might) lift up"
@@ -16498,7 +16515,10 @@
    "valēret" "he might have been healthy, able, strong"
    "valērent" "they were healthy, able, strong"
    "valeātis" "you are healthy, able, strong"
+   "valēns" "being well, able"
+   "valet" "he is able, well"
    "valent" "they are able"
+   "valentia" "being well, able"
    "valuērunt" "they were able"
    "valeō, valēre, valuī, valitūrus" "to be healthy, able, strong"
 
@@ -16740,8 +16760,10 @@
    "veste" "clothing"
    "vestibus" "clothing"
    "vestis, vestis" "clothing"
-   
+
+   "vestit" "he clothes"
    "vestītur" "it is worn"
+   "vestīre" "to clothe"
    "vestiō, vestīre, vestīvī, vestītus" "to clothe"
 
    "vetet" "he (might) reject"
@@ -16868,6 +16890,7 @@
    "vigilāvit" "he woke up"
    "vigilandī" "of waking up"
    "vigilandum" "waking up"
+   "vigilāns" "staying awake, waking up"
    "vigilant" "they keep watch"
    "vigilantēs" "keeping watch, waking up"
    "vigilat" "he keeps watch"
