@@ -426,6 +426,9 @@
    "fraudulenter" "fraudulently, deceitfully; dishonestly; falsely;"
    "frēnum" "bridle; ornamental necklace"
    "Frīdēshlar" "Fritzlar, Germany"
+   "frīget" "he is cold, freezes; 3rd person singular present from frīgeō, frīgēre, frīxī, -"
+   "frīgent" "they are cold, freeze; 3rd person plural present from frīgeō, frīgēre, frīxī, -"
+   "frīgentī" "freezing; singular dative or ablative present participle from frīgeō, frīgēre, frīxī, -"
    "frūstrā" "futile"
    "fuerint" "they will have been; 3rd person plural future perfect from esse"
    "fūrtim" "secret, stealthily"
@@ -5962,6 +5965,9 @@
    "dōnō" "gift"
    "dōnum, dōnī" "gift"
 
+   "dormientem" "sleeping"
+   "dormientis" "sleeping"
+   "dormit" "he sleeps"
    "dormiēbat" "he was sleeping"
    "dormiēbant" "they were sleeping"
    "dormiam" "I will sleep"
@@ -6423,7 +6429,8 @@
    "excēpit" "he took out"
    "exceptīs" "having been taken out"
    "excipiō, excipere, excēpī, exceptus" "to take out, to receive, to ward off"
-   
+
+   "excitat" "he wakes up"
    "excitātur" "he is being raised up"
    "excitō, excitāre, excitāvī, excitātus" "to wake up, to stir up, to raise, to excite"
 
@@ -6631,6 +6638,7 @@
    "exspectāvit" "he waited"
    "exspectat" "he awaits"
    "exspectant" "they await"
+   "exspectantēs" "awaiting"
    "exspectāre" "to wait"
    "exspectō, exspectāre, exspectāvī, exspectātus" "to wait"
 
@@ -6871,6 +6879,7 @@
    "fenestra" "window"
    "fenestram" "window"
    "fenestrās" "windows"
+   "fenestrīs" "windows"
    "fenestra, fenestrae" "window"
 
    "fēnō" "hay"
@@ -6895,6 +6904,7 @@
    "ferēns" "bringing, bearing"
    "ferentēs" "bringing, bearing"
    "ferēbant" "they were bringing, bearing"
+   "fer" "bring!"
 
    "feriēbant" "they were hitting, striking, killing"
    "ferientem" "hitting, striking, killing"
@@ -7333,6 +7343,11 @@
    "fricāre" "to rub"
    "fricō, fricāre, fricuī, frictus" "to rub"
 
+   "frīgida"  "cold"
+   "frīgidā"  "cold"
+   "frīgidus" "cold"
+   "frīgidus, frīgida -um, frīgidior -or -us, frīgidissimus -a -um" "cold"
+
    "frīgidum" "cold"
    "frīgidum, frīgidī" "cold"
    
@@ -7489,6 +7504,7 @@
    "gallīna, gallīnae" "hen"
    
    "gallōrum" "of chickens, of roosters"
+   "gallum" "chicken, rooster"
    "gallus" "chicken, rooster"
    "gallus, gallī" "chicken, rooster"
 
@@ -7603,7 +7619,9 @@
    "gigans, gigantis" "giant"
 
    "gladiīs" "swords"
+   "gladiō"  "sword"
    "gladiōs" "swords"
+   "gladium" "sword"
    "gladius" "sword"
    "gladius, gladiī" "sword"
    
@@ -8053,6 +8071,7 @@
    "iaciēbant" "they were throwing"
    "jaceō, jacēre, jacuī, jacitūs" "to lay"
 
+   "iacet" "he lays"
    "iacent" "they lay"
    "iacērem" "I was laying"
    "iacēre" "to lay"
