@@ -271,6 +271,7 @@
    "Corrozānum" "Khorasan, a region in modern-day Iran"
    "Corrozānī" "of Khorasan, a region in modern-day Iran"
    "Corrozāniā" "Khorasan, a region in modern-day Iran (ablative case)"
+   "cucurrū" "cock-a-doodle-doo (the sound a rooster makes) (not a real Latin word)"
    "cūrpalātium" "palace minister (cūrpalātius, accusative case)"
    "cūrpalātius" "palace minister (cūrpalātius, nominative case)"
    "Cōrpalātius" "palace minister (cūrpalātius, nominative case)"
@@ -292,6 +293,8 @@
    "damascō" "Damascus (ablative case)"
    "Danihelem" "Daniel, the Old Testament prophet"
    "David" "David, the king of Israel that slew Goliath."
+   "Dāve" "Davus (vocative case)"
+   "Dāvum" "Davus (accusative case)"
    "Dāvus" "Davus"
    "dē" "of, from, away from, down from"
    "decem" "ten"
@@ -335,6 +338,7 @@
    "ea" "it; singular feminine nominative or plural neuter nom. or acc. from is, ea, id"
    "eā" "there, that way"
    "eadem" "the same, singular feminine nominative or plural neuter nominative or ablative"
+   "eae" "they; plural feminine nominative from is, ea, id"
    "eam" "her; singular feminine accusative from is, ea, id"
    "eārum" "their; plural feminine genitive from is, ea, id"
    "eās" "their; plural feminine accusative from is, ea, id"
@@ -456,6 +460,7 @@
    "grȳphus" "griffin, a lion-eagle hybrid; from grȳphus, grȳphī"
    "Grȳphus" "griffin, a lion-eagle hybrid; from grȳphus, grȳphī"
    "Gueith" "The Isle of Wight, an island just off the southern coast of Great Britain in the English channel. The name Gueith is from Old Welsh."
+   "hae" "these; plural feminine nominative from hic, haec, hoc"
    "Haeduō" "a region in Gallia"
    "haeduō" "a region in Gallia"
    "Harolde" "Harold (vocative case)"
@@ -496,6 +501,7 @@
    "iēiūnāvit" "he fasted"
    "iēiūnium" "fast, fasting"
    "iīs" "them; plural dative or ablative from is, ea, id"
+   "illae" "those; plural feminine nominative from hic, haec, hoc"
    "interim" "during"
    "Iascōnium" "Jascōnius, a sea beast"
    "impedītīs" "impeded, plural masculine dative or ablative from impedītus -a -um"
@@ -990,6 +996,7 @@
    "Richardus" "Richardus dē Prīncipātū = Richard of the Principality a.k.a. Richard of Salerno"
    "rīvulum" "rivulet, small brook"
    "rīvulus, rīvulī" "rivulet, small brook"
+   "rōmāna" "Roman"
    "rōmānī" "Romans"
    "Rotbertus" "Robert"
    "rubicunditātis" "redness. This word did not appear in any dictionaries I consulted, but the meaning is clear from the context. It appears to be a variant of rubicundus -a -um, meaning red, ruddy, or rubicund."
@@ -1645,6 +1652,16 @@
    "aedificiīs" "buildings"
    "aedificium, aedificiī" "building, structure"
 
+   "aeger" "sick"
+   "aeger, aegra -um, aegrior -or -us, aegerrimus -a -um" "sick"
+
+   "aegrōtantem" "being sick"
+   "aegrōtantī"  "being sick"
+   "aegrōtat" "he is sick"
+   "aegrōtāns" "being sick"
+   "aegrōtāre" "to be sick"
+   "aegrōtō, aegrōtāre, aegrōtāvī, aegrōtātus" "to be sick"
+
    "aegritūdine" "illness, sickness"
    "aegritūdō, aegritūdinis" "illness, sickness"
 
@@ -1818,10 +1835,13 @@
    
    "attulit" "he brought"
    "attulērunt" "they had carried"
+   "affer" "bring!"
    "afferrī" "to be brought"
    "allāta" "having been carried"
    "allātīs" "having been carried"
    "afferēbant" "they were bringing in"
+   "affert" "they carry"
+   "afferre" "to carry"
    "afferō, afferre, attulī, allātus" "to carry"
    
    "āla, ālae" "wing"
@@ -1990,6 +2010,7 @@
    "ambitus" "edge, orbit, circuit"
    "ambitus, ambitūs" "edge, orbit, circuit"
 
+   "ambulā" "walk!"
    "ambulābāmus" "we were walking"
    "ambulābat" "he was walking"
    "ambulābant" "they were walking"
@@ -2245,8 +2266,11 @@
    "anxiō, anxiāre, anxiāvī, anxiātus" "to worry"
 
    "apertā"  "having been opened"
+   "apertam" "having been opened"
+   "apertīs" "having been opened"
    "apertō"  "having been opened"
    "apertum" "having been opened"
+   "aperiēns" "opening"
    "aperīre" "to open"
    "aperiō, aperīre, aperuī, apertus" "to open"
    "aperiēs" "you will open"
@@ -2751,7 +2775,8 @@
    "aureōs" "golden"
    "aureum" "golden"
    "aureus, aurea, aureum" "golden"
-   
+
+   "aurem" "ear"
    "aurēs" "ears"
    "auribus" "ears"
    "auris, auris" "ear"
@@ -2948,6 +2973,7 @@
    "bēstiās" "beasts"
    "bēstiīs" "beasts"
 
+   "bibentem" "drinking"
    "bibentibus" "drinking"
    "bibere" "to drink"
    "bibō, bibere, bibī, pōtus" "to drink"
@@ -2955,6 +2981,7 @@
    "bibērunt" "they drunk"
    "bibet" "he will drink"
    "bibēbant" "they drank"
+   "bibit" "he drinks"
    
    "bīduānās" "two days"
    "bīduānum" "two days"
@@ -3012,6 +3039,7 @@
 
    "brachia" "forearms, branches"
    "brachiīs" "arms"
+   "brachium" "arm"
    "brachium, brachiī" "arm"
    
    "Brendānō" "Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"
@@ -6169,6 +6197,7 @@
    "ementēs" "buying"
    "emere" "to buy"
    "emit" "he buys"
+   "emite" "buy!"
    "emunt" "they buy"
    "emuntur" "they are bought"
    "emī" "to be bought"
@@ -6836,6 +6865,7 @@
    "fēminam" "woman, wife"
    "fēminārum" "of women, wives"
    "fēminās" "woman, wives"
+   "fēminīs" "women, wives"
    "fēmina, fēminae" "woman, wife"
    
    "fenestra" "window"
@@ -7459,6 +7489,7 @@
    "gallīna, gallīnae" "hen"
    
    "gallōrum" "of chickens, of roosters"
+   "gallus" "chicken, rooster"
    "gallus, gallī" "chicken, rooster"
 
    "garrīre" "to chatter, jabber"
