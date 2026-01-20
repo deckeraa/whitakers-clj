@@ -941,6 +941,7 @@
    "quīnquāgintā" "fifty"
    "quinque" "five"
    "quīntō" "for the fifth time"
+   "quīnte" "O Quintus (vocative case)"
    "Quīnte" "O Quintus (vocative case)"
    "Quīntus" "Quintus, a Roman name"
    "quīntus" "Quintus, a Roman name"
@@ -1166,10 +1167,12 @@
    "Syon" "Zion"
    "Synai" "Sinai"
    "syra" "Syra"
+   "syrae" "of Syra"
    "Syra" "Syra"
    "syram" "Syra (accusative case)"
    "syre" "O, Syra (vocative case)"
    "syrī" "of Syrus (genitive case)"
+   "syrō" "Syrus (dative or ablative case)"
    "syriae" "of Syria"
    "syrum" "Syrus"
    "syrus" "Syrus (accusative case)"
@@ -1232,6 +1235,8 @@
    "Turcopūlōs" "Turcopoles (accusative case): a Turkic group allied with Byzantium. Turcopolis comes from the Greek 'Sons of Turks' τουρκόπουλοι = Τοῦρκος + πουλος"
    "Turnō" "Turnus, a king of the Rutuli killed by Aeneas (ablative or dative case)"
    "turpiter" "shamefully, disgracefully"
+   "tusculī" "Tusculum, a city in ancient Italy. The city was destroyed in April 1191 AD. (locative or genitive case)"
+   "tusculum" "Tusculum, a city in ancient Italy. The city was destroyed in April 1191 AD. (nominative or accusative case)"
    "ubī" "where"
    "ubicumque" "everywhere"
    "ūllātenus" "up to this point"
@@ -1480,6 +1485,7 @@
    "adfuit" "he was present"
    "adesset" "he (might) have been present"
    "affuit" "he was present"
+   "adesse" "to be present"
    "assum, adesse, affuī, affuturus" "to be present"
    
    "addidit" "he added"
@@ -10101,8 +10107,13 @@
 
    "mediante" "mediating"
    "medior, mediārī, mediātus" "mediating"
-   
+
+   "medice" "doctor"
+   "medicī"  "doctor's"
+   "medicō" "doctor"
    "medicōs" "doctors"
+   "medicum" "doctor"
+   "medicus" "doctor"
    "medicus, medicī" "doctor"
    
    "medietās" "center, midpoint"
@@ -15910,6 +15921,7 @@
    "tenēret" "he might hold"
    "tenuerant" "they had had"
    "teneō" "I hold, keep"
+   "tenē" "hold!"
    
    "tenebrōsus" "dark"
    "tenebrōsus, tenebrōsa, tenebrōsum" "dark"
