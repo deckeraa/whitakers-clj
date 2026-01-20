@@ -11386,6 +11386,7 @@
    "odor, odōris" "odor, scent"
 
    "offendentem" "offending, annoying"
+   "offenditis" "you offend"
    "offendere" "to offend, annoy"
    "offendō, offendere, offendī, offēnsus" "to offend, annoy"
 
@@ -11555,6 +11556,7 @@
    "ōrdine" "order"
 
    "ōrdinandō" "setting in order"
+   "ōrdinābat" "he was setting in order"
    "ōrdināta" "having been set in order"
    "ōrdinātae" "having been set in order"
    "ōrdinātās" "having been set in order"
@@ -11591,6 +11593,7 @@
    "ōrāns" "praying"
    "ōrāre" "to pray"
    "ōrāvit" "he prayed"
+   "ōrent" "let them pray"
    "ōrō, ōrāre, ōrāvī, ōrātus" "to pray"
 
    "ōrnāmenta" "ornament, jewelry, equipment"
@@ -11949,6 +11952,7 @@
 
    "pauper" "poor"
    "pauperem" "poor"
+   "pauperēs" "poor"
    "pauperibus" "poor"
    "pauperrimā" "very poor"
    "pauperum" "poor"
@@ -13829,6 +13833,7 @@
    "refēcit" "he refreshed, he rebuilt"
    "reficiendās" "restoring, refreshing"
    "refectī" "having been refreshed"
+   "reficiat" "let him refresh"
 
    "refertās" "having been filled up, stuffed full"
    "refercīre" "to fill up, stuff full"
@@ -14329,6 +14334,7 @@
    "rogant" "they ask"
    "rogantēs" "asking"
    "rogāvērunt" "they asked"
+   "rogō" "I ask"
    "rogāre" "to ask"
    "rogō, rogāre, rogāvī, rogātus" "to ask"
    
