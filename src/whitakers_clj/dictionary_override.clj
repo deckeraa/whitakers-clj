@@ -17501,4 +17501,54 @@
                :ending "e"}
               ],
              :parsed-word "pōne"})
+   "Tusculī" '({:options
+                [{:sectioned-word "Tuscul.ī",
+                  :stem "Tuscul",
+                  :ending "ī",
+                  :part-of-speech :noun,
+                  :declension 2,
+                  :case :genitive,
+                  :number :singular,
+                  :gender :neuter}
+                 {:sectioned-word "Tuscul.ī",
+                  :stem "Tuscul",
+                  :ending "ī",
+                  :part-of-speech :noun,
+                  :declension 1,
+                  :case :genitive,
+                  :number :singular,
+                  :gender :neuter}],
+                :part-of-speech :noun,
+                :dictionary-entry "Tusculum, Tusculī",
+                :definition "Tusculum, a city in ancient Italy. The city was destroyed in April 1191 AD. (locative or genitive case)",
+                :dictionary-code
+                {:age nil,
+                 :area nil,
+                 :geo "Italy, Rome",
+                 :freq-code :A,
+                 :freq-text "Very frequent, in all Elementry Latin books",
+                 :source nil},
+                :original-word "Tusculī",
+                :parsed-word "Tusculī"})
+   "Tusculum" '({:options
+                [{:sectioned-word "Tuscul.um",
+                  :stem "Tuscul",
+                  :ending "um",
+                  :part-of-speech :noun,
+                  :declension 2,
+                  :case :accusative,
+                  :number :singular,
+                  :gender :neuter}],
+                :part-of-speech :noun,
+                :dictionary-entry "Tusculum, Tusculī",
+                :definition "Tusculum, a city in ancient Italy. The city was destroyed in April 1191 AD. (nominative or accusative case)",
+                :dictionary-code
+                {:age nil,
+                 :area nil,
+                 :geo "Italy, Rome",
+                 :freq-code :A,
+                 :freq-text "Very frequent, in all Elementry Latin books",
+                 :source nil},
+                :original-word "Tusculum",
+                :parsed-word "Tusculum"})
    })
