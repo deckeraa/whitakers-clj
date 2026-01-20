@@ -8036,6 +8036,10 @@
    "hōrologium" "clock"
    "hōrologium, hōrologiī" "clock"
 
+   "horret" "he dreads, shudders"
+   "horrent" "they dread, shudder"
+   "horreō, horrēre, horruī" "to dread, shudder"
+
    "horrendīs" "horrendous"
 
    "horrida"  "dreadful, horrid, rude"
@@ -8098,6 +8102,7 @@
    "hūmānae" "human, cultured, refined"
    "hūmānam" "human, cultured, refined"
    "hūmānārum" "human, cultured, refined"
+   "hūmānō" "human, cultured, refined"
    "hūmānum" "human, cultured, refined"
    "hūmānus, hūmāna -um, hūmānior -or -us, hūmānissimus -a -um" "human, cultured, refined"
 
@@ -8193,6 +8198,9 @@
    "īdibus" "ides"
    "īdūs" "ides"
    "īdūs, īduum" "ides"
+
+   "iecur" "liver"
+   "iecur, iecoris" "liver"
 
    "iēiūniī" "of the fast day"
    "jejunium, jejuni(i)" "fast day"
@@ -8371,6 +8379,10 @@
    
    "impiōrum" "impious"
    "impius, impia, impium" "impious"
+
+   "impōnit" "he places upon"
+   "impōnere" "to put upon"
+   "impōnō, impōnere, imposuī, impositus" "to put upon"
 
    "important" "they convey, they import"
    "importāre" "to convey, to import"
@@ -9344,6 +9356,10 @@
    "labōrantēs" "laboring"
    "laboravissent" "they (might) have labored"
    "labōrō, labōrāre, labōrāvī, labōrātus" "to labor"
+
+   "labra" "lips"
+   "labrum" "lip"
+   "labrum, labrī" "lip"
    
    "lac" "milk"
    "lac, lactis" "milk"
@@ -9965,7 +9981,9 @@
    "malleōrum" "of hammers"
    "malleus, malleī" "hammer"
 
+   "malās" "evil"
    "male" "in an evil manner (adverb)"
+   "malōs" "evil"
    "malus, mala -um, pejor -or -us, -" "evil"
 
    "mālōrum" "of apples"
@@ -10540,6 +10558,7 @@
    "moriēmur" "we will die"
    "morientēs" "dying"
    "moritūrus" "dying (in the future)"
+   "mortuum" "having died"
    "morior, morī, mortuus sum" "to die"
    
    "mors, mortis" "death"
@@ -10913,6 +10932,10 @@
    "nīdum" "nest"
    "nīdus" "nest"
    "nīdus, nīdī" "nest"
+
+   "nigra" "black"
+   "nigrum" "black"
+   "niger, nigra, nigrum" "black"
 
    "nihilī" "nothing"
    "nihilō" "nothing"
@@ -11606,6 +11629,7 @@
    "ostendet" "you will show"
    "ostenditur" "it is shown"
    "ostendunt" "they show"
+   "ostende" "show!"
    "ostendere" "to show"
    "ostendō, ostendere, ostendī, ostentus" "to show"
 
@@ -11696,6 +11720,10 @@
 
    "palpandō" "touching"
    "palpō, palpāre, palpāvī, palpātus" "to touching"
+
+   "palpitat" "it beats, pulses, palpitates"
+   "palpitāre" "to beat, pulse, palpitate"
+   "palpitō, palpitāre, palpitāvī, palpitātum" "to beat, pulse, palpitate"
    
    "pānibus" "bread"
    "pānis" "bread"
@@ -11954,6 +11982,7 @@
 
    "pectora" "chests"
    "pectore" "chest"
+   "pectus" "chest"
    "pectus, pectoris" "chest"
 
    "pecus" "a single herd animal, sheep"
@@ -12468,6 +12497,7 @@
    "plēnam" "full"
    "plēnās" "full"
    "plēnī" "full"
+   "plēnō" "full"
    "plēnōs" "full"
    "plēnum" "full"
    "plēnus" "full"
@@ -13538,6 +13568,7 @@
    "quiēta"  "quiet"
    "quiētam" "quiet"
    "quiētissimam" "very quiet"
+   "quiētum" "quiet"
    "quiētus" "quiet"
    "quiētus, quiēta -um, quiētior -or -us, quiētissimus -a -um" "quiet"
 
@@ -14164,6 +14195,10 @@
    "revulsī" "having been torn away"
    "revellere" "to tear away"
    "revellō, revellere, revellī, revulsus" "to tear away"
+
+   "revenit" "he returns"
+   "revenīre" "to return"
+   "reveniō, revenīre, revēnī, reventus" "to return"
    
    "reverentia" "reverence, timidity, shyness"
    "reverentia, reverentiae" "reverence, timidity, shyness"
@@ -14316,6 +14351,7 @@
    "rōmānicus, rōmānica, rōmānicum" "Romanic"
 
    "rosa" "rose"
+   "rosae" "roses"
    "rosam" "rose"
    "rosārum" "of roses"
    "rosās" "roses"
@@ -14335,6 +14371,8 @@
    "rubricātīs" "red, reddened"
    "rubricātus, rubricāta, rubricātum" "red, reddened"
 
+   "rubra" "red"
+   "rubram" "red"
    "rubea" "red"
    "rubō" "red"
    "rubrum" "red"
@@ -14543,6 +14581,7 @@
    "sanguinem" "blood"
    "sanguinī" "blood"
    "sanguis" "blood"
+   "sanguinis" "blood"
    "sanguinum" "of blood"
    "sanguis, sanguinis" "blood"
 
@@ -14724,6 +14763,7 @@
    "sēdērunt" "they sat"
    "sēdāvit" "he sat"
    "sedēre" "to sit"
+   "sedet" "he sits"
    "sedent" "they sit"
    "sedeō, sedēre, sēdī, sessus" "to sit"
    "sēdō, sēdāre, sēdāvī, sēdātus" "to sit"
@@ -14813,6 +14853,7 @@
    "sententia, sententiae" "opinion, judgement, thought"
 
    "sentiant" "they (might) sense, feel"
+   "sentit" "he senses, feels"
    "sentīre" "to sense, to feel"
    "sentiō, sentīre, sēnsī, sēnsus" "to sense, to feel"
 
