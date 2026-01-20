@@ -1237,6 +1237,7 @@
    "turpiter" "shamefully, disgracefully"
    "tusculī" "Tusculum, a city in ancient Italy. The city was destroyed in April 1191 AD. (locative or genitive case)"
    "tusculum" "Tusculum, a city in ancient Italy. The city was destroyed in April 1191 AD. (nominative or accusative case)"
+   "Tusculum" "Tusculum, a city in ancient Italy. The city was destroyed in April 1191 AD. (nominative or accusative case)"
    "ubī" "where"
    "ubicumque" "everywhere"
    "ūllātenus" "up to this point"
@@ -1667,6 +1668,9 @@
    "aedificium, aedificiī" "building, structure"
 
    "aeger" "sick"
+   "aegrum" "sick"
+   "aegrī" "sick"
+   "aegrō" "sick"
    "aeger, aegra -um, aegrior -or -us, aegerrimus -a -um" "sick"
 
    "aegrōtantem" "being sick"
@@ -1877,6 +1881,7 @@
    "albus, alba -um, albior -or -us, albissimus -a -um" "white"
    "albī" "white"
    "albīs" "white"
+   "albae" "white"
 
    "āles" "bird"
    "āles, ālitis" "bird"
@@ -2357,6 +2362,7 @@
    "appendō, appendere, appendī, appēnsus" "to hang"
    
    "appōnere" "to place, to set before"
+   "appōnit" "he places before"
    "apposuit" "he placed, he set before"
    "appōnō, appōnere, apposuī, appositus" "to place, to set before"
 
@@ -2464,6 +2470,8 @@
 
    "arcessīvit" "he summoned"
    "arcessītam" "having been summoned, fetched"
+   "arcesse" "summon! fetch!"
+   "arcessit" "he summons, fetches"
    "arcessere" "to summon, to fetch"
    "arcessō, arcessere, arcessīvī, arcessītus" "to summon, to fetch"
 
@@ -3021,11 +3029,13 @@
    "blandus, blanda -um, blandior -or -us, blandissimus -a -um" "flattering"
    
    "bona" "good"
+   "bonās" "good"
    "bone" "good"
    "boni" "good"
    "bonīs" "good"
    "bonō" "good"
    "bonōrum" "good"
+   "bonōs" "good"
    "bonum" "good"
    "bonum, boni" "good"
    "bonus" "good"
@@ -3055,6 +3065,7 @@
 
    "bracchia" "forearms, branches"
    "bracchiīs" "arms"
+   "bracchiō" "arm"
    "bracchium" "arm"
    "bracchium, bracchiī" "arm"
    
@@ -3543,6 +3554,9 @@
 
    "centuriōnēs" "centurions"
    "centuriō, centuriōnis" "centurion"
+
+   "cerebrum" "brain"
+   "cerebrum, cerebrī" "brain"
 
    "cernentēs" "seeing, discerning"
    "cernentibus" "discerning"
@@ -14313,6 +14327,7 @@
    "rubea" "red"
    "rubō" "red"
    "rubrum" "red"
+   "ruber" "red"
    "ruber, rubra, rubrum" "red"
 
    "rūbīgō" "rust"
