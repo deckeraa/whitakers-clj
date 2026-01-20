@@ -27,7 +27,8 @@
    "Achardus" "Achard, Castellan of Montmerie"
    "adūnātim" "together; adverb from adūnāre, which means to unite or join"
    "aemilia" "Aemilia"
-   "aemiliae" "of Aemilia"
+   "aemiliae" "of Aemilia (genitive case)"
+   "aemiliam" "Aemilia (accusative case)"
    "albānōrum" "of the people of Alba Longa"
    "ac" "and"
    "ācriter" "sharply"
@@ -2990,6 +2991,7 @@
    "bibet" "he will drink"
    "bibēbant" "they drank"
    "bibit" "he drinks"
+   "bibe" "drink!"
    
    "bīduānās" "two days"
    "bīduānum" "two days"
@@ -3950,7 +3952,8 @@
    "colōnōs" "farmers, inhabitants"
    "colōnus" "farmer, inhabitant"
    "colōnus, colōnī" "farmer, inhabitant"
-   
+
+   "color" "color"
    "colōrem" "color"
    "colōris" "color"
    "color, colōris" "color"
@@ -5318,6 +5321,12 @@
    "dēnegāre" "to deny, refuse"
    "dēnegō, dēnegāre, dēnegāvī, dēnegātus" "to deny, refuse"
 
+   "dēns" "tooth"
+   "dentem" "tooth"
+   "dentēs" "teeth"
+   "dentis" "tooth's"
+   "dēns, dentis" "tooth"
+
    "dēnsissimīs" "very dense"
    "dēnsus, dēnsa -um, dēnsior -or -us, dēnsissimus -a -um" "dense"
 
@@ -5429,6 +5438,10 @@
    "dēstrūxērunt" "they destroyed"
    "dēstruere" "to destroy"
    "dēstruō, dēstruere, dēstrūxī, dēstrūctus" "to destroy"
+
+   "dēterget" "he wipes off"
+   "dētergēre" "to wipe away"
+   "dētergeō, dētergēre, dētersī, dētersus" "to wipe away"
    
    "dēterrimum" "worst"
    "-, -, dēterior -or -us, dēterrimus -a -um" "worst"
@@ -5923,6 +5936,7 @@
    "dolus, dolī" "trickery, deception"
 
    "domina" "mistress"
+   "dominae" "of the mistress"
    "domina, dominae" "mistress"
 
    "domāret" "he subdued, tamed"
@@ -5999,6 +6013,7 @@
    "dormīmus" "we sleep"
    "dormīvērunt" "they slept"
    "dormīvit" "he slept"
+   "dormī" "sleep!"
    "dormīre" "to sleep"
    "dormiō, dormīre, dormīvī, dormītus" "to sleep"
 
@@ -7378,6 +7393,7 @@
    "frīgus" "cold"
    "frīgoris" "cold"
 
+   "frōns"   "forehead, front"
    "fronte"  "forehead, front"
    "frontem" "forehead, front"
    "frōns, frontis" "forehead, front"
