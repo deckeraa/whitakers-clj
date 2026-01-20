@@ -15697,6 +15697,9 @@
    "summitās, summitātis" "summit, top"
    "summitāte" "summit, top"
 
+   "summonēbat" "he was reminding, privately advising"
+   "summoneō, summonēre, summonuī, summonitus" "to remind, privately advise; alternative to submoneō"
+
    "summovēre" "to remove, drive off, expel"
    "summoveō, summovēre, summōvī, summōtus" "to remove, drive off, expel"
 
@@ -15789,6 +15792,10 @@
    "suppliciter" "suppliantly, beggingly"
    "supplex, supplicis" "suppliant"
 
+   "supplicātiō" "thanksgiving, public prayer"
+   "supplicātiōne" "thanksgiving, public prayer"
+   "supplicātiō, supplicātiōnis" "thanksgiving, public prayer"
+
    "supputantur" "they are computed"
    "supputō, supputāre, supputāvī, supputātus" "to compute"
 
@@ -15847,6 +15854,10 @@
 
    "suspīria" "deep breathes"
    "suspīrium, suspīriī" "deep breath"
+
+   "sustentētis" "you might feed, sustain, endure"
+   "sustentāmentum" "feeding, sustaining"
+   "sustentō, sustentāre, sustentāvī, sustentātus" "to feed, sustain"
    
    "sustinēbit" "he will sustain"
    "sustinēmus" "we sustain"
