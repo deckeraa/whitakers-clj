@@ -495,6 +495,8 @@
    "Hungāriae" "Hungary"
    "Hybernia" "Ireland (nominative case)"
    "Hyberniae" "of Ireland (genitive case)"
+   "ī" "go!; singular imperative from eō, īre, iī, itus (irregular)"
+   "Ī" "go!; singular imperative from eō, īre, iī, itus (irregular)"
    "iamdūdum" "long ago"
    "iamiam" "already, now"
    "iamiamque" "at this very moment"
@@ -1174,8 +1176,8 @@
    "syrī" "of Syrus (genitive case)"
    "syrō" "Syrus (dative or ablative case)"
    "syriae" "of Syria"
-   "syrum" "Syrus"
-   "syrus" "Syrus (accusative case)"
+   "syrum" "Syrus (accusative case)"
+   "syrus" "Syrus (nominative case)"
    "Talamaniā" "the name of a castle"
    "Tamesis" "Thames river"
    "Tancredī" "of Tancred, Prince of Galilee (1075–1112) (genitive case)"
@@ -3791,6 +3793,7 @@
 
    "clēricī" "clerics"
    "clēricōrum" "clerics"
+   "clēricōs" "clerics"
    "clēricus" "cleric"
    "clēricus, clēricī" "cleric"
 
@@ -5667,6 +5670,7 @@
    
    "dīlēxī" "I loved"
    "dīlēxit" "he loved"
+   "dīligātis" "you might love"
    "dīligēbat" "he was loving"
    "dīligimus" "we love"
    "dīligis" "you love"
@@ -5837,6 +5841,7 @@
    "dīvitēs" "rich"
    "dīvitī" "rich"
    "dīvitis" "rich"
+   "dīvitum" "rich"
    "dīves, dīvitis (gen.), dīvitior -or -us, dīvitissimus -a -um" "rich"
    
    "dīvīna" "divine"
@@ -8020,6 +8025,10 @@
    "honōrābilēs" "honorable"
    "honōrābilis" "honorable"
    "honōrābilis, honōrābilis, honōrābile" "honorable"
+
+   "honōrificet" "let him honor"
+   "honōrificāre" "to honor"
+   "honōrificō, honōrificāre, honōrificāvī, honōrificātus" "to honor"
    
    "hōram" "hour, time"
    "hōra" "hour, time"
@@ -14590,7 +14599,9 @@
    "sanguinum" "of blood"
    "sanguis, sanguinis" "blood"
 
+   "sānā" "healthy, sound"
    "sānī" "healthy, sound"
+   "sānum" "healthy, sound"
    "sānus" "healthy, sound"
    "sānōs" "healthy, sound"
    "sānē" "healthfully, soundly"
