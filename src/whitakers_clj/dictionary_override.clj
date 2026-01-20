@@ -14569,6 +14569,11 @@
    "salvatoris" "savior"
    "salvātor, salvātōris" "savior"
 
+   "sānat" "he cures, heals"
+   "sānārī" "to be cured, healed"
+   "sānāre" "to cure, heal"
+   "sānō, sānāre, sānāvī, sānātus" "to cure, heal"
+
    "sānctārum" "having been ordained, consecrated"
    "sanciō, sancīre, sānxī, sānctus" "to confirm, consecrate, ordain"
 
@@ -15872,6 +15877,7 @@
    "tacendum" "being silent"
    "tacēre" "to be silent"
    "tacet" "he is silent"
+   "tacent" "they are silent"
    "tacuit" "he was silent"
    "taceō, tacēre, tacuī, tacitus" "to be silent"
 
@@ -15906,6 +15912,7 @@
 
    "tetigī" "I touched"
    "tetigit" "he touched"
+   "tangit" "he touches"
    "tangere" "to touch, to strike"
    "tangō, tangere, tetigī, tāctus" "to touch, to strike"
 
@@ -16106,6 +16113,7 @@
    "timeō" "I fear"
    "timuisse" "to have feared"
    "timuit" "he feared"
+   "timet" "he fears"
    "timēre" "to fear"
    "timeō, timēre, timuī, -" "to fear"
 
@@ -16780,6 +16788,10 @@
    "vēlum" "sail, cloth"
    "vēlum, vēlī" "sail, cloth"
 
+   "vēnam" "vein, blood vessel"
+   "vēnās" "vein, blood vessel"
+   "vēna, vēnae" "vein, blood vessel"
+
    "vēndēbant" "they were selling"
    "vēndēbātur" "it was being sold"
    "vēndendum" "selling"
@@ -16842,6 +16854,7 @@
    "venter" "belly, abdomen"
    "ventribus" "bellies, abdomens"
    "ventre" "belly, abdomen"
+   "ventrem" "belly, abdomen"
    "venter, ventris" "belly, abdomen"
 
    "ventī"  "of wind"
