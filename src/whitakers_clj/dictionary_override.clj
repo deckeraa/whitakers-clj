@@ -1671,6 +1671,7 @@
    "aegrum" "sick"
    "aegrī" "sick"
    "aegrō" "sick"
+   "aegrōs" "sick"
    "aeger, aegra -um, aegrior -or -us, aegerrimus -a -um" "sick"
 
    "aegrōtantem" "being sick"
@@ -4898,7 +4899,9 @@
    "cruor, cruōris" "blood, gore, murder"
 
    "crūra" "legs"
+   "crūre" "leg"
    "crūribus" "legs"
+   "crūs" "leg"
    "crūs, crūris" "leg"
    
    "crystallī" "crystal"
@@ -4921,6 +4924,10 @@
 
    "cultellōs" "small knives"
    "cultellus, cultellī" "small knife"
+
+   "culter" "knife"
+   "cultrum" "knife"
+   "culter, cultrī" "knife"
    
    "culpa" "fault"
    "culpam" "fault"
@@ -7600,6 +7607,10 @@
    "gemma, gemmae" "gem, jewel"
 
    "gemmātum" "bejeweled"
+
+   "gena" "cheek"
+   "genae" "cheek's"
+   "gena, genae" "cheek"
 
    "geneālogia" "genealogy"
    "geneālogiae" "genealogies"
