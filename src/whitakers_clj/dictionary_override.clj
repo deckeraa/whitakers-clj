@@ -5551,6 +5551,7 @@
    "diabolus" "devil, demon"
    "diabolus, diabolī" "devil, demon"
 
+   "diabolicā"  "diabolic, devilish"
    "diabolicam" "diabolic, devilish"
    "diabolicum" "diabolic, devilish"
    "diabolicus, diabolica, diabolicum" "diabolic, devilish"
@@ -8033,6 +8034,7 @@
 
    "honōrābilia" "honorable"
    "honōrābile" "honorable"
+   "honōrābilem" "honorable"
    "honōrābilēs" "honorable"
    "honōrābilis" "honorable"
    "honōrābilis, honōrābilis, honōrābile" "honorable"
@@ -11528,6 +11530,10 @@
    "optāre" "to choose, wish"
    "optō, optāre, optāvī, optātus" "to choose, wish"
 
+   "ōrācula" "oracles, divine announcements"
+   "ōrāculum" "oracle, divine announcement"
+   "ōrāculum, ōrāculī" "oracle, divine announcement"
+
    "ōrās" "border, edge, frontier"
    "ōra, ōrae" "border, edge, frontier"
 
@@ -13549,6 +13555,7 @@
    "quaerite" "seek!"
    "quaeritis" "you are seeking"
    "quaesīvistī" "you sought"
+   "quaesīvit" "he sought"
    "quaerāmus" "let us seek"
    "quaerunt" "they seek"
    "quaesīvimus" "we sought"
@@ -13944,6 +13951,7 @@
    "rēgnāre" "to reign"
    "rēgnō, rēgnāre, rēgnāvī, rēgnātus" "to reign"
 
+   "regressī" "having returned"
    "regrediēns" "returning"
    "regredior, regredī, regressus sum" "to return"
    
@@ -14056,6 +14064,7 @@
    "reperiētur" "will be discovered, found out"
    "repperērunt" "they discovered, found out"
    "repertō" "having been discovered"
+   "repperit" "he discovered"
    "reperīrī" "to be found"
    "reperīre" "to discover, find out"
    "reperiō, reperīre, repperī, repertus" "to discover, find out"
@@ -14251,6 +14260,7 @@
    "revertendum" "returning"
    "revertō, revertere, revertī, reversum" "to return"
 
+   "revocāvit" "he revoked"
    "revocāret" "he might revoke"
    "revocāre" "to revoke"
    "revocō, revocāre, revocāvī, revocātus" "to revoke"
@@ -14629,6 +14639,8 @@
 
    "sapiēns" "wise"
    "sapiente" "wise"
+   "sapientissimum" "very wise"
+   "sapientissimīs" "very wise"
    "sapiēns, sapientis (gen.), sapientior -or -us, sapientissimus -a -um" "wise"
    
    "sapor" "taste"
@@ -16075,6 +16087,7 @@
    "tergum, tergī" "back"
 
    "terminī" "end, boundary, limit"
+   "terminō" "end, boundary, limit"
    "terminōs" "ends, boundaries, limits"
    "terminum" "end, boundary, limit"
    "terminus" "end, boundary, limit"
