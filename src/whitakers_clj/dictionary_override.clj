@@ -917,6 +917,9 @@
    "quam" "how? how much?"
    "quātinus" "how long, how far"
    "quemadmodum" "how"
+   "quīdam" "a certain; singular masculine nominative from quīdam"
+   "quamdam" "a certain; singular feminine accusative from quīdam"
+   "quemdam" "a certain; singular masculine accusative from quīdam"
    "quamdiū" "as long as"
    "quamobrem" "why, for what reason? Derived from quam ob rem."
    "quamquam" "although"
@@ -17644,4 +17647,78 @@
                  :source nil},
                 :original-word "Tusculum",
                 :parsed-word "Tusculum"})
+   "occīdit" '({:definition "he killed",
+             :part-of-speech :verb,
+             :sectioned-word "occīd.it",
+             :dictionary-code
+             {:age nil,
+              :area nil,
+              :geo nil,
+              :freq-code nil,
+              :freq-text nil,
+              :source nil},
+             :dictionary-entry "occīdō, occīdere, occīdī, occīsus",
+             :original-word "occīdit",
+             :conjugation 3,
+             :options
+             [{:tense :perfect,
+               :person 3,
+               :number :singular,
+               :part-of-speech :verb,
+               :sectioned-word "occīd.it",
+               :voice :active,
+               :mood :indicative,
+               :conjugation 3,
+               :stem "occīd",
+               :ending "it"},
+              {:tense :present,
+               :person 3,
+               :number :singular,
+               :part-of-speech :verb,
+               :sectioned-word "occīd.it",
+               :voice :active,
+               :mood :indicative,
+               :conjugation 3,
+               :stem "occīd",
+               :ending "it"}
+              ],
+             :parsed-word "occīdit"})
+   "quamdam" '({:options
+                [{:word "quamdam",
+                  :part-of-speech :pronoun,
+                  :case :accusative,
+                  :number :singular,
+                  :gender :feminine}],
+                :word "quamdam",
+                :part-of-speech :pronoun,
+                :dictionary-entry "quīdam",
+                :definition "a certain",
+                :dictionary-code
+                {:age nil,
+                 :area nil,
+                 :geo nil,
+                 :freq-code :A,
+                 :freq-text "Very frequent, in all Elementry Latin books",
+                 :source nil},
+                :original-word "quamdam",
+                :parsed-word "quamdam"})
+   "quemdam" '({:options
+                [{:word "quemdam",
+                  :part-of-speech :pronoun,
+                  :case :accusative,
+                  :number :singular,
+                  :gender :feminine}],
+                :word "quemdam",
+                :part-of-speech :pronoun,
+                :dictionary-entry "quīdam",
+                :definition "a certain",
+                :dictionary-code
+                {:age nil,
+                 :area nil,
+                 :geo nil,
+                 :freq-code :A,
+                 :freq-text "Very frequent, in all Elementry Latin books",
+                 :source nil},
+                :original-word "quemdam",
+                :parsed-word "quemdam"})
    })
