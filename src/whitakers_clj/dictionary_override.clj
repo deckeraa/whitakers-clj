@@ -4141,6 +4141,9 @@
    "compositō" "having been ordered"
    "compositus, composita, compositum" "ordered"
 
+   "compotum" "computation"
+   "compotus, compotī" "computation"
+
    "comprehenderet" "he might catch"
    "comprehenderant" "they had caught"
    "comprehendērunt" "they caught"
@@ -6303,6 +6306,9 @@
    "ēmittit" "he sends"
    "ēmittō, ēmittere, ēmīsī, ēmissus" "to send out"
 
+   "ēmollīre" "to soften, mellow"
+   "ēmolliō, ēmollīre, ēmollīvī, ēmollītus" "to soften, mellow"
+
    "ēnārrāre" "to describe"
    "ēnārrō, ēnārrāre, ēnārrāvī, ēnārrātus" "to describe"
 
@@ -7856,6 +7862,7 @@
    "habētur" "it is had"
    "habuissem" "I might have had"
    "habeāmus" "let us have"
+   "habuerant" "they had had"
    "habeō, habēre, habuī, habitus" "to have"
 
    "habitat" "he lives"
@@ -11428,7 +11435,7 @@
    
    "ōlla" "pot, jar"
    "ōlla, ōllae" "pot, jar"
-   
+  
    "omne"  "all, every"
    "omnem" "all, every"
    "omnen" "all, every"
@@ -11907,6 +11914,7 @@
    "patēret" "it was lying open"
    "pateō, patēre, patuī, -" "to stand open, to extend, to lie open"
 
+   "patefēcit" "he opened, revealed"
    "patefacta" "having been opened, revealed"
    "patefacere" "to open, reveal"
    "patefaciō, patefacere, patefēcī, patefactum" "to open, reveal"
@@ -12033,6 +12041,9 @@
 
    "pedestribus" "on foot"
    "pedester, pedestris, pedestre" "on foot"
+
+   "pēierāre" "to perjure, break an oath"
+   "pēierō, pēierāre, pēierāvī, pēierātus" "to perjure, break an oath"
 
    ;; "pēditī"  "fart"
    ;; "pēditum" "fart"
@@ -13726,6 +13737,10 @@
    "reciprocābant" "they were going back and forth"
    "reciprocō, reciprocāre, reciprocāvī, reciprocātus" "to go back and forth"
 
+   "recitāvit" "he recited"
+   "recitāre" "to recite"
+   "recitō, recitāre, recitāvī, recitātus" "to recite"
+
    "recolligam" "I will recover, collect"
    "recolligere" "to recover, collect"
    "recolligō, recolligere, recollēgī, recollēctus" "to recover, collect"
@@ -13778,6 +13793,7 @@
    "redīrent" "they might have returned"
    "redībō" "I will return"
    "reddēmus" "we will return"
+   "reddendam" "returning"
 
    "redēmptiō" "redemption"
    "redēmptiōne" "redemption"
