@@ -1039,6 +1039,7 @@
    "sānctum" "holy, saint"
    "sānctissimam" "most holy"
    "sapienter" "wisely"
+   "Saracēnās" "Saracenes, muslims"
    "Saracēnī" "Saracenes, muslims"
    "Saracēnōrum" "of Saracenes, muslims"
    "Saracēnōs" "Saracenes, muslims"
@@ -2387,7 +2388,8 @@
    "appretiāvērunt" "they valued, appraised"
    "appretiāre" "to value, appraise"
    "appretiō, appretiāre, appretiāvī, appretiātus" "to value, appraise"
-   
+
+   "appropinquāverat" "he had approached"
    "appropinquāre" "to approach"
    "appropinquō, appropinquāre, appropinquāvī, appropinquātus" "to approach"
    "appropinquābat" "he approached"
@@ -4423,6 +4425,11 @@
    "cōnscrībere" "to write down"
    "cōnscrībō, cōnscrībere, cōnscrīpsī, cōnscrīptus" "to write down"
 
+   "cōnsecrandum" "consecrating"
+   "cōnsecrāret" "he might consecrate"
+   "cōnsecrāre" "to consecrate"
+   "cōnsecrō, cōnsecrāre, cōnsecrāvī, cōnsecrātus" "to consecrate"
+
    "cōnsēnsit" "he was in agreement"
    "cōnsentiam" "I will be in agreement"
    "cōnsentiat" "he is in agreement"
@@ -4652,6 +4659,7 @@
 
    "conturbābat" "he was confusing"
    "conturbābant" "they were confusing"
+   "conturbandī" "confusing"
    "conturbat" "he confuses"
    "conturbārī" "to be confused"
    "conturbāre" "to confuse"
