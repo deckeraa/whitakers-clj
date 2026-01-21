@@ -95,9 +95,11 @@
    "ambiorīgis" "Ambiorīx, king of the Eburones with Catuvolcus (genitive case)"
    "ambiorige" "Ambiorix, king of the Eburones with Catuvolcus (ablative case)"
    "ambiorigem" "Ambiorix, king of the Eburones with Catuvolcus (accusative case)"
+   "ambō" "both"
    "ambrōnum" "of the Ambrones, a tribe of Denmark"
    "amen" "amen, truly, verily"
    "amīcissimē" "friendly"
+   "admiraliī" "of the emir, leader, admiral; loanword from Arabic"
    "Ammiraliī" "of the emir, leader, admiral; loanword from Arabic"
    "ammiraliī" "of the emir, leader, admiral; loanword from Arabic"
    "ammiralīō" "emir, leader, admiral; loanword from Arabic (dative case)"
@@ -213,6 +215,7 @@
    "carolō" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
    "carolum" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
    "carolus" "Charlemagne, AD 748-814, King of the Franks and Emperor of the Western Roman Empire, member of the Carolingian Dynasty"
+   "cassiānī" "of Yağısıyan, the Turkish governor of Antioch (genitive case)"
    "Cassiānus" "Yağısıyan, the Turkish governor of Antioch"
    "cassium" "Lucius Cassius Longinus (c. 151 - 107 BC), a consul who was killed at the Battle of Burdigala"
    "cāsū" "accidentally, by chance (adverb)"
@@ -725,6 +728,7 @@
    "mixtim" "mixedly, in a mixed manner (adverb)"
    "modeste" "modestly, in a disciplined manner"
    "modicum" "a little; singular neuter nominative or accusative from modicum, modica"
+   "montānea" "mountain; singular feminine nominative from montāneā, montāneae"
    "montāneae" "of the mountain; singular feminine genitive from montāneā, montāneae"
    "montāneam" "mountain; singular feminine accusative from montāneā, montāneae"
    "montāneās" "mountains; plural feminine accusative from montāneā, montāneae"
@@ -782,6 +786,7 @@
    "nonnullī" "some; masculine plural nominative of nonnullus, -a, -um"
    "nōnus" "9th"
    "Noricum" "Noric; belonging to Noreia, a region in Gallia"
+   "Nortmannīā" "Norman (ablative case)"
    "Nortmanniae" "Norman (genitive case)"
    "Nortmannus" "Norman"
    "nōs" "us; plural nominative or accusative of ego"
@@ -2305,6 +2310,7 @@
    "aperit" "he opens"
    "aperī" "open!"
    "aperītur" "it is opened"
+   "apertē" "openly"
 
    "apum" "of bees"
    "apis, apis" "bee"
@@ -3464,6 +3470,9 @@
    "catervam" "crowd"
    "catervās" "crowd"
    "caterva, catervae" "crowd"
+
+   "cathedra" "chair, cathedral"
+   "cathedra, cathedrae" "chair, cathedral"
 
    "catholicam" "Catholic"
    "catholicōrum" "Catholic"
@@ -5500,6 +5509,10 @@
    "dētruncāre" "to cut off, behead"
    "dētruncō, dētruncāre, dētruncāvī, dētruncātus" "to cut off, behead"
 
+   "dēturbārētur" "it might be beat down, dislodged"
+   "dēturbāre" "to beat down, dislodge"
+   "dēturbō, dēturbāre, dēturbāvī, dēturbātus" "to beat down, dislodge"
+
    "diī" "gods"
    "deum" "god"
    "deus" "god"
@@ -5757,6 +5770,10 @@
    "didicit" "he learned"
    "dīsceret" "he might learn"
    "dīscō, dīscere, didicī, dīscitus" "to learn"
+
+   "discernerent" "they were discerning, separating"
+   "discernere" "to discern, distinguish, separate"
+   "discernō, discernere, discrēvī, discrētus" "to discern, distinguish, separate"
 
    "disciplīna" "teaching, instruction"
    "disciplīna, disciplīnae" "teaching, instruction"
@@ -6331,6 +6348,7 @@
    "episcopī" "bishop"
    "episcopīs" "bishops"
    "episcopō" "bishop"
+   "epīscopōrum" "of the bishops"
    "episcopum" "bishop"
    "episcopus" "bishop"
    "episcopus, episcopī" "bishop"
@@ -9545,6 +9563,8 @@
    "laudēs" "praises"
    "laudibus" "praises"
    "laudāvimus" "we praised"
+   "laudāvit" "he praised"
+   "laudāverint" "they will have praised"
    "laudō, laudāre, laudāvī, laudātus" "to praise"
 
    "laude" "praise"
@@ -10713,6 +10733,7 @@
 
    "mūniam" "I will fortify"
    "mūniant" "they might fortify"
+   "mūnīret" "he might have fortified"
    "mūnīvit" "he fortified"
    "mūnīre" "to fortify"
    "mūniō, mūnīre, mūnīvī, mūnītus" "to fortify"
@@ -11788,6 +11809,9 @@
    "pāpiliō" "tent"
    "pāpiliōnēs" "tents"
    "pāpiliō, pāpiliōnis" "tent"
+
+   "pār" "even, equal, peer"
+   "parēs" "even, equal, peers"
 
    "paradigmate" "example, pattern"
    "paradigma, paradigmatis" "example, pattern"
@@ -13341,6 +13365,10 @@
    "prōtegere" "to cover, protect"
    "prōtegō, prōtegere, prōtēxī, prōtēctus" "to cover, protect"
 
+   "prōturbārētur" "he might have been driven away"
+   "prōturbāre" "to drive away"
+   "prōturbō, prōturbāre, prōturbāvī, prōturbātus" "to drive away"
+
    "prōvectae" "having been carried forward"
    "prōvehō, prōvehere, prōvēxī, prōvectus" "to carry forward, to sail"
 
@@ -14607,6 +14635,7 @@
    "salvēte" "be well!"
    "salveō, salvēre, -, -" "to be well"
 
+   "salvā" "healthy, safe"
    "salvī" "healthy, safe"
    "salvam" "healthy, safe"
    "salvōs" "healthy, safe"
