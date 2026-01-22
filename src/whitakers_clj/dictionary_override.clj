@@ -7499,6 +7499,11 @@
    "fraxinus" "ash tree, spear of ash"
    "fraxinus, fraxinī" "ash tree, spear of ash"
 
+   "fremēns" "roaring, raging"
+   "fremit" "he roars, rages"
+   "fremere" "to roar, rage"
+   "fremō, fremere, fremuī, fremitus" "to roar, rage"
+
    "frēna" "bridle"
    "frēnī" "bridle"
    "frēnīs" "bridle"
@@ -8288,12 +8293,20 @@
 
    "iactus" "throwing, casting, hurling"
    "iactus, iactūs" "throwing, casting, hurling"
+
+   "iānitor" "door-keeper, janitor"
+   "iānitōre" "door-keeper, janitor"
+   "iānitōribus" "door-keepers, janitors"
+   "iānitōrēs" "door-keepers, janitors"
+   "iānitōrī" "door-keeper, janitor"
+   "iānitor, iānitōris" "door-keeper, janitor"
    
    "ianthinīs" "violet-colored"
    "janthinus, janthina, janthinum" "violet-colored"
 
    "iānua" "door"
    "iānuae" "door"
+   "iānuam" "door"
    "iānuīs" "doors"
    "iānua, iānuae" "door"
 
@@ -8387,6 +8400,8 @@
    "imāgō, imāginis" "image"
 
    "imber" "rain"
+   "imbre" "rain"
+   "imbrem" "rain"
    "imbrēs" "rain"
    "imber, imbris" "rain"
    
@@ -9020,6 +9035,10 @@
    "interdīctīs" "having been forbidden"
    "interdīcō, interdīcere, interdīxī, interdīctus" "to forbid, to interdict"
    "interēmit" "he extinguish, he did away with"
+
+   "intersunt" "they are between"
+   "interesse" "to be between"
+   "intersum, interesse, interfuī, interfutūrus" "to be between"
 
    "interficiēbātur" "he was killed"
    "interfēcerant" "they had killed"
