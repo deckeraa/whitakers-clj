@@ -6647,6 +6647,7 @@
    "exīssent" "they (might) have came out"
    "exierant" "they had gone out"
    "exeuntēs" "going out"
+   "exībit" "he will go out"
    "exībat" "he was going out"
    "exībant" "they were going out"
    "exīvimus" "we went out"
@@ -6867,7 +6868,8 @@
    "fabārum" "of beans"
    "fabās" "beans"
    "faba, fabae" "bean"
-   
+
+   "faber" "craftsman, smith"
    "fabrōrum" "of smiths"
    "faber, fabrī" "craftsman, smith"
    
@@ -6903,6 +6905,7 @@
    "facit" "he makes"
    "facite" "make! do!"
    "facta" "having been made"
+   "factae" "having been made"
    "factī" "having been made, done"
    "factō" "made"
    "factūrōs" "to be made"
@@ -7066,6 +7069,10 @@
    "ferentēs" "bringing, bearing"
    "ferēbant" "they were bringing, bearing"
    "fer" "bring!"
+   "ferimus" "we bring, carry"
+   "fers" "you bring, carry"
+   "fert" "he brings, carries"
+   "fertis" "you bring, carry"
 
    "feriēbant" "they were hitting, striking, killing"
    "ferientem" "hitting, striking, killing"
@@ -7075,8 +7082,10 @@
    "feritās" "wildness"
    "feritās, feritātis" "wildness"
 
+   "ferōcem" "wild, bold, defiant"
    "ferōcēs" "wild, bold, defiant"
    "ferōcī" "wild, bold, defiant"
+   "ferōcis" "wild, bold, defiant"
    "ferōciter" "ferociously, wildly, defiantly"
    "ferōx" "wild, bold, defiant"
    "ferōx, (gen.), ferōcis" "wild, bold, defiant"
@@ -7090,9 +7099,12 @@
    "ferrum, ferrī" "iron"
    
    "ferreae" "made of iron"
+   "ferream" "made of iron"
    "ferreās" "made of iron"
    "ferreīs" "made of iron"
    "ferreōs" "made of iron"
+   "ferreum" "made of iron"
+   "ferreus" "made of iron"
    "ferreus, ferrea, ferreum" "made of iron"
    
    "fertilitāte" "fruitfulness, fertility"
@@ -7375,6 +7387,10 @@
    "forcipe" "tongs, forceps"
    "forcipem" "tongs, forceps"
    "forceps, forcipis" "tongs, forceps"
+
+   "forēs" "doors"
+   "foribus" "doors"
+   "forīs, foris" "door"
 
    "formīdō" "fear, alarm, dread"
    "formīdine" "fear, alarm, dread"
