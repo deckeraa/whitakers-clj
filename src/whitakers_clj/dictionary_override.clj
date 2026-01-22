@@ -13602,6 +13602,7 @@
    "pulchrae" "beautiful"
    "pulchram" "beautiful"
    "pulchrī"  "beautiful"
+   "pulchrior" "more beautiful"
    "pulchrīs" "beautiful"
    "pulchrum" "beautiful"
    "pulcherrimā" "very beautiful"
@@ -13631,6 +13632,8 @@
    "pulsāvit" "he hit"
    "pulsā" "having been hit"
    "pulsī" "having been hit"
+   "pulsāte" "hit! knock!"
+   "pulsō" "I hit"
    "pulsō, pulsāre, pulsāvī, pulsātus" "to hit"
 
    "pulvere" "dust, arena"
@@ -13700,12 +13703,14 @@
 
    "quaerēbant" "they were seeking"
    "quaerēbat" "he was seeking"
+   "quaeris" "you seek"
    "quaerit" "he seeks"
    "quaerite" "seek!"
    "quaeritis" "you are seeking"
    "quaesīvistī" "you sought"
    "quaesīvit" "he sought"
    "quaerāmus" "let us seek"
+   "quaerō" "I seek"
    "quaerunt" "they seek"
    "quaesīvimus" "we sought"
    "quaesō" "I seek, ask for"
@@ -13846,6 +13851,7 @@
    "recessimus" "we withdrew"
    "recessit" "he withdrew"
    "recessūrus" "withdrawing"
+   "recēdere" "to recede, to withdraw"
    "recēdō, recēdere, recessī, recessus" "to recede, to withdraw"
 
    "receptum" "engagement, obligation"
@@ -14197,6 +14203,7 @@
 
    "remōta" "having been removed"
    "remōtae" "having been removed"
+   "removet" "he removes"
    "removērī" "to be removed"
    "removēre" "to remove"
    "removeō, removēre, remōvī, remōtus" "to remove"
@@ -14290,6 +14297,7 @@
    "respīrantem" "breathing"
    "respīrō, respīrāre, respīrāvī, respīrātus" "to breathe"
 
+   "respondēbō" "I will respond"
    "respondēns" "responding"
    "respondeō" "I respond"
    "respondet" "he responds"
@@ -14316,6 +14324,7 @@
    "restitit" "he resisted"
    "restitērunt" "they resisted"
    "restituerat" "he had resisted"
+   "resistēns" "resisting"
    "resistere" "to resist"
    "resistite" "resist!"
    "resistō, resistere, restitī, -" "to resist"
@@ -14347,6 +14356,7 @@
    "retinēbant" "they were holding back, they were retaining"
    "retinent" "they hold back, retain"
    "retinet" "he holds back, retains"
+   "retinētur" "he holds back, retains"
    "retinuit" "he retained, held back"
    "retineō, retinēre, retinuī, retentus" "they were holding back, they were retaining"
 
@@ -14454,6 +14464,7 @@
    "Rhodanus, Rhodanī" "The Rhone"
    "rhodanus, Rhodanī" "The Rhone"
 
+   "rīdēns" "laughing"
    "rīdet" "he laughs"
    "rīdēre" "to laugh"
    "rīdeō, rīdēre, rīsī, rīsus" "to laugh"
@@ -14512,6 +14523,10 @@
    "rogō" "I ask"
    "rogāre" "to ask"
    "rogō, rogāre, rogāvī, rogātus" "to ask"
+
+   "rogitās" "you ask"
+   "rogitāre" "to ask"
+   "rogitō, rogitāre, rogitāvī, rogitātus" "to ask"
    
    "rogus" "funeral pyre, grave"
    "rogus, rogī" "funeral pyre, grave"
@@ -14597,6 +14612,7 @@
    "rūmōris" "rumor"
    "rūmor, rūmōris" "rumor"
 
+   "rumpēns" "breaking, destroying"
    "rumpit" "he breaks, destroys"
    "rupta" "having been broken, destroyed"
    "ruptūrōs" "to be breaking, destroying"
