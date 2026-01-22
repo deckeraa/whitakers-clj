@@ -9620,6 +9620,7 @@
    "latīnōs" "Latins, of Latium"
    "Latīnus, Latīna, Latīnum" "Latin, of Latium"
 
+   "lātrante" "barking"
    "lātrat" "it barks"
    "lātrāre" "to bark"
    "lātrō, lātrāre, lātrāvī, lātrātus" "to bark"
@@ -9672,7 +9673,8 @@
    "lavat" "he washes"
    "lavant" "they wash"
    "lavāre" "to wash"
-   "lavō, lavāre, lāvī, lautus" "to wash"
+   "lavātum" "having been washed"
+   "lavō, lavāre, lāvī, lavātus" "to wash"
    
    "laxāte" "loosen! relax!"
 
@@ -9727,6 +9729,7 @@
    "lēgistī" "you read"
    "legitur" "is read"
    "lēgī" "I read"
+   "legere" "to read"
    "legō, legere, lēgī, lēctus" "to read"
 
    "lēgitimō" "lawful, legitimate"
@@ -9819,11 +9822,13 @@
    "lignātor, lignātōris" "woodcutter"
 
    "līgneās" "wooden"
+   "ligneō" "wooden"
    "ligneum" "wooden"
    "ligneus, lignea, ligneum" "wooden"
 
    "ligna" "wood"
    "lignīs" "wood"
+   "lignō" "wood"
    "lignōrum" "of wood"
    "lignum" "wood"
    "lignum, lignī" "wood"
@@ -9834,6 +9839,7 @@
 
    "līmen" "threshold, doorstep, house"
    "līmina" "thresholds, doorsteps, houses"
+   "līmine" "threshold, doorstep, house"
    "līmen, līminis" "thresholds, doorsteps, house"
 
    "līnea" "string, thread"
@@ -10644,6 +10650,9 @@
    "monita" "warnings, having been warned"
    "monēns" "warning"
    "monente" "warning"
+   "monet" "he warns"
+   "monitus" "having been warned"
+   "monuī" "I warned"
    "monēre" "to warn"
    "moneō, monēre, monuī, monitus" "to warn"
 
@@ -10715,6 +10724,8 @@
    "morsus" "bite, sting"
    "morsus, morsūs" "bite, sting"
 
+   "mordēbit" "he will bite"
+   "mordet" "he bites"
    "mordēbunt" "they will bite"
    "mordēre" "to bite"
    "mordeō, mordēre, momordī, morsus" "to bite"
@@ -11136,6 +11147,7 @@
 
    "nōminat" "it names"
    "nōminābātur" "he was named, called"
+   "nōminor" "I am called"
    "nōmināre" "to name"
    "nōminō, nōmināre, nōmināvī, nōminātus" "to name"
    
@@ -12166,6 +12178,8 @@
    "pelagī" "of the sea"
    "pelagus, pelagī" "sea"
 
+   "pellit" "he drives away"
+   "pepulit" "he drove away"
    "pellere" "to drive away"
    "pellō, pellere, pepulī, pulsus" "to drive away"
    
@@ -12875,6 +12889,7 @@
    "postulāns" "asking"
    "postulārent" "they demanded"
    "postulās" "you ask for, demand"
+   "postulātum" "having been demanded"
    "postulāvit" "he asked for, demanded"
    "postulō, postulāre, postulāvī, postulātus" "to ask for"
    
@@ -13099,6 +13114,9 @@
    "prāvīs" "evil, crooked, wrong"
    "prāvus, prāva, prāvum" "evil, crooked, wrong"
 
+   "prehendit" "he catches"
+   "prehendō, prehendere, prehendī, prehēnsus" "to catch"
+
    "premantur" "they are being overwhelmed"
    "premī" "to be pressed, to be overwhelmed"
    "premit" "he presses, he overwhelms"
@@ -13113,7 +13131,8 @@
    "presbyterīs" "elders, presbyters"
    "presbyterōs" "elders, presbyters"
    "presbyter, presbyterī" "elder, presbyter"
-   
+
+   "pretiī" "price"
    "pretiō" "price"
    "pretium" "price"
    "pretium, pretiī" "price"
@@ -13192,6 +13211,7 @@
    "probāre" "to approve, to commend, to demonstrate"
    "probō, probāre, probāvī, probātus" "to approve, to commend, to demonstrate"
 
+   "prōcēdis" "you proceed"
    "procēdit" "he proceeds"
    "procēdunt" "they proceed"
    "procēditur" "it is proceeded, advanced"
