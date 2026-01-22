@@ -14614,6 +14614,7 @@
 
    "rumpēns" "breaking, destroying"
    "rumpit" "he breaks, destroys"
+   "rūpit" "he broked, destroyed"
    "rupta" "having been broken, destroyed"
    "ruptūrōs" "to be breaking, destroying"
    "rumpere" "to break, destroy"
@@ -14747,6 +14748,8 @@
    "salūtāntur" "they are greeted"
    "salūtātis" "you salute, you greet"
    "salūtāvit" "he saluted, he greeted"
+   "salūtātum" "having been greeted"
+   "salūtātus" "having been greeted"
    "salūtō, salūtāre, salūtāvī, salūtātus" "to salute, to greet"
 
    "salūtātiō" "greeting"
@@ -14885,6 +14888,10 @@
    "schēmatibus" "plans, figures, forms, postures"
    "schēma, schēmatis" "plan, figure, form, posture"
 
+   "scissum" "having been torn, cut up"
+   "scindere" "to tear, cut up"
+   "scindō, scindere, scidī, scissus" "to tear, cut up"
+
    "sciant" "they might know"
    "sciās" "you might know"
    "sciātis" "you might know"
@@ -14903,6 +14910,7 @@
    "scōria" "slag"
    "scōria, scōriae" "slag"
 
+   "scrībēbantur" "they were being written"
    "scrībe" "write!"
    "scrībenda" "writing"
    "scrībendī" "of writing"
@@ -15390,6 +15398,9 @@
    "sōlus, sōla, sōlum (gen -ius)" "alone"
 
    "solvērunt" "they loosened, they paid"
+   "solvisse" "to have loosened, paid"
+   "solvistī" "you loosened, paid"
+   "solūtum" "having been lossened, paid"
    "solvere" "to loosen, to pay"
    "solvō, solvere, solvī, solūtus" "to loosen, to pay"
 
@@ -15398,6 +15409,7 @@
    "somnium, somniī" "dream"
    
    "somnō" "sleep"
+   "somnum" "sleep"
    "somnus, somnī" "sleep"
    
    "sonābant" "they were making sounds"
