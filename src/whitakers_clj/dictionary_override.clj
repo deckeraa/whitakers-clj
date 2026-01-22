@@ -155,6 +155,7 @@
    "avium" "of birds; plural feminine genitive from avis, avis"
    "Azimītārum" "of the Armenians (according to Hagenmeyer (p. 297, note 19)). The name stems from the Greek άζυμος, which means unleavened, and refers to the Armenian's practice of using unleavened bread in the Eucharist."
    "Azimītās" "Armenians (according to Hagenmeyer (p. 297, note 19)). The name stems from the Greek άζυμος, which means unleavened, and refers to the Armenian's practice of using unleavened bread in the Eucharist."
+   "Balbum" "Part of Julius's name, Lūcius Iūlius Balbus (accusative case"
    "Balduīnō" "Baldwin"
    "Balduīnus" "Baldwin"
    "bari" "Bari, a large city on the eastern coast of Italy"
@@ -248,6 +249,7 @@
    "clam" "secretly, stealthily, without the knowledge of"
    "clāmāte" "shout: plural imperative from clāmāre"
    "clementer" "gently, leniently; adverb from clēmēns"
+   "Cleopolimus" "A mis-heard version of Tlepolemus, the name of the messenger"
    "Commius" "Commius, a Roman ambassador"
    "Cosdras" "Codrus, the last King of Athens (r. ca 1089-1068 BC)"
    "Cosdrī" "of Codrus, the last King of Athens (r. ca 1089-1068 BC)"
@@ -1218,6 +1220,8 @@
    "Titūrī" "Titūrius, a Roman family name (genitive case)"
    "Titūrium" "Titūrius, a Roman family name (accusative case)"
    "Titūrius" "Titūrius, a Roman family name (nominative case)"
+   "tlēpolemus" "Tlēpolemus, the name of a messenger (nominative case)"
+   "tlēpolemum" "Tlēpolemus, the name of a messenger (accusative case)"
    "tot" "this many"
    "totidem" "as many, the same number of"
    "trecenta" "300"
@@ -1418,6 +1422,7 @@
 
    "accēde" "approach!"
    "accēderet" "he (might) have been approaching"
+   "accēdit" "he approaches"
    "accessit" "he approached"
    "accēdere" "to approach"
    "accēdō, accēdere, accessī, accessus" "to approach"
@@ -1599,7 +1604,11 @@
    "admissō" "crime"
    "admissum, admissī" "crime"
 
+   "admitte" "admit! let in!"
    "admitteretur" "he (might) have been admitted"
+   "admittis" "you admit, let in"
+   "admittit" "he admits, lets in"
+   "admittēris" "you will be admitted, let in"
    "admittere" "to admit, let in"
    "admittō, admittere, admīsī, admissus" "to admit, let in"
 
@@ -1870,6 +1879,7 @@
    "allāta" "having been carried"
    "allātīs" "having been carried"
    "afferēbant" "they were bringing in"
+   "afferō" "I carry"
    "affert" "they carry"
    "afferre" "to carry"
    "afferō, afferre, attulī, allātus" "to carry"
@@ -2021,6 +2031,7 @@
 
    "amābat" "he was loving"
    "amābant" "they were loving"
+   "amābō" "I will love"
    "amat" "he loves"
    "amāre" "to love"
    "amāret" "he loved"
@@ -2054,6 +2065,7 @@
    "ambulāvērunt" "they walked"
    "ambulāvit" "he walked"
    "ambulandī" "walking"
+   "ambulātum" "having walked"
    "ambulō, ambulāre, ambulāvī, ambulātus" "to walk"
 
    "amīca" "friend"
@@ -2311,6 +2323,7 @@
    "aperī" "open!"
    "aperītur" "it is opened"
    "apertē" "openly"
+   "aperuī" "I opened"
 
    "apum" "of bees"
    "apis, apis" "bee"
@@ -2462,6 +2475,11 @@
 
    "arbiter" "eye-witness, judge"
    "arbiter, arbitrī" "eye-witness, judge"
+
+   "arbitrāris" "you believe, witness, observe"
+   "arbitrātur" "he believes, witnesses, observes"
+   "arbitrārī" "to believe, witness, observe"
+   "arbitror, arbitrārī, arbitrātus" "to believe, witness, observe"
 
    "arbitriī" "will, arbitration"
    "arbitriō" "will, arbitration"
