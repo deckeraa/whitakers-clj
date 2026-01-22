@@ -16087,6 +16087,16 @@
    "syria" "Syria"
    "Syria, Syriae" "Syria"
 
+   "tabellārium""letter carrier"
+   "tabellārius" "letter carrier"
+   "tabellāriō" "letter carrier"
+   "tabellāriōs" "letter carriers"
+   "tabellārius, tabellāriī" "letter carrier"
+
+   "tabella" "writing-tablet"
+   "tabellīs" "writing-tablets"
+   "tabella, tabellae" "writing-tablet"
+
    "taberna"  "shop"
    "tabernā"  "shop"
    "tabernae" "shop"
@@ -16102,6 +16112,7 @@
    
    "tabula" "tablet"
    "tabulā" "tablet"
+   "tabulae" "tablets"
    "tabulam" "tablet"
    "tabula, tabulae" "tablet"
 
@@ -16292,7 +16303,10 @@
    "terrēnus, terrēna, terrēnum" "earthly"
 
    "terrērentur" "they were being frightened"
+   "terret" "he terrifies"
    "territa" "having been frightened"
+   "territum" "having been frightened"
+   "territus" "having been frightened"
    "terruērunt" "they frightened"
    "terruit" "he frightened"
    "terrēre" "to frighten"
@@ -16547,6 +16561,12 @@
    "tremefactus" "having been caused to tremble"
    "tremefacere" "to cause to tremble"
    "tremefaciō, tremefacere, tremefēcī, tremefactus" "to cause to tremble"
+
+   "tremens" "trembling"
+   "tremis" "you tremble"
+   "tremō" "I tremble"
+   "tremere" "to tremble"
+   "tremō, tremere, tremuī, - " "to tremble"
 
    "trepidōs" "agitated, nervous"
    "trepidus, trepida, trepidum" "agitated, nervous"
