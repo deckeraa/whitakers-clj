@@ -2829,6 +2829,7 @@
    "auream" "golden"
    "aureōs" "golden"
    "aureum" "golden"
+   "aureus" "golden"
    "aureus, aurea, aureum" "golden"
 
    "aurem" "ear"
@@ -2894,6 +2895,10 @@
 
    "babylōniae" "Babylon"
    "Babylōnia, Babylōniae" "Babylon"
+
+   "baculō" "staff, walking stick"
+   "baculum" "staff, walking stick"
+   "baculum, baculī" "staff, walking stick"
 
    "baiulābat" "he bore, carried"
    "baiulant" "they bear, carry"
@@ -3389,6 +3394,11 @@
    "carbōnis" "charcoal, coal"
    "carbō, carbōnis" "charcoal, coal"
 
+   "cardinēs" "hinge"
+   "cardinibus" "hinges"
+   "cardō" "hinge"
+   "cardō, cardinis" "hinge"
+
    "carduī" "of wild thistle, artichoke"
    "carduus, carduī" "wild thislte, artichoke"
 
@@ -3477,6 +3487,7 @@
 
    "catēna" "chain"
    "catēnae" "chains"
+   "catēnam" "chains"
    "catēnīs" "chains"
    "catēna, catēnae" "chain"
 
@@ -3521,6 +3532,8 @@
 
    "cēderent" "they might yield"
    "cēdēs" "you will yield"
+   "cēdit" "he yields"
+   "cēdere" "to yield"
    "cēdō, cēdere, cessī, cessus" "to yield"
    
    "celebrābis" "you will celebrate"
@@ -3768,6 +3781,7 @@
    "clāmābāmus" "we were shouting"
    "clāmābant" "they were shouting out"
    "clāmat" "he shouts"
+   "clāmāns" "shouting"
    "clāmantēs" "shouting"
    "clāmāre" "to shout"
    "clāmāvit" "he shouted"
@@ -3802,6 +3816,8 @@
    "clausa" "having been closed"
    "clausīs" "having been closed"
    "claudit" "he closes"
+   "clauditur" "it is being closed"
+   "clausit" "he closed"
    "clausum" "having been closed"
    "claudere" "to close"
    "claudō, claudere, clausī, clausus" "to close"
@@ -4201,6 +4217,7 @@
    
    "cōnārētur" "they (might) have tried"
    "cōnantur" "they attempt"
+   "cōnātur" "he attempts"
    "cōnārī" "to try, to attempt"
    "cōnor, cōnārī, cōnātus sum" "to try, to attempt"
 
@@ -4406,6 +4423,7 @@
 
    "coniūncta" "having been joined together"
    "coniungitur" "it is joined together"
+   "coniunguntur" "they are joined together"
    "coniungere" "to join together"
    "coniungō, coniungere, coniūnxī, coniūnctus" "to join together"
 
@@ -5077,6 +5095,7 @@
    "cūstōdiēbāmus" "we were guarding"
    "custōdiēbant" "they were guarding"
    "custōdiendum" "guarding"
+   "cūstōdit" "he guards"
    "custōdīret" "he was guarding"
    "custōdīrent" "they were guarding"
    "custōdīvit" "he guarded"
@@ -5395,6 +5414,7 @@
    "dēns" "tooth"
    "dentem" "tooth"
    "dentēs" "teeth"
+   "dentibus" "teeth"
    "dentis" "tooth's"
    "dēns, dentis" "tooth"
 
@@ -5444,6 +5464,10 @@
    "dērelīquērunt" "they abandoned"
    "dērelinquere" "to abandon"
    "dērelinquō, dērelinquere, dērelīquī, dērelictus" "to abandon"
+
+   "dērīdet" "he mocks, laughs at"
+   "dērīdēre" "to mock, laugh at"
+   "dērīdeō, dērīdēre, dērīsī, dērīsus" "to mock, laugh at"
 
    "deī" "god, diety"
    "deō" "god"
@@ -6091,8 +6115,10 @@
    "dormiam" "I will sleep"
    "dormiās" "you (might) sleep"
    "dormiēns" "sleeping"
+   "dormiente" "sleeping"
    "dormientēs" "sleeping"
    "dormīmus" "we sleep"
+   "dormītum" "having slept"
    "dormīvērunt" "they slept"
    "dormīvit" "he slept"
    "dormī" "sleep!"
@@ -6371,6 +6397,12 @@
    "episcopus" "bishop"
    "episcopus, episcopī" "bishop"
 
+   "epistula" "letter"
+   "epistulae" "letters"
+   "epistulam" "letter"
+   "epistulās" "letters"
+   "epistula, epistulae" "letter"
+
    "equestrī" "knight"
    "equestribus" "knights"
    "equester, equestris" "knight"
@@ -6462,6 +6494,10 @@
    "ērumpentibus" "breaking out, erupting"
    "ērumpere" "to break out, erupt"
    "ērumpō, ērumpere, ērūpī, ēruptus" "to break out, erupt"
+
+   "erum" "master, owner"
+   "erus" "master, owner"
+   "erus, erī" "master, owner"
    
    "ēscīs" "food, victuals, bait"
    "ēsca" "food, victuals, bait"
@@ -6561,6 +6597,7 @@
    "excellentius" "more excellent"
    "excellēns, excellentis (gen.), excellentior -or -us, excellentissimus -a -um" "excellent"
 
+   "exclāmat" "he exclaims"
    "exclāmāvērunt" "they exclaimed, cried out"
    "exclāmāre" "to exclaim, cry out"
    "exclāmō, exclāmāre, exclāmāvī, exclāmātus" "to exclaim, cry out"
